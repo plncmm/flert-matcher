@@ -1,9 +1,0 @@
-On February 1, 2020, a 64-year-old woman came to the emergency department complaining of fever of 7 days of evolution, with a maximum temperature of 38.7 °C, dyspnea and chest discomfort, little expectoration.
-He had returned to Hangzhou (China) from Malaysia seven days before.
-Physical examination revealed no dry or wet rales in both lungs and a temperature of 37.3 °C, pulse of 92 l.p.m., respiratory rate of 18 r.p.m.
-and blood pressure 113/79 mmHg.
-The analytical tests gave a leukocyte formula of 2.5 x 109 cells/mL, with 63.3% neutrophils and 29.2% lymphocytes; the value of C-reactive protein was 3.62 mg/L.
-Sputum tests for influenza A+B (by real-time RT-PCR) were negative.
-The patient's pulmonary CT scans showed several ground-glass shadows with diffuse edges and irregular densities in the peripheral and posterior areas of the lungs, basically subpleural.
-These images agreed with previous radiological manifestations of coronavirus 2019 disease (COVID-19).
-Subsequently, real-time fluorescence RT-PCR detected SARS-CoV-2 RNA and the patient was diagnosed with COVID-19.

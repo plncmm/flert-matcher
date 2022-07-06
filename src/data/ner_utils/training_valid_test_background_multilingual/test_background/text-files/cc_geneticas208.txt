@@ -1,7 +1,0 @@
-Paciente de sexo masculino de 23 arios que consulta en el Servicio de Glaucoma para evaluación. Es el hermane) menor del paciente del primer caso. Presentaba dismorfismo facial muy semejante y también le había sido diagnosticado queratocono pero no glaucoma.
-Al examen oftalmológico se constató AV csmc OD: 20/25 (cil -5,00 x 10°) y OI: 20/40 (cil -4,50 x 180°). En la biomicroscopía se observó afinamiento corneal compatible con queratocono en AO y leucoma central en OI. La PIO (GAT) fue AO 10 mmHg. El espesor centrocorneal con paquímetro ultrasónico fue OD 449 pm y OI 425 pm. La gonioscopía no mostró alteraciones en el segmento anterior. En el fondo de ojos se observó que ambos discos ópticos presentaban excavación fisiológica (AO 0.4 x 0.4).
-
-Se realizó medición de PIO con ORA, obteniéndose OD PIO gat 10.4, PIO corregida 15.7, CH 6.6 y CRF 5.6, OI PIOgat 10.5, PIOcorregida 14.4, CH 7.9 y CRF 6.8. En este caso y al igual que el anterior, el leucoma central en OI podría explicar el aumento en CH y CRF (viscosidad y elasticidad) con respecto del otro ojo a pesar de tener un espesor centrocorneal menor. Dados los valores obtenidos de PIO por GAT y ORA se decidió la observación periódica y control por GAT.
-
-DIAGNOSTICO:
-Síndrome de Saethre-Chotzen (SSC)

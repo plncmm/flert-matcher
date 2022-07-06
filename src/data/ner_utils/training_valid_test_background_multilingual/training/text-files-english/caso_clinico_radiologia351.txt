@@ -1,8 +1,0 @@
-Clinical data: A 2-year-old pre-selective patient who was previously asymptomatic began with sudden headache and vomiting.
-She has no diarrhea or fever.
-She was treated with augmentine for 6 days due to a seizure disorder.
-Cerebral venous thrombosis is suspected.
-Description of the findings: Contrast-enhanced computed tomography (CT) of the brain ruled out venous thrombosis. Venous thrombosis was ruled out and left temporal-parietal medial temporal-cortical hypodensity was observed.
-Findings suggestive of viral encephalitis.
-It is confirmed with positive lumbar puncture for adenovirus.
-Diagnosis: Adenovirus encephalitis.

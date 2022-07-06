@@ -1,8 +1,0 @@
-A 49-year-old man, otherwise healthy, with fever, myalgia and dry cough of 1 week duration.
-Few hours after admission, the patient presented difficulties in establishing objects, spatiotemporal disorientation, confusion and restlessness.
-A chest CT scan showed bilateral peripheral opacities suggestive of COVID-19 pneumonia.
-Cranial CT and MRI obtained two days later were irrelevant.
-CSF showed▁lymphocytic pleocytosis and proteinorrhachia.
-Empirical treatment was initiated with a virologic agent, ampicillin and ceftriaxone, which became interchangeable as cultures and PCR of CSF yielded negative results.
-PCR for SARS-CoV-2 was positive in nasopharyngeal swabs but negative in CSF.
-Three days later, the patient had recovered normal, except for amnesia of the previous days.

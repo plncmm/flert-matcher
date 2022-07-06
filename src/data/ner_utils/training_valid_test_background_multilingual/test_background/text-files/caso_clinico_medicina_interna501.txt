@@ -1,9 +1,0 @@
-Mujer de 51 años, con antecedentes de tabaquismo activo (índice acumulado de 14 paquetes-año), derivada a consulta de Cardiología desde Urgencias por bigeminismo ventricular. Niega historia familiar de cardiopatía o muerte súbita. Refiere un cuadro de un mes de evolución de astenia asociada a palpitaciones de corta duración diarias. La exploración física no muestra soplos ni datos congestivos. Se completa el estudio con:
-- Hemograma y bioquímica: CPK elevada (527 U/L, límites de normalidad 24- 190). Resto de parámetros normales.
-- Radiografía de tórax sin hallazgos patológicos.
-- ECG: Ritmo sinusal a 60 lpm. Bloqueo auriculoventricular de primer grado. QRS estrecho con trastorno de la conducción intraventricular y fragmentado en cara inferior. Onda Q en V6, aVL y I.
-- Ecocardiografía transtorácica: Ventrículo izquierdo (VI) ligeramente dilatado con disfunción sistólica moderada [fracción de eyección de VI (FEVI) 35-40%].
-- Holter-ECG de 24h: Abundantes extrasístoles ventriculares politópicas (4485 EV).
-- Cardio-RMN: VI dilatado con FEVI 38%. Hipoquinesia difusa más marcada a nivel inferolateral. Sin realces tardíos.
-Ante un síndrome de miocardiopatía dilatada con las alteraciones electrocardiográficas descritas y elevación de CPK, se sospecha una miopatía. Se solicita estudio genético de miocardiopatía dilatada que muestra una mutación patogénica (duplicación frameshit de exones 19>43 en heterocigosis) del gen responsable de la distrofia muscular de Duchenne (DMD).
-Tras tres años de seguimiento, permanece en clase funcional I de la NYHA con tratamiento óptimo de insuficiencia cardiaca. La electromiografía y la electroneurografía son normales. El estudio familiar detecta únicamente una hija portadora sin expresión fenotípica hasta el momento.

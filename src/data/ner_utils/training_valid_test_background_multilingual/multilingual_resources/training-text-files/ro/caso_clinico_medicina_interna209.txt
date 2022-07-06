@@ -1,9 +1,0 @@
-Bărbat în vârstă de 18 ani, care a consultat pentru febră intermitentă de până la 39oC în ultima lună, însoțită de disconfort abdominal, dureri articulare și astenie; singurul său istoric a fost o febră de origine necunoscută la vârsta de 8 ani, pentru care a trebuit să fie internat timp de 2 luni, fără răspuns la antibiotice. Examenul a evidențiat o limfadenopatie axilară dreaptă și stângă de 1-1,5 cm, nu pietroasă, dureroasă sau aderentă, fără alte constatări.
-A fost pus următorul diagnostic diferențial:
-- Infecțioase: infecții virale (EBV, MVC, HSV, HIV, HCV, HBV, HAV), infecții atipice:
-serologia coxiella, borrelia, brucella, Lues, (febra Q, boala Lyme).
-- Hipotiroidismul.
-- Autoimună: LES, amiloidoză, sarcoidoză.
-- Sindromul autoinflamator (febra mediteraneană familială, TRAPS...),
-- Neoplastic: limfom.
-- Sindromul de malabsorbție intestinală: boala celiacă.

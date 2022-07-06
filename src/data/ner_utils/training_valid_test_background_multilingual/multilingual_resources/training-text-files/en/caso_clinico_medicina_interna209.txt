@@ -1,9 +1,0 @@
-An 18-year-old male, who consulted for intermittent fever of up to 39oC for the last month, accompanied by abdominal discomfort, joint pain and asthenia; his only history was fever of unknown origin at the age of 8 years, for which he needed to be admitted for 2 months without response to antibiotics. Examination revealed right and left axillary lymphadenopathy of 1-1.5 cm, not stony, painful or adherent, with no other findings.
-The following differential diagnosis was made:
-- Infectious: viral infection (EBV, MVC, HSV, HIV, HCV, HBV, HAV), atypical infections:
-coxiella serology, borrelia, brucella, Lues, (Q fever, Lyme disease).
-- Hypothyroidism.
-- Autoimmune: SLE, amyloidosis, sarcoidosis.
-- Autoinflammatory syndrome (Familial Mediterranean fever, TRAPS...),
-- Neoplastic: lymphoma.
-- Intestinal malabsorption syndrome: celiac disease.

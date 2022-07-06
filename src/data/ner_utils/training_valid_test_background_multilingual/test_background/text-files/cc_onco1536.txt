@@ -1,8 +1,0 @@
-Anamnesis
-Mujer de 72 años, remitida por su Médico de Atención Primaria al Servicio de Hematología para estudio de neutrofilia detectada en analítica de rutina.Sin antecedentes hematológicos familiares, ni personales. Epilepsia en tratamiento con Lamirtal 200. No síntomas B. Resto de anamnesis sin datos significativos. No adenopatías en cadenas accesibles. No esplenomegalia palpable. Resto de exploración sin datos significativos.
-ANALÍTICA : Leucocitos  31.4 miles/mm3, Hb 13 g/dL, V.C.M 88.6 fL, Plaquetas 355 miles/mm3, Fórmula Leucocitaria : Basófilos 8 %, Eosinofilos 5 %, Segmentados 31 %, Cayados 11 %, Metamielocitos 13 %, Mielocitos 6 %, Blastos 1 %, Linfocitos 13 %, Monocitos 12 % ; V.S.G. 31 mm/hora, Reticulocitos (abs.) 104.48 miles/mm3, LDH 420 U/L. 
-ASPIRADO DE MÉDULA ÓSEA: Celularidad aumentada, con predominio de elementos neutrofílicos en todos los estadios madurativos. Blastos 1,3 % . 
-CARIOTIPO DE MÉDULA ÓSEA  46,XX,t(9;22)(q34;q11.2) en las 20 metafases estudiadas. 
-BIOLOGÍA MOLECULAR EN MÉDULA ÓSEA Y SANGRE PERIFÉRICA  Presencia de reordenamiento bcr/abl correspondiente a una traslocación t(9;22) del tipo p190, y ausencia de reordenamiento correspondiente a los tipos p210 y p230.  Ratio normalizado 49 % (sangre periférica) y 47 % (médula ósea) 
-ECOGRAFÍA ABDOMINO-PÉLVICA : Bazo de 12 cm. de diámetro, ecogenicidad normal. Resto normal. 
-EVOLUCIÓN : Se inició tratamiento con Imatinib (Glivec® 400 mg / 24 h) comprobándose normalización de la cifra de neutrófilos y desaparición de elementos inmaduros al mes de iniciado el tratamiento. El estudio de médula ósea a los 6 meses de tratamiento puso de manifiesto un cariotipo normal en 25 metafases analizadas, y una Ratio normalizada de 3,71 %. 
