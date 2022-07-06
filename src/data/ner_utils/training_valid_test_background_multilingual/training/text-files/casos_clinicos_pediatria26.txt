@@ -1,0 +1,43 @@
+MOTIVO DE CONSULTA
+• Lactante de 14 meses que acude a urgencias el 15-03-20 por dificultad respiratoria.
+• Presenta cuadro catarral desde hace una semana con broncoespasmo asociado en tratamiento con salbutamol 4 puff cada 8 horas. Refieren aumento de la dificultad en la últimas horas.
+
+MOTIVO DE CONSULTA
+• Febrícula de 37,7oC con pico febril aislado de 38oC en las últimas 48 h. Algún vómito de contenido mucoso, desencadenado por la tos. Deposiciones normales.
+• Madre sanitaria en aislamiento por contacto directo con COVID-19.
+
+ANTECEDENTES PERSONALES
+• Recién nacido a término. Periodo neonatal normal.
+• Asma inducido por virus en tratamiento con salbutamol a demanda.
+
+EXPLORACIÓN FÍSICA
+• A su llegada a urgencias se constata Sat. O2 del 86% junto con taquipnea y tiraje universal. Ta 37,5oC.
+• Aceptable estado general. Coloración cutáneo- mucosa normal. No exantema ni petequias.
+• AP: Aceptable entrada de aire bilateral con subcrepitantes dispersos.
+• Resto de exploración física normal.
+
+EXPLORACIONES COMPLEMENTARIAS
+RX TÓRAX
+Infiltrado intersticial bilateral. Infiltrado alveolar retrocardiaco. Senos costofrénicos libres.
+• Gases venosos: pH 7,36, pCO2 40,4 mmHg, pO2 40,9 mmHg, Bicarbonato 22,7 mmol/L, Exc Base -2,4
+• PCR Virus Gripe: NEGATIVA.
+• PCR VRS: POSITIVA
+Por época epidémica COVID-19 y madre en contacto con paciente positivo, se solicita PCR SARS-CoV-2.
+
+EVOLUCIÓN
+• A su llegada se administra oxigenoterapia con mascarilla venturi a un flujo 8 lpm (FiO2 31%), así como tratamiento broncodilatador (Salbutamol+ Bromuro de Ipratropio)+ Metilprednisolona a 2mg/kg vo.
+• Se decide hospitalización ante necesidad de oxigenoterapia complementaria por persistencia de hipoxemia.
+• Al ingreso se extrae analítica ordinaria donde se observa una leve leucocitosis 11310 (5940N 4160L), PCR: 8,7 mg/L, LDH 284, CK 49, GPT 12, glucosa 116 y urea 31. En las primeras 24 horas se obtiene un resultado NEGATIVO en la PCR para SARS-CoV-2.
+• Durante el ingreso permanece afebril, en tratamiento con Ampicilina 200mg/kg/día por infiltrado en lóbulo medio, así como tto broncodilatador (Salbutamol y Bromuro de ipratropio) en cámara junto con Metilprednisolona en pauta descendente.
+• Precisa oxigenoterapia de alto flujo (máximo 12 l.p.m con FiO2 55%) para mantener saturaciones en rango, que se puede descender progresivamente, hasta suspenderse 48 h antes del alta. Alta el tercer día de ingreso dada la buena evolución.
+
+DIAGNÓSTICOS
+• Crisis asmática moderada secundaria a infección por VRS.
+• NeumoníaLMD.
+
+TRATAMIENTO
+• Salbutamol, con cámara espaciadora y mascarilla, a demanda.
+• Paracetamol, si fiebre.
+• Amoxicilina 80mg/kg/día hasta completar 7 días de tratamiento.
+• Se dan pautas de alarma y hoja informativa de recomendaciones.
+• Se indica seguimiento telefónico de evolución de enfermedad por su pediatra de atención primaria.

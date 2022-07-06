@@ -1,0 +1,22 @@
+Anamnesi
+Un uomo di 48 anni, senza storia passata, è venuto al dipartimento di emergenza con dolore addominale, febbre, difficoltà a passare le feci e l'inizio della minzione della durata di 2 settimane.
+
+Esame fisico
+Addome: morbido, depressibile, doloroso alla palpazione nella fossa iliaca destra e nell'ipogastrio. Esame rettale: prostata leggermente ingrossata di consistenza normale, leggermente dolorosa alla palpazione.
+
+Test complementari
+- Radiografia addominale: segni di densità metallica nodulare punteggiata che, a causa della loro distribuzione, suggeriscono diverticoli con contenuto di bario, anche se potrebbero anche corrispondere ai resti di schegge o pellet.
+- Biochimica: proteina C-reattiva 24,5 mg/dl, creatinina 1,55 mg/dl, il resto normale. Sistema urinario: microematuria. Emogramma: nessuna alterazione.
+
+Diagnosi
+Prostatite acuta.
+
+Trattamento
+Ciprofloxacina 500 mg ogni 12 ore per 21 giorni.
+
+Evoluzione
+Quattro giorni dopo, il paziente è stato riammesso a causa di manifestazioni cliniche persistenti, associate a dolore alla natica destra che si irradia alla coscia, limitazione funzionale dell'anca omolaterale e pollachiuria. Gli esami del sangue e delle urine sono rimasti invariati, con urine ed emocolture negative. Una tomografia addominale computerizzata (TC) ha rivelato un ascesso dello psoas iliaco destro, che è stato trattato con antibiotica endovenosa ad ampio spettro e drenaggio percutaneo della raccolta. È stato isolato Enterococcus faecium multi-resistente. Nonostante sia stato dimesso con una terapia antibiotica orale con tre antibiotici adeguati all'antibiogramma, è stato riammesso in altre due occasioni a causa della recidiva e della persistenza della febbre. È stata tentata una nuova puntura percutanea, ma non è stato ottenuto alcun materiale fluido.
+Una TAC di controllo un mese dopo l'ultimo ricovero ha rivelato un'area ipodensa di 4,8 x 1,6 cm nella porzione più mediale dello psoas destro, diverticoli del sigma con segni di diverticolite acuta e contatto del sigma con lo psoas omolaterale, che ha attribuito come origine dell'ascesso.
+Durante i mesi successivi, il paziente si è presentato al pronto soccorso in numerose occasioni per sintomi clinici compatibili con un'infezione urinaria, microematuria e piuria, oltre a un dolore addominale persistente nell'ipogastrio, esacerbato dalla valsalva durante il passaggio delle feci; è stato trattato con vari antibiotici ad ampio spettro, a causa del ritrovamento di Escherichia coli BLEE, senza alcun miglioramento clinico. Infine, il paziente è stato valutato nel reparto di urologia per i sintomi della minzione irritativa, ed è stata eseguita un'ecografia del tratto urinario, che ha rivelato un ispessimento della mucosa, così come la cistoscopia, che ha rivelato un edema del pavimento vescicale di probabile origine estrinseca.
+Dato il persistente quadro clinico, si decise di eseguire un clistere opaco, con evidenza di diverticoli e nessuna evidenza di diverticolite, e una seconda TAC, che mostrava un ispessimento della parete dell'uretere destro, senza dilatazione, secondaria al preesistente ascesso psoas, così come la presenza di un'immagine lineare iperdensa non specifica nell'interno della vescica.
+Infine, è stato sottoposto a una cistoscopia flessibile diagnostica, che ha rivelato uno stuzzicadenti che è stato rimosso con un forcipe per corpi estranei. Dopo la sua rimozione, il paziente è stato dimesso con la completa scomparsa dei sintomi della minzione.

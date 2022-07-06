@@ -1,0 +1,28 @@
+Anamnesi
+Una donna di 36 anni della Guinea. È stata trattata con doxiciclina all'età di 20 anni. Nessuna storia familiare di cancro.
+Malattia attuale: tre giorni dopo il suo arrivo in Spagna, si è recata al pronto soccorso per un tumore indolore nel naso che si è sviluppato durante tre mesi e che è progressivamente aumentato fino a misurare 4 x 5 cm. Ha perso circa 10 kg di peso in due mesi. Inoltre, presenta dispnea con sforzo moderato. Si riferisce all'attività sessuale a rischio.
+
+Esame fisico
+Temperatura 37,9 oC, pressione 100/50 mm Hg, frequenza cardiaca 104 bpm, saturazione 97%. Faringe con presenza di tumori rosso-violacei su tutto il palato molle, adenopatie cervicali e sottomandibolari. Tumore nasale grande, lobulato, esofitico, rosso-violaceo. CA: ritmico. AP: murmure vescicolare conservato. ABD: morbido senza masse o megaliti. All'estremità inferiore sinistra, c'era un edema legnoso fino al ginocchio. Lesioni ipopigmentate nella regione pretibiale, lesioni verrucose rossastre sulla pianta del piede. Lesioni maculari ipervascolarizzate sul ginocchio destro.
+
+Test complementari
+"CBC: anodino tranne il CRP: 56,80 mg/l (meno di 5). RPR-, IgG toxo+, IgG CMV+, anti-HCV-, anti-HBc+, anti-HBs+, HBsAg-, anti-HAV+. Inoltre, brucellosi, Rickettsia, Treponema pallidum, Bartonella e Plasmodium falciparum sono stati esclusi.
+"Era positivo all'HIV con 375 CD4 e 41.000 di carica virale. Non aveva mutazioni negli inibitori della trascrittasi.
+"Radiografia del torace: infiltrati interstiziali prevalentemente nei lobi superiori e posteriori, principalmente nella LSI sotto forma di atelectasia.
+"Eco Doppler dell'arto inferiore sinistro che mostra un esteso trombo nella vena femorale comune, nella vena femorale superficiale e nella vena poplitea sinistra.
+"Studio di coagulazione completo senza risultati rilevanti.
+"Espettorato x 3: Mycobacterium tuberculosis è stato isolato.
+"TAC: polmone con foci multipli e diffusi di consolidamenti pseudonodulari bilaterali, cavitati o con tendenza alla cavitazione, prevalentemente nei lobi superiori e nei segmenti superiori dei lobi inferiori. Adenopatie reattive ilari multiple bilaterali e nello spazio subcarinico.
+"Biopsia cutanea del ginocchio e del naso: proliferazione di cellule fusate con atipia e mitosi, insieme a fessure vascolari e stravaso ematico possono essere visti nel derma. Mostrano l'immunoespressione per l'HHV-8. Diagnosi del sarcoma di Kaposi.
+
+Diagnosi
+"Malattia da HIV, stadio C2. (375 CD4 e 41000 CV); MAR HLA B5701 negativo. RPR-, IgG toxo+, IgG CMV+, anti-HCV-, anti-HBc+, anti-HBs+, HBsAg-, anti-HAV+. raltegravir (RAL), tenofovir (TDF), emtricitabina (FTC).
+"Tubercolosi polmonare.
+"Sarcoma di Kaposi al IV stadio.
+"Trombosi venosa profonda femorale comune, superficiale e poplitea inferiore.
+
+Trattamento
+Il paziente, mentre era in isolamento respiratorio, ha iniziato il trattamento con etambutolo, rifampicina e pirazinamide. Dopo due settimane di tubercolostatici, la terapia antiretrovirale è stata iniziata con tenofovir, emtricitabina e raltegravir (quest'ultimo in dosi doppie a causa della sua interazione con la rifampicina, che induce l'enzima che metabolizza i farmaci del citocromo P450). A causa di possibili interazioni e in previsione di iniziare il trattamento oncologico, l'anticoagulazione con eparina a basso peso molecolare è stata interrotta, e il 7/10/16 ha iniziato un trattamento oncologico palliativo con lo schema pegilato (sic) Adria (Caelyx®) (Caelyx®) di cui ha ricevuto 7 cicli fino al 30/5/2017. La dose ha dovuto essere ritardata diverse volte a causa della neutropenia G3.
+
+Evoluzione
+Il paziente, dopo 7 cicli di trattamento, ha mostrato una risposta quasi completa in tutte le lesioni: particolarmente degno di nota è il miglioramento significativo nella lesione del naso nonostante i ritardi. Attualmente è in attesa di una valutazione da parte di Dermatologia al fine di eseguire un intervento di chirurgia estetica sulla lesione nasale. Inoltre, la paziente ha presentato neutropenia G:3 e la sua dose ha dovuto essere ritardata diverse volte, richiedendo un supporto con filgrastim. Rispetta bene la terapia antiretrovirale.

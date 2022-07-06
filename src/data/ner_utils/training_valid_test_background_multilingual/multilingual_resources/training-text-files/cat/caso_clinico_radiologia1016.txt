@@ -1,0 +1,17 @@
+Pacient de sexe masculí de 58 anys, amb antecedent d'hipertensió arterial, diabetis mellitus tipus 2 i depressió en tractament. Consulta per quadre d'al voltant de dos anys d'evolució de deterioració cognitiva progressiva. A l'ingrés es troba hemodinámicamente estable i afebril. En l'examen neurològic destaca desorientació témporo-espacial, dèficit d'atenció, alteració de la memòria i lleu anisocoria, sense una altra focalidad neurològica. En exàmens de laboratori s'objectiva funció renal i hepàtica sense alteracions, nivells de tiamina i vitamina B12 en rang normal i paràmetres inflamatoris no elevats.
+
+Diagnòstic:
+Neurosífilis amb manifestacions de les formes meningovascular i neuropsiquiátrica
+
+ 
+
+Resultat
+Es realitza una RM de cervell que mostra una lesió lentículo-capsular dreta hiperintensa en T2 i T2 FLAIR, que presenta realç després de l'administració de Gadolini i lleu hiperintensidad de senyal en seqüència de difusió, però sense restricció en el mapa ADC, compatible amb lesió isquèmica en etapa subaguda d'evolució. S'observa a més hiperintensidad de senyal en seqüències T2 i T2 FLAIR a nivell córtico-subcortical a la regió temporal mesial esquerra, comprometent el uncus i estenent-se cap al pol temporal anterior, sense representació en seqüència de difusió, amb canvis similars al costat dret, però de menor quantia. És evident moderada atròfia del parènquima encefàlic en forma difusa, objectivada per major grandària dels ventricles i major amplitud dels solcs corticals que l'esperat per a l'edat del pacient.
+
+Lesió lentículo-capsular dreta hiperintensa en T2 FLAIR i hipointensa en T1, que presenta realç després de l'administració de Gadolini i lleu hiperintensidad de senyal en seqüència de difusió, però sense restricció en el mapa ADC, compatible amb lesió isquèmica en etapa subaguda d'evolució.
+
+Hiperintensidad de senyal en seqüències T2 FLAIR a nivell córtico-subcortical a la regió temporal mesial esquerra, comprometent el uncus i estenent-se cap al pol temporal anterior, amb canvis similars al costat dret, però de menor quantia. La lesió descrita presenta lleu hipointensidad de senyal en seqüències T1, sense realç després de l'administració de Gadolini.
+
+Es realitza una punció lumbar que mostra LCR clar amb 5 leucòcits / mm3 (100% mononuclear), hiperproteinorraquia (256 mg/dl), glucorràquia normal (62 mg/dl) i tinció de Gram, tinció amb tinta Xinesa i baciloscopía negatives. Tenint en compte les troballes de la RM de cervell, es realitza PCR per a virus herpes simple tipus 1 i 2 en LCR que resulten negatives i VDRL i FTA-ABS en LCR que resulten reactius (dilució del VDRL 1:64). Un electroencefalograma realitzat el mateix dia evidencia lentitud del ritme de base, sense activitat epileptiforme. L'estudi d'infecció per VIH és negatiu.
+
+Es fa el diagnòstic de neurosífilis i s'instaura tractament amb Penicil·lina G 24 mU / dia per 14 dies, amb la qual cosa el pacient presenta millora parcial de la seva deterioració cognitiva i resolució de la anisocoria. És donat d'alta una vegada completat el tractament antibiòtic.

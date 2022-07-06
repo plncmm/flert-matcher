@@ -1,0 +1,20 @@
+Anamnesis
+Varón de 36 años de edad con antecedentes de rinosinusitis de repetición y neumotórax espontáneo. Era fumador activo, consumidor ocasional de cannabis y antiguo consumidor de cocaína (nasal y fumada). Acudió al Servicio de Urgencias por presentar cefalea de 7 días de evolución, de gran intensidad, continua (también nocturna), localizada a nivel periocular derecho. En los últimos días el dolor se había intensificado, haciéndose holocraneal y asociando lagrimeo ocular derecho, "tiritona" vespertina y fiebre con picos máximos de 40 oC. Había presentado náuseas y algún vómito, que el paciente asoció a la toma de ibuprofeno. No refería cuadro gripal, mialgias ni sintomatología a otros niveles. Al parecer, 2 meses antes había sufrido un cuadro similar, con cefalea ocular derecha, vespertina, de iguales características que el episodio actual aunque sin fiebre, que había cedido de forma espontánea en unos 10 días.
+
+Examen físico
+La exploración física general puso de manifiesto un paciente febril, asténico, aunque con buen estado general. En la exploración neurológica se observó rigidez de nuca final y maniobra de Lassègue positiva bilateral. Destacaba dolor a la palpación del ojo derecho y senos paranasales, y dolor con los movimientos oculares. El resto de la exploración neurológica y por aparatos no objetivó alteraciones a ningún nivel, excepto una boca séptica con presencia de caries.
+
+Pruebas complementarias
+• En la analítica realizada se objetivó leucocitosis (21.000/mcl) con desviación a la izquierda, PCR y procalcitonina elevadas considerablemente; y alteración importante de la coagulación. Se solicitó un rosa de Bengala, que resultó negativo.
+• Se realizó una tomografía computarizada (TC) craneal, en la que únicamente llamó la atención la presencia de pequeñas y escasas burbujas de aire extracerebral en la región frontal derecha.
+• Una punción lumbar puso de manifiesto la presencia de células en el líquido cefalorraquídeo (220 leucocitos/campo) con predominio de segmentados (95%), proteínas de 86 mg/dl y glucosa en rango normal. La tinción de Gram fue negativa. Con el diagnóstico de meningitis aguda por germen no filiado, se pauta tratamiento empírico de amplio espectro (ceftriaxona, vancomicina y ampicilina).
+
+Diagnóstico
+Empiema subdural frontal y meningitis aséptica relacionada con foco parameníngeo, secundarios a pansinusitis.
+
+Tratamiento
+A las 24 horas del ingreso, y debido a un empeoramiento clínico con tendencia a la somnolencia, se solicitó una nueva TC centrada en los senos, en la que se objetivó una pansinusitis derecha asociada a empiema subdural frontal derecho de 5 mm, con aire en su interior por conexión con el seno frontal derecho. Se solicitó valoración por Otorrinolaringología, siendo intervenido de forma urgente con apertura y drenaje de senos maxilar, etmoidal y frontal derechos, decidiendo el Servicio de Neurocirugía mantener una actitud expectante. Debido a un nuevo empeoramiento clínico y a una crisis epiléptica, se realizó una nueva TC craneal, que mostró la persistencia de la ocupación de los senos paranasales derechos y aumento del tamaño del empiema (13 mm) con desviación de la línea media cerebral de aproximadamente 6 mm, así como dos focos hipodensos corticales frontales compatibles con infartos cerebrales. Tras drenaje urgente del empiema, en las TC sucesivas se observó extensión del mismo a nivel temporal derecho, insinuándose en la convexidad parietal, lo que obligó a reintervención y craniectomía muy amplia.
+El cultivo del LCR y del material purulento extraído tanto del empiema como de los senos paranasales drenados fue negativo, pero se trató con terapia antibiótica de amplio espectro durante 8 semanas, presentando buena evolución clínica. Una resonancia magnética (RM) demostró reducción sustancial del empiema a nivel temporal.
+
+Evolución
+En posteriores RM de control se halló mejoría radiológica del empiema, persistiendo la pansinusitis. Fue dado de alta a la espera de reintervención para la colocación de un implante de bóveda craneal. Como secuela del episodio sufre una epilepsia sintomática que se encuentra en tratamiento.

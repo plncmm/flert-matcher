@@ -1,0 +1,26 @@
+Anamnesi
+Il paziente è arrivato al dipartimento di emergenza per l'esacerbazione del suo abituale dolore addominale, localizzato nell'epigastrio e irradiato a entrambi gli ipocondri, sordo e grave, di 8 su 10, che non si è placato con l'analgesia di primo passo, senza altri sintomi associati.
+
+Esame fisico
+All'arrivo al dipartimento di emergenza, la pressione sanguigna era 200/110 mm Hg. Dolore addominale alla palpazione nell'emiabdome destro, senza segni di irritazione peritoneale. Il resto dell'esame, compreso l'esame neurologico, era irrilevante.
+
+Test complementari
+Nell'ED, è stato osservato un peggioramento del suo schema abituale di colestasi (bilirubina 1,67, FA 406, GGT 739), aumento degli enzimi di citolisi (GOT 766, GPT 694) e aumento della troponina 0,7 e coagulopatia (INR 1,37 e fibrinogeno 244).
+Data l'alterazione analitica e il dolore addominale, fu eseguita una TAC dell'addome che mostrava infarti renali bilaterali e trombosi di un ramo dell'arteria epatica, con conseguenti aree ischemiche.
+A causa della presenza di coagulopatia e di infarti viscerali, è stata iniziata l'anticoagulazione con eparina a basso peso molecolare (LMWH). Inoltre, data l'alterazione del profilo epatico, è stato richiesto un test per i virus epatotropi (HBV, HCV, CMV e EBV), che è risultato negativo.
+Il paziente è stato ricoverato nel reparto di oncologia medica per ulteriori indagini.
+
+Diagnosi
+Endocardite romantica (ME) con coinvolgimento embolico sistemico (splenico, epatico, renale e del sistema nervoso centrale), manifestato da dolore addominale, episodio di amnesia globale transitoria e alterazione parossistica del livello di coscienza in un paziente con carcinoma duttale infiltrante di alto grado stadio IV del pancreas mucoso-secernente dovuto al coinvolgimento epatico.
+
+Trattamento
+HPBM per MS.
+
+Evoluzione
+L'ecoendoscopia è stata eseguita con biopsia per identificare il processo tumorale, che si è rivelato essere un carcinoma duttale infiltrante di alto grado del pancreas mucoso-secernente in stadio IV a causa del coinvolgimento del fegato.
+Durante l'ammissione, il paziente ha presentato un episodio di vertigini, sudorazione e una sensazione di perdita di forza nella mano sinistra, con pressione sanguigna elevata e un ECG normale. È stata richiesta una valutazione cardiologica urgente, compreso un ecocardiogramma transtoracico (TTE), che ha rivelato un'immagine dubbia di vegetazione sulla valvola aortica e una moderata insufficienza aortica. Si è deciso di estendere lo studio con l'ecocardiografia transesofagea (TEE). Infine, la TEE ha mostrato un'immagine compatibile con l'endocardite.
+In seguito a questa constatazione, sono state prese delle colture microbiologiche ed è stata iniziata una terapia antibiotica empirica con vancomicina, ampicillina e gentamicina. Le emocolture erano sterili e il paziente ha continuato senza febbre. Sono stati eseguiti un TTE e un TEE di follow-up, dove persisteva una massa aderente sul lato ventricolare del foglietto coronarico destro, che sembrava essere aumentata di dimensioni. Lo studio dei microrganismi che causano l'endocardite è stato esteso con emocolture negative: sierologia per febbre Q, Brucella e Chlamydia pneumoniae; e PCR per Bartonella, Borrelia, Coxiella e Rickettsia. Tutti erano negativi.
+Data l'associazione tra episodi parossistici di alterazione del livello di coscienza (che tendevano a coincidere con i momenti in cui la LMWH veniva occasionalmente sospesa) e un'immagine di endocardite, fu richiesta una TAC cranica, che risultò essere normale.
+In quel momento, fu preso in considerazione un episodio di amnesia globale transitoria che si era verificato 4 mesi prima e che, a priori, non era stato collegato alla malattia tumorale, poiché questo sintomo precedeva i sintomi costituzionali. Visto in prospettiva, non si poteva escludere che questo evento fosse legato all'attuale SM, per cui è stata richiesta una risonanza magnetica cranica, che ha mostrato infarti sovra e infratentoriali con un profilo lacunoso e tempi di evoluzione diversi, suggerendo un'origine tromboembolica cardiaca.
+Purtroppo, il profilo epatico del paziente ha cominciato a peggiorare progressivamente. Questo, associato a un marcato peggioramento clinico, ha fatto sì che il paziente non fosse candidato al trattamento chemioterapico e che si scegliesse il solo controllo sintomatico.
+

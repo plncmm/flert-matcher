@@ -1,0 +1,35 @@
+Anamnesis
+68-year-old woman, ex-smoker for more than 30 years. In 2007 she underwent conservative surgery for infiltrating ductal carcinoma of the right breast stage IA (pT1cN0), triple negative. She received adjuvant chemotherapy (6 cycles of CMF) and radiotherapy.
+In September 2018, she was referred to Internal Medicine after self-palpation of a nodule in the right supraclavicular region. Breast ultrasound and mammography showed right axillary lymphadenopathy and blood tests showed elevated CA 15.3. After an axillary biopsy confirmed carcinoma, a CT scan was performed, which only showed right axillary lymphadenopathy and bone scintigraphy (GGO), which only described hypercaptation in the left sacroiliac joint, which was not clearly pathological.
+In January 2019, a right axillary lymphadenectomy was performed, the result of which was metastasis of high-grade carcinoma with capsular overlap in six nodes (6/9). Immunohistochemistry showed intense positivity for oestrogen and progesterone receptor (80% and 50% respectively), Ki 67 proliferative index of 50-55% and negative HER-2.
+Before being assessed at the oncology clinic, she was admitted in February 2019 for holocranial headache, eyelid ptosis and diplopia as well as polydipsia, nocturia and polyuria of one week's duration.
+
+Physical examination
+Good general condition. In the neurological examination, palpebral ptosis, mydriasis, external ocular deviation and abolition of the photomotor reflex in the left eye were observed; the rest, no findings.
+
+Complementary tests
+Brain MRI showed a pituitary mass measuring 10 x 13 x 12 mm, which expanded and slightly occupied the sella turcica with cranial growth and thickening of the pituitary stalk, without affecting the optic chiasm, with moderate homogeneous enhancement after contrast.
+Hormonal study: hyperprolactinaemia, hypothyroidism, hypercortisolism and antidiuretic hormone deficiency.
+A new CT scan was requested, which revealed a sclerotic lesion on the iliac border of the left sacroiliac joint, followed by pelvic MRI to study the lesion, which was defined as a suspected sclerotic metastasis.
+Given the discrepancy between the phenotype of the carcinoma operated on in 2007 and the phenotype of the axillary lymphadenopathies, breast MRI was requested in search of a metachronous tumour, ruling out a second neoplasm.
+
+Diagnosis
+On the one hand, the diagnosis of a luminal occult breast tumour (TxN2M1) or relapse of triple negative with a different phenotype to the one presented in 2007 with doubts of a single bone metastasis.
+On the other hand, she presented hypopituitarism secondary to a selar lesion, which raises the differential diagnosis of breast carcinoma metastasis, infundibulohypophysitis or pituitary macroadenoma causing diabetes insipidus, mild hyperprolactinaemia and paralysis of the third cranial nerve.
+With a view to possible local treatment of the brain lesion and confirmatory study of the bone lesion (as it would be a single metastatic focus), it was decided to request a PET scan. This detected discrete uptake in the pituitary gland and a left sacroiliac bone lesion with a low rate of cell proliferation. It was therefore of no use in clarifying the nature of the lesions.
+
+Treatment
+It was decided to consult neurosurgery and, finally, to avoid local treatment of the pituitary lesion, given the complications it would entail, and systemic treatment of two pathologies was started:
+"Given the radiological evolution of the bone lesion and the increase in tumour markers, she starts treatment in March 2019 for advanced carcinoma with letrozole 2.5 mg/24 h and ribociclib 600 mg/24 h for 21/28 days.
+"Given the pituitary insufficiency, she started treatment with dexamethasone 4 mg/8 h, levothyroxine 25 mg/24 h and desmopressin 120 mcg/12 h sublingual, as indicated by Endocrinology.
+
+Evolution
+After the first course of treatment, the patient was admitted for an episode of G3 mucositis and oral thrush. She presented slow and torpid evolution of oropharyngeal lesions, with aphthous ulcers requiring local and systemic antifungal treatment (fluconazole 200 mg intravenous). Oral endoscopy ruled out complications.
+He presented haematological toxicity: G3 anaemia with transfusion requirement, G3 neutropenia and G2 thrombopenia. Liver function parameters were normal.
+In addition, the patient suffered a bilateral pneumococcal bronchopneumonia with bronchoscopy without isolation of other pathogens, also corroborated by normal serology and cytology.
+Simultaneously, she developed a pneumonia on the third finger of the left hand with isolation of penicillin-sensitive Streptococcus pyogenes, with good response to intravenous ceftriaxone, also adding prophylactic sulfamethoxazole-trimethoprim due to the use of corticosteroids.
+Subsequently, she presented with swelling, redness and oedema in the right lower limb, suggestive of cellulitis. Venous Doppler ultrasound ruled out thrombosis. The patient improved clinically after a course of intravenous antibiotic therapy with amoxicillin-clavulanic acid.
+Prior to discharge, a new GGO was performed which continued to show a focus of hypercaptation in the left sacroiliac joint which had increased in size and intensity with respect to the previous scan, suggestive of bone metastasis.
+After discharge from hospital, it was decided to discontinue ribociclib due to the adverse events experienced and to maintain letrozole.
+Three months after treatment, brain MRI showed adenohypophysis and neurohypophysis of normal size and morphology, with no evidence of compression or displacement of the pituitary stalk, with normal enhancement after contrast.
+Clinically, she is asymptomatic (without neurological deficit or endocrine symptoms) and with CEA 15.3 levels decreasing (100 U/ml at the beginning and 40 U/ml at present).

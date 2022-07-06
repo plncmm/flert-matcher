@@ -1,0 +1,68 @@
+Anamnesis
+Niña de 5 años remitida a consulta hospitalaria de Pediatría General para seguimiento de adenopatías.
+
+Aporta un informe de Urgencias donde refiere cuadro de cansancio de 1 semana de evolución, aparición de adenopatías axilares hace 2 semanas e inguinales derechas dolorosas hace 3 días, todas ellas menores de 0,5 centímetros, sin signos de inflamación, rodaderas y no adheridas.
+
+Aporta las siguientes pruebas complementarias:
+- Analítica de sangre:
+- Hemograma: leucocitos 5720/mm3 (linfocitos 3900/mm3, neutrófilos 1270/mm3), hemoglobina 13,1 g/dl con parámetros de serie roja normales, plaquetas 153 000/mm3.
+- Frotis: neutropenia leve confirmada, linfocitos de características linfomonocitoides.
+- Bioquímica: proteína C reactiva (PCR) <0,5 mg/dl, velocidad de sedimentación globular (VSG) 44 mm/h, función renal, glucosa, iones, función hepática, ácido úrico y LDH normales.
+- Coagulación: normal.
+- Serologías: IgM negativa para virus de Epstein-Barr (VEB), Toxoplasma gondii y citomegalovirus (CMV).
+- Ecografía abdominoinguinal: bazo de tamaño en límite alto de normalidad. Adenopatías mesentéricas subcentimétricas y adenopatías inguinales menores de 1 cm, con conservación de morfología e hilio graso, inespecíficas. Hay que correlacionarlo con el contexto clínico.
+
+Antecedentes personales.
+Vacunación según calendario. No alergias. No ingresos. No cirugías. Fármacos: desloratadina oral y corticoides tópicos nasales. Desarrollo ponderoestatural normal. Alimentación completa y variada acorde a su edad. Desarrollo psicomotor normal. Dolor abdominal recurrente. Otorrinolaringología (ORL): en seguimiento por síndrome de apnea-hipopnea del sueño (SAHS).
+
+Antecedentes familiares.
+Madre: trombocitopenia inmune y espondilitis anquilopoyética. Padre: asmático. No hay consanguinidad. Dos hermanos sanos. Varios familiares en rama materna con enfermedades reumáticas (espondilitis anquilopoyética, enfermedad inflamatoria intestinal).
+
+Exploración física
+Peso: 17,7 kg (P15, -1,05 desviaciones estándar [DE]). Talla: 116 cm (P48, -0,05 DE). Índice de masa corporal (IMC): 13,15 kg/m2 (P10, -1,28 DE). SC: 0,76 m2. Estándares empleados: Carrascosa et al., 2010.
+Neurológico: consciente y orientada, signos meníngeos negativos.
+General: buen estado general. Sin lesiones cutáneas. Normocoloreada. Bien nutrida e hidratada
+ORL: amígdalas hipertróficas. Resto de la exploración normal.
+Cuello: adenopatías laterocervicales e inguinales menores de 1 cm, rodaderas, no inflamadas y sin signos de alarma.
+Tórax: eupneica, sin dificultad respiratoria. Auscultacion cardiopulmonar normal.
+Abdomen: blando, sin masas ni megalias palpables, no doloroso.
+Extremidades: adenopatías laterocervicales y inguinales menores de 1 cm, rodaderas, no inflamadas y sin signos de alarma. 
+Seguimiento
+En consulta, se completa el estudio de adenopatías y neutropenia realizando las siguientes pruebas complementarias:
+
+Analítica de sangre.
+- Hemograma: leucocitos 3730/mm3 (linfocitos 2600/mm3, neutrófilos 600/mm3), hemoglobina 13,1 g/dl con parámetros de serie roja normales, plaquetas 115 000/mm3.
+- Frotis de sangre periférica: linfocitos de talla media y morfología variada, todos de aspecto maduro con citoplasma escaso, cromatina densa y sin nucleolo aparente, sin atipias. Abundantes 
+- Bioquímica: VSG 35 mm/h, función renal, función hepática, iones, glucosa, LDH y ácido úrico normales.
+- Serologías: IgM e IgG positivas para virus del herpes humano tipo-6 (VHH-6) e IgM positiva para Bartonella henselae (1/48). VEB, rubeola, toxoplasma, CMV, virus hepatitis A (VHA), virus de la hepatitis B, (VHB) virus hepatitis C (VHC) y virus de la inmunodeficiencia humana (VIH) negativos.
+
+Prueba de Mantoux: negativa.
+Exudado faríngeo: negativo.
+Radiografía de tórax: sin hallazgos.
+
+Nuestra paciente presenta positividad de los anticuerpos IgM para VVH-6 y para Bartonella henselae, sugestivos de infección reciente por estos microorganismos. Se decidió instaurar tratamiento para la Bartonella y comprobar en unas semanas la negativización de la IgM para Bartonella y VHH-6, como así ocurrió.
+
+A lo largo de los siguientes 4 meses, se realizan varios controles analíticos a la paciente. A pesar de que permanece asintomática y desaparecen las adenopatías, persiste la neutropenia, con cifra mínima de 500 neutrófilos/mm3, con el resto de las series del hemograma normales. Como único dato clínico de interés, refiere dolor abdominal periumbilical frecuente.
+
+Para completar estudio de neutropenia se le realizan las siguientes pruebas complementarias:
+- Marcadores de inflamación: VSG 69 mm/h, PCR 0 mg/dl.
+- Frotis de sangre periférica: anisocitosis sin poiquilocitosis. Neutropenia confirmada. Linfocitos maduros de morfología variada. Plaquetas confirmadas de talla media bien granuladas.
+- Perfil nutricional: vitamina B12, ácido fólico, cobre y ceruloplasmina normales.
+- Estudio de inmunidad: inmunoglobulinas y complemento normales.
+- Estudio de autoinmunidad: anticuerpos antinucleares y factor reumatoide negativos.
+- Estudio de quimiotripsina y elastasa fecales: normales.
+
+Ante la persistencia de neutropenia a los 6 meses de la primera analítica, la paciente es derivada a un hospital de referencia de hemato-oncología pediátrica, dónde se le realizan las siguientes pruebas:
+Hemograma en centro de referencia. Leucocitos normales (2300 neutrófilos/mm3), hemoglobina y plaquetas normales.
+Citometría de flujo. Neutropenia leve con recuento de linfocitos totales normal y una correcta distribución en linfocitos T, B y NK para la edad de la paciente. El inmunofenotipo de cada una de las subpoblaciones linfocitarias es compatible con la normalidad. Neutrófilos correctamente granulados y con una expresión conservada de CD16. No se observan blastos CD34+. No se observa un aumento de monocitos.
+Test de capacidad oxidativa de los neutrófilos. La actividad oxidativa de los neutrófilos y monocitos de sangre periférica, medida por la capacidad de oxidación de la di-hidro-rodamina mediante citometría de flujo, es similar a la observada en la muestra control.
+Dado que en el centro de referencia presenta un número de neutrófilos normales con el resto de las pruebas complementarias sin hallazgos, no se amplió el estudio y se remitió de nuevo a consulta de Pediatría general.
+Aunque no existe un protocolo establecido de actuación tras la recuperación de la neutropenia, se debería confirmar dicha recuperación al menos en dos ocasiones antes del alta definitiva de la consulta.
+Por ello, se decide solicitar un hemograma de control. 3850 leucocitos/mm3 (3000 linfocitos/mm3, 500 neutrófilos/mm3), hemoglobina 12,6 g/dl con parámetros de serie roja normales salvo RDW 17,9%, 159 000 plaquetas.
+
+Ante la persistencia de la neutropenia, se decide remitir de nuevo a centro de referencia de hemato-oncología pediátrica para realización de
+
+Anticuerpos antineutrófilos: negativos en dos determinaciones.
+Aspirado/biopsia de médula ósea: hipoplasia de la serie mieloide y marcados rasgos de dishematopoyesis de las tres líneas hematopoyéticas. Blastos 4%. Compatible con síndrome mielodisplásico infantil. Estudio citogenético: estudio de 33 células en metafase. Cariotipo 45 XX, -7[23]/46,XX[10]. El 84% de las células presenta monosomía del par cromosómico 7. Clon celular descrito de alto riesgo de evolución.
+
+Actualmente la paciente persiste asintomática tras realización de trasplante de alogénico de progenitores hematopoyéticos.

@@ -1,0 +1,24 @@
+História clínica. Anamnese
+Esta é uma jovem mulher de 19 anos que veio ao departamento de Medicina Interna encaminhada pelo Departamento de Emergência para avaliação de múltiplas erupções cutâneas em diferentes fases, dolorosas, centradas no tornozelo direito juntamente com artralgia, de meses de evolução. Não houve nenhum gatilho aparente ou processo infeccioso recente. Afebrile. Nenhum historial gastrointestinal ou respiratório claro ou picadas de artrópodes. Nenhuma outra manifestação clínica de acompanhamento.
+
+História pessoal e/ou familiar
+Não se conhece RMA. Sem hábitos tóxicos. Nenhuma doença de interesse médico Foi excluída uma história de doença reumática em parentes de primeiro grau.
+
+Exame físico
+Paciente em bom estado geral. Consciente, orientada e cooperativa. Sinais vitais normais. Afebrile. Bem hidratado e perfumado. Sem linfadenopatias cervicais. Eupneic. PCA: Tons puros e rítmicos. Murmúrio da bexiga preservado. Abdómen: Anodyne. Nos membros inferiores, havia placas endurecidas, ligeiramente exsudativas, dolorosas com vesiculação central, coalescentes entre elas, distribuídas ventralmente e bilateralmente em ambos os membros inferiores. Sem lesões plantares ou outras descobertas.
+
+Testes complementares
+- Hemograma: O hemograma não era notável. Uma taxa de sedimentação glomerular um pouco elevada (ESR): 14/46. A coagulação era normal. Bioquímica: glucose, função renal, bilirrubina total, GOT, GPT, GGT, LDH, FA, amilase, lipase, imunoglobulinas, complemento, CRP, RF e proteinograma dentro da normalidade. Anticorpos antifosfolipídicos negativos, ANA negativo e antiDNA.
+- Mantoux negativo. Raio-X ao tórax: anodo.
+- TAC ao tórax: nódulo milimétrico de alta densidade no lobo inferior esquerdo, compatível com granuloma, não específico.
+- ANCA negativo, colagenose excluída, ASLO negativo.
+- Espirometria com FEV1: 77%; FVC: 78%; IT: 0,81.
+- Anatomia patológica (biopsia da lesão): edema dérmico superior com denso infiltrado inflamatório de neutrófilos polimorfonucleares (sugerindo o diagnóstico de síndrome de Sweet e excluindo linfoma cutâneo primário ou infecção subjacente.
+
+Diagnóstico diferencial no serviço de urgência e/ou em consultas internas de medicina e dermatologia: infecção cutânea (fungos e micobactérias), pioderma gangrenoso, sarcoma de Kaposi primário, vasculite (poliarterite nodosa cutânea, granulomatose de Wegener), eritema nodoso...
+
+Diagnóstico final
+Síndrome de Sweet (dermatose neutrofílica febril aguda).
+
+Evolução
+Durante a admissão, o paciente foi encaminhado para o Departamento de Dermatologia com um diagnóstico inicial de eritema nodoso devido a reactivação, de onde foi solicitada uma biópsia da lesão, confirmando o diagnóstico da Síndrome de Sweet. Após o rastreio da malignidade subjacente, foi iniciado o tratamento imunossupressor com glicocorticóides sistémicos (prednisona 5 mg/24 h oral inicialmente, que foi aumentada para 25 mg/24 h oral) ao qual foi adicionada indometacina (25 mg/12 h oral) mais tarde, sem sucesso. Após alguns meses, o doente apresentou uma evolução clínica fraca destas lesões com ulceração e colchicina (2 mg/24 h oral) e foram adicionados ao tratamento 2 semanas de doxiciclina (100 mg/12 h, oral), obtendo-se uma ligeira melhoria. Posteriormente a colchicina teve de ser retirada devido à intolerância do doente, e a corticoterapia (prednisona 25 mg/24h, oral) foi continuada. Após revisão da biopsia por dermatologia e confirmação do diagnóstico de SS, o paciente iniciou o tratamento com ciclosporina A na dose de 3,5mg/kg/dia, iniciando ao mesmo tempo uma evolução cónica de corticosteróides até atingir uma dose mínima de 5mg de prednisona por dia. Após 10 semanas de tratamento, o paciente teve uma excelente função renal e tolerância ao medicamento. Ela é actualmente mantida nesta dose e tem estado livre de lesões activas desde a semana 3 desta terapia, com uma clara melhoria desde a semana 5.

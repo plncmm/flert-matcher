@@ -1,0 +1,26 @@
+Anamnesis
+Mujer de 59 años de edad, con antecedentes personales de exfumadora de 8-10 cigarrillos/día hasta los 50 años, cólicos biliares de repetición por litiasis biliar, polipectomía colónica en 2006 (adenoma con displasia de bajo grado). Es estudiada en junio de 2010 por dolor abdominal difuso y alteraciones del ritmo intestinal, visualizándose en colonoscopia una lesión sospechosa de neoplasia a nivel de colon transverso que se confirma por biopsia. Tras ser descartada enfermedad metastásica, es intervenida en octubre de 2010 mediante hemicolectomía derecha con resultado anatomopatológico de adenocarcinoma de colon G2 pT3 N1b (3 ganglios afectados de 31 extirpados) M0 (estadio IIIB). Posteriormente, recibe tratamiento quimioterápico adyuvante con capecitabina 1.000 mg/m2 cada 12 horas vo día 1 a 14 más oxaliplatino 130 mg/m2 día 1 cada 21 días, completando un total de ocho ciclos hasta junio de 2011.
+Desde finales de septiembre de 2011, comienza con dolor epigástrico irradiado a hipocondrio derecho que se atribuyó a su colelitiasis. Es intervenida de forma programada mediante colecistectomía en diciembre de 2011, objetivándose durante el acto quirúrgico dos lesiones en segmentos V-VI hepáticos sugestivos de metástasis de hígado, por lo que se solicitan estudios complementarios para filiar la naturaleza de dichas lesiones.
+Tras la intervención, la paciente sigue presentando dolor punzante a nivel de epigastrio y paraesternal derecho, irradiado a región dorsal derecha, con importante impotencia funcional, no controlado con analgesia de tercer escalón (parche de fentanilo transdérmico 100 mcg/72 horas, pregabalina 75 mg cada 12 horas vo, duloxetina 30 mg cada 24 horas vo).
+
+Exploración física
+Valoración 3 en la escala ECOG por dolor. Nivel de dolor según EVA (escala analógica visual) 7.
+Peso 52 kg; talla 1,53 m. Superficie corporal 1,48 m2.
+Auscultación cardiorrespiratoria: sin hallazgos patológicos.
+Se palpa un nódulo de unos 3 cm a nivel paraesternal inferior derecho. No se palpan adenopatías.
+Abdomen blando y depresible, no doloroso a la palpación, sin masas. Resto de la exploración, normal.
+
+Pruebas complementarias
+• En las pruebas de laboratorio los parámetros bioquímicos fueron normales, salvo por leve aumento de fosfatasa alcalina y GGT. El hemograma presentaba una fórmula leucocitaria normal, sin evidencia de anemia ni trombocitopenia. La determinación del antígeno carcinoembrionario estaba en 12 ng/mL (rango normal de 0 a 3 ng/mL).
+• TC toracoabdominal: engrosamiento de la unión condroesternal de los dos últimos arcos costales derechos informado como posible síndrome de Tietze, sin apreciarse lesiones metastásicas hepáticas (TC: engrosamiento de la unión costroesternal derecha).
+• PET-TC: evidenció una lesión hipermetabólica de 30 x 18 mm en el extremo distal del esternón a nivel paramedial derecho sugestiva de malignidad (SUV máx 9,8) que corresponde a una lesión ósea con componente de partes blandas. No se evidenciaron lesiones sugestivas de malignidad en parénquima hepático (PET-TC: lesión hipermetabólica paraesternal derecha).
+• Se procedió a realizar una biopsia dirigida mediante tru-cut con resultado anatomopatológico de metástasis de adenocarcinoma bien diferenciado de origen colorrectal.
+
+Diagnóstico
+Metástasis ósea única a nivel condroesternal en paciente con adenocarcinoma de colon pT3 N1b intervenido, tras intervalo libre de enfermedad (ILE) de un año y cuatro meses.
+
+Tratamiento y evolución
+La paciente precisó colocación de bomba de infusión de cloruro mórfico intratecal a 0,5 mg/24 horas para el control del dolor con muy buena evolución, siendo el nivel de dolor según EVA de 3 tras dicho procedimiento.
+El caso fue presentado en Comité de Tumores de Tórax, donde se reúnen semanalmente las especialidades de Neumología, Cirugía Torácica, Medicina Nuclear, Oncología Médica y Oncología Radioterápica.
+Se decidió la resección de la lesión condroesternal, dadas su localización y características (metástasis única). La paciente se ha intervenido recientemente, procediéndose a la resección esternal parcial y cartílago conjugado bilateral con apertura de la cavidad pleural derecha ya que el tumor invadía la pleura a dicho nivel.
+Queda pendiente el resultado anatomopatológico definitivo de la pieza quirúrgica. Será valorada en consultas de Oncología para plantear tratamiento quimioterápico complementario.

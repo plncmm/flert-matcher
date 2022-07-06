@@ -1,0 +1,29 @@
+Istoric personal
+Bărbat în vârstă de 30 de ani, din Cadiz, fumător de 20 de țigări pe zi, fără criterii de bronșită cronică și consumator de băuturi alcoolice. Împreună cu partenerul său, a făcut o excursie de 40 de zile cu rucsacul în spate în nord-vestul Africii, vizitând atât zone rurale, cât și urbane: Maroc, Sahara Occidentală, Mauritania, Mali și Guineea Ecuatorială. El a primit sfaturi de călătorie la Centrul Internațional de Sănătate, cu chimioprofilaxie bine completată cu clorochină. A fost vaccinat împotriva meningococului tetravalent, a febrei galbene și a febrei tifoide orale. Ea nu a raportat niciun comportament cu risc specific în timpul călătoriei, cu excepția scăldatului în apă dulce în Bamako.
+
+Boala actuală
+La 24 de ore de la întoarcere, s-a prezentat la serviciul de urgență cu febră mare, frisoane, simptome catarale și cefalee holocraniană. După o evaluare inițială de bază și fără niciun focar aparent, a fost externat cu tratament cu amoxicilină/acid clavulanic.
+A consultat din nou 24 de ore mai târziu din cauza simptomelor febrile persistente, cefalee holocraniană, transpirație abundentă, rinoconjunctivită și tuse neproductivă.  Examenul fizic Pacientul avea tensiunea arterială 100/60; frecvența cardiacă 110 bpm; temperatura 37,8oC; saturația bazală a O2 98%; scor Glasgow 15/15. Era conștient și orientat, eupneic și bine perfuzat, cu limfadenopatii laterocervicale mici și elastice și fără cusături cranio-faciale dureroase. Auscultația cardiopulmonară și examenul abdominal au fost normale. Pielea prezenta o erupție cutanată maculară eritematoasă discretă pe trunchi și gât, fără leziuni peteșiale (inclusiv testul cu garou). Examenul neurologic nu a evidențiat semne meningeale sau focalitate.
+
+Examinări complementare
+Hemograma a arătat un număr normal de globule roșii, leucocite de 3.360/μL cu neutrofilie relativă, trombocite de 58.000/μL. Timpii de coagulare au fost: timp de protrombină 76%; timp de tromboplastină parțială activată normal; fibrinogen 450 mg/dL. Biochimia a arătat niveluri normale de glucoză, ioni, CPK, uree și creatinină. GOT/GPT 140/176 U/L; LDH 691 U/L; CRP 12,24 mg/dL. Analiza gazelor din sângele venos a arătat pH 7,41; pCO2 34 mmHg; HCO3 16 mEq/dL. Sedimentul urinar a prezentat semne de proteinurie. Radiografia toracică și ecografia abdominală au fost normale. Frotiul gros de sânge și frotiul de sânge periferic au fost negative, la fel ca și hemoculturile în serie. Serologia pentru virusurile hepatitei A, B și C, Coxiella, Borrellia, Rickettsia, dengue și HIV a fost negativă.
+
+Test de diagnosticare
+Plasmodium falciparum a fost observat în al doilea frotiu gros de sânge (la opt ore după primul, în momentul de vârf al febrei), cu un indice de parazitism de 1%.
+
+Judecata clinică
+Malarie severă complicată de Plasmodium falciparum.
+
+Evoluție
+S-a efectuat o acoperire antibiotică empirică inițială cu ceftriaxonă 2 g/24 h și doxiciclină 100 mg/12 h. Odată confirmată infecția cu Plasmodium falciparum, începerea tratamentului specific cu chinină a fost întârziată cu 29 de ore pentru calea orală și cu 48 de ore pentru calea intravenoasă din cauza lipsei de stocuri în spitalul nostru și în toate spitalele din regiune (Cádiz, Jerez, Algeciras și Sanlúcar). Odată obținut medicamentul, tratamentul a fost început mai întâi pe cale orală și apoi intravenos cu o perfuzie lentă de chinină (10 mg/kg/8 ore) plus doxiciclină 100 mg/12 ore pe cale orală, completând șapte zile de tratament. În primele 36 de ore petrecute pe secție, a avut o evoluție clinică proastă, cu apariția unor complicații succesive care au necesitat internarea în secția de terapie intensivă în a doua zi:
+- Hipoglicemie refractară în ciuda administrării unei soluții de glucoză 20%.
+- Parazitism de 12% în a treia-patrua zi, care, împreună cu restul complicațiilor, a făcut necesară luarea în considerare a unei transfuzii de schimb.
+- Date analitice timpurii ale insuficienței hepatice acute: timp de protrombină 45%; bilirubină până la 6 mg/dL; GOT/GPT cu valori de aproximativ 1200 U/L și factor V scăzut.
+- Anemie severă (hematocrit <20% la 72 h), care necesită transfuzie de patru pachete de globule roșii.
+- acidoză metabolică (pH 7,31; HCO3 11), care necesită un tratament agresiv cu terapie cu fluide sub controlul presiunii venoase centrale, fără a necesita medicamente vasoactive.
+- Tulburare cognitivă cu somnolență și lentoare ideomotorie, fără alte semne de malarie cerebrală, din a doua până în a cincea zi.
+- Insuficiență renală acută, cu creatinină maximă în a cincea zi de 5,2 mg/dL, cu hemoglobinurie documentată. A menținut o diureză acceptabilă pe tot parcursul tratamentului și nu a necesitat terapie de substituție renală.
+- Greață și vărsături incoercibile care necesită nutriție enterală în primele patru zile.
+- Infiltrat interstițial în lobul superior drept (deși fără dovezi de insuficiență respiratorie, astfel că a fost exclusă apariția tardivă a unei detrese respiratorii) și revenire febrilă în jurul celei de-a cincea zile, cu rezoluție radiologică după acoperire antibiotică empirică cu ciprofloxacină 200 mg/12 h intravenos.
+
+După șapte zile de spitalizare în secția de terapie intensivă, tratamentul s-a încheiat cu recuperare clinică generală, prezentând la externare insuficiență renală, cu niveluri de creatinină de aproximativ 3 mg/dL (MDRD 20 ml/min). În urma urmăririi ulterioare în ambulatoriu, funcția renală s-a normalizat.

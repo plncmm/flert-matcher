@@ -1,0 +1,25 @@
+Anamnesi
+El pacient acudeix a Urgències per exacerbació del seu dolor abdominal habitual, localitzat en epigastrio i irradiat a tots dos hipocondrios, sord i de forta intensitat, de 8 sobre 10, que no cedeix amb analgèsia de primer graó, sense altres símptomes associats.
+
+Exploració física
+A la seva arribada a Urgències, destaca una tensió arterial de 200/110 mm Hg. A nivell abdominal, presenta dolor a la palpació en hemiabdomen dret, sense signes d'irritació peritoneal. Resta d'exploració, inclosa la neurològica, anodina.
+
+Proves complementàries
+En Urgències s'objectiva un empitjorament del seu patró habitual de colèstasi (bilirubina de 1,67, FA 406, GGT 739), augment dels enzims de citólisis (GOT 766, GPT 694) i augment de troponinas 0,7 i coagulopatía (INR 1,37 i fibrinogen de 244).
+Donada l'alteració analítica i el dolor abdominal, es realitza una TC d'abdomen on s'observen infarts renals bilaterals i trombosis d'una branca de l'artèria hepàtica, amb àrees subseqüents isquèmiques.
+A causa de la presència de coagulopatía i infarts viscerals, s'inicia anticoagulació amb heparina de baix pes molecular (HBPM). Així mateix, donada l'alteració del perfil hepàtic, se sol·licita estudi de virus hepatotropos (VHB, VHC, CMV i VEB) que resulta ser negatiu.
+El pacient ingressa en planta d'Oncologia Mèdica per a estudi.
+
+Diagnòstic
+Endocarditis marántica (EM) amb afectació embólica sistèmica (esplènica, hepàtica, renal i del sistema nerviós central), manifestada per dolor abdominal, episodi d'amnèsia global transitòria, i alteració del nivell de consciència de manera paroxismal en pacient amb carcinoma ductal infiltrante de pàncrees mucosecretor d'alt grau estadi IV per afectació hepàtica.
+
+Tractament
+HPBM per a la EM.
+
+Evolució
+Es realitza ecoendoscopia amb presa de biòpsia per a filiació del procés tumoral, que resulta ser un carcinoma ductal infiltrante de pàncrees mucosecretor d'alt grau estadi IV per afectació hepàtica.
+Durant l'ingrés, el pacient presenta un episodi de mareig, sudoració i sensació de pèrdua de força de la mà esquerra, amb elevació d'i amb ECG normal. Se sol·licita una valoració cardiològica urgent que inclou una realització de ecocardiograma transtorácico (ETT) en la qual s'objectiva una imatge dubtosa de vegetació en la vàlvula aòrtica i una insuficiència aòrtica moderada. Es decideix ampliar l'estudi amb ecocardiograma transesofágico (ETE). Finalment, el ETE mostra una imatge compatible amb endocarditis.
+Després d'aquesta troballa, es prenen cultius microbiològics i s'inicia antibioterapia empírica amb vancomicina, ampicil·lina i gentamicina. Els hemocultivos van resultar estèrils i el pacient va continuar sense presentar febre. Es realitzen ETT i ETE de control, on persisteix una massa adherida en la cara ventricular del vel coronari dret que impressionava d'haver augmentat de grandària. Es va ampliar l'estudi de microorganismes causants de endocarditis amb hemocultivos negatius: serologia de febre Q. Brucella i Chlamydia pneumoniae; i PCR de Bartonella, Borrelia, Coxiella i Rickettsia. Tots ells van resultar negatius.
+Donada l'associació entre episodis d'alteració del nivell de consciència paroxismals (que solien coincidir amb moments en els quals se suspenia la HBPM puntualment) i imatge de endocarditis, se sol·licita TC cranial, resultant aquesta normal.
+En aquest moment, es va tenir en consideració un episodi d'amnèsia global transitòria que havia tingut lloc 4 mesos enrere i que, a priori, no s'havia relacionat amb la malaltia tumoral, ja que aquest símptoma va precedir a la clínica constitucional. Vist en perspectiva, no podia descartar-se que aquest succés tingués relació amb el quadre de EM actual, per la qual cosa es va demanar una ressonància magnètica cranial on es van observar infarts supra i infratentoriales de perfil lacunar i diferent temps d'evolució, que suggerien origen tromboembòlic cardíac.
+Lamentablement, el perfil hepàtic del pacient va començar a empitjorar de manera progressiva. Això, associat a un marcat empitjorament clínic, va fer que el pacient no fos candidat a tractament amb quimioteràpia i que s'optés per control simptomàtic exclusiu.

@@ -1,0 +1,32 @@
+We present the case of a 48-year-old male who began with symptoms of frontalisation and gait disorder, being referred to the Neurology Department, with progressive worsening requiring a wheelchair, and behavioural alteration consisting of disinhibition, irritability, loss of sphincter control, affective indifference and apathy.
+
+General blood tests, serology, antinuclear antibodies (ANA) and neutrophil anti-cytoplasmic antibodies (ANCA) and a lumbar puncture were performed, with no abnormalities.
+A cervical and cranial Magnetic Resonance Imaging (MRI) was requested, showing diffuse atrophy at the spinal cord level without pathological significance and at the cranial level numerous hypointense lesions in T1 and hyperintense in T2, affecting both cortico-spinal tracts, cerebellar dentate nuclei and superior cerebellar peduncles, together with a rupture of the Blood-Brain Barrier (BBB).
+
+Electromyography (EMG) was performed, showing signs of mixed polyneuropathy in the lower limbs, with low sensory amplitude and reduced motor speeds.
+
+Given the symmetrical involvement of the white matter, a metabolic disorder was suspected and tests were requested, with no alterations in the quantification of amino acids or acylcarnitines, but elevation of Very Long Chain Fatty Acids (VLCFA) in the blood, specifically hexacosanoic acid (C26: 0), with a result of 2.18 micromol/litre (μmol/l), the upper limit of the reference laboratory being 0.17 μmol/l, and of tetracosanoic acid (C24:0), with levels of 47 μmol/l, the limit being 14 μmol/l.
+In addition, there was an inversion of the ratio of these VLCFA to C22:0 behenic acid (C26:0/C22:0 of 0.071 and C24:0/C22:0 of 1.54, with laboratory limits of 0.77±0.12 and 0.012±0.004 respectively), making it possible to establish the diagnosis of X-ALD.
+To confirm the diagnosis, a genetic study of ABCD1 was performed, observing a deletion in haemozygosis in position c.1415_1416delAG, giving a premature codon p.GLn472ArgfsX83 and leading to a truncated protein with a loss of 26% of its amino acids, compatible with the established diagnosis.
+The patient underwent dietary education and testosterone and cortisol blood levels were normal.
+The severity of this entity is more intense in haemozygous males and less in heterozygous females. There is a deficit of perixisomal beta-oxidation of VLCFA, leading secondarily to the accumulation of VLCFA (especially C26:0 and C24:0)
+
+in the central nervous system, spinal cord, adrenal cortex and testicular tissue. This deficiency is due to mutations in the ABCD1 gene (xq28) on the X chromosome, which cause dysfunction of the ALDp protein (lignoceryl-CoA synthetase), which is essential in the transport of VLCFA from the cytoplasm to the lumen of the peroxisome.
+Phenotypic variability appears, depending on neurological involvement and age of onset:
+
+- Cerebral: most rapidly progressive. It affects between 2.5 and 12 years of age, being rare in adolescents (<7%) or adults (<5%). Moderate cognitive deficit, sensorineural deafness, cerebellar ataxia, hemiplegia, subclinical primary adrenal insufficiency, seizures and dementia occur.
+
+- Adrenomyeloneuropathy (AMN): second and fourth decade. There is spastic paraparesis with gait disturbance, sexual dysfunction and adrenal insufficiency in 2/3 of patients.
+
+- Addison's disease: around 10% of patients have adrenal insufficiency, without brain involvement, although there is a risk of developing it4.
+- Heterozygous females: 50% have slowly progressive neurological involvement. Adrenal insufficiency is rare.
+
+Diagnosis is based on clinical findings, MRI, demonstration of accumulation of VLCFA in serum, specifically C26:0 and C24:0, and inversion of the ratio with C22:0.
+The most sensitive imaging test is MRI, which shows bilateral and symmetrical involvement of the central white matter. T2 hyperintensity is observed, especially in the temporo-occipital region and corpus callosum. Depending on the location of the lesion, it is classified as follows:
+
+1. Parieto-occipital lobe and splenium of the corpus callosum. 2. Frontal lobe and knee of the corpus callosum.
+3. Frontopontine and corticospinal.
+4. Cerebellar.
+5. Combined frontal lobe and parietooccipital.
+
+The only useful treatment in the prevention of neurological progression is allogeneic haematopoietic stem cell transplantation (HSCT) from bone marrow, cord blood or peripheral blood. The main drawback lies in the morbidity and mortality of the procedure. Gene therapy, transferring the ABCD1 gene into fibroblasts and haematopoietic cells using a lentiviral vector derived from the HIV virus, has therefore been proposed, although further studies are needed to spread its application. HSCT is indicated in the presence of new lesions, enhancement of existing lesions on MRI, or new neurological symptoms.

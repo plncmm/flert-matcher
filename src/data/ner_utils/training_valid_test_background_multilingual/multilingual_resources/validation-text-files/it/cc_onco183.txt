@@ -1,0 +1,29 @@
+Anamnesi
+Una donna di 34 anni è arrivata al dipartimento di emergenza con dolore addominale sovrapubico. Nessuna storia familiare. Anamnesi patologica: fumatore IA 10 pacchetti/anno. Non bevitore. PELLICCIA: 6/1/2014. Nessuna allergia nota ai farmaci.
+
+Esame fisico
+Testa e collo: nessuna adenopatia cervicale palpabile. AC: ritmico, senza mormorii. PA: murmure vescicolare conservato, nessun rumore eccessivo. Addome: morbido, depressibile, non doloroso alla palpazione, ferita laparotomica in buone condizioni. Arti inferiori: nessun edema.
+
+Test complementari
+"L'IQ è stato eseguito il 24/2/2013, osservando un tumore di 10 cm sul lato sinistro, sono state eseguite l'annessectomia sinistra e la nodulectomia, con risultato anatomopatologico di cistoadenocarcinoma papillare sieroso di 11 cm limitato all'ovaio (pT1a).
+"In seguito ai reperti, è stata eseguita una TAC-CT che mostrava una massa polmonare solida con aree ipodense a livello del LSD spiculato che misurava 5 x 3 x 4 cm, una massa surrenale destra di 3 cm sospetta di metastasi, linfoadenopatie patologiche nello spazio portocavale, retroperitoneale, para-aortico.
+"Data la possibilità di un tumore sincrono, è stata valutata da Pneumologia, e il 31/12/2013 è stata eseguita una broncoscopia, in cui è stata osservata una lesione endobronchiale a livello del LSD.
+"Sono state fatte delle biopsie, con il risultato di un carcinoma infiltrante scarsamente differenziato e un profilo immunoistochimico compatibile con un adenocarcinoma polmonare (TTF-1 +, p63 negativo, cheratina CK56: negativo, CEA, cromogranina e calcitonina positivi, tireoglobulina: negativo).
+"È stata eseguita una scansione PET-CT, che ha mostrato aree di iperassorbimento a livello del LSD, cutaneo, linfonodale, osseo, sottocutaneo e surrenale destro, con la diagnosi di cistoadenocarcinoma ovarico E IC e adenocarcinoma polmonare E IV, ed è stata inviata al reparto di Oncologia Medica.
+"Sono stati richiesti EGFR e ALK (risultati negativi) e sono state eseguite biopsie del nodulo SC, con il risultato di metastasi cutanee di carcinoma neuroendocrino moderatamente differenziato.
+"Alla luce dei risultati, è stata richiesta un'ecografia tiroidea che ha mostrato un'area irregolare mal definita di 1,3 x 1,5 x 0,9 cm nell'emitiroide destra, così come una linfoadenopatia nella catena jugulo-carotidea controlaterale. Calcitonina: 776 .
+"Dato il dubbio diagnostico, è stata richiesta una biopsia tiroidea, con il risultato di un carcinoma midollare della tiroide. A causa del coinvolgimento surrenale, è stata sospettata la possibilità di un feocromocitoma e sono state richieste catecolamine nel sangue e nelle urine, che erano positive. PTH: normale.
+"Proto-oncogene RET: mutazione de novo del gene RET.
+
+Diagnosi
+"Carcinoma midollare della tiroide metastatico.
+"Sospetto feocromocitoma in associazione con la sindrome MEN 2B.
+"Cistoadenocarcinoma ovarico e HF.
+
+Trattamento
+Con il risultato di una probabile tiroide midollare, il trattamento è stato iniziato (gennaio 2014) con vandetanib 300 mg/24h. Un mese dopo si è presentata a un controllo, con un miglioramento della sua situazione funzionale e una diminuzione dei noduli sottocutanei. Al controllo di marzo, ha riferito un aumento della circonferenza addominale e del dolore lombare, quindi è stata eseguita una risonanza magnetica, che ha mostrato la sindrome della cauda equina, e la IC alla RT è stata eseguita con un trattamento con 30 Gy. Dato il sospetto di progressione, è stata eseguita una TC-CT che ha mostrato una progressione della malattia con un aumento delle adenopatie sopraclavicolari bilaterali, aumento dei noduli polmonari, aumento della massa surrenale destra e comparsa di una massa surrenale sinistra, comparsa di una massa a livello dell'ovaio destro, calcitonina 1.455 (precedentemente 776). Dato il dubbio diagnostico e la progressione della malattia al vandetanib (prima linea nella tiroide midollare), il caso è stato presentato alla sessione di oncologia e si è deciso di iniziare il trattamento con carboplatino + taxolo (prima linea di origine sconosciuta). Il paziente ha ricevuto tre cicli di carbo-taxolo e la TAC per valutare la risposta alla progressione della malattia ha mostrato un aumento delle adenopatie sopraclavicolari, un aumento della massa polmonare del LSD, un aumento della massa surrenale destra e sinistra, un aumento della massa annessiale destra e un aumento delle metastasi ossee. Dato che il tumore ha caratteristiche neuroendocrine e la scarsa risposta al vandetanib, il trattamento con gemcitabina + 80% irinotecan è stato iniziato nel marzo 2014. Ha ricevuto il trattamento per tre cicli e il 7/7/2014, la TAC di valutazione della risposta ha mostrato una diminuzione delle adenopatie sopraclavicolari, una diminuzione delle metastasi cutanee, una diminuzione della massa LSD, una diminuzione delle masse surrenali bilaterali, una diminuzione delle adenopatie addomino-pelviche e una diminuzione della massa annessiale destra. Il 18/7/2014 il paziente è stato ricoverato per sindrome febbrile e comparsa di metastasi cerebrali multiple bilaterali, ricevendo RDT olocranica.
+
+Evoluzione
+Paziente con diagnosi di carcinoma midollare della tiroide metastatico con coinvolgimento surrenale. Il trattamento di prima linea è stato iniziato con vandetanib con progressione dopo tre cicli. Passato a una linea di QT di origine sconosciuta, con nuova progressione. La terza linea di trattamento è stata iniziata con gemcitabina + CPT 11, con risposta dopo tre cicli e progressione del SNC.
+
+Ricoverato il 26/8/2014 per deterioramento neurologico, morendo durante il ricovero. È stata richiesta una necroscopia, ma la famiglia non l'ha voluta.

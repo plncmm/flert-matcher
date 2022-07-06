@@ -1,0 +1,21 @@
+Anamnese
+Mulher de 84 anos, reacção medicamentosa à azitromicina, sem alergia confirmada, com história pessoal de hipertensão, diabetes mellitus tipo 2, dislipidemia e ataque isquémico transitório do tipo afasia motora em 2011. Chegou ao departamento de emergência com fortes dores de cabeça e vómitos persistentes nas últimas 48 horas, bem como alterações de comportamento, oscilações no nível de consciência e episódios auto-limitados de dificuldade em mover os seus membros direitos e fala deficiente. Ela também relata uma sensação distrófica e anorexia, sem sintomas infecciosos de qualquer dispositivo.
+
+Exame físico
+Pressão arterial 100/50 mmHg, ritmo cardíaco 100 bpm, saturação de oxigénio 96%. Temperatura 36.5 oC. Consciente, estado geral regular, palidez mucocutânea. Bem hidratado. Auscultação cardíaca: tons rítmicos sem murmúrios. Auscultação respiratória: murmúrio vesicular preservado em todos os campos pulmonares. Abdómen mole, depressável, sem massas ou organomegalia. Sons hidro-aéreos preservados. Extremidades inferiores sem edema ou sinais de trombose venosa profunda. Exame neurológico: bradipsicia com dificuldades ocasionais na compreensão e execução de comandos simples, linguagem preservada mas com limitações ocasionais na compreensão e, por vezes, uma resposta algo incongruente. Limitação no rapto de ambos os olhos sugestivo de paresia bilateral do sexto nervo. Paresia facial central direita suave. Equilíbrio muscular nas extremidades direitas 4/5, esquerda sem alterações. Reflexos osteotendinosos presentes e simétricos. Sensibilidade sem alterações.
+
+Testes complementares
+- Testes de sangue urgentes: hemoglobina 9,3 g/dl, hematócrito 28,6%, volume corpuscular médio 105,8 fl, leucócitos 11,4 mil/mm3, plaquetas 4 mil/mm3, bilirrubina total 1,4 mg/dl, bilirrubina directa 0,3 mg/dl, proteína total 6,1 g/dl, desidrogenase láctica 1. 645 UI/l, sódio 131,5 mEq/l, cálcio 7,8 mg/dl, cálcio iónico 1,1 mmol/l, com outra bioquímica e coagulação normal. Urina: flora bacteriana 2+, proteinúria 2+.
+- Testes de sangue diferidos: hemoglobina 12,5 g/dl, hematócrito 33,7%, volume corpuscular médio 102,3 fl, reticulócitos 12,09%, reticulócitos 269,4 mil/mm3, leucócitos 14 mil/mm3, plaquetas 57 mil/mm3. Morfologia do sangue periférico: esquistocitos 3-4 e esferócitos 2%. Haptoglobina 7,56 mg/dl. Estudo da imunidade celular, imunoglobulinas, complemento, estudo de auto-imunidade, serologia (brucela, toxoplasma, vírus da imunodeficiência humana, vírus Epstein-Barr, citomegalovírus, vírus do herpes simples, vírus da varicela zoster e borrelia), vitamina B12 e ácido fólico sem alterações.
+- Exames de sangue na descarga: hemoglobina 10,3 g/dl, hematócrito 31,6%, volume corpuscular médio 105 fl, leucócitos 12,7 mil/mm3, plaquetas 202 mil/mm3.
+- Ressonância magnética urgente do cérebro: sem alterações significativas.
+
+Diagnóstico
+Púrpura trombocitopénica trombótica.
+
+Tratamento
+Transfusão de plaquetas. Transfusão de eritrócitos. Plasmaférese. Levetiracetam 500 mg de 12 em 12 horas, e cálcio.
+
+Evolução
+Dada a instabilidade clínica da paciente, foi decidido interná-la na Unidade de Cuidados Intensivos para estudo e controlo evolutivo. Na admissão, iniciou-se a transfusão de concentrados de glóbulos vermelhos e plaquetas e iniciou-se o tratamento com corticóides intravenosos, medicamentos anti-epilépticos (levetiracetam 500 mg a cada 12 horas) e cálcio, após o que o paciente melhorou clinicamente, com o desaparecimento do ponto focal. Devido à persistência da alteração dos parâmetros analíticos, o caso foi avaliado conjuntamente com a Hematologia, que recomendou a plasmaférese diária (15 no total). Após a estabilização do quadro clínico, o paciente foi transferido para o Departamento de Hematologia. Com bom estado geral e recuperação dos números analíticos, teve alta em casa após 30 dias de hospitalização.
+

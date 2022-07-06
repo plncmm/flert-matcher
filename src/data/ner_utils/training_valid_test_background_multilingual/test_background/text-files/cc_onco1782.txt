@@ -1,0 +1,22 @@
+Anamnesis
+Varón de 41 años, con los siguientes antecedentes personales: fumador de 40 cigarrillos/día e ingesta etílica de 70-80 g/día. Historia oncológica: en mayo del año 2008 el paciente ingresó en el Servicio de Aparato Digestivo por un cuadro clínico de suboclusión intestinal. En la colonoscopia se apreciaba estenosis neoplásica a 50 cm del margen anal, que fue biopsiada con resultado de adenocarcinoma intestinal. Fue intervenido quirúrgicamente, realizándose una hemicolectomía izquierda con anastomosis término-terminal. Con el diagnóstico histológico de adenocarcinoma de colon pT3pN1M0 (estadio III) inició quimioterapia adyuvante según esquema quincenal de 5-fluorouracilo, oxaliplatino y ácido folínico (FOLFOX-4), recibiendo un total de 12 ciclos que finalizó en febrero de 2009. La tolerancia al tratamiento fue buena, salvo una neuropatía grado 2 y neutropenia grado 3 que precisó soporte con factores estimulantes de colonias.
+
+Enfermedad actual
+En marzo de 2009, en la primera revisión tras finalizar el tratamiento adyuvante, el paciente refería tos seca junto con disnea progresiva de moderados esfuerzos. En la radiografía de tórax se objetivó patrón intersticial reticular bilateral.
+
+Exploración física
+Valoración de 1 en la escala de la ECOG (Eastern Cooperative Oncologic Group). Afebril. Hemodinámicamente estable. Saturación de oxígeno (FIO2 21%) 95%. Eupneico en reposo, sin trabajo respiratorio ni cianosis. En la auscultación pulmonar destacaban estertores inspiratorios dispersos con murmullo vesicular conservado. Resto de la exploración anodina.
+
+Pruebas complementarias
+• Hemograma y bioquímica con datos dentro del rango de la normalidad.
+• Gasometría arterial: ph 7,40, pCO2 37 mmHg, pO2 80 mmHg, saturación de oxígeno 96%.
+• Tomografía computarizada de alta resolución (TCAR) de tórax: patrón retículo-nodular bilateral, de predominio en los lóbulos inferiores y el lóbulo medio derecho.
+
+Diagnóstico y tratamiento
+Ante la sospecha de neumopatía intersticial secundaria a oxaliplatino se realizaron pruebas funcionales respiratorias, destacando una disminución grave de la difusión con una espirometría normal, siendo el FEV1 de 2.630 ml.
+Se completó el estudio con una broncoscopia, con los siguientes resultados:
+• El lavado broncoalveolar mostró negatividad para estudios microbiológicos y malignidad; sin embargo, destacaba una inversión del cociente de linfocitos T CD4+/CD8+ sugestivo de neumonitis inducida por fármacos.
+• En la biopsia transbronquial se apreció una marcada fibrosis en los tabiques alveolares, con abundantes macrófagos y mínimos focos de infiltrado inflamatorio crónico, confirmándose así la neumonitis secundaria a oxaliplatino en fase evolucionada. Se inició tratamiento con altas dosis de esteroides (prednisona 1 mg/kg).
+
+Evolución
+El paciente continuó dicho tratamiento durante aproximadamente un mes, mejorando su disnea. Tras el cual se realizó una tomografía computarizada de tórax de control, objetivándose una mejoría radiológica significativa. Los esteroides fueron descendiéndose paulatinamente hasta su total suspensión, al mismo tiempo que fue desapareciendo la clínica respiratoria. En ningún momento precisó de soporte con oxigenoterapia por insuficiencia respiratoria. En septiembre de 2009 se realizó una nueva tomografía computarizada de tórax de control, donde únicamente se objetivaban pequeñas imágenes quísticas diseminadas en ambos campos pulmonares. Actualmente el paciente se encuentra asintomático, siguiendo revisiones en Consultas de Oncología.

@@ -1,0 +1,26 @@
+Antecedents, malaltia actual i exploració física
+Dona de 61 anys, sense factors de risc cardiovascular ni antecedents mèdics rellevants, acudeix al seu centre de salut per dolor toràcic opressiu irradiat a esquena, associat a palpitacions i dispnea, d'una hora d'evolució.
+A la seva arribada impressiona de mal estat general amb freqüència cardíaca entorn de 250 lpm i hipotensió arterial. Es realitza electrocardiograma (figura 1), després del que es decideix avisar als serveis d'emergències i administrar 300 mg de amiodarona intravenosa. A l'arribada de l'UVI mòbil la pacient roman simptomàtica sense haver aconseguit cardioversión.
+Davant la presència d'una taquiarritmia que s'interpreta com a taquicàrdia ventricular, mal tolerada hemodinámicamente, es decideix realitzar cardioversión elèctrica.
+Prèvia sedació es procedeix a cardioversión amb tres xocs (200-300-360 juliols) sense èxit, després del que es trasllada d'urgència al seu hospital de referència.
+
+
+Proves complementàries
+ʟʟ Anàlisis: hemograma: hemoglobina 11,7 g/dl, hematòcrit 36%, leucòcits 9.000/uL, plaquetes 183.000/uL. Coagulació normal. Glucèmia 225 mg/dl, creatinina 1,2 mg/dl, sodi 138 mmol/litre, potassi 4,1 mmol/litre, magnesi 1,9 mg/dl, lactat 2,4 mmol/litre, calci 8,3 mmol/litre i troponina T 130 pg/ml.
+ʟʟ Gasometria venosa: pH 7,16, pCO2 54, HCO3 19, BE -9,7.
+ʟʟ ECG
+
+Evolució clínica
+Ingressa en la unitat de vigilància intensiva on s'inicia tractament amb lidocaína intravenosa, aconseguint-se cardioversión amb millora de la tensió arterial. Ja en ritme sinusal, s'objectiva en l'electrocardiograma un descens generalitzat del segment ST amb ascens en aVR, per la qual cosa contacta amb la unitat de crítics cardiològics del nostre centre i es trasllada per a estudi.
+A la seva arribada la pacient es troba asimptomàtica i hemodinámicamente estable.
+A l'interrogatori dirigit nega episodis previs de dolor toràcic o palpitacions malgrat caminar diàriament diversos quilòmetres. En l'electrocardiograma basal s'objectiva preexcitació.
+
+Es realitza ecocardiograma on s'objectiva anomalia de Ebstein amb vel lateral de la vàlvula tricúspide amb implantació baixa (1,4 cm de la mitral) no coneguda prèviament. Ventricle dret lleument dilatat amb funció sistòlica lleument deprimida i insuficiència tricuspídea moderada-severa.
+Es revisa el registre de la taquicàrdia amb el servei d'electrofisiologia i, davant la sospita que la pacient presentés una taquicàrdia supraventricular, probable fibril·lació auricular preexcitada, es decideix realitzar estudi electrofisiológico i ablació.
+En aquest estudi es detecten 3 vies accessòries: posteroseptal dreta, posteroseptal esquerra i inferolateral dreta, procedint-se a ablació efectiva d'aquestes.
+Com a complicació presenta vessament pericardíac lleu que va romandre sense canvis durant la seva evolució en planta, sent donada d'alta asimptomàtica amb control ambulatori.
+
+Diagnòstic
+ʟʟ Síndrome de Wolff Parkinson White
+ʟʟ Anomalia de Ebstein
+ʟʟ Insuficiència tricuspídea severa

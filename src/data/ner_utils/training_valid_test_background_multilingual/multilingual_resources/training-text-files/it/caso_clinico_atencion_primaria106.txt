@@ -1,0 +1,23 @@
+Motivo della consultazione
+Mal di testa e vertigini.
+
+Approccio individuale (anamnesi, esame, test complementari).
+Un uomo di 52 anni senza altra storia personale che l'infezione da HIV di più di 10 anni di evoluzione, con un buon controllo immunovirologico (CD4 950 cellule/μl, CD8 853 cellule/μl, leucociti 5.010 x103/μl, carica virale non rilevabile) che sta ricevendo un trattamento con inibitori nucleosidici della trascrittasi inversa, senza aver subito complicazioni AIDS-defining; quindi allo stadio A1. Si è consultato per una cefalea olocranica e vertigini di 15 giorni, con associata sonnolenza diurna predominante, astenia e anoressia in aumento nelle ultime settimane e perdita di peso di 5 kg, nonché sudorazione profusa senza brividi e afebrile. Il paziente si sentiva sopraffatto perché sentiva che nelle ultime settimane aveva dimenticato le cose di tutti i giorni e riportava un pianto spontaneo e immotivato.
+
+All'esame era cosciente, orientato e cooperativo, eupneico a riposo ed emodinamicamente stabile, con un'auscultazione cardiopolmonare e un esame addominale senza segni. A livello neurologico, solo la presenza di una Romberg patologica e di una minima paralisi gestuale del viso era notevole, senza rigidità nucale o altri segni di irritazione meningea al momento, né altre focalità neurologiche a livello delle coppie craniche, né alterazioni senso-motorie, e il paziente aveva un'andatura normale, non atassica, senza lateralizzazioni o dismetrie, ma con una certa letargia di movimento, che era evidente anche al paziente.
+
+- CBC: emoglobina 17.9g/dl, piastrine 235x103/μl, leucociti 9.76 x103/μl, linfociti 3.26 x103/μl, neutrofili 5.72 x103/μl.
+Coagulazione: Fibrinogeno 511mg/dl, resto normale.
+Biochimica: Glucosio 86 mg/dl, Albumina 4,6 g/dl, Urea 7,1 mg/dl, Velocità di filtrazione glomerulare 69 mL/min, Creatinina 1,18 mg/dl, idroelettroliti e profilo epatico normali.
+CRP: 0,14 mg/L
+Gas sanguigni arteriosi: Ph 7,469, PaCO2 31,1 mmHg, PaO2 126 mmHg, SaO2 98,3% , HCO3 22,6 mmol/L.
+Urina: normale.
+- TAC cranica: LOE cerebrale iperdenso, a livello del corpo calloso, che attraversa la linea mediana e contatta l'ependima, con edema perilesionale e leggero effetto massa sul corno posteriore dei ventricoli laterali, altamente suggestivo di linfoma cerebrale primario.
+
+Giudizio clinico (elenco dei problemi, diagnosi differenziale)
+La prima diagnosi data nell'ED per il successivo ricovero è stata una lesione cerebrale compatibile con un linfoma cerebrale primario in un paziente con HIV di stadio A1, che dopo questa scoperta è stato classificato come stadio C1.
+
+Piano d'azione ed evoluzione
+È stato ricoverato in Medicina Interna per ulteriori studi con risonanza magnetica cranica con contrasto, BodyTAC (entrambi gli esami di imaging senza risultati diversi da quelli della TAC cranica) e un esame del sangue con sierologia IgG CMV positivo con IgM negativo, IgG Toxoplasma positivo IgM negativo, sottopopolazioni linfocitarie con CD4 954 cellule/μl con carica virale non rilevabile. All'ammissione, ha riferito di sentirsi molto meglio per quanto riguarda i suoi mal di testa dopo il trattamento con corticosteroidi. La paralisi facciale destra persisteva con Romberg positivo, che era negativo dopo diversi giorni di trattamento con corticosteroidi.
+La neurochirurgia è stata contattata per valutare il trattamento oncologico.
+Da un punto di vista etico, si pone il seguente dilemma, poiché i parenti, che non sono a conoscenza dell'immunodeficienza associata all'infezione da HIV del paziente, chiedono che il paziente non sia informato della sua attuale malattia o della sua gravità. Di fronte a questo doppio patto di silenzio, il medico di famiglia che continuerà a valutare il paziente nelle consultazioni successive ha un ruolo intermedio e comunicativo nel fornire le spiegazioni pertinenti al paziente e ai parenti senza parlare direttamente della patologia del paziente, almeno fino a quando il paziente stesso non ce la riferisce.

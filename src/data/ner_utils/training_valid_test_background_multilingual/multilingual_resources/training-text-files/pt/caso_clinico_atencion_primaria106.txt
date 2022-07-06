@@ -1,0 +1,23 @@
+Motivo da consulta
+Dores de cabeça e tonturas.
+
+Abordagem individual (anamnese, exame, testes complementares).
+Um homem de 52 anos de idade sem outra história pessoal para além da infecção pelo VIH com mais de 10 anos de evolução, com bom controlo imunovirológico (CD4 950 células/μl, CD8 853 células/μl, leucócitos 5,010 x103/μl, carga viral indetectável) em tratamento com inibidores da transcriptase reversa analógica de nucleósidos, sem ter sofrido complicações definidoras da SIDA; portanto na fase A1. Consultou por uma dor de cabeça holocraniana e tonturas de 15 dias de duração, com sonolência, astenia e anorexia predominantes durante o dia associadas a um aumento nas últimas semanas, perda de peso de 5 kg, suor profuso sem tremores e afebril. O paciente exprimiu a sensação de esmagamento porque sentiu que nas últimas semanas tinha esquecido as coisas do dia-a-dia e relatou choros espontâneos sem motivação.
+
+Ao exame estava consciente, orientado e cooperante, eupneico em repouso e hemodinamicamente estável, com auscultação cardiopulmonar e um exame abdominal sem precedentes. A nível neurológico, apenas a presença de um Romberg patológico e paralisia gestual facial mínima era notável, sem rigidez nucal ou outros sinais de irritação meníngea na altura, nem qualquer outra focalização neurológica ao nível dos pares cranianos, nem alterações sensoriais-motoras, e o paciente tinha uma marcha normal, não atáxica, sem lateralizações ou dismetrias, mas com uma certa letargia de movimento, que era evidente mesmo para o paciente.
+
+- Hemograma: hemoglobina 17,9g/dl, plaquetas 235x103/μl, leucócitos 9,76 x103/μl, linfócitos 3,26 x103/μl, neutrófilos 5,72 x103/μl.
+Coagulação: Fibrinogen 511mg/dl, repouso normal.
+Bioquímica: Glucose 86 mg/dl, Albumina 4,6 g/dl, Ureia 7,1 mg/dl, Taxa de filtração glomerular 69 mL/min, Creatinina 1,18 mg/dL, hidroelectrolítico e perfil hepático normal.
+CRP: 0,14 mg/L
+Gases do sangue arterial: Ph 7,469, PaCO2 31,1 mmHg, PaO2 126 mmHg, SaO2 98,3% , HCO3 22,6 mmol/L.
+Urina: normal.
+- TAC cranial: LOE cerebral hiperdenso, ao nível do corpus callosum, atravessando a linha média e contactando o ependymis, com edema perilesional e ligeiro efeito de massa no corno posterior dos ventrículos laterais, altamente sugestivo de Linfoma Cerebral Primário.
+
+Julgamento clínico (lista de problemas, diagnóstico diferencial)
+O primeiro diagnóstico dado na DE para admissão subsequente foi uma lesão cerebral compatível com o linfoma cerebral primário num doente com VIH na fase A1, que após esta descoberta foi classificado como fase C1.
+
+Plano de acção e evolução
+Foi admitido em Medicina Interna para estudo adicional com RM craniana com contraste, BodyTAC (ambos testes de imagem sem resultados diferentes dos da TC craniana) e um teste de sangue com serologia IgG CMV positivo com IgM negativo, IgG Toxoplasma positivo IgM negativo, subpopulações linfocitárias com células CD4 954/μl com carga viral indetectável. Na admissão, relatou sentir-se muito melhor em relação às suas dores de cabeça após tratamento com corticosteróides. A paralisia facial direita persistiu com a Romberg positiva, que foi negativa após vários dias de tratamento com corticosteróides.
+A Neurocirurgia foi contactada para avaliação do tratamento oncológico.
+De um ponto de vista ético, surge o seguinte dilema, uma vez que os familiares, que desconhecem a imunodeficiência associada à infecção pelo VIH do doente, solicitam que o doente não seja informado da sua doença actual ou da sua gravidade. Face a este duplo pacto de silêncio, o médico de família que continuará a avaliar o paciente em consultas sucessivas tem um papel intermediário e comunicativo ao dar as explicações pertinentes ao paciente e aos seus familiares sem falar directamente da sua patologia, pelo menos até que o próprio paciente o remeta para nós.

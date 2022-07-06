@@ -1,0 +1,19 @@
+Anamnesi
+Presentiamo il caso di un uomo di 79 anni, un medico in pensione, con una storia di ipertensione, che ha subito un intervento chirurgico per ernia inguinale destra nel 2008 e la sostituzione del ginocchio sinistro nel 2011. Ha ricevuto un trattamento con amlodipina 5 mg e irbesartan 150 mg.
+Gli è stato diagnosticato nel 2009 con un PSA di 14 ng/ml, un adenocarcinoma prostatico Gleason 5 + 4, malattia localizzata. Ha ricevuto un trattamento con radioterapia locale seguito da un doppio blocco androgenico per 3 anni con leuprorelina e bicalutamide. Ha continuato a sottoporsi a controlli fino a giugno 2018, quando ha iniziato a sperimentare alterazioni del ritmo intestinale, ed è stata osservata una recidiva locoregionale con infiltrazione rettale e coinvolgimento linfonodale. La biopsia prostatica ha confermato un carcinoma neuroendocrino a piccole cellule al 100%, quindi è stato iniziato il cisplatino-etoposide e ha ricevuto 4 cicli fino a ottobre 2018. Ha presentato una neuropatia periferica di grado 3, che ha reso necessaria l'interruzione del trattamento e ha continuato a sottoporsi a controlli. Nel gennaio 2019 si è presentata con un quadro clinico persistente di disorientamento temporospaziale, perdita di memoria recente, nonché episodi parossistici e autolimitati di tremore mandibolare, per cui si è deciso di ricoverarla per ulteriori studi.
+
+Esame fisico
+Indice Karnofsky di 70. Disorientamento temporale con una marcata compromissione della memoria immediata, che ha recuperato con degli indizi. Sono stati osservati cinque episodi di clono emifacciale sinistro della durata di 10 secondi, con una sensazione di angoscia e pianto immotivato.
+
+Test complementari
+Emogramma, biochimica e coagulazione senza alterazioni. Acido folico, B12, marcatori tumorali, varicella, epatite B, epatite C e sierologia QuantiFERON erano normali. La TAC cranica ha mostrato un'ischemia dei piccoli vasi. La risonanza magnetica (MRI) del cervello ha mostrato un ipersegnale in entrambi i lobi temporali, a livello corticosottocorticale insulare destro e dell'amigdala temporale sinistra, compatibile con un'encefalite autoimmune. La video-elettroencefalografia (V-EEG) è stata eseguita e non è stata osservata alcuna attività epilettiforme. Uno studio immunologico IgA e tiroideo di base è stato completato ed è risultato negativo. Successivamente, gli anticorpi antineuronali sono stati determinati nel sangue, con un risultato positivo per gli anti-HU.
+
+Diagnosi
+Al paziente è stata quindi diagnosticata un'encefalite limbica autoimmune dovuta agli anticorpi anti-HU, con una recidiva locoregionale e linfonodale dovuta a un carcinoma neuroendocrino indifferenziato della prostata.
+
+Trattamento
+Ha ricevuto un trattamento anticomitante con levetiracetam con miglioramento del clono facciale. Una volta conosciuta l'eziologia autoimmune, il trattamento immunosoppressivo è stato iniziato con boli endovenosi di metilprednisolone 1 g/24 ore per 5 giorni.
+
+Evoluzione
+Risposta iniziale favorevole al trattamento senza nuovi episodi di clono facciale, anche se i vuoti di memoria persistevano. Dopo aver completato la corticoterapia, ha presentato tre crisi tonico-cloniche generalizzate senza recupero, richiedendo l'intubazione orotracheale e il ricovero in Terapia Intensiva. Levetiracetam, midazolam e diazepam sono stati somministrati con buona evoluzione ed è stato estubato. Un nuovo trattamento immunosoppressivo è stato quindi iniziato con rituximab associato a ciclofosfamide orale a dosi metronomiche, presentando un miglioramento clinico con scomparsa della labilità emotiva, e senza nuovi episodi convulsivi.
+

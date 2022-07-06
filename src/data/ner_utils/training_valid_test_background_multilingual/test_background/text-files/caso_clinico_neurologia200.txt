@@ -1,0 +1,28 @@
+Anamnesis
+Mujer de 46 años con historia de cefaleas de características tensionales que alguna vez habían requerido tratamiento con AINE, sin otros antecedentes patológicos de interés. Acudió a Urgencias de nuestro centro por cefalea intensa y vómitos de 4 días de evolución. La paciente refería una cefalea de inicio súbito localizada en la región occipital al inicio, con posterior extensión hacia la región fronto-orbicular y de intensidad superior a cualquiera de las que había tenido anteriormente (verbalizando escala del dolor 10/10). La cefalea se había mantenido con fluctuaciones en la gravedad con escasa mejoría tras toma de metamizol y paracetamol y con gran afectación del estado general.
+
+Examen físico
+A su llegada a Urgencias la paciente presentaba una tensión arterial de 156|84 mmHg y una temperatura timpánica de 37,5 oC; la exploración física resultó normal. En cuanto a la exploración neurológica, estaba vigil y orientada, relatando correctamente su proceso. Los pares craneales estaban conservados y eran simétricos, no se objetivaron déficits motores o sensitivos ni signos meníngeos; el examen del fondo de ojo fue normal.
+
+Pruebas complementarias
+• Hemograma: leucocitos 9,1/mm3 (N 75,6%, L 17%, M 5,5% y B 0,4%), hematíes 5,1/mm3. Hemoglobina 15,1 g/dl. Hematocrito 41,9%. VCM 82,1 fl. Plaquetas 199/mm3.
+• Hemostasia: índice de Quick 120%. Tiempo e protrombina 10,7 s. Fibrinógeno 230 mg/ dl. Determinación INR: 0,9.
+• Bioquímica: glucosa 107 mg/dl, urea 27 mg/dl, creatinina 0,75 mg/dl, sodio 140 mmol/dl, potasio 4,3 mmol/dl, PCR 0,59 mg/l.
+• Gasometría arterial sin O2: pH 7,47, PCO2 37 mmHg, PO2 36 mmHg. Bicarbonato 26,9. Base excess: 3,2.
+• Punción lumbar: líquido cefalorraquídeo de aspecto claro y transparente. Glucosa 61 mg/dl, proteínas 41 mg/dl, leucocitos 2, hematíes 20/ul, ADA 0,7. Serologías y cultivos bacteriológicos negativos en LCR.
+• Radiografía de tórax: sin hallazgos reseñables.
+• TC cráneo: no se observan hemorragias intracraneales ni áreas de isquemia aguda. Talla ventricular adecuada a la edad de la paciente, normal y simétrica. Línea media centrada. No se observan lesiones en las estructuras óseas.
+• Primer Doppler TSA: dentro de la normalidad (no se aprecian placas ateromatosas ni estenosis significativas). Arterias vertebrales simétricas.
+• Primer Doppler TC (julio 2005): se visualiza aceleración a nivel de la ACM izquierda (Vm: 113 cm/s) respecto a la ACM derecha (Vm: 67 cm/s) sugestivo de vasoespasmo. Muestra de la aceleración del flujo en la ACM izquierda con posterior normalización tras la resolución del vasoespasmo. Resto de arterias sin aceleraciones ni estenosis significativas. Basilar normal.
+• RM (agosto 2005): no se evidencian imágenes sospechosas de isquemia o hemorragia intracraneales agudas. Línea media centrada. Amplitud del sistema ventricular y de los surcos cerebrales sin signos de hidrocefalia. 
+• Angio-RM (agosto 2005): el estudio de las arterias que conforman el polígono de Willis y los troncos no evidencia oclusiones arteriales ni focos estenóticos. Origen fetal de la arteria cerebral posterior derecha. Hipoplasia del segmento precomunicante de la arteria cerebral anterior derecha.
+• Segundo Doppler TC (agosto 2005): no se observa vasoespasmo.
+
+Diagnóstico
+Síndrome de vasoconstricción segmentaria cerebral reversible o síndrome de Call-Fleming.
+
+Tratamiento
+Se inició tratamiento con nimodipino 30 mg, 2 comprimidos cada 4 horas durante 8 días.
+
+Evolución
+La experiencia de nuestra paciente ha sido positiva para el tratamiento en monoterapia con este bloqueador de los canales del calcio, pues tras 24 horas de tratamiento refería mejoría significativa.

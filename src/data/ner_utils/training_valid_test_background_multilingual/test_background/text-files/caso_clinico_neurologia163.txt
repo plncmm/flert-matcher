@@ -1,0 +1,32 @@
+Anamnesis
+Paciente mujer de 20 años de edad, sin alergias medicamentosas conocidas, fumadora de 10 cigarrillos al día, con antecedentes de asma alérgica extrínseca, migraña con aura, infecciones urinarias de repetición y estreñimiento crónico. Es trasladada de otro centro para el estudio y tratamiento de tetraparesia en el contexto de un cuadro de dolor abdominal con hiponatremia (hasta 105 mEq/l), bilirrubinuria y coluria, además de clínica disautonómica e hiporreflexia.
+
+Examen físico
+Paciente taquicárdica (frecuencia cardiaca 120 lpm), febricular (temperatura 37 oC), peak flow de 150 cc y con exploración cardiovascular, respiratoria y abdominal anodinas. A la exploración neurológica destacan: paresia facial periférica con signo de Bell, disfagia, arreflexia generalizada excepto reflejos aquíleos presentes, reflejo cutáneo-plantar flexor bilateral, piloerección y sudoración significativas. Presenta, además, tetraparesia con balance muscular (derecha/izquierda): deltoides 0/0, tríceps 0/1, bíceps 1/1, flexor del carpo 0/2+, interóseos 1⁄2, extensor del carpo 0/0, flexores de los dedos 2/2, extensores de los dedos 2/2, psoas 3–/4+, cuádriceps 1/0, isquiotibiales 3/4–, tríceps sural 3/3 y tibial anterior 3+/4.
+
+Pruebas complementarias
+• Analítica ingreso. Hemograma: hemoglobina 8,9 g/dl, hematocrito 27%, VCM 77,1 fl, HCM 25 pg, plaquetas 260 K/mcl, leucocitos 9,1 K/mcl. Bioquímica: glucosa 88 g/dl, urea 53 mg/dl, creatinina 0,50 mg/dl, sodio 134 mEq/l, potasio 4,6 mEq/l. Análisis de orina: positivo para leucocitos y nitritos. Urocultivo positivo para Escherichia coli.
+• Analítica de control: VSG 114 mm; folatos 7,88, cobalaminas 1002.
+• Hemograma: sin cambios.
+• Bioquímica: proteínas totales 6,9 mg/dl, GOT 70 UI/l, GPT 73UI/l, GGT 45UI/l, FA 128 UI/l. Ionograma: sin alteraciones.
+• Proteinograma: albúmina 39,9%, globulina alfa-1 6%, globulina alfa-2 14%, globulina beta 15%, globulina gamma 25,1%.
+• Estudio de autoinmunidad: negativo.
+• Tóxicos en orina: negativo.
+• Marcadores tumorales: alfa-fetoproteína y Ag CA-125: negativos.
+• Serologías: Treponema, VHC y VIH negativas.
+• Estudio de orina de 24 horas: coproporfirinas orina 1.771 mg/24 h, porfirinas totales orina 11.552 mg/24 h, porfobilinógeno en orina 13,9 mg/24 h, uroporfirinas en orina 9.781 mg/24 h.
+• Estudio genético: heterocigosis para la mutación c.835_837delACTinsG en el exón 14 del gen HMBS.
+• Analítica al alta: - Hemograma: eritrocitos 3,63 M/mcl, hemoglobina 10,4 g/dl, hematocrito 31%, volumen corpuscular medio 84,7 fl, hemoglobina corpuscular media 29 pg, plaquetas 340 K/mcl, leucocitos 7,7 K/mcl. - Bioquímica: creatinina 0,36 mg/dl, colesterol 224 mg/dl, triglicéridos 212 mg/dl, filtrado glomerular (MDRD) > 60 ml/min. - Ionograma: normal.
+• Analítica LCR: glucosa 74 mg/dl; leucocitos 40/mm3 (60% mononucleares), proteínas 17 mg/dl.
+• Electromiograma (EMG) (inicial): hallazgos que sugieren una polirradiculoneuropatía generalizada, severa, de predominio axonal.
+• EMG (de control): hallazgos compatibles con neuropatía axonal, aguda, muy severa, que interesa a las cuatro extremidades pero con mayor afectación de las extremidades superiores. La exploración actual sugiere una neuropatía axonal motora aguda.
+• Potenciales evocados somatosensoriales sin signos de afectación de la vía cordonal posterior.
+
+Diagnóstico
+La paciente ingresa desde otro centro con sospecha de síndrome de Guillain-Barré, habiendo iniciado tratamiento con inmunoglobulinas, con escasa respuesta clínica. Dado el cuadro de abdominalgia con las alteraciones analíticas comentadas, hipercelularidad en el LCR y los resultados en el EMG, se amplía el estudio del cuadro considerando los posibles diagnósticos diferenciales del síndrome de Guillain-Barré. Los estudios de autoinmunidad y serologías resultan negativos, pero ante la presencia de uroporfirinas en orina y con un cuadro clínico compatible, se orienta como porfiria aguda intermitente (PAI). Posteriormente, se completa el estudio de porfirias según las recomendaciones de la Unidad de Porfirias del centro de referencia, pudiendo determinar finalmente una mutación compatible con PAI y confirmando así el diagnóstico.
+
+Tratamiento
+Se inicia tratamiento con hemina y suplementos vitamínicos (ácido fólico y vitamina B12), se controlan estrictamente los niveles de glucosa, sodio y potasio y se estudian fármacos que empeoran la enfermedad para poder evitarlos.
+
+Evolución
+Con la administración de hemina la paciente presenta una progresiva mejoría sintomática. El balance muscular a los 53 días del ingreso fue (derecha/izquierda): flexor del cuello 3/3, extensor del cuello 3/3, deltoides 3/3, bíceps 2+/2+, tríceps 2–/2–, extensor del carpo 3/3, flexor del carpo 3/3, interóseos 2/2, psoas 4/4, cuádriceps 3+/4, tríceps sural 3/3, tibial anterior 4+/4 y flexión plantar 4/3+. Dada la buena evolución de la paciente al tratamiento específico de la enfermedad diagnosticada, se decide su traslado a un centro de rehabilitación para continuar el tratamiento intensivo.

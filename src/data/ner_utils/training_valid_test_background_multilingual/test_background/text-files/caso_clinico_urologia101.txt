@@ -1,0 +1,33 @@
+Anamnesis
+Paciente varón de 64 años de edad. No alergias medicamentosas conocidas. Exfumador desde hace 5 años de 3-4 puros al día. Consumidor ocasional de alcohol. Obesidad. Hipertensión arterial mal controlada. No diabetes, dislipemia ni hiperuricemia. Neumonía hace 5 años. Miocardiopatía dilatada con disfunción ligera del ventrículo izquierdo. Esteatosis hepática. Intervenciones quirúrgicas previas: colectomía por diverticulosis complicada con peritonitis aguda hace 13 años. Extirpación de varios pólipos colónicos. Esfinterotomía interna por fisura anal hace 11 años. Operado de calcificación tiroidea. Tratamiento habitual: furosemida, lormetazepam, candesartán y carvedilol.
+Fue remitido a consulta de Urología por retención aguda de orina que condicionó la colocación de una sonda vesical. Tras iniciar tratamiento con alfa- bloqueante, se realiza un intento fallido de retirada de la sonda vesical hasta en dos ocasiones, decidiéndose su inclusión en lista de espera quirúrgica para resección transuretral de próstata.
+
+Examen físico
+Consciente, orientado y colaborador. Normocoloreado y normohidratado. Afebril. Tensión arterial: 140/75 mmHg. Frecuencia cardiaca 75 lpm. Eupneico en reposo. Auscultación cardiaca rítmica, sin soplos audibles. Auscultación pulmonar: murmullo vesicular conservado, sin ruidos sobreañadidos. Abdomen: globuloso a expensas de panículo adiposo, blando, depresible, no doloroso a la palpación, ruidos hidroaéreos presentes, no se palpan masas ni megalias, puñopercusión renal bilateral negativa. Tacto rectal: próstata volumen II/IV, regular, bien delimitada y de características adenomatosas. Extremidades inferiores: no edemas ni signos de flebitis, pulsos poplíteos y pedios conservados de forma bilateral.
+
+Pruebas complementarias
+• Hemograma: hemoglobina 13,8 g/dl, hematocrito 41,8%, leucocitos 9.900 con 60,9% neutrófilos y 31,6% linfocitos, plaquetas 217.000.
+• Tiempos de coagulación: tasa de protrombina 100%; INR 1; fibrinógeno 252 mg/dl.
+• Bioquímica: glucosa 85 mg/dl, urea 29,5 mg/dl, creatinina 0,94 mg/dl, ácido úrico 5,4 mg/dl, colesterol total 171 mg/dl, sodio 146 mmol/l y potasio 4,52 mmol/l.
+• Antígeno prostático específico (PSA) con sonda vesical: 4,87 ng/ml con cociente PSA libre/PSA total de 13%.
+• Ecografía abdominal: riñones de tamaño y ecoestructura normal, sin dilatación de la vía excretora. Vejiga urinaria con globo de la sonda vesical en su interior. Próstata irregular con un volumen aproximado de 47 cc.
+• Urografía intravenosa: captación, eliminación y evacuación renal bilateral normal.
+• Uretrocistoscopia rígida: uretra normal. Próstata sangrante. Vejiga con paredes trabeculadas en relación con vejiga de esfuerzo y sin alteraciones en la mucosa.
+
+Diagnóstico
+• Síndrome prostático.
+• Portador de sonda vesical permanente, tras retención aguda de orina.
+
+Tratamiento
+Bajo anestesia raquídea, se realiza resección transuretral de próstata con resector monopolar. La anatomía patológica del material obtenido fue informada como linfoma B difuso de célula grande, presente en el 50% de la muestra y confirmado con técnicas de inmunohistoquímica (se observó positividad en las células tumorales para CD20, CD79a, Bcl-2 y Bcl-6, y negatividad para CD10, CD3, CD5, CD30 y CD23).
+
+Evolución
+Tras el resultado de la anatomía patológica, el paciente es remitido al Servicio de Hematología para completar su estudio, con los siguientes resultados:
+• Tomografía computarizada (TC) cérvico-tóraco-abdómino-pélvica: sin hallazgos significativos de interés.
+• Gammagrafía con galio: captación patológica submandibular- laterocervical izquierda y en la pelvis. Dudosa captación patológica en los hilios pulmonares.
+• Biopsia de médula ósea (1 cilindro): sin signos de infiltración.
+Después de completar el estudio de extensión, se inició tratamiento con R- CHOP (rituximab-ciclofosfamida, doxorubicina, vincristina y prednisona), que se mantuvo durante 6 meses, llevando a cabo controles periódicos por parte del Servicio de Hematología. Tras completar el ciclo de quimioterápicos se realizó una nueva biopsia de próstata (se obtuvieron 3 cilindros del lóbulo derecho y 3 cilindros del lóbulo izquierdo), sin encontrarse restos de linfoma en el material estudiado.
+Posteriormente, el paciente continuó con controles periódicos, tanto por parte de Urología como de Hematología, estando asintomático y libre de progresión tumoral en el momento actual tras dos años y medio de evolución, como muestran las siguientes pruebas complementarias correspondientes al último control realizado.
+• TC cérvico-tóraco-abdómino-pélvica: sin signos que sugieran progresión tumoral.
+• PSA: 2,59 ng/ml.
+• Analítica sanguínea: hemoglobina 17,1 g/dl, hematocrito 51,4%, leucocitos 11.900 con 62,2% neutrófilos y 31,6% linfocitos, plaquetas 136.000, glucosa 102 mg/dl, urea 42,4 mg/dl, creatinina 1,18 mg/dl, ácido úrico 6,05 mg/dl, sodio 145 mmol/l y potasio 3,76 mmol/l.

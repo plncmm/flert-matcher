@@ -1,0 +1,35 @@
+Anamnesis
+Mujer 39 años, sin alergias medicamentosas conocidas ni antecedentes médicos de interés. Parche anticonceptivo como único tratamiento.
+Acudió al hospital por un cuadro clínico de inicio brusco de sensación de acorchamiento hemilingual derecho y disfagia, acompañado de hormigueo en el ala de la nariz derecha y en los dos primeros dedos de la mano derecha. No asociaba pérdida de fuerza, ni alteración del lenguaje ni de la visión. No refería cefalea acompañante. Una semana antes le habían realizado maniobras de estiramiento cervical por una "contractura cervical".
+
+Exploración física
+Exploración neurológica: consciente y orientada en las tres esferas. Lenguaje: fluido, comprende, nomina y repite. Leve disartria. Pupilas isocóricas y normoreactivas. Movimientos oculares externos normales. No alteraciones campimétricas. No diplopía. Parálisis facial supranuclear derecha e hipoestesia facial derecha. Hipofonía. Parálisis del XII par craneal derecho. No alteración a nivel motor ni sensitivo. Reflejos osteotendinosos normales con RCPFB. No dismetría ni disdiadococinesia. Romberg negativo con marcha normal. NIHSS = 2. Lesiones eritematosas violáceas en las manos y los pies de aspecto marmóreo, que impresionaban de livedo reticularis. Resto de exploración general normal.
+
+Pruebas complementarias
+• Tensión arterial 160/98 mmHg; frecuencia cardiaca 108 lpm; saturación de O2 99%. Afebril.
+• Analitica: hemograma, bioquímica, hormonas tiroideas, homocisteína, patrón lipídico y renal normales.
+• Serologías: hepatitis B y Brucella negativas. Borrelia: inicialmente positiva (IgG + IgM) sin confirmarse posteriormente en el líquido cefalorraquídeo ni en el suero.
+• Estudio inmunológico: anticuerpos anticardiolipinas, anti-nucleares, anti-DNA, ANCA, crioglobulinas y anticoagulante lúpico: negativos.
+• Estudio de trombofilias: negativo.
+• Bioquímica e inmunoelectroforesis de líquido cefalorraquídeo: normal. Serologías en líquido cefalorraquídeo: negativas.
+• Electrocardiograma: ritmo sinusal sin alteraciones en la repolarización.
+• Tomografía computarizada craneal: lesión hipodensa cortical valorable en un solo corte en la región témporo-parietal derecha sin efecto masa significativo y con una leve ampliación de un surco próximo. En el hemisferio cerebeloso izquierdo también se identificó una lesión profunda lacunar hipodensa. Ampliación marcada con un surco parietal del lado izquierdo con una pequeña zona de hipodensidad cortical en la profundidad del mismo. Resumen: lesiones isquémicas de aspecto antiguo-evolucionado en el lóbulo parietal izquierdo, región temporooccipital derecha y hemisferio cerebeloso del lado izquierdo. Se trataba de eventos isquémicos de pequeño vaso y en varios territorios. Además, se identificó una retracción difusa cerebral mayor de lo esperado para el grupo de edad de la paciente.
+• Estudio neurosonológico: dúplex de troncos supraaórticos: ejes carotídeos permeables, engrosamiento intimal en la carótida común derecha. No se observaron placas de ateroma. Vertebrales permeables con dominancia izquierda. Dúplex transcraneal: arteria cerebral media y arteria cerebral posterior permeables y simétricas. Fosa posterior: basilar normal, vertebrales permeables, dominancia izquierda.
+• Test de burbujas: negativo en reposo y con maniobras de Valsalva.
+• Angio-TC cervical y del polígono arterial cerebral: no se identificaron lesiones carotídeas, ni vertebrales ateroscleróticas significativas. En la circulación anterior no se identificaron alteraciones de las arterias cerebrales anteriores, existiendo dominancia del lado izquierdo como variante anatómica de la normalidad y sin alteraciones de las arterias cerebrales medias en los segmentos M1-M2. En la circulación no se observaron alteraciones de ambas PICA, AICA, cerebelosas superiores y cerebrales posteriores, con aparente permeabilidad milimétrica de las arterias comunicantes posteriores.
+• Resonancia magnética craneal: en el compartimento supratentorial se observaba una zona de hiperintensidad en secuencias T2 y FLAIR que afectaba a la corteza cerebral en el surco rolándico del lado izquierdo, inmediatamente caudal a la teórica localización del área motora de la mano según el homúnculo de Penfield. Esta zona mostraba una marcada hiperintensidad en la imagen de difusión con disminución de los coeficientes aparentes de difusión. Existían otras áreas de hiperintensidad periféricas en secuencias FLAIR, ninguna de las cuales mostraba una restricción de la difusión, una de ellas se localizaba en la profundidad de la circunvolución parietal del lado izquierdo, con marcada ampliación de la misma, lo que indicaría un componente de retracción cicatricial. También existía una sutil hiperintensidad que afectaba a una de las circunvoluciones temporales, pero sin pérdida de volumen asociada y con extensión de las alteraciones hacia la sustancia blanca adyacente. Además, en la fosa posterior, se visualizaba un foco de hiperintensidad milimétrico situado en el hemisferio cerebeloso del lado izquierdo, también sin disminución aparente de los coeficientes de difusión. Conclusión: lesión isquémica aguda que afectaba a parte del área motora primaria del lado izquierdo. Se identificaron otras lesiones, una de ellas de aspecto crónico y otra evolucionada situadas en el córtex cerebral de los lóbulos parietal izquierdo y temporal derecho, respectivamente. Infarto lacunar antiguo en el hemisferio cerebeloso izquierdo.
+• Angiorresonancia del polígono de Willis: no se observaron alteraciones de especial significación patológica en el polígono de Willis. El estudio cervical no identificó hematomas murales en los segmentos cervicales de ambas arterias vertebrales.
+• Arteriografía de troncos supraaórticos e IC: alteración de las ramas distales de las arterias cerebrales sugestivas de vasculitis de las arterias de medio/pequeño calibre.
+• Ecocardiograma (ECG): sin alteraciones.
+• Holter ECG: no se identificaron alteraciones del ritmo cardiaco.
+• Se realizó una biopsia cutánea procedente de la rodilla derecha: proceso inflamatorio perivascular de leve intensidad superficial dérmico, histológicamente inespecífico. Ausencia de imágenes de vasculitis ni de oclusión vascular.
+
+Evolución
+No ha presentado nuevos episodios deficitarios.
+
+Diagnóstico
+• Ictus isquémico en el territorio de la arteria cerebral media izquierda de causa infrecuente.
+• Infartos territoriales (parietal izquierdo y temporal derecho) evolucionados, clínicamente silentes.
+• Vasculopatía cerebral, con afectación de pequeño y mediano calibre.
+• Livedo reticularis.
+• Sospecha de síndrome de Sneddon.

@@ -1,0 +1,36 @@
+Anamneză
+Este vorba despre o femeie de 55 de ani diagnosticată cu 5 luni înainte de internarea la Neurologie cu adenocarcinom mucinos de endocervix intestinal cu celule în inel de semnet, în stadiul T2bN2M0. Studiul de extensie a exclus metastazele pulmonare și osoase și diseminarea peritoneală. A fost supusă unei intervenții chirurgicale cu limfadenectomie pelvină și para-aortică, lăsând un rest nerezecabil atașat la vena iliacă externă stângă. Ulterior, a primit un tratament de radioterapie de 46 Gy, chimioterapie concomitentă cu cisplatin săptămânal și implantare ulterioară de brahiterapie endocavitară. La douăzeci de zile după implantarea brahiterapiei, pacientul s-a prezentat la serviciul de urgență pentru cefalee pulsatilă severă în regiunea fronto-occipitală, însoțită de greață și vărsături. Durerea s-a prezentat progresiv și a evoluat până la o intensitate de 8/10. O trezea la primele ore ale dimineții și creștea odată cu manevra Valsalva. Pacienta era tratată cu un regim descrescător de dexametazonă de la radioterapie, levofloxacină 500 mg pe zi pentru cistita hemoragică secundară tratamentului, tapentadol 150 mg pe zi, omeprazol 20 mg la 24 de ore și diazepam 5 mg noaptea.
+
+Examinarea fizică
+Semnele vitale în limite normale. Afebril. Examen general: stare generală, pacient afectat de durere. Auscultația cardiopulmonară a fost normală. Nu a existat nicio dovadă de infecție activă.  Examenul neurologic: nivel bun de conștiență. Nu s-a observat rigiditate nucală (manevrele Kernig și Brudzinski negative). Elevii au fost izocorici și nu au fost nici mai activi. Examinarea nervilor cranieni a fost normală. Forța membrelor, coordonarea și sensibilitatea au fost normale. Reflexele osteotendinoase și cutaneo-plantare au fost normale. Examenul fundului de ochi a fost normal.
+
+Teste suplimentare
+- Tomografia computerizată (CT) de urgență: nu a existat nicio dovadă de hemoragie intracraniană sau leziuni metastatice, nici dilatare ventriculară.
+- Analize de sânge: anemie microcitică cu deficit de fier. Hipercolesterolemie ușoară, hipoalbuminemie ușoară. Funcția renală, hepatică și ionograma normală, inclusiv fosfatul și magneziul. Funcția tiroidiană normală.
+- Markerii tumorali: Ag-Ac Ca125 161,5 UI/ml, ridicat în comparație cu ultimul control (84,6 UI/ml).
+- Serologie pentru virusul herpes simplex și varicela zoster: pozitivă pentru IgG. Serologia bolii Lyme: negativă.
+- Puncție lombară (LP) (în departamentul de urgență): presiunea de ieșire a lichidului cefalorahidian (LCR): 40 cm H2O. Leucocite la limita normalității (5/mm3). Glucoza și proteinele se încadrează în limitele normale.
+- A doua puncție lombară (a 6-a zi): presiunea LCR 39 cm H2O.
+- A treia puncție lombară (a 18-a zi): presiunea LCR 28 cm H2O.
+- Analiza LCR: leucocite 5/mm3. Odihnă normală.
+- Culturi LCR: negative. Serologiile VDRL și boala Lyme sunt negative.
+- Citologie LCR (3): negativ pentru celule neoplazice.
+- Imagistica prin rezonanță magnetică (IRM) a creierului: mic focar de intensificare după administrarea intravenoasă de contrast la nivelul talamusului stâng, nespecific.
+- RMN-ul coloanei vertebrale: modificări osoase la nivel sacral, legate de radioterapia hipogastrică, care nu au implicat afectarea măduvei spinării. Măduva spinării și rădăcinile cauda equina au avut o morfologie și o intensitate a semnalului normale și nu au prezentat intensificare după administrarea intravenoasă de contrast.
+- Angiografie RMN cerebrală: nu au fost detectate malformații arteriovenoase.
+- Tomografia computerizată toracico-abdominală: nu a evidențiat o nouă afectare metastatică.
+
+În urma agravării cefaleei și a apariției hipoacuziei și a parezei faciale, au fost efectuate următoarele teste:
+- Test de sânge: nu există rezultate noi. Ag-Ac Ca125 189,1 UI/l.
+- A patra puncție lombară: presiunea LCR 33 cm H2O. Hiperproteinoree (73,76 mg/dl) și hipoglicemie (32 mg/dl).
+- Citologia LCR: negativă.
+- RMN coloanei vertebrale: ușoară intensificare liniară în marginea anterioară a conus medullaris și în rădăcinile cauda equina, după administrarea de gadoliniu, compatibilă cu diseminarea tumorală meningeală. RMN spinal lombar cu substanță de contrast intravenos (gadoliniu): intensificare anterioară liniară la nivelul conus medullaris și cauda equina, compatibilă cu carcinomatoza meningeală.
+
+Diagnostic
+Carcinomatoză meningeală secundară adenocarcinomului uterin.
+
+Tratament
+Inițial, pacienta a fost diagnosticată cu hipertensiune intracraniană de posibilă origine farmacologică (corticosteroizi și chinolone), pentru care a primit tratament cu acetazolamidă 250mg la fiecare 8 ore, analgezie cu antiinflamatoare nesteroidiene și opioide și tratament antiemetic cu metoclopramidă și ondansetron. Tratamentul descrescător cu corticosteroizi a fost continuat, iar tratamentul antibiotic cu levofloxacină a fost retras.  
+
+Evoluție
+După 3 săptămâni de tratament, presiunea intracraniană și durerea au scăzut, dar pacientul a început să prezinte progresiv pareză facială, pierdere de auz și scăderea acuității vizuale. Au fost efectuate teste repetate de sânge și LCR și un nou RMN spinal, care s-au dovedit a fi compatibile cu carcinomatoza meningeală. Citologia LCR pentru celule neoplazice a fost din nou negativă. După diagnosticare, pacientul a fost tratat cu radioterapie holocraniană și lombosacrală, dar răspunsul nu a fost bun și pacientul a murit 20 de zile mai târziu.

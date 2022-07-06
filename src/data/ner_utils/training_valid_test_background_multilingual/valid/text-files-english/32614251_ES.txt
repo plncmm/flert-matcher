@@ -1,0 +1,25 @@
+A 20-year-old woman who was a second pregnancy with no symptoms of COVID-19 was admitted to another hospital for delivery at 39 weeks of gestation.
+A SARS-CoV-2 test was performed by RT-PCR because her father had been diagnosed with COVID-19 one week before.
+The mother wore a surgical mask during normal vaginal delivery, giving birth to a 2,980 g child (normal for her gestational age).
+However, the SARS-CoV-2 test by RT-PCR from nasopharyngeal swabs was positive, so that the mother and child were separated immediately after delivery.
+The mother, therefore, had no contact with the child after birth.
+Both cases were admitted to our hospital at 8 o'clock after delivery, with a diagnosis of subclinical COVID-19 mother on April 5, 2020.
+The child was admitted to the neonatal ICU, while the mother was admitted to the infectious diseases ward.
+The SARS-CoV-2 test by PCR from nasopharyngeal swabs obtained from the child at admission (8-10 hours after birth) yielded negative results.
+The mother and child were attended in different clinical units to avoid mutual contact during discharge.
+In addition, the child does not have contact with any other family member until discharge.
+Both the mother and the child had good health status, without fever or other symptoms during their hospital stay.
+His vital signs were stable and oxygen saturation was 98-99%.
+Healthcare professionals, mental patients, etc.
+on 6 April 2020.
+However, after the first lactation, a sample of breast milk was sent to the virology department of the University of Ankara for testing SARS-CoV-2 by real-time RT-PCR.
+The result was positive, moment from which feeding with breast milk was integrated.
+During the following two days, SARS-CoV-2 tests were performed on breast milk samples to determine the time of virus presence.
+The child received a total of ∼240 cc of breast milk in the first 36 hours of life.
+As the child received breast milk for 24-36 hours until the results of the PCR test were received from the mother, blood, feces and nasopharyngeal swabs were collected for the child at 96 hours of age by PCR test.
+The single-step PCR directed to the S gene showed almost equal viral loads in milk samples obtained on days 5, 8 and 9 (degree of cycle [Ct]: 29.20, 28.85).
+Ct values of nasopharyngeal swabs, blood and stool samples from the child, obtained on April 9, were 32.71, 33.10 and 32.84, respectively.
+During follow-up, neither mother nor child showed symptoms requiring intervention or treatment.
+Five days after admission, the mother was encouraged to breastfeed the child taking the necessary precautions; both were discharged from the hospital.
+In a telephone follow-up 2 weeks after discharge (day 19 since birth), the mother and child were in good health, with no symptoms of COVID-19.
+The comforting result in this child may have been secondary to the protective effect of breast milk.

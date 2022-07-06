@@ -1,0 +1,24 @@
+Anamnesis
+Paciente de 79 años de edad, con antecedente de hipertensión arterial, insuficiencia venosa crónica y fibrilación auricular en tratamiento con anticoagulante oral (acenocumarol) que acude al Servicio de Urgencias por fiebre de 38 oC asociada con dolor en la fosa iliaca y el flanco izquierdo de un día evolución. Astenia, adinamia y pérdida de 5 kg de peso en los últimos 3 meses.
+Presentó un episodio aislado de hematuria macroscópica monosintomática autolimitada hace 2 años, estudiada por el Servicio de Urología, donde se realizaron una ecografía del aparato urinario, una cistoscopia, una citología urinaria y una URO-RM, que reportaron como únicos hallazgos patológicos una ectopia renal y un divertículo vesical. Hace 2 meses presentó un nuevo episodio de hematuria macroscópica intermitente asociado a síntomas progresivos del tracto urinario inferior.
+
+Examen físico
+Paciente con mal estado general, cardiopulmonar estable. Se observa una masa abdominal en la zona del hipogastrio, de consistencia sólida, levemente dolorosa a la palpación. Puñopercusión renal izquierda positiva. No signos de irritación peritoneal. Murphy, Mc Burney y Blumberg negativos. Tacto rectal: próstata de volumen II, no sospechosa.
+
+Pruebas complementarias
+• Analítica de ingreso: hemoglobina 10,5 g/dl, leucocitos 12,3 x103/μl, neutrófilos 83%, creatinina 1,24 mg/dl, PCR 12 mg/dl, procalcitonina 0,2 ng/dl.
+• Ecografía: se observa el riñón izquierdo ectópico, con ectasia pielocalicial y ureteral, así como malrotación de este riñón, con cortical preservada. Riñón derecho sin anomalías. En la pelvis se identifica un gran divertículo vesical dependiente de la cara lateral izquierda de la vejiga, con áreas hipoecoicas en su interior. Mide 12 x 12 x 15 cm de diámetro, compatible con una neoformación vegetante dependiente de la pared de dicho divertículo vesical. Se asocia la presencia de otros múltiples divertículos vesicales de menor tamaño.
+• Cistoscopia: gran cantidad de detritus, se visualiza un divertículo vesical de boca ancha, y dentro de la cavidad del mismo se observa una neoformación de aspecto papilar que ocupa más del 70% de su superficie, predominantemente en la cúpula y la pared lateral izquierda del divertículo. No se visualiza orificio ureteral izquierdo.
+• Tomografía computarizada (TC) abdómino-pélvica sin y tras administración de contraste intravenoso (CIV): se observa una gran masa pélvica que depende de la pared lateral izquierda de la vejiga, a la cual desplaza hacia la derecha. Mide 18 x 16 x 17 cm de diámetro. Es heterogénea, de bordes polilobulados, compatible con neoplasia vesical. Condiciona ureterohidronefrosis grado III izquierda, visualizándose el uréter hasta el tercio medio, donde es comprimido por la masa. Hernia inguinoescrotal izquierda que contiene grasa omental. Hígado, vía biliar intra y extrahepática, vesícula biliar, páncreas, bazo y ambas suprarrenales no presentan alteraciones radiológicas significativas. No se observa líquido libre intraabdominal.
+• Radiografía de tórax: sin hallazgos patológicos. No lesiones sugerentes de metástasis.
+
+Diagnóstico
+Carcinoma sarcomatoide de divertículo vesical.
+
+Tratamiento
+El paciente es ingresado en el Servicio de Urología, al no mejorar el cuadro clínico infeccioso de origen urinario y debido al deterioro progresivo de la función renal pese al tratamiento médico, se le realizó nefrostomía percutánea izquierda.
+Tras los estudios complementarios: cistoscopia y TC abdómino-pélvica se confirma la presencia de una tumoración dependiente del divertículo vesical. Se realiza resección transuretral incompleta de la tumoración del divertículo vesical, cuya anatomía patológica se informó como carcinoma in situ.
+Se presentó el caso en comité multidiciplinario y se decidió la realización de una cistectomía radical. Se realizó cistoprostatectomía radical más ureterostomía cutánea derecha, resección del intestino delgado y sigma secundario a infiltración neoplásica, colostomía y ligadura del uréter izquierdo que, dada su corta longitud, imposibilitaba realizar otro tipo de derivación urinaria, lo que obligó a mantener la nefrostomía izquierda. La anatomía patológica se informó como carcinoma sarcomatoide vesical pT4bN2Mx.
+
+Evolución
+Durante el postoperatorio cursa con evolución clínica favorable. Valorado posteriormente por Oncología, que desestima el tratamiento dada la morbilidad del paciente. Tras 4 meses de seguimiento el paciente cursa sin complicaciones, se llevan a cabo recambios periódicos de catéter ureterales y manejo paliativo.

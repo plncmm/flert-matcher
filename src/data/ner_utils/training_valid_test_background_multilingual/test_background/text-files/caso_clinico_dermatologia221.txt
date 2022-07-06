@@ -1,0 +1,22 @@
+Anamnesis
+Interconsulta procedente del servicio de Neumología a Dermatología para valoración de lesiones cutáneas de 3 días de evolución en paciente ingresada por adenocarcinoma de pulmón estadío IV diagnosticado durante el ingreso (por disnea y dolor costal), para el que aún no realizaba ningún tratamiento. Se trataba de una mujer de 58 años de edad, fumadora de 1 paquete/día (consumo acumulado 30 paquetes/año) y colecistectomizada como antecedentes personales de interés. La paciente se encontraba ingresada en planta de neumología desde hacía 4 días para realización de pruebas complementarias e iniciar tratamiento oncológico y presentaba lesiones cutáneas de aparición brusca en cara anterior y proximal de miembros y en región superior de la espalda de 72 horas de evolución, que cursaban con escaso dolor y se acompañaban de fiebre de 38oC.
+
+Exploración física
+Presentaba lesiones papulosas ligeramente eritematosas, redondeadas, bien delimitadas, de bordes irregulares y aspecto pseudovesiculoso, moderadamente infiltradas, de un tamaño comprendido entre 0.7-1 cm de diámetro, distribuidas de manera bilateral y asimétrica por cara anterior y proximal de miembros superiores e inferiores y en parte alta de la espalda, en número escaso. Ligeramente dolorosas al tacto. No ulceración ni supuración, no afectación de mucosas. Afebril y con buen estado general.
+
+Pruebas complementarias
+• Analítica: ionograma, perfil renal y hepático normales, PCR 101, fibrinógeno 6.3, leucocitos 3340 sin neutrofilia, eosinofilia 830. Marcadores tumorales incluyendo enolasa neuronal específica, Ca 125 y Ca 15.3 elevados.
+• Histopatologíamusloizquierdo: infiltradodifuso de PMN neutrófilos en dermis media alta y edema en dermis papilar, sin vasculitis.
+• Inmunofluorescencia directa piel: ausencia de depósito de los antisueros estudiados (IgA, IgG, IgM, C3 y fibrinógeno).
+• TAC tórax y abdomen: masa mediastino/pulmonar que ocluye pirámide basal izquierda con derrame pleural izquierdo, adenopatía diafragmática izquierda y en ligamento gastrohepático. LOES renales.
+
+Diagnóstico
+Se realizó en base a los hallazgos clínicos, analíticos e histopatológicos el diagnóstico de Síndrome de Sweet paraneoplásico.
+En base a los criterios diagnósticos de Su y Liu (1986) cumplía los dos criterios mayores (nódulos eritematosos de comienzo brusco, infiltración dérmica NT) y tres criterios menores (fiebre, aso-
+ciación a cáncer y buena respuesta a tratamiento esteroideo).
+
+Tratamiento
+Se pautó tratamiento con Dexametasona 4 mg cada 8 horas.
+
+Evolución
+A los 3 días de instaurarse tratamiento con Dexametasona 4 mg cada 8 horas las lesiones desaparecieron dejando hiperpigmentación residual. Poco después comenzó tratamiento quimioterápico para su patología oncológica durante 3 meses, con mala evolución y muerte de la paciente por aparición de complicaciones (sepsis grave de origen respiratorio con insuficiencia respiratoria junto a progresión de adenocarcinoma pulmonar metastásico).

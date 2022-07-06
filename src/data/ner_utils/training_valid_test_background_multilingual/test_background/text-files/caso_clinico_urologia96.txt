@@ -1,0 +1,26 @@
+Anamnesis
+Varón de 33 años de edad, diagnosticado de tumor germinal mixto (seminoma + carcinoma embrionario + tumor del seno endodérmico) estadio IB (T2N0M0). Fue tratado con orquiectomía inguinal izquierda y quimioterapia según esquema BEP (bleomicina, etopósido y cisplatino) x 2 hace 7 años, sin evidencia de enfermedad residual.
+Se objetivó una adenopatía retroperitoneal de 3 cm tras 5 años de seguimiento, que fue tratada con cirugía (teratoma y carcinoma embrionario pobremente diferenciado) y quimioterapia (4 ciclos de TIP: placitaxel, isofosfamida y cisplatino).
+Hace 2 años el paciente presenta dolor lumbar mecánico y elevación de la LDH en la analítica, siendo diagnosticado de recidiva retroperitoneal. Se administraron cuatro ciclos más de TIP y se realizó trasplante de médula ósea, a pesar de los cuales la enfermedad no remitió.
+
+Examen físico
+Sin hallazgos relevantes.
+
+Pruebas complementarias
+• Analítica: alfa-fetoproteína 2,77 μg/l, beta-HCG < 0,1 mUI/ml, LDH 279 UI/ml.
+• Tomografía computarizada (TC) tóraco-abdómino-pélvica: riñón izquierdo de menor tamaño y menor captación del contraste, con afectación del parénquima medial inferior por área hipodensa, junto a foco de mayor atenuación, probablemente postquirúrgico, que se extiende a la zona teórica del uréter y al músculo psoas izquierdo. En planos inferiores rodea el uréter y se extiende a la región paraaórtica izquierda. Riñón derecho sin alteraciones. Aumento en calibre de la pelvis renal, de 2,7 cm. Resto del estudio sin alteraciones significativas.
+
+Diagnóstico
+Recidiva retroperitoneal de tumor germinal testicular.
+
+Tratamiento
+Exéresis de la masa residual retroperitoneal: disección latero-aórtica, en un plano con abundante grasa muy fibrosada. Se libera una masa adyacente al psoas izquierdo, que se encuentra íntimamente adherida al polo renal inferior.
+El estudio anatomopatológico informa de: tejido fibroadiposo con infiltración por una neoplasia indiferenciada de células redondas con fenotipo inmunohistoquímico de sarcoma de Ewing-PNET, que afecta a todas las muestras.
+
+Evolución
+El paciente es dado de alta a su domicilio con buena evolución postoperatoria. Se inició tratamiento de quimioterapia con VAC-IE (vincristina, actinomicina D y ciclosfosfamida, con ciclos alternantes de isofosfamida y etopósido).
+En la siguiente revisión, la TC tóraco-abdómino-pélvica informó de mayor hidronefrosis izquierda que en el estudio previo y recidiva de la masa retroperitoneal, de 3,7 x 4,6 cm, sin plano de separación con el polo inferior del riñón, y que engloba el trayecto proximal del uréter. Habiendo conseguido un intervalo libre de enfermedad menor de un año.
+Se realizó exéresis de la masa retroperitoneal residual y nefrectomía izquierda, con diagnóstico anatomopatológico de:
+• Adenopatía paraaórtica con tejido fibroconectivo con infiltración por PNET.
+• Pieza de nefrectomía derecha con presencia de tumor neuroectodérmico periférico (PNET síndrome de Ewing) que infiltra la pelvis, el parénquima renal adyacente y el tejido perirrenal, alcanzando el borde hiliar. El resto del parénquima renal con pielonefritis crónica.
+Actualmente el paciente está en tratamiento con radioterapia externa.

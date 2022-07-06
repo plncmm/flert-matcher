@@ -1,0 +1,24 @@
+Anamnèse
+Homme de 44 ans, avec une habitude énolique chronique (40g/jour) et des antécédents d'infection VIH-1 du groupe CDC A2 diagnostiquée en 1993, sous traitement par ténofovir, emtricitabine et efavirez avec une charge virale indétectable et des CD4=846 cellules/ μl, ainsi qu'une hépatite C chronique, génotype 4, récemment diagnostiqué (non traité), qui a été adressé au service de dermatologie pour avoir présenté des cloques sur le dos des mains qui s'étaient développées sur une période de 4 mois à la suite d'un traumatisme mineur sur cette zone, qui s'est cassé, entraînant des plaies qui ont guéri en laissant des cicatrices.
+
+Examen physique
+L'examen a révélé la présence de vésicules tendues à contenu séreux mesurant 0,51 cm sur le dos des mains et des deux avant-bras, ainsi que des érosions superficielles et des croûtes sérohématiques. Il avait une lésion isolée de caractéristiques similaires sur les oreillettes.
+Le patient présentait une lésion isolée de caractéristiques similaires sur les pavillons auriculaires. Il y avait également des cicatrices atrophiques résiduelles avec hypopigmentation en périphérie et quelques kystes de millium. Sur le visage, au niveau périoculaire et sur les deux joues, il y avait une pigmentation de type mélasma et une légère hypertrichose malaire.
+
+Examens complémentaires
+- Biochimie : GPT 80 (5-45 U/l), GOT 49 (5-37 U/l), GGT 117 (8-61 U/l). Glucose, cholestérol, fonction rénale et ions sans altération.
+- Hémogramme : Hb 17,2 g/dl, hématocrite 49,6 (39,1-49,7%).
+- Profil ferrique : fer 192 (59-158 μg/dl), ferritine 440 (30-400ng/ml), transferrine 230 (200360mg/dl), % saturation transferrine 53 (20-50%). Cérulopasmine 27 (15-30 mg/dl). Alpha-1-antitrypsine 150 (90-200mg/dl).
+- Sérologie : positif pour le VHC avec une charge virale détectable (14,00 UI/ml) et positif pour le VIH avec une charge virale indétectable. Autres sérologies négatives.
+- Porphyrines dans les urines de 24 heures : Dépistage des porphyrines totales 4773 (10-200) avec la présence d'un pic de haute intensité à 623nm dans le scan fluorométrique. Coproporphyrines 1709 (< 150 μg/gr), Uroporphyrines 3064 (< 30 μg/gr), Acide delta-aminolévulinique 5,52 (< 7,50 mg/l), Porphobilinogène 1,31 (< 2,50 mg/l).
+- Porphyrines plasmatiques totales : 9,5 (0,1 μg/dl).
+- L'étude histologique d'une lésion vésiculeuse a montré une vésicule sous-épidermique entourée d'un infiltrat inflammatoire mixte ainsi qu'un dépôt PAS-positif de matériel fibrillaire au niveau périvasculaire dans le derme superficiel. L'immunofluorescence a révélé un dépôt d'IgG dans les parois des vaisseaux.
+
+Diagnostic
+Sur la base des caractéristiques cliniques, analytiques et histologiques, le patient a été diagnostiqué comme ayant une Porphyria Cutanea Tarda (PCT).
+
+Traitement
+Après le diagnostic, le patient a été orienté vers l'unité des maladies infectieuses où un traitement pour l'hépatite C a été commencé avec de l'interféron alpha et de la ribavirine. Nous avons insisté sur l'importance d'éliminer les déclencheurs cliniques (traumatisme, consommation d'alcool) et sur l'utilisation de la photoprotection. En revanche, compte tenu de la présence d'altérations du profil ferro-cinétique, nous recommandons des saignées périodiques tous les 15 jours.
+
+Evolution
+Après 4 mois de traitement, une guérison sérologique de l'hépatite C a été observée, maintenant une charge virale indétectable jusqu'à aujourd'hui, ainsi qu'une normalisation du profil ferrocinétique et une grande amélioration de la porphyrie avec une résolution pratiquement complète des lésions cutanées et une réduction progressive des chiffres de profirines dans le sang et l'urine.

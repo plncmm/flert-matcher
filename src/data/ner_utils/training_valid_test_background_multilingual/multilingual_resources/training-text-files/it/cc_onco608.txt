@@ -1,0 +1,41 @@
+Anamnesi
+Maschio, 52 anni, nessuna allergia nota ai farmaci, informatico. Ex-fumatore (IPA: 30). Storia personale: tinnito bilaterale. Nessun farmaco regolare. Storia familiare: madre con diagnosi di neoplasia del colon e glioblastoma multiforme.
+
+Storia oncologica
+Nel febbraio 2019, a causa della tosse e di una sensazione di oppressione cervicale, è stata eseguita una TAC toracica che mostrava una grande massa mediastinica anteriore polilobulata di 12 x 14 x 15 cm con ampio contatto con l'aorta ascendente e la vena cava superiore. È stata eseguita una PET-CT che ha confermato questi risultati e ha mostrato l'attività metabolica della lesione (SUV 8.3), senza evidenza di adenopatia o coinvolgimento viscerale a qualsiasi altro livello. È stata eseguita una biopsia, con un rapporto patologico di cellule epiteliali CKAE1/3, cheratina, p63 e PAX8 positive con una componente linfoide CD45 e TdT positiva e sinaptofisina negativa, compatibile con un carcinoma timico.
+Data la diagnosi di carcinoma timico con contatto esteso con i grandi vasi, il caso è stato presentato al comitato multidisciplinare per i tumori e si è deciso il trattamento con chemioterapia di induzione.
+L'11/03/2019 ha iniziato il trattamento con carboplatino-etoposide, somministrando 2 cicli (ultimo ricevuto il 03/04/2019), con tolleranza regolare, presentando come effetti collaterali nausea di grado 2 e trombopenia e neutropenia di grado 4.
+
+Malattia attuale
+Si è presentata al pronto soccorso il 18/04/2019 a causa di dolori al polpaccio sinistro da 5 giorni e febbre con brividi per 1 ora, senza altri sintomi di accompagnamento.
+
+Esame fisico
+Emodinamicamente stabile. A 37,7oC, saturazione di O2 respirando aria ambiente 98%. Cosciente e orientato nelle tre sfere, Glasgow 15. Funzioni superiori conservate, pupille isocoriche e normoreattive, senza alterazione dei nervi cranici e con riflessi osteotendinei, simmetrici e forza e sensibilità conservate.
+Auscultazione cardiopolmonare normale e addome senza masse o visceromegalia o segni di peritonismo.
+Arti inferiori senza edema, evidenziando in IBD eritema a livello gemello con la palpazione del cavo venoso, senza aumento di temperatura e con segno di Homans negativo.
+
+Test complementari
+"Esami del sangue: leucociti 1.600, neutrofili 310, emoglobina 8,8, piastrine 14.000, D-dimeri 576, CRP 224,4, procalcitonina 0,17. Altri valori biochimici e di coagulazione normali.
+"Ecografia Doppler venosa degli arti inferiori: nessun segno di trombosi venosa superficiale o profonda in DID o IBD.
+"Coltura delle urine: Escherichia coli pansensibile".
+"Colture del sangue: negative.
+
+Diagnosi
+"Masaoka stadio III del carcinoma timico.
+"Neutropenia febbrile.
+"Dolore al gemello sinistro non correlato.
+
+Trattamento
+In considerazione della pancitopenia febbrile, sono state richieste colture, è stata iniziata un'antibiotica empirica con piperacillina-tazobactam, è stato somministrato G-CSF e si è deciso di ricoverare il paziente nel reparto di oncologia medica. Per quanto riguarda il dolore nelle IBD, la trombosi venosa profonda è stata esclusa e l'analgesia endovenosa è stata iniziata con paracetamolo e dexketoprofene.
+
+Evoluzione
+Il dolore al polpaccio sinistro è scomparso completamente dopo 48 ore con l'analgesia prescritta. Durante l'ammissione, il paziente ha recuperato dalla pancitopenia, ma persisteva con picchi febbrili, quindi lo spettro antibiotico è stato esteso.
+Il 7° giorno di ricovero, il paziente ha subito un arresto respiratorio a causa di un'insufficienza respiratoria ipercapnica, quindi è stata eseguita l'intubazione e il paziente è stato successivamente ricoverato nell'unità di terapia intensiva.
+L'estubazione è stata tentata in due occasioni, richiedendo la reintubazione, a causa dell'acidosi respiratoria e della diminuzione del livello di coscienza (Glasgow 3). È stata anche osservata disautonomia con ipersudorazione e instabilità emodinamica con rapida fibrillazione atriale. Successivamente, è stata osservata una limitazione motoria degli arti prevalentemente prossimali e superiori.
+Visto il sospetto di malattia neuromuscolare, sono stati eseguiti i seguenti test complementari:
+"Puntura lombare: nessuna pleocitosi o dissociazione albumina-citologica.
+"EMG: segni di denervazione della muscolatura bulbo-facciale, cervicale e lombare prossimale con coinvolgimento periferico dei nervi cranici (assenza di R1 nel riflesso di ammiccamento), assenza di risposte bilaterali del nervo frenico, conduzione motoria con ampiezze ridotte e neurografia sensoriale normale.
+"Autoimmunità: anticorpi positivi contro il recettore dell'acetilcolina (titoli di 2,64 nmol/l) e antititina. Tutti gli altri anticorpi anti-neuronale, anti-MAG, anti-MUSH, anti-MAG, anti-nucleare, anti-Ro, anti-ganglioside e anti-canali del sodio e del potassio erano negativi.
+"Una TAC toracoaddominale-pelvica è stata eseguita per escludere progressione e/o complicazioni, visualizzando la massa mediastinica anteriore di circa 8 cm di diametro, con ampio contatto con la vena cava superiore e l'aorta ascendente, senza segni evidenti di infiltrazione mediastinica.
+Con questi risultati, il caso è classificato come miastenia gravis paraneoplastica in un paziente con carcinoma timico. Il test Tensilon (test dell'edrofonio) non ha potuto essere eseguito a causa della disautonomia del paziente.
+Il 30/04/2019 è stato iniziato un trattamento con immunoglobuline e, data la mancanza di risposta dopo cinque giorni, è stato iniziato un trattamento con metilprednisolone in bolo. Successivamente, è stata aggiunta la piridostigmina, ma nonostante tutto questo, il paziente ha avuto un'evoluzione sfavorevole, senza alcuna prova di miglioramento, quindi il ritiro della ventilazione meccanica e l'inizio della sedoanalgesia palliativa sono stati concordati con la famiglia, e il paziente è infine morto il 21 maggio 2019.

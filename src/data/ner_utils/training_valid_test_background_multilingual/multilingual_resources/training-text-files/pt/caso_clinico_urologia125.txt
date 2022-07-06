@@ -1,0 +1,24 @@
+Anamnese
+Um homem de 24 anos com uma história de polipose intestinal, angioma do antebraço esquerdo e nádega direita. Veio ao Departamento de Emergência para hematúria de um mês de evolução com múltiplas consultas anteriores, associadas ao agravamento do estado geral, febre de 38oC de 12 horas de evolução, arrepios, sudorese, dores na fossa renal esquerda e no flanco, diminuição da diurese.
+
+Exame físico
+Exame físico à admissão: pressão arterial 154/99 mmHg, frequência cardíaca 109 bpm, temperatura 37,7 oC. Abdómen doloroso à palpação no flanco esquerdo e percussão ipsilateral positiva do punho renal; à auscultação houve um murmúrio abdominal perceptível. A hematúria macroscópica é evidenciada pela cateterização da bexiga.
+
+Testes complementares
+- Os testes laboratoriais mostraram leucocitose de 15.100 mil/mm3, plaquetas 136.000 mil/mm3, sedimento urinário com >100 glóbulos vermelhos e leucócitos por campo. O resto foi inalterado.
+- Ultra-som abdominal: grande malformação arteriovenosa (AVM) no rim esquerdo com dilatação aneurismática secundária de 9,5 cm. Rim esquerdo de tamanho normal, ecogenicidade e diferenciação corticomedular um pouco aumentada.
+- Angiografia de tomografia computorizada: formação no rim esquerdo, de aspecto vascular, com grandes vasos e uma formação aneurismática no seu pólo inferior de 92 x 95 mm, compatível com a MAV. Foram observados quatro vasos arteriais da aorta que forneciam a malformação e o rim esquerdo. A formação aneurismática comunica através da veia renal esquerda com a veia cava, que tem um calibre aumentado. O rim direito está inalterado.
+- O estudo é complementado do ponto de vista cardiológico para determinar as repercussões da lesão renal sobre o estado hemodinâmico do doente.
+- Ultra-som transtorácico: ligeira dilatação das quatro câmaras cardíacas com espessuras normais, compatível com sobrecarga volumétrica. Fração de ejeção ventricular esquerda normal, válvulas normais. Pletora de cava (dilatação severa de 38 mm sem colapso respiratório) em relação ao hiperfluxo.
+- Ressonância magnética cardíaca: cardiomegalia à custa de câmaras direitas com sinais de sobrecarga ipsilateral. Dilatação do tronco da artéria pulmonar, hipertrabeculação de ambos os ventrículos predominantemente do VE com diminuição da função sistólica.
+
+Diagnóstico
+Foi estabelecido um diagnóstico de AVM do rim esquerdo, com hipertensão arterial e hematúria, complicada pela pielonefrite aguda esquerda.
+
+Tratamento
+Uma vez estabelecido o diagnóstico, foi iniciado o tratamento antibiótico da condição infecciosa. Posteriormente, o caso foi avaliado pela Radiologia Intervencionista, que excluiu a intervenção devido às características morfológicas da lesão e à impossibilidade técnica, procedendo à embolização das artérias renais secundárias esquerdas por meio de acesso percutâneo com dispositivos Amplatzer e pedículo inferior da malformação com bobinas por Cirurgia Vascular, A embolização do terceiro ramo não foi possível porque tinha um pescoço muito pequeno da parede da aorta, e a tomografia computadorizada de controlo mostrou um preenchimento de contraste da lesão semelhante aos estudos anteriores.
+Tendo em conta os resultados, foi decidido realizar uma intervenção conjunta entre a Cirurgia Vascular e a Urologia. Foi realizada uma nefrectomia em bloco à esquerda com a AVM e o aneurisma.
+
+Evolução
+Apresentou uma evolução pós-operatória favorável, tendo recebido alta alguns dias depois, com revisões posteriores que mostraram que o paciente se encontrava em bom estado geral e tinha experimentado uma melhoria dos seus parâmetros cardiológicos; foi avaliado pelo Serviço de Genética, que realizou um estudo para determinar a etiologia da lesão vascular.
+Actualmente está assintomático e hemodinamicamente estável, sendo seguido pela Medicina Interna para bócio multinodular e pelo Sistema Digestivo para polipose cólica.

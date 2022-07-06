@@ -1,0 +1,37 @@
+Anamnesi
+Un home fumador de 61 anys acudeix a Urgències per presentar una crisi de moviments tònic-clònics generalitzada de diversos minuts de durada amb posterior estat postcrític.
+Es tractava d'un home solter que vivia només en un entorn rural. No tenia altres antecedents mèdics d'interès ni contactes rellevants.
+El pacient i la família referien que prèviament havia presentat símptomes generals amb febrícula, pèrdua de pes i astènia amb anorèxia.
+
+Exploració física
+» TA 120/70 mm Hg. Ta 37,7 oc. FC 80 lpm. Saturació d'oxigen 95% basal.
+» Eupneico. No es palpaven adenopaties.
+» Auscultació pulmonar amb roncus disseminats en tots els camps.
+» Auscultació cardíaca rítmica sense soplos ni extratonos.
+» Abdomen tou i depresible, amb sorolls hidroaéreos normals.
+» No tenia edemes ni signes de trombosi venosa.
+» L'exploració de la pell no revelava alteracions rellevants.
+
+Proves complementàries
+En Urgències es va realitzar hemograma, coagulació i bioquímica sanguínies, que van ser normals.
+Es va realitzar radiografia de tòrax que va mostrar una massa pulmonar d'aproximadament 3 cm en lòbul mitjà en contacte amb la pleura parietal compatible amb neoplàsia primària pulmonar, i TC cerebral que va mostrar LLOÏS frontals dretes amb edema vasogénico associat que suggeria metàstasis cerebrals.
+El pacient va ingressar en Medicina Interna on es va realitzar TC toracoabdominopélvica que va mostrar massa pulmonar en língula i nòdul en segment en LSD amb dades d'emfisema paraseptal i probable fibrosi pulmonar. No hi havia dades d'afectació a altres nivells.
+Es va realitzar biòpsia amb agulla gruixuda guiada per TC d'aquesta massa en língula que va resultar ser compatible amb material constituït per grups tridimensionals glandulars atípics compatible amb adenocarcinoma. No es van detectar mutació de EGFR ni translocació de ALK. Així mateix, es van realitzar serologies de VIH i hepatitis que van ser negatives.
+
+Diagnòstic
+Amb el diagnòstic de adenocarcinoma de pulmó estadi IV per afectació cerebral en un pacient amb ECOG-0, es va remetre a Oncologia.
+
+Tractament
+Es va instaurar tractament amb dexametasona a dosi de 4 mg cd 8 hores via oral, levetiracetam 500 mg cada 12 hores via oral i omeprazol 20 mg via oral al dia. Va rebre radioteràpia holocraneal i, posteriorment, un primer cicle de quimioteràpia amb Carboplatí AUC-5-paclitaxel 175 mg /m²-bevacizumab 15 mg iv.
+
+Evolució
+Als 15 dies de finalitzar la radioteràpia holocraneal, va acudir a Urgències per simptomatologia respiratòria consistent en dispnea i tos productiva, febre elevada i desorientació.
+El pacient presentava important afectació de l'estat general amb taquipnea i tiraje. Estava febril (39oC) i taquicàrdic FC 120 lpm) amb PA de 130/70 mm Hg. En l'auscultació pulmonar, s'apreciaven roncus bilaterals. La resta de l'exploració física era anodina.
+En l'analítica realitzada destacava una leucocitosis amb elevació de reactants de fase aguda i gasometria arterial que mostrava una insuficiència respiratòria hipoxémica amb una PaO2 de 45 mm Hg. Es van extreure hemocultivos i cultiu d'esput.
+Es va realitzar una nova radiografia de tòrax on s'apreciava infiltrat intersticial bilateral a més de la lesió pulmonar ja coneguda.
+Va ingressar en planta d'Oncologia amb oxigenoteràpia a 15 lpm, tractament corticoide intravenós, broncodilatadores i antibiòtic d'ampli espectre basat en meropenem 1 g cada 8 hores en considerar al pacient immunodeprimit.
+L'evolució clínica no va ser satisfactòria en els dos primers dies, mantenint-se febril i hipoxémico, per la qual cosa es va decidir afegir al tractament sulfametoxazol-trimetoprima (160 mg/32 mg cada 6 hores) pensant a cobrir una possible infecció oportunista per Pneumocystis jirovecii, atès que es tractava d'un pacient oncològic en tractament amb dosis altes de corticoides.
+A les 24 hores, el pacient va quedar afebril i, posteriorment, va anar millorant la seva oxigenació, sent possible anar reduint l'aportació d'oxigen i les dosis de corticoides.
+Als 5 dies de l'ingrés, es va rebre el resultat del cultiu d'esput, que va ser positiu per a Nocardia spp
+Amb aquestes dades i revisant la història natural de la infecció per Nocardia, decidim consultar amb el Servei d'Infeccioses i sol·licitem una nova AC cerebral que es va realitzar 21 dies després de la instauració del tractament amb sulfametoxazol. La TC cerebral va mostrar regressió completa de les lesions cerebrals. Es va completar el tractament antibiòtic intravenós durant 4 setmanes i, finalment, el pacient va ser donat d'alta amb tractament antibiòtic via oral i seguiment en consultes externes d'Oncologia, rebent un total de 7 cicles del citat esquema de tractament.
+Posteriorment, va presentar progressió de la malaltia i finalment va morir a causa del seu tumor 9 mesos després del diagnòstic.

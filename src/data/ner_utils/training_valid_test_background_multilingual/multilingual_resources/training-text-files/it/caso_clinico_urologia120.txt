@@ -1,0 +1,27 @@
+Anamnesi
+Donna di 81 anni con una storia di iperuricemia, ipertiroidismo, dislipidemia, diabete mellito-II con coinvolgimento organico (retinopatia diabetica) e cardiopatia ischemica. Come trattamento medico, riceveva farmaci antiaggreganti piastrinici, lipidici, ipolipemizzanti, ipouricemici e antidiabetici orali.
+È arrivata al dipartimento di emergenza con instabilità dell'andatura dopo una caduta casuale di qualche ora prima. Entro 24 ore dal ricovero in Medicina Interna, ha subito una nuova caduta, iniziando con un'ematuria macroscopica.
+
+Esame fisico
+All'ammissione aveva suoni cardiaci aritmici con una frequenza di 100 bpm. L'addome era morbido, depressibile, indolore e senza palpazione di masse o megaliti. L'esame fisico 24 ore dopo l'ammissione era invariato, tranne che per l'ematuria macroscopica.
+
+Test complementari
+All'ammissione:
+- Biochimica: glicemia 244 mg/dl, creatinina 0,94 mg/dl, urea 54 mg/dl, ck 5.091 IU/l, CRP 3,30 mg/dl. Emogramma: 11.600 leucociti/l (82 neutrofili, 8 linfociti, 10 monociti). Coagulazione: fibrinogeno 499 mg/dl. Sedimento e sistema urinario: globuli rossi +++, glicosuria ++, proteine +. Ematuria lieve (5-10 H x C).
+- Elettrocardiogramma: fibrillazione atriale, 125 bpm.
+- Tomografia computerizzata (TC) del cervello senza contrasto: nessuna emorragia o altre immagini suggestive di patologia intracranica acuta.
+Ventiquattro ore dopo l'ammissione:
+- Microbiologia: coltura delle urine e due emocolture in cui è stato isolato Escherichia coli multisensibile.
+- TAC toraco-addominale: reni con bacino extrarenale. Piccola quantità di fluido libero. Ispessimento della parete rettale, ispessimento dello spazio presacrale. Pareti della vescica ispessite con gas all'interno.
+
+Diagnosi
+- Cistite enfisematosa.
+- Scompenso diabetico.
+- Fibrillazione atriale con rapida risposta ventricolare.
+- Rabdomiolisi.
+
+Trattamento
+Dopo aver confermato il sospetto clinico di cistite enfisematosa, ha ricevuto un trattamento medico conservativo consistente in un catetere uretrale con lavaggio, terapia antibiotica con piperacillina/tazobactam e terapia insulinica.
+
+Evoluzione
+L'evoluzione clinica e radiologica fu soddisfacente, con un miglioramento dei livelli di glucosio nel sangue, che rimasero sotto i 150 mg/dl, e la scomparsa quasi totale delle immagini di gas nella parete della vescica nella TAC di controllo eseguita 12 giorni dopo l'ammissione. Nonostante ciò, ha subito un arresto cardiorespiratorio in reparto, assistito dal personale sanitario, che ha iniziato le manovre di rianimazione e ha trasferito la paziente in Terapia Intensiva, dove è morta per arresto cardiorespiratorio secondario a fibrillazione ventricolare in probabile relazione ad un evento ischemico, data la sua storia personale di cardiopatia ischemica di tipo infartuale.

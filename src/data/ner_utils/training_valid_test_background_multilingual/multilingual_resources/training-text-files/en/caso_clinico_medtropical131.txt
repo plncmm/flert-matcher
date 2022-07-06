@@ -1,0 +1,22 @@
+Personal history
+Male patient, 63 years old, with type 2 diabetes mellitus and sensory partial epilepsy in 2006 under treatment with lamotrigine. Missionary in Peru for several years until one year prior to his admission. In January 2008, he was admitted to Neurology for instability, and a cranial MRI was performed, showing triventricular hydrocephalus due to obstruction of the aqueduct of Sylvius, and a peritoneal shunt valve was placed. Cerebrospinal fluid examination revealed an inflammatory lymphocytic exudate (90 leukocytes with 80% mononuclear and 54 g/dL glucose).
+
+Present illness
+The patient presented again in September 2008 due to persistent clinical manifestations. He presented with gait instability and ataxia, together with nausea, vomiting and decreased strength in the lower limbs for a month, as well as fever of up to 38oC since the previous week. There were no other symptoms of note.
+
+Physical examination
+General examination revealed no pathological findings. The neurological examination revealed bilateral diplopia and a generalised decrease in strength in the lower limbs. There were no meningeal signs or dysmetria.
+
+Complementary examinations
+The haemogram, coagulation and biochemical parameters determined in the blood were within normal limits. Cerebrospinal fluid biochemistry, extracted by lumbar puncture, showed 20 leukocytes/μL (40% polymorphonuclear, 60% mononuclear), 48 g/dL glucose and 106 mg/dL protein. A new MRI scan showed enlargement of the entire ventricular system and transependymal exudation of fluid. After contrast administration, the diagnostic possibility of ependymitis was suggested. On previous admission, cerebrospinal fluid culture for bacteria and mycobacteria was performed, with PCR for mycobacteria, culture for fungi and fresh parasite detection and serology for Trypanosoma cruzi. All these tests were negative. Blood serology was completed for Blastomyces dermatitidis, Coccidioides immitis and Histoplasma capsulatum, which were negative, and for Paracoccidioides brasilensis, which was positive. PCR for Paracoccidioides brasilensis in cerebrospinal fluid was negative. HIV serology was performed and was negative.
+
+Diagnostic test
+PCR for Histoplasma capsulatum in cerebrospinal fluid: positive.
+
+Clinical judgement
+Chronic Histoplasma capsulatum meningitis.
+
+Evolution
+Before obtaining the microbiological results, and given the possibility of infection associated with the ventriculo-peritoneal shunt valve, empirical treatment was started with vancomycin and meropenem, without remission of fever or clinical improvement, so tuberculostatics and corticosteroids were added empirically, as tuberculosis is one of the most common causes of chronic lymphocytic meningitis in our environment.
+Following positive microbiological tests for Histoplasma capsulatum, treatment with liposomal amphotericin B (300 mg per day) was started for four weeks, with a marked improvement in the condition, with disappearance of fever and neurological alterations. Mild neurotoxicity occurred during treatment, which resolved at the end of treatment. After discontinuation of amphotericin, itraconazole was started orally for eleven months.
+During this period several lumbar punctures were performed, with progressive improvement of all parameters. After six months on itraconazole he had five leukocytes (95% mononuclear), 88 g/dL of protein and a glucose of 54.6 g/dL. A Histoplasma PCR was also determined and was negative. A follow-up CT scan was performed in July 2009, which showed active hydrocephalus, necessitating valve replacement. After completion of treatment with itraconazole in January 2010, the patient remains asymptomatic with no evidence of recurrence.

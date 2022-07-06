@@ -1,0 +1,21 @@
+Anamnesis
+Un varón de 8 meses acudió a consulta de dermatología para estudio de linfedema congénito en manos. La historia obstétrica de su madre destacó por polihidramnios sin diabetes gestacional. Padres sin consanguinidad. En su historia personal, fue nacido pretérmino a las 36 semanas de gestación mediante inducción del parto con un peso de 4470 g y una talla de 50 cm. Como antecedentes familiares destacó un hermano mayor nacido con transposición de grandes vasos. Desde el nacimiento presentó episodios leves y recurrentes de infecciones respiratorias de vías altas y otitis externa. Además a los 7 meses de vida comenzó con episodios frecuentes de deposiciones con moco y sustancias no digeridas.
+
+Exploración física
+A la exploración física se objetivó linfedema segmentario y asimétrico de predominio en ambas manos, región cervical, miembro inferior derecho, pubis e hidrocele. Los pies estaban respetados. A la palpación se detectó un conglomerado adenopático en axila derecha.
+
+Exploraciones complementarias
+En las pruebas de laboratorio destacaron niveles de linfocitos en el límite bajo de la normalidad, hipoproteinemia con hipoalbuminemia e hipogammaglobulinemia (IgG 254 mg/dL, IgA 13 mg/dL). El resto de pruebas analíticas incluyendo colesterol, triglicéridos, coagulación, inmunoglobulina E, función tiroidea, ceruloplasmina, serología de hepatitis C, hepatitis B, virus de la inmunodeficiencia humana, sífilis, toxoplasma, virus de Epstein-Barr, citomegalovirus, virus varicela zóster y rubeola fueron normales o negativas. El estudio de subpoblaciones linfocitarias mostró un aumento anormal de linfocitos T y B vírgenes. El estudio de digestión en heces estaba alterado con aumento de celulosa, almidón y fibras musculares, aunque los niveles de alfa-1-antitripsina fecal fueron normales. La radiografía de tórax fue normal. La radiografía de columna vertebral y miembros inferiores no reveló dismetría. La ecografía de abdomen y el ecocardiograma mostraron leve cantidad de líquido libre peritoneal y pericárdico respectivamente. Una ecografía ganglionar detectó adenopatías axilares e inguinales bilaterales de predominio derecho.
+Se realizó una RM sin contraste de cráneo que fue normal. La RM de tronco y extremidades demostró dilataciones arrosariadas de vasos linfáticos superficiales en miembros superiores, miembro inferior derecho y región cervical. El conducto torácico estaba dilatado y había una discreta cantidad de ascitis. Además destacó edema de la mucosa a nivel de yeyuno principalmente y presencia de vasos ectásicos en su pared.
+Se realizó un cariotipo que fue normal. El estudio de la mutación del gen FLT4 (VEGFR-3) de la enfermedad de Milroy fue negativo.
+Una biopsia cutánea de pierna reveló linfagiectasias de vasos superficiales. El estudio histológico de una adenopatía de axila derecha mostró un ganglio linfático reemplazado en su totalidad por canales vasculares de naturaleza linfática, en algunos de los cuales se observaban agregados linfoides intraluminales que no formaban folículos secundarios. Dichos canales presentaban un endotelio con inmunotinción positiva para D2-40. Este tejido alternaba con zonas de tejido graso maduro. La cápsula ganglionar estaba conservada. El estroma denso estaba constituido en su mayoría por células fusiformes que correspondían a tejido de músculo liso.
+Ante la triada de diarrea, hipoproteinemia e hipogammaglobulinemia se realizó una endoscopia oral donde se observó vellosidades dilatadas y nacaradas con patrón parcheado en duodeno, con resto de la exploración normal. Se tomó biopsia de mucosa intestinal con histología compatible con linfagiectasia intestinal.
+
+Diagnóstico
+Según la clasificación de la ISSVA de 2014 nos encontramos ante una anomalía linfática primaria generalizada que cursa con linfedema y linfagiectasias intestinales por lo que estamos ante un síndrome linfagiectasia-linfedema o síndrome Hennekam.
+
+Tratamiento
+Iniciamos tratamiento con sirolimus oral a dosis de 0,8 mg/m2 cada 24 horas manteniendo niveles de fármaco en sangre entre 5-7 ng/mL.
+
+Evolución
+El paciente lleva 2 meses en tratamiento con sirolimus oral con remisión de la diarrea y mejoría discreta del linfedema cutáneo.

@@ -1,0 +1,4 @@
+mujer, 14 años, antecedentes de alergia a huevo resuelta, presenta anafilaxia tras ingesta de queso de cabra a los 5 años. Tolera LV y derivados, que consume con frecuencia, aunque presenta varias reacciones por consumo accidental (usar mismo cortador para pizza 4 quesos y pizza sin queso de cabra).
+Ig E específicas: leche de cabra 71.8; leche oveja 69.9; leche vaca 0.72; caseína 1.32; ALA y BLG negativas.
+
+Se realiza SDS-Page/Inmunoblot confirmándose sensibilización a LCO, principalmente a caseína. reconocen una pequeña banda a extractos de LV.

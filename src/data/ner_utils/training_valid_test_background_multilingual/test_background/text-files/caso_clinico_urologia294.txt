@@ -1,0 +1,10 @@
+Anamnesis
+Mujer de 65 años de edad, sin antecedentes médicos de interés ni hábitos tóxicos, en estudio por dispepsia. La paciente es derivada al Servicio de Urología debido a una masa renal sólida diagnosticada casualmente por ecografía.
+
+Diagnóstico
+Ante la sospecha de un carcinoma renal se solicita una tomografía computarizada (TC) tóraco-abdominal de extensión, observándose una tumoración renal izquierda de 8 cm en el polo inferior, sin afectación ganglionar ni metastásica.
+
+Tratamiento y evolución
+Se decide realizar una nefrectomía radical laparoscópica, confirmándose la malignidad de la lesión sospechosa: "Carcinoma de células claras grado II Führman que infiltra la cápsula renal y el tejido adiposo perirrenal" (pT3a, estadio III).
+A los 5 años de seguimiento, observamos en una TC abdominal de control tres masas residuales hipercaptantes en la fosa renal izquierda compatibles con metástasis por carcinoma renal. Tras estratificar al paciente según el MSKCC como "bajo riesgo", se decide el inicio de terapia con antiangiogénicos (sunitinib), obteniéndose una respuesta parcial a dicha molécula (según criterios RECIST), decidiéndose opción quirúrgica: metastasectomía, en la cual se confirma la afectación metastásica del hilio esplénico, cola de páncreas y glándula suprarrenal.
+En la TC de control realizada a los 9 meses se observa una nueva lesión hipercaptante de 11 mm en el páncreas sospechosa de metástasis. Dado que la paciente se opone a opciones quirúrgicas, se propone el inicio de tratamiento con fármacos antiangiogénicos de segunda línea (everolimus) con buena tolerancia inicial, pendiente de valorar la respuesta.

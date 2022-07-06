@@ -1,0 +1,54 @@
+Presentem el cas d'un pacient home de 16 anys d'edat que acudeix a consulta per retard puberal i del creixement.
+
+ANTECEDENTS FAMILIARS
+Pare i germà amb alçada i pubertat normal. Avi matern mort per glioblastoma.
+La mare va consultar amb ginecologia en 2004 a causa de trastorns menstruals. Es va descartar patologia i es va donar d'alta. En 2007, amb clínica de cefalea, una RM va mostrar un macroadenoma hipofisario de 1cm, no funcionante, romanent posteriorment asimptomàtica i amb eix hipofisario normal, per la qual cosa es va decidir actitud expectant.
+
+MALALTIA ACTUAL
+La família refereix que el pacient presentava cefalea, nàusees i vòmits des dels set anys d'edat. El seu embaràs i part van ser normals (pes de naixement: 3.150 kg, altura: 50 cm)
+A l'exploració, pes de 51.7 Kg, talla de 154 cm (<p5). Testis en bossa de 2cc, pubarquia 3, axilarquia 1.
+
+PROVES COMPLEMENTÀRIES
+Analítica: Hemograma i bioqímica sense alteracions, TSH 0.31μUI/ml, T4L 11.7 pml/L, FSH 3.04 mUI/ml, LH 0.12 mUI/ml, testosterona 0.49 ng/ml, cortisol 60ng/ml, IGF-1 192 ng/ml. Destaca prolactina 8649 ng/ml
+Test d'exercici i test de clonidina sense resposta de GH. Edat òssia: 12 anys.
+
+EVOLUCIÓ
+A la vista dels resultats, es va iniciar tractament substitutiu dels eixos tirotropo i corticòtrop i es va sol·licitar RM d'hipòfisi amb gadolini, amb troballa d'una massa hipofisaria de 47.6x22x47.2 mm que erosionava el sòl selar, estenent-se en la cisterna prepontina esquerra i envoltant la caròtide.
+
+Es va iniciar tractament amb dosi progressivament ascendent de cabergolina, fins a una dosi màxima tolerada de 1.5mg setmanals. Després d'alguns mesos no va haver-hi resposta bioquímica, persistint prolactina elevada, per la qual cosa finalment es va decidir tractament quirúrgic.
+
+L'anatomia patològica va revelar que efectivament es tractava d'un prolactinoma. L'anàlisi funcional in vitro va demostrar que, si bé es va poder apreciar una disminució de la producció de prolactina i de l'expressió dels receptors DRD2 amb l'exposició de la peça a cabergolina, la inhibició no era total i la reducció de la proliferació cel·lular del tumor no era completa. Això explicaria la resistència al tractament comprovada in vivo.
+
+Quatre mesos després de la cirurgia en la RM es continuava apreciant una massa 30x20x30 mm, romanent dades d'hipopituïtarisme i hiperprolactinemia (PRL 178.9 ng/ml).1
+Es va continuar tractament substitutiu amb coriogonadotropina alfa i folitropina alfa, levotiroxina i hidrocortisona. Es va mantenir la cabergolina a dosi màxima tolerada en aquest moment (3.5 mg setmanals) i es va plantejar possibilitat de tractament mitjançant radioteràpia, estant el pacient pendent de rebre-la en el moment actual.
+Simultàniament, la mare del pacient va mantenir seguiment en el nostre servei pel macroadenoma hipofisario diagnosticat prèviament. Durant aquest temps, la massa va mantenir el mateix volum, sense invasió de les estructures circumdants i amb eix hipofisario sense alteracions.
+
+Amb el diagnòstic del prolactinoma del fill, i per tant la presència d'adenomes hipofisarios en dos familiars no associats a cap altra alteració endocrina, es va sol·licitar estudi genètic que va mostrar una mutació del gen AIP2 en l'exó 6: 974G OA (p.Arg325Gln), que també es va trobar en un altre fill, germà del nostre cas índex. La resta de la família va ser negativa per a aquesta mutació.
+
+EVOLUCIÓ
+Durant el seguiment, el macroadenoma hipofisario no funcionante de la mare va mantenir el mateix volum i l'eix hipofisario va ser normal.
+Fa dos anys, en una anàlisi de rutina de la mare va aparèixer hipercalcemia, confirmant-se finalment un hiperparatiroïdisme i una imatge suggestiva d'adenoma paratiroidal inferior dret en la gammagrafia amb MIBI. Es va dur a terme una paratiroidectomia inferior dreta, comprovant-se anatomia patològica d'adenoma de glàndula paratiroidal.
+Després de la cirurgia, la PTH intacta va romandre en rang alt, amb calci en límit superior.
+
+Després d'aquestes troballes, i pensant en la possibilitat d'una neoplàsia endocrina múltiple, es va sol·licitar estudi genètic de MEN7,8, que inicialment va ser desestimada pel servei de genètica. En qualsevol cas es van sol·licitar TC toracoabdominal i hormones gastrointestinals i pancreàtiques.
+
+Els resultats van ser normals en els dos fills, a excepció de la troballa d'hiperparatiroïdisme normocalcémico en tots dos.
+
+En la mare les determinacions van ser normals a excepció d'un glucagó de 267 pg/ml (VN 59-150) i un polipétido pancreàtic >200 pmol/L (VN <100)
+
+En el TC abdominal es van detectar dos LLOÏS pancreàtiques de 26x41mm i 70x81mm. Es va aprofitar un estudi en curs per a disposar d'imatges mitjançant PET amb 68Ga DOTA-NOC. No van aparèixer altres imatges de sospita.
+
+Davant aquestes troballes, es va tornar a sol·licitar estudi genètic per a MEN- 1 mitjançant MLPA (amplificació de sondes dependent de ligandos múltiples), que va revelar un perfil compatible amb una deleció en heterocigosis a la regió cromosòmica 11q13, on se situa el gen MEN1, abastant almenys la regió compresa entre les posicions chr11:64571868-64578482, corresponent als exons 1 al
+
+11. Aquest resultat és compatible amb la sospita clínica de neoplàsia endocrina. L'estudi va ser positiu tant per a la mare com per als dos germans.
+
+Amb el diagnòstic de tumors neuroendocrins pancreàtics no funcionantes, es va intervenir a la mare mitjançant pancreatectomía corporocaudal més esplenectomía. L'anatomia patològica va mostrar un TNEp ben diferenciat (G1) multifocal (dues tumoracions, una a nivell de cos de 7.2 cm i una altra a nivell de cua de 4,2 cm) amb índex mitòtic <2 mitosi per 10 camps i Ki 67 <2%. Amb presència d'invasió vascular però amb tumor limitat a pàncrees, sense envair teixit extrapancreático i amb marges de resecció lliures de neoplàsia, es va classificar com pT2 N0 M0.
+Setmanes després de la intervenció, va presentar una complicació tardana amb obstrucció per brides que va precisar de reintervenció quirúrgica.
+En els estudis d'extensió es va detectar una adenopatia axil·lar sospitosa, que es biopsió i es va confirmar la presència d'un carcinoma ductal infiltrante pT2 N1a M0. Aquesta associació també està descrita en la literatura.9
+Es va realitzar tumorectomia i biòpsia de gangli sentinella, sense signes d'extensió. Actualment en tractament amb QT+RT+HT, en seguiment per Oncologia Mèdica i Oncologia Radioteràpica, amb bona evolució.
+
+SITUACIÓ ACTUAL
+La situació dels tres familiars al moment de la publicació del present cas, és:
+- Pacient cas. Prolactinoma gegant intervingut i recidivado, pendent de radioteràpia. Hiperparatiroïdisme primari amb normocalcemia i actitud expectant.
+- Mare. Hiperparatiroïdisme primari intervingut, en vigilància. Intervinguda de tumor neuroendocrí amb episodi d'obstrucció per brides en 2017. En tractament QT i RT per al carcinoma de mama, amb bona evolució.
+- Fill menor. microadenoma hipofisario no funcionante en vigilància. Hiperparatiroïdisme primari amb normocalcemia i actitud expectant.

@@ -1,0 +1,27 @@
+Anamnesi
+Maschio, 57 anni, senza allergie note ai farmaci. Anamnesi medica e chirurgica rilevante di ipertensione, insufficienza cardiaca congestizia con diversi ricoveri per scompenso e depressione. Follow-up di Medicina Interna a causa di PAN con mononeurite multipla idiopatica. Ha subito un intervento chirurgico per una fistola perianale anni fa. In trattamento cronico con beta-bloccanti, antidepressivi e corticosteroidi orali.
+Il paziente ha consultato le cure primarie nel giugno 2013 a causa di astenia di diverse settimane di evoluzione, così come dispepsia occasionale, senza altri sintomi di accompagnamento.
+
+Esame fisico
+L'esame fisico generale non ha rivelato risultati interessanti: buone condizioni generali, colore normale, idratato e perfuso. I segni vitali erano nella norma e afebrile. Nessun linfonodo periferico era palpabile. L'auscultazione cardiopolmonare senza alterazioni, l'esame addominale era irrilevante. Arti inferiori senza edema.
+
+Test complementari
+Gli esami del sangue (10/06/2013) hanno mostrato un'anemia (Hb 9,5 mg/dl) con un profilo di carenza di ferro, senza altre alterazioni significative. La gastroscopia (26/06/2013) ha rivelato una lesione vegetante ulcerata di 3-4 cm a livello cardiale, e sono stati prelevati campioni per l'analisi anatomopatologica.
+Visti i risultati di cui sopra, è stata eseguita una TAC addominale (08/07/2013) che ha confermato una massa sottocardiale di circa 4 cm in relazione a una probabile neoplasia gastrica senza estensione al grasso e almeno una adenopatia nel legamento gastroepatico.
+
+Diagnosi
+La biopsia rivela un adenocarcinoma gastrico moderatamente differenziato di tipo intestinale.
+
+Trattamento
+Gli esami del sangue (10/06/2013) hanno mostrato un'anemia (Hb 9,5 mg/dl) con un profilo di carenza di ferro, senza altre alterazioni significative, quindi è stata eseguita una gastroscopia (26/06/2013), che ha rivelato una lesione vegetante ulcerata di 3-4 cm a livello cardiale, da cui sono stati prelevati campioni. Dato il precedente riscontro, è stata eseguita una TAC addominale (08/07/2013) che ha confermato una massa sottocardiale di circa 4 cm in relazione a una probabile neoplasia gastrica senza estensione al grasso e almeno una adenopatia nel legamento gastroepatico.
+
+Evoluzione
+Nel dicembre 2013 è stato rilevato un aumento asintomatico dei marcatori tumorali Ca 19,9 e Ca 72,4 ed è stata eseguita la PET (02/01/2014), rivelando una lesione ipermetabolica nella cupola del fegato, segmento VIII, di circa 2,4 cm, sospetta di eziologia tumorale vs. infettiva. La risonanza magnetica (24/01/2014) conferma una lesione nodulare nel segmento VIII, con enhancement anulare, suggestiva di metastasi necrotiche/abrasive.
+Data la difficoltà anatomica nell'eseguire l'FNA, il paziente è stato valutato da un comitato multidisciplinare e, data la necessità di una diagnosi istologica, è stato eseguito un intervento chirurgico al fegato (rivelando infine 3 lesioni) con biopsie che hanno mostrato un'infiltrazione epatica da adenocarcinoma in 2/3 delle lesioni. Data la progressione a questo livello, è stato richiesto l'HER-2 per pianificare un trattamento oncospecifico, che è risultato positivo (+++).
+Lo studio è stato completato con un ecocardiogramma che era normale e una TAC addominale (27/03/2018) che ha mostrato i 3 LOE epatici precedentemente descritti. La prima linea di cisplatino-capecitabina-trastuzumab è stata iniziata nell'aprile 2018 con una risposta superiore al 50% dopo 4 cicli, con tossicità rilevanti tra cui l'infezione da CMV che ha richiesto il ricovero in ospedale e disturbi idrici ed elettrolitici refrattari alla gestione ambulatoriale. Data la persistenza di queste alterazioni, è stato deciso di continuare la monoterapia con trastuzumab a partire dal 5° ciclo.
+Dopo 7 cicli, il paziente ha continuato a rispondere alla TAC, con solo una lesione epatica di 1 cm persistente.
+Il caso è stato rivalutato dalla commissione ed è stata richiesta una PET-CT per valutare il salvataggio chirurgico, che è stato infine respinto in quanto la PET-CT ha rivelato un impianto peritoneale nel mesogastrio, così come due linfoadenopatie nell'ilo polmonare di dubbia eziologia. La monoterapia con Trastuzumab è stata continuata con malattia stabile dopo 12 e 18 cicli. Dopo 22 cicli, c'era l'evidenza di una risposta completa tramite PET-CT e la normalizzazione dei marcatori tumorali, quindi il trattamento è stato interrotto nel luglio 2015.
+Nel maggio 2016 (ILP di 10 mesi), gli esami del sangue hanno mostrato un Ca 19,9 elevato, senza dati di malattia in TC, ma con evidenza in PET-CT di una lesione a livello della cupola epatica. La seconda linea con 5-FU + trastuzumab è stata iniziata, con una buona tolleranza e una nuova risposta radiologica completa dopo 8 cicli. Tuttavia, la PET continuava a mostrare un focus di ipermetabolismo (anche se con una diminuzione dell'attività del glucosio rispetto alla precedente) a livello della cupola epatica, quindi il caso fu nuovamente portato al comitato multidisciplinare e fu deciso un intervento chirurgico con intento curativo.
+Il 01/03/2017 è stata eseguita una mastectomia epatica del segmento VIII.
+Il paziente è attualmente sottoposto a controlli in ambulatorio senza dati sulla recidiva.
+

@@ -1,0 +1,50 @@
+Motivo de consulta
+Bulto en el pecho.
+
+Enfoque individual (anamnesis, exploración, pruebas complementarias)
+Paciente mujer de 36 años que acude a la consulta de Atención Primaria por notarse un bulto mamario doloroso en la mama izquierda durante una autoexploración.
+
+Anamnesis
+- Antecedentes Personales: Alergia (¿Intolerancia?) a Amoxicilina-clavulánico. Mastopatía fibroquística (en seguimiento por Atención Primaria).
+- Antecedentes Familiares: Cáncer de colon en familiares de 1ogrado (Padre y hermano), Lupus Eritematoso Sistémico en familiar de 1ogrado (Hermana).
+Paciente de 36 años que presenta mastodinia premenstrual bilateral desde la menarquia (11 años) en seguimiento en nuestra consulta de Atención Primaria por Mastopatía Fibroquística con hallazgos en mamografía previa BIRADS 2 (microcalcificaciones, aumento de densidad mamario). Actualmente en estudio por Medicina Interna por poliartralgias y adenopatía laterocervical (¿reactiva?).
+FO: 10111.
+
+Exploración física
+Buen estado general, consciente y orientada, eupneica en reposo, normocoloración mucocutánea.
+- Auscultación cardiorespiratoria: rítmica sin soplos, murmullo vesicular conservado.
+- Exploración mamaria: Asimetría mamaria, retracción de la piel y del pezón de la mama izquierda.
+Palpamos nódulo mamario en cuadrante superinterno de mama izquierda, no móvil, adherido a planos profundos, consistencia dura, 5x3cm aproximadamente.
+
+Pruebas complementarias
+- Ecografía mamaria en Atención Primaria: patrón heterogéneo, coincidiendo con área palpable se objetiva masa irregular, sólida, margen polilobulado e hipoecoica, en cuadrante superior interno de mama izquierda, de medidas aproximadas 50 x 19 x 38 mm.
+- Hemograma: Leucocitos 5.510uL, Hemoglobina 12‘1g/L, Hematocrito 37‘4%, VSG 46mm/h(3-15mm/h).
+- Bioquímica: Glucosa 86mg/dL, Creatinina 0‘61mg/dL, Ácido úrico 4mg/dL, Filtrado Glomerural 118mL/min, Colesterol 166mg/dL, Triglicéridos 63mg/dL.
+- Proteína C reactiva: 7‘7mg/L (0-5mg/L).
+- Marcadores tumorales: Alfa-fetoproteína 1‘9ng/mL, Antígeno carcinoembrionario 2‘70ng/mL, CA125 —> 24U/mL, CA15‘3 —> 31‘5U/mL (0-25 U/mL), CA 19‘9 —> 12‘3U/mL.
+
+Enfoque familiar y comunitario
+Se trata de una familia nuclear con parientes próximos.
+Ciclo Vital Familiar: Según la clasificación de la OMS se encuentra en etapa IIA-Extensión (desde el nacimiento del primer hijo hasta que el primer hijo tiene once años).
+Se realizó ademas el Test de Apgar Familiar con una puntuación de 9: Normofuncional.
+
+Enfoque psicológico
+Ante este evento impredecible se genera una situación de gran ansiedad en la paciente teniendo que acudir al servicio de urgencias por ataque de ansiedad ante la incertidumbre, realiza numerosas búsquedas en Internet sobre patología mamaria. Además presenta insomnio, agitación y nerviosismo.
+
+Plan de acción y evolución
+Se deriva a Unidad de mama.
+- Mamografía: Patrón mamográfico tipo D de clasificación BIRADS, mamas de extremada densidad, lo que disminuye la sensibilidad de la mamografía.
+- Ecografía mamaria: Patrón ecográfico heterogéneo, masa irregular ovoidea, sólida, margen indistinto polilobulado y patrón hipoecoico, con focos de marcada atenuación, su eje mayor es paralelo al pectoral quedando adyacente al mismo sin aparente invasión. Dimensiones 50 x 19 38 mm, edema perilesional. Además, focos quísticos <1cm en ambas mamas, y nódulo circunscrito de 6x4mm en axila izquierda sólido probablemente benigno: BIRADS 3.
+- Resonancia magnética: Mama derecha —> BIRADS 2. Tejido glandular pseudonodulillar, nodulillos subcentimétricos hipocaptantes, quistes. Mama izquierda —> BIRADS 5. Tejido glandular similar a mama contralateral. Masa irregular de 39x42x25mm, con intensa captación. Área pseudonodular captante en CSI posterior de 27x15mm. Quistes. Hallazgos sugestivos de proceso infiltrativo multifocal en mama izquierda.
+- Anatomía Patológica: Nódulo mama izquierda—> Carcinoma Lobulillar Infiltrante (B5b) con necrosis, no invasión perineural ni linfovascular. Ganglio axilar izquierdo—> Infiltrado por carcinoma.
+- Estudio inmunohistoquímico: receptores de estrógenos —> 80%, receptores de progesterona —> 5%, Ki67 —> 10%, Citoqueratina 19 —> positiva, Her-2 —> negativo, E- cadherina —> negativo.
+- Estudio de extensión:
+—>Gammagrafía de Esqueleto: Actividad anómala inespecífica en calota posterior.
+—>TC con contraste I.V de Abdomen, Pelvis y Tórax: No se aprecian adenopatías en cadenas mamarias, mediastínicas, biliares, axilares, abdominales ni pélvicas.
+Tras valorar el caso en comité de tumores del hospital de referencia se decide tratamiento con quimioradioterapia neoadyuvante.
+Se descarta patología autoinmunitaria.
+
+El diagnóstico definitivo genera en la paciente un gran impacto emocional desarrollando un trastorno de ansiedad generalizado precisando psicoterapia de apoyo y tratamiento ansiolítico, solicitando la paciente un margen prudencial de tiempo antes de iniciar tratamiento hospitalario.
+
+Juicio clínico (listado de problemas, diagnóstico diferencial)
+Diagnóstico diferencial: Quiste mamario, Fibroadenoma, Nódulo mamario. Juicio Clínico: Cáncer mama izquierda T2N1Mx.

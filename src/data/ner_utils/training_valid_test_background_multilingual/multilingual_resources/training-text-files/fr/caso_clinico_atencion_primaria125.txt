@@ -1,0 +1,40 @@
+Motif de la consultation
+Un patient de 19 ans s'est présenté à la clinique de soins primaires pour une toux continue depuis trois semaines.
+
+Approche individuelle (anamnèse, examen, tests complémentaires).
+Ressortissant espagnol de 19 ans, élève professeur. Antécédents personnels de bloc de branche droit, rhinoconjonctivite allergique et asthme léger. Pas d'antécédents familiaux intéressants. Sous traitement avec du salbutamol à la demande. Pas d'allergies aux médicaments. Consomme occasionnellement des boissons alcoolisées. Non-fumeur.
+
+Le patient se présente à la clinique avec une toux sèche d'une évolution de trois semaines, d'intensité croissante, qui interfère avec le repos nocturne. Elle augmente avec l'exercice. Légère rhinorrhée. Pas de dyspnée et l'auscultation est normale. Amélioration partielle en utilisant le salbutamol à la demande. Compte tenu des antécédents personnels, il a été décidé de commencer le budésonide 160 mcg/fumarate de formotérol dihydraté 4,5 mcg 2 inhalations toutes les 12 heures.
+
+Elle est revenue deux mois plus tard avec une toux avec expectoration verdâtre et une fièvre de deux jours. L'auscultation a montré des crépitants dans la base gauche, donc Amoxicilline 875mg/acide clavulanique 125mg toutes les 8 heures a été prescrit pendant 7 jours avec une amélioration. Malgré cela, il est revenu trois semaines plus tard car la toux persistait, avec un accès accru au cours de la dernière semaine et une expectoration blanchâtre. Le matin même, expectoration hémoptotique. En outre, il a de nouveau présenté une fièvre inconstante, atteignant 39-40o, prédominant le soir et accompagnée de sueurs nocturnes. Douleur pleurétique dans la partie antérieure de l'hémithorax droit. Pas de dyspnée. En outre, lors d'une anamnèse plus approfondie, les parents ont signalé une perte de poids de 6-7 kg au cours des derniers mois. Elle n'a pas voyagé.
+
+Examen : bon état général, normohydraté, normoperfusé, eupnéique au repos. Vitaux : TA : 114/59, FC 104lpm, SatO2 99%, T 37.8o.
+Auscultation cardio-pulmonaire : rythmique, pas de murmure. Le murmure vésical a été préservé sans autres sons.
+
+Une radiographie urgente a été demandée, montrant :
+Lésion cavitaire étendue dans le lobe supérieur droit avec un niveau hydro-aérique. Autres lésions plus petites à la base. Infiltrat alvéolo-interstitiel nodulaire dans l'hémithorax gauche, évoquant une dissémination bronchogénique.
+
+Le patient a été envoyé au service des urgences pour des examens complémentaires et une évaluation par la médecine respiratoire. Les résultats les plus pertinents des tests effectués sont les suivants :
+NFS : protéine C-réactive 142, procalcitonine 0,07, leucocytes 14590/μL avec neutrophilie 93%. Hémoglobine 12 g/dL, hématocrite 36%, volume corpusculaire moyen 76,7fL, plaquettes 430000/μL.
+
+Microscopie des frottis d'expectoration : l'ADN de Mycobacterium tuberculosis a été détecté avec une sensibilité à tous les médicaments de première ligne testés.
+Pendant son séjour aux urgences, le patient est resté en bon état général, hémodynamiquement stable, avec peu d'expectoration et une petite quantité de débris hématiques.
+Le patient avait un bon soutien familial et une bonne compréhension du diagnostic. La prévention de la transmission de la maladie étant nécessaire, une sortie avec traitement à domicile et isolement a été décidée.
+
+Approche familiale et communautaire
+Structure familiale nucléaire intacte, le patient vit avec ses deux parents et son frère aîné. Bien que le patient ait été initialement anxieux à la maison en raison de la possibilité de transmission de la maladie, il y a eu un bon soutien familial à tout moment, ce qui a favorisé le traitement à domicile.
+
+Jugement clinique (liste de problèmes, diagnostic différentiel)
+Tuberculose pulmonaire cavitaire. Ce cas a soulevé plusieurs diagnostics différentiels : hyperréactivité bronchique ou infection des voies respiratoires. Il faut également considérer d'autres pathologies qui présentent des hémoptysies, comme le carcinome bronchogénique ; ou des lésions cavitaires, avec des causes infectieuses (Klebsiella pneumoniae, Streptococcus pneumoniae, Haemophilus influenzae, Nocardiose, Actinomycose, Aspergillose ou Histoplasmose), néoplasiques (cancer bronchio-alvéolaire et carcinoïde), rhumatologiques (granulomatose avec polyangiite) et autres.
+
+Plan d'action et évolution
+Le patient a commencé un traitement à domicile avec rifampicine 150/isoniazid 75/pyrazinamide 400/chlorhydrate d'éthambutol 275mg 4 comprimés/24h pendant deux mois avec une bonne tolérance, puis il est passé à rifampicine 300/isothiazid 150mg 2 comprimés/24h, qu'il prend actuellement et qu'il gardera pendant 4-7 mois. Il a passé le premier mois à la maison en raison d'un isolement respiratoire.
+Evolution
+Le patient a été revu une semaine plus tard pour un contrôle. Il a continué à avoir de la fièvre et une toux occasionnelle. Il était anxieux à propos de son état, en particulier parce que sa mère et son frère de 22 ans avaient été testés par IGRA (interferon gamma release assay), et qu'ils étaient tous deux positifs, et qu'il avait donc un sentiment de culpabilité.
+Il a été vu quatre fois jusqu'à présent par la Pneumologie. Bonne évolution des symptômes, actuellement toux occasionnelle.
+Des tests analytiques ont été effectués à toutes les consultations, avec une amélioration des réactifs de phase aiguë, une sérologie négative pour le VIH et l'hépatite, et un nouveau frottis d'expectoration deux mois plus tard négatif pour le BAAR.
+Une radiographie de contrôle à quatre mois et demi a montré une amélioration significative, avec disparition des infiltrats dans le poumon gauche. Le poumon droit régresse, avec un aspect cicatriciel, et il y a toujours une image de cavité dans le lobe supérieur droit.
+En attendant un examen plus approfondi par le service de pneumologie.
+Toute la famille cohabitante a subi le test IGRA, qui s'est révélé positif pour sa mère et son frère.
+Le père a été testé à nouveau huit semaines plus tard et était toujours négatif.
+Une tuberculose active a été exclue chez la mère et le frère, qui ont subi une radiographie pulmonaire et une culture des crachats. Ils ont commencé un traitement chimioprophylactique par isoniazide 300mg/24h pendant 9 mois, avec une tolérance adéquate.

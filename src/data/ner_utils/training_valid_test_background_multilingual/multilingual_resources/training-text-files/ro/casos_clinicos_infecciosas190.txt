@@ -1,0 +1,32 @@
+Un pacient de sex masculin în vârstă de 65 de ani, fost fumător, cu antecedente de hipercolesterolemie, hemoragie gastrointestinală superioară din cauza unui ulcer piloric, hiperuricemie, fibrilație atrială anticoagulată și care a suferit o înlocuire valvulară cu proteze metalice aortică și mitrală în urmă cu 3 luni. A venit la serviciul de urgență al spitalului nostru cu un istoric de febră de până la 39oC însoțită de frisoane (mai ales noaptea), stare generală de rău, confuzie și vărsături fără produse patologice. În zilele anterioare nu a avut simptome respiratorii, de micțiune sau gastrointestinale asociate.
+
+La examenul fizic, pacientul era în stare generală bună, conștient, dezorientat în timp și persoană, dar nu și în spațiu. Tensiunea arterială a fost de 135/70 mmHg și ritmul cardiac de 87 bpm. Afebril. La auscultația cardiacă avea tonuri aritmice ușor tahicardice cu clicuri metalice. Auscultația pulmonară a arătat un murmur vezicular conservat, fără sunete suplimentare. Examenul neurologic a evidențiat o rigiditate a gâtului și semne meningeale pozitive (Kerning și Bruzinsky); forța și sensibilitatea au fost păstrate la nivelul membrelor superioare și inferioare.
+
+Cu suspiciune clinică de meningită, s-a efectuat o analiză completă a sângelui cu hemoglobină 10,3 mg/dl, 6340 x103 leucocite (4920 x 103 neutrofile), 102.000 x103 trombocite, uree 45mg/dl, creatinină 1,6 mg/dl, proteină C reactivă (CRP) 221,7 mg/l și procalcitonină 1. 17 ng/ml; tomografia computerizată craniană nu a evidențiat anomalii, iar puncția lombară, a cărei analiză a lichidului cefalorahidian (LCR) a arătat un număr de globule albe de 1810/mm3 (95% neutrofile și 15% limfocite), proteine 612,5 mg/dl și glucoză 17,2 mg/dl.
+
+Diagnostic diferențial
+Acesta a fost un caz de meningită acută dobândită în comunitate, principalele "date orientative" disponibile fiind pleiocitoza neutrofilică, hipoglicemia și hiperproteinemia. Diagnosticul meningitei acute dobândite în comunitate (1) este dificil la adulții în vârstă din cauza prezentării clinice variabile și a comorbidității asociate. Principalele cauze ale meningitei acute dobândite în comunitate sunt:
+ 
+ 1. infecțioase
+ - Bacteriene (caracterizate prin hipoglicemie, hiperproteinemie și pleiocitoză neutrofilică), în principal Streptococcus pneumoniae, Neisseria meningitidis sau Listeria monocytogenes. Stadiile incipiente ale meningitei datorate Brucella spp, Lupus sau Leptospiras spp.
+ - Virale, legate în principal de enterovirusuri, arbovirusuri, oreion, virusul herpes simplex, virusul varicelo-zosterian, virusul Epstein-Barr, citomegalovirus, adenovirus și HIV.
+ - Micobacterii.
+ - Ciuperci, amoebe.
+
+2. Limfomul sistemului nervos central sau carcinomatoza meningeală.
+
+3. Altele: focare infecțioase parameningiene (empiem cerebral), anevrism cerebral, meningită chimică, stadii incipiente ale meningitei Mollaret, encefalită hemoragică acută, scleroză multiplă, endocardită.
+
+4. Cauză necunoscută. Tehnica imagistică efectuată (CT craniană) nu a evidențiat hemoragii și nici leziuni focale la nivel parenchimatos sau meningeal, ceea ce face puțin probabilă carcinomatoza meningeală, limfomul sistemului nervos central, scleroza multiplă, anevrismul cerebral sau empiemul epidural.
+
+Pe de altă parte, analiza biochimică a LCR a fost compatibilă cu o meningită bacteriană: lichid tulbure cu pleiocitoză predominant neutrofilică (1810 leucocite/mm3 cu 95% neutrofile), hiperproteinorracie (proteine peste 500 mg/dl) și hipogliceroragie (glucoză sub 45 mg/dl). Prin urmare, principala etiologie care trebuie exclusă a fost cea infecțioasă cu caracteristici bacteriene.
+
+Evoluție
+La internare, având în vedere suspiciunea clinică ridicată, a fost inițiat tratamentul empiric pentru meningita bacteriană la pacienții cu vârsta peste 50 de ani, cu dexametazonă 10mg la fiecare 24h, ceftriaxonă 2g la fiecare 12h, vancomicină 1g la fiecare 12h și ampicilină 2g la fiecare 4h intravenos. Înainte de începerea tratamentului cu antibiotice, au fost prelevate probe pentru cultură și detectarea antigenului Streptococcus pneumoniae în LCR, care au fost negative (atât cultura, cât și antigenul), s-a efectuat colorarea Gram directă, care a evidențiat celule gram-pozitive sub formă de cocci, în lanțuri scurte și chiar grupuri mici; și au fost prelevate hemoculturi, care au fost pozitive pentru Streptococcus equi subspecie ruminatorum. Identificarea speciilor a fost efectuată direct din hemocultură prin spectrometrie de masă (MALDI-TOF).
+
+După obținerea unei hemoculturi pozitive (2 din 4 flacoane), antibioterapia a fost schimbată cu benzilpenicilină intravenoasă (42 de milioane de unități/zi) timp de 14 zile și ulterior a fost schimbată cu ceftriaxonă intravenoasă 2g/24h timp de încă 7 zile, completând 21 de zile de antibioterapie. Hemoculturile au fost negative după 7 zile de tratament antibiotic.
+
+Având în vedere bacteriemia și înlocuirea recentă a valvei cardiace, endocardita a fost exclusă prin ecocardiografie transtoracică și transesofagiană. Nu a existat nicio hipogamaglobulinemie și nicio dovadă de imunosupresie. Streptococcus equi este în mod clar legat de contactul cu animalele. În acest sens, pacientul a fost reinterogat și a declarat că a participat, cu două zile înainte de debutul simptomelor, la un pelerinaj pentru un festival local, unde a avut contact direct cu un număr mare de cai. Evoluția a fost favorabilă, cu dispariția febrei și a altor simptome, precum și cu normalizarea reactanților de fază acută.
+
+Diagnostic final
+Meningită bacteriană bacteriană bacteremică comunitară datorată Streptococcus equi subsp. ruminatorum.

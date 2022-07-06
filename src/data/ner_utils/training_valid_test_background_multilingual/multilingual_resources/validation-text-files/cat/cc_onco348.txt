@@ -1,0 +1,30 @@
+Anamnesi
+Dona de 51 anys que consulta a l'abril de 2015 al seu metge d'Atenció Primària per autopalpació de nòdul indolor en la mama esquerra, segons refereix, d'un any d'evolució, per la qual cosa és remesa al servei de Ginecologia per a estudi.
+Antecedents Personals: No antecedents metge-quirúrgics d'interès. Anticonceptius orals durant 8 anys.
+
+Exploració física
+A l'exploració física la pacient presenta marcada asimetria mamària. La mama dreta és d'aspecte normal mentre que en l'esquerra es palpa tumoració fixa i dura d'aproximadament 10cm, adherida a plans profunds i molt pròxima a la pell. No es palpen adenopaties axil·lars.
+
+Proves complementàries
+» Mamografia bilateral (14/04/2015): En mama esquerra s'identifica massa de 8 cm de vores mal definides.
+» Ecografia de mama bilateral (14/04/2015): Massa hipoecoica, heterogènia de contingut sòlid que empremta sobre el complex de areola-mugró, amb aparent infiltració. No s'identifiquen adenopaties.
+» RMN de mama (03/05/2015): Massa de 8 cm localitzada en quadrants interns de mama esquerra, hipervascular, amb marcat realç i amb afectació cutània. Lesió de 18mm en quadrants supero-interns de mama contralateral d'aspecte similar. Ganglis axil·lars bilaterals inespecífics.
+» TAC tóraco-abdómino-pelvià (07/05/2015): Sense evidència de malaltia a distància.
+» Marcadors tumorals (07/05/2015): CEA 1.8, CA 15-3 5.4.
+
+Diagnòstic
+Mama dreta: Angiosarcoma (CD34+, CD31+).
+Mama esquerra: Angiosarcoma (CD34+, CD31+) HHV8 negatiu. Absència de mutació en k-RAS i NRAS. Ki67 25%.
+Angiosarcoma primari bilateral de mama.
+
+Tractament
+Es realitza en un primer temps (26/05/2015), mastectomia simple de mama esquerra i cuadrantectomía de mama dreta, decidint-se, posteriorment, realitzar mastectomia dreta per marges insuficients (23/06/2015). 
+AP: Angiosarcoma (Expressió CD31 i CD34). Ki67 20-25%. Grau 2. No permeación vascular ni infiltració perineural.
+El cas és presentat en el comitè de tumors de mama decidint-se que, donada la histologia, la pacient seria candidata a tractament de radioteràpia adjuvant pel que es duu a terme, realitzant-se sobre hemitórax esquerre a causa de la grandària del tumor.
+Es decideix no administrar tractament de quimioteràpia adjuvant a causa de l'escàs benefici esperat.
+
+Evolució
+S'inicia seguiment de la pacient. En el primer TAC realitzat per a reavaluació el 20/09/2015 s'observa aparició de lesions hepàtiques en segment VI i VII i una altra de major grandària en segment VI.
+En aquest moment es decideix inici de primera línia de quimioteràpia per a malaltia avançada amb Paclitaxel 80mg/m² dies 1, 8 i 15 cada 28 dies, que comença el 16 d'octubre de 2015. Després de quatre cicles de tractament, es realitza el 31 de gener de 2016, TAC toraco-abdómino-pelvià, on s'observa persistència de les lesions hepàtiques descrites prèviament, però amb major contingut necròtic en el seu interior el que podria traduir-se en resposta parcial al tractament. La pacient presenta bona tolerància al tractament, encara que amb neurotoxicidad grau 1.
+Després de l'administració de 7 cicles es realitza el 22 d'abril de 2016, nou TAC tóraco-abdomino-pelvià on s'aprecia discreta progressió de malaltia a nivell hepàtic amb dues lesions esplèniques de nova aparició.
+Es decideix completar l'estudi molecular del tumor amb la finalitat de realitzar tractament dirigit, no observant-se reordenament de ALK ni inestabilitat de microsatèl·lits, presentant amplificació de MET en tan sols un 10%. S'inicia nova línia de tractament amb doxorrubicina liposomal pegilada al maig de 2016

@@ -1,0 +1,30 @@
+Anamnèse
+Un homme de 80 ans s'est présenté aux urgences en raison d'une instabilité de la démarche et d'une sensation de nausée depuis deux jours, qui avaient commencé brusquement alors qu'il marchait, avec une aggravation des symptômes au cours des dernières 24 heures. Il présentait également des céphalées oppressives bitemporales d'intensité modérée depuis 10 jours et une asthénie d'une durée d'un mois.
+
+Antécédents personnels : ex-fumeur, dyslipidémie sous traitement diététique, hyperplasie bénigne de la prostate, infections urinaires à répétition. Histoire familiale : sans intérêt. Indépendant pour les activités de base de la vie quotidienne. Échelle de Barthel de 100 points.
+
+Examen physique
+Général : bon état général, tension artérielle 162/86 mmHg, fréquence cardiaque 72 bpm, température 35,7 oC. Coloration cutanéo-muqueuse normale, perfusion et hydratation normales, eupnéique. Induration des deux artères temporales, plus marquée du côté droit ; artères carotides rythmées, sans souffle ; tonalités cardiaques rythmées, sans souffle ; souffle vésiculaire conservé sans bruit supplémentaire ; abdomen globulaire, souple et dépressible, sans masses, mégalithes ou signes d'irritation péritonéale ; pouls présents, sans œdème aux extrémités ni signes de thrombose veineuse profonde.
+
+Examen neurologique : orienté, parole normale, pas d'apraxie ni d'agnosie. Pupilles isochoriques et normoréactives, hémianopsie homonyme droite en campimétrie de confrontation, motilité oculaire extrinsèque sans altération, pas d'asymétrie faciale, reste des nerfs crâniens sans altération ; tonus, trophisme et équilibre musculaire préservés, réflexes myotatiques vivants de façon généralisée, réflexe fléchisseur cutanéo-plantaire bilatéral, Hoffmann bilatéral négatif ; sensibilité tactile, algique et vibratoire préservée ; dysdiadochokinésie et dysmétrie dans les tests bilatéraux orteil-nez et talon-genou, principalement dans les membres gauches ; tests de Romberg et de Barany négatifs ; démarche instable, sans latéralisation claire, avec augmentation de la base d'appui. NIHSS : 4 points.
+
+Tests complémentaires
+- Données de laboratoire : biochimie, glucose 158 mg/dl, urée 61 mg/dl, CRP 20,4 mg/l, cholestérol total 229 mg/dl (HDL 57 mg/dl, LDL 151 mg/dl), hémogramme 21 900/μl (79,4 % neutrophiles, 11,8 % lymphocytes), plaquettes 376 000/μl, fibrinogène 638 mg/dl ; autres valeurs dans la norme. ESR 17 mm/h. Gaz du sang veineux sans altération significative. Étude systématique de l'urine, normale. Système hypophyso-thyroïdien, aucune altération. PSA 21,49 mg/ml, sans altération des autres marqueurs tumoraux. Sérologie négative pour les lues, VHC, VHB et VIH.
+- ECG : rythme sinusal. QRS 0.13. Bloc de branche droit avec altérations secondaires de la repolarisation.
+- Radiographie du thorax : index cardio-thoracique dans les limites de la normale, sans consolidation ni épanchement.
+- Doppler transcrânien : accélération des deux artères cérébrales moyennes (ACM), plus marquée au niveau de la M1 droite, sans identification de l'artère cérébrale postérieure (ACP) gauche. Réduction significative du débit dans les deux artères vertébrales (VA), avec inversion du débit dans l'artère basilaire (BA).
+- Duplex des troncs supra-aortiques (TSA) : étude de la carotide normale. Onde de choc dans les deux AV, compatible avec une occlusion distale de la même.
+- Echo-Doppler des artères temporales : halo hypoéchogène dans les deux artères temporales et leurs branches.
+- Échocardiographie transthoracique : légère dilatation de l'oreillette gauche, sans autre anomalie significative.
+- Scanner cérébral : hypodensités compatibles avec des infarctus dans le territoire des deux artères cérébelleuses postéro-inférieures (PICA) et de l'ACP gauche.
+- Imagerie par résonance magnétique (IRM) du cerveau : lésions hyperintenses en séquences T2 et FLAIR, avec un léger effet de masse sur le parenchyme adjacent et avec effacement des sillons, compatibles avec des infarctus dans le territoire de la PICA et de l'ACP gauche. Images de résonance magnétique cérébrale en séquence T2 montrant des signes d'infarctus cérébral dans le territoire des deux PICA et de l'ACP gauche.
+- Angiographie cérébrale par CT et TSA : occlusion du segment V2 des deux VA. PCA et AB perméables, avec persistance de l'artère communicante postérieure. Le système carotidien n'a montré aucune altération. Images angio-TDM des troncs supra-aortiques montrant l'occlusion de la V2 proximale droite et de la V2 distale gauche. Ecoulement filiforme dans l'AV gauche au niveau de la C2.
+
+Diagnostic
+Infarctus cérébral dans le territoire de la PICA et de l'ACP gauche, d'étiologie inhabituelle. Artérite à cellules géantes.
+
+Traitement
+Il a été admis dans l'unité de traitement des accidents vasculaires cérébraux. Suite aux résultats du scanner cérébral et de l'étude neuropsychologique, il a reçu une corticothérapie empirique (méthylprednisolone 1 g/jour, 5 jours par voie intraveineuse) et les soins et recommandations thérapeutiques selon le chemin clinique. Le diagnostic a été confirmé par la suite. En plus du traitement antiplaquettaire, elle a poursuivi un traitement par prednisone à dose décroissante, associé à un traitement prophylactique de l'ostéoporose et à des statines.
+
+Evolution
+Le patient a montré une amélioration progressive au cours de son admission, sans autres complications, avec un score mRS de 3 points à la sortie. Lors des contrôles ultérieurs, il n'a signalé aucun nouveau symptôme, les réactifs de phase aiguë étaient dans la plage normale et le signe du halo était devenu négatif, bien qu'il ait persisté avec un score mRS de 2 à 3 mois.

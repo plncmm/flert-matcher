@@ -1,0 +1,23 @@
+Anamnesis
+Paciente mujer de 32 años con los siguientes antecedentes personales y familiares: migrañas con y sin aura desde la juventud (sin seguimiento en consulta de Neurología); cólicos nefríticos; bloqueo de la rama derecha en el electrocardiograma. Intervenciones quirúrgicas: cesárea y quiste ovárico derecho. Antecedente de hermana con cefaleas desde la juventud. Sin alergias medicamentosas conocidas. Tratamiento habitual: ninguno.
+La paciente fue remitida a consultas externas de Neurología por un cuadro clínico de cefalea frontal bilateral, intensa y pulsátil, acompañada de pérdida de visión en el campo superior del ojo derecho, disestesias faciobraquiales derechas y dificultad para la emisión del lenguaje. La duración del cuadro clínico fue de cuatro días y el estudio que se realizó (exploración neurológica, oftalmológica, tomografía computarizada y resonancia magnética) fue normal, siendo diagnosticada de migraña con aura prolongada y estatus migrañoso; además, presentó otros cincos episodios de características similares pero menor duración, por lo que en la consulta se inició tratamiento profiláctico con topiramato a dosis de 50 mg/12 h. En los meses siguientes la paciente refirió clara mejoría, tanto en la intensidad como en la frecuencia de los episodios, y al cumplir seis meses de tratamiento se inició pauta descendente de topiramato. Tras la retirada definitiva del fármaco, comenzó con disminución de la agudeza visual de forma bilateral, cefalea frontal, opresiva, de predominio matutino, junto con aumento de peso, siendo vista nuevamente en consulta.
+
+Exploración física
+Exploración física general: sin hallazgos de interés.
+Exploración neurológica: no se objetivó focalidad neurológica.
+Exploración oftalmológica: disminución de la agudeza visual (0,7 ojo izquierdo y 0,8 ojo derecho), defecto campimétrico en ambos campos nasales; en el fondo de ojo se objetivó edema de papila bilateral con ausencia de pulso venoso.
+
+Pruebas complementarias
+• Hemograma, bioquímica completa, perfil hepático, metabolismo lipídico, metabolismo del hierro, hormonas tiroideas, vitamina B12 y ácido fólico, autoinmunidad, anticoagulante lúpico, anticuerpos antifosfolípidos y trombofilia: normales.
+• Serologías (virus de la inmunodeficiencia humana, Borrelia, sífilis): negativas.
+• Electrocardiograma: ritmo sinusal a 75 lpm. Bloqueo de la rama derecha del haz de His.
+• Radiografía de tórax: normal.
+• Tomografía computarizada cerebral con y sin contraste: normal.
+• Resonancia magnética cerebral (RM), angio-RM arterial y venosa cerebral: normales.
+• Líquido cefalorraquídeo: presión de apertura 27 cm H2O, células 2 leucocitos, proteínas 36 mg/dl, glucosa 56 mg/dl, adenosina-desaminasa 0,4 UI/l.
+
+Tratamiento y evolución
+El juicio clínico inicial fue el de hipertensión intracraneal idiopática, por lo que se inició tratamiento farmacológico con acetazolamida 250 mg/8 h. Tras el inicio del tratamiento, la paciente experimentó una mejoría significativa desde el punto de vista oftalmológico (agudeza visual 0,9 en el ojo derecho y 0,8 en el izquierdo, en el fondo de ojo leve palidez en los bordes temporales de ambas papilas, con pulso venoso presente y defecto campimétrico temporal bilateral); sin embargo, persistían los episodios frecuentes de migraña con aura, por lo que se reintrodujo tratamiento profiláctico con topiramato y se fue disminuyendo paulatinamente la acetazolamida. En el momento actual, la paciente se encuentra asintomática. Ante la evolución clínica y la sucesión de los acontecimientos atribuimos la aparición de la hipertensión intracraneal idiopática a la retirada del topiramato.
+
+Diagnóstico
+Hipertensión intracraneal idiopática tras la retirada del topiramato.

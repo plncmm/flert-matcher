@@ -1,0 +1,28 @@
+Anamnesis
+Muller de 66 anos de idade, con antecedentes de hipertensión arterial e hipercolesterolemia, intervinda/intervida de tumorectomía en mama dereita en 1975 por patología benigna, incontinencia urinaria, varices, meniscopatía e miopía, en tratamento habitual con losartán e atorvastatina. Diagnosticada en decembro de 2015 de Carcinoma ductal infiltrante de mama dereita localmente avanzado E-IIB (T2N1M0) fenotipo HER2 positivo. RE+++. RP +. Ki 67 15%. Decídese quimioterapia (QT) neoadyuvante esquema Doxorrubicina liposomal 50 mg/m2 (día 1) + Paclitaxel 80 mg/m2 (día 1,8,15) + Trastuzumab 4 mg/kg (día 1) e 2 mg (día 8,15), con dose de carga en ciclo 1. Tras recibir 2 ciclos completos de tratamento, acudiu a urxencias por cadro febril de 3 días de evolución de ata 39oC, con leves molestias para deglutir e artromialgias genealizadas, sen tos nin expectoración nin outra semiología infecciosa por aparellos, con radiografía de tórax normal, sendo dada de alta co diagnóstico de faringitis aguda, con pauta antibiótica. 4 días despois, acudiu nuevamente por empeoramiento do estado xeral e febre de 39oC, acompañado de tos, dor torácica de características pleuríticas, con disnea de recente aparición a mínimos esforzos, con ortopnea e oliguria. Ante a gravidade da situación, con signos de insuficiencia respiratoria grave, trasládase a UCI. Durante a súa estancia en devandita unidade, iníciase antibioticoterapia de amplo espectro, e tratamento con ventilación non invasiva que se mantén durante unhas horas, precisando posteriormente intubación e drogas vasoactivas. Ante a non mejoría clínica, cos días, asóciase tratamento antiviral (oseltamivir), antifúngico (voriconazol) e cotrimoxazol dado o estado de inmunodepresión, á espera dos resultados das probas complementarias.
+
+Exploración física
+Á súa chegada a urxencias, mal estado xeral, palidez mucocutánea, taquipnea a 36 rpm, con tiraje intercostal. Fala entrecortada. TA 115/70. FC 110. SATO2 84% aire ambiente. SATO2 90% con reservorio a 100%. ACP: ruídos cardíacos rítmicos, non soplos. Murmullo vesicular diminuído globalmente, con estertores crepitantes, roncus e sibilancias en ambos campos pulmonares. Abdomen: Ruídos hidroaéreos presentes. Brando, depresible, non doloroso á palpación. Non reacción peritoneal. Non edemas en membros inferiores. Pulsos débiles pero simétricos.
+
+Probas complementarias
+. Analítica sanguínea: Hb 8.9. Leucocitos 12.100. Función hepática e renal normais.
+. Gasometría arterial: pO2 57 mmHg con mascarilla de ventimask ao 50 %. SATO2 82%.
+. ECG: Taquicardia sinusal a 110 latexados por minuto.
+. Rx de tórax: Infiltrados algodonosos bilaterales, en ambos lóbulos superiores e LID.
+. TAC tórax: Patrón de vidro deslustrado parcheado, con áreas de consolidación peribronquiales, subpleurales bilaterales.
+. Antígenos para Legionella e neumococo negativos.
+. PCR para gripe A, gripe B, VRS A e B, TBC, galactomanano, Pneumocystis jirovecii, CMV, Virus Epstein Barr, Mycoplasma, Coxiella burnetii, clamydias, Herpes virus 1 e 2 negativos.
+. Hemocultivos, urinocultivos negativos.
+. Ecocardiografía: Fracción de eyección preservada. Non alteracións.
+. Fibrobroncoscopia: árbores bronquiales permeables, de calibre normal, con mucosa eritematosa e escasa secreción serosa. Citometría de fluxo de BAL: destaca a presenza de linfocitosis de 84% (linfocitos T 98%, B 0.5%, e NK 1.5%). AP: ausencia de células malignas.
+
+Diagnóstico
+Neumonitis intersticial inducida por fármacos quimioterápicos complicada con síndrome de distréss respiratorio agudo.
+
+Tratamento
+Ante os resultados diagnósticos, decídese suspender todo tratamento antiinfeccioso, e iníciase a administración de metilprednisolona intravenosa a dose de 1 mg/Kg/día.
+
+Evolución
+Tralo inicio do tratamento corticoideo, a paciente presenta mejoría clínica, analítica e radiológica, que permitiu posteriormente proceder á extubación, mantendo ventilación mecánica non invasiva con descenso paulatino do fluxo con estabilidade clínica, polo que se traslada a sala de hospitalización, onde se continúa con tratamento corticoideo e disminución progresiva do fluxo de osíxeno, chegando á súa retirada con adecuada tolerancia, procedendo ao alta hospitalaria con corticoides por vía oral en pauta descendente.
+
+Dada a toxicidade pulmonar grado 4 inducida por fármacos QT, presentouse en comité de tumores de mama, onde se decide suspender o tratamento neoadyuvante e estudo de reevaluación, objetivando RP, co que se procedeu a realizar cuadrantectomía e radioterapia adyuvante. Actualmente, presenta ECOG 0, en tratamento con letrozol e sen evidencia de enfermidade tumoral.

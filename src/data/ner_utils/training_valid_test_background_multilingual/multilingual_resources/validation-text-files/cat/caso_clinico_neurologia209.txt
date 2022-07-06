@@ -1,0 +1,27 @@
+Anamnesi
+Home de 57 anys en seguiment des de fa un any per un quadre de hipoestesia en mans i peus, de començament l'any previ. Dislipémico i exenolismo sever fins fa 5 anys. En l'anamnesi negava antecedents familiars d'interès. El pacient va acudir a consultes per cremades indolents a les mans, amb hipoestesia de distribució en els dits 2 i 3 de la mà dreta i dit 5 esquerre, amb un empitjorament posterior ràpidament progressiu afectant de manera difusa a les mans i els membres inferiors (MMII) fins als genolls, seguint una distribució en guant i mitjó. Aquests símptomes s'acompanyaven de malaptesa motora distal a les mans. S'havia lesionat a nivell distal en les extremitats sense adonar-se, fins i tot li havien suturat sense requerir anestèsia. Negava símptomes suggeridors de disautonomía, així com simptomatologia sistèmica o constitucional.
+
+Examen físic
+Exploració sistèmica normal. No existien lesions dèrmiques o en les mucoses. Tampoc tenia deformitats articulars ni es palpava engruiximent dels troncs nerviosos. En l'exploració neurològica inicial les funcions mentals superiors estaven conservades. El llenguatge era normal. Els parells cranials no tenien alteracions. En el balanç muscular existia una discreta paresia (4/5) de l'abductor curt del primer dit de la mà dreta i del primer interossi dorsal de l'esquerra, sense atròfia ni fasciculaciones. En l'exploració sensitiva presentava una hipoestesia en els membres superiors (MMSS), més marcada a nivell del territori del nervi mitjà a la mà dreta i cubital en l'esquerra. En els MMII afectava fins als genolls amb anestèsia total distal. No existia disminució de la sensibilitat vibratòria. Presentava una anhidrosis marcada distal, amb trastorns tròfics com a pèrdua del borrissol. La marxa era normal, Romberg negatiu. Reflexos osteotendinosos conservats amb reflex cutani-plantar indiferent.
+Una nova exploració 5 mesos després va evidenciar una distribució més difusa de la hipoestesia a nivell distal, així com una feblesa més marcada amb hipotrofia de la musculatura cubital de la mà esquerra associada a una atròfia de l'abductor curt del primer dit de la mà dreta. Aquestes troballes eren indicatives d'una multineuritis.
+
+Proves complementàries
+• Analítica sanguínia: hemograma, bioquímica i coagulació normals. HDL i LDL-colesterol normals. Funció tiroidal i marcadors tumorals normals. Estudi autoimmune amb ANA, C-ANCA, P-ANCA i anti-Ro negatius. Anticossos antigangliósidos (anti-GM1 i GQ1b IgG) negatius. Crioglobulines negatives. Immunoglobulines i proteinograma normal. Inmunoelectroforesis sense troballes de gammapatía. ECA normal.
+• Serologia sèrica per a VIH, VHB, VHC i Borrellia negativa.
+• Tomografia computada tóraco-abdómino-pelviana: normal.
+• Ressonància magnètica de columna cervical i crani: sense troballes ressenyables.
+• Estudi de líquid cefalorraquidi (LCR): citoquímica normal, sense dissociació albúminocitológica. Citologia, conreo bacteris i PCR virus negatius.
+• Análísis de l'activitat d'alfa-galactosidasa A normal (estudi de malaltia de Fabry negatiu).
+• Electroneurografía i electromiogramas (EMG/ENG) seriats:
+- Troballes inicials compatibles amb neuropatía sensitiu-motora, principalment de caràcter desmielinitzant sever encara que també axonal. Predomino en els MMSS, asimètrica i amb gran cronodispersión, augment de latències i velocitats de conducció baixes, amplitud dels potencials motors (CMPA) descendida i sensitius gairebé inevocables. Electroneurografía amb potencial mitjà motor amb gran cronodispersión, augment de latència i disminució d'amplitud.
+- Canvi del patró d'afectació en successius EMG/ENG: desaparició de potencials sensitius (NR). Baixada severa en les amplituds de CMPA, persistint una gran cronodispersión de les respostes amb latències distals allargades. Afectació posada pegats, ja que alguns nervis com el radial dret o el peroneo motor esquerre van presentar valors normals, troballa suggeridora d'una multineuritis. EMG amb patró neurógeno reduït.
+- Biòpsia sural: severa neuropatía evolucionada amb pèrdua completa de totes les fibres, inflamació i presència de bacils intracel·lulars amb tinció de Fite positiva compatible amb lepra lepromatosa. Biòpsia de nervi sural: s'observen nombrosos bacils Fite positius.
+
+Diagnòstic
+Multineuritis infecciosa per Mycobacterium leprae.
+
+Tractament
+Es va iniciar tractament específic amb rifampicina, dapsona i clofazimina.
+
+Evolució
+Davant la sospita inicial d'una neuropatía inmunomediada es van provar diverses tandes de Ig i.v. i corticoides orals, sense referir millora. La clínica va continuar progressant, arribant a desenvolupar lesions ulceroses als peus.

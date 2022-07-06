@@ -1,0 +1,27 @@
+Anamnesi
+Home de 74 anys d'edat amb els següents antecedents personals: no reaccionis al·lèrgiques medicamentoses conegudes; nega hàbits tòxics; hipertensió arterial en tractament; diabetis mellitus tipus II; obesitat; fibril·lació auricular paroxismal anticoagulada amb acenocumarol; doble lesió en la vàlvula mitral; síndrome d'apnea-hipopnea obstructiva del somni; malaltia renal crònica estadi 3; hiperuricemia amb crisi de podagra; poliartrosis; tremolor essencial i xoc sèptic d'origen pulmonar fa dos anys. Intervingut per pròtesi de genoll esquerre fa 4 anys. Intervingut per herniorrafia inguinal bilateral. Tractament habitual: enalapril 20 mg, tamsulosina, torasemida 5 mg, pramipexol, acenocumarol 4 mg segons pauta, alopurinol 300 mg, bisoprolol fumarato 10 mg, pantoprazol 20 mg, metformina 850 mg, lercanidipino hidrocloruro 20 mg.
+El pacient acudeix al Servei d'Urgències per malestar general de 2 hores d'evolució, acompanyat de sensació distérmica sense termometrar, nàusees sense vòmits i clínica miccional consistent en polaquiruria, sense una altra simptomatologia.
+
+Exploració física
+Tensió arterial 164/97 mmHg; freqüència cardíaca 69 lpm; temperatura 37,5 oc. Conscient i orientat en les tres esferes. Sequedat mucocutánea. Auscultació cardíaca rítmica i sense soplos ni sorolls sobreañadidos. Auscultació pulmonar amb murmuri vesicular conservat i absència de sorolls adventicis. Sorolls hidroaéreos abdominals presents i d'intensitat normal. Abdomen tou i depresible, no dolorós a la palpació, sense signes de peritonismo, no es palpen masses ni megalias. Hèrnia inguinoescrotal dreta irreductible, hèrnia inguinal esquerra irreductible. Puñopercusión renal bilateral negativa. Tacte rectal: pròstata de vores regulars, no dolorosa, no femta en la butllofa rectal. Membres inferiors sense edemes ni signes de trombosi venosa profunda.
+
+Proves complementàries
+● Analítica de sang: en la qual destaca leucocitosis de 15,74 103/μl, amb neutrofilia (89,40%), augment de reactants de fase aguda i deterioració de la funció renal amb urea 71 mg/dl i creatinina 1,60 mg/dl.
+● Sistemàtic d'orina: pH 5,5, densitat 1.010 g/l, proteïnes 20 mg/dl; glucosa negatiu; cossos cetònics negatiu; bilirubina 0 mg/dl; urobilinógeno negatiu; nitrits positiu; leucòcits 500 cel/μl; hematies 300 céls./μl.
+● Sediment urgent: > 100 leucòcits/camp, cèl·lules de vies b aïllades i bacteriuria.
+● Hemocultivos i urinocultiu: Escherichia coli multisensible.
+
+Tractament
+Es va diagnosticar al pacient d'infecció del tracte urinari complicada, iniciant-se tractament amb ceftriaxona 1 g/12 hores per via intravenosa, i es va deixar en observació per a valorar la resposta al tractament, malgrat la qual cosa va persistir la clínica i la febre.
+Donats els antecedents del pacient, i en existir empitjorament de la funció renal del pacient, la creatinina sèrica basal del qual era de 1,3 mg/dl, es va decidir sol·licitar una ecografia abdómino-pelviana, on es va objectivar en el ronyó dret una hidronefrosis amb èctasi pielocalicial grau III, amb dilatació de l'urèter en el seu recorregut, dirigint-se a la regió inguinal, on el pacient portava una hèrnia inguinoescrotal recidivada; a la regió yuxtavesical l'urèter presentava un calibre normal. Per a valorar un possible compromís de la via urinària com a causant del fracàs renal agut, es decideix sol·licitar una tomografia computada, en la qual es va observar uropatía obstructiva amb hidronefrosis grau III i dilatació significativa de l'urèter dret fins a aconseguir una voluminosa hèrnia inguinal, on s'allotja; a la sortida de l'hèrnia presenta un canvi de calibre causant de la patologia, que condiciona un retard en l'eliminació d'aquest ronyó i una hèrnia inguinal esquerra de contingut gras. El pacient va requerir ingrés hospitalari i antibioterapia intravenosa.
+
+Diagnòstic
+● Infecció del tracte urinari febril.
+● Ureterohidronefrosis dreta grau III per herniació de l'urèter dret.
+● Hèrnia inguinal bilateral recidivada.
+
+Evolució
+Tres mesos després el pacient es va sotmetre a un tractament quirúrgic, practicant-se:
+● Hernioplastia amb malla de polipropilè 30 x 30 per via preperitoneal segons tècnica de Stoppa, mitjançant incisió de laparotomia mitjana infraumbilical.
+● Cateterización del meato ureteral dret amb col·locació de catèter doble J 6 x 30.
+Després de la intervenció quirúrgica el pacient va recuperar els seus nivells de creatinina sèrica basals entorn de 1,3-1,5 mg/dl, i va ser donat d'alta després de 4 dies des de la intervenció. En el postoperatori precoç va presentar un hematoma a la regió quirúrgica i edema escrotal. A les quatre setmanes de la intervenció quirúrgica es procedeix a la retirada del catèter doble J sense incidències. L'evolució del pacient ha estat satisfactòria.

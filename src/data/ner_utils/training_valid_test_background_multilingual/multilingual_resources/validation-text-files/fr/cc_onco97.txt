@@ -1,0 +1,35 @@
+Anamnèse
+Un homme de 44 ans originaire d'Algérie, sans allergie médicamenteuse connue et avec des antécédents personnels d'épisodes d'hyperréactivité bronchique traités occasionnellement par le salbutamol. Fumeur de tabac (16 paquets/an) et fumeur de cannabis et de haschisch. Il vit en Espagne depuis 15 ans et tous ses proches vivent à l'étranger.
+
+Le patient a consulté le service des urgences à plusieurs reprises (mai 2014) pour un mois de symptômes caractérisés par des épisodes d'œdème à prédominance faciale et périoculaire, classés comme angioedème. Il a été traité avec des corticostéroïdes et des antihistaminiques, sans amélioration. Il a également signalé une faiblesse généralisée avec myalgie, une anorexie avec une perte de poids de 10 kg, une forte dysphagie et une toux avec expectoration muqueuse persistante.
+
+Examen physique
+Les résultats comprennent une faiblesse musculaire proximale, une hépatosplénomégalie non douloureuse, un érythème palpébral en héliotrope, un gonflement du bras gauche, des papules de Gottron avec des télangiectasies périunguéales et une candidose oropharyngée. La fibroscopie nasale a révélé une lésion nodulaire dans l'hémicavité droite, d'un diamètre légèrement supérieur à 1 cm, derrière et sous la turbine. Aucune lymphadénopathie cervicale n'a été observée.
+
+Tests complémentaires
+" Analyses de laboratoire générales : lymphopénie, AST 713 UI/l, ALT 281 UI/l, LDH 2 505 UI/l, CK 27 000 UI/l.
+" Étude immunologique : ANA positif (1/160), anti-SSA positif (RO), niveaux négatifs d'anticorps circulants anti-dsDNA, anti-Jo1 et anti-Mi2, alpha-1 antitrypsine négative. Marqueurs tumoraux négatifs.
+"EMG : schéma myopathique.
+" Biopsie musculaire : myopathie à médiation immunitaire de type dermatomyosite ".
+" TDM thoracique : emphysème important à prédominance bibasale avec formation de grosses bulles, écartant la possibilité d'un déficit en alpha-antitrypsine. Lésion cavitaire apicale gauche à paroi mince. Images avec arbre dans le bourgeon dans la partie apicale du lobe inférieur droit.
+"CT thoraco-abdominopelvien : pas de preuve de pathologie néoformative. Progression des zones d'arborescence thoracique droite et apparition de lésions cavitaires biapicales, suspectes de réactivation de la tuberculose.
+"Fibrobronchoscopie normale.
+"IGRA : négatif. Lowenstein et Ziehl-Nielsen négatif.
+" Aspiration broncho-alvéolaire (BAS) : positif pour Haemophilus influenzae.
+" 18-F-PET-CT : dépôt FDG hypermétabolique focal dans la région pariétale droite sur le lobe temporal. Fibroscopie nasale avec biopsie excisionnelle avec pathologie positive pour un carcinome peu différencié.
+" IRM crânienne : lésion nodulaire dans l'hémicavum droit évoquant une lésion tumorale primaire.
+
+Diagnostic
+Carcinome peu différencié de l'hémicavité droite, cT1N0M0 (stade I), avec dermatomyosite comme syndrome paranéoplasique.
+
+Traitement
+Étant donné la suspicion de dermatomyosite (DM), une biopsie musculaire a été réalisée, ce qui a confirmé le diagnostic. Le traitement a commencé par des corticostéroïdes (1 mg/kg/jour) puis, compte tenu de la faible amélioration clinique, par des immunoglobulines (0,4 mg/kg/jour) pendant 5 jours consécutifs tous les 28 jours, puis la dose a été augmentée à 1 g/kg/jour pendant 3 jours. Compte tenu de la persistance d'une faiblesse importante, une rééducation musculaire a été demandée. Il a également présenté une dysphagie progressive aux solides et aux liquides, ce qui a rendu nécessaire la pose d'une sonde d'alimentation nasogastrique pour éviter la bronchoaspiration. Compte tenu de l'intolérance du patient à la sonde, il a été décidé de placer une gastrostomie percutanée pour poursuivre la nutrition entérale.
+Un scanner thoracique a été réalisé, qui a montré une lésion cavitaire suspecte de tuberculose (TB). On a demandé une fibrobronchoscopie avec aspiration broncho-alvéolaire (BAS), qui s'est révélée négative pour les mycobactéries et positive pour Haemophilus influenzae, et le patient a été traité selon l'antibiogramme. La tomodensitométrie de contrôle a permis d'exclure un tableau interstitiel associé à une dermatomyosite, mais il y avait des signes de réactivation des lésions cavitaires évoquant une tuberculose active, de sorte qu'un traitement tuberculostatique a été instauré avec quatre médicaments (rifampicine, pyrazinamide, isoniazide et éthambutol).
+
+Le cas a été évalué par le comité multidisciplinaire de la section d'oto-rhino-laryngologie, et a été considéré comme un candidat pour une chimioradiothérapie (QT-RDT) avec intention radicale étant donné l'association de la dermatomyosite comme syndrome paranéoplasique.
+
+Il a été transféré dans le service d'oncologie pour commencer un traitement oncospécifique. Le patient a subi un traitement concomitant de QT-RDT avec intention radicale, CDDP 100 mg/m2 tous les 21 jours et une radiothérapie externe 3D à modulation d'intensité (IMRT) sur le lit tumoral et les chaînes cervicales en 33 fractions (dose totale 69,96 Gy). Par la suite, il est candidat à la chimiothérapie adjuvante Al-Sarraf pour trois cycles. Le premier cycle de CDDP 80% QT a été administré en raison d'une hypoalbuminémie et d'une anémie.
+Compte tenu du contexte social, il a été décidé de le transférer au centre socio-sanitaire pour une convalescence et de poursuivre la rééducation.
+
+Evolution
+Le patient a terminé le traitement par QT-RDT en février 2015, avec des effets secondaires légers tels qu'une épithéliite et une mucosite de grade 2. Il a présenté une amélioration progressive de sa dysphagie, tolérant actuellement un régime trituré avec un défaut de propulsion persistant.

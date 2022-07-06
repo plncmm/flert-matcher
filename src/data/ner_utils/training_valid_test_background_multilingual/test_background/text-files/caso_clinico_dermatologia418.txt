@@ -1,0 +1,19 @@
+Anamnesis
+Varón de 62 años de edad, alérgico a penicilina, con antecedentes médicos de hipertensión arterial, dislipemia y trombopenia crónica en tratamiento habitual con enalapril y atorvastatina. El paciente es remitido a consultas externas de Dermatología para valorar edema facial y lesiones nodulares, asintomáticas, de un mes de evolución localizadas en cara, principalmente en región frontal. El paciente no refería ninguna otra sintomatología acompañante.
+
+Exploración física
+A la exploración física se apreciaba edema facial indurado, con acentuación de las líneas de expresión, asociado a nódulos eritematosos, hemiesféricos, de límites no definidos, infiltrados y no desplazables, de 0.5 a 1.5 cm de diámetro, distribuidas en cara, con aspecto de facies leonina. No asociaba afectación de mucosas, hepatoesplenomegalia ni adenopatías palpables.
+
+Exploraciones complementarias
+En la analítica sanguínea destacaba una leucopenia de 3.100 leucocitos/mm3, con 15.8% de monocitos, además se apreciaba una plaquetopenia con 75.000 plaquetas/mm3. La velocidad de sedimentación globular (VSG) y la β2 microglobulina estaban discretamente elevadas a 16 mm y 2.89 mcg/ml respectivamente.
+El estudio histopatológico, se tomó de una lesión papulosa así como de piel infiltrada, mostraba una infiltración dérmica difusa por células neoplásicas con núcleos ovoides ligeramente lobulados, con cromatina fina, núcleo poco visible y citoplasma escaso, de aspecto monocítico, que respetaba la dermis papilar superficial, sin apreciarse epidermotropismo (figura 2a). El estudio inmunohistoquímico fue positivo para CD56, CD68 (figura 2b), CD34, CD45 lisozima y mieloperoxidasa, por el contrario fue negativo para CD117, CD20, CD3, CD30 y CD10. La actividad proliferativa Ki67 era elevada aproximadamente de un 80%.
+Por parte del servicio de Hematología se realizó biopsia de médula ósea que en el estudio por citometría de flujo destacaba una población mayoritariamente leucocitaria (81% de la población) localizada en el Plot SSC en región precursor granulocítico inmaduro y parte en zona de monocito. El fenotipo era compatible con línea monocítica precoz, siendo positivos a CD 64, CD13, CD11b, CD56, CD14, CD4, CD15 Y CD 65. No se encontraron alteraciones citogenéticas numéricas ni estructurales.
+
+Diagnóstico
+Facies leonina secundaria a Leucemia cutis por Leucemia monoblástica aguda (M5).
+
+Tratamiento
+Se introdujo tratamiento poliquimioterápico con Citarabina (ara-C) más daunorrubicina.
+
+Evolución
+El paciente tuvo una resistencia al tratamiento y falleció a los cuatro meses del diagnóstico de leucemia M5, por progresión de su enfermedad a leucemia hiperleucocitósica con 107.000 leucocitos/mm3.

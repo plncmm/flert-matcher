@@ -1,0 +1,45 @@
+Anamnesi
+Home de 75 anys, sense al·lèrgies medicamentoses conegudes, exfumador des de fa 7 anys amb dosi total acumulada de 50 paquets-any, sense altres hàbits tòxics.
+Antecedents medicoquirúrgicos
+» Hipotiroïdisme subclínico en context de cirurgia i radioteràpia en zona cervical, diagnosticat en setembre de 2015. En tractament substitutiu i seguiment per Endocrinologia.
+» Vessament de vitri posterior de l'ull esquerre diagnosticat en 2011 arran de control rutinari oftalmològic, va realitzar tractament amb làser en 2011.
+Situació soci-funcional
+Jubilat, treballava com a constructor. Viu amb la seva esposa en pis sense barreres arquitectòniques. Barthel 100 punts.
+Medicació habitual
+Lorazepam 0,5 mg a la nit si precisa. Paracetamol 1 g cada 8 hores si precisa per a dolor. Levotiroxina 100 mcg cada 24 hores de dilluns a divendres 125 mcg cada 24 h dissabte i diumenge.
+Història oncològica
+Diagnosticat al novembre de 2011 de carcinoma escatós d'alt grau en corda vocal esquerra arran de disfonia de dos mesos d'evolució. Es va observar lesió en corda vocal esquerra (CVI) amb afectació de la comissura anterior i extensió a la corda vocal dreta (CVD), realitzant-se cordectomía làser en centre extern. En aquest moment, cT1bN0M0; pT1N0M0.
+» Primera recidiva, local:
+- Al desembre de 2012 acudeix a Urgències per disfonia, mostrant-se paràlisi de la CVI i hipomovilidad de la CVD, realitzant-se traqueostomia urgent. Presentat en comitè, es decideix la realització de microlaringoscòpia intraoperatòria amb biòpsies peroperatòries, sent positives per a malignitat, per la qual cosa es realitza en 11 de gener de 2013 una laringectomia total. L'informe d'Anatomia Patològica destaca la presència de carcinoma escatós moderadament diferenciat, infiltrante de 3,5 cm en l'eix màxim, amb invasió del si piriforme, glotis i extensió subglótica, així com cartílag del tiroides i extensió a parts toves pretraqueals. Presenta infiltració perineural i vascular i el marge traqueal està lliure. Amb això, presenta una recidiva local i se sojorn com rpT4NxM0.
+- Tractament: realitza radioteràpia adjuvant del 21/2/2013 al 6/5/2013, amb una dosi total de 66 gray (Gy) en llit quirúrgic i 50 Gy a cadenes ganglionars, mitjançant tècnica de radioteràpia d'intensitat modulada (IMRT).
+» Segona recidiva, ganglionar:
+- Al gener de 2014, en TC de coll de control s'objectiva una lesió mal delimitada en nivell IV ganglionar dret, realitzant-se una PAAF en aquesta lesió que resulta positiva per a celularidad maligna. Al març de 2014 en aquest context es realitza vaciamiento cervical radical dret, amb positivitat en 4 de 6 ganglis, invasió extracapsular en 2 ganglis i invasió perineural.
+- Tractament: realitza quimiorradioterapia concomitant amb cisplatí (CDDP) 40 mg/m² setmanal i una dosi total de 66 Gy mitjançant IMRT, del 12/5/2014 al 23/6/2014, ben tolerat.
+» Tercera recidiva, no resecable.
+- Al març de 2015, arran de supuración de l'àrea peritraqueostomía, s'observa una zona ulcerada en aquesta localització, amb tomografia computada (TC) que mostra presència de recidiva tumoral peritraqueostomía esquerra, amb infiltració del múscul esternoclidomastoidal i contracte amb lòbul tiroidal esquerre i tràquea. L'estudi d'extensió amb tomografia per emissió de positrons (PET-TC) resulta negatiu. Es realitza biòpsia que mostra la presència de carcinoma pobrament diferenciat.
+- Tractament: del 7/4/2015 al 13/7/2015 realitza 5 cicles de carboplatí-fluorouracilo (5-FU)-cetuximab, presentant com a millor resposta malaltia estable després de 3 cicles.
+Malaltia actual
+El pacient acudeix a consultes externes d'Oncologia Mèdica al juliol de 2015, observant-se en la TC de control la presència de recidiva en la zona de la paratraqueostomía. El pacient es presenta en el moment asimptomàtic, nega dolor o supuración peritraqueostomía.
+A fi de realitzar el precribado per a l'estudi HAWK (NCT02207530 durvalumab en pacients PD-L1 positiu), es va realitzar biòpsia de la recidiva locorregional.
+
+Exploració física
+» ECOG 0. Pes 72 kg.
+» Cavitat oral: sense troballes patològiques.
+» Coll: lesió en zona peritraqueostomía, sense signes d'infecció local. No es palpen adenopaties en coll ni en zona supraclavicular.
+» Exploració física pulmonar: murmuri vesicular conservat, sense sorolls sobreañadidos.
+» Exploració cardiovascular: tons cardíacs rítmics, sense soplos afegits.
+» Abdomen: tou, sense signes d'irritació peritoneal.
+» Exploració neurològica: sense signes de focalidad neurològica aguda.
+
+Proves complementàries
+Biòpsia recidiva locorregional (24/7/2015): mitjançant la determinació immunohistoquímica amb el test qualitatiu FINESTRA PD-L1 (SP263, un anticòs monoclonal de ratolí contra PD-L1), es va demostrar la negativitat per a PDL-1 (captació < 25% en la mostra processada). Negativitat així mateix per a p16, determinada mitjançant immunohistoquímica.
+
+Diagnòstic
+El pacient es diagnostica de recidiva locorregional no resecable de la seva malaltia, PD-L1 negatiu.
+
+Tractament
+Donada la negativitat per a PD-L1, es proposa al pacient entrar en l'assaig clínic D419300003 (CONDOR). El 27 d'agost de 2015, el pacient signa el consentiment informat per a entrar en l'estudi, sent aleatoritzat a rebre durvalumab 20 mg/kg + tremelimumab 1 mg/kg cada 4 setmanes durant 4 cicles, i posteriorment durvalumab 10 mg/kg cada 2 setmanes per 12 mesos. Va finalitzar en tractament en setembre de 2016.
+
+Evolució
+El pacient presenta benefici clínic ràpid en forma de control simptomàtic local, aconseguint la resposta parcial radiològica (segons criteris RECIST) al març de 2016. El pacient s'ha mantingut en resposta parcial fins al final de tractament, en setembre de 2016. Després d'això, ha presentat un manteniment de la resposta parcial fins a l'últim control al gener de 2018, on s'objectiva progressió de la malaltia en forma d'adenopaties mediastíniques, reiniciant llavors tractament dins del mateix assaig clínic.
+No va presentar en cap moment toxicitat inmunomediada.

@@ -1,0 +1,36 @@
+Anamnèse
+Homme de 60 ans, ex-fumeur depuis 25 ans, depuis environ 20 ans (ICAT 40 paq-années), sans autres antécédents personnels d'intérêt, qui s'est présenté aux urgences en juillet 2014, en raison de douleurs abdominales et rectales généralisées d'évolution de quelques semaines, accompagnées d'une altération du transit intestinal (alternance de constipation et de selles liquides avec mucus).
+
+Examen physique
+L'examen abdominal a révélé une impaction abdominale dans l'hypogastre et une douleur importante dans la fosse iliaque gauche.
+
+Tests complémentaires
+-Un scanner abdominal a été réalisé aux urgences avec un contraste IV montrant un épaississement et une prise pariétale d'un segment du côlon sigmoïde avec une densité accrue de la graisse environnante et une image de 6x4cm suggérant un processus néoformatif.
+Suite aux résultats, un scanner thoracique ambulatoire a été demandé, ainsi qu'une analyse complète et un rendez-vous préférentiel avec le service digestif.
+-Une coloscopie préférentielle a été réalisée et a permis de découvrir une masse mamelonnée et friable à 18 cm de la marge anale, qui saignait lorsqu'on la frottait avec le coloscope, occupant presque toute la circonférence, laissant une petite lumière totalement infranchissable. Des biopsies sont prélevées dans cette zone.
+-Aucune métastase n'est visible sur le scanner thoracique.
+
+Diagnostic
+Résultats pathologiques : lésion adénomateuse avec dysplasie de haut grade.
+
+Traitement
+Au vu des résultats des examens complémentaires, le patient est orienté vers la chirurgie.
+
+Progrès
+En attendant l'intervention chirurgicale, le 4 août, le patient est revenu aux urgences pour une distension abdominale, accompagnée de nausées et de constipation et d'une absence de flatulences depuis 3 jours.
+La radiographie abdominale a montré une dilatation de tout le cadre colique depuis le sigma jusqu'à 8 cm dans le cæcum avec un contenu air-fécal avec une valve iléo-cæcale compétente, il a donc été admis dans le service de chirurgie et une prothèse non couverte a été placée (transitoire), avec sortie immédiate de selles semi-liquides.
+Enfin, le jour suivant, une sigmoïdectomie avec anastomose T-T et iléostomie fantôme a été réalisée.
+Le résultat anatomopathologique était le suivant : adénocarcinome sténosant de la jonction rectosigmoïdienne (avec pose d'une endoprothèse), modérément différencié avec des cellules en anneau de signe infiltrant la paroi qui le recouvre (pT4). Infiltration vasculaire périneurale et lymphatique avec atteinte de 24 ganglions lymphatiques isolés ( pN1). Limites chirurgicales libres.
+Suite aux résultats, le patient a été adressé au service d'oncologie, avec un jugement clinique : Adénocarcinome du côlon pT4pN1, stade III, pour lequel un traitement adjuvant par FOLFOX x 12 cycles de chimiothérapie a été prescrit.
+Une nouvelle étude d'extension a été demandée avec un scanner thoraco-abdomino-pelvien négatif pour la maladie métastatique et des analyses avec des marqueurs tumoraux normaux (CEA et Ca 19.9).
+Le Folfox adjuvant a été commencé en septembre 2014 avec une excellente tolérance.
+En février 2015, après l'administration du dernier cycle de FOLFOX, le patient s'est rendu aux urgences après l'apparition d'une dyspnée d'apparition soudaine au repos, avec une toux sèche persistante et une insuffisance respiratoire sévère, sans douleur thoracique associée, sans bruits thoraciques ni syndrome fébrile, et les jours précédents asymptomatique d'un point de vue respiratoire.
+A l'examen, le patient présentait une tachypnée de repos à 26 tours/minute avec 88-90% de satO2 et 2 bpm. L'auscultation respiratoire a montré une hypophonesis marquée dans les deux hémithorax avec quelques crépitements secs dans les deux bases et un méplat postéro-latéral à droite.
+Une angiographie par tomodensitométrie a été réalisée à l'admission après avoir obtenu un taux élevé de D-dimères. La TEP a été écartée et après examen des images, on a constaté un motif alvéolaire diffus (en verre dépoli) avec des zones confluentes, principalement sous-pleurales périphériques avec bronchogramme aérien ; bilatéral mais avec une plus grande implication dans le poumon droit. Il y a aussi des signes de PHT modéré.
+À l'admission, les hémocultures, les cultures d'expectorations, l'antigénurie de pneumocoques et de Legionella, la PCR pour les virus respiratoires et la sérologie étaient négatives. Malgré une antibiothérapie empirique, des corticoïdes et une oxygénothérapie avec une MV à 31%, le patient a présenté une tachypnée de 30 tours/minute et une saturation de 89%, sans fièvre ni expectoration mucocupurulente ni augmentation des réactifs de phase aiguë, donc, étant donné l'absence d'amélioration clinique du patient, une évaluation par la Pneumologie a été demandée.
+Finalement, le patient a été transféré au service de pneumologie avec le jugement clinique suivant : "insuffisance respiratoire aiguë sévère secondaire à une pneumopathie aiguë due à la chimiothérapie (pneumopathie chimique)", car une revue de la littérature montre que les sels de platine peuvent être associés à l'apparition d'une fibrose pulmonaire d'origine médicamenteuse.
+Par ailleurs, en comparant avec les études radiologiques précédentes, il faut noter que le scanner thoracique de juillet 2014 était strictement normal, sans altération pleuropulmonaire ni adénopathies médiastinales.
+Au cours de son admission, le patient a été traité avec des corticostéroïdes iv à forte dose, des bronchodilatateurs et de l'acétylcystéine 600/8h, évoluant lentement mais favorablement, bien qu'avec une faible tolérance à un effort minimal (marcher dans la chambre).
+Finalement, il a été décidé de le faire sortir de l'hôpital avec une lecture de base des gaz du sang artériel de p02 63 et la nécessité d'une oxygénothérapie à domicile, et il a subi des contrôles dans les services de pneumologie et d'oncologie.
+Après plus d'un an de contrôles, le patient s'améliore lentement, sans avoir besoin d'oxygénothérapie 24 heures sur 24, et avec 10 mg de prednisone toutes les 24 heures, tolérant un peu d'exercice. L'arrêt de l'oxygénothérapie sera évalué lors du prochain examen en pneumologie.
+Quant aux revues par l'oncologie, la dernière en mai 2016 avec un scanner thoraco-abdominal et une coloscopie sans preuve de maladie et des tests sanguins avec des marqueurs tumoraux normaux, soulignant seulement la persistance d'une neurotoxicité de grade II dans les membres inférieurs.

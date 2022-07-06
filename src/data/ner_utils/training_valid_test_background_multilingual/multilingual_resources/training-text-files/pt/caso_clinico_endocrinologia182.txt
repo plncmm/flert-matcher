@@ -1,0 +1,54 @@
+Apresentamos o caso de um paciente do sexo masculino de 16 anos de idade que se apresenta para consulta devido a um atraso pubertário e de crescimento.
+
+HISTÓRIA FAMILIAR
+Pai e irmão com altura e puberdade normais. O avô materno morreu de glioblastoma.
+A mãe consultou a ginecologia em 2004 devido a distúrbios menstruais. A patologia foi excluída e ela foi dispensada. Em 2007, com sintomas de dor de cabeça, uma RM mostrou um macroadenoma pituitário de 1cm, não funcional, e ela permaneceu assintomática e com um eixo pituitário normal, pelo que a gestão expectante foi decidida.
+
+DOENÇA ACTUAL
+A família relata que o doente apresentou dores de cabeça, náuseas e vómitos desde os sete anos de idade. A gravidez e o parto foram normais (peso de nascimento: 3,150 kg, altura: 50 cm).
+Ao exame, peso 51,7 kg, altura 154 cm (<p5). Testes em bolsa de 2cc, pubarche 3, axillarche 1.
+
+TESTES COMPLEMENTARES
+CBC: CBC e painel químico sem alterações, TSH 0.31μUI/mL, T4L 11.7 pml/L, FSH 3.04 mIU/mL, LH 0.12 mIU/mL, testosterona 0.49 ng/mL, cortisol 60ng/mL, IGF-1 192 ng/mL. O Prolactin 8649 ng/mL é destacado.
+Teste de exercício e teste de clonidina sem resposta ao GH. Idade óssea: 12 anos.
+
+EVOLUÇÃO
+Tendo em conta os resultados, foi iniciado o tratamento substitutivo dos eixos tirotrópicos e corticotrópicos e foi solicitada uma RM da glândula pituitária com gadolínio, com a descoberta de uma massa pituitária de 47,6x22x47,2 mm que corroeu o chão de venda, estendendo-se até à cisterna prepontina esquerda e circundando a artéria carótida.
+
+O tratamento foi iniciado com doses progressivamente crescentes de cabergolina, até uma dose máxima tolerada de 1,5mg semanalmente. Após alguns meses não houve resposta bioquímica, e a prolactina permaneceu elevada, pelo que o tratamento cirúrgico foi finalmente decidido.
+
+A anatomia patológica revelou que se tratava de facto de um prolactinoma. A análise funcional in vitro mostrou que, embora se tenha observado uma diminuição da produção de prolactina e da expressão do receptor DRD2 com a exposição à cabergolina, a inibição não foi total e a redução da proliferação de células tumorais não foi completa. Isto explicaria a resistência ao tratamento demonstrada in vivo.
+
+Quatro meses após a cirurgia, a RM ainda mostrou uma massa de 30x20x30 mm, com hipopituitarismo e hiperprolactinaemia (PRL 178,9 ng/ml).1
+A terapia de substituição foi continuada com chorogonadotropina alfa e follitropina alfa, levothyroxina e hidrocortisona. A cabergolina foi mantida na dose máxima tolerada nessa altura (3,5 mg semanalmente) e a possibilidade de tratamento com radioterapia foi considerada, e o paciente está actualmente à espera de radioterapia.
+Simultaneamente, a mãe do paciente foi acompanhada no nosso departamento para o macroadenoma da hipófise previamente diagnosticado. Durante este tempo, a massa manteve o mesmo volume, sem invasão das estruturas circundantes e com um eixo pituitário inalterado.
+
+Com o diagnóstico de prolactinoma no filho, e portanto a presença de adenomas pituitários em dois membros da família não associados a qualquer outra alteração endócrina, foi solicitado um estudo genético que mostrou uma mutação do gene AIP2 no exon 6: 974G OA (p.Arg325Gln), que também foi encontrado noutro filho, irmão do nosso caso índice. O resto da família foi negativo para esta mutação.
+
+EVOLUÇÃO
+Durante o seguimento, o macroadenoma pituitário não funcional da mãe manteve o mesmo volume e o eixo pituitário era normal.
+Há dois anos, uma análise de rotina da mãe mostrou hipercalcemia, confirmando finalmente o hiperparatiroidismo e uma imagem sugestiva de adenoma paratiróide inferior direito no MIBI scan. Foi realizada uma paratiroidectomia inferior direita, com achados patológicos de adenoma da glândula paratiróide.
+Após a cirurgia, o PTH intacto permaneceu no intervalo elevado, com o cálcio no limite superior.
+
+Na sequência destas descobertas, e considerando a possibilidade de neoplasia endócrina múltipla, foi solicitado um estudo genético de MEN7,8, o qual foi inicialmente rejeitado pelo departamento de genética. Em qualquer caso, foi solicitado um TAC toracoabdominal e hormonas gastrointestinais e pancreáticas.
+
+Os resultados foram normais em ambas as crianças, excepto pela descoberta de hiperparatiroidismo normocalcémico em ambas.
+
+Na mãe, as determinações foram normais excepto para um glucagon de 267 pg/mL (VN 59-150) e um polipéptido pancreático >200 pmol/L (VN <100).
+
+Dois LOES pancreáticos de 26x41mm e 70x81mm foram detectados na TC abdominal. Foi utilizado um estudo em curso para obter imagens PET 68Ga DOTA-NOC. Não foram encontradas outras imagens suspeitas.
+
+Tendo em conta estes resultados, foi novamente solicitado um estudo genético para o MEN-1 pelo MLPA (multiple ligand-dependent probe amplification), que revelou um perfil compatível com uma eliminação heterozigótica na região cromossómica 11q13, onde se encontra o gene MEN1, cobrindo pelo menos a região entre as posições chr11:64571868-64578482, correspondente aos exões 1 a 11.
+
+Este resultado é compatível com a suspeita clínica de neoplasia endócrina. O estudo foi positivo tanto para a mãe como para os dois irmãos.
+
+Com o diagnóstico de tumores neuroendócrinos pancreáticos não funcionais, a mãe foi submetida a pancreatectomia corporocaudal mais esplenectomia. A patologia mostrou um PNET multifocal bem diferenciado (G1) (dois tumores, um ao nível do corpo de 7,2 cm e outro ao nível da cauda de 4,2 cm) com índice mitótico <2 mitoses por 10 campos e Ki 67 <2%. Com a presença de invasão vascular mas com tumor limitado ao pâncreas, sem invasão de tecido extrapancreático e com margens de ressecção livres de neoplasia, foi classificado como pT2 N0 M0.
+Semanas após a operação, apresentou uma complicação tardia com obstrução de cabeçada que exigiu uma reintervenção cirúrgica.
+Em estudos de extensão, uma adenopatia axilar suspeita foi detectada e biopsiada, confirmando a presença de um carcinoma ductal infiltrante pT2 N1a M0. Esta associação é também descrita na literatura.9
+Realizou-se uma biópsia do gânglio linfático e do gânglio sentinela, sem sinais de extensão. Actualmente em tratamento com QT+RT+HT, em acompanhamento por Oncologia Médica e Oncologia por Radiação, com boa evolução.
+
+SITUAÇÃO ACTUAL
+A situação dos três familiares no momento da publicação deste caso é a seguinte:
+- Caso do paciente. Prolactinoma gigante operado e recidivado, na pendência de radioterapia. Hiperparatiroidismo primário com normocalcemia e atitude expectante.
+- Mãe. Hiperparatiroidismo primário, sob vigilância. Intervenção para tumor neuroendócrino com episódio de obstrução de flange em 2017. Tratamento contínuo de QT e RT para o carcinoma da mama, com boa evolução.
+- Criança mais nova. Microadenoma da hipófise não funcional sob vigilância. Hiperparatiroidismo primário com normocalcemia e atitude expectante.

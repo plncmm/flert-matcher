@@ -1,0 +1,35 @@
+Dona de 43 anys, fumadora amb un hàbit tabàquic de 10 anys/paquet sense antecedents personals o familiars d'interès, que al setembre de 2018 va ingressar en un altre hospital per quadre de mesos d'evolució de pèrdua de pes i feblesa progressiva amb atròfia muscular marcada. En aquest ingrés es va diagnosticar de adenocarcinoma pulmonar metastásico.
+
+A l'alta encara era incapaç de bipedestació, per la qual cosa tenia suport de UHD i estava en tractament amb dexametasona a dosis altes (8-4-8 mg) i analgèsics de tercer graó (pegats fentanil 100 μg/h)
+
+Va sol·licitar segona opinió en el nostre centre, acudint el 22/10/18 abans de la visita per claudicació familiar; amb mal control del dolor (cefalea per metàstasis cerebrals i dolor ciàtic dret per lesió i aixafament de L5) malgrat augment d'analgèsia i corticoterapia, amb incontinència urinària i fecal d'inici en les últimes 2-3 setmanes juntament amb augment de la feblesa en MMII. En els últims dies s'havia afegit també una síndrome confusional amb deliris de perjudici.
+
+La pacient presentava un PS de 4 i estava orientada en persona i parcialment orientada en temps i espai; presentava a l'examen físic una caquèxia important, amb atròfia asimètrica en cuádriceps, interossis i eminència tenar que condicionaven mà en arpa esquerra. En el balanç motor destacava la feblesa generalitzada, amb puntuacions de 3 sobre 5 en l'escala ÀSIA en extremitats distals i 4 sobre 5 en proximals. La sensibilitat era normal i no hi havia alteració de parells cranials. La resta de l'exploració física era anodina.
+
+Dins de les exploracions complementàries realitzades en l'altre centre destacaven:
+- RMN cerebral i raquis cervical (18/09/2018): Metàstasis cerebrals i cerebel·loses amb component hemorràgic, efecte massa, compressió del 4o ventricle, hipertensió intracranial i herniació d'amígdales cerebel·loses amb compressió bulbar. Metàstasis òssies en els 3 primers nivells dorsals.
+- TC tóraco-abdómino-pelvià (18/09/2018): Múltiples lesions d'aparença metastásica en tots dos pulmons de predomini en camps superiors, parènquima hepàtic, suprarenal dreta, ronyó dret, adenopaties retroperitoneales i a nivell ossi en arcs costals, somes D1-D3 i soma L5 amb component epidural anterior, pala ilíaca dreta i acetàbul esquerre.
+
+Allí s'havia realitzat el 24/9/18 una biòpsia ecodirigida d'una de les metàstasis hepàtiques (24/9/18) cuye estudi morfològic i immunohistoquímic va evidenciar una metàstasi de adenocarcinoma de pulmó PD-L1 + (baixa expressió) 1-49%; ALK i ROS 1 no translocados, estant pendent de resultat de la mutació de EGFR
+
+Per tant, davant una dona jove amb molt mal estat general basal i amb un Adenocarcinoma de Pulmó molt avançat, amb alta càrrega de malaltia per metàstasis múltiples i dolor no controlat es va decidir ingrés per a optimitzar el tractament simptomàtic, incloent analgèsia i mesures antiedema cerebral amb augment de dosi de dexametasona (8mg cada 8h), amb millora simptomàtica parcial inicial.
+
+Posteriorment i després de descartar compromís medul·lar amb RMN de raquis es va iniciar RT holocraneal pal·liativa (10 fraccionis x 3 Gy, que va finalitzar el 05/11/18).
+
+El 31/10/18 es va rebre resultat de EGFR, presentant una deleció en l'exó 19, per la qual cosa es pautó (previ consentiment informat) tractament amb Erlotinib 150mg/24h.
+
+Al mateix temps, es va iniciar tractament rehabilitador/fisioteràpia a causa de la síndrome de encamamiento prolongat i l'atròfia muscular atribuïble a la immobilitat i a la presa de Dexametasona.
+
+Amb aquestes mesures, la pacient va iniciar un procés de lenta però evident millora del seu estat general i funcional amb bon control del dolor i recuperació progressiva de la mobilitat i l'autonomia personal, que va permetre el descens progressiu de corticoterapia.
+
+El 18/11/18, estant amb dosi de 2mg/dia de dexametasona la pacient va presentar un pic febril sense simptomatologia acompanyant, destacant a l'exploració subcrepitantes bibasales, amb exploracions complementàries (analítica, orina, virus respiratoris i radiografia de tòrax) sense troballes, per la qual cosa va iniciar antibioterapia empírica amb cefditoreno.
+
+Malgrat ampliació d'espectre antibiòtic fins a piperacilina-tazobactam, van persistir els pics febrils; presentant el 22/11/18 una franca deterioració clínica, amb escassa reactivitat, somnolència, dessaturació fins al 60% (aire ambient) i crepitantes dispersos. Es va repetir la radiografia de tòrax que va mostrar un patró reticulonodular extens en tots dos hemitórax de nova aparició, per la qual cosa davant sospita de pneumònia atípica o vírica es va associar levofloxacino, cotrimoxazol a dosis terapèutiques i ganciclovir. Malgrat l'administració d'oxigenoteràpia (Ventimask amb FiO2 50%), la pacient va persistir amb sensació disneica i taquipnea important; pel que es va comentar amb vigilància intensiva per a col·locació d'oxigenoteràpia nasal d'alt flux (optiflow) en planta.
+
+Amb aquest suport màxim en planta, es va aconseguir estabilitzar a la pacient. La compromesa situació respiratòria va impedir la realització de broncoscòpia per a presa de mostra i filiació microbiològica en el moment agut, però es va realitzar TC toràcic el	26/11/18 que va mostrar extensa afectació bilateral posada pegats i confluente en vidre desllustrat, unit a l'analítica que mostrava una lleu elevació de reactants de fase aguda però clara elevació de LDH que plantejava com a principal sospita diagnòstica la pneumònia per Pneumocystis jirovecci.
+
+Des d'una necessitat inicial d'oxigenoteràpia amb una FiO2 de 80%, es va aconseguir una lenta però progressiva millora a nivell respiratori, sense repetir pics febrils, permetent el passo a Ventimask el 4/12/18 i a ulleres nasals el 13/12/18.
+
+Les anàlisis microbiològiques punt de sang (hemocultivos, càrrega viral CMV) recollits en els pics febrils i l'esput (cultiu, ADN Aspergillus, ADN Pneumocystis), recollit quan la situació clínica de la pacient ho va permetre (11/12/18) no van mostrar cap aïllament; retirant progressivament la antibioterapia fins a deixar únicament cotrimoxazol a dosis profilàctiques.
+
+Es va realitzar TC tóraco-abdominal de control el 18/12/18 que va mostrar resolució de les àrees en vidre desllustrat i millora dels nòduls metastásicos amb criteris de resposta parcial, permetent l'alta hospitalària el 21/12/18 sense necessitat de cap suport domiciliari, estant amb un PS d'1 asimptomàtica excepte toxicitat cutània G1 per erlotinib en la seva visita en consultes externes al mes de rebre l'alta.

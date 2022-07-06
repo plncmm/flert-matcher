@@ -1,0 +1,11 @@
+Fille de 10 ans diagnostiquée dans un autre centre avec une allergie aux noix après une légère anaphylaxie à l'arachide. Elle suit un régime exempt de tous les fruits à coque sans aucune réaction.
+Mars 2017 : en mangeant du poulet au curry, elle a développé une anaphylaxie sévère immédiate, nécessitant un transfert urgent à l'hôpital. Étude allergologique après la réaction : tests cutanés (CT) positifs pour les noix, les légumineuses et les épices, qui ont tous été retirés du régime alimentaire.
+
+Janvier 2018 : étude allergologique dans notre centre pour déterminer l'aliment en cause (tests cutanés, dosage des IgE spécifiques et SDS-PAGE.
+
+
+Batterie négative d'épices commerciales, Cacahuète Prick by Prick (13 mm), Poudre de curry (18,5 mm). Piqûre par piqûre avec les composants du curry moins que l'histamine sauf le fenugrec (23 mm). IgE Arachide > 100 kU/L, Curry 35,2 kU/L, Fenugrec 45 kU/L, Ara h 1> 100 kU/L, Ara h 2 >100 kU/L, Ara h 3 36 kU/L
+
+SDS-PAGE : schéma de bandes conforme à celui décrit dans les différentes études pour l'arachide. Les extraits de curry et de fenugrec (grain et moulu) présentent des bandes similaires : 22,28 et 50 kDa (coïncidant avec certaines de celles observées dans l'arachide).
+
+Étude d'inhibition avec des extraits de cacahuète et de fenugrec en phase solide : la cacahuète inhibe complètement la liaison des IgE des extraits de curry et de fenugrec.

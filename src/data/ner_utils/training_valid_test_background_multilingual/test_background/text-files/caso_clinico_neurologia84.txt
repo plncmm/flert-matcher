@@ -1,0 +1,35 @@
+Anamnesis
+Acude a nuestras Urgencias una paciente de 75 años acompañada por sus familiares por desorientación y conducta extraña/inapropiada (desnudarse y orinar en zonas públicas entre otros) de 3 días de evolución de curso fluctuante a lo largo del día. La paciente hasta entonces era independiente para las actividades básicas de la vida diaria y no tiene antecedentes médicos de interés, salvo que realizó seguimiento psiquiátrico durante unos meses hace 6 años a raíz de la muerte de un familiar próximo con supuesto diagnóstico de depresión psicótica. Actualmente estaba en tratamiento con clorazepato dipotásico. Debemos puntualizar que antes de comenzar con las alteraciones de la conducta la paciente llevaba cerca de un mes con sintomatología similar a la cual estuvo en seguimiento previamente por Psiquiatría, consistente en ideas de carácter paranoide/ruina. La paciente se encuentra afebril, consciente, desorientada en tiempo y en espacio, colaboradora, discurso incoherente en ocasiones, niega ideación delirante. No focalidad neurológica. La paciente fue valorada por Psiquiatría con el diagnóstico de deterioro cognitivo y fue dada de alta a su domicilio con tratamiento con haloperidol y con cita en consultas externas de Neurología. La paciente acude de nuevo a urgencias 5 días después por empeoramiento del cuadro consistente en bradipsiquia, mayor grado de desorientación, confusión, somnolencia y pérdida de control de esfínteres. Es admitida en observación de Urgencias. Durante su estancia presenta fluctuaciones y empeoramiento progresivo. La paciente es valorada por nosotros.
+
+Examen físico
+Afebril, tensión arterial 180/76 mmHg. Consciente, somnolienta, bradipsíquica, bradilalia, desorientada. No obedece órdenes salvo alguna sencilla. Pupilas isocóricas normorreactivas. No alteración campimétrica por amenaza. Músculos oculomotores sin alteraciones. Facies simétrica. Movimientos en los miembros superiores presentes y simétricos, en los miembros inferiores, el derecho con menos movilidad que el izquierdo por artropatía crónica. Los reflejos de estiramiento muscular son vivos y simétricos, no Babinski. Existe rigidez en las extremidades. No signos meníngeos, excepto leve rigidez nucal que impresiona de artrósica. Auscultación cardiaca con tonos arrítmicos y soplo aórtico. Resto de la exploración física sin hallazgos significativos.
+
+Pruebas complementarias
+A continuación se exponen las pruebas complementarias realizadas en las cuales no se encontraron hallazgos significativos: hemograma, coagulación, bioquímica, sedimento orina, radiografía de tórax, marcadores tumorales, anticuerpos onconeuronales, autoinmunidad (ANA, ANCA), LCR (bioquímica, celularidad, PCR, Gram), DaTSCAN, ecocardiograma, hormonas T3 y T4.
+
+Pruebas complementarias con hallazgos significativos:
+• Electrocardiograma: bloqueo AV tipo Mobitz II.
+• Tomografía computarizada (TC) y resonancia magnética (RM) cerebral: atrofia córtico subcortical con dilatación del sistema ventricular secundaria a la atrofia.
+• Electroencefalograma: afectación cerebral difusa de grado moderado.
+• TSH < 0,005.
+• Ecografía y gammagrafía tiroideas compatible con bocio multinodular tóxico.
+• Anticuerpos anti-tiroperoxidasa (anti-TPO): 1.300 (N < 40).
+
+Diagnóstico
+La paciente presenta un cuadro de alteración del estado mental, tanto del contenido como del nivel de consciencia, de curso subagudo. La paciente no padecía deterioro cognitivo previo, no presentaba signos de infección y no había introducción reciente de nuevos fármacos. Mediante una adecuada anamnesis, exploración y pruebas complementarias descartamos las siguientes causas de encefalopatía subaguda:
+• Encefalopatía tóxico metabólica (fármacos, electrolitos, endocrino, hepática, vitaminas, etc.).
+• Meningoencefalitis infecciosa.
+• Encefalitis paraneoplásica.
+• Tumor cerebral.
+• Meningitis carcinomatosa.
+• Hidrocefalia crónica del adulto.
+• Encefalopatía posterior reversible.
+• Demencia por cuerpos de Lewy.
+• Enfermedad de Creutzfeldt-Jakob.
+• Estatus epiléptico no convulsivo.
+• Autoinmune (vasculitis, lupus, Behçet, ADEM).
+• Hematoma subdural/hemorragia intracerebral.
+• Enfermedad psiquiátrica. Ante un cuadro clínico compatible, el haber descartado otras causas de alteración del estado mental/encefalopatía y la existencia de anti-TPO elevados podemos realizar el diagnóstico de encefalopatía de Hashimoto (EH). También es diagnosticada de tiroiditis de Hashimoto (TH).
+
+Tratamiento y evolución
+Se inicia tratamiento con pulsos de 1 g/24 h de metilprednisolona durante 3 días seguidos de terapia con prednisona oral. La paciente presentó una importante mejoría de su situación neurológica durante el ingreso. Se encontraba a las pocas horas-días del inicio del tratamiento esteroideo consciente, menos desorientada, capaz de mantener una conversación coherente, reconocer familiares y entorno, así como capaz de deambular. La paciente fue citada a los 2 meses en revisión ambulatoria donde se encontraba asintomática. La excelente respuesta al tratamiento esteroideo nos reafirma el diagnóstico de EH. Recibe terapia de 10 mg/24 h de prednisona oral como mantenimiento. También recibió terapia con radioyodo para tratar la TH.

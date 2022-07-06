@@ -1,0 +1,23 @@
+Anamnèse
+Patient de 71 ans, sans allergies médicamenteuses, antécédents personnels de bronchopneumopathie chronique obstructive de type emphysémateux, pneumothorax gauche en 1994 secondaire à une rupture de bulle ayant nécessité une pleurodèse, adénome de la prostate et hypertension artérielle sous traitement par bêta-bloquants. L'apparition des symptômes a commencé en mai 2009 lorsqu'il a développé une dyspnée à l'effort modéré pendant 48 heures et des crachats hémoptotiques.
+
+Examen physique
+Il y avait une diminution du murmure vésiculaire dans le lobe supérieur droit, avec des rhonchi isolés associés ; pas de lymphadénopathie palpable ni de mégalithes. Le reste de l'examen était normal.
+
+Tests complémentaires
+"Une radiographie pulmonaire initiale a été demandée, montrant une masse paratrachéale droite.
+" La tomodensitométrie (TDM) de mai 2009 a montré une tumeur pulmonaire du lobe supérieur droit (LSD) mesurant 88 mm avec infiltration médiastinale de l'artère pulmonaire du lobe supérieur et adénopathie médiastinale antérieure à la bronche principale droite mesurant 20 mm, confirmée par la tomographie par émission de positons (TEP).
+"L'étude a été complétée par une biopsie à l'aiguille fine, avec un résultat anatomopathologique d'adénocarcinome pulmonaire, EGFR non muté.
+
+Diagnostic
+Le cas a été discuté dans un comité multidisciplinaire de pathologie pulmonaire, et avec le jugement clinique d'un adénocarcinome pulmonaire cT4 N2 M0, stade IIIB, une radiothérapie (RT) a été décidée concomitamment à une chimiothérapie à visée néoadjuvante, afin d'évaluer ultérieurement la possibilité d'une chirurgie.
+
+Traitement
+Une préplanification a été effectuée mais le volume 20 de 43%, le schéma d'emphysème centrolobulillaire bilatéral, ainsi que la perte de volume dans l'hémithorax gauche avec rétraction médiastinale ont rendu déconseillé le début de la RT. Le patient a commencé une chimiothérapie d'induction avec carboplatine-gemcitabine et a été évalué après trois cycles en juillet 2009 pour une réponse radiologique partielle dans le poumon et les ganglions lymphatiques. La lésion du lobe supérieur droit a diminué de 88 à 47 mm et l'adénopathie médiastinale droite a diminué de 20 à 14 mm.
+
+Le cas a été examiné par le comité des tumeurs et le traitement chirurgical a été rejeté car la scintigraphie de diffusion pulmonaire a montré une distribution hétérogène avec une fonction pulmonaire droite de 41% et une fonction pulmonaire gauche de 59%. La planification préalable a été répétée, avec un V20 de 28%, et une chimiothérapie hebdomadaire a été décidée avec carboplatine-paclitaxel concomitante avec une radiothérapie utilisant cinq champs de photons de 6 Mev formés avec un collimateur à un taux de 2 Gy/jour, 5 jours par semaine jusqu'à 60 Gy sur la lésion pulmonaire et médiastinale. La tolérance était bonne, avec une œsophagite de grade 2 et une dermite de grade 1. A la fin du traitement en octobre 2009, il présentait une réponse radiologique partielle, avec une diminution de 47 à 35 mm de la lésion du lobe pulmonaire droit et de 14 à 9 mm de l'adénopathie médiastinale droite.
+
+Evolution
+Après un intervalle sans progression de 30 mois, un nodule pulmonaire de 11 mm dans le LSD a été observé dans le scanner de contrôle d'avril 2012. Le cas a été rediscuté au sein du comité multidisciplinaire, et il a été considéré qu'il pouvait être traité par thermoablation par radiofréquence pulmonaire avec une électrode de Le Veen ayant une ouverture maximale de 25 mm, et une rémission a été observée après la procédure.
+
+Après un deuxième intervalle sans progression de 8 mois, en décembre 2012, il y avait des preuves de progression dans la paroi antérieure du nodule précédemment traité par radiofréquence, qui avait un diamètre maximal de 16 mm. Le cas a été présenté au comité des tumeurs et une seconde thermoablation du nodule a été proposée dans le LSD sur la zone de cavitation avec une électrode Le Veen d'ouverture maximale de 30 mm de diamètre en deux séances par retrait progressif de l'électrode, produisant un pneumothorax qui a été drainé. En mars 2014, un an et trois mois après l'intervention, un contrôle radiologique a été effectué par scanner thoracique avec prise de contraste, qui n'a montré aucun signe de progression. Le patient a été diagnostiqué comme souffrant d'une leucémie aiguë myéloblastique associée à une pneumonie bilatérale à Candida krusei et à une insuffisance respiratoire globale, et est sorti de l'hôpital le 2/4/2015.

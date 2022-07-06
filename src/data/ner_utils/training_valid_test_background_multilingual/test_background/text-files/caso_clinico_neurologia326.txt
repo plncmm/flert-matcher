@@ -1,0 +1,23 @@
+Anamnesis
+Paciente de 44 años que consulta al Servicio de Urgencias por debilidad de las extremidades izquierdas de unas dos semanas de evolución. Es semiindependiente para las actividades de la vida diaria. Entre sus antecedentes destaca que fue consumidor de drogas por vía parenteral hasta los 30 años y fumador hasta hace escasamente uno. Presenta hepatopatía crónica por virus de la hepatitis C con datos de hipertensión portal. En 2011 se le practicó una traqueostomía de urgencia y una posterior laringuectomía total por carcinoma epidermoide de laringe moderadamente diferenciado, acompañado de vaciamiento ganglionar cervical y radioterapia, finalizada hace un mes aproximadamente. Se complicó con un absceso cervical izquierdo y herpes zóster craneal. Es portador de una sonda nasogástrica desde entonces. En el último estudio de tomografía computarizada (TC) tóraco-abdominal se observó un nódulo pulmonar izquierdo y adenopatías mediastínicas, y un nódulo hepático sugestivo de hepatocarcinoma. Recibe tratamiento con espironolactona y fentanilo en parches.
+
+Exploración física
+Tensión arterial 126/78 mmHg y temperatura 37,2 oC. Presenta un evidente deterioro del estado general y signos cutáneos de radiación en la zona cervical. El lenguaje no es valorable por laringuectomía, comprende órdenes complejas. Presenta borramiento del surco nasogeniano izquierdo, una preferencia oculocefálica hacia la derecha y hemianopsia izquierda en la exploración del campo visual por confrontación. Hemiparesia izquierda de predominio braquial y distal. Hemihipoestesia izquierda. Respuesta plantar flexora bilateral. El resto de la exploración neurológica es normal.
+
+Pruebas complementarias
+• Hemograma y estudio básico de coagulación: normal.
+• Electrocardiograma: ritmo sinusal a 80 lpm.
+• Radiografía de tórax: enfermedad difusa de aspecto reticular bilateral.
+• TC cerebral: hipodensidades en la sustancia blanca subcortical en las regiones parietales bilaterales y occipital izquierda, sin que se observen realces patológicos en el estudio poscontraste. Tomografía computarizada: hipodensidades bilaterales en la sustancia blanca parietooccipital.
+• Resonancia magnética (RM) encefálica: lesión hiperintensa en secuencias T2 y FLAIR sin efecto masa que afecta a la sustancia blanca subcortical parietooccipital bilateral, de predominio derecho, e hipointensa en secuencia T1 con mínimo realce tras la administración de contraste intravenoso. Resonancia magnética cerebral. Hiperseñal en secuencia FLAIR. Mínimo realce tras la administración de contraste en secuencia T1.
+• Estudio de dúplex de troncos supraaórticos: sin evidencia de estenosis hemodinámicamente significativas. Oftálmicas ortodrómicas.
+• Estudio de subpoblaciones linfocitarias: linfoctitos totales 500 céls./uL; CD 4 4 céls./uL (500-2.500); cociente CD 4/CD 8 0,01 (0,85-3,5).
+• Carga viral-VIH: 123.705 cp/ml.
+• Estudio de líquido cefalorraquídeo (LCR): 1 célula/uL; 45 mg/dl glucosa; 0,3 g/dl proteínas totales. 
+• Reacción en cadena de la polimerasa (PCR) para virus JC en LCR: negativo.
+
+Diagnóstico
+Leucoencefalopatía multifocal progresiva (LMP) en paciente VIH positivo.
+
+Evolución
+Tras el inicio de triple terapia antirretroviral el paciente presenta mejoría de su estado general, persistiendo en el momento del alta la clínica neurológica. Es revisado un mes después por la Unidad de Enfermedades Infecciosas, con mejoría de los niveles de CD 4 y carga viral.

@@ -1,0 +1,26 @@
+Anamnese
+Mulher não fumadora de 48 anos, asmática e hipertensa, consultada para dores na região lombar irradiando para a anca direita de 6 meses de evolução, com má resposta ao tratamento analgésico e síndrome geral de 2 meses de evolução. Foram realizados estudos apropriados e foi feito um diagnóstico de adenocarcinoma do pulmão com atelectasia obstrutiva secundária do lobo superior direito e estádio IV devido ao envolvimento do pulmão, osso e cérebro. A fenotipagem molecular detectou a mutação do gene EGFR no exon 21 (tipo L858R). Após a administração de radioterapia holocraniana (10 fr, 300 cGy/fr), o gefitinib 250 mg diários foi iniciado em Julho de 2014.
+
+Seis semanas mais tarde, assistiu ao departamento de emergência com aumento de dispneia, tosse e escassa expectoração esbranquiçada. Não foi notificada febre.
+
+Exame físico
+O paciente tinha uma ECOG-PS de 1. auscultação pulmonar revelou crepitações tele-inspiratórias na base direita com diminuição do sopro vesicular no hemitórax esquerdo.
+
+Testes complementares
+"Os testes laboratoriais incluem insuficiência respiratória não-hipercápnica e leucocitose ligeira (12.800 leucócitos/μL) com neutrofilia.
+"O raio-X do tórax mostrou a resolução da atelectasia obstrutiva do LSD com o aparecimento de um padrão intersticial no resto do hemitórax direito.
+"O estudo foi completado com um TAC ao tórax, confirmando a resolução das atelectasias obstrutivas e uma diminuição generalizada do envolvimento bilateral das metastáticas pulmonares multinodulares com a remodelação esclerótica dos ossos de lesões líticas múltiplas. No entanto, apesar da melhoria radiológica do tumor, observou-se o desenvolvimento de doença pulmonar difusa (especialmente basal direita), caracterizada por um aumento difuso da radiodensidade pulmonar no vidro moído, com espessamento do interstício septal, sugestivo de doença intersticial difusa de provável origem tóxica.
+"Estudos microbiológicos: culturas de expectoração, culturas de sangue e serologia para Legionella pneumophila e Streptococcus pneumoniae foram negativos.
+
+Diagnóstico
+Doença pulmonar intersticial secundária ao gefitinibe.
+
+Tratamento
+Dada a suspeita clínica de pneumonite tóxica devido ao gefitinibe, a administração do medicamento foi suspensa e iniciou-se a corticoterapia com metilprednisolona 60 mg/dia e o tratamento antibiótico empírico com levofloxacina.
+
+Evolução
+Durante esta admissão, a avaliação da resposta foi completada com uma tomografia ao cérebro, com resposta radiológica completa. O paciente mostrou uma melhoria clínica e após a alta foi solicitado um novo TAC torácico 2 semanas após o anterior. Este TAC mostrou uma diminuição das lesões associadas à toxicidade das drogas (radiodensidade que persiste no vidro moído) e um crescimento praticamente generalizado dos nódulos pulmonares e efusão pleural. Nesta altura, foi decidido iniciar o tratamento com cisplatina e permetrex a uma dose de 75%. Como toxicidade, apresentou uma emese de grau 1 atrasada.
+
+O TAC após o terceiro ciclo mostrou progresso, pelo que foi decidido iniciar o tratamento da terceira linha com carboplatina, paclitaxel e bevacizumab. Após o início do tratamento, manteve o ECOG-PS 2, com melhoria sintomática da dispneia. As toxidades incluíam astenia, neutropenia afebril de grau III, alopecia e neuropatia periférica, o que levou a uma redução de dose de 30%.
+
+Após o sexto ciclo, um TAC mostrou uma resposta parcial com resolução da pneumonite, e o paciente foi mudado para bevacizumab de manutenção, o que foi bem tolerado.

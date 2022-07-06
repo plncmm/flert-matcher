@@ -1,0 +1,74 @@
+A 67-year-old woman presented to the emergency department with fever and▁malaise.
+His relevant personal history included hypertension with hypertensive heart disease, dyslipidemia, type 2 diabetes mellitus for 20 years with nephropathy and right renal artery disease in ambulatory hemodialysis (HD) using a tunnelled right catheter (juncture 2012).
+Atrioventricular block was performed in July 2012.
+Bronchial hyperreactivity with multiple admissions for exacerbation.
+Obstructive sleep apnea syndrome without treatment since 2005.
+Non alcoholic steatohepatitis, gallstones.
+The patient came for the first time in July 2012 for presenting high fever along with chills, without apparent focus.
+Physical examination revealed Ta 38oC, TA 130/90 mmHg, HR 102 beats/minute, RR 20 breaths/minute, with ambient air at 97%.
+There was no neurological involvement and cardiorespiratory auscultation showed rhythmic tone without murmurs and normal pulmonary noise.
+The abdomen was unremarkable.
+The limbs were free of edema, with symmetrical and preserved distal pulses.
+Location of insertion of the right jugular catheter and generator pocket without inflammatory signs.
+In the differential hemocultives, Staphylococcus aureus resistant to MRSA was isolated without growth in favor of the catheter, but the same microorganism was isolated in the culture of the insertion point, so it was decided to admit the catheter h.
+The semi-quantitative count using the Maki technique was negative.
+Vancomycin treatment was administered by a new transient right femoral catheter for 4 weeks, with doses adjusted according to plasma drug levels.
+The patient was afflicted 24 hours after the antibiotic was started and secondary complications were ruled out after negative hemocultive at 72h and transthoracic echocardiography (TTE) with no data of endocarditis.
+At discharge, a new tunnelled catheter was catheterized in the right jugular vein to continue outpatient HD.
+Seven months later, in February 2013, the patient developed a new high fever of 38oC accompanied by tiritone during a HD session.
+Staphylococcus aureus (3 out of 4) was isolated in the blood culture with the same antibiogram as in the previous episode (MIC to vancomycin = 1 mcg/ml).
+On this occasion, the growth of the differential hemocultives was in favor of the catheter, with more than 24 h of difference.
+The catheter was removed after 96 h, again with semi-quantitative negative tip culture.
+The patient was afflicted with vancomycin 24h after starting treatment, which lasted 4 weeks, as in the previous episode.
+The control blood culture at 72h was negative and both TTE and transesophageal echocardiography (TEE) showed no endocarditis or valvular heart disease.
+It was thought that the recurrence of catheter bacteremia could be due to a state of nasal MRSA carrier, in which case a reinfection of the new catheter could have occurred.
+Nasal swabs were positive and decolonized with nasal mupirocin and chlorhexidine baths for 5 days.
+However, in the following 6 months the patient had up to three more bacteremias with the same isolation (MRSA).
+Blood cultures from peripheral blood and those obtained through HD catheter showed no differential growth in favor of catheter, reason why catheter was preserved and sealed up to two times.
+As in other episodes, apyrexia was diagnosed early and the hemocultive control was negative for 7 hours.
+Decolonization was also confirmed by negative nasal smear (personal and family nucleus) as well as absence of vegetations in TTE, treated 4 weeks each event.
+In these bacteremias, the MIC of vancomycin was 1.5 mcg/ml, so the last two were treated with daptomycin.
+In the fifth bacteraemia, a TEE, an abdominal ultrasound check-up, a CT-abdominal, and a scintigraphy with marked leukocytes were performed without observing any pathological findings.
+a Differential diagnosis of recurrent bacteremia due to S. aureus can also lead to the following causes: • Persistent foci • Endovascular infection due to vancomycin, a recurrent infection in patients with MRSA, etc.
+): 1.1.
+Catheter-related▁bloodstream infection should be ruled out in any patient with a fever-related central venous catheter.
+The absence of symptoms or local inflammatory signs (tunneitis or infection of the insertion point), and even a semiquantitative culture causing persistence of biofilm negative catheter tip cases do not rule out catheter-insertion bacteremia, since most catheter connections are
+Thus, both the negative culture of the catheter tip removed and the absence of local clinical signs do not rule out catheter-related bacteremia.
+1.2.
+Differential hemocultives obtained simultaneously through peripheral blood and another obtained through the catheter with calculation of the difference in growth time) have been a widely used strategy in the diagnosis of catheter-related bacteremia when compared to other techniques.
+However, recently its values have been revised as a diagnostic test, with low specificity and positive predictive value, which compromises its usefulness and reflects the need for clinical contextualization, as well as the use of other intravascular tests in patients with bacteraemia.
+We should remember that this technique was ideally designed for deeply immunosuppressed patients3.
+Despite this, in clinical practice it is a widely used tool, and for the case studied, it was still thought that the catheter was always the focus of bacteremia despite the fact that the differential hemocultive value does not account for its determinant.
+1.3.
+Several tests were performed (abdominal ultrasound, thoracic-abdominal CT, leukocyte-labeled scintigraphy Tc99 and multiple echocardiography TT and TE) always without findings, so the diagnosis of end-arterial infection was ruled out in principle.
+1.4.
+In S. aureus (and other aggressive germs) bacteremia, devices potentially responsible for the infection should always be removed.
+In this case, it was delayed (sometimes avoided) the removal of the tunnelled HD catheter, as well as the most frequent causes of infection, because in two episodes there were hemocultives with dialysis catheter counts
+Besides, there were no local symptoms at the generator level or vegetations in the cables.
+On the other hand, withdrawal of medication in this patient was life-threatening due to its significant comorbidity and dependence.
+However, up to 15-9.20% of cases with systemic infections caused by sepsis lack local inflammatory signs due to secondary seeding on cables from a distant focus or primary progression from the generator, but with few cables.
+The presence of vegetations on the cable (or even on the tricuspid valve) supports this diagnosis, but the profitability of TEE in these cases does not exceed 60% on which nuclear medicine has been proposed for expert hands9
+In 2013, there was a lack of studies that clearly demonstrated the superiority of PET-CT over scintigraphy, so for reasons of cost-effectiveness, the latter was chosen in this case.
+Recently, reports have been published describing the use of PET-CT or SPECT-CT6,10.
+The fact that scintigraphy had a negative result could be justified by the low inflammatory reaction that some patients show (elderly, immunocompromised, nephropathy, etc.
+), and the antibiotic therapy received for weeks before the test.
+2.- Infection to unknown etiology: spondylodylodiscitis, other osteoarticular infections, and splenic infarcts were ruled out by the various tests performed, as mentioned above.
+3.- Recurrent reinfections in patients with MRSA, either due to reinfections with their own reservoir or in another member of their environment.
+Nasal swabs were taken from the patient, who was positive for MRSA with the same antibiogram as in the blood culture.
+Personal and family decolonization was performed in the third and fourth bacteremias, respectively, but the patient continued with the episodes.
+4.- Therapeutic failure of vancomycin, either due to insufficient treatment or due to a "creeping" phenomenon (progressive rise in MIC during prolonged periods of exposure to the drug by increasing thickness of the bacteria wall).
+The first possibility seems unlikely because it was duly completed four weeks, when it was considered as bacteremia complicated by S. aureus in a patient with risk factors (carriers of infections).
+The second option also seems unlikely because: 4.1.
+In all episodes the patient became afflicted in the first 24 hours, and the hemocultives quickly became negative, which guarantees the effectiveness of the drug.
+The problem was raised by the frequent relapses after drug discontinuation, which is the clinical evolution typical of infections with a persistent focus unradiced.
+4.2.
+Additionally, all MICs were tested by manual method (E-test), and vancomycin levels were closely monitored to ensure therapeutic range.
+4.3.
+In this case, therefore, the increase in MIC could be explained by the fact that the foreign body responsible for the infection was retained, which could be caused by the sub-drug biofilm production, which avoided the cure of the infection,pé and in
+Nevertheless, the high inter-item variability of the E-test method, which could have determined different MICs in the different consecutive determinations, should not be forgotten.
+a Persistent residual disease due to persistent bacteremia due to daptomycin, not always in favor of the central catheter, but other apparent focality, prolonged treatment with daptomycin, multiple catheter changes
+Surprisingly, during surgery, abundant purulent chocolatey material was observed in the generator bag.
+The generator was then removed and the cables were removed by percutaneous traction, with no incidents, placing another definitive femoral access to release the superior vascular accesses.
+Cultures of the granulomatous sac and cables were positive for MRSA.
+After five years of follow-up the patient has not presented new bacteremia.
+Final diagnosis Recurrent bacterial infection due to complicated MRSA secondary to infection in hemodialysis patient with delayed extraction.

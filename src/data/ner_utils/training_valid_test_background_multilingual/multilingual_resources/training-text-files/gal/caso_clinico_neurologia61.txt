@@ -1,0 +1,29 @@
+Anamnesis
+Varón de 38 anos, natural de Perú, sen alergias medicamentosas coñecidas, hábitos tóxicos, nin factores de risco vascular, que acode ao Servizo de Urxencias por cefalea frontotemporal dereita, de carácter pulsátil e estrictamente unilateral, que empeoraba cos movementos cefálicos e que asociaba fotofobia. Negaba alteracións cognitivas, visuales ou sensitivas previas ao episodio. A cefalea era de intensidade moderada-grave e iniciouse de forma brusca a tarde do día previo a consultar en Urxencias mentres se atopaba en repouso. Na anamnesis dirixida negou antecedentes de cefalea previa, sensación distérmica ou febre. Tampouco refería antecedentes familiares de cefalea ou outras enfermidades de interese. No momento de consultar atopábase en paro (traballara como camareiro) e vivía en España coa súa parella desde facía máis de 10 anos. Aínda que o paciente non estaba en tratamento con ningún fármaco, tomara un único comprimido de paracetamol 1 g por vía oral como tratamento sintomático, con leve mejoría. Durante a súa estancia en Urxencias, a dor mellorou levemente trala administración de 25 mg de dexketoprofeno por vía intravenosa.
+
+Exame físico
+Xeneral: tensión arterial 125/80 mmHg, frecuencia cardiaca 70 lpm, saturación de osíxeno 99%. Afebril. Bo aspecto xeral, ben hidratado, nutrido e perfundido. Non se objetivaron exantemas cutáneos. Carótidas rítmicas sen soplos audibles. Auscultación cardiaca e respiratoria sen alteracións. Abdomen brando e depresible, sen masas nin organomegalias. Extremidades inferiores sen edemas nin signos de trombosis venosa profunda. Exploración neurológica: paciente alerta. Orientado en persoa, tempo e espazo. Non afasia. Non apraxias. Fala fluente non disártrica. Campimetría por confrontación ocular sen alteracións. Exploración oftalmológica en Urxencias con fondo de ollo normal, papila de bordos nítidos e cor normal. Pupilas isocóricas e normorreactivas á luz e á acomodación. Movementos oculares de seguimiento sen restricciones nin outras alteracións (non se evocan nistagmos). Movementos sacádicos oculares conservados. Nervios craneales V, VIII, IX, X, XI e XII sen alteracións. Balance muscular 5/5 nas catro extremidades. Ton e trofismo muscular normais. Non alteracións da coordinación en manobras dedo-nariz e talónrodilla. Non disdiadococinesia. Reflexos osteotendinosos ++/++ de forma xeneralizada. Sensibilidade táctil, algésica, vibratoria e propioceptiva sen alteracións. Marcha en tándem sen alteracións. Romberg negativo. Non signos meníngeos.
+
+Probas complementarias
+• Datos de laboratorio urxente: hemograma, coagulación e bioquímica sen alteracións. Ouriña: sen alteracións.
+• Datos de laboratorio diferidos: hemoglobina 16,3 g/dl, VCM 94,8 fl, HCM 30, 6 pg, leucocitos 6,48 x 103/microl, plaquetas 380 x 103/microl, PCR 1,4 mg/dl, LDH 148 UI/l (< 247), FA 148 UI/l (30-120), colesterol total 182 mg/dl. Coagulación en rangos de normalidad. Metabolismo do ferro sen alteracións. Inmunología: ANA, ANCA, anticorpos anti-Ro e anti-A negativos. C3 e C4 en rangos de normalidad. Factor reumatoide e anticorpos anti-péptidos citrulinados negativo. Proteinograma e inmunoglobulinas en soro sen alteracións. Enzima convertidora de angiotensina 39,4 UI (20-60).
+• Marcadores tumorales (Ca 15.3, Ca 19.9, AFP, PSA) en rangos de normalidad.
+• Radiografía de tórax: índice cardiotorácico normal. Seos costofrénicos libres. Non se obxectiva engrosamiento mediastínico nin infiltrados parenquimatosos.
+• Tomografía computarizada (TC) cerebral con e sen contraste: hipodensidad temporal dereita sen efecto de masa que respecta a cortiza cerebral e que non capta contraste.
+• Resonancia magnética (RM) cerebral con e sen contraste: realce paquimeníngeo hemisférico dereito, con zonas de engrosamiento pseudonodular focal asociadas de localización temporal. Alteración do sinal córtico-subcortical temporal dereita subyacente, suxestivo de edema reactivo.
+• Angio-RM: hipoplasia do seo transverso esquerdo sen evidencia de trombosis venosa cerebral.
+• Punción lumbar: presión de apertura 12 mm H2Ou. 20 células (100% linfocitos). Proteínas 387 mg/dl, glucosa 50 mg/dl (soro 70 mg/dl), ADA 3,3 (0,5-3), índice de Tibbling 0,62 (0,3-0,7). Non se observaron células tumorales.
+• PCR para tuberculosis (TBC) negativa. Os cultivos foron negativos para bacterias e hongos habituais. Antígenos de hongos (criptococo, Blastomices, Coccidioides imitis, Histoplasma capsulatum, Paracoccidioides brasilensis) negativos.
+• Cultivos de TBC en sangue e ouriña negativos.
+• Serologías en soro e líquido cefalorraquídeo negativas para, sífilis, Brucella, Rickettsia conorii, Borrelia burgdorferi, VIH, VHB, VHC, toxoplasmosis, rubeola, CMV. PCR para virus VHS 1, VHS 2, Epstein-Barr e citoemgalovirus.
+• TC tóraco-abdominal: non se objetivan adenopatías mediastínicas, derrame pleural ou infiltrados no parénquima pulmonar.
+Tomografía computarizada cerebral con contraste na que se obxectiva hipodensidad temporal dereita sen captación de contraste. Resonancia magnética cerebral en secuencia T1 con gadolinio na que se obxectiva engrosamiento meníngeo con edema circundante.
+
+Diagnóstico
+Cefalea secundaria a paquimeningitis hipertrófica idiopática.
+
+Tratamento
+O paciente permaneceu ingresado con bo control da cefalea con ibuprofeno 600 mg por vía oral cada 8 horas.
+
+Evolución
+Logo de completar o estudo e ante a mejoría da cefalea solicitouse unha RM de control, na que se objetivó mejoría das lesións.

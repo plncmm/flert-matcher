@@ -1,0 +1,16 @@
+Anamnesis
+Mujer de 20 años sin alergias ni hábitos tóxicos. Hipotiroidismo autoinmune en tratamiento con 125 mcg/24h de levotiroxina. Consulta a su médico de familia tras detectar adenopatías cervicales hace tres semanas, precedido de un cuadro catarral con odinofagia en resolución. Niega episodios febriles. No ha realizado viajes al extranjero ni presenta picaduras de insecto. Convive con un perro.
+
+Exploración
+Presenta buen estado general. Eupneica en reposo. La auscultación cardíaca es rítmica y sin soplos. La auscultación pulmonar presenta un murmullo vesicular conservado sin ruidos sobreañadidos. Abdomen no doloroso sin megalias. En el cuello: no presenta bocio y se palpan dos adenopatías en región cervical derecha (una retromandibular de 2 cm y otra en cadena inferior del istmo de características inflamatorias), dolorosas y móviles a la palpación. TA:107/69mmHg; FC:70lpm; Ta36oC y SatO2 100%.
+
+Evolución
+Su médico preescribe tratamiento antibiótico con amoxicilina clavulánico 875mg/8h durante 7 días, solicita analítica y deriva al hospital de día de referencia. El hemograma y la coagulación fueron normales. En la bioquímica: GOT/GPT 73/141 U/L, resto normal. Serología negativa para: VIH, VEB, Bartonella, Toxoplasma y Treponema. Se realiza radiografía de tórax sin hallazgos de interés. Se solicita TAC de cuello y se realiza biopsia de ganglio. En el TAC se aprecian adenopatías bilaterales, la mayor en la cadena IIA derecha, parcialmente necrosada.
+
+Diagnóstico Diferencial
+En el caso de adenopatías laterocervicales aisladas en un paciente joven hay que plantear el diagnóstico diferencial fundamentalmente entre procesos infecciosos (bien locales como causa de adenopatías reactivas o sistémicos) en función de la edad, situación sociofamiliar, antecedentes y ambiente epidemiológico del paciente, y procesos neoplásicos (linfomas o metástasis de tumores sólidos).
+
+Evolución
+El resultado de la anatomía patológica informa de linfadenitis granulomatosa necrotizante por mycobacterium no tuberculosis complex.
+En casos de linfadenitis cervical aislada sin afectación pulmonar ni sistémica se recomienda la resección quirúrgica de las adenopatías. En caso de contraindicación por riesgo de daño local, el tratamiento antibiótico sería claritromicina + rifampicina. En nuestro caso comenzamos tratamiento antibiótico dirigido, pendiente de la evolución para valorar la cirugía excisional.
+El término Mycobacterium no tuberculosis complex hace referencia a más de 130 especias de mycobacterias ubicuas en el medio ambiente. Es una enfermedad típica de la infancia (1-5 años) que cursa como linfadenitis cervical unilateral, produciendo en raras ocasiones síntomas sistémicos o fistulización. Es una causa poco frecuente de linfadenitis cervical aislada.

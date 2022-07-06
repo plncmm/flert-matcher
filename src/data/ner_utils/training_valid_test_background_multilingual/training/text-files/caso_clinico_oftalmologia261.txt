@@ -1,0 +1,16 @@
+Hombre de 54 años, que es derivado a la Unidad de Oncología del Hospital Virgen Macarena con el diagnóstico principal de uveítis posterior. Se descarta la etiología infecciosa por los datos de laboratorio negativos y por no existir datos sugestivos de enfermedad sistémica. Se observa una lesión en el polo posterior del ojo derecho.
+El paciente fue tratado en cuatro ocasiones con antiangiogénicos (anti-VEGF; bevacizumab) antes de derivarlo a nuestro centro.
+Como antecedentes familiares, refiere a su madre con cáncer de lengua y a su padre con cáncer de estómago y, en cuanto a antecedentes personales, únicamente dislipemia.
+Como pruebas complementarias de interés, tenemos un hemograma y una bioquímica normal (NL), salvo la dislipemia referida, volumen de sedimentación globular 9, serología para el virus de la inmunodeficiencia humana negativa (-), Toxocara cani (-), Borrelia (-), sífilis: negativo, Mantoux (-). Radiografía: normal. Tomografía axial computarizada de cráneo/órbitas, con y sin contraste: normal. Marcadores tumorales (-), anticuerpo anticitoplasma de neutrófilos, anticuerpo antinucleares, antígeno leucocitario humano-B/enzima convertidora de la angiotensina: normales o negativos.
+
+Exploración oftalmológica:
+• Agudeza visual (AV): ojo derecho (OD): 0,05/ojo izquierdo: 0,9. Refiere disminución de la AV, pese a padecer una ambliopía del ojo derecho.
+• Biomicroscopía de polo anterior: polo anterior sin signos patológicos. Córnea y cristalino transparentes, Tyndall (-), motilidad ocular intrínseca y extrínseca normal.
+• Fondo de ojo: lesión algo sobreelevada en el polo posterior del OD con componente hemorrágico y vascular en su superficie.
+• Presión intraocular: 16/16 mmHg.
+• Tomografía de coherencia óptica (OCT): lesión retiniana de consistencia densa sin quistes ni presencia de líquido subretiniano compatible con hamartoma retiniano.
+• Angiografía de tomografía de coherencia óptica (OCT-A): lesión compatible con hemangioma capilar en arcada, que compromete el polo posterior. Se visualizan vaso aferente y eferente en las capas superficiales y presenta una sombra compatible con artefacto en las capas avasculares2. Realizamos OCT-A mediante OCT Triton, swept source OCT-A3.
+
+Diagnóstico: hemangioma capilar retiniano solitario en arcada temporal inferior sin enfermedad sistémica asociada.
+
+Tratamiento: la lesión fue tratada con terapia fotodinámica (TFD) en cuatro ocasiones más A-VEGF (aflibercept) postratamiento a la semana de cada sesión, con intervalos de dos meses entre los tratamientos, con mejoría de la AV (enero, marzo, mayo, julio). Su actividad se redujo y, como consecuencia, la exudación. La visión mejora de 0,05 a 0,2, lo que, dada la ambliopía previa del paciente, es una mejoría significativa. Actualmente permanece en observación.

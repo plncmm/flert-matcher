@@ -1,0 +1,30 @@
+ANTECEDENTES, ENFERMEDAD ACTUAL Y EXPLORACIÓN FÍSICA
+Paciente, varón de 25 años, que consulta el 22/05/18 en UMED por episodio de disnea súbita acompañada de opresión torácica no irradiada, de inicio en reposo.
+Como antecedentes destacar obesidad mórbida y seminoma testicular derecho con adenopatías retroperitoneales, tratado con orquiectomía inguinal derecha el 11/04/18 y tratamiento quimioterápico adyuvante. Refiere encamamiento prolongado en contexto de sesiones quimioterápicas.
+Constantes vitales en triaje. Tensión arterial (TA) 119/75 mmHg. Frecuencia cardiaca (FC) 99 lpm. Saturación de oxígeno (SatO2) (FiO2 21%) 93%.
+Exploración física: regular estado general. NC y NH. Disnea en reposo, taquipnea, con incremento de trabajo respiratorio. Auscultación cardiaca rítmica taquicárdica sin soplos. Auscultación pulmonar: murmullo vesicular conservado, sin ruidos sobreañadidos. Sin edemas de miembros inferiores (MMII).
+
+PRUEBAS COMPLEMENTARIAS
+ELECTROCARDIOGRAMA (ECG): taquicardia sinusal a 105 lpm, con eje frontal desviado a la derecha. Mala progresión de R en precordiales. SI TIII.
+RADIOGRAFÍA AP portátil: altamente penetrada. Silueta cardiomediastínica normal, sin consolidaciones ni derrame pleural.
+GASOMETRÍA ARTERIAL a su llegada (FiO2 21%): Ph 7.405, Po2 56.8, Pco2 42,3, HCO3 26,5, Lac 1,4 mmol/l. Resto normal.
+ANALÍTICA a su llegada: Cr 0,86 mg/dl. Na 142 mEq. K 4,1 mEq. Hb 15,2 g/dl. TnT us 73,3 pg/ml.
+Dímero D 2275 ng/ml.
+TAC vascular de arterias pulmonares: defecto de repleción en arteria pulmonar principal derecha con extensión a ramas lobares superior, media e inferior derechas. También se identifica defecto en ramas de arteria lobar superior izquierda. Dilatación del tronco pulmonar (29 mm).
+En conclusión. Test masivo bilateral. Signos de sobrecarga en cavidades derechas.
+ECOCARDIOGRAMA TRANSTORÁCICO inicial: dilatación de cavidades derechas, con aplanamiento del septo interventricular hacia VD. Signos de disfunción sistólica de VD (TAPSE 15 mm). Se evidencia señal de insuficiencia tricuspídea (IT) ligera-moderada que permite estimar presión arterial pulmonar sistólica (PAPs) de 40 mmHg. Vena cava inferior (VCI) dilatada con colapso inspiratorio < 50%). Fracción de eyección del ventrículo izquierdo (FEVI) conservada sin valvulopatías significativas.
+DOPPLER venoso de MMII: descarta trombosis venosa profunda (TVP).
+
+EVOLUCIÓN CLÍNICA
+Ante cuadro de disnea súbita en un paciente oncológico con intervención quirúrgica mayor reciente, encamamiento prolongado y elevación de dímero D, se solicitó angio-TAC pulmonar, que confirmó la presencia de tromboembolismo pulmonar (TEP) bilateral. Para completar el estudio se solicitó un ecocardiograma transtorácico que mostró un ventrículo derecho dilatado con signos de disfunción sistólica, permaneciendo el paciente normotenso aunque con necesidad de O2 suplementario con Vmask 24-28%. Se realizó también un Doppler venoso MMII que descartó TVP.
+En este momento estamos ante un cuadro de TEP de riesgo intermedio-alto (paciente normotenso, aunque con datos de dilatación y disfunción de VD y elevación de marcadores de daño miocárdico), con PESI de 85 puntos (correspondiente a mortalidad a los 30 días del 6,5%).
+El paciente es trasladado a la unidad coronaria, iniciándose tratameinto anticoagulante con heparina no fraccionada (HNF) dada la obesidad mórbida que presenta.
+A las pocas horas de su ingreso, bajo tratamiento con HNF, el paciente se encuentra hipotenso (TAM < 65 mmHg, TAs 90 mmHg), taquicárdico (FC 110 lpm). Se valora entonces la posibilidad de una fibrinolisis sistémica, conjuntamente con el servicio de oncología, que está contraindicada en contexto de paciente con intervención quirúrgica en los 30 días previos, proceso neoplásico activo y elevado riesgo de sangrado conocido inherente a los tumores germinales. En este momento se reevalúa el riesgo asociado (PESI 115, mortalidad a los 30 días del 10,4%).
+Es por ello que se comenta el caso con hemodinámica de guardia, que conjuntamente con la unidad coronaria, ante paciente con TEP de riesgo intermedio-alto, con mala evolución clínica y alto riesgo de sangrado, considera el tratamiento percutáneo como la primera opción terapéutica.
+Al presentar el paciente una masa retroperitoneal adyacente al músculo psoas derecho, a la altura del hilio renal derecho, en el espacio aorta-cava, englobando esta última, se decide acceso venoso yugular derecho.
+Tras acceso el venoso yugular derecho, se accede a la aurícula derecha mediante catéter Berman. Se cruza la válvula tricúspide a VD y posteriormente se accede a la arteria pulmonar derecha, donde se objetiva PAPs 45 mmHg y PAM 30 mmHg. Se realiza arteriografía que confirma la presencia de TEP que ocluye por completo la AP principal derecha. Se realiza fragmentación manual del trombo mediante catéter Pigtail 6F y, posteriormente tromboaspiración manual con catéter JR4 8F, consiguiente abundante material trombótico macroscópico. Posteriormente, se realiza una nueva angiografía (OAI) donde se objetiva mejoría respecto al control inicial, con PAPs medida de 20 mmHg.
+A las 48 horas del procedimiento, se realiza nueva ecocardiografía de control que muestra discreta mejoría en los diámetros de VD, que persisten, no obstante, aumentados (29 mm PX Eje largo), si bien es cierto que la función sistólica se encuentra conservada (TAPSE 21 mm), con menor ambombamiento del septo interventricular hacia cavidades izquierdas y con gradiente VD-AD 25 mmHg y VCI no dilatada con buen colapso inspiratorio. Clínicamente, el paciente ya se encuentra en la sala de hospitalización, sin necesidad de O2 suplementario y hemodinámicamente estable, a la espera de proseguir con el tratamiento quimioterápico.
+
+DIAGNÓSTICO
+TEP bilateral, inicialmente de riesgo intermedio-alto, con posterior progresión a TEP de alto riesgo.
+Seminoma testicular activo con masa retroperitoneal.

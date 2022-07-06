@@ -1,0 +1,29 @@
+Varón de 48 años de edad, con antecedente patológico personales de fiebre reumática en la edad pediátrica. No hábitos tóxicos ni alergias medicamentosas conocidas. Acudió al Servicio de Urgencias en dos ocasiones al referir desde hacía 3 semanas, astenia, anorexia y sensación febril no termometrada, orientándose en ambas ocasiones como una faringoamigdalitis. Acude nuevamente porque en las últimas 24 horas presentaba fiebre de 38 grados, petequias en piernas y pies, tos con expectoración hemoptoica, disnea de moderado esfuerzos y una lesión a nivel de dorso de la lengua. Se ingresó con el diagnosticó de sepsis de origen desconocido, iniciándose antibioticoterapia. Debido a la falta de mejoría del paciente y el desarrollo de inestabilidad hemodinámica se traslada a la Unidad de Cuidados Intensivos (UCI).
+En la exploración física presentaba como datos más significativos restos de sangre en paladar duro con una lesión ulcerativa en la base de lengua, y lesiones tipo púrpura palpable en miembros inferiores, que no desaparecían a la presión. El resto de la exploración fue anodina.
+
+PRUEBAS COMPLEMENTARIAS
+Entre las pruebas solicitadas destacaron:
+— Hemograma con anemia con una Hb de 7,9g/dL normocroma y normocítica, con resto series normales.
+— Bioquímica con función renal conservada con una CPK de 973 UI/L y una LDH de 583 UI/L.
+— PCR de 35,2mg/dL con procalcitonian de 0,7mg/mL.
+— Sedimento y orina elemental normales.
+— Hemocultivos y urocultivo negativos.
+— Autoinmunidad con ANA/ENAS y CCP negativos, con complemento normal.
+— Serologías VIH y VHC negativas, CMV y VEB con IgG positivoas. VHB vacunada.
+— Radiografía de tórax con infiltrado alveolar bilateral.
+— TC tórax: infiltrados algodonosos bilateral simétricos, compatible con una hemorragia pulmonar.
+— TC abdomino-pélvico: normal.
+
+DIAGNÓSTICO DIFERENCIAL
+El cuadro clínico respiratorio del paciente fue compatible con una hemorragia pulmonar difusa, siendo sus principales causas las vasculitis asociadas a ANCA; el síndrome Goodpasture, el síndrome antifosfolípido, la vasculitis crioglobulinémica y hemorragias asociadas a conectivopatias como el lupus eritematoso sistémico. La presencia de púpura palpable asociada sugería un cuadro de vasculitis
+
+PRUEBAS DIAGNÓSTICAS
+— ANCA positivos por IFI a título de 1/40 patrón citoplasmático con ELISA positivo con especificidad frente a proteinasa-3.
+— RM de senos paranasales: ligera desviación septal derecha, mucosa de los cornetes de grosor conservado, sinusitis maxilar bilateral con quiste de retención bilateral en el lado izquierdo.
+— Antifosfolípidos y crioglobulinas negativas.
+
+DIAGNÓSTICO FINAL
+— Hemorragia pulmonar grave asociada a vasculitis C-ANCA positiva con especificidad frente a proteinasa-3
+
+TRATAMIENTO Y EVOLCUIÓN
+Ingresó en la UCI con soporte ventilatorio. Se administraron 3 pulsos de 6-metilprednisolona 1gr/día durante 3 consecutivos y ciclofosfamida 500mg iv. La evolución fue desfavorable con hipotensión refractaria que requirió uso de fármacos vasoactivos. Durante su estancia se añadió una sobreinfección por Klebsiella pneumoniae sensible a meropenem y un neumotórax que necesitó de la colocación de tubo de tórax. Posteriormente fue mejorando progresivamente, permaneciendo un total de 45 días en UCIpaciente posteriormente con en buena progresión ventilatoria. Una vez trasladado a planta empeoró el cuadro de púrpura por loq ue se decidió añaadir rituxumab al tratamiento (dos dosis de 1gr separados por 15 días), presentando con la segunda infusión una reacción anafiláctica. Valorado por Alergología en inmunología se decide iniciar inmunoglobulinas i.v a dosis de 0.4gr/kg/5días cada mes y, una vez finalizados los 3 meses de inducción con ciclofosfamida quincenal, seguir con micofenolato de mofetilo junto a corticoides en dosis decrecientes.

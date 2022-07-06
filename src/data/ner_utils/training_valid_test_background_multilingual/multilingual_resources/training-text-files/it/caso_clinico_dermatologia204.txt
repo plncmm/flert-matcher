@@ -1,0 +1,19 @@
+Anamnesi
+Maschio, 42 anni, originario del Pakistan (vive in Spagna da 15 anni). Non ha riportato allergie a farmaci o abitudini tossiche. Tre mesi fa aveva subito una frattura orbitale destra con conseguente nevralgia del trigemino. Si è consultato per un'eruzione cutanea pruritica sul tronco e le estremità, febbre alta e malessere generale di 15 giorni di evoluzione. Il paziente ha negato di aver assunto droghe negli ultimi due mesi, di aver viaggiato all'estero o di aver avuto rapporti sessuali a rischio. Il resto dei conviventi del paziente non aveva lesioni cutanee o sintomi.
+
+Esame fisico
+Il paziente era subfebbrile (37,5c ascellare), c'era un marcato edema del viso, delle mani e dei piedi, così come un'eruzione morbilliforme sul tronco e sulle estremità, con coinvolgimento palmoplantare e delle mucose. Inoltre, i linfonodi cervicali, ascellari e inguinali erano palpabili. Il resto dell'esame fisico era inalterato.
+
+Esami complementari
+Gli esami del sangue hanno mostrato leucocitosi (22,24 x109/l) con il 35% di linfociti atipici, 15% di eosinofilia (3,4 x109/l) ed elevati enzimi epatici (AST 77 u/l, ALT 179 u/l, GGT 414 u/l), fosfatasi alcalina (221 u/l) e LDH (1427 u/l). Bilirubinemia, tempo di protrombina e creatininemia erano nella norma. Date le transaminasi elevate, è stata eseguita un'ecografia addominale che ha mostrato una cistifellea alliasica con pareti ispessite, edema perivescicale e due linfoadenopatie a livello dell'ilo epatico. La radiografia del torace non ha mostrato anomalie.
+La sierologia per la sifilide, l'epatite B, l'HIV, il parvovirus, il virus Epstein-Barr, il morbillo e l'Herpes virus 6 erano negativi.
+La biopsia cutanea ha mostrato un'epidermide con cambiamenti di spongiosi. Un infiltrato infiammatorio linfoistocitario perivascolare e occasionali eosinofili sono stati osservati nel derma.
+
+Diagnosi
+Nonostante i ripetuti dinieghi di assunzione di farmaci, l'anamnesi del paziente ha rivelato che aveva assunto carbamazepina per una neurite trigeminale tre settimane prima dell'inizio del quadro clinico. Sulla base della storia dell'assunzione di farmaci, delle caratteristiche cliniche e dei risultati di laboratorio, abbiamo diagnosticato la sindrome DRESS secondaria alla carbamazepina.
+
+Trattamento
+Il paziente aveva già interrotto la carbamazepina due settimane prima. Data l'intensa compromissione generale e l'alterazione epatica, abbiamo iniziato il prednisone 1 mg/kg/die per via orale, associato a bagni di permanganato di potassio 3/10.000 e triamcinolone acetonide crema 0,1%.
+
+Evoluzione
+L'evoluzione è stata favorevole, con la risoluzione della febbre, del rash e dell'edema facciale e acrale, e il paziente è stato dimesso una settimana dopo. Gli esami di laboratorio hanno mostrato una normalizzazione delle transaminasi nelle quattro settimane successive. Il paziente è stato sottoposto a un regime di prednisone rastremato per 3 mesi, finché non è stato interrotto. Un anno dopo, rimane asintomatico.

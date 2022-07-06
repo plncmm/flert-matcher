@@ -1,0 +1,45 @@
+Um paciente do sexo masculino de 59 anos de idade com antecedentes de acidente vascular cerebral (AVC) 10 anos antes, consultado por deterioração cognitiva. Foi submetido a RM aberta (Philips Outlook 0,23T), com sequências FSE T2 e FLAIR, mostrando pequenas áreas subcorticais bifrontais hiperintensas, cortico-subcorticais esquerda e cortical frontal direita, que foram interpretadas como lesões com um aspecto vascular. Na sequência FLAIR, foi identificada hiperintensidade cortical no lóbulo temporal e no giro pré e pós-central, giro parietal superior, córtex occipital esquerdo e giro temporal inferior direito, amígdala e hipocampo esquerdo, não tendo sido observadas tais alterações nas sequências FSE T2.
+
+LUZ Axial. Hiperintensidade cortical no lóbulo temporal e hipocampo esquerdo. Hiperintensidade no giro temporal inferior direito.
+
+Axial FSE T2. Não são observadas alterações.
+
+Após 15 dias, o paciente começou com perturbações visuais e uma rápida deterioração cognitiva progressiva; 5 dias depois foi decidido hospitalizá-lo. A paciente acrescentou sinais piramidais e extrapiramidais, convulsões, mioclonias, distúrbios da fala, atingindo uma imagem de afasia, e começando também com a incontinência de esfíncteres. O electroencefalograma mostrou um ritmo lento.
+Foi sugerido um possível diagnóstico de Creutzfeldt-Jacob.
+Foi realizada uma nova RM de alto campo (GE Horizon LX Signa 1,5 T), adicionando imagens de difusão às sequências convencionais. As sequências FSE T2 e FLAIR mostraram as mesmas lesões visualizadas no exame anterior. A sequência FLAIR mostrou hiperintensidade cortical com maior envolvimento do hemisfério esquerdo, córtex temporal e hipocampo, córtex occipital, ínsula paracentral esquerda, hiperintensidade no córtex frontal, cingulado anterior e córtex parietal bilateral maior do que no córtex temporal inferior esquerdo e direito. A sequência FSE T2 mostrou uma ligeira hiperintensidade de uma forma mal definida.
+
+LUZ Axial. Hiperintensidade cortical no giro pré e pós-central esquerdo, parietal superior bilateral e frontal e paracentral esquerda.
+
+Axial FSE T2. Ligeira hiperintensidade cortical no giro pré e pós-central esquerdo, giros parietal superior bilateral e frontal e giros paracentral esquerdo.
+
+As lesões corticais bilaterais foram mais claramente identificadas na sequência de difusão.
+
+Difusão. Hiperintensidade cortical marcada no giro pré e pós-central esquerdo, parietal superior bilateral e frontal e paracentral esquerdo.
+
+Em FLAIR, foi observada uma ligeira hiperintensidade na cabeça de ambos os núcleos caudais, mais evidente na sequência de difusão, sendo menos significativa no FSE T2.
+
+LUZ Axial. Hiperintensidade cortical e da cabeça em ambos os núcleos caudais.
+
+Difusão. Hiperintensidade cortical assinalada e na cabeça de ambos os núcleos caudais.
+
+Axial FSE T2. Ligeira hiperintensidade cortical e na cabeça de ambos os núcleos caudais.
+
+Ao longo de 20 dias o electroencefalograma do paciente mudou para um padrão de onda bifásico e trifásico, sem inversão da sua condição clínica. A análise do fluido cerebroespinhal foi negativa para 14-3-3 proteínas. O doente foi considerado como tendo um provável diagnóstico da doença de Creutzfeldt-Jakobs [demência progressiva e pelo menos 2 de 4 características clínicas (mioclonus, sinais visuais ou cerebelares, sinais piramidais ou extrapiramidais, mutismo acinético) e alterações EEG].
+Foi realizada outra RM, mostrando lesões corticais bilaterais mais significativas, tanto em FLAIR, difusão e sequências FSE T2, acrescentando uma maior hiperintensidade na cabeça e no corpo do núcleo caudado bilateralmente, e ambos os putamen.
+
+Hiperintensidade cortical difusa na cabeça de ambos os núcleos caudais e de ambos os putamen.
+
+Difusão. Marcada hiperintensidade cortical difusa na cabeça de ambos os núcleos caudais e de ambos os putamen.
+
+Axial FSE T2. Hiperintensidade na cabeça dos núcleos caudados e putamen e ligeira hiperintensidade cortical difusa.
+
+Um mês mais tarde, o paciente foi submetido a uma quarta RM, mostrando um aumento adicional da hiperintensidade cortical bilateral em ambos os núcleos caudais e ambos os putamen no FSE T2, FLAIR e sequências de difusão. A sequência T1 mostrou hiperintensidade em ambos os putamen.
+
+Axial FSE T2. Hiperintensidade na cabeça dos núcleos caudados e putamen e hiperintensidade cortical difusa moderada.
+
+LUZ Axial. Marcada hiperintensidade cortical em núcleos caudados e putamen.
+
+Difusão. Marcação de hiperintensidade cortical difusa bilateral em núcleos caudados e putamen. Terceiro ventrículo ampliado.
+
+Atrofia cortical significativa, alargamento global das cavidades ventriculares e atrofia significativa tanto dos hemisférios cerebelares como dos vermes.
+O doente morreu 20 dias após o último estudo de ressonância magnética.

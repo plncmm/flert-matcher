@@ -1,0 +1,22 @@
+Prezentăm cazul unui bărbat de 37 de ani din România, rezident în Spania de 6 ani. A fumat aproximativ 30 de țigări/zi de la vârsta de 15 ani (33 de pachete/an). A lucrat într-o fabrică de mase plastice și a fost diagnosticat cu silicoză din cauza expunerii profesionale la sablarea cu jet de nisip. S-a prezentat cu tuberculoză pulmonară (TBP) cu 10 ani înainte, tratată în țara sa timp de șase luni cu un regim zilnic care conținea rifampicină. A venit la urgență cu febră de 39oC de o săptămână de evoluție, tuse uscată și odinofagie, fără alte constatări clinice la anamneză prin aparate și sisteme.
+
+Examenul fizic: febră, 39oC, TA 130/70 mmHg, FC 112 bpm. RR 12. SatO2 98% la FiO2 ambientală. Niciun ganglion limfatic periferic nu era palpabil. Auscultația cardiacă a fost normală, fără murmure sau sunete de fricțiune. Auscultația pulmonară a arătat hipofonie generalizată fără raluri. Testul de sânge ED a arătat 9600 x10e9/L de leucocite, 13,5% monocite; restul a fost normal. Funcția renală, ionograma și transaminazele au fost normale. CRP 112mg/l.
+
+ECG-ul nu a prezentat modificări relevante. Radiografia toracică a evidențiat un indice cardiotoracic crescut, imagine nodulară în lobul superior stâng și infiltrat interstițial perihilar bilateral. Tomografia computerizată toracică a evidențiat o fibroză masivă progresivă secundară silicozei cu traiecte fibroase tuberculoase reziduale suprapuse, afectarea infecțioasă a căilor respiratorii distale și un revărsat pericardic sever confirmat prin ecocardiografie transtoracică care a evidențiat o tamponadă.
+
+Diagnostic diferențial
+La internare, s-a stabilit diagnosticul diferențial între cauzele de efuziune pericardică:
+- Cauze infecțioase: orice microorganism poate afecta pericardul.
+- Virusuri, în principal coxsackievirus. Infecția cu HIV trebuie, de asemenea, luată în considerare.
+- Bacterii: cele mai frecvent izolate în lichidul pericardic sunt Staphylococcus spp, S. pneumoniae și Streptococcus spp. Mai puțin frecventă, deși trebuie luată în considerare la pacientul nostru, este pericardita tuberculoasă (PTB). - Altele: Rickettsiae, spirochete, ciuperci, paraziți, Tropheryma whippelii sau Chlamydia.
+- Cauze neoplazice: în principal cancer de sân, cancer pulmonar și limfom Hodgkin.
+- Cauze autoimune: cele mai frecvente sunt lupusul eritematos sistemic și artrita reumatoidă.
+- Cauze metabolice: pericardită uremică, hipotiroidism.
+- Altele: secundar infarctului miocardic acut, radiații, post-chirurgical, traumatisme, farmacologic, chimioterapie.
+- Idiopatică: în până la 70% din cazuri, etiologia efuziunii poate să nu fie stabilită. Se crede că majoritatea sunt de origine virală.
+
+Evoluție
+A fost efectuată o fereastră pericardică, drenând 150 ml de lichid sero-sanguinolent cu 2380 leucocite/μl (80% mononucleare) cu ADA și glicemie în limite normale. Având în vedere suspiciunea clinică de pericardită tuberculoasă, a fost inițiat un tratament cu patru medicamente antituberculoase de primă linie (izoniazidă, rifampicină, pirazinamidă și etambutol), fără ameliorare. Testul HIV a fost negativ. Frotiurile de spută și cultura în mediu micobacterian a patru probe de spută indusă au fost negative. Microscopia microscopică a frotiului de lichid pericardic a fost negativă, iar cultura micobacteriană a arătat M. tuberculosis rezistentă la rifampicină (R), izoniazidă (I), pirazinamidă (P) și etambutol (E), precum și la capreomicină și amikacină, și sensibilă la alte medicamente de linia a doua. Tratamentul a fost schimbat cu moxifloxacină, protionamidă și linezolid și s-a adăugat prednison 50 mg/zi. Tratamentul antituberculos a fost menținut timp de 18 luni cu evoluție clinică bună, iar pacientul a fost urmărit timp de 24 de luni fără recidivă.
+
+Diagnostic final
+Pericardită tuberculoasă datorată M. tuberculosis multidrog-rezistent.

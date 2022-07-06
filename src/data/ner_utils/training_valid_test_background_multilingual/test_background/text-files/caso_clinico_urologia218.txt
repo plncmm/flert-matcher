@@ -1,0 +1,25 @@
+Anamnesis
+Mujer de 54 años de edad que consulta en Urgencias por la aparición de una tumoración palpable en el flanco derecho de un mes de evolución, con moderado dolor "sordo" sobre la zona. Presenta además síndrome constitucional con astenia y pérdida de peso el último mes. No refiere hematuria, ni dolor cólico renal. Como antecedentes presentaba glaucoma, dislipemia, diverticulosis de colon izquierdo, apendicectomía y ooforectomía bilateral por quistes epidermoides. Fumadora y enolismo leve.
+
+Exploración física
+Peso 52 kg. A la inspección se aprecia una tumoración evidente. A la palpación el abdomen es blando, depresible, sin signos de irritación peritoneal, peristaltismo normal y una gran masa en el hipocondrio y el flanco derecho, de unos 20 x 10 cm, no dolorosa a la presión, de consistencia firme. Puñopercusión renal bilateral negativa.
+
+Pruebas complementarias
+• Analítica sanguínea: 8.600 leucocitos/mm3, hemoglobina 12,6 g/dl, hematocrito 36,7%, actividad de protrombina 104%, creatinina 0,7 mg/dl.
+• Ecografia: masa de 20 cm de diámetro longitudinal en el hemiabdomen derecho, sin calcificaciones, bien delimitada, vascularizada, que no puede establecerse su dependencia hepática o renal. Riñón derecho no identificable. Resto normal.
+• Tomografía computarizada (TC) con contraste: gran tumoración dependiente de la región interpolar y polo superior del riñón derecho que presenta un diámetro aproximado de 15 cm. La tumoración muestra dos áreas bien delimitadas, la parte central, cerca del hilio renal, de densidad sólida, y la parte más periférica, de densidad líquida, con tabiques y nódulos en su pared y en sus tabiques internos. Las imágenes descritas corresponden a un hipernefroma con componente quístico. Además, se observa una extensa trombosis tumoral en la cava inferior que se continúa desde la vena renal hasta la proximidad de la aurícula derecha. Pequeñas adenopatías retroperitoneales homolaterales, inferiores a 8 mm de diámetro.
+• Radiografía de tórax normal.
+• Valoración anestésica: ASA II, Surgical Risk Scale: 9 puntos de 14 posibles.
+
+Diagnóstico
+Tumor renal con trombo en la vena cava.
+
+Tratamiento
+Se propone una nefrectomía radical derecha con extracción del trombo de la vena renal. Para ello, se coordina la cirugía con los Servicios de Cirugía General y del Aparato Digestivo, sección Hepatobiliar y de Cirugía Cardíaca.
+Se realiza mediante laparotomía subcostal con apertura lateral bilateral más esternotomía. Tras la disección por planos, se procede a la disección y control de la arteria renal derecha, de la vena cava, vena renal izquierda, pedículo hepático y cava inferior en su ostium de entrada en la aurícula derecha. Se procede al clampaje de la vena renal izquierda, pedículo hepático, cava infrarrenal y en su ostium de entrada en la aurícula derecha. Se realiza cavotomía y extracción de la totalidad del trombo, con cierre de dicha apertura mediante sutura monofilamento no reabsorbible de 4/0. Tras ello, se completa la disección del tumor, se colocan tres drenajes tipo Blake en el ápex pleural izquierdo, pericardio y lecho de nefrectomía y se cierran las incisiones.
+
+Evolución
+Tras la cirugía se extuba en quirófano y pasa a la Unidad de Reanimación, donde permanece un día. Pasa a planta, donde permanece 7 días más. Los drenajes torácicos se retiraron al segundo día y el del lecho de nefrectomía al tercero. No hubo complicaciones.
+Anatomía patológica microscópica: tumoración renal con un 50% de necrosis tumoral, constituida por células poligonales monótonas con núcleo claro y escaso citoplasma, positivas con CD99 y negativas para Ck34B12, CD10, Bcl-2, cromogranina, sinaptofisina y AE1-AE3. Diagnóstico anatomopatológico: tumor neuroectodérmico primitivo de 13 cm de diámetro máximo, que infiltra la grasa perirrenal y se extiende a la vena renal. Presenta un 50% de necrosis tumoral. Extremos quirúrgicos libres de neoplasia. Glándula suprarrenal sin signos neoplásicos. Dos ganglios linfáticos sin signos neoplásicos.
+Dado el diagnóstico, se presenta el caso en el comité de tumores urológicos y se decide solicitar una TC tóraco-abdominal y rastreo óseo. La TC informa de adenopatías mediastínicas de 23 x 12 mm de aspecto metastásico y micronódulos en ambos lóbulos inferiores, el mayor de 11 mm, sospechosos de metástasis. El rastreo óseo no es concluyente.
+Se solicita una tomografía por emisión de positrones (PET/TC) para plantear rescate quirúrgico pulmonar en caso de enfermedad localizada, pero este informa de metástasis pulmonares izquierdas y metástasis ganglionar prevascular izquierda. Se descarta tratamiento quirúrgico. Así, se decide iniciar quimioterapia paliativa con VAC/IE y reevaluar después la posibilidad de rescate quirúrgico.

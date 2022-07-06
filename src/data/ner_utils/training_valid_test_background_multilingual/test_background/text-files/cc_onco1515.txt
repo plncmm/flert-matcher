@@ -1,0 +1,43 @@
+Anamnesis
+Niña de 8 años, sin antecedentes de interés, que consulta por cuadro de astenia, anorexia, tos, aftas bucales y febrícula ocasional de un mes de evolución. No existe ambiente epidémico familiar. Su pediatra le realiza una analítica en la que presenta leucocitosis con neutrofilia, proteína C reactiva (PCR) levemente elevada, velocidad de sedimentación globular (VSG) normal y serología de síndrome mononucleósico negativa, le pauta tratamiento con amoxicilina.
+Un mes después acude a su hospital de referencia por la aparición de una tumoración submandibular derecha y la persistencia del síndrome constitucional. Se solicita una nueva analítica y radiografía de tórax, diagnosticándose de neumonía bilateral. Ingresa con antibioterapia intravenosa con ampicilina y claritromicina.
+Durante el ingreso presenta fiebre máxima de 38,4 °C y precisa oxigenoterapia convencional. A las 72 horas, ante la falta de mejoría, se repite el control analítico y la radiografía, observándose derrame pleural derecho (14,9 mm), por lo que se inicia tratamiento con cefotaxima y se deriva a la Unidad de Cuidados Intensivos Pediátricos (UCIP) de nuestro centro.
+
+Exploración física
+Regular estado general. Hábito asténico. Temperatura: 37,2 °C. Peso: 26 kg. Saturación de oxígeno: 95% (con oxigenoterapia a 0,5 lpm). Frecuencia cardiaca: 125 lpm. Frecuencia respiratoria: 36 rpm.
+Neurologico normal: no focalidad neurologica.
+Cara: ojerosa. Palidez cutanea. Mucosas de coloracion normal.
+Cuello: conglomerado adenopatico laterocervical bilateral con adenopatias de mayor tamaño a nivel derecho de aproximadamente 2 x 2 cm de consistencia dura.
+Torax: hipoventilacion en el hemitorax derecho, crepitantes basales y soplo tubarico en campo medio anterior.
+Abdomen: blando y depresible. Hepatomegalia y esplenomegalia.
+
+Evolución
+A su ingreso en la UCIP se realiza una toracocentesis, obteniéndose un líquido seroso, y se coloca tubo de drenaje pleural. Se amplía estudio con bioquímica, citometría de flujo y citología de líquido pleural:
+
+Bioquímica de líquido pleural: pH 7.64, leucocitos 396 (PMN 20%, MN 80%), hematíes 30/mm3, glucosa 111 mg/dl, proteínas 2-7 g/dl, LDH 61 UI/l.
+Citometría de flujo de líquido pleural: negativa.
+Citología de líquido pleural: abundantes células inflamatorias de tipo polimorfonuclear con frecuentes elementos mesoteliales de aspecto reactivo. Negativo para células malignas.
+
+Asimismo, se completa con nueva serología para síndrome mononucleósico, Mantoux, QuantiFERON, galactomanano, hemocultivo y ecografía de adenopatías y abdominal.
+
+Se continúa el tratamiento con cefotaxima y claritromicina.
+
+Pruebas complementarias
+Bioquímica de líquido pleural: pH 7.64, leucocitos 396 (PMN 20%, MN 80%), hematíes 30/mm3, glucosa 111 mg/dl, proteínas 2-7 g/dl, LDH 61 UI/l.
+Citometría de flujo de líquido pleural: negativa.
+Citología de líquido pleural: abundantes células inflamatorias de tipo polimorfonuclear con frecuentes elementos mesoteliales de aspecto reactivo. Negativo para células malignas.
+Cultivo líquido pleural: negativo.
+Hemocultivo: negativo.
+Serología síndrome mononucleósico: IgG de virus de Epstein-Barr y EBNA positivos. Toxoplasma, virus de la inmunodeficiencia humana (VIH) y Brucella negativos.
+QuantiFERON: negativo
+Prueba de la tuberculina (Mantoux): 0 mm a las 48 horas y 72 horas.
+Galactomanano: negativo.
+Ecografía cervical y abdominal: adenitis reactiva/inflamatoria. Bazo de aspecto infiltrativo con lesiones hipoecogénicas.
+
+Evolución
+Ante la ausencia de aislamiento microbiológico, se suspende tratamiento antibiótico, y tras la resolución del derrame pleural y la mejoría clínica, se decide traslado de la paciente a la planta de hospitalización.
+Ante la falta de etiología a filiar y la persistencia de astenia, anorexia, conglomerados adenopáticos y palpación de hepatomegalia, se decide solicitar una tomografía computarizada (TC) toraco-abdomino-pélvica.
+Los hallazgos observados en la prueba de imagen son sugerentes de linfoma de alto grado o infección tuberculosa, por lo que se solicita punción-aspiración con aguja fina (PAAF) de la adenopatía cervical (negativas para células malignas, con celularidad linfoide madura, sin necrosis caseosa ni granulomas) y cultivo y reacción en cadena de la polimerasa (PCR) de tuberculosis en esputo (ambas negativas).
+Los hallazgos observados en la prueba de imagen son sugerentes de linfoma de alto grado o infección tuberculosa, por lo que se solicita PAAF de adenopatía cervical (negativas para células malignas, con celularidad linfoide madura, sin necrosis caseosa ni granulomas) y cultivo y PCR de tuberculosis en esputo (ambas negativas). 
+Tras el inicio del tratamiento antituberculoso, la paciente presenta buena respuesta, con disminución progresiva del tamaño de las adenopatías, mejoría del estado general y desaparición de la clínica constitucional. Permanece afebril, con constantes estables en todo momento y con aumento progresivo de la ingesta oral.
+Tras el alta, se completa la pauta de tratamiento de forma ambulatoria con control periódico, observándose la resolución del cuadro y la buena evolución sin evidenciarse reacciones adversas o toxicidad a los fármacos empleados. Se realizó TC de control a los 6 meses, observándose resolución de las imágenes patológicas. Actualmente permanece asintomática.

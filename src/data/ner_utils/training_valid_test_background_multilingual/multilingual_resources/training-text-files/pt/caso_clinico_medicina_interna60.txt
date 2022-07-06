@@ -1,0 +1,30 @@
+Anamnese
+Um fumador masculino de 61 anos de idade com 1 maço/dia (fumou até 3 maços/dia) durante mais de 40 anos e um bebedor ocasional, com histórico de: dislipidemia, glaucoma durante os últimos dois anos sendo seguido por Oftalmologia, e hérnias cervicais e lombares tratadas conservadoramente, com alta por Neurocirurgia. Foi admitido com urgência a dar prioridade aos estudos do Ambulatório de Medicina Interna depois de lhe ter sido diagnosticada uma provável Síndrome de Mascarada em Oftalmologia, tendo de excluir, como primeira opção, que se tratasse de uma manifestação neoplásica de um tumor primário. Em Junho de 2013, o paciente perdeu parte da visão no seu olho direito, sem ser avaliado até Janeiro de 2014, altura em que foi encaminhado para o especialista da retina, que o diagnosticou com provável Síndrome Mascarada em Fevereiro do ano em curso, com AV da DO de 0,7 em 1. Durante todo este período de tempo, a sua visão não mudou em relação à perda durante o mês de Junho. É de salientar que o paciente é totalmente assintomático de qualquer ponto de vista. Nenhuma astenia, hiporexia ou perda de peso nos últimos meses. Sem sintomas B. Não relata viagens ao estrangeiro, novos consumos de drogas, contacto com animais ou relações sexuais arriscadas.
+
+Exame físico
+Bom estado geral. Vigilante, orientado e cooperativo. Eupneic em repouso. Tolera decubitus. Cor da pele castanha. Normohidratado e normoperfused. BP 120/70. HR 60 bpm. Basal O2 sentou-se 98%. Afebrile. Peso 73,4 kg. Altura 1,83 m (IMC 25,86). CYC e oropharynx sem descobertas. Auscultação cardiopulmonar: normal. Abdómen: nenhuma descoberta. Extremidades inferiores: sem resultados. Exame neurológico: sem focalização ou outros achados patológicos. Em conclusão: exame dentro do intervalo normal.
+
+Testes complementares
+O estudo começou com os seguintes testes:
+- Hemograma: normal. ESR normal. CRP 7,8 mg/l (normal entre 0-5).
+- Esfregaço de sangue: sem alterações morfológicas significativas.
+- Coagulação: dentro dos limites normais.
+- Bioquímica: creatinina 1,62 mg/dl (normal entre 0,6-1,4); filtração 46 ml/min (normal sup 60); resto do perfil hepatorrenal dentro da normalidade. Cortisol normal. PSA normal. ACE 60 UI/l (0-50 normal).
+- Imunoglobulinas: Ig A 78,4 mg/dl (normal entre 90-410) e Ig M 717 mg/dl (normal entre 55-350). Ig G normal. Proteinograma: normal.
+- Serologia: RPR negativo. Toxoplasma gondii Ig G 32,8 IU/ml (positivo sup 9,9) e IgM negativo. Vírus HIV, B e C negativos. EBV Ig G 232 U/ml (positivo sup 20) e Ig M negativo. CMV IgG positivo 47,8 U/ml (positivo sup 14) e Ig M negativo.
+- Autoimunidade: ANA, antiDNA, antiSm, antiRo e antiLa negativo. Factor reumatóide: normal.
+- Urina 24 horas: eliminação de creatinina 54,75 ml/min. Cálcio 29,90 mg/24h. Cálcio/criinina 24,47 mgCa/gCre (ambos baixos). Cultura da urina e cultura fúngica da urina: negativo.
+- Raio-x do tórax: peito enfisematoso. Índice cardiotorácico normal. Hilae normal. Seios costofrénicos livres. Sem imagens parenquimatosas patológicas óbvias.
+- Mantoux: negativo.
+- TAC abdominal: aglomerado de adenomegalia na região subcarinal - recesso pleuroácico esofágico, adenomegalia hilar e na pirâmide basal direita. Nódulo sólido e espiculado no lobo médio direito. Maior diâmetro 21 mm. Hipodensibilidades hepáticas bilaterais puntiformes. Possíveis quistos milimétricos. Imagem compatível com angioma de 10 mm no segmento sete. Imagens de adenomas em ambas as adrenais. Rim direito normal. Hidronefrose renal esquerda com córtex cortical muito fino produzido por massa intraureteral de 6 cm de comprimento.
+
+ Deve ser excluída a neoplasia pulmonar com adenomegalia mediastinal e/ou metástase de um tumor de ducto.
+- Ultra-som abdominal: Rim esquerdo com hidronefrose de alto grau, com grande dilatação do uréter proximal, bolas calcificadas hidronefróticas e atrofia parenquimatosa.
+Sem fluido livre. Resto de estruturas dentro da normalidade.
+- Ressonância magnética craniana: linha média preservada. É possível observar uma multiplicidade de lesões arredondadas de alta intensidade T2 e baixa T1. O maior deles tem um diâmetro de 9mm. Estão localizados em ambos os hemisférios cerebrais, cerebelar vermis, cerebelar hemisfério direito e tronco cerebral. Muitos deles apresentam um edema mínimo na sequência de FLAIR. Espessamento notável (3,8mm) do pólo posterior do globo ocular direito em relação provável com a corio-retinite mencionada. Achados sugestivos de múltiplas metástases cerebrais, especialmente após o TAC tóraco-abdominal.
+
+Diagnóstico
+Síndrome de Mascarada (coroidite difusa + papilite) como primeira manifestação de um tumor do tracto urinário esquerdo com metástases pulmonares e do SNC.
+
+Tratamento e evolução
+Após mais de 10 dias em Medicina Interna, com a hidronefrose causada pela lesão ureteral visualizada por ultra-sons e tendo em conta a deterioração da função renal, foi decidido transferi-lo para a Urologia. A urologia realizou ureteroscopia e biópsias. Recebeu alta uma semana depois de ser responsável pela Urologia, com um cateter de nefrostomia permeável, com persistência e mesmo ligeiro agravamento da insuficiência renal (Cr 1,86 e FG 39), sendo hemodinamicamente estável, afebril e com urina clara. Dez dias após a descarga, foram obtidos os resultados da anatomia patológica, que relataram a compatibilidade das amostras com um tumor de origem urotelial através de lavagem ureteral. Um mês depois, o doente foi encaminhado para oncologia médica, onde foi prescrita quimioterapia paliativa com Carboplatina e Gemcitabine, dada a extensão da doença e o seu mau prognóstico.

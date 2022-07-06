@@ -1,0 +1,21 @@
+Antecedentes
+personales Varón de 44 años, natural de Bolivia, contable de profesión en su país, residía en España desde hacía tres años. Entre sus antecedentes personales refería en su juventud síndrome de Guillain-Barré, tuberculosis pulmonar incorrectamente tratada y malaria. En el año 2005 precisó ingreso hospitalario en otra región por shock séptico secundario a infección por hongo dimórfico filamentoso, siendo el diagnóstico de histoplasmosis diseminada tras aislarse en broncoaspirado, hemocultivos y médula ósea. Se detectó una infección por VIH de transmisión sexual con un recuento inicial de CD4+ de 139 células/μL y carga viral elevada. Recibió tratamiento con anfotericina B continuando profilaxis secundaria con itraconazol 200 mg/día, trimetropim + sulfametoxazol 400 mg/día (profilaxis primaria de Pneumocystis jirovecii) y se inició tratamiento con emtricitabina + tenofovir + efavirenz con buena respuesta virológica, manteniendo cifras de CD4+ alrededor de 200.
+
+Enfermedad actual
+Acude a urgencias refiriendo cuadro de cefaleas, vómitos, alteración de la marcha y dificultad en el habla de una semana de evolución.
+
+Exploración física
+En la exploración física destaca rigidez de nuca, fiebre de 38oC, habla escandida y ataxia de la marcha. El resto de la exploración era anodina.
+
+Exploraciones complementarias
+El líquido cefalorraquídeo (LCR) obtenido fue un líquido claro a presión normal con 110 células de predominio linfocitario (90%), proteínas 384 mg/dL, glucorraquia 24 mg/dL y ADA 18 U/L. El cultivo, baciloscopia, lúes y tinta china en LCR fueron negativas.
+La analítica en sangre no arrojó resultados a destacar. Los estudios microbiológicos de esputo y los hemocultivos fueron negativos. En la radiografía de tórax existían tractos fibrosos en lóbulo superior derecho y granulomas residuales. En el TAC craneal, signos de atrofia córtico-subcortical.
+
+Evolución
+Ante la sospecha de meningoencefalitis tuberculosa se inició tratamiento con cuatro fármacos con discreta mejoría inicial tanto de la clínica como de los parámetros del LCR.
+A los dos meses reingresa por clínica similar realizándose nueva punción lumbar con las siguientes características: glucorraquia 35 mg/dL, proteínas 310 mg/dL, 100 células de predominio linfocitario (90%), ADA 14 U/L. Cultivo, baciloscopia, tinta china y cultivo para hongos negativo. De nuevo el TAC y la resonancia magnética craneal con contraste fueron anodinos. Se mantuvo el tratamiento tuberculostático con cuatro drogas ante la sospecha de tuberculosis multirresistente a la espera del cultivo de Lowenstein y el antibiograma. Clínicamente el paciente se fue deteriorando progresivamente con vómitos incoercibles que sólo cedieron con dexametasona, diplopía, dificultad para el habla, relajación de esfínteres, desorientación e imposibilidad para la marcha. Ante la gravedad del cuadro, la falta de respuesta al tratamiento y los antecedentes de sepsis por hongos se decide iniciar tratamiento empírico con anfotericina B con rápida respuesta clínica manteniéndose durante cuatro semanas y continuando profilaxis secundaria con itraconazol.
+Se recibieron los cultivos, baciloscopias, Lowenstein, PCR de micobaterias, serología de lúes y tinción con tinta china que fueron negativos. La serología en LCR frente a Brucella, Borrelia, Citomegalovirus, virus de Epstein-Barr, herpes simple 1, 2 y virus herpes grupo 6, 7 y 8, Toxoplasma gondii, Enterovirus y virus JC fue negativa. En suero, la serología frente Taenia solium fue negativa al igual que la determinación de PCR para Histoplasma capsulatum, aunque la serología fue positiva para IgG. Asimismo, la serología frente a Blastomyces, Coccidioides y Paracoccidiodes dio resultado negativo.
+A los cuatro meses de este episodio el paciente reingresa con la misma sintomatología. Las características del LCR fueron similares a las de ingresos previos. Se decidió instaurar tratamiento prolongado durante cuatro meses con anfotericina B liposomal y continuar profilaxis secundaria con anfotericina B liposomal semanal. La evolución ha sido favorable sin recidivas posteriores y con normalización de parámetros citobioquímicos en LCR.
+
+Juicio clínico
+Neurohistoplasmosis.

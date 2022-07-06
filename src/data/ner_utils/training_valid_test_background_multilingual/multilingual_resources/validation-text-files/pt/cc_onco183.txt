@@ -1,0 +1,29 @@
+Anamnese
+Uma mulher de 34 anos veio ao departamento de emergência com dores abdominais suprapúbicas. Nenhuma história familiar. História patológica: fumador de AI 10 maços/ano. Não bebedouro. FUR: 6/1/2014. Nenhuma alergia a drogas conhecida.
+
+Exame físico
+Cabeça e pescoço: sem adenopatias cervicais palpáveis. AC: rítmico, sem murmúrios. PA: murmúrio vesicular preservado, sem ruídos excessivamente acrescentados. Abdómen: suave, depressivo, não doloroso à palpação, ferida de laparotomia em bom estado. Membros inferiores: sem edema.
+
+Testes complementares
+"O QI foi realizado em 24/2/2013, observando-se um tumor de 10 cm no lado esquerdo, realizou-se adexectomia e lumpectomia esquerda, com resultado anatomopatológico de 11 cm de cistoadenocarcinoma seroso papilar limitado ao ovário (pT1a).
+"Na sequência dos resultados, foi realizada uma tomografia computorizada de TC-CT, mostrando uma massa pulmonar sólida com áreas hipodensas ao nível do LSD espiculado medindo 5 x 3 x 4 cm, uma massa adrenal direita de 3 cm suspeita de metástases, linfadenopatias patológicas no espaço portocaval, retroperitoneal, para-aórtica.
+"Dada a possibilidade de um tumor sincrónico, ela foi avaliada pela Pneumologia, e em 31/12/2013 foi realizada uma broncoscopia, na qual foi observada uma lesão endobrônquica ao nível do LSD.
+"Foram feitas biopsias, com o resultado de um carcinoma infiltrante pouco diferenciado e perfil imunohistoquímico compatível com adenocarcinoma pulmonar (TTF-1 +, p63 negativo, queratina CK56: negativo, CEA, cromogranina e calcitonina positiva, tiroglobulina: negativo).
+"Foi realizada uma PET-CT, mostrando áreas de hipercaptação ao nível do LSD, cutânea, linfonodo, osso, subcutânea e adrenal direita, com o diagnóstico de cistadenocarcinoma ovariano E IC e adenocarcinoma pulmonar E IV, e foi enviada para o departamento de Oncologia Médica.
+"EGFR e ALK foram solicitados (resultados negativos) e foram realizadas biópsias do nódulo SC, com o resultado de metástases cutâneas de carcinoma neuroendócrino moderadamente diferenciado.
+"Tendo em conta os resultados, foi solicitada uma ecografia da tiróide, mostrando uma área irregular mal definida de 1,3 x 1,5 x 0,9 cm no hemitiróide direito, bem como linfadenopatia na cadeia jugulo-carotídea contralateral. Calcitonin: 776 .
+"Dada a dúvida diagnóstica, foi solicitada uma biopsia da tiróide, com o resultado de um carcinoma medular da tiróide. Devido ao envolvimento adrenal, suspeitou-se da possibilidade de feocromocitoma e foram solicitadas catecolaminas no sangue e na urina, as quais foram positivas. PTH: normal.
+"RET proto-oncogene: de novo mutação do gene RET".
+
+Diagnóstico
+"Carcinoma medular metástático da tiróide".
+"Feocromocitoma suspeito em associação com a síndrome do MEN 2B.
+"Cistadenocarcinoma ovariano e HF".
+
+Tratamento
+Com o resultado da provável tiróide medular, foi iniciado o tratamento (Janeiro de 2014) com vandetanibe 300 mg/24h. Assistiu a um check-up um mês depois, com uma melhoria da sua situação funcional e uma diminuição dos nódulos subcutâneos. No check-up de Março, ela relatou um aumento da circunferência abdominal e dor lombar, pelo que foi realizada uma ressonância magnética, mostrando síndrome de cauda equina, e a CI para RT foi realizada com tratamento com 30 Gy. Dada a suspeita de progressão, foi realizado um TAC-CT, mostrando a progressão da doença com aumento das adenopatias supraclaviculares bilaterais, aumento dos nódulos pulmonares, aumento da massa adrenal direita e aparecimento de uma massa adrenal esquerda, aparecimento de uma massa ao nível do ovário direito, calcitonina 1.455 (anteriormente 776). Dada a dúvida diagnóstica e a progressão da doença para o vandetanibe (primeira linha na tiróide medular), o caso foi apresentado na sessão de oncologia e foi decidido iniciar o tratamento com carboplatina + taxol (primeira linha de origem desconhecida). O paciente recebeu três ciclos de carbo-taxol e o TAC para avaliar a resposta à progressão da doença mostrou um aumento das adenopatias supraclaviculares, um aumento da massa pulmonar do LSD, um aumento da massa adrenal direita e esquerda, um aumento da massa ad anexa direita e um aumento das metástases ósseas. Dado que o tumor tem características neuroendócrinas e a fraca resposta ao vandetanibe, o tratamento com gemcitabina + 80% irinotecan foi iniciado em Março de 2014. Recebeu tratamento durante três ciclos e em 7/7/2014, a avaliação de resposta por TC mostrou uma diminuição das adenopatias supraclaviculares, uma diminuição das metástases cutâneas, uma diminuição da massa LSD, uma diminuição das massas adrenais bilaterais, uma diminuição das adenopatias abdomino-pelvicais e uma diminuição da massa anexa direita. Em 18/7/2014 o paciente foi admitido por síndrome febril e aparecimento de múltiplas metástases cerebrais bilaterais, recebendo TDT holocraniana.
+
+Evolução
+Paciente diagnosticado com carcinoma medular metástático da tiróide com envolvimento adrenal. O tratamento de primeira linha foi iniciado com vandetanibe com progressão após três ciclos. Mudada para uma linha de QT de origem desconhecida, com nova progressão. A terceira linha de tratamento foi iniciada com gemcitabina + CPT 11, com resposta após três ciclos e progressão do SNC.
+
+Admitido em 26/8/2014 devido a deterioração neurológica, morrendo durante a admissão. Foi solicitada uma necropsia, mas a família não a quis.

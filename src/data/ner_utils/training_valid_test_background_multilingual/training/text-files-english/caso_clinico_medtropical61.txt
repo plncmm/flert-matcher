@@ -1,0 +1,27 @@
+On January 24, 2018, a 50 year old female patient, Argentinean, with residence in El Tunal, department of Metan, province of Salta, entered the Sanitary Institution of Metan due to fever 5 days.
+The next day, Dr. Joaquín Castellanos was referred to General Güemes for evaluation by the surgery medical service.
+At the time of admission, samples were taken for culture of the most common pathogens.
+At 48h the patient was admitted to the Intensive Care Unit with presumptive diagnosis of sepsis with abdominal focus, urinary tract infection and acute pancreatitis.
+Empirical treatment with ciprofloxacin, oxygen sodium heparin, ketorolac was applied.
+On the evening examination, the patient was lucid, but with hypoventilation.
+A chest X-ray showed a left basal infiltrate, and a computerized axial tomography showed free lung bases, liver, free spleen, pancreas, adrenal glands and preserved kidneys, with no peritoneal lymphadenopathy distended, intestinal fluid.
+The clinical picture worsened rapidly with manifestation of tachypnea, hypotension requiring vasopressors, acrocia in upper limbs and lice-like lesions in lower limbs.
+The patient required mechanical ventilation, antibiotic treatment with ciprofloxacin was discontinued and replaced with ampicillin-sulphate and vancomycin.
+A complete interview was completed by the family members who reported having had a tick removed from the left lumbar region 3 days prior to the onset of symptoms.
+Given the previous history, serum samples were collected and diagnostic tests for dengue (RT-PCR, non-structural antigen -NS1–, IgM Mac ELISA), chikungunya (PCR) indirect Macfluormunescence) were requested.
+Determination of specific IgG and IgM for cryptosia spp.
+it was performed by the commercial Indirect Immunofluorescence (Focus Diagnostics) equipment according to the manufacturer's instructions.
+The detection of IgM≥1:64 and IgG≥1:256 titers was considered recent infection.
+In addition, skin biopsies were taken from purpura rash and region of the lower left limb for detection of mental retardation spp.
+PCR.
+Tissue samples were fixed with DNey Blood & Tissue QIAGEN commercial equipment according to manufacturer's instructions.
+Partial amplification of the following genes was performed: gltA, ompA, ompB, htrD and the 23S-5S rRNA intergenic marker according to the protocol described8.
+Amplification products obtained from RNAr 23S-5S, ompA and ompB genes were analyzed with the BigBI sequence Genetic Sequenter A Sequencing kit (3.177 Anaedzer, BioPE) analyzed.
+The sequences obtained were compared with those deposited in the GenBank (http://www.ncbi.nlm.nih.gov/genbank/) with the BLASTN (BLASTN Information Center for NCCD).
+Samples for diagnosis of cryptosiosis were taken from the Special Bacteriology Department, INEI-ANLIS «Carlos G. Malbrán», CABA and the rest from the Milagro Viejo Hospital, Salta.
+Preventively, the patient was covered with a 200mg / 12h clotting catheter.
+Results: dengue-negative; chikungunya-negative; hantavirus-negative; rickettsiosis-IgG nonreactive (<1/64); IgM non-reactive (<1/64).
+After 72h of hospitalization, the patient suffered a cardiorespiratory arrest and died.
+Serial and urocultive hemocultives were negative after 6 days of insanction.
+Twenty days after the onset of symptoms, the confirmatory diagnosis was obtained by amplification and partial sequencing of the ompB and ompA genes.
+The sequences obtained showed a 99% identity with strains available in GenBank of R. rickettsii, 011, ompB and ompA genes, access numbers: CP018914.1, CP01891 respectively.

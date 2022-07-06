@@ -1,0 +1,25 @@
+Anamnèse
+Un homme de 78 ans avec des antécédents personnels d'hypertension contrôlée uniquement par le régime alimentaire. On lui avait diagnostiqué un cancer de la prostate il y a 14 ans, qui, après un traitement chirurgical et hormonal, était désormais considéré comme en rémission. Le seul traitement médical en cours était le sildénafil tous les 15 jours. En ce qui concerne les antécédents familiaux, il a rapporté qu'un frère avait été diagnostiqué comme souffrant d'épilepsie généralisée et qu'il était mort subitement au cours d'un épisode.
+Le patient a consulté pour un épisode abrupt consistant en une poussée épigastrique ascendante, suivie d'un épisode confusionnel, avec déconnexion de l'environnement, langage incohérent, automatismes de succion et mouvements du membre supérieur gauche, qui a duré environ 5 minutes, avec une confusion et une désorientation ultérieures, qui se sont lentement rétablies en 30 minutes environ, avec une amnésie de tout l'épisode. Pendant le transfert à l'hôpital et au service des urgences, il a subi deux autres épisodes présentant des caractéristiques similaires. Interrogé spécifiquement, il a indiqué qu'il souffrait depuis quelques années de brefs épisodes de désorientation associés à une sensation de blocage mental, pour lesquels il n'avait pas consulté.
+
+Examen physique
+Les signes vitaux du patient étaient normaux et il était afébrile et sans signes méningés. L'auscultation cardiaque et pulmonaire et le reste de l'examen général n'ont révélé aucun résultat pathologique. Lors de l'examen neurologique, le patient était alerte, conscient et parfaitement orienté, avec des fonctions cognitives préservées et un discours cohérent et fluide. L'examen des nerfs crâniens, de l'équilibre musculaire et de la démarche était normal, avec des réflexes myotatiques symétriques et exaltés, avec un réflexe bilatéral de flexion cutanée-plantaire. La seule constatation significative à l'examen était une légère hypoesthésie faciale-brachiale gauche.
+
+Tests supplémentaires
+- Un bilan sanguin complet comprenant un hémogramme, une biochimie générale, une coagulation, une étude immunologique (ANAS), une fonction thyroïdienne et un protéinogramme a révélé des valeurs normales. Les marqueurs tumoraux, la sérologie (Borrelia, lupus, Brucella et VIH) et les anticorps antineuronaux étaient négatifs.
+- L'étude du liquide céphalo-rachidien comprenait une biochimie, une sérologie (lupus, Borrelia et Brucella), une PCR virale et une culture, toutes négatives.
+- L'électrocardiogramme était normal et la radiographie du thorax a montré d'anciennes images calcifiées.
+- Une tomodensitométrie (TDM) thoraco-abdomino-pelvienne a en effet montré des plaques pleurales calcifiées bilatérales, avec une atteinte de la plèvre diaphragmatique, suggérant une pathologie ancienne telle qu'une exposition à l'amiante, et des kystes hépatiques simples.
+- Le scanner cérébral n'a montré que quelques lésions compatibles avec d'anciens infarctus lacunaires et une atrophie corticale frontale prédominante.
+- L'imagerie par résonance magnétique (IRM) du cerveau a montré des images rares d'aspect ischémique chronique ainsi qu'une atrophie corticale frontale modérée, attirant l'attention sur une hyperintensité dans les séquences TR longues dans les deux systèmes limbiques parahippocampiques, sans prise de contraste. Coupes coronales dans la séquence FLAIR de l'imagerie par résonance magnétique montrant une hyperintensité hippocampique et parahippocampique bilatérale à prédominance droite.
+- Une étude Doppler des troncs supra-aortiques a montré une probable sténose critique proximale de l'artère vertébrale droite.
+- L'enregistrement de l'électroencéphalogramme était anormal, avec des décharges épileptiformes occasionnelles (morphologie en pointes) dans la région temporale droite.
+
+Diagnostic
+Crises partielles complexes d'origine temporale, secondaires à une sclérose bilatérale de l'hippocampe mésial, avec présentation adulte (tardive).
+
+Traitement
+Un traitement à l'acide valproïque a été instauré, avec un contrôle adéquat des crises partielles complexes et des taux thérapeutiques d'acide valproïque (92,8 μg/ml) ont été obtenus à la sortie de l'hôpital.
+
+Evolution
+Au cours du suivi ambulatoire, le patient est resté asymptomatique, sans nouvel épisode au cours des 9 mois d'évolution, et l'IRM crânienne de contrôle était similaire à la précédente.

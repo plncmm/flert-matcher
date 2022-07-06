@@ -1,0 +1,36 @@
+Fuensanta 37 de ani
+
+- Fără obiceiuri toxice
+- Nici o alergie cunoscută la medicamente
+- Apendicectomie la vârsta de 28 de ani
+- Diverse suturi pentru răni
+- Astm bronșic intermitent ușor și intermitent. Tratament: Salbutamol inhalat la cerere.
+- Rinită alergică persistentă tratată cu levocetirizină 5 mg c/24 ore.
+
+ Motivul consultării
+- Cu o lună înainte de consultație, pacientul s-a prezentat brusc cu dispnee, respirație șuierătoare și prurit ocular și faringian. Deoarece simptomele nu s-au ameliorat la administrarea de salbutamol, s-a prezentat la serviciul de urgență al Zonei sanitare de bază, unde a fost observat angioedemul facial și bronhospasmul și i s-au administrat pe cale parenterală adrenalină subcutanată și hidrocortizon.
+- Înainte de acest episod, pacientul fusese supus unui tratament endodontic. A fost trimisă la alergolog pentru a studia o posibilă alergie la lidocaină (anestezic local utilizat în endodonție).
+
+Teste cutanate pentru diferiți pneumoalergeni comuni în regiunea Murcia: pozitiv pentru acarieni.
+
+IgE totală: 81 KU/ml (Normal: < 100 KU/L)
+IgE specifice pentru Dermatophagoides Pteronyssinus: 18,3 KU/L
+
+- Teste cutanate (prick test și intradermice) cu lidocaină: NEGATIV
+- Provocări parenterale cu doze crescânde de lidocaină: NEGATIV.
+
+- Anamneza a arătat că pacienta era un consumator regulat de melci și că uneori avea respirație șuierătoare după ce îi mânca.
+- Ea și-a amintit că mâncase melci cu o oră mai devreme, în ziua atacului care a provocat consultarea.
+
+- Testul cutanat (prick test) cu melc: POSITIV (papulă de 6x5 mm).
+
+IgE specifice pentru carnea de melc: NEGATIV
+IgE specifică recombinantă de tropomiozină de creveți:
+POZITIV (5,4 KU/L)
+
+
+DIAGNOSTIC
+- Rinită și astm din cauza sensibilizării la acarieni.
+- Anafilaxie datorată sensibilizării la melci
+- Sensibilizare încrucișată acarian- melc
+- Sensibilizarea la tropomiozină

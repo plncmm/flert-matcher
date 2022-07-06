@@ -1,0 +1,43 @@
+Anamnesi
+Home de 26 anys d'edat, sense antecedents d'interès que acudeix al Servei d'Urgències, després de diverses ocasions, per dolor en hipogastrio, irradiat a zona FID i lumbar. Ho relaciona amb restrenyiment pertinaç que requereix ènemes i laxants, de 2-3 setmanes d'evolució. Comenta pèrdua d'uns 5 kg de pes en els últims 2 mesos. No té altres símptomes B.
+
+Exploració física
+Sense troballes físiques rellevants, excepte en la palpació abdominal amb dolor generalitzat. Vorell hepàtic d'entre 2-3 cm amb nodulaciones, indurado. També es palpa massa a nivell de FID. Resta de l'exploració sense troballes rellevants.
+Per tot això, es cursa ingrés hospitalari per a continuar estudi.
+
+Proves complementàries
+» Bioquímica destaca: BT 1,34, GOT 81, GPT 140, GGT 246, FA 154, LDH 716.
+» Hemograma: Hb 15,8, leucòcits 11.620, PMN 74%, plaquetes 238.000. Coagulació: TP 51%, INR 1,62.
+» Perfil tiroidal normal. Serologia VIH, IGRA i virus hepatotropos negatiu. betaHCG < 1,2.
+» MT: elevació CA 125 121,1 (0,5-35); AFP, CEA, CA 15,3 CA 19,9, proteïna S-100b i PSA dins de la normalitat.
+» Proteinograma dins de la normalitat. Discreta elevació de IgE.
+» Respecte a les proves d'imatge, en l'ecografia abdominal realitzada es podien apreciar múltiples lesions compatibles amb malaltia metastásica hepàtica, pelviana, probablement ganglionar i en hil hepàtic secundària a neoplàsia no identificada.
+» En TC de tòrax, abdomen i pelvis s'observaven diverses masses peritoneals pelvianes, així com lesions amb anell de captació perifèric suggeridores de metàstasis hepàtiques.
+» Es realitza biòpsia per punció agulla gruixuda de la massa inguinal que va ser finalment informada de tumor desmoplásico de cèl·lules petites i rodones.
+» S'observen cilindres infiltrats per una proliferació neoplàsica que forma nius i trabècules de cèl·lules rodones indiferenciades petites de citoplasma escàs eosinòfil, en un estroma fibrós desmoplásico amb canvi mixoide.
+» Les cèl·lules tenen inmunofenotipo positiu enfront de desmina (amb patró en punt perinuclear), vimentina, enolasa feble, CK AE1/AE3 i CD99 feble, i negatiu enfront de proteïna miogenina, S100, CD56 i sinaptofisina.
+» L'estudi de biologia molecular, informat posteriorment, té resultat positiu per a la translocació EWSR1.
+» L'estudi per tècnica FISH és positiu per a la translocació del locus del gen EWSR1 (22q12.2).
+» L'estudi immunohistoquímic de WT1 mostra positivitat intensa.
+» Posteriorment, el pacient és donat d'alta domiciliària després de la realització de biòpsia.
+» Ingressa novament per clínica álgica abdominal, refractària a tractament analgèsic. Es procedeix per això al control simptomàtic i a completar l'estudi d'extensió.
+» Gammagrafia òssia sense evidència d'afectació òssia metastásica. Ventriculografía amb FEVI en límit de normalitat.
+
+Diagnòstic
+Tumor desmoplásico de cèl·lules petites i rodones.
+
+Tractament
+Es proposa com a estratègia inicio de tractament quimioteràpic amb esquema de ciclofosfamida, adriamicina i vincristina per sis cicles. Després de tres cicles, el pacient requereix ingrés hospitalari per amigdalitis pultácea, neutropènia febril GIV, trombopenia GIII, i oromucositis GI. Finalment, completa els tres cicles restants
+En l'avaluació radiològica als sis mesos, destaquen:
+» RM abdomen i pelvis: marcada resposta parcial de la lesió peritoneal, així com de les metàstasis hepàtiques.
+» TC de tòrax, abdomen i pelvis: important reducció en número i grandària de les lesions primàries pelvianes i de les metàstasis hepàtiques. Desaparició de les adenopaties mesentèriques i retroperitoneales. Resposta parcial al tractament segons criteris RECIST 1.1 de la malaltia primària i metastásica.
+
+Evolució
+Donada la resposta al tractament, es presenta el cas en Comitè Multidisciplinari per a valoració quirúrgica. No es garanteix una cirurgia R0, per la qual cosa es decideix continuar tractament quimioteràpic amb esquema ifosfamida-etopósido per tres cicles més.
+Després de completar-los, es decideix consultar amb el Grup Espanyol de Recerca en Sarcomes (GEIS), recomanant completar l'any de tractament amb quimioteràpia i reavaluar i intentar tècniques locals.
+Després de completar esquema ifosfamida-etopósido, es procedeix a realització de cirurgia de rescat. Evolució favorable postoperatòria, procedint-se a l'alta domiciliària després d'una setmana d'ingrés hospitalari.
+El cas es presenta novament en Comitè de Tumors, especificant-se que la resecció ha estat R2 deixant tota la malaltia hepàtica que és irresecable i una pastilla tumoral en cara pelviana dreta.
+Tres mesos més tard, el pacient ingressa novament a càrrec d'Oncologia Mèdica per deterioració de l'estat general, ascites a tensió i fallada hepàtica per progressió tumoral.
+PET-TC: disseminació de metàstasis hepàtiques, peritoneals, adenopaties retroperitoneales, i pulmonars incipients, tot això suggeridora de progressió tumoral.
+TC de tòrax, abdomen i pelvis: progressió tumoral amb metàstasis hepàtiques. Evidència d'implants peritoneals i presència d'adenopatia necròtica en grassa pararrectal.
+Finalment, donat l'estat del pacient, es decideix iniciar mesures de confort, amb realització de paracentesi evacuadora i inici de perfusió analgèsica per a control de clínica álgica. Una setmana més tard es produeix la defunció del pacient.

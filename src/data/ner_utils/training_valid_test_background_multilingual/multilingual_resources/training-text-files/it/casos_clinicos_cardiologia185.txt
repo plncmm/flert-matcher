@@ -1,0 +1,26 @@
+STORIA, MALATTIA ATTUALE ED ESAME FISICO
+Un uomo di 26 anni è stato ricoverato con dolore al petto e marcatori elevati di danno miocardico.
+
+STORIA PERSONALE
+Linea di base: nativo della Colombia. Residente in Spagna da un mese. Lavora come giardiniere. Nessuna allergia nota ai farmaci. Nessun fattore di rischio cardiovascolare. Nessuna abitudine tossica. Nessuna storia cardiologica personale o familiare. Interventi chirurgici: splenectomia dopo incidente stradale. Farmaci precedenti: nessuno.
+
+MALATTIA ATTUALE
+Paziente asintomatico dal punto di vista cardiovascolare, che due settimane prima del ricovero ha iniziato episodi di dolore toracico centrale oppressivo che si irradia a entrambe le mascelle, non collegato all'esercizio o ai movimenti respiratori. Nessuna corteccia vegetativa associata. Cessazione autolimitata di questi episodi entro pochi minuti. Ha anche riferito vertigini non specifiche e sensazione distrofica occasionale, senza febbre termometrica. Nessuna palpitazione, dispnea o sintomi sincopali. Nessuna precedente manifestazione clinica infettiva.
+
+ESAME FISICO
+Afebrile, pressione sanguigna 106/62 mmHg, frequenza cardiaca 60 bpm, saturazione basale di O2 98%, peso riferito 70 kg. Consapevole, orientato e cooperativo. Ben idratato e profumato. Buone condizioni generali. Eupneico a riposo. Pressione venosa giugulare normale. Nessun linfonodo palpabile. Auscultazione cardiaca: ritmica senza mormorii o sfregamenti.
+Auscultazione polmonare: i suoni respiratori erano conservati senza sovraccarichi. Addome: morbido, deprimente e non doloroso. Nessuna massa o megalite palpabile. Peristalsi presente. Arti inferiori: nessun edema. Impulsi distali presenti e simmetrici.
+
+TEST COMPLEMENTARI
+Elettrocardiogramma: bradicardia sinusale a 50 bpm. PR normale. QRS stretto. Onda Q al limite del significato patologico ed elevazione ST 0,5 mm nella faccia inferiore.
+Esami di laboratorio all'ammissione: emoglobina 15 g/dl, piastrine 350. 000 u/mm3, leucociti 11,3 x103/mm3 (neutrofili 33,4%-3790 u/l, linfociti 31,4%-3560 u/l, eosinofili 27,7%-3150 u/l), glucosio basale 81 mg/dl, urea 23 mg/dl, creatinina 0,79 mg/dl, sodio 131 mEq/l, potassio 4,2 mEq/l, troponina convenzionale I 2,7 ng/dl (normale < 0,01).
+Radiografia del torace: indice cardiotoracico normale. Nessuna lesione pleuroparenchimale acuta.
+Ecocardiogramma transtoracico: ventricolo sinistro non dilatato, spessore normale, nessuna alterazione della contrattilità segmentale. Funzione sistolica normale (biplano Simpson LVEF 65%). Aspetto iperecogeno del miocardio della parete inferolaterale rispetto all'endocardio. Ventricolo destro di dimensioni normali con funzione sistolica conservata. Valvola mitrale di aspetto e funzione normali. Valvola aortica trivalva, senza insufficienza o stenosi. Valvola tricuspide di aspetto normale, con insufficienza minima. Valvola polmonare normalmente funzionante. Radice aortica di dimensioni normali, nessuna coartazione. Nessuna effusione pericardica.
+Cardio-MRI: ventricoli di dimensioni e funzioni conservate. Si osservano ipocinesia, edema e un tardivo potenziamento intramiocardico di predominanza subepicardica nella faccia inferolaterale; risultati che possono essere correlati a una miocardite nel contesto clinico appropriato.
+TC delle arterie coronarie: punteggio di calcio totale secondo l'indice Agatson 0. Arterie coronarie senza varianti anatomiche, con pervietà conservata, senza immagini trombotiche o stenotiche.
+
+EVOLUZIONE CLINICA
+Il paziente è stato ricoverato nell'unità coronarica per il monitoraggio e ulteriori test complementari. Come test cardiologico specifico, è stato eseguito un ecocardiogramma transtoracico, che era normale, seguito da una risonanza magnetica cardiaca (CMR), che è risultata compatibile con una miocardite. Dopo 48 ore senza sviluppo di complicazioni aritmiche o insufficienza cardiaca, è stato trasferito nel reparto ospedaliero per ulteriori cure e per completare gli studi. L'analisi all'ammissione mostrava una leucocitosi dovuta a una marcata eosinofilia che persisteva nelle analisi successive, per cui fu richiesta una valutazione da parte della medicina interna, che ampliò la batteria di test con autoimmunità, virus e sierologia infettiva, che risultò positiva per IgM Toxocara spp. Successivamente, fu richiesta una TAC delle arterie coronarie per escludere embolie, anch'essa normale. Il sospetto di una miocardite eosinofila secondaria all'infezione da parassita Toxocara ha portato al trattamento con albendazolo. Il paziente ha avuto una buona evoluzione clinica ed è stato dimesso dall'ospedale dopo 7 giorni asintomatico, con normalizzazione dei marcatori di danno miocardico e diminuzione dell'eosinofilia.
+
+DIAGNOSI
+Miocardite eosinofila nel contesto della toxocariasi.

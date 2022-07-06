@@ -1,0 +1,34 @@
+Anamnesis
+An 81-year-old diabetic patient with a history of pulmonary thromboembolism (PTE) and an active smoker, who began to experience pain and oedema in the left lower limb and went to the emergency department, where an echo-Doppler was performed and a diagnosis of left deep vein thrombosis (DVT) was made, initiating treatment with rivaroxaban.
+A few days later, she returned to the emergency department for dyspnoea of several days' duration, associated with cough without expectoration and without chest pain. A CT angiography was performed in the emergency department for suspected PTE, which was confirmed, showing a filling defect in the lingular artery compatible with PTE. In addition, the angio-CT scan showed left axillary/retropectoral adenopathies of significant size (18 and 20 mm) suspicious of malignancy, prevascular adenomegaly in the aortopulmonary and hilar window with a short axis of less than 10 mm, not significant, as well as a 4 mm micronodule in the medial segment of the middle lobe (LM).
+Due to these findings, he was admitted to Internal Medicine for further investigation.
+During admission, the evolution was favourable, remaining asymptomatic from the respiratory point of view. A battery of complementary tests were performed to identify the lymphadenopathies observed in the CT scan, including a general analysis with tumour markers, with no relevant alterations except for a CEA (carcinoembryonic antigen) of 327 and a PET-CT scan showing a left pulmonary hilar hypermetabolic focus (SUVmax 11, 4) which seems to correspond to the lymphadenopathy in the aortopulmonary window, mentioned in the angio-CT scan, several left axillary hypermetabolic foci (SUVmax 14,11), coinciding with lymphadenopathy of significant size in the angio-CT scan. A small left retroparotid hypermetabolic focus (SUVmax 3.9) could correspond to another subcentimetric lymphadenopathy.
+In view of these PET/CT results, it was decided to consult General Surgery to take a biopsy of the axillary lymphadenopathy.
+The anatomo-pathological results of the axillary biopsy correspond to lymph node metastasis of poorly differentiated carcinoma with comedonecrosis. The immunohistochemical study of the tumour cells showed negativity for CK20, TTF1, PSA, GATA3, S100 and p40, and the origin of the primary tumour could not be established.
+In view of these findings, the patient was referred to Oncology for assessment.
+
+Physical examination
+Patient with a performance status (PS) of 1, with normal cardiorespiratory auscultation, rhythmic tones with no audible murmurs, preserved vesicular murmur with no superimposed noises; abdomen soft, depressible, not painful on palpation, with no masses or megaliths. No supraclavicular or axillary lymph nodes were palpated. On inspection, signs of DVT were observed in the left lower limb.
+
+Complementary tests
+Tumour markers: alpha-fetoprotein, CA 15.3, CA 19.9, CA 72.4, neuronal specific enolase and PSA. All without relevant alterations except for CEA, which showed a clear decrease since diagnosis.
+"CEA: 327.5 (performed on 5/06/2017) >> 132.8 (performed on 7/08/2017) >> 59.7 (performed on 19/02/2018).
+PET-CT performed during follow-up.
+"Initial PET-CT scan, performed in June 2017, already described in the anamnesis.
+"PET-CT scan in November 2017: stable lymphatic metastases, except for cytoreduction in the left axilla. No other foci are identified.
+"PET-CT scan in February 2018: lymphadenopathies suggestive of lymphatic metastases in remission. No new foci are identified that are suspicious of tumour activity.
+Infectious immunodiagnosis
+"Serology performed in August/2017: hepatitis virus negative except IgG and IgM for hepatitis A virus positive.
+"Serology performed in February/2018: negative for hepatitis viruses except IgG and IgM for hepatitis A and E virus positive.
+
+Diagnosis
+Lymph node metastases (left retroparotid, left mediastinal and left axillary) of poorly differentiated carcinoma of unknown origin.
+
+Treatment
+Given these results, the patient was offered the possibility of starting chemotherapy treatment with carbo-paclitaxel, the first line of treatment for tumours of unknown origin, but the patient refused treatment and only wanted follow-up.
+
+Evolution
+During follow-up the patient remains asymptomatic. He refuses to change his lifestyle or diet.
+Complementary tests show a clear spontaneous regression of the tumour. This is seen in the PET-CT images and in the marked decrease in tumour markers.
+A seroconversion of the hepatitis A and E virus was observed as a chance finding, with no clinical repercussions (no febrile syndrome or associated symptoms) or laboratory tests (no increase in acute phase reactants or elevation of transaminases).
+Due to the results of the tests and the patient's clinical condition, it was proposed to continue with follow-up. A visit is scheduled in two months with a control analysis and tumour markers.

@@ -1,0 +1,31 @@
+Motivo de consulta
+Dolor e inflamación codo izquierdo.
+
+Enfoque individual (anamnesis, exploración, pruebas complementarias)
+Varón de 79 años. Antecedentes personales: no alergias medicamentosas.
+Factores de riesgo cardiovascular: Diabetes Mellitus tipo 2, Hipertensión arterial, Dislipemia. Hiperuricemia y gota.
+Cardiopatía isquémica revascularizada en 2 ocasiones en arteria descendente anterior en 2012 y 2017.
+Fibrilación auricular no valvular con cierre de orejuela en febrero de 2019. No anticoagulado por antecedente de hemorragia digestiva alta con clínica de melenas por Dabigatrán, suspendiendo anticoagulación y manteniendo al paciente doblemente antiagregado. Insuficiencia cardíaca con Fracción de eyección preservada.
+Síndrome de Apnea obstructiva del sueño con CPAP nocturna.
+Intervenciones quirúrgicas: Hernia inguinal y umbilical. Cierre orejuela izquierda.
+Vida basal: independiente para las actividades básicas de la vida diaria. Funciones superiores conservadas. Clase funcional III de la NYHA. Vive con su esposa. Tiene 3 hijos. Buen soporte familiar.
+Tratamiento habitual: AAS 100 mg/24 h, Clopidogrel 75 mg/24 h, Bisoprolol 5 mg/24h, Ramipril 5 mg/24h, Alopurinol 100 mg/24h, Furosemida 20 mg/24 h, Metformina/Empaglifozina cada 24 h.
+Enfermedad actual: Paciente que acude a la consulta de urgencias de Atención Primaria por dolor e inflamación en codo izquierdo sin antecedente traumático acompañado de fiebre de 38oC desde hace 48 horas. Hace 2 días acudió al centro de salud al inicio del dolor y se diagnostica como probable ataque de gota tratando con Naproxeno como en otras ocasiones. Progresivamente aparece aumento del edema y enrojecimiento del codo izquierdo, acompañándose de malestar general, fiebre y decaimiento, motivo por el que vuelve a consultar.
+
+Exploración física
+Aceptable estado general. Consciente, orientado y colaborador. Temperatura: 37-5oC. TA: 135/75 FC 80 lpm. Sat O2 98% a/a.
+Hiperemia y edema a nivel de codo izquierdo con fluctuación a nivel de bursa y aumento de la temperatura. Movilidad conservada, aunque limitación a la flexoextensión de codo por el dolor. No equimosis. No crepitación. Buen relleno ungueal. Pulso radial conservado. Buena coloración de piel de antebrazo con edema con fóvea
+
+Juicio Clínico
+Bursitis infecciosa de codo.
+
+Diagnóstico diferencial: trombosis venosa en miembro superior en paciente con FA no anticoagulado. Ataque de gota.
+
+Plan de acción y evolución
+Se administra ceftriaxona 2 g iv y se deriva a Urgencias hospitalarias para valoración con sospecha de bursitis infecciosa, sin poder descartar trombosis venosa en paciente con antecedente de Fibrilación auricular.
+
+En urgencias hospitalarias realizan Analítica: Hemograma normal con plaquetopenia conocida, PCR 100, dímero D 900. Derivan a Consulta rápida de Infecciosas en 48 h e inician tratamiento antibiótico vía oral en domicilio con Cefadroxilo 500 mg/12 h. A la espera de la cita el paciente persiste con malestar y dolor sin realizar nueva consulta médica.
+Al acudir a Consulta de Infecciosas realizan PAAF extrayendo contenido purulento. Se cursa ingreso del paciente para drenaje de absceso y antibioterapia iv.
+Cultivo líquido: Staphilococcus Aureus Meticilin Sensible. Bioquímica líquido articular: células 170 600, Polimorfonucleares 95%.
+
+Durante el ingreso se administra cefazolina iv con buena respuesta clínica. Actualmente el paciente asintomático de alta en domicilio.

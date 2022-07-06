@@ -1,0 +1,34 @@
+Anamneză
+Femeie în vârstă de 53 de ani din Ecuador, fostă fumătoare de 15 țigări/zi timp de 15 ani, cu un IMC de 25 și dislipidemie. Colecistectomie pentru colică biliară. Ea nu ia un tratament regulat (a luat atorvastatină timp de câteva luni, abandonând tratamentul prin propria decizie). Ea are 4 copii sănătoși, fără antecedente familiale de cancer de interes.
+S-a consultat în februarie 2015 din cauza steatoreei și a unei pierderi în greutate de 10 kg într-un an. A fost inițiat un studiu de malabsorbție și o colonoscopie, fără a se constata nimic. O tomografie computerizată a arătat o steatoză hepatică ușoară și o imagine chistică de 1 cm în capul pancreasului. Studiul a fost completat cu colangioresonanță și RMN al pancreasului, cu o masă pancreatică de 3 cm suspectă de tumoră. Pentru a confirma diagnosticul, a fost efectuată o ecografie endoscopică superioară, care a evidențiat o masă de 3 cm prost definită, ale cărei biopsii nu au fost reprezentative. Din cauza suspiciunii de tumoră pancreatică, pacientul a fost supus unei duodenopancreatectomii cefalice programate în decembrie 2015, cu rezecție completă și anatomie patologică de adenocarcinom pancreatic infiltrant de 1,3 cm asociat cu neoplazie papilară intraductală mucinoasă cu displazie de grad înalt, infiltrarea țesutului adipos peripancreatic, margini chirurgicale libere și absența metastazelor în 31 de ganglioni limfatici izolați, stadiul pT3, N0, Mx.
+Studiul de extensie a fost negativ, iar în ianuarie 2016 a început gemcitabina adjuvantă, primind 6 cicluri până în iunie 2016, cu toleranță bună.
+În iulie 2016 a consultat pentru dureri în hipocondrul drept și ascită.
+
+Examinarea fizică
+La sosirea la departamentul de urgență:
+"Semnele vitale stabile cu tendință de tahicardie. Tensiunea arterială 109/82 mm Hg, FC 105 bpm, SpO2 97% în momentul de referință. Afebril. Icterul mucocutanat.
+"ACP: crepitații bibasale fine. MCV.
+"ABD: foarte distins, fără ascită la tensiune. Durere în HCD și epigastru la palpare profundă, Murphy negativ. Nu Blumberg. Pumnul de percuție renală bilaterală este negativ.
+"MMII: edem cu fovea până la rădăcina membrelor, fără semne de TVP, pulsuri prezente.
+
+Teste complementare
+Testele de laborator au evidențiat hiperbilirubinemie, cu bilirubina totală 3,3 mg/dl (în mare parte directă), cu colestază (GGT 220 U/l) și enzime de citoliză normale (GPT 22 U/l, GOT 43 U/l), alături de anemie macrocitară (Hb 8,8 g/dl cu MCV 103 fL) și coagulopatie de debut (activitate protrombină 32% și APTT 55,7 secunde).
+A fost internat pentru investigații suplimentare și a fost stabilit un diagnostic diferențial:
+"Etiologia infecțioasă exclusă: lichid ascitic fără semne de peritonită. Au fost excluse virusul hepatitei A (IgM negativ, IgG pozitiv), hepatita B (HBs Ag negativ, HBcIgG negativ), hepatita C (HCV Ac negativ), hepatita E (IgG, IgM și PCR negativ), virusul Epstein-Barr (IgM negativ), citomegalovirus (IgM pozitiv, PCR < 150 de copii), HIV (combo negativ).
+"Anamneza clinică și absența datelor clinico-analitice care să sugereze o astfel de etiologie au exclus prezența unei etiologii oenologice.
+"Etiologia tumorală a fost exclusă: citologia lichidului ascitic a fost negativă pentru celule maligne. Au fost efectuate tomografii computerizate și RMN fără a se constata recidiva tumorală, prezentând "posibilă toxicitate hepatică pe steatoză severă cu o fracție de grăsime de 43,5%". A fost efectuată o scanare PET, singura constatare fiind "captare hepatică patologică".
+"Etiologia vasculară (Budd-Chiari, tromboză) a fost exclusă din cauza absenței rezultatelor la testele imagistice și hematologice, singura constatare fiind o creștere policlonală a IgG în raport cu ciroza.
+"Etiologia autoimună a fost exclusă: 2 probe negative pentru anticorpii anti-mitocondriali, anti-musculare netede, anti-LKM. Anticorpii antinucleari (ENA, ADN) pozitiv 1/80 în mod granular și nesemnificativ.
+"Cauzele genetice sunt excluse: deficiență de alfa-1-antitripsină datorită nivelurilor normale.
+"Boala Wilson a fost suspectată inițial din cauza ceruloplasminei < 10U/l, care se normalizează în a doua probă și cu cupru normal în urina de 24 de ore (și absența depozitelor de cupru în biopsia hepatică).
+"Alte cauze rare și mai puțin probabile au fost excluse: hemocromatoza (funcție hepatică, feritină și saturație a transferrinei normale înainte de începerea chimioterapiei), boala celiacă, boli granulomatoase, insuficiență cardiacă (ecocardiogramă cu funcție ventriculară normală).
+"Medicamente: după ce au fost excluse alte cauze probabile, au fost analizate medicamentele primite în ultimele 6 luni (ciprofloxacină pentru infecție urinară timp de 10 zile în timpul tratamentului cu gemcitabină, atorvastatină timp de câteva săptămâni, pe care pacienta a întrerupt-o din proprie decizie, gemcitabină).
+
+Diagnostic
+Cu suspiciunea de steatohepatită acută non-alcoolică (NASH), s-a efectuat o biopsie hepatică: necroză hepatică submassivă cu balonarea hepatocitelor, foarte sugestivă pentru NASH de cauză probabil farmacologică. Deoarece, cu excepția gemcitabinei, celelalte medicamente au fost administrate într-o perioadă scurtă de timp, această complicație a fost atribuită gemcitabinei și agenția de medicamente a fost notificată.
+
+Tratament
+În timpul internării, pacientul a primit tratament de susținere, prezentând mai multe episoade de encefalopatie hepatică care au fost tratate conservator, precum și pneumonie nosocomială care a necesitat antibioterapie intravenoasă și oxigenoterapie, cu ameliorare progresivă.
+
+Evoluție
+După 3 luni de spitalizare, pacientul a fost externat în octombrie 2016 cu ameliorare clinică și continuă să fie urmărit în Oncologie Medicală și Medicină Digestivă, fără noi episoade de decompensare și fără date de recidivă tumorală până în prezent.

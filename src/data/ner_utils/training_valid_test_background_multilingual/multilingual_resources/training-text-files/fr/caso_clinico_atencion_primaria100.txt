@@ -1,0 +1,31 @@
+Motif de la consultation
+Tonalgie bilatérale et raideur des jambes.
+
+Approche individuelle (anamnèse, examen, tests complémentaires).
+Anamnèse : AINS contre-indiqués en raison d'un ulcère gastrique. Non-fumeur. Non-buveur. Hernie discale L4-L5.
+QI : appendicectomie, turbines, prothèse du genou gauche en novembre 2012.
+Un homme de 76 ans qui a consulté son médecin de soins primaires en raison de sa mauvaise humeur, de douleurs et de difficultés à fléchir son genou droit depuis des mois. En 2012, il a subi une intervention chirurgicale au genou gauche pour une gonarthrose et a commencé une rééducation avec port de poids sur son genou droit. Un jour, il a rapporté avoir ressenti une gêne générale décrite comme un "coup de fouet sur tout le corps", et c'est à ce moment-là qu'il a commencé à ressentir des contractures aux deux genoux, avec les deux genoux pliés et avec une démarche variée à partir de ce moment-là. Il perd progressivement ses forces, au point que le patient commence à utiliser un fauteuil roulant. La douleur est intense et empêche le repos nocturne.
+Pas de perte sensorielle, pas de perte motrice, pas de trouble du sphincter.
+Selon la famille, la dépression du patient était grave, avec des pleurs spontanés, des idées suicidaires et des aboulies. À ce stade, il a été décidé de consulter les services de santé mentale, car le patient n'avait jamais souffert de troubles de l'humeur auparavant.
+
+Examen physique
+BEG, afébrile. Fonctions supérieures préservées. Langage normal et campimétrie. PINLA. MOEC Nerfs crâniens normaux. Équilibre moteur dans le MMSS préservé et symétrique. ROT rotulien et Achille présents ++/++++. Pas de perte de masse musculaire. Pas de spasticité claire. Le tonus musculaire change avec les manœuvres de distraction. Hyperalgésie de la cuisse droite. Flexion du genou droit de 45o avec grande difficulté d'extension. Flexion de 20o dans le genou gauche.
+
+Tests complémentaires
+Tests de laboratoire normaux.
+Scanner crânien sans altération significative.
+Les études de conduction neurophysiologique montrent des valeurs dans les limites de la normalité. Aucune activité dénervante n'a été constatée dans les muscles examinés (fasciculations isolées dans le mollet).
+Scintigraphie osseuse : augmentation pathologique de l'activité ostéoblastique dans les rotules compatible avec une possible chondropathie. Changements dégénératifs. Écrasement en L1.
+IRM du rachis (le crâne n'a pu être réalisé) : myélopathie cervicale. Signes dégénératifs avec de nombreuses protusions.
+IRM du genou : gonarthrose droite sévère et à un moindre degré compartiment fémoro-tibial interne avec méniscopathie interne sans déchirure méniscale.
+
+Approche familiale et communautaire
+Le patient est le père de deux enfants en bonne santé et vit actuellement avec sa femme. Il est un homme d'affaires à la retraite. Il vit avec un chien.
+
+Jugement clinique (liste de problèmes, diagnostic différentiel)
+Flexion des deux genoux et troubles de la marche d'origine psychogène. Myélopathie cervicale.
+La maladie de Parkinson idiopathique.
+
+Plan d'action et évolution
+Pendant 5 ans, le patient est évalué par la traumatologie, la réadaptation, l'unité de la douleur, la neurochirurgie et la neurologie en raison de l'aggravation de l'état sans parvenir à un diagnostic étiologique. Des injections de toxine botulique, de corticoïdes et d'anesthésiques ont été réalisées, apportant un soulagement momentané mais maintenant une raideur articulaire malgré les traitements prescrits. La traumatologie a décidé d'une réduction sous anesthésie générale mais pendant l'opération la flexion du genou n'a pas cédé (45o) et le genou gauche (opéré) avait une flexion de 30o. L'IRM de la colonne vertébrale a montré une myélopathie cervicale sans symptômes dans le MMSS, suivi par la neurochirurgie, qui après des années a décidé d'intervenir. Le parcours s'est déroulé sans incident.
+Lors d'une des consultations en neurologie, un tremblement bilatéral au repos a été observé chez MMSS avec une légère rigidité associée et un SPECT-FP a été demandé pour exclure la maladie de Parkinson. L'étude était pathologique avec une diminution de la densité des transporteurs de dopamine, indiquant l'existence d'une dégénérescence nigrostriatale.

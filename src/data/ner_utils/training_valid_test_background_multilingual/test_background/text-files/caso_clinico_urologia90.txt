@@ -1,0 +1,21 @@
+Anamnesis
+Varón de 70 años de edad, sometido a una nefrectomía radical derecha en 1997 por un carcinoma renal de células claras grado II de Fuhrman pT2NXMX, sin evidencia de extensión a distancia.
+En seguimiento clínico/radiológico desde ese momento, a los 13 años de la cirugía se detecta en una tomografía computarizada (TC) de control una masa sólida en el polo superior del riñón izquierdo. Se realiza nefrectomía parcial izquierda, con el resultado anatomopatológico de carcinoma renal de células claras grado II de Fuhrman pT3NXMX. No se evidencia enfermedad metastásica, por lo que no recibe tratamiento adyuvante. Tras un año de seguimiento, el paciente refiere molestias cervicales derechas.
+
+Examen físico
+Se palpa, con la deglución, un aumento de tamaño del lóbulo tiroideo derecho respecto al izquierdo.
+
+Pruebas complementarias
+• Se realiza una ecografía tiroidea, en la que se encuentran tres nódulos en el lóbulo derecho tiroideo hipoecogénicos, de aspecto sólido, bien delimitados, de 3 cm de diámetro el mayor de ellos.
+• En los análisis de sangre descubrimos que mantiene una función tiroidea dentro de los límites normales.
+• Ante el hallazgo ecográfico, se realiza una punción-aspiración con aguja fina (PAAF) de las lesiones, confirmándose el diagnóstico de metástasis de carcinoma renal de células claras.
+• En la TC se aprecia aumento nodular del lóbulo tiroideo derecho y no se encuentra evidencia de enfermedad en ninguna otra localización.
+
+Diagnóstico
+Metástasis tiroidea de un carcinoma de células renales.
+
+Tratamiento
+Con la confirmación de enfermedad metastásica, se inicia tratamiento con sunitinib, con respuesta parcial. Tras ello se somete a tiroidectomía total, confirmándose el diagnóstico histopatológico de la PAAF.
+
+Evolución
+Actualmente, tras 6 meses de la cirugía, el paciente se encuentra siguiendo tratamiento complementario con dunitinib y sin evidencia de enfermedad.

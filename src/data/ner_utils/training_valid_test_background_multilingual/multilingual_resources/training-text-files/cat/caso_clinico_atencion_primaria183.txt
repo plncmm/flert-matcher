@@ -1,0 +1,47 @@
+Motiu de consulta
+Episodis sincopales.
+
+Enfocament individual
+Anamnesi:
+Antecedents familiars: no presenta antecedents d'interès
+Antecedents personals: NAMC. No FRCV. Meningitis amb 18 anys. Talasemia minor. IQ: Apendicectomía.
+Home de 51 anys que acudeix a les consultes d'atenció primària per dos episodis de pèrdua de consciència. El primer es presenta precedit de sudoració i marejos sense gir d'objectes. No recorda la seva durada. No pèrdua del control d'esfínters ni moviments anormals però sí un vòmit. No cefalea ni signes de confusió posterior encara que l'esposa refereix enrogiment facial. Acudeix a urgències de l'hospital i és donat d'alta amb el diagnòstic de síncope vasovagal.
+Dos mesos més tard succeeix mateix quadre precedit de malestar general, dolor abdominal i diarrea. En aquesta segona ocasió, és valorat pel seu metge d'atenció primària qui sospitant una probable anafilaxia, envia a consultes d'al·lèrgia per a valoració.
+El pacient només relaciona tots dos quadres amb suc de taronja. Refereix anteriorment tenir edema de llavi i pruïja oral quan menja marisc i edemes si acompanya aquesta ingesta amb exercici.
+
+Exploració: Bon estat general. Conscient i orientat. Normohidratado, normocoloreado i eupneico en repòs. Constitució tipus pícnica. TA: 135/110. Temperatura en consulta: 36,4o. FC: 74 lpm.
+FR: 14rpm. Sat 02: 98%.
+Auscultació cardiorespiratòria: tons rítmics i forts sense soplos ni extratonos. Murmuri vesicular conservat amb bona entrada d'aire bilateral.
+Abdomen: Lesions papulares amb pigmentació marró disseminades predominant en abdomen.
+Dermografisme: negatiu. Hepatomegàlia de 2 travessos de dit. Esplenomegàlia d'1 través de dit dolorosa a la palpació.
+Exploració neurològica dins de la normalitat, no focalidad. Parells cranials conservats. Pupil·les isocóricas i normorreactivas. No pèrdua de força ni de sensibilitat en extremitats. No disciadococinesia. Dismetría en mà dreta.
+
+Proves complementàries:
+EKG: Ritme sinusal a 74 lpm. PR curt. QRS estret. No dades d'alteracions en la repolarització.
+Rx de tòrax normal.
+Tc de crani: sense alteracions.
+
+Proves cutànies:
+- Al·lergògens inhalantes: Positiu a fongs alternaria, aspergillus, epiteli de gat, àcar D. Pteronyssinus, epiteli de gos i pòl·lens de gramínies, olivera i xiprer.
+- Al·lergògens d'origen animal: Positiu a gamba.
+- Al·lergògens d'origen vegetal: negatiu.
+- Hemograma, bioquímica, VSG, PCR, TSH. Proteinograma, anticossos antitiroidals, immunoglobulines sèriques, serologia equinococcus i complement sense alteracions.
+- Triptasa, IgE total normal i específica a làtex, gamba i anisakis negatives.
+- Test d'exposició controlada amb lidocaína sense hipersensibilitat immediata ni tardana.
+- Tc abdominal normal.
+-Aspirat de medul·la òssia (citologia): Hematopoyesis ben presentada. Encara que no hi ha criteris majors de mastocitosis, la taxa de mastòcits és superior a la normal, en la seva majoria d'aspecte patològic.
+-Biòpsia de medul·la òssia: Hiperplàsia de mastòcits. Absència de acúmulos mastocíticos diagnòstics de mastocitosis sistèmiques. Resta de medul·la òssia sense alteracions histològiques.
+- Biòpsia de pell: realitzada la tècnica IHQ de c-kit, aquesta ha resultat positiva en mastòcits, corroborant el seu número augmentat.
+
+Enfocament familiar i comunitari
+El pacient es dedica a l'enginyeria informàtica i viu amb la seva dona i filla en la mateixa residència. No animals. Es tracta d'una família nuclear amb parents pròxims. Apgar familiar amb una puntuació de 10 (família normofuncionante). Segons el model de classificació familiar de l'OMS es col·locaria en l'etapa III o d'extensió completa (naixement de tots els fills sense emancipació).
+
+Judici clínic
+Mastocitosis sistèmica lleu o indolent. Anafilaxia.
+Al·lèrgia al marisc.
+Urticària pigmentosa.
+
+Evolució
+Millora simptomàtica i de lesions cutànies després de tractament sistèmic i tòpic amb cromoglicato disódico però dos anys més tard del diagnòstic s'evidencia en la densitometría òssia de control un alt risc de fractura i alts nivells de triptasa, amb el que, amb tota l'avaluació, va iniciar tractament amb interferó que va mantenir durant 7 anys de manera intermitent fins a l'actualitat que està suspès i la clínica s'ha estabilitzat juntament amb els nivells de triptasa (l'elevació dels quals suposa una actitud agressiva de la mastocitosis).
+El pacient segueix un control estret per part de alergología (cada 4-5 mesos) i pel servei de digestiu a causa de la dispèpsia que li provoca la hipersecreción gàstrica d'aquesta patologia.
+Actualment amb bona evolució i bon estat anímic.

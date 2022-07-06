@@ -1,0 +1,26 @@
+Anamnèse
+Une femme de 47 ans a consulté pour des céphalées holocrâniennes pulsatiles progressives d'une durée de quatre mois et une vision floue.
+Antécédents personnels : hypertension, cholestéatome de l'oreille droite et syndrome anxieux traité par benzodiazépines. Le patient a signalé une douleur "dans toute la tête" qui s'était progressivement aggravée au cours des dernières semaines. Elle se caractérisait par une nette aggravation lors du passage de la position décubitus à la position assise, s'atténuant ensuite spontanément. De temps en temps, il était réveillé la nuit. Depuis 15 jours, il présentait également des acouphènes pulsatiles sans préciser le côté, des épisodes d'obscurcissement visuel transitoire de quelques minutes et des photopsies au lever du lit. Il n'y avait pas de symptômes de maladie systémique, de néoplasmes connus, d'anorexie ou de perte de poids. Pas de troubles cognitifs, de changement de comportement, de blessure à la tête ou de fièvre. Il a gardé un bon contrôle du sphincter.
+
+Examen physique
+L'examen physique général et neurologique n'a révélé aucune focalité. Il n'y avait aucun signe de radiculopathie ou de spasticité. L'examen ophtalmologique a montré un œdème papillaire bilatéral, elle a donc été admise en neurologie pour des examens complémentaires avec une suspicion de thrombose du sinus veineux.
+
+Tests complémentaires
+- Hémogramme complet avec vitesse de sédimentation des érythrocytes et hormones thyroïdiennes : normal.
+- Radiographie pulmonaire et électrocardiogramme effectués à l'admission : normaux.
+- La sérologie pour les virus du groupe herpès, les virus hépatotropes, le virus de l'immunodéficience humaine, la syphilis, Borrelia et Brucella était également normale.
+- La tomographie cérébrale a montré comme seule anomalie une augmentation de la taille de l'ensemble du système ventriculaire, avec une diminution des sillons corticaux.
+- L'imagerie par résonance magnétique cérébrale avec phase veineuse a confirmé les résultats précédents sans montrer d'autre altération, de sorte que la première suspicion diagnostique a été écartée.
+- Il a alors été décidé d'effectuer une ponction lombaire pour poursuivre l'étude, ce qui a présenté, à notre grande surprise, de grandes difficultés, car bien que le liquide céphalo-rachidien (LCR) ait commencé à s'écouler à une pression adéquate (15 cm H2O), après quelques minutes, il a cessé de couler. La matière extraite était d'une densité élevée et coagulait à température ambiante. L'aspect était xanthochromique-gélatineux, et la cytobiochimie urgente a montré une hyperprotéinémie de 539 mg/dl, avec d'autres valeurs normales : glycémie 92 mg/dl (glycémie 154 mg/dl), 0 cellules/μl, ADA 1,4).
+- Au vu de ces résultats, une lésion au niveau du site d'extraction du LCR a été suspectée, et une IRM complète de la colonne vertébrale a été réalisée, qui a montré une masse tumorale extramédullaire intradurale dans la cauda equina, mesurant environ 4 x 1,2 x 2,2 cm. La lésion occupait la totalité du canal rachidien au niveau L3 avec un signal T1 intermédiaire, un signal T2 intermédiaire à hyperintense et un rehaussement intense du gadolinium intraveineux. IRM pondérée en T2 montrant une lésion occupant l'espace au niveau de L3, avec une hyperintensité caudale au niveau de L3 dans la cauda equina. Il ne contenait aucune image suggérant une hémorragie ou de la mucine, et aucun anneau d'hémosidérine.
+
+
+Diagnostic
+Syndrome de Froin et œdème papillaire comme première manifestation d'une tumeur spinale.
+
+Traitement
+Le patient a été traité par dexaméthasone 8 mg toutes les 6 h et mannitol 20% 125 cc/12 h i.v. pendant 48 heures. Une intervention chirurgicale a ensuite été programmée et un contrôle neurophysiologique peropératoire a permis d'observer une masse de haute densité englobant plusieurs racines de la cauda equina. L'excision était subtotale en raison de l'impossibilité de disséquer la tumeur sans endommager les racines nerveuses. L'examen histologique a révélé un diagnostic d'épendymome myxopapillaire.
+
+Evolution
+Actuellement, la patiente a été asymptomatique de ses céphalées avec une résolution complète de l'œdème papillaire, mettant seulement en évidence à l'examen une faiblesse de 4+/5 du membre inférieur droit avec des réflexes myotatiques vifs.
+

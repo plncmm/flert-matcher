@@ -1,0 +1,44 @@
+O fetiță în vârstă de doi ani a fost transferată la Spitalul Virgen de la Salud din Toledo pentru o pneumonie a lobului superior drept (RUP) cu efuziune pleurală asociată pentru drenaj. Transferat într-o ambulanță nemedicalizată cu oxigen în ochelari nazali la 3 bpm. Tratament antibiotic intravenos cu ampicilină la 200 mg/kg/zi timp de 48 de ore, cu adaos de cefotaxime în ultimele 24 de ore. Semnele vitale ale pacientului sunt: ritm cardiac (FC): 160 bpm, tensiune arterială (TA): 100/50 mmHg, SatO2 99% cu ochelari nazali la 3 bpm, temperatură (Ta) 38,6°C, frecvență respiratorie (RF) 40 rpm. La sosire era într-o stare generală bună, paloare intensă a pielii și a membranelor mucoase, gradient termic de 3°C la genunchi și coate, refilare capilară de 5 s. Detresă respiratorie cu tragere sub și intercostală moderată. Auscultație cardiacă ritmică fără sufluri și auscultație pulmonară cu hipoventilație marcată în câmpul pulmonar drept. Abdomenul este moale și depresibil, hepatomegalie de 2 cm de marginea costală, examenul neurologic conștient și orientat, meninge negativ. Pacientul a crescut inițial la 20 ml/kg, perfuzia s-a îmbunătățit și gradientul termic a dispărut, dar tahicardia a persistat.
+
+Având în vedere aceste constatări, ar trebui să bănuim:
+a. Sindromul de răspuns inflamator sistemic (SIRS).
+b. Sepsis.
+c. Sepsis sever.
+d. Șoc septic.
+e. Pneumonie LSD izolată.
+
+În cazul nostru există criterii pentru sepsis cu disfuncție a două sau mai multe organe, dar fără a îndeplini criteriile pentru șoc septic.
+
+Rezultatele controlului analitic sunt gata:
+- Hemoleucograma: hemoglobină 6,9 g/dl, hematocrit 19,2%, trombocite 18.000x106/L, leucocite 15.500x106/L.
+- Biochimie: glucoză 91 mg/dl, uree 105 mg/dl, creatinină (Cr) 1,29 mg/dl, GOT 227 U/L, GPT 55 U/L.
+- Gazele sanguine venoase: pH 7,31, pCO2 45 mmHg, pO2 134 mmHg, HCO3 - 22,7 mmol/L, exces de baze -3,3.
+Coagulare: T. protrombină 83%, INR 1,1, T. cefalină 54,4 s, fibrinogen 954 mg/dl.
+
+A fost transfuzat un concentrat de trombocite la 20 ml/kg și a fost canulată o venă femurală dreaptă. A început cu o detresă respiratorie crescută și epistaxis sever, care a fost dificil de controlat. S-a decis să se anunțe ORL-ul, care a plasat o tamponadă anterioară. În ciuda tamponadei, sângerarea a persistat și a început să devină somnolent, iar nivelul de conștiență a scăzut. Având în vedere nivelul scăzut de conștiență și hemoragia semnificativă, pacientul a fost sedoanalgetizat și căile respiratorii au fost asigurate prin intubație. Ulterior, după stabilizare, s-a verificat prezența efuziunii pleurale prin ecografie, care a evidențiat un efuziune pleurală încapsulată, măsurând 3 cm de la omoplat până la diafragmă. Un tub de drenaj pleural a fost plasat în zona de cea mai mare acumulare; al 5-lea spațiu intercostal și linia axilară posterioară. După intubație, pacientul era hipotensiv, prezentând semne de gradient termic, răceală distală și perfuzie deficitară, astfel că s-a început administrarea dopaminei la 5 μg/kg/min. Analizele de sânge au fost extinse și au arătat LDH crescută, bilirubină crescută, reticulocite crescute și haptoglobină scăzută.
+
+Posibila etiologie a afecțiunii a fost următoarea:
+a. Sindromul hemolitic uremic (SHU) secundar pneumococului.
+b. Șoc septic secundar unei pneumonii complicate.
+c. Anemia hemolitică autoimună (AHAI).
+d. Purpura trombocitopenică-trombotică (TTP).
+e. Glomerulonefrita acută post-infecțioasă (APGN).
+
+Ne-am gândi în primul rând la SHU, deoarece șocul septic este asociat cu coagulopatie, care nu este prezentă în cazul nostru. SHU secundar pneumococului cauzează 40% din SHU non-E. coli. În patogeneza sa, neuraminidaza pneumococică degradează acidul sialic care acoperă Ag T din membranele globulelor roșii, trombocitelor și endoteliului glomerular care este expus. Recunoașterea Ag T de către AutoAc (IgM): provoacă hemoliză, agregare plachetară și leziuni endoteliale: Cooms + direct.
+
+În opinia noastră, probabil că va fi pozitiv:
+a. Cooms direct și Ag pneumococic în lichidul pleural.
+b. Cultură de scaun pentru E. coli.
+c. Activitatea ADAMTS 13 < 5%.
+d. Studiu genetic cu mutația factorului H.
+e. Test rapid pozitiv pentru H1N1.
+
+Diagnosticul etiologic al SHU trebuie să includă studiul:
+- E. coli: test rapid (ELISA) pentru detectarea STx în scaun, cultură de scaun, cultură pe agar sorbitol Mac Conkey, PCR, serologie, hemocultură.
+- Pneumococcus: test rapid pentru detectarea Ag pneumococic în lichidul pleural, test Coombs direct pozitiv, culturi (sânge, spută, LCR...), test Coombs.
+- HIV, H1N1: serologie.
+- FOARTE IMPORTANT ÎN CAZ DE SUSPECȚIE DE SHU, prelevați o probă de plasmă înainte de transfuzii pentru a solicita: activitatea ADAMTS 13 și studiul complementului C3, C4, CH50, FH, FI, FB, în caz de SHU atipic.
+
+Nivelul ureei pacientului nostru a crescut la 114 și al creatininei la 1,33 în ciuda tratamentului diuretic, cu hiperfosfatemie și hiperkaliemie refractară, cu un bilanț de +1.000 ml și diureză de 0,7 cc/kg/h.
+
+Pacienta a fost conectată la HDFVVC timp de 72 de ore, fiind retrasă după ce Cr a scăzut la 0,97 și Ureea la 91, și recuperând o diureză de 3 cc/kg/h cu furosemid. Pneumonia a fost tratată inițial cu cefotaxime și vancomicină. În a 5-a zi de la internare, după ce s-a agravat cu un AFR ridicat, a fost trecut la meropenem și linezolid. Amikacina a fost adăugată 4 zile mai târziu (a 8-a zi de MV). Amikacina a fost menținută timp de 4 zile (până la 48 de ore după extubație), linezolidul timp de 10 zile și meropenemul timp de 13 zile. La suspiciunea de pneumonie septică, s-au administrat trei doze de urokinază. Ca o complicație secundară, în a 4-a zi de MV, atelectasia masivă a plămânului stâng și pneumotoraxul drept au necesitat VAFO timp de 5 zile, iar apoi a continuat cu CMV pentru încă 48 de ore. TA a rămas la valori normale ridicate timp de 48 de ore, fără a necesita tratament antihipertensiv. Tratamentul diuretic a fost retras în a 18-a zi de la internare, cu normalizarea funcției renale. Având în vedere persistența pneumotoraxului, tubul de drenaj a fost menținut până în a 28-a zi de la internare. A fost revăzută în secția de pneumologie cu persistența a 2 bule de pneumotorax în câmpurile anterioare drepte, cu persistența pahipluritei. Funcția renală s-a normalizat.

@@ -1,0 +1,16 @@
+Anamnesis
+Paciente mujer de 33 años, que ingresó en el servicio de Medicina Interna por tos, expectoración muco-purulenta, febrícula y disnea. Estos síntomas tenían una evolución de 7 años, no obstante, se habían agudizado en la última semana. Como antecedente epidemiológico de interés refería contacto con palomas.
+
+Exploración Física
+A la exploración destacaba la presencia de crepitantes secos en ambas bases pulmonares, con una SatO2 del 96% con gafas nasales a 2 lpm, TA 120/78 mmHg, FC 72 lpm y Ta37.2oC. Resto de exploración por aparatos y sistemas anodina.
+
+Pruebas Complementarias
+Hemograma, bioquímica, análisis de autoinmunidad, enzima convertidora de angiotensina dentro de la normalidad.
+Entre las pruebas de imagen se realizó una radiografía de tórax, que mostró un infiltrado intersticial bilateral de predominio en bases pulmonares. En la TAC se apreció bronquiectasias en lóbulo medio derecho y língula, asociado a un patrón retículo-nodular en ambas bases (Figura 2). El Mantoux resultó positivo. Las precipitinas frente a excremento de paloma fueron negativas. Las pruebas de función respiratoria demostraron un patrón restrictivo (CVF 55%, FEV1/CVF 78%) y la broncoscopia con lavado bronquioalveolar no mostró hallazgos patológicos. En lavado broncoalveolar se realizó cultivo para bacterias y micobacterias, siendo positivo para Mycobacterium avium complex (MAC).
+
+Juicio Clínico
+Síndrome de Lady Windermere: Infección crónica respiratoria por MAC afectando predominantemente al lóbulo medio y língula.
+
+Plan de Actuación y Evolución
+Se comenzó tratamiento con Claritromicina, Rifampicina y Etambutol durante 12 meses, de acuerdo con las guías clínicas.
+Al cabo de un año y medio la paciente presentó franca mejoría clínica con negatividad de MAC en esputo. Sin embargo, dada la presencia de bronquiectasias la paciente sigue padeciendo infecciones recurrentes por Pseudomona aeruginosa.

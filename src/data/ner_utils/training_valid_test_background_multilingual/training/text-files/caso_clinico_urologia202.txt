@@ -1,0 +1,24 @@
+Anamnesis
+Varón de 65 años de edad que presenta los siguientes antecedentes: enolismo crónico, sigmoidectomía con colostomía de descarga por hernia inguinal incarcerada izquierda e insuficiencia renal crónica. Bajo nivel socioeconómico, con deficientes condiciones higiénico-sanitarias. Antecedentes nefrourológicos: 6 meses antes del ingreso actual, ingresó por infección urinaria fúngica e insuficiencia renal aguda con ureterohidronefrosis grado III bilateral, HBP y litiasis vesical de gran tamaño, sin poder establecerse la presencia de globo vesical al ingreso. Tras sondaje uretral, no hubo mejoría significativa de la función renal, persistiendo la ectasia del tracto urinario superior, por lo que se decidió la colocación de una nefrostomía bilateral, tras la cual la función renal mejoró hasta niveles basales en torno a 2,5 mg/dl de creatinina. Durante el mismo ingreso se realizó una adenomectomía prostática transvesical y una cistolitectomía. El postoperatorio se caracterizó por infección de herida quirúrgica por Enteroccocus faecalis, que preciso tratamiento antibiótico y dispositivo de vacío (VAC) para su cierre. Tras 2 meses de hospitalización se dio de alta al paciente después del cierre y la retirada de ambas nefrostomías y la retirada de la sonda vesical, con función renal estable en torno a 2,5 mg/dl de creatinina.
+El paciente consulta en el Servicio de Urgencias del hospital por un cuadro de febrícula, astenia, anorexia, hematuria, oliguria y sintomatología del tracto urinario inferior de varios días de evolución.
+
+Exploración física
+A su llegada al Servicio de Urgencias presentaba mal estado general, estaba consciente y orientado, con frialdad cutánea, livideces en los miembros inferiores y sin focalidad neurológica. A la auscultación cardiopulmonar presentaba taquicardia, sin soplos ni roces y con murmullo vesicular conservado. Tensión arterial 108/80 mmHg, frecuencia cardíaca 100 lpm, temperatura 36,5 oC. Abdomen blando, no doloroso, sin signos de irritación peritoneal, sin evidencia de visceromegalias ni masas. Puñopercusión y palpación bimanual renal bilateral negativas.
+
+Pruebas complementarias
+En urgencias se solicitó una radiografía de abdomen, analítica de sangre y orina, urinocultivos y ecografía abdominal:
+• Analítica sanguínea: urea 354 mg/dl, creatinina 8,3 mg/dl, sodio 130 mEq/l, potasio 7,1 mEq/l, 13.500 leucocitos/mm3, 472.000 plaquetas/mm3, hemoglobina 15,2 g/dl. Gasometría venosa: pH 6,9, bicarbonato 7,7 mmol/l, ABE -25 mmol/l.
+• Sedimento urinario: pH 9, leucocituria y hematuria. En el Gram de orina se aprecian bacilos y cocos Gram positivos.
+• Radiografía de abdomen: anodina.
+• Ecografía abdominal: se identifica hidronefrosis bilateral, objetivando una calcificación lineal a lo largo de todo el urotelio de ambas pelvis renales, así como en grupos caliciales dispersos de ambos riñones. El uréter derecho muestra engrosamiento urotelial y calcificación de la pared de características similares a las del resto del urotelio. Vejiga de paredes engrosadas, escasamente replecionada y con sonda en su interior. Estudios ecográficos previos sin dichas calcificaciones.
+Durante el ingreso:
+• Urinocultivo: Staphylococcus capitis subespecies urealitycum y Bacilos Gram positivos tipo Corynebacterium.
+• TC sin contraste: calcificación de forma lineal, con forma poligonal, en ambos senos renales. Hallazgos característicos de pielitis incrustante. Hidronefrosis bilateral.
+
+Diagnóstico
+Pielitis incrustante.
+
+Tratamiento y evolución
+Se realiza una sesión de hemodiálisis urgente dado el deterioro hidroelectrolítico y de la función renal del paciente, precisando posteriormente infusión de drogas vasoactivas por hipotensión mantenida, que se fueron retirando en los días sucesivos, tras la normalización de las constantes hemodinámicas.
+Dados los hallazgos ecográficos iniciales y su discordancia comparativa con las pruebas de imagen del ingreso previo (sin alteraciones), se decidió realizar una TC abdominal sin contraste, la cual dio el diagnóstico de presunción de pieloureteritis incrustante, que posteriormente se confirmó con los hallazgos analíticos (pH urinario 9) y microbiológicos (urinocultivo positivo para Corynebacterium urealyticum).
+Se estableció inicialmente antibioterapia empírica y posteriormente se modificó según el antibiograma (se inició tratamiento con vancomicina). Inicialmente el paciente evolucionó satisfactoriamente, con mejoría en los niveles de función renal, corrección hidroelectrolítica y retirada de fármacos vasoactivos por estabilidad de las constantes hemodinámicas. Posteriormente inició un cuadro brusco de febrícula, distrés respiratorio e inestabilidad hemodinámica, falleciendo a las pocas horas, tras 2 semanas de su ingreso hospitalario.

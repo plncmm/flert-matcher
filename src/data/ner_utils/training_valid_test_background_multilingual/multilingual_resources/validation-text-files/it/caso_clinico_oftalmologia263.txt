@@ -1,0 +1,31 @@
+Anamnesi
+Si tratta di una donna di 37 anni con una storia personale di leucemia mieloide acuta e aplasia del midollo osseo. Era stata recentemente ricoverata per un lungo periodo nell'unità di terapia intensiva (ICU) a causa di una sepsi causata da Serratia.
+
+Motivo della consultazione
+Dopo il risveglio dal coma indotto, ha riportato una diminuzione dell'acuità visiva (VA) bilaterale, più marcata nell'occhio destro (OD).
+
+Esame e test complementari
+Le condizioni generali della paziente non erano buone, era un po' stordita e non ha collaborato molto bene all'esame.
+L'AV nell'OD era 0,1 difficile e nell'occhio sinistro (LA) 0,5-0,6. La pressione oculare era di 15 mmHg in entrambi gli occhi. La biomicroscopia del segmento anteriore non ha mostrato risultati di interesse. Le cellule della camera anteriore erano assenti in entrambi gli occhi.
+L'esame del fondo (FO) dell'OD ha mostrato una vitrite intensa e una lesione maculare biancastra in rilievo con 3 aree papillari, circondata da un alone emorragico. Nella FO dell'OI, c'era una scarsa cellularità vitreale e una lesione maculare con un aspetto simile a quello dell'OD.
+La tomografia a coerenza ottica (OCT) della FO aveva un segnale di scarsa qualità a causa dell'opacità del vitreo. L'OCT dell'OI ha mostrato una lesione sovraelevata con riflettività media nella retina interna e iporeflettività nella retina esterna, che abbiamo interpretato come un fenomeno di "ombra posteriore".
+
+Diagnosi differenziale e procedure
+Dati questi risultati in un paziente con una storia di grave malattia ematologica, sepsi e una lunga permanenza in terapia intensiva, abbiamo considerato la seguente diagnosi differenziale:
+- Potrebbe essere una recidiva di leucemia mieloide acuta con coinvolgimento maculare bilaterale e infiltrazione del vitreo.
+- Oppure potrebbe esserci stata un'emorragia maculare bilaterale e un'emorragia vitreale (un po' emolizzata), associata ad un'aplasia midollare.
+- Infine, abbiamo considerato la possibilità di un'endoftalmite endogena con coinvolgimento maculare bilaterale, forse dovuta alla Serratia, che era l'agente causale della sepsi di cui soffriva, o forse alla Candida, a causa del lungo periodo in cui aveva portato un catetere endovenoso, il tutto associato al suo stato di immunosoppressione dovuto all'aplasia midollare.
+
+A quel tempo, abbiamo ordinato esami del sangue e risonanza magnetica (MRI) con gadolinio del cervello e delle orbite, ed eseguito una vitrectomia pars plana diagnostica (PPV) 23 G dell'OD.
+
+Abbiamo consultato il reparto di ematologia, che ha escluso la possibilità di eseguire una biopsia del midollo osseo a causa delle cattive condizioni generali del paziente. Tuttavia, è stata eseguita una puntura lombare.
+
+RISULTATI
+La coltura del campione vitreo era negativa per batteri e funghi. La patologia, la citologia e l'immunoistochimica erano negative per la malignità. Solo la presenza di globuli rossi poteva essere rilevata.
+I risultati delle analisi del sangue non erano di alcun interesse. È stata rilevata la presenza di pancitopenia, che era già nota. La puntura lombare non ha sostenuto una recidiva di leucemia mieloide acuta. La risonanza magnetica del cervello e delle orbite non ha mostrato risultati significativi.
+
+EVOLUZIONE
+Visti i risultati, abbiamo deciso di mantenere un atteggiamento di attesa e di osservare l'evoluzione, che è stata favorevole. Dopo diverse settimane, siamo stati in grado di apprezzare la risoluzione spontanea bilaterale dell'immagine. Nella scansione OCT dell'OD, è stato osservato un ispessimento della membrana limitante interna staccata nella zona foveale.
+
+GIUDIZIO CLINICO
+Riteniamo che questo sia un caso di emorragia maculare bilaterale associata a emorragia vitreale in un paziente criticamente malato con pancitopenia.

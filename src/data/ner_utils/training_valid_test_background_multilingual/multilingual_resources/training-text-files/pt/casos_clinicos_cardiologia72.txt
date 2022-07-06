@@ -1,0 +1,34 @@
+HISTÓRIA, DOENÇA ACTUAL E EXAME FÍSICO
+Objectivo: a interpretação do ECG e do contexto clínico é fundamental para o diagnóstico e posterior tratamento.
+Uma mulher primigravida de 31 anos, de 33 semanas, foi transferida para o Departamento de Cardiologia do Hospital Central das Astúrias devido a tonturas, palpitações e alterações electrocardiográficas.
+AP: Alergia ao diclofenaco e naproxeno. Ela trabalha num supermercado.
+Factores de risco cardiovascular
+Sem hábitos tóxicos.
+Não há hipertensão, dislipidemia mista (actualmente administrada por endocrinologista, tratada com sinvastatina e fenofibrato, sem seguimento).
+Diabetes gestacional tratada com insulina Lispro 25/75: 12 unidades de manhã, 10 unidades à noite.
+Nenhum historial cardiológico anterior.
+Esteatose hepática. Hérnia de disco.
+Cirurgia de redução dos seios.
+
+Doença actual
+A paciente assistiu ao seu hospital de referência devido a tonturas de 24 horas de duração relacionadas com estar de pé. Os sintomas melhoram com o decúbito. Sem dores no peito ou dispneia. Episódios ocasionais de palpitações. O paciente relatou sintomas catarrais alguns dias antes. O ECG foi realizado e descrito como taquicardia QRS ampla a 180 bpm. Foram realizadas manobras vagais mas ineficazes e foram prescritos 6 e 12 mg de adenosina sem resposta, pelo que foi encaminhado para o nosso centro. Não temos o ECG de base do paciente. À chegada ao nosso centro, o paciente estava assintomático e hemodinamicamente estável.
+
+Exame físico
+BP: 110/75 mmHg.
+HR: 188 bpm.
+O2 Sat: 98% sem oxigenoterapia. Consciente, orientada, cooperativa. Não hidratado e de cor normal.
+AP: murmúrio vesicular preservado, sem outros ruídos sobrepostos.
+AC: sons cardíacos rítmicos com S3/IV mitral com S2 normal.
+Abdómen: grávida de 33 semanas. Cicatriz nos seios.
+MMII: sem edema, sem sinais de TVP.
+
+
+TESTES COMPLEMENTARES
+Hemograma: Hb 12.5g/dl, MCV 82.6 fL, leucócitos12500 uL (fórmula normal), plaquetas 239000 uL. Bioquímica: glucose 125mg/dl, ureia 17 mg/dl, creatinina 0,61 mg/dl, sódio 135 mg/dl, CK 56 U/L, troponina T 33 ng/L. Coagulação: PT 87%, INR 1.09, fibrinogénio 686, D-dímero 1187 ng/ml. Ecocardiografia transtorácica de ECG: estudo realizado a 160 bpm. LV não dilatado, não hipertrófico, hipercontrátil, sem alterações da contractilidade regional. LVEF conservado, sem dilatação das câmaras certas. Insuficiência mitral moderada.
+
+EVOLUÇÃO
+Admissão na Unidade de Cuidados Cardíacos Avançados para monitorização e tratamento. As manobras vagais e adenosina 6 e 12 mg foram repetidas, ambas sem sucesso. Foi prescrito atenolol IV 4mg, sem resposta, pelo que a cardioversão eléctrica (ECV) foi decidida. O caso foi discutido com os departamentos de Ginecologia e Anestesiologia e dois ECV (100 e 200J) foram realizados sob sedação materna com monitorização propofol e fetal, ambos sem sucesso. Não se observou em momento algum sofrimento fetal. O paciente permaneceu sempre assintomático e hemodinamicamente estável. A monitorização mostrou taquicardia QRS persistentemente ampla (mesma morfologia que no ECG de chegada) em frequências semelhantes (170-190 bpm). Dada a persistência da arritmia, foi decidido iniciar o tratamento com uma infusão de beta-bloqueadores (labetalol a 20 ml/h) e uma ampola de 0,5 mg de digoxina intravenosa. A taxa de taquicardia foi inicialmente reduzida para cerca de 150 bpm, com a presença progressivamente mais frequente de batimentos sinusais intercalados com a arritmia, seguida de trigeminy (visualização em gravação de telemetria). Algumas horas mais tarde, o ritmo sinusal foi observado, mas as extra-sístoles ventriculares isoladas persistiram. Às 12 horas após o início da perfusão, após várias horas em ritmo sinusal estável, a perfusão de beta-bloqueador foi interrompida e o ECG do paciente foi como mostra a figura 2. O paciente relatou apenas sintomas de refluxo gastro-esofágico, para o qual foi prescrita ranitindina oral, se necessário. Após mais 8 horas de monitorização com ritmo sinusal persistente, foi transferida para a ala de Cardiologia e o TTE foi repetido.
+A paciente permaneceu hospitalizada por mais 48 horas e depois de constatar que não houve complicações ginecológicas e que permaneceu assintomática com um registo de ECG em ritmo sinusal sem alterações, a alta foi decidida com tratamento profiláctico com metropolol pendente de consulta externa com a secção de Arritmia do nosso centro. O departamento de ginecologia não encontrou quaisquer complicações relacionadas com a gravidez, pelo que foi decidido monitorizá-la como planeado em regime ambulatório.
+
+DIAGNÓSTICO
+Isto deve ser resolvido pelo concorrente através da interpretação do ECG.

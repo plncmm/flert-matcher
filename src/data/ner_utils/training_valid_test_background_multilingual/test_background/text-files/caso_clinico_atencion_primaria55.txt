@@ -1,0 +1,27 @@
+Motivo de consulta
+Ptosis palpebral
+
+Enfoque individual (anamnesis, exploración, pruebas complementarias)
+Niega alergias medicamentosas. No refiere hábitos tóxicos.
+Entre sus antecedentes personales destaca ansiedad. En tratamiento con Loracepam 1 mg un comprimido al día y Deprax 100 mg medio comprimido al día.
+Mujer de 62 años que acude a consulta de su Centro de Salud por ojo seco y sensación de fotofobia. En la exploración no se detecta ningún signo o síntoma de alarma salvo leve ptosis palpebral derecha que la paciente cataloga como propia. Ante estabilidad clínica se recomienda la aplicación de humectantes en consistencia gel para aplicación nocturna y lágrimas artificiales a demanda. Se indica observación domiciliaria y volver a consultar si empeoramiento o aparecieran nuevos síntomas.
+Pasado un mes la paciente vuelve a consultar por progresión de la ptosis del párpado derecho y debilidad para movilizar el ojo ipsilateral. Refiere cefaleas más frecuentes de lo habitual, así como sensación de mareo e inestabilidad en los últimos meses. En la exploración destaca visión doble en la mirada conjugada a la izquierda y hacia arriba, siendo las pupilas reactivas aunque impresionando de menor respuesta la pupila derecha. Pares craneales normales, con fuerza y sensibilidad conservada, Romberg negativo y sin apreciarse alteraciones en la marcha. Glasgow 15/15. Auscultación sin hallazgos relevantes.
+
+Enfoque familiar y comunitario
+A pesar de que acude sola a consulta, mantiene buena estructura social. Ansiosa.
+No se realiza el test de Apgar pero mantiene buena relación familiar. Nivel socio-cultural medio.
+
+Juicio clínico (listado de problemas, diagnóstico diferencial)
+Ante ptosis palpebral se establece diagnóstico diferencial entre causas miogénicas, neurogénicas, mecánicas y pseudoptosis.
+La etiología miogénicas se divide en congénita y adquirida. Dentro de las congénitas, se encuentran la afectación miogénica simple, blefarofimosis o fibrosis congénita de los músculos extraoculares. En cuanto ptosis adquiridas diferenciamos la miastenia gravis, la oftalmopatía externa progresiva crónica, distrofia miotónica de Steiner y distrofia oculofaríngea.
+La etiología neurogénica se puede deber a parálisis congénita del III par craneal, parálisis adquirida del III par, la migraña oftalmopléjica, ptosis de Marcus-Gunn, síndrome de Horner, síndrome de Duane y otras enfermedades neurológicas, como el síndrome de Guillain-Barré.
+La etiología mecánica está en relación con el aumento de peso o volumen palpebral. Dentro de este grupo se engloban los edemas palpebrales, los tumores palpebrales, tumores orbitarios, la dermatocalasia o casos de cicatrización conjuntival.
+La pseudoptosis agrupa situaciones que determinan una posición más baja del párpado superior por patologías asociadas. Las causas más frecuentes son el blefaroespasmo, el espasmo hemifacial, la apraxia de la apertura palpebral, la regeneración aberrante del nervio facial, alteraciones orbitarias (cavidad anoftálmica, microftalmia o pthisis bulbi), parálisis de la mirada inferior, la retracción del párpado contralateral o la pseudoptosis psicogénica.
+
+Plan de acción y evolución
+Debido a la impresión de afectación neurológica se decide derivación a Urgencias de Oftalmología para valoración y descartar patologías que precisen intervención inmediata. Desde este servicio tras evaluar a la paciente se solicita un TAC, resultando una imagen compatible con posible meningioma paraselar derecho con extensión a cono orbitario.
+
+Evolución: con el informe del TAC, Urgencias de Oftalmología contacta con Neurocirugía para ingreso en dicho servicio y completar el estudio. Se reexplora nuevamente a la paciente destacando afectación del VI par derecho y parcial III par derecho con pupilas isocóricas normorreactivas. Los oftalmólogos objetivan paresia en el ojo derecho para la mirada hacia arriba y medial, sin focalidad motora ni sensitiva.
+Se pautó Fortecortin pauta descendente: 4 mg cada 8 horas durante 5 días, 2 mg cada 8 horas durante 15 días y suspender posteriormente.
+Desde Neurocirugía solicitan RMN en la que resulta lesión ligeramente isointensa en secuencias T1 de localización en fosa craneal media paraselar derecha, de 38x37x24 cm, que presenta un intenso realce homogéneo tras la administración de contraste, compatibles con un meningioma como primera posibilidad. No se apreciaron lesiones aneurismáticas, ni estenosis en vasos intracraneales. Informan de múltiples lesiones hiperintensas en sustancia blanca periventricular y profunda, de predominio frontoparietal bilateral, sugestivas de enfermedad de pequeños vasos.
+Actualmente pendiente de valoración anestésica y examen neurooftalmológico.

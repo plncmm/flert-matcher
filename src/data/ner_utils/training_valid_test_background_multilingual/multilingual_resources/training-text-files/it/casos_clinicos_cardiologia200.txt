@@ -1,0 +1,28 @@
+Una donna di 35 anni con una storia di interesse tra cui il fumo attivo di più di 20 sigarette al giorno per gli ultimi 20 anni, herpes zoster nel 2009, mughetto nel 2015 e diagnosi di infezione da virus dell'immunodeficienza umana nel 2006.
+
+Storia attuale
+Presentiamo il caso di una paziente di 35 anni la cui storia comprende il fumo attivo di più di 20 sigarette al giorno negli ultimi 20 anni, l'herpes-zoster nel 2009, il mughetto nel 2015 e la diagnosi di infezione da virus dell'immunodeficienza umana nel 2006. La paziente ha iniziato il trattamento antiretrovirale lo stesso anno con zidovudina + lamivudina + saquinavir/ritonavir, anche se l'aderenza era irregolare e ha interrotto completamente il trattamento nel 2017.
+Ora presenta astenia, una perdita di undici chili negli ultimi mesi e sanguinamento orale.
+
+Esame fisico
+L'esame fisico ha rivelato una marcata magrezza, discrete condizioni generali, tachicardia ritmica e gengivostomatite emorragica compatibile con il mughetto.
+
+Test complementari
+I risultati erano negativi per i virus epatotropi (A, B e C) e la sifilide, e positivi per l'HIV, con una carica virale rilevabile di più di sette milioni di copie e una conta dei linfociti CD4 di 16 (2%).
+Inoltre, un elettrocardiogramma è richiesto e mostrato qui sotto (elettrocardiogramma 1).
+
+Evoluzione
+Il trattamento del mughetto fu iniziato con il fluconazolo, che presto migliorò e si iniziò a studiare la pancitopenia del paziente (che peggiorò progressivamente), così come lo screening delle principali infezioni opportunistiche e le varie cause dei sintomi costituzionali aggiuntivi.
+Da un lato, le infezioni da microrganismi come Mycobacterium tuberculosis, Cytomegalovirus, Pneumocystis jirovecii, Leishmania, Toxoplasma e Cryptococcus sono escluse, e dall'altro, le principali cause tumorali e immunologiche sono escluse, lasciando l'infezione da HIV stessa, la riattivazione del Virus di Epstein-Barr e l'infezione da Parvovirus B19 come cause principali dell'intero quadro.
+In considerazione di ciò e del progressivo peggioramento dei risultati clinici e di laboratorio del paziente (che richiedeva anche trasfusioni di globuli rossi e piastrine), si è deciso di iniziare il trattamento antiretrovirale con darunavir/cobicistat + emtricitabina + alafenamide il 7/10, dopo aver consultato l'unità HIV dell'ospedale.
+Alcuni giorni dopo aver iniziato la terapia antiretrovirale, il paziente ha sperimentato un miglioramento dell'astenia e del malessere generale, così come il recupero dei parametri analitici. Tuttavia, con particolare attenzione all'anamnesi e all'esame fisico, riferisce una predominanza della dispnea (con incapacità di camminare per più di 100 metri in piano in modo asintomatico) rispetto all'astenia e alle "vertigini" che aveva provato all'inizio, e un galoppo di terzo tono all'auscultazione cardiaca. Fu ripetuto un nuovo elettrocardiogramma (elettrocardiogramma 2) e furono richiesti esami del sangue con troponina (normale) e NT-proBNP (2.522 pg/m).
+A causa di questi risultati, il paziente ha consultato gli specialisti del Dipartimento di Cardiologia, che hanno raccomandato un ecocardiogramma transtoracico, che ha rivelato un ventricolo destro dilatato e ipertrofico, con moderata disfunzione sistolica, movimento paradossale del setto e aumento dell'indice di eccentricità del ventricolo destro rispetto al sinistro, così come una lieve effusione pericardica.
+Alla luce di questi risultati, si è deciso di eseguire un cateterismo del cuore destro che ha confermato la diagnosi di ipertensione polmonare precapillare moderata e di consultare l'Unità di Ipertensione Polmonare. Con la diagnosi presuntiva di ipertensione polmonare secondaria all'HIV, il trattamento è stato iniziato con tadalafil alla dose di 20 mg/giorno.
+Con l'inizio di questa terapia e del trattamento antiretrovirale, in meno di 3 settimane la paziente ha sperimentato un sostanziale miglioramento clinico, permettendole inizialmente di deambulare e svolgere le attività quotidiane senza dispnea. Inoltre, c'è stato un miglioramento nei livelli di NT-proBNP e nello studio ecocardiografico, che ha mostrato la normalizzazione delle dimensioni del ventricolo destro, meno movimento paradossale del setto e la normalizzazione dell'indice di eccentricità RV/LV. Un elettrocardiogramma di controllo è anche allegato (elettrocardiogramma 3).
+Una volta completato lo studio dell'ipertensione polmonare, avendo escluso altre cause come l'intossicazione da olio di colza, la malattia del cuore sinistro, la pneumopatia o la malattia tromboembolica, si conferma la diagnosi di ipertensione polmonare associata all'HIV.
+
+Diagnosi
+Pancitopenia secondaria all'infezione con il virus dell'immunodeficienza umana, il virus di Epstein-Barr e il Parvovirus B19.
+Ipertensione polmonare associata all'HIV.
+Prolungamento del QT nel contesto dell'infezione da HIV, dell'ipertensione polmonare e della tossicità dei farmaci.
+

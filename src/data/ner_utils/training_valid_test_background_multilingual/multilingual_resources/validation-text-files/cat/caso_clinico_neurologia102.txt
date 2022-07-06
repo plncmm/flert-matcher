@@ -1,0 +1,30 @@
+Anamnesi
+Home de 63 anys amb diagnòstic previ d'hipertensió arterial i hipertròfia prostàtica benigna, remès a Urgències com a codi ictus. A les 5.30 hores de la matinada és trobat en el sòl amb dificultat per a la mobilització i amb llenguatge repetitiu i incoherent. L'última vegada vist asimptomàtic va ser a les 00.00 h. El pacient es troba disfásico, confús i desorientat, per la qual cosa no és possible l'anamnesi a aquest. La família no aporta més dades d'interès, negant simptomatologia els dies previs.
+
+Examen físic
+Tensió arterial 141/81 mmHg, freqüència cardíaca 75 lpm, saturació d'O2 99% (FiO2 21%), temperatura 35,8 oc. DTX: 100. Conscient, desorientat, confús. Alteració fluctuant del llenguatge amb trets disfásicos mixtos. No trastorns campimétricos, de parells cranials ni alteracions motores ni sensitives.
+
+Proves complementàries
+• Es practiquen d'urgències: analítica sanguínia, radiografia de tòrax i ECG, que són normals.
+• Davant la sospita clínica de ictus en el territori de l'ACM esquerra de temps d'evolució indeterminat es realitzen una TC cranial basal i multimodal amb perfusió i una angio-TC on no s'evidencien alteracions.
+
+Diagnòstic
+Davant el resultat de les proves complementàries es desestima tractament fibrinolítico i el pacient ingressa en la Unitat de Ictus amb orientació diagnòstica de ictus isquèmic de l'ACM esquerra.
+
+En el moment de l'ingrés en la Unitat de Ictus es presencia una crisi generalitzada d'inici parcial que yugula amb diazepam. Es planteja la possibilitat que la situació inicial del pacient correspongués a un període postcrític, romanent fins i tot la causa inicial de la crisi no aclarida, sense descartar la causa vascular. Se sol·licita un electroencefalograma urgent, on s'identifica un patró de descàrregues epileptiformes lateralizadas periòdiques (PLED) Hemodinámicamente el pacient presenta febrícula, i des del punt de vista neurològic continua presentant trastorn del llenguatge, amb millora respecte a l'exploració inicial. Després de 6 hores de l'ingrés es realitza una punció lumbar per a anàlisi del LCR, sol·licitant PCR VHS davant la sospita clínica i recolzada en el EEG d'encefalitis herpètica.
+
+Tractament
+Després de la punció lumbar, la bioquímica d'urgències de la qual és normal, s'inicia tractament empíric amb aciclovir 750 mg/8 h.
+
+Evolució
+La posterior evolució del pacient al llarg dels dies d'ingrés, en espera de la RM i el resultat de la PCR VHS, és favorable, recuperant la normalitat del llenguatge. El pacient refereix dificultat per a l'evocació de records i es queixa que ocasionalment nota olors estranyes, sent l'exploració normal en tot moment. Als dies obtenim el resultat negatiu de l'anàlisi de la PCR VHS i en la RM es mostren troballes compatibles amb encefalitis límbica esquerra. Es completa el tractament amb aciclovir (10 dosi) i s'inicia l'estudi etiològic de l'encefalitis límbica, realitzant-se diagnòstic diferencial amb patologia autoimmune, inflamatòria i paraneoplásica. Es realitza l'estudi d'extensió tumoral, que resulta negatiu, serologies sanguínies i marcadors d'autoimmunitat en sang negatives i es realitza estudi en l'LCR d'anticossos onconeuronales, els quals resulten igualment negatius.
+
+Se sol·licita una nova RM de control, que es realitza als 5 dies de la primera, apreciant-se una imatge pseudonodular a la regió temporal esquerra que presenta restricció a la difusió, sense objectivar-se realços patològics després de contrast. Es planteja la possibilitat de procés tumoral infiltrante de baix grau.
+
+Davant la situació d'estabilitat, el pacient és donat d'alta al seu domicili amb seguiment ambulatori en el Servei de Neurologia i Neurocirurgia, rebent tractament amb levetirazetam 1.000 mg/12 h, amb el diagnòstic d'epilèpsia del lòbul temporal simptomàtica a lesió suggestiva de glioma de baix grau.
+
+Un mes després de l'alta, el pacient ingressa novament per estatus parcial complex amb necessitat d'augment de la dosi de levetirazetam a 1.500 mg/12 h i afegint-se lacosamida 200 mg/12 h. Durant l'ingrés es realitza una nova RM, on s'objectiva un augment relatiu de la lesió respecte a la prèvia, amb una zona captante de contrast infracentimétrica. Des del punt de vista neurològic, el pacient evoluciona cap a la seva situació prèvia. El pacient és donat d'alta, quedant citat per a una nova RM de control en 2 mesos.
+
+En la nova RM de control s'aprecia la lesió prèvia amb àrees de captació en el seu interior que s'acompanyen d'un augment de la perfusió, sent tot això compatible amb progressió tumoral. El pacient és valorat per Neurocirurgia i es realitza una biòpsia estereotáxica de la lesió. L'estudi anatomopatològic va donar com a resultat el diagnòstic de oligodendroglioma grau III.
+
+Després de continuar el pacient referint queixes de memòria i labilitat emocional, amb ocasionals fallades en la nominació a l'exploració, és valorat pels Serveis d'Oncologia Mèdica i Radioteràpica, iniciant-se tractament amb temozolomida i radioteràpia.

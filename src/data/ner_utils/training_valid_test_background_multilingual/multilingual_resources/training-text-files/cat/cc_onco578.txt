@@ -1,0 +1,18 @@
+Anamnesi
+Presentem el cas d'un home de 79 anys, metge jubilat, amb antecedents de HTA, intervingut d'hèrnia inguinal dreta en 2008 i pròtesi de genoll esquerre en 2011. Rep tractament amb amlodipino 5 mg i irbesartan 150 mg.
+És diagnosticat en 2009 arran de PSA de 14 ng/ml, d'un adenocarcinoma de pròstata Gleason 5 + 4, malaltia localitzada. Rep tractament amb radioteràpia local seguit de doble bloqueig androgénico durant 3 anys amb leuprorelina i bicalutamida. Continua revisions fins a juny de 2018, moment en què inicia quadre d'alteració del ritme deposicional, objectivant-se una recidiva locorregional amb infiltració rectal i afectació ganglionar. La biòpsia prostàtica confirma un carcinoma neuroendocrí de cèl·lula petita en el 100%, per la qual cosa s'inicia cisplatí-etopósido del qual rep 4 cicles fins a octubre de 2018. Va presentar neuropatía perifèrica grau 3 que va obligar a suspendre el tractament continuant llavors en revisions. Al gener de 2019, presenta clínica larvada de desorientació temporoespacial, pèrdua de memòria recent, així com episodis paroxismals i autolimitats de tremolor mandibular pel que es decideix ingrés per a estudi.
+
+Exploració física
+Índex de Karnofsky de 70. Desorientació temporal amb una marcada alteració de la memòria immediata que recupera amb pistes. S'objectiven 5 episodis de clonías hemifaciales esquerres de 10 segons de durada, amb sensació d'angoixa i plor no provocat.
+
+Proves complementàries
+Hemograma, bioquímica i coagulació sense alteracions. S'amplia amb àcid fòlic, B12, marcadors tumorals, serologies de varicel·la, hepatitis B, hepatitis C i QuantiFERON que resulten normals. Es realitza TC cranial on s'observa isquèmia de petit got. En la ressonància magnètica (RM) cerebral destaca una hiperseñal en tots dos lòbuls temporals, a nivell corticosubcortical insular dret i amígdala temporal esquerra, compatible amb encefalitis autoimmune. Es realitza vídeo-electroencefalografia (V-EEG) sense objectivar-se activitat epileptiforme. Es completa estudi amb IgA i estudi immunològic tiroidal bàsic sent negatiu. Posteriorment, es determinen Ac antineuronals en sang, amb resultat positiu per a anti-HU.
+
+Diagnòstic
+Per tant, ens trobem davant un pacient amb el diagnòstic d'encefalitis límbica autoimmune per Ac anti-HU, que presenta una recaiguda locorregional i ganglionar per un carcinoma neuroendocrí indiferenciat de pròstata.
+
+Tractament
+Rep tractament anticomicial amb levetiracetam amb millora de les clonías facials. Una vegada coneguda l'etiologia autoimmune, s'inicia tractament inmunosupresor amb bitlles endovenoses de metilprednisolona 1 g/24 hores durant 5 dies.
+
+Evolució
+Resposta favorable inicial al tractament sense objectivar-se nous episodis de clonías facials, encara que persisteixen fallades de memòria. Després de finalitzar corticoterapia, presenta tres crisi tònic-clòniques generalitzades sense recuperació, requerint intubació orotraqueal i ingrés en Unitat de Vigilància intensiva. S'administra levetiracetam, midazolam i diazepam amb bona evolució podent ser extubado. S'inicia llavors nou tractament inmunosupresor amb rituximab associat a ciclofosfamida oral a dosi metronómicas, presentant millora clínica amb desaparició de la labilitat emocional, i sense nous episodis convulsius.

@@ -1,0 +1,27 @@
+Anamnèse
+Un homme de 57 ans a été suivi pendant un an pour une hypoesthésie des mains et des pieds, qui avait commencé l'année précédente. Dyslipidémie et exénolisme sévère jusqu'à il y a 5 ans. Dans l'anamnèse, il a nié toute histoire familiale intéressante. Le patient a consulté pour des brûlures indolentes aux mains, avec une hypoesthésie de répartition dans les doigts 2 et 3 de la main droite et le doigt 5 de la main gauche, avec une aggravation ultérieure rapidement progressive touchant les mains et les membres inférieurs (MMII) jusqu'aux genoux de manière diffuse, suite à une distribution de gants et de chaussettes. Ces symptômes étaient accompagnés d'une maladresse motrice distale dans les mains. Il s'était blessé aux extrémités distales sans s'en rendre compte, et avait même subi des sutures sans anesthésie. Il a nié tout symptôme évocateur de dysautonomie, ainsi que tout symptôme systémique ou constitutionnel.
+
+Examen physique
+Examen systémique normal. Il n'y avait aucune lésion dermique ou muqueuse. Il n'y avait pas de déformations articulaires ni d'épaississement palpable des troncs nerveux. Lors de l'examen neurologique initial, les fonctions mentales supérieures ont été préservées. Le langage était normal. Les nerfs crâniens n'ont pas été altérés. Le bilan musculaire a montré une légère parésie (4/5) du court-circuit abducteur du premier doigt de la main droite et du premier interosseux dorsal de la main gauche, sans atrophie ni fasciculations. L'examen sensoriel a montré une hypoesthésie des membres supérieurs (MMSS), plus marquée au niveau du territoire du nerf médian à la main droite et ulnaire à la main gauche. Les MMII ont été touchés jusqu'aux genoux avec une anesthésie totale distale. Il n'y a pas eu de diminution de la sensibilité vibratoire. Il y avait une anhidrose distale marquée, avec des troubles trophiques tels que la perte de cheveux. La démarche était normale, Romberg négatif. Les réflexes ostéotendineux étaient préservés avec un réflexe cutanéo-plantaire indifférent.
+Un nouvel examen 5 mois plus tard a révélé une distribution plus diffuse de l'hypoesthésie au niveau distal, ainsi qu'une faiblesse plus marquée avec hypotrophie des muscles cubitaux de la main gauche associée à une atrophie du court-circuit abducteur du premier doigt de la main droite. Ces résultats étaient révélateurs d'une multineurite.
+
+Tests complémentaires
+- Analyses sanguines : hémogramme, biochimie et coagulation normaux. HDL et LDL-cholestérol normaux. Fonction thyroïdienne normale et marqueurs tumoraux. Étude auto-immune avec ANA, C-ANCA, P-ANCA et anti-Ro négatifs. Les anticorps anti-gangliosides (IgG anti-GM1 et GQ1b) sont négatifs. Cryoglobulines négatives. Immunoglobulines normales et protéinogramme. Immunoélectrophorèse sans résultats de gammapathie. ACE normal.
+- Sérologie pour VIH, VHB, VHC et Borrellia négative.
+- Scanner thoracico-abdomino-pelvien : normal.
+- Imagerie par résonance magnétique de la colonne cervicale et du crâne : aucun résultat notable.
+- Étude du liquide céphalo-rachidien (LCR) : cytochimie normale, sans dissociation albuminocytologique. La cytologie, la culture bactérienne et la PCR virale étaient négatives.
+- Analyse de l'activité alpha-galactosidase A normale (maladie de Fabry négative).
+- Électroneurographie et électromyogrammes en série (EMG/ENG) :
+- Résultats initiaux compatibles avec une neuropathie sensori-motrice, principalement de caractère démyélinisant sévère bien qu'également axonale. Prédominance dans le MMSS, asymétrique et avec une grande chronodispersion, des latences augmentées et des vitesses de conduction basses, une diminution de l'amplitude des potentiels moteurs (CMPA) et des potentiels sensoriels presque inévitables. Electroneurographie avec potentiel moteur médian avec une grande chronodispersion, une latence accrue et une amplitude réduite.
+- Changement du schéma d'atteinte dans les EMG/ENG successifs : disparition des potentiels sensibles (NR). Diminution sévère des amplitudes de l'APMC, persistance d'une grande chronodispersion des réponses avec des latences distales allongées. Une atteinte parcellaire, puisque certains nerfs comme le nerf radial droit ou le nerf moteur péronier gauche présentaient des valeurs normales, ce qui évoque une multineurite. EMG avec schéma neurogène réduit.
+- Biopsie du sinus : neuropathie évoluée sévère avec perte complète de toutes les fibres, inflammation et présence de bacilles intracellulaires avec coloration de Fite positive compatible avec la lèpre lépromateuse. Biopsie du nerf spural : on observe de nombreux bacilles Fite-positifs.
+
+Diagnostic
+Multineurite infectieuse due à Mycobacterium leprae.
+
+Traitement
+Un traitement spécifique à base de rifampicine, de dapsone et de clofazimine a été mis en place.
+
+Evolution
+Étant donné la suspicion initiale d'une neuropathie à médiation immunitaire, plusieurs traitements par Ig IV et corticostéroïdes oraux ont été essayés, sans amélioration. L'évolution clinique a continué à progresser, développant des lésions ulcératives sur les pieds.

@@ -1,0 +1,44 @@
+Anamnèse
+Un homme de 69 ans ayant des antécédents personnels d'hypertension artérielle et d'insuffisance rénale chronique secondaire à une glomérulopathie à IgA. Il a reçu sa première transplantation rénale en juillet 1996, avec un rejet aigu corticosensible dans le premier mois suivant la transplantation. Le greffon fonctionne actuellement normalement.
+En juillet 2012, elle s'est présentée aux urgences avec de la fièvre, une douleur dans la fosse iliaque (FLI) gauche et une diminution de la force dans le membre inférieur gauche.
+
+Examen physique
+Pression sanguine 128/77 mmHg, température 39.7oC. Abdomen légèrement douloureux à la palpation au niveau du LIF. Membres inférieurs : cuisse gauche augmentée par rapport à la cuisse controlatérale, avec un léger empiètement.
+
+Tests complémentaires
+Tests effectués lors de la première admission :
+- Analyses sanguines : créatinine 1 mg/dl, hémoglobine 11 g/dl. Leucocytes : 6 500 (formule normale).
+- Échographie abdominale : collection périlésionnelle, subcapsulaire, anéchogène, entourant le rein avec une épaisseur maximale de 4 cm. Dilatation calicéenne moyenne : 2,5 cm.
+- Échographie des membres inférieurs : aucun signe de thrombose veineuse profonde.
+- Tomodensitométrie (CT) et URO-CT : image d'un probable infarctus rénal dans le mésorénum avec hématome sous-capsulaire avec dilatation calcifiée dans la zone de l'infarctus/rupture rénale.
+- Scintigraphie rénale : hypocaptation dans le mésorénum avec défaut cortical. Tests effectués lors de la deuxième admission :
+- Analyse du liquide drainé : aspect séreux, légèrement jaunâtre. Glucose 107 mg/dl, créatinine 1 mg/dl, sodium 144 UmEq/l, potassium 4 mEq/l, protéines 0,59 mg/dl, albumine 0,6 g/dl, cholestérol 6 mg/dl, triglycérides 4 mg/dl et amylase 6 UI7l. Culture stérile et étude cytologique : négative pour la malignité.
+- Lymphoscintigraphie des membres inférieurs et de l'abdomen : normale.
+- Immunoélectrophorèse (IEF) dans le sérum : 42,2% Alb ; 9,9% alpha-1 ; 19,2% alpha-
+2 ; 12,2% bêta ; 15,7% gamma ; 1 110 IgG ; 694 IgA ; 271 IgM.
+- Immunofixation sérique : bande monoclonale IgM lambda (non quantifiable).
+- IEF urinaire : normal (Bence-Jones : négatif).
+- Liquide de drainage IEF : pas de bandes monoclonales. Taux d'EPO : 8,43
+(4-20).
+- Bêta-2 microglobuline : 2,7 (0,8-2,2).
+- Biopsie de la moelle osseuse : normale.
+- Étude cytologique de la moelle osseuse : 3 % de plasmocytes sans atypie.
+
+Diagnostic
+L'analyse du fluide drainé nous a permis d'écarter différents facteurs étiologiques tels qu'un hématome, un abcès, un urinome ou un lymphocèle.
+En l'absence d'un facteur étiologique clair à l'origine de la collection périlésionnelle et de sa persistance malgré une tentative de sclérothérapie à la povidone iodée, nous avons passé en revue la littérature scientifique et avons trouvé la description d'un nouveau syndrome sous l'acronyme TEMPI qui comprend les observations cliniques suivantes : télangiectasies, érythrocytose, gammapathie monoclonale, collection périlésionnelle et shunt pulmonaire avec hypoxémie.
+Bien que dans notre cas, le patient ne répondait à aucun des critères, comme la présence d'une érythrocytose ou d'une hypoxémie, la présence d'une collection périlésionnelle avec des saignements à sa surface et d'une paraprotéine monoclonale nous a obligés à effectuer une biopsie de la moelle osseuse, qui a permis d'exclure un myélome multiple ; nous étions donc confrontés à une gammapathie monoclonale de signification incertaine (MGUS).
+Bien que ne remplissant pas tous les critères du syndrome TEMPI, les constatations décrites ci-dessus et la réponse du patient au traitement par rituximab nous ont amenés à penser que la gammapathie monoclonale était la cause étiologique du tableau clinique.
+
+Traitement
+Lors de la première admission, il a été décidé de commencer un traitement ATB avec du méropenem et de la daptomycine et un drainage de la collection par CT.
+Par la suite, il y a eu une récidive de la collection, il a donc été décidé de réaliser une marsupialisation chirurgicale et une sclérose à la povidone iodée, avec mise en place d'un tube de drainage, avec un débit élevé persistant.
+Après avoir trouvé des bandes monoclonales dans le sérum FTI, il a été décidé de commencer un traitement par rituximab (350 mg/dl), avec disparition de la collection et nette amélioration clinique du patient.
+
+Evolution
+En août 2012, une amélioration clinique significative a été constatée après 15 jours de traitement par ATB. Le test d'hypercoagulabilité étant négatif et le virus d'Epstein-Barr négatif, il a été décidé de réaliser un nouveau scanner et un suivi en ambulatoire.
+En septembre 2012, le patient a de nouveau présenté une impotence fonctionnelle du membre inférieur gauche, qui l'empêchait de marcher, avec un érythème local et un mauvais contrôle de la pression artérielle.
+L'examen physique a révélé une tension artérielle de 189/104 mmHg. Afébrile. Abdomen avec un greffon rénal élargi dans l'IFJ, avec palpation d'une masse périlésionnelle.
+Les analyses sanguines ont montré une légère détérioration de la fonction rénale, avec une créatinine de 1,2 mg/dl. Une échographie urgente a été réalisée, qui a montré une récidive de la collection subcapsulaire.
+Il a alors été décidé de pratiquer une chirurgie à visée curative : marsupialisation de la grande collection, probablement sous-capsulaire au péritoine, avec mise en place d'un tube en T. Le rein avait un aspect friable, saignant à la friction, et nécessitait une hémostase intense. L'apparence du fluide drainé était claire et séreuse. Après l'intervention, le débit était supérieur à 1 500 ml pendant une semaine, puis il a été réduit après une semaine à <1 000 ml/jour, avec disparition de l'impuissance fonctionnelle.
+Après la découverte d'une gammapathie monoclonale dans le sérum du patient, le traitement a commencé par la première dose de rituximab, avec une diminution du débit à <200 ml/jour. Avec la deuxième dose de rituximab, une diminution à <50 ml/jour a été observée, et le drain a été retiré et le patient est sorti de l'hôpital.

@@ -1,0 +1,27 @@
+Anamnese
+Mulher de 65 anos, alérgica a derivados de colchicina e diclofenaco. Sem factores de risco cardiovascular ou medicação crónica. A sua única história era de cifoscoliose grave e tinha sido submetida a histerectomia com dupla adexectomia e remoção de um neurofibroma.
+História oncológica: em Julho de 2017, foi-lhe diagnosticado carcinoma de células renais claras do lado esquerdo do estádio IV com envolvimento de pulmão e gânglios linfáticos. Em Agosto do mesmo ano, ela começou o tratamento com solitinibe 50 mg/24 h (horário 4/6) como primeira linha para a doença metastática.
+Um mês após ter iniciado o tratamento, visitou o departamento de emergência durante os últimos quatro dias com hematúria franca. Ela não relatou síndrome de anulamento ou febre. Só associou episódios isolados de vómitos com conteúdo alimentar, sem dor abdominal ou trânsito gastrointestinal alterado.
+
+Exame físico
+Afebril e hemodinamicamente estável. Índice Karnofsky 70 %. Palidez mucocutânea. Não foram observados hematomas ou adenopatias palpáveis. O exame cardiopulmonar e abdominal foi normal.
+
+Testes complementares
+Os testes laboratoriais de admissão mostraram leucócitos 3,400/mcl, hemoglobina 10,9 g/dl, com volume corpuscular médio normal e hemoglobina corpuscular média, plaquetas 31,000/mcl, ureia 43,6 mg/dl, creatinina 0,89 mg/dl e proteína C-reativa 77 mg/l.
+O sistema urinário à admissão mostrou nitritos negativos e no sedimento 25-50 glóbulos vermelhos/campo e 2-5 leucócitos.
+A radiografia do tórax mostrou os nódulos pulmonares conhecidos, sem outras descobertas relevantes.
+
+Diagnóstico
+"Carcinoma renal na fase IV tratado com sunitinib.
+"Trombocitopenia de grau 4 secundária à terapia antiangiogénica".
+"Hematúria secundária à trombocitopenia".
+
+Tratamento
+Dada a hematúria franca, foi colocado um cateter vesical para lavagem contínua da bexiga, foi prescrito ácido tranexâmico 0,5g/8 h e foi transfundido um concentrado de plaquetas, com ligeira melhoria clínica e laboratorial.
+Durante a admissão, foram realizadas hemogramas diários, mostrando uma diminuição progressiva na contagem de plaquetas, razão pela qual foi adicionada corticoterapia de baixa dose (metilprednisolona 20 mg/12 h), sem se conseguir um aumento deste parâmetro analítico.
+Apesar do tratamento prescrito, o paciente continuou a ter hematúria e uma contagem de plaquetas de 6.000/mcl, pelo que foi solicitado um esfregaço periférico; este número foi confirmado e foram descartados esquistocitos ou outras alterações morfológicas.
+De acordo com a hematologia, os corticosteróides foram aumentados para uma dose de 1 mg/kg/dia e a imunoglobulina intravenosa foi prescrita (1 g/kg durante 48 horas). Após este tratamento, a contagem de plaquetas aumentou progressivamente até o doente ter alta com uma contagem de plaquetas de 41,000/mcl.
+Durante toda a estadia hospitalar, seis concentrados de plaquetas tiveram de ser transfundidos. Além disso, as complicações incluíam epistaxe bilateral que exigia a embalagem nasal pelo departamento ORL, e infecção do tracto urinário secundária à cateterização da bexiga. A cultura da urina isolou mais de 100.000 UFC/ml de Enterococcus faecalis e Escherichia coli sensível à nitrofurantoína, pelo que foi efectuado o tratamento com este antibiótico e substituição do cateter da bexiga.
+
+Evolução
+Ao receber alta do hospital, foi decidido retirar definitivamente o Sunitinib e o tratamento foi iniciado com nivolumab 3 mg/kg/ cada 15 dias, como uma segunda linha para a doença metastática. Ela está actualmente em resposta parcial (PR) após 13 ciclos de anti PD-1.

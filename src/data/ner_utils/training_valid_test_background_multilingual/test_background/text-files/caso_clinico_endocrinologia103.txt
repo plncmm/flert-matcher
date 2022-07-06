@@ -1,0 +1,26 @@
+Mujer de 65 años que acude a Urgencias por hipertensión mal controlada a pesar de medicación con losartán/hidroclorotiazida; presentando además, glucemias elevadas en los últimos días que previamente estaban controladas (ha sido diagnosticada recientemente de DM 2, HbA1c 6,6% el mes previo al ingreso), así como sensación de malestar y palpitaciones a nivel cervical, habiéndose realizado por este motivo, en consulta privada, un ecocardiograma que era normal. Como antecedente relevante, la paciente fue estudiada por Medicina Interna en 2015 por un incidentaloma adrenal derecho que el radiólogo define como posible adenoma de unos 2cm; con valores hormonales normales. En TC de control 2 años después definen la lesión con componente quístico, de igual tamaño. Otros antecedentes: síndrome ansioso-depresivo, intervenida de histerectomia y hallux valgus. No fumadora.
+
+Exploración física:
+Talla: 1,63m Peso:80kg IMC: 30. Refiere una pérdida de peso intencionada de 5kg en un mes tras realizar una dieta restrictiva en calorías.
+Afebril. Tensión arterial: 168/78 Frecuencia cardiaca:106 latidos por minuto. Saturación basal de oxígeno: 98%. Glucemia: 290mg/dL.
+Auscultación cardiopulmonar: tonos rítmicos, sin soplos audibles. Murmullo vesicular conservado sin ruidos sobreañadidos.
+Abdomen: blando y depresible, no se palpan masas ni megalias.No doloroso.
+Extremidades inferiores: leve edema bimaleolar. No signos de trombosis venosa profunda.
+En la analítica sanguínea destaca la presencia de leucocitosis 20.300 con PCR negativa, e hipopotasemia de 2,46 mEq/L.
+Se decide ingreso de la paciente a cargo del servicio de Endocrinología y Nutrición.
+
+PERFIL HORMONAL
+Durante el ingreso, analíticamente presenta: cortisol (tanto basal, como con frenaciones con 1mg y 8mg de dexametasona) superior al máximo detectado por laboratorio >75 mcg/dL, ACTH basal 591 pg/ml. Cortisoluria de 24h >11253.5 mcg/24h. TSH y T3 disminuidas (0,29mcgUI/mL, 9,62 pmol/L respectivamente). DHEAs y testosterona normales; androstendiona y 17 hidroxiprogesterona ligeramente elevadas (2,64ng/mL, 5,03ng/mL). FSH normal (no en rango menopáusico), LH frenada (<0,07mUI/mL). Aldosterona, renina y sus cocientes normales. Metanefrina elevada en 2 determinaciones en orina de 24h (1116mcg/24h y 1341mcg/24h) con normetanefrina y metoxitiramina normales.
+
+EVOLUCIÓN CLÍNICA
+La paciente presentó a lo largo del ingreso hipopotasemia, hiperglucemias e hipertensión dificiles de controlar, así como una progresión en los edemas hasta llegar a raiz de miembros, con fovea grado III/IV, pese a la escalada de diuréticos realizada (medicación principal usada como tratamiento, que fue aumentando de dosis hasta control del cuadro clínico: aportes de potasio orales e intravenoso, pauta insulina con basal bolo: glargina U100: 60UI, insulina aspart 11UI-9UI-9UI , losartán 50mg cada 24h, doxazosina 4mg cada 12h furosemida 40mg cada 8h, espironolactona 100mg cada 12h e hidroclorotiazida 50mg cada 24).
+Una vez detectado el hipercortisolismo tan severo que tenía la paciente se comenzó tratamiento con ketoconazol 200mg cada 12h, aumentando hasta 200mg cada 8h en los días posteriores.
+No obstante la paciente presenta una trombopenia de forma creciente y progresiva (50.000 plaquetas en el último control, previamente al ingreso normal), y tras contactar con hematología y haber descartado una pseudotrombopenia y trombopenia inmune secundaria a heparina,se decide suspender ketoconazol (según AEMPS es un efecto adverso escasamente frecuente) y administrar metirapona, comenzando con 250mg cada 8h, y aumentando a 250mg cada 6h.
+Tras comienzo de tratamiento con metirapona se obtiene una muy buena respuesta, disminuyendo hipopotasemia y edemas, así como las necesidades de insulina, antihipertensivos y diuréticos.
+
+Glándula suprarrenal derecha: se visualiza una lesión nodular, de aproximadamente 30mmx38mm x 37mm, que respecto a estudio previo ha aumentado de tamaño (medidas previas de 20mm x 20mm x 22mm) que no cumple criterios de adenoma. Diagnóstico diferencial: feocromocitoma, adenocarcinoma, metástasis.
+- RMN de hipófisis con contraste: sin hallazgos patológicos.
+- TC de tórax sin contraste: se observa un micronódulo periférico de 5mm en pulmón derecho.
+-Gammagrafía con Tektrotyd que capta en pulmón (en micronódulo visto en TC previo), ambas adrenales y páncreas.
+-TC multicorte de páncreas para TNE: pseudonódulo de 1cm en proceso uncinado.
+-PET-TC con FDG: infiltrado de 2-3cm con broncograma alrededor del micronódulo pulmonar con patrón que parece inflamatorio. Aumento de actividad en ambas adrenales.

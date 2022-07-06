@@ -1,0 +1,147 @@
+Trata-se de um paciente de 26 anos de idade que foi encaminhado da Unidade de Saúde Mental (USM) para admissão programada na Unidade de Estadia Média (UME). A sua história psiquiátrica pessoal inclui uma admissão na Unidade de Estadia Curta (SSU) em Setembro de 2016 (com 24 anos de idade) durante 29 dias com julgamento clínico na alta de "Distúrbio psicótico não especificado (F29 do CID-10)" e "Uso nocivo de cannabis em remissão parcial precoce (F12.1 do CID-10)" sendo tratado com Aripripazol 30 mg, Zuclopenthixol 200 mg, Risperidone 6 mg, Biperidene retard 4 mg e Diazepam 10 mg.
+
+Seguimento posterior em USM por psiquiatria, tendo sido tratado com Diazepam (até 15 mg/dia), Biperidene retardado 4 mg e Paliperidone Palmitate em diferentes apresentações. Desde Fevereiro de 2017, tem também sido monitorizado por psicologia clínica e avaliado por uma assistente social.
+
+O seu passado biográfico caracteriza-se por viver actualmente com a sua mãe e avó materna na casa da família. Os pais divorciaram-se em 2008. Além disso, ela tem uma irmã mais velha, nascida em 1988, com quem viveu anteriormente. Ela mostra um bom apoio às redes sociais. Sem parceiro (relação anterior de 7 anos). Estuda até ao 2º Bachillerato (inacabado) e tem um curso de mergulho. Trabalho esporádico como empregado de mesa e jogador remunerado, na medida em que ele relata. Actualmente não tem rendimentos próprios e não está civilmente incapacitado. Uso nocivo de cannabis desde os 18 anos de idade (3-5 articulações por semana) acompanhado de hábito alcoólico moderado, principalmente aos fins-de-semana.
+
+Foi acompanhado pelo seu pai na entrevista inicial de admissão à UEM. O paciente teve uma evolução torpida, sem remissão de sintomas psicóticos ou cessação do seu hábito de canábis. Tem vivido na casa da sua mãe com um funcionamento parcialmente desadaptado em termos de tempo de permanência, embora colabore nas tarefas domésticas e nos cuidados da sua avó. Segundo o parente, apresenta hábitos de sono desorganizados, alimentação, actividades, etc. Comenta também que em muitos dias não toma a sua medicação ou não a toma correctamente em relação ao horário. O paciente não nega tudo isto e argumenta-o com um sentimento de apatia. Não há consciência de doença ("não há nada de errado comigo") e ele pensa que parar o consumo de cannabis não lhe trará qualquer benefício. Mesmo assim, ele aceita a admissão na UEM como positiva. Ele relata espontaneamente a presença de "ideias estranhas" e alterações sensoriais-perceptuais (que não concorda em descrever) sem qualquer tipo de repercussões comportamentais.
+
+No exame psicopatológico realizado durante a entrevista, o paciente aparece consciente e orientado no tempo, espaço e pessoa. Boa aparência e cuidados pessoais em geral. Reage adequadamente à entrevista. Calmo e relaxado, se um pouco contido, o comportamento. Fala pouco em resposta às perguntas feitas. Linguagem sem alterações na forma e estrutura do pensamento. Sem sintomas psicóticos em primeiro plano. Hipotímia, anedonia e abulia parcial; nenhuma impressão de sintomas afectivos importantes. Perturbação do ritmo circadiano. Normorexia. Alucinações olfactivas e cinestésicas. Observa-se um funcionamento adequado na relação pai-filho, embora o paciente se recuse a receber visitas de familiares, excepto da sua irmã.
+
+Os objectivos da admissão proposta pela equipa da unidade com o paciente são:
+
+  Limitar o consumo de THC e estabelecer a relação entre isto e a psicopatologia clínica.
+  Para alcançar a estabilidade clínica.
+  Trabalhar a sensibilização para a doença.
+  Começar o tratamento com Clozapine.
+  Alcançar boa tolerância e aderência ao tratamento.
+
+  PROCESSO DE CUIDADOS DE ENFERMAGEM
+
+A equipa de enfermagem efectua uma avaliação sobre a admissão e os cuidados subsequentes do paciente.
+
+  Fase de avaliação
+
+Isto é levado a cabo de acordo com os padrões funcionais de M. Gordon.
+
+  Padrão 1 - Percepção e manutenção da saúde. Boa aparência e cuidados pessoais em geral. O paciente tem dificuldade em seguir o regime de medicação. Consumo de THC. Padrão alterado.
+  Padrão 2 - Nutricional e metabólico. Dieta variada, geralmente preparada pela sua mãe ou avó no lar onde vive actualmente. Peso adequado para a altura. Horários de refeições desorganizados nas últimas semanas.
+  Padrão 3 - Eliminação. Bom trânsito intestinal.
+  Padrão 4 - Actividade e exercício. Até há pouco tempo, ia três vezes por semana a um ginásio no seu bairro. A maior parte do dia é passado em casa, a ver televisão ou apenas deitado na cama. Padrão alterado.
+  Padrão 5 - Dormir e descansar. Manutenção deficiente dos biorritmos. Desequilíbrio nas horas de descanso com cansaço e sonolência diurna. Padrão alterado.
+  Padrão 6 - Cognitivo e perspicaz. Consciente e orientada no tempo, espaço e pessoa. Reage adequadamente para entrevistar. Calmo e descontraído, embora um pouco contido, o comportamento.
+  Padrão 7 - Auto-percepção e auto-conceito. O paciente tem dúvidas sobre a utilidade da admissão na unidade.
+  Padrão 8 - Papel e relações. Observa-se um funcionamento adequado na relação pai-filho, embora o paciente se recuse a receber visitas de familiares, excepto da sua irmã.
+  Padrão 9 - Sexualidade e reprodução. Teve uma relação de 7 anos com uma rapariga que terminou há dois anos. Ao ser interrogado, ele não relata que isto tenha influenciado o curso da sua doença.
+  Padrão 10 - Cópia e tolerância ao stress. Durante a entrevista, ele está calmo. Ele não concorda muito com a admissão, mas isso não lhe causa desconforto ou ansiedade significativos, de acordo com o que nos diz.
+  Padrão 11 - Valores e crenças. Não há dados de interesse neste padrão.
+
+  Fase de diagnóstico
+
+Após a avaliação, detectámos os seguintes problemas utilizando a terminologia NANDA-II:
+
+  00079 Incumprimento
+  00097 Défice em actividades recreativas
+  00188 Tendência para comportamentos de risco para a saúde
+  00198 Perturbação do padrão de sono
+
+  Fase de planeamento
+
+Os seguintes objectivos e actividades são planeados de acordo com as taxonomias NOC e NIC, respectivamente:
+
+00079 Incumprimento
+
+Objectivos da NOC:
+
+1300 Aceitação do estado de saúde
+
+1601 Comportamento de conformidade
+
+1813 Conhecimento: Regime terapêutico
+
+Intervenções DNI:
+
+2380 Gestão de medicamentos
+
+4480 Facilitar a auto-responsabilidade
+
+5616 Ensino: medicamentos prescritos
+
+Actividades:
+
+  Rever os conhecimentos do paciente sobre cada medicamento.
+  Encorajar o paciente a assumir a maior responsabilidade possível pelo seu próprio autocuidado.
+  Rever com as estratégias dos doentes para gerir o regime de medicação.
+  Observar os efeitos terapêuticos da medicação sobre o paciente.
+
+00097 Défice em actividades recreativas
+
+Objectivos da NOC:
+
+1503 Envolvimento social
+
+1604 Participação em actividades de lazer
+
+Intervenções DNI:
+
+4310 Terapia de actividade
+
+5100 Melhoria da socialização
+
+5360 Terapia de entretenimento
+
+Actividades:
+
+  Ajudar o doente a identificar as suas preferências de actividade.
+  Encorajar o doente a desenvolver relações.
+  Incentivar o envolvimento em interesses inteiramente novos.
+  Ajudar o doente a aumentar a consciência dos pontos fortes e limitações na comunicação com os outros.
+  Para facilitar o entusiasmo do doente e o planeamento de actividades futuras.
+
+00198 Distúrbio do padrão de sono
+
+Objectivos da NOC:
+
+0003 Descanso
+
+0004 Dormir
+
+Intervenções DNI:
+
+2380 Gestão de medicamentos
+
+5880 Técnica de relaxação
+
+Actividades:
+
+  Instruir o paciente sobre métodos que diminuam a ansiedade, conforme o caso.
+  Determinar o impacto do uso de medicamentos no estilo de vida do paciente.
+  Desenvolver estratégias para gerir os efeitos secundários dos medicamentos.
+
+00188 Tendência para comportamentos de risco para a saúde
+
+Objectivos da NOC:
+
+1603 Comportamento na procura de saúde.
+
+1700 Crenças de saúde
+
+1902 Controlo de risco
+
+Intervenções DNI:
+
+5230 Melhorar a coping
+
+5510 Educação sanitária
+
+6610 Identificação do risco
+
+Actividades:
+
+  Identificar os riscos biológicos, ambientais e comportamentais e as suas inter-relações.
+  Identificar estratégias típicas de sobrevivência.
+  Planear o acompanhamento a longo prazo das estratégias e actividades de redução de riscos.
+
+  Fases de implementação e avaliação
+
+Desde o início da sua estadia na Unidade de Estadia Média, comenta a estabilidade da condição clínica apresentada aquando da admissão. Boa atitude em relação ao pessoal de saúde e outros pacientes, bem como bom desenvolvimento das actividades propostas na unidade. A nível psicopatológico, refere-se a uma alucinação olfactiva persistente que descreve como um odor desagradável e forte; apesar disso, não causa angústia ou estranheza, nem interfere com o funcionamento diário. Os biorritmos também são preservados. A nível farmacológico, o tratamento foi iniciado com Clozapina, até uma dose de 75 mg por dia sem efeitos secundários ou achados patológicos notáveis em testes de controlo complementares.

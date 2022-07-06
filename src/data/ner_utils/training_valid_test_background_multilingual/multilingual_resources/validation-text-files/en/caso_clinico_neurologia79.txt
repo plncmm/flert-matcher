@@ -1,0 +1,25 @@
+Anamnesis
+74-year-old male, smoker since his youth, with a history of AHT, LBP and hyperuricaemia, for which he was taking enalapril 10 mg/12 h, manidipine 10 mg/24 h, colchicine 1 comp./24 h, allopurinol 100 mg/24 h and atorvastatin 40 mg/24 h. He had no previous surgeries and had a history of hyperuricaemia. No previous surgeries and excellent baseline condition. He was brought to the emergency department by his daughter, who reported that for 3-4 weeks he had been showing behavioural alterations (irritability, depressed mood, emotional lability, as well as a decrease in his usual activity), hyporexia, impoverished language and lack of spontaneity, repetitive questions about daily actions and "forgetfulness" of his smoking habit. In addition, disorientation in time, predominantly in the evening, and difficulty in recognising family members. Intentional tremor of the right hand had also begun, together with flexion of the elbow and right hand, initially intermittent, later fixed, associated with arrhythmic clonic movements. In addition, gait instability with a tendency to latero- and retropulsion, short steps, frequent blocking and rigidity of the trunk which had progressed until that same morning he became completely blocked while going to the toilet. In the last 48 hours he had presented three episodes of urinary incontinence. The family related the onset of symptoms to the news of a sibling's major illness. No other family member had presented with similar symptoms.
+
+Physical examination
+General examination: blood pressure 154/90 mmHg, heart rate 61 bpm, temperature 37.1 oC. General condition was fair. Eupneic. Normal colour and normal depth. Well hydrated and nourished. No alterations in the general examination.
+Neurological examination: conscious, inattentive in form, intense distractibility, partially cooperative. Behaviourally inadequate: unmotivated laughter. Language sparse and repetitive, coherent content most of the time. Language blocks, moderate dysnomia, repeats adequately, partially obeys simple commands, does not obey complex commands. Personally oriented, disoriented in time and space. Altered anterograde memory and learning ability. Preserved retrograde memory. Palmomental reflex or grasping reflex not present. Cranial nerves: normal except for mandibular myoclonus. Motor: myoclonus triggered by movement and tactile stimulation in MMSS and MMII, predominantly in MSD, arrhythmic. Increased tone in the MSD without clear paresis in the extremities, dubious cogwheel. MID in dystonic position with dorsal flexion and foot infraversion. ROT present, symmetrical ++/++++, bilateral flexor RCP. Sensibility: no gross alterations. Cerebellum: severe truncated ataxia. Gait: increased base of support, inability to ambulate autonomously with a tendency to retropulsion.
+
+Complementary tests
+- Biochemistry, haemogram without relevant alterations except for CRP 15 mg/dl without leukocytosis and ESR 120 mm. Thyroid hormones, vitamin B12, homocysteine and folic acid were normal.
+- Tumour markers: PSA 7.83 ng/ml (free PSA 1.76), Ca19.9, CEA, Ca 125 and enolase normal.
+- CSF: opening pressure 17 cm H2O. Leukocytes and red blood cells 0 cells/mm3, glucose 103 mg/dl, protein 0.31 g/l. Culture sterile, gram and VDRL and cytology negative. Protein 14.3.3: positive.
+- Chest X-ray without alterations.
+- ECG: sinus at 90 bpm.
+- CT scan: small vessel disease and age-dependent involutional changes.
+- Cranial MRI: in diffusion there is cortical restriction of the left hemisphere, predominantly occipital, insular and superior frontal; and right frontal cortical and in the head of the caudate and anterior portion of the left putamen. No correlate in T1 and T2. Chronic ischaemic small vessel disease II. Global atrophy with supratentorial predominance.
+- EEG: diffuse slowing of activity, although modifiable with stimulation, and interspersed, acute waves of triphasic morphology and generalised distribution, without clear periodicity.
+
+Diagnosis
+Sporadic Creutzfeldt-Jakob disease.
+
+Treatment
+Symptomatic for myoclonus with clonazepam.
+
+Evolution
+At 48 hours, the examination was substantially altered, with marked somnolence, responding to call with eye opening, but not responding to simple or complex commands. Very little language, impoverished and repetitive, emitting only monosyllables. No change in the rest. The EEG was then repeated, which showed, in addition to the basic slowing, the appearance of generalised periodic triphasic activity. Over the following 3 weeks, the patient progressively deteriorated, to which was added fever that did not respond to antibiotic treatment, together with deterioration of renal function and various analytical alterations. His family decided to limit the therapeutic effort, given the patient's prognosis, and he died 3 months after the onset of the disease.

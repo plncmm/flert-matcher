@@ -1,0 +1,29 @@
+Anamnesis
+Varón de 33 años, fumador, exbebedor severo, consumidor ocasional de cocaína, con antecedentes de hígado graso, ginecomastia asociada al hígado graso, herpes zóster oftálmico, candidiasis oral y genital en tratamiento con itraconazol. Acudió a consultas externas de Neurología aquejando un cuadro progresivo de 2 semanas de evolución de debilidad proximal en los miembros superiores, parestesias y dolor en los miembros inferiores, disfonía y disfagia para líquidos. No refirió fiebre, ni cefalea, ni pérdida de peso, ni picaduras de insectos, ni inflamación articular, ni alteración de esfínteres.
+
+Examen físico
+Las constantes vitales estaban dentro de los límites de la normalidad, la exploración física general fue normal, exceptuando unas lesiones blanquecinas en la mucosa oral. En la exploración neurológica las funciones superiores estaban conservadas. El habla era disfónica. Campimetría por confrontación normal. Pupilas isocóricas y normorreactivas a la luz. Motilidad ocular extrínseca conservada, sin nistagmo, con dudosa ptosis izquierda. A la exploración el resto de los pares craneales eran normales. Sistema muscular: a nivel del miembro superior derecho presentaba una paresia marcada (3/5) asociada a atrofia del hombro ipsilateral, una mínima debilidad en el bíceps y en la musculatura extensora de los dedos tercero y cuarto (4+/5). A nivel del miembro superior izquierdo destacaba una paresia (4+/5) en el hombro, y una paresia (4/5) para la flexión del pulgar con atrofia evidente de la eminencia tenar de esa mano. En los miembros inferiores se objetivó una paresia (4/5) para psoas y cuádriceps. Los reflejos osteotendinosos tricipitales y en los miembros inferiores estaban abolidos. Reflejo cutáneo-plantar flexor bilateral. Fasciculaciones en el hombro derecho. Hipoestesia a nivel de la cara lateral del muslo izquierdo, brazo derecho y ambos pies. Coordinación y marcha sin alteraciones.
+
+Pruebas complementarias
+• Hemograma y coagulación normales. Bioquímica normal salvo GOT 113 UI/l, GPT 770 UI/l, GGT 97 UI/l. Hormonas tiroideas normales. VSG 67 mm/h. Análisis de orina: leucocituria y nitritos negativos.
+• Anticuerpos anti-nDNA, antimitocondriales, antimúsculo liso, anti-LKM1, ANCA y ANA negativos. Proteinograma y complemento normales.
+• Líquido cefalorraquídeo (LCR): 2 leucocitos, 0 hematíes, proteínas, glucosa y ADA sin alteraciones. Citología, cultivo ordinario de LCR y B-K Lowestein sin alteraciones.
+• Serologías: VIH positivo, citomegalovirus (CMV) IgG (+) IgM (–), virus de Epstein-Barr IgG (+) IgM (–), virus varicela zóster IgG (+) IgM (–), virus herpes simple IgG (+), Brucella (–), Borrelia burgdorferi (–), Mycoplasma pneumoniae IgG (+) IgM (–). Serologías VHC y VHB negativas.
+• PCR para CMV positivo en sangre y en LCR. Enterovirus, VHS 1 y 2, virus varicela zoster, DM negativos. Carga viral VIH en suero 1.840 copias/ml.
+• Inmunidad celular: CD4 92,8/mm3, CD8 284,2/mm3.
+• Resonancia magnética (RM) cerebral y medular completa: sin hallazgos significativos.
+• Electroneurografía: hallazgos compatibles con mononeuropatía múltiple, observándose una neuropatía cubital izquierda motora y sensitiva con datos de bloqueo en el antebrazo. Disminución de amplitudes motoras de más de un 50% de los nervios mediano izquierdo con respecto al derecho y de los nervios tibial posterior y peroneal derechos con respecto a los izquierdos, con indemnidad sensitiva.
+• Electromiografía: datos de denervación activa reciente en todos los músculos explorados (gastrocnemio izquierdo y derecho, tibial anterior derecho y vasto lateral).
+
+Diagnóstico
+Mononeuritis múltiple. Infección por VIH estadio B3.
+
+Tratamiento
+Ganciclovir a dosis de 5 mg/kg/12 horas intravenoso durante 3 semanas. Tras una disminución de la carga viral de CMV se pautó tratamiento de mantenimiento con valganciclovir 900 mg/12 h por vía oral. Se inició tratamiento específico para el VIH con emtricitabina 200 mg/24 h, tenofovir 245 mg/24 h, durunavir 800 mg/24 h y ritonavir 100 mg/24 h.
+
+Evolución
+Tras el inicio del tratamiento antirretroviral, el paciente sufrió un síndrome de reconstitución inmune, así como una neumonía atípica, lo cual motivó su reingreso a los pocos días de ser dado de alta. Por otra parte, durante el estudio del cuadro clínico presentó un deterioro clínico progresivo y rápido en pocos días, experimentando una progresión marcada de la debilidad y de la sensibilidad en las cuatro extremidades.
+
+La evolución tras 6 meses fue de recuperación parcial. A nivel proximal de los miembros inferiores y distal en los superiores, permanecía una paresia de 4/5 e imposibilidad para la flexión o abducción del hombro derecho. El estudio de control neurofisiológico mostró una lesión parcial moderada de los nervios axilar derecho, mediano izquierdo, cubital izquierdo, radial izquierdo, tibial y peroneal derechos, así como normalidad o lesión parcial leve en el resto de los nervios explorados.
+
+A nivel funcional, tras 6 meses de rehabilitación, el paciente seguía precisando ayuda para vestirse la parte superior del cuerpo, era capaz de comer sin ayuda, no presentaba limitaciones en la marcha, ni problemas en la deglución o de esfínteres.

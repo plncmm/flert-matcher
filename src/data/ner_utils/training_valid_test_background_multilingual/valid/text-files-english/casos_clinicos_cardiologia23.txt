@@ -1,0 +1,26 @@
+An 8-year-old male, with no relevant clinical history, presented to the emergency department with fever up to 39.5 or 14 days of evolution, chills, bilateral emergency cervical lymphadenopathy, and skin discomfort.
+She had been treated with 500 mg of methotrexate per day for five days.
+Physical examination revealed a grade II/III systolic murmur at the auscultatory focus corresponding to the left ventricle.
+The electroencephalogram and chest X-ray did not show any pathological findings.
+Laboratory tests showed the presence of inflammatory markers: leukocytes of 10,500 cells/ml, neutrophilia of 70%, and elevated CRP (119 mg/L).
+Cefuroxime IV was started.
+200 mg/kg/day prior serial blood cultures were taken on two consecutive days.
+At 24 hours of non-compliance, both hemocultives were positive.
+Gram stain revealed Gram-positive bacilli pleomorphic in the form of "V".
+The direct identification of the microorganism from positive blood cultures by mass spectrometry MALDI-TOF was C. pseudodiphtheriticum.
+In this context, an echocardiography was performed, which showed the existence of a vegetative formation of 10 mm (FE) on the left ventricular side, causing moderate regurgitation, with no impact on hemodynamics and cardiac function.
+The presence of bicuspid aortic valve disease was also confirmed.
+With the diagnosis of infective endocarditis, gentamicin (6 mg/kg/day) was added to therapy pending the definitive identification of the microorganism and its antimicrobial susceptibility profile.
+After 24 h of inoculation in solid culture media, growth of▁grey colonies in positive blood agar plates catalase was observed.
+Identification by 16S RNA gene sequencing confirmed the isolation of Corynebacterium pseudo­diphtheriticum.
+Antibiogram with epsilol resistance (E-test) showed a narrow sensitivity index (CIM > 256 μg/ml) and sensitivity (CIM) to amoxicillin/ác.
+Treatment with antibiotics was started (16 μg/ml), cefoxime (0.38 μg/ml), ciprofloxacin (0.5 μg/ml), linezolid (38 μg/ml), febrile penicillin (0.25 μg/ml).
+Due to the good evolution, having negativized the hemocultives and without imaging changes, cardiac surgery was not proposed at that time, unless there was any clinical deterioration.
+Sixteen days after admission, the patient again developed fever associated with frontalis, desorienation and poor motor skills, which led to right brachial paresis, right hemi-hospitalization and aphasia.
+The clinical picture was interpreted as a septic cerebral embolism.
+Linezolid was added to the antimicrobial treatment due to possible overinfection by resistant microorganisms in some other source.
+Because of the risk of a new embolism, cardiac surgery was performed on the aortic valve territory (Ros procedure), which was successfully overcome.
+On the third postoperative day the patient developed intracranial hypertension.
+Magnetic resonance imaging of the brain revealed an ischemic infarction due to occlusion at the origin of the left middle cerebral artery.
+Due to its severity, the patient died in the following days.
+The final microbiological results confirmed the isolation of C. pseudodiphtheriticum in the blood cultures.

@@ -1,0 +1,24 @@
+Anamneză
+Un bărbat de 28 de ani, dansator din Israel, cu antecedente personale de infecție cu virusul imunodeficienței umane (HIV) în 2008, fără tratament actual, consumator ocazional de cocaină și alcool. A fost internat la Medicină Internă pentru un tablou clinic de parestezii la nivelul hemicorpului drept împreună cu alterarea vederii după consumul anterior de 1 g de cocaină. O tomografie computerizată (CT) craniană și o imagistică prin rezonanță magnetică (IRM) a creierului au arătat o leziune ischemică acută în teritoriul posterior (talamusul stâng). Studiul a fost completat cu o angiografie cerebrală prin RMN, care nu a evidențiat niciun rezultat. Încărcătura virală era de 200.000 de copii și CD 4 647 de celule. A fost externat cu cvadrantanopsie în partea superioară dreaptă ca sechelă și tratament cu statine. Două săptămâni mai târziu a venit la serviciul de urgență pentru un nou episod de semihipoestezie facială și hemicorporală dreaptă.
+
+Examinarea fizică
+La sosirea la Urgențe, tensiunea arterială 120/80mmHg, frecvența cardiacă 80 bpm, afebril. Examenul general prin aparat a fost normal. Examenul neurologic a evidențiat prezența cvadrantanopsiei superioare drepte (sechele), hipoestezie algebrică hemifacială dreaptă în ramurile a doua și a treia trigeminală și în hemicorpul drept și dismetrie la testul degetului-naz la nivelul membrului superior drept. Restul examinării a fost normal.
+
+Teste complementare
+- Hemogramă: normală, cu o formulă leucocitară adecvată, rata de sedimentare a eritrocitelor 46 mm/h.
+- Biochimie: lactat dehidrogenază 722 UI/l (230-460), transferină scăzută, hormoni tiroidieni alterați (TSH 5,36 μIUI (0,5-4,7), T3l 2,73 pg/ml (2,77-5,27). Proteinogramă: vârf monoclonal slab în zona gamma.
+- Studiul de coagulare și trombofilie: creșterea minimă a fibrinogenului și deficitul de proteină S liberă, restul fiind normal (inclusiv proteina C, anticoagulant lupic, factorul V al lui Leyden și antitrombina).
+- Autoimunitate: anticorpi anticardiolipină IgG slab pozitivi (22,6 UGPL/ml), IgM ANCA negativ, factor reumatoid, imunocomplecși circulanți, ANA, anti-DNA, glicoproteină anti-B2 negativ. 
+- Serologie: EBV IgG pozitiv, hepatita A IgG pozitiv; Treponema, toxoplasma, citomegalovirus, hepatita B și C negativ. Încărcare virală HIV-1: 177.930 de copii; CD 4 432 celule/μl, fără rezistență genotipică la antiretrovirale.
+- Electrocardiogramă și monitorizare la 48 de ore: ritm sinusal, bloc de ramură dreaptă cunoscut.
+- Radiografia toracică și ecocardiograma transtoracică normale.
+- Tomografia computerizată craniană a evidențiat leziuni neregulate hipodense în regiunea occipitală parasagitală stângă și în substanța albă a lobului temporal stâng, compatibile cu leziuni ischemice subacute-cronice.
+- Noul RMN cerebral arată apariția unei noi leziuni focale în talamusul stâng hiperintense în TR lung și restricție de difuzie marcată, sugerând ischemie acută-subacută. RMN cerebral, secvență îmbunătățită prin difuzie: leziune ischemică acută în talamusul stâng.
+- A fost repetată angiografia intracraniană prin RMN, care nu a evidențiat vizualizarea APC stâng de la originea sa, cea dreaptă fiind patentă. Angio-RMN: nu se poate vizualiza APC stânga de la origine. PCA-ul drept era patent.
+- Puncție lombară: glucoză 49 mg/dl, proteine 66 mg/dl, 40 de leucocite/mm3 (80% mononucleare) și 90 de hematii/mm3. Cultură: negativă pentru bacterii și micobacterii, negativă pentru reacția de polimerizare în lanț a enterovirusului și herpes simplex 1 și 2; VDRL negativ; citologie: probă acelulară.
+
+Diagnostic
+Ischemie cerebrală recurentă, probabil legată de vasculopatia asociată cu HIV. Hipergamaglobulinemie, deficit de proteină S, anticorpi anticardiolipină IgG slab pozitivi.
+
+Tratament și evoluție
+A fost inițiată terapia antiretrovirală cu darunavir, ritonavir și tenofovir plus emtricitabină și antiagregant cu acid acetilsalicilic 100 mg, după care nu au mai apărut noi episoade, persistând o ușoară ataxie a membrului superior drept.

@@ -1,0 +1,18 @@
+Nous présentons le cas d'une femme de 37 ans, avec pour seule histoire clinique un syndrome anxio-dépressif traité par lorazépam et fluoxétine, qui a consulté aux urgences une semaine après avoir souffert d'un processus amygdalien manifesté par une odynophagie et traité par antibiothérapie par son médecin traitant, avec une sensation d'engourdissement de l'hémicorps gauche, une diplopie et une instabilité de la démarche. Au vu de ces symptômes, un scanner crânien a été réalisé, qui s'est avéré normal, et le patient a pu sortir de l'hôpital. Cependant, à la maison, on a constaté une aggravation progressive des symptômes, avec une sensation d'engourdissement généralisé, une incapacité à se déplacer et une diplopie, raison pour laquelle elle a été admise dans le service hospitalier. Après 24 heures d'admission, son état a continué à s'aggraver, avec l'apparition d'une somnolence intense, d'une désorientation, d'une ophtalmoparésie bilatérale (avec ptosis et limitation de tous les mouvements oculaires) et d'une tétraparésie crurale prédominante, avec Babinski bilatéral ; dans cette situation, la patiente a été transférée à l'unité de soins intensifs, nécessitant une intubation orotrachéale.
+
+Tests complémentaires
+- Hémogramme et biochimie sans altération significative. Anti-NMDA et anti-récepteur d'acétylcholine négatifs. Anticorps antiganglioside négatifs (y compris antiGQ1B).
+- LCR : biochimie normale. PCR de l'entérovirus, de l'herpès virus et de la varicelle zoster négative. Cultures bactériennes et fongiques négatives. BAAR négatif.
+- Scanner crânien : normal.
+- IRM crânienne : normale.
+- IRM crânienne de contrôle (réalisée 2 semaines après l'admission) : aucune altération significative du tronc ou du cervelet. De faibles images focales symétriques de signal accru en Flair peuvent être observées au niveau des deux capsules internes, sans restriction de diffusion, ainsi que d'autres images sous-corticales au niveau pariéto-occipital de caractéristiques similaires, de nature non spécifique.
+- IRM de la colonne cervicale : discrètes protrusions discales postérieures au niveau de C5-C6 et C6-C7.
+- Étude électrophysiologique : normale.
+- Étude électrophysiologique de contrôle : conduction sensorielle, motrice et de la réponse F des deux MMII normale.
+F des deux MMII normaux. EEG : activité bioélectrique ralentie de tension moyenne sans autres anomalies superposées. EMG à fibre unique : étude normale. PEV : étude normale. Calcul de la VA de l'OI:1.
+
+Evolution
+La patiente a été admise aux soins intensifs pendant 2 semaines, où elle a évolué favorablement par rapport au tableau clinique décrit ci-dessus. Lorsqu'elle est retournée dans le service de l'hôpital conventionnel, elle était consciente et alerte, avec une ophtalmoparésie complète et un ptosis gauche, une limitation du regard horizontal et vertical bilatéral de l'œil gauche, sans nystagmus. En outre, tétraparésie d'intensité 4/5 dans les membres supérieurs et 3/5 dans les membres inférieurs, ROT un peu vivant dans les membres supérieurs, patellaire faible et Achille conservé, Babinski droit et réflexe cutané plantaire gauche indifférent. Les jours suivants, il a continué à évoluer favorablement, et la trachéotomie a été fermée sans incident, avec une récupération progressive du déficit moteur, redevenant capable de se déplacer, et avec une lente amélioration de l'ophtalmoplégie, mais avec une ptose palpébrale gauche persistante et une limitation du regard vertical supérieur de l'œil gauche.
+
+Diagnostic
+L'encéphalite de Bickerstaff.

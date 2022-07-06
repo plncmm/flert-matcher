@@ -1,0 +1,32 @@
+Anamnesis
+Mujer de 34 años de edad, sin alergias medicamentosas conocidas. Con respecto a sus antecedentes ginecológicos, la menarquia fue a los 13 años. No había presentado ningún embarazo. Menstruaciones irregulares, abundantes y dolorosas en ciclos de 21-28 días, motivo por el que había recibido tratamiento durante aproximadamente ocho años con etinil-estradiol y desogestrel. No tiene hábitos tóxicos.
+Entre sus antecedentes familiares cabía mencionar que su madre había sido diagnosticada de un linfoma no Hodgkin folicular IIA y un carcinoma de mama, una tía materna fue diagnosticada de carcinoma de mama a los 55 años y su abuela materna había tenido un posible carcinoma de mama. Su padre había sido diagnosticado de un plasmocitoma ganglionar en la quinta década y de un carcinoma de próstata a los 60 años de edad. Su hermana y sus dos hermanos, así como su madre y tía materna, presentaban patología tiroidea benigna.
+Fue diagnosticada en su centro de referencia mediante una biopsia de mama de un carcinoma ductal infiltrante bien diferenciado en la mama derecha y acudió a nuestro centro para valoración de tratamiento. El 16 de octubre de 2009 se le realizó una mastectomía simple derecha con técnica de ganglio centinela. El estudio anatomopatológico evidenció un carcinoma ductal infiltrante bien diferenciado G1, carcinoma tubular, con extenso componente de carcinoma intraductal de tipo 1 en cuadrantes inferiores, multicéntrico, (pT2 pN0sn), siendo la lesión de mayor tamaño de 2,6 cm de diámetro máximo localizada a menos de 1 mm del margen de resección inferior profundo.
+Ausencia de invasión vascular y linfática. En la misma mama se detectaron además otras seis lesiones nodulares, dos de ellas malignas, correspondiendo el resto a adenosis esclerosante, fibroadenomas, calcificaciones, quistes simples, y un lipoma intramamario.
+El tumor expresaba receptores de estrógeno (95%), receptores de progesterona (100%), Herceptest negativo, P53 negativo, Ki-67 1%.
+Nos fue remitida desde el Área de Patología Mamaria para valoración de tratamiento complementario.
+
+Exploración física
+ECOG 0. Pupilas isocóricas y normorreactivas.
+Pápulas múltiples en adoquinado en la región facial.
+Pápulas fibrosas en mucosa oral. No se palpan adenopatías laterocervicales, supraclaviculares ni axilares. No presenta ingurgitación yugular. Bocio multifocal a expensas de ambos lóbulos, de consistencia elástica. Auscultación cardíaca: ruidos cardíacos rítmicos, sin soplos. Auscultación pulmonar: murmullo vesicular fisiológico. Pared torácica derecha con cicatriz de mastectomía. Mama izquierda sin datos patológicos destacables. Abdomen blando, depresible, no doloroso a la palpación. No presenta masas ni megalias.
+Puño-percusión renal y espinopalpación vertebral negativas. Extremidades inferiores: sin edemas. Pápulas fibrosas con depresión central en piernas.
+
+Pruebas complementarias
+• Analítica general: hemograma, creatinina y pruebas de función hepática dentro de la normalidad.
+Marcadores tumorales dentro de la normalidad: CEA 3,2 ng/mL, CA-15.3 19,4 U/mL. T3 libre 4,78 pmol/L; TSH 0,82 mU/mL; T4 libre 16,40 pmol/L.
+• Estudio BRCA1 y BRCA2: variantes sin clasificar en la secuencia del gen BRCA2: en la región no codificante del intrón 9 se produce la deleción de una T en la posición +65 (IVS9+65delT)*, en la región codificante del exón 11 en la posición 4.035 se produce un cambio de timina por citosina en el codón 1269, sin alteración de aminoácico: valina (4035T>C)*. Variantes sin clasificar en el gen BRCA1: en la región codificante del exón 11, en la posición 1186, se produce un cambio de adenina por guanina en el codón 356 (Q356R) (según nomenclatura del National Human Genome Reseach Institute (Breast cancer information core). http://www.research.nhgri.nih.gov).
+
+Diagnóstico
+Carcinoma tubular de mama derecha (pT2 pN0sn), hormonodependiente, Her-2-neu negativo, tratado con mastectomía simple y técnica de ganglio centinela.
+
+Tratamiento
+Recibió tratamiento de radioterapia externa complementaria, siendo un carcinoma de mama multicéntrico con un margen a menos de 1 mm y un extenso componente de carcinoma ductal in situ superior al 50% en una paciente por debajo de 35 años. Tras la finalización de la radioterapia, inició tratamiento hormonal (análogos LH-RH y tamoxifeno). Recibió además ácido zoledrónico adyuvante en intervalos de seis meses durante dos años.
+No recibió tratamiento de quimioterapia complementaria dado los factores de buen pronóstico presentes en el tumor (tamaño tumoral, Ki-67 1%, hormonodependiente, Her-2-neu negativo, variante tubular).
+
+Evolución
+Tras el inicio del tratamiento hormonal inició programa de revisiones periódicas.
+En noviembre de 2010, estando bajo tratamiento con tamoxifeno, presentó un episodio de metrorragia diaria escasa de un mes de evolución. Previamente, en octubre de 2009, se la había extirpado vía histeroscopia un pólipo endometrial (hiperplasia endometrial compleja sin atipia). Se realizó una histeroscopia y se le extirpó un pólipo siendo compatible con una hiperplasia endometrial sin atipia. Se sustituyó tamoxifeno por anastrozol, y siguió controles por parte de Ginecología. Antes de la histeroscopia, se le realizó una TC toracoabdominal en la que, además del engrosamiento endometrial, se evidenció un bocio parcialmente endotorácico bilateral a expensas del lóbulo izquierdo y un engrosamiento inespecífico en la transición entre colon descendente y sigma, con pequeños ganglios en raíz de mesenterio.
+Se decidió realizar una colonoscopia en la que se observaron pólipos colónicos cuya anatomía patológica fue de ganglioneuromatosis difusa intestinal. Ante este diagnóstico, el antecedente de cáncer de mama, la presencia de patología tiroidea benigna, y los antecedentes familiares, se decidió solicitar estudio de genes RET y PTEN.
+El estudio de PTEN fue negativo, presentando alteraciones inespecíficas en RET. Fue diagnosticada de un Síndrome de Cowden clínico al presentar un criterio mayor (cáncer de mama) y tres menores (fibromas, lesiones tiroideas benignas y hamartomas intestinales).
+En la actualidad, en marzo de 2012, por el deseo de la paciente de reconstruir la mama operada, y ante el riesgo de padecer un segundo tumor en la mama contralateral sana, unido al difícil seguimiento de la misma dado el tamaño y características de la misma, se ha realizado una mastectomía contralateral y reconstrucción bilateral con colgajo DIEP. La paciente se mantiene en revisiones, sin evidencia de enfermedad.

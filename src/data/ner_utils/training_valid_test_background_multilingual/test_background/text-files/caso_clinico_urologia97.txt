@@ -1,0 +1,30 @@
+Anamnesis
+Paciente varón de 68 años de edad, con antecedentes personales de infarto agudo de miocardio, by-pass aorto-coronario y accidente cerebrovasuclar con una hemiparesia izquierda residual. Acude al Servicio de Urgencias por un cuadro diarreico de 5 días de evolución. No ha presentado fiebre ni náuseas o vómitos. Desde el punto de vista urológico, el paciente refiere urgencia miccional y nicturia de meses de evolución.
+
+Examen físico
+A su llegada a Urgencias, el paciente se encuentra afebril, con buen estado general y constantes dentro de los límites normales, con ligera tendencia a la hipotensión arterial. La auscultación cardiopulmonar no muestra hallazgos patológicos. Abdomen blando, depresible, no doloroso a la palpación; sin masas ni megalias; puñopercusión renal bilateral negativa. Genitales externos normales. En el tacto rectal se palpa una masa a unos 6-7 cm del margen anal, de consistencia pétrea y bordes irregulares, que comprime de forma extrínseca al recto.
+
+Pruebas complementarias
+A la llegada a Urgencias se le solicita:
+• Hemograma: hemoglobina 11,9 g/dl, hematocrito 36%, sin leucocitosis ni neutrofilia.
+• Bioquímica: creatinina 5,2 mg/dl, urea 102 mg/dl, osmolaridad 306 Osm/kg, iones con parámetros normales.
+• Antígeno prostático específico (PSA) en la analítica de control en su centro de salud de 2 meses previos al ingreso: 1,05 ng/ml.
+• Ecografía de abdomen: destaca una ureterohidronefrosis bilateral y un engrosamiento difuso de la pared vesical. Próstata de 24,3 cc de volumen.
+Tras sondaje vesical y una adecuada hidratación endovenosa, la función renal mejora paulatinamente, sin llegar a valores normales. En planta de hospitalización se amplia el estudio, solicitando:
+• Tomografía computarizada (TC) de abdomen-pelvis sin contraste en la que destaca una hidronefrosis grado II bilateral con dilatación ureteral y cambio de calibre próximo a la desembocadura en la vejiga, sin poder filiar la causa. Vejiga con engrosamiento mural generalizado inespecífico.
+• Resonancia magnética (RM): lesión rectal aproximadamente a 7 cm del margen anal, submucosa, de señal intermedia la secuencia T1 e hiperintensa en la secuencia T2, que puede estar en relación con un proceso inflamatorio, que no infiltra la muscular. Engrosamiento difuso de la pared vesical, sin masas definidas. Dilatación de ambos uréteres hasta su entrada en el tercio distal, donde diminuyen de calibre sin identificarse masas.
+• Dados los hallazgos en esta última prueba, se decide realizar una rectoscopia y una cistoscopia. En la primera se observa una ampolla rectal reducida de tamaño, sin lesiones mucosas y una biopsia de mucosa rectal, sin hallazgos patológicos. En la cistoscopia destaca una próstata no obstructiva y un importante edema generalizado de mucosa vesical sin objetivarse lesiones neoformativas. Se realiza biopsia de mucosa y pared vesical, siendo la anatomía patológica de carcinoma urotelial infiltrante.
+
+Diagnóstico
+Carcinoma vesical infiltrante.
+
+Tratamiento
+Con los resultados de la biopsia vesical se decide realizar una cistoprostatectomía radical y derivación urinaria tipo Bricker, siendo el resultado anatomopatológico de:
+• Carcinoma urotelial variante plasmocitoide con infiltración tipo "linitis plástica" de todo el espesor de la pared vesical de forma circunferencial.
+• Infiltra el tejido adiposo extravesical, las vesículas seminales y focalmente la próstata.
+• No existe evidencia de carcinoma in situ ni componente transicional convencional.
+• Ganglios locorregionales positivos.
+Una vez intervenido, se decide conjuntamente en el Comité Urooncológico, ampliar tratamiento con radioterapia y quimioterapia adyuvante (según el esquema carboplatino-gemcitabina).
+
+Evolución
+Actualmente, tras un seguimiento de 18 meses, el paciente no presenta recidiva tumoral.

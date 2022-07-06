@@ -1,0 +1,29 @@
+Anamnesis
+A 61-year-old man, ex-smoker until 6 months before diagnosis, for more than 45 years (IPA 50), and with no other history of interest, who went to his primary care doctor for bultoma in the left cervical region, with no associated dysphagia or odynophagia. Initially, a diagnosis of cervical infection was made in the context of otalgia and recent dental implants, but given the lack of improvement with antibiotic treatment, she was referred to Endocrinology for further investigation.
+Cervical ultrasound showed multiple left cervical adenopathies of up to 2.7 cm. Normal thyroid with 2 well-defined solid nodules.
+An ultrasound-guided fine needle aspiration puncture-fine needle aspiration (FNA) was performed to obtain samples, and the pathology report concluded: metastasis of squamous cell carcinoma.
+The patient was then assessed by the Otorhinolaryngology Department and a fibroscopy was performed, showing a lesion in the left tonsillar region extending to the soft palate, submucosa of the left hemipalate and caudally reaching the base of the tongue, vallecula and epiglottis. A biopsy of the tonsil was performed with an anatomical pathology report of submucosal infiltration by poorly differentiated squamous cell carcinoma, human papillomavirus (HPV) and p16 positive.
+The extension study was completed with a cervicofacial CT scan showing a tumour-like mass in the left lingual tonsil, measuring approximately 26 mm, suggestive of squamous cell carcinoma. Metastatic adenopathies in both internal jugular chains, more numerous and larger on the left in levels IIA, IIB, III, IV, VA and VB, with necrosis in several of them.
+A thoracoabdominopelvic CT scan was performed as an extension study with no evidence of distant dissemination, confirming the patient's diagnosis: epidermoid carcinoma of the oropharynx HPV+ p16+ stage IVA (cT4N2M0) as of June 2013.
+Presented to the head and neck tumour committee of our hospital, it was decided to propose conservative treatment with chemotherapy and radiotherapy. The patient underwent radiotherapy treatment with 50 Gy on the tumour bed and draining lymph node chains with margin, with overimpression of the primary tumour and affected lymph nodes up to a dose of 70 Gy. Concurrently, the patient received chemotherapy treatment with weekly cisplatin 40 mg/m2 for a total of 6 cycles.
+Subsequent re-evaluation with fibroscopy showed a complete response. In the response evaluation CT scan, the primary lesion has decreased in size and density. In addition, there was a marked decrease, with almost complete disappearance of pre-existing laterocervical adenopathies, with only millimetric lymph nodes being seen, with post-treatment changes in chains IIa and IIb and III.
+The patient was followed up and, in a re-evaluation CT scan in September 2016, he presented a mediastinal relapse with prevascular adenopathies, anterior to the right brachiocephalic trunk, high right paratracheal, in the aortopulmonary window, in the right hilum and subcarinal. Mediastinoscopy was performed with biopsies, which confirmed the presence of p16+ squamous cell carcinoma metastasis.
+He was referred to Medical Oncology where first-line treatment was started with carboplatin (AUC-5) and cetuximab (400 mg/m2 first week, followed by 250 mg/m2 weekly) every 3 weeks, until completing 5 cycles that ended in March 2017, with delays due to haematological toxicity.
+In the re-evaluation CT scan in March 2017, there was evidence of progression of mediastinal disease, so she started the second line of treatment with nivolumab, achieving a complete radiological response.
+
+Physical examination
+The patient came for a check-up to start cycle 33 of nivolumab, and was seen to have extensive erythematous scaly plaques on the trunk, upper limbs and lower limbs, with more florid plaques with exfoliation on the palms. There were no other skin lesions of interest. Otherwise, he reported good general condition and an ECOG 0.
+
+Complementary tests
+Blood test with no findings of interest.
+
+Diagnosis
+Psoriasiform rash due to anti-PD-1.
+
+Treatment
+The patient was referred to the dermatology department, where corticosteroid treatment was started:
+"Prednisone 50 mg in a descending pattern.
+"Clobetasol cream.
+
+Evolution
+In view of the appearance of grade 3 skin toxicity and the complete radiological response of the disease, it was decided to discontinue nivolumab. The patient continues with periodic check-ups and, to date, 6 months after withdrawal of the drug, he is still in complete response.

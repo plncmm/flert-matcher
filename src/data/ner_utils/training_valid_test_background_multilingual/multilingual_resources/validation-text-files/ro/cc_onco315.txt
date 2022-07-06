@@ -1,0 +1,40 @@
+Anamneză
+Un bărbat de 68 de ani, născut în Extremadura, dar care locuiește în Mallorca, căsătorit și cu o fiică.
+Singurul istoric patologic de interes este diabetul zaharat (DM) de tip 2 din 2010, tratat cu metformină, cu control glicemic bun și fără complicații.
+
+Diagnosticat în martie 2014 cu cancer sigmoidian în stadiul IV cT3N1bM1 (metastaze hepatice și implanturi peritoneale îndoielnice) cu debut subocluziv, astfel că în aprilie 2014 a fost supus sigmoidectomiei laparoscopice și metastasectomiei segmentului III. Anatomia patologică a arătat: pT3N2b (7/20) M1 (boală hepatică bilobară) adenocarcinom de grad scăzut al sigmei, margini chirurgicale libere și fără boală peritoneală. Studiu molecular: KRAS WT, PI3K WT, BRAF WT, NRAS WT.
+
+În iunie 2014, a fost inclus în studiul clinic VISNU-1 și a fost randomizat în brațul FOLFOX-6+BVZ, cu o bună toleranță la acesta, prezentând un răspuns radiologic parțial în septembrie 2014, motiv pentru care s-a decis salvarea chirurgicală a metastazelor hepatice. În octombrie 2014 a fost efectuată embolizarea portală, iar în a doua etapă (noiembrie 2014) a fost efectuată o hepatectomie dreaptă.
+
+Ca o complicație, el a prezentat decompensare ascitică edematoasă și deteriorarea stării generale, ceea ce a dus la întreruperea tratamentului cu QT complementar. A părăsit studiul clinic și a început urmărirea.
+
+În aprilie 2015, a prezentat progresie hepatică și probabilă progresie pulmonară la 5 luni după operație și la 6 luni după terminarea QT, astfel că, după ce și-a recuperat starea generală (status de performanță 1), a reînceput QT conform schemei FOLFIRI, cu o bună toleranță clinică.
+
+În august 2015 a prezentat un răspuns paradoxal, cu progresie osoasă (leziune în lama iliacă stângă) cu masă de țesut moale, dar răspuns parțial al afecțiunii hepatice, astfel că s-a adăugat cetuximab la tratament. De asemenea, a fost supus unei radioterapii (RT) antalgice (20Gy, 5f între 7 și 11 septembrie). Ultimul QT administrat a fost la 7 octombrie 2015.
+
+După 2 cicluri de tratament, a fost internat în spital în octombrie 2015 pentru un ulcer cutanat necrotic rapid progresiv în regiunea tibiei anterioare drepte, în ciuda tratamentului local și sistemic cu levofloxacină timp de 7 zile (ulcerul a debutat ca o eroziune cutanată cu 10 zile mai devreme). Pacientul nu a raportat febră sau alte simptome și nici nu a prezentat traumatisme sau înțepături de insecte.
+
+Examinarea fizică
+Examenul fizic a evidențiat un ulcer cutanat necrotic în regiunea tibiei anterioare drepte, inițial cu margini eritematoase și un fond de resturi celulare și fibrină, dar fără semne de suprainfecție. Restul examinării fizice a fost fără semne particulare, fără alte leziuni cutanate vizibile.
+
+Teste complementare
+Analizele de sânge nu au evidențiat o creștere a reactanților de fază acută, iar hemoglobina glicată a fost solicitată pentru a exclude complicațiile derivate din DM și a fost normală (6,5%).
+O ecografie a evidențiat celulită, probabil infecțioasă/miosită inflamatorie.
+A fost efectuată și o ecografie Doppler arterială, care s-a dovedit a fi normală.
+În evoluția tabloului clinic, s-a solicitat o ecografie de control, care a evidențiat celulită nespecifică cu miozită și fasciită superficială și profundă.
+Au fost efectuate diferite biopsii cu rezultat de inflamație abcesivă acută nespecifică (cu o singură ocazie cu o structură fungică PAS+ fără repercusiuni clinice) cu cultură pozitivă pentru mai multe microorganisme orientate ca și contaminanți.
+Pentru completarea studiului, a fost solicitată o tomografie axială computerizată (TAO) toraco-abdomino-pelvină de reeșalonare, care a evidențiat apariția unui nodul pulmonar în LSI și stabilitatea celorlalți doi noduli descriși în studiile anterioare, cu un minim de revărsat pleural drept, precum și creșterea metastazelor osoase iliace stângi și creșterea metastazelor hepatice (dimensiuni și număr).
+
+Diagnostic
+Pyoderma gangrenosum ca sindrom paraneoplazic al carcinomului colorectal metastatic.
+Progresia hepatică și osoasă a adenocarcinomului colorectal metastatic.
+
+Tratament
+Având în vedere complexitatea tabloului clinic, a fost necesară o evaluare multidisciplinară (Dermatologie, Unitatea de Sepsis, Microbiologie, Anatomie patologică, Chirurgie generală, Traumatologie și Oncologie). 
+
+Tratamentul a fost început cu antibioterapie și prednison în doză de 1mg/kg/zi, pe lângă debridarea chirurgicală pentru a preveni suprainfecția.
+Cu aceste măsuri, răspunsul maxim a fost stabilizarea bolii.
+Având în vedere stabilitatea afecțiunii și suspiciunea de piodermă gangrenoasă asociată cu progresia carcinomului colorectal, s-a decis începerea tratamentului cu ciclosporină A în doză de 5mg/kg/zi, cu monitorizarea funcției renale, a ionilor și a tensiunii arteriale (din cauza efectelor secundare), prezentând un răspuns clinic excelent, cu reepitelizarea progresivă a ulcerului cutanat după începerea tratamentului.
+
+Evoluție
+În pofida ameliorării progresive a ulcerului necrotic cutanat, pacientul a prezentat o deteriorare a stării generale, cu status de performanță 3, ceea ce a dus la respingerea tratamentului oncospecific care viza cauza sindromului paraneoplazic (progresia bolii tumorale de bază).

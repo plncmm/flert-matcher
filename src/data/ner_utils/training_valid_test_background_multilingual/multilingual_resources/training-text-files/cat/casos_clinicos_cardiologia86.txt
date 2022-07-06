@@ -1,0 +1,19 @@
+Antecedents, malaltia actual i exploració física
+Pacient home de 54 anys amb antecedents d'hipertensió arterial, diabetis mellitus tipus 2, sense al·lèrgies conegudes.
+Tractament domiciliari amb insulina Lantus 24 UI/24h i ràpida 4 UI/8h, losartán 100 mg/24h. Acudeix a urgències per sensació d'endormiscament en membre superior dret (MSD) la nit prèvia, i al moment de despertar-se impossibilitat per a moure'l. Nega una altra simptomatologia. Conscient, orientat, alerta. Llenguatge normal. MOE normals. Parells cranials normals. Paresia en MSD 3/5 i hipoestesia lleugera. Tons cardíacs rítmics sense soplos. MV conservat sense sorolls agregats. No edemes en membres inferiors. Resta normal.
+
+Proves complementàries
+Analítica: hemograma normal, coagulació normal. Bioquímica amb G 123 mg/ dl, Cr 1 mg/dl. Colesterol 192 mg/dl, LDL 133 mg/dl, TG 97 mg/dl. Resta normal.
+ECG: ritme sinusal a 54 lpm, eix normal, sense alteracions de la repolarització.
+TC cranial: lesió isquèmica en porció més posterior del lòbul parietal esquerre. Hi ha una altra imatge hipodensa de morfologia triangular en lòbul frontal esquerre que suggereix lesió isquèmica. Sense altres troballes rellevants.
+Ecodoppler de TSA: ona de parvus tardus a nivell de ACI en discordança amb el vist en manera B i color, que pot estar en relació amb estenosi, per la qual cosa es recomana angio-RMN.
+Angio-RMN de TSA: no s'aprecien dades d'estenosis de significació en els bulbs carotídeos ni en artèries caròtides interna ni externa de tots dos costats. Artèria basilar i vertebrals permeables.
+RMI cerebral: diverses lesions en territori d'ACM esquerra amb restricció en difusió, que es corresponen amb lesions isquèmiques agudes de probable origen embólico.
+Ecocardiograma transtorácico: aI 35,9 mm i Ao 32 mm. Funció sistòlica del VI conservada amb FEVI del 64%. Ompliment ventricular amb patró d'alteració de la relaxació. HVI lleugera. S'injecta SSF per via endovenosa perifèrica i no s'observa pas de bombolles a través de l'envà interauricular suggeridor de FOP.
+
+Evolució clínica
+El pacient recupera força muscular, però presenta hipoestesia en braç dret que és lleu. És donat d'alta amb diagnòstic d'infarts cerebrals parietal i frontal esquerres de naturalesa incerta; sota tractament amb Adiro 300 mg/24h i atorvastatina 80 mg/24h. Reingressa després de 8 mesos per quadre vertiginosos, vòmits, disàrtria i inestabilitat de la marxa, a més de nistagmus horitzontal cap a l'esquerra que en TAC cranial presenta a més dels infarts previs una nova lesió, compatible amb infart agut en territori de la PICA esquerra. Estudi cardiològic normal i se sol·licita de manera programada ecocardiografía transesofágica (ETE). És donat d'alta amb diagnòstic de ictus isquèmic cerebel·lós esquerre criptogenético, i tractament amb Sintrom suspenent el Adiro. Es realitza ETE que s'informa com no dilatació de cavitats. Aprimament del septe interauricular a nivell del foramen oval sense despegamiento macroscòpic i sense anomalies en la mobilitat, sense apreciar-se signes de curtcircuit amb doppler color. S'efectua ecocontraste amb solució col·loidal agitada tant basalmente com després de maniobra de Valsalva. S'aprecia pas primerenc de microbombolles a cavitats esquerres després de maniobra de Valsalva. El pacient durant el seguiment s'ha mantingut estable i sense nous episodis cardioembólicos.
+
+Diagnòstic
+Foramen oval permeable
+Ictus isquèmic criptogenético recurrent

@@ -1,0 +1,24 @@
+Anamnese
+Homem de 44 anos, com hábito enólico crónico (40g/dia) e história de infecção pelo HIV-1 do grupo A2 do CDC diagnosticada em 1993, em tratamento com tenofovir, emtricitabina e efavirez com carga viral indetectável e células CD4=846/ μl, bem como hepatite C crónica, genótipo 4 de diagnóstico recente (não tratado), que foi encaminhado para o departamento de dermatologia por apresentar bolhas nas costas das mãos que tinham evoluído durante 4 meses no contexto de traumas menores nesta área, que se tinham partido, resultando em feridas que cicatrizaram deixando cicatrizes.
+
+Exame físico
+O exame revelou a presença de bolhas tensas de conteúdo seroso medindo 0,51cm no dorso das mãos e ambos os antebraços, bem como erosões superficiais e crostas serohaemáticas. Tinha uma lesão isolada de características semelhantes nos auriculos.
+O paciente tinha uma lesão isolada de características semelhantes nos pavilhões auriculares. Havia também cicatrizes atróficas residuais com hipopigmentação na periferia e alguns quistos de milio. No rosto, a nível periocular e em ambas as bochechas, havia pigmentação do tipo melasma e ligeira hipertricose malar.
+
+Exames complementares
+- Bioquímica: GPT 80 (5-45 U/l), GOT 49 (5-37 U/l), GGT 117 (8-61 U/l). Glucose, colesterol, função renal e iões sem alterações.
+- Hemograma: Hb 17,2 g/dl, hematócrito 49,6 (39,1-49,7%).
+- Perfil do ferro: Ferro 192 (59-158 μg/dl), Ferritina 440 (30-400ng/ml), Transferrina 230 (200360mg/dl), % de saturação da transferrina 53 (20-50%). Cerulopasmin 27 (15-30 mg/dl). Alpha-1-antitrypsin 150 (90-200mg/dl).
+- Serologia: Positivo para HCV com carga viral detectável (14,00IU/ml) e positivo para HIV com carga viral indetectável. Outras serologias negativas.
+- Porfirinas na urina de 24 horas: Screening total porphyrins 4773 (10-200) com a presença de um pico de alta intensidade a 623nm no exame fluorométrico. Coproporfirinas 1709 (< 150 μg/gr), Uroporfirinas 3064 (< 30 μg/gr), Ácido Delta-aminolevulínico 5,52 (< 7,50 mg/l), Porphobilinogénio 1,31 (< 2,50 mg/l).
+- Total de porfirinas de plasma: 9,5 (0,1 μg/dl).
+- O estudo histológico de uma lesão vesiculosa mostrou uma bolha subepidérmica rodeada por infiltrado inflamatório misto, bem como a deposição PAS-positiva de material fibrilar a nível perivascular na derme superficial. A imunofluorescência revelou deposição de IgG nas paredes dos vasos.
+
+Diagnóstico
+Com base em características clínicas, analíticas e histológicas, o paciente foi diagnosticado com Porfiria Cutanea Tarda (PCT).
+
+Tratamento
+Após diagnóstico, o doente foi encaminhado para a unidade de doenças infecciosas onde se iniciou o tratamento da hepatite C com interferão-alfa e ribavirina. Insistimos na importância de eliminar os estímulos clínicos (traumatismo, consumo de álcool) e na utilização da fotoprotecção. Por outro lado, dada a presença de alterações no perfil ferrocinético, recomendamos uma hemorragia periódica a cada 15 dias.
+
+Evolução
+Após 4 meses de tratamento, foi observada a cura serológica da Hepatite C, mantendo uma carga viral indetectável até hoje, bem como a normalização do perfil ferrocinético e grande melhoria da porfíria com resolução praticamente completa das lesões cutâneas e redução progressiva dos números de profirinas no sangue e na urina.

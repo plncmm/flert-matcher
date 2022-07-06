@@ -1,0 +1,20 @@
+An 84-year-old woman with a history of arrhythmias treated with methotrexate (15 mg per week) and corticosteroids (prednisone 13 mg/day), pulmonary embolism treated with rivaroxaban, arterial hypertension and rheumatoid arthritis
+The patient had symptoms of IDWCO, fever, age, ausia and dry cough, polypnea (frequency of 32/min) and oxygen saturation of 93% with respiratory distress syndrome-19.
+The patient was hospitalized in a COVID-19 ICU on April 16, 2020, with a diagnosis of COVID-19 based on the results of a chest CT scan showing lesions as a pattern of bilateral ground glass and opacities.
+The SARS-CoV-2 test by RT-PCR from a nasopharyngeal sample yielded negative results twice.
+It was probably false negatives due to incorrect sampling.
+The patient had typical symptoms of COVID-19 and no other causes of infection were found.
+Sputum samples could not be collected.
+C-reactive protein concentration was 160 mg/L and lymphocyte count was 0.13 Giga/L.
+The patient received ceftriaxone for seven days, rovamicin for five days, and methotrexate treatment was discontinued, replaced by an increase in corticosteroids (prednisone, 60 mg/day) and consolidation treatment with methotrexate.
+A clinical and analytical improvement was observed, which allowed the withdrawal of prednisone therapy, with normalization of the inflammatory syndrome allowing the patient to be transferred to a rehabilitation unit for HIVCOV-19 on April 27, 2011,
+On May 6, a sudden respiratory worsening occurred, with saturation of 80% requiring physiotherapy, dry cough and fever.
+Nasopharyngeal samples for SARS-CoV-2 test by RT-PCR were positive (Ct of 16.9 and 14.7 on May 8 and 11 respectively) Viral cultures were positive and positive in cells.
+Virological sequencing has been performed and the strain belongs to line B1 (European) according to the classification of pangoline.
+A CT scan revealed severe bilateral pneumonia.
+Upon readmission, the analyses showed▁lymphocytic leukemia at 0.23 Giga/L, C-reactive protein at 146 mg/L, and IL-6 at 201 ng/L.
+An increase in SARS-CoV-2 neutralising antibodies was observed between May 8 and 15 (dilutions < 10 to 40).
+The patient received ceftriaxone and methylprednisolone 60 mg/day from May 8, and high flow oxygen.
+Chotrimoxazole was prescribed May 19 to rule out possible overinfection by pneumocysts.
+After validation in an interdisciplinary meeting, the patient received a plasma transfusion of COVID-19 convalescent on May 16th.
+However, the respiratory status worsened with massive desaturation despite the supply of 20 L of oxygen; the patient finally died on May 23rd.

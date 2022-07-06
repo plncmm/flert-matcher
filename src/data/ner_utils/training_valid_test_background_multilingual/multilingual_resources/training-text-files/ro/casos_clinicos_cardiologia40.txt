@@ -1,0 +1,42 @@
+Bărbat de 59 de ani cu febră mare (39o) de 2 zile de evoluție și un episod de criză convulsivă. Pare stupefiat.
+
+TA 97/80 mmHg. Fc 132 bpm. SatO2 95%. Fr 22 rpm. Ta 34,2oC.
+
+Îndeplinește criteriile de SEPSIS GRAV: Ta34,2o. Insuficiență renală acută (creatinină 2,2); PCT și CRP ridicate (infecție bacteriană); Hipotensiune (97/80) cu semne de perfuzie deficitară (rece și transpirație), acidoză metabolică (bicarbonat scăzut), lactat ridicat (hipoperfuzie); Oligoanurie; Plachetopenie foarte marcantă (16. 000); tahicardie (FA la 132 x ́), tahipnee la 26 x ́(pCO2 scăzută). FOCO este necunoscut.
+
+Să mergem pe părți:
+
+1) Hipotensiune indusă de sepsis: se administrează 2.000 cc de ser fiziologic și ulterior în terapie intensivă 1.500 cc SF. -> Mențineți BP 105/75
+
+2) Fibrilație atrială la 130 x ́ -> AMIODARONĂ IV .... -> Ritm sinusal.
+
+3) Antibiotice? După 2 hemoculturi -> MEROPENEM IV, -> CLOXACILLIN + CEFOTAXIME + CYPROFLOXACIN a fost ales în ICU. -> și ulterior: CLOXACILLIN + DAPTOMICIN -> în prezent CLOXACILLIN + GENTAMICIN.
+
+4) Criză convulsivă care a reapărut după câteva ore. CT: HEMORAGIE SUBARACHNOIDALĂ, probabil legată de trombopenie sau de anevrism micotic (= infecțios) -> începeți tratamentul cu LEVETIRACETAM IV.
+
+5) Plachetopenia. -> Consultație de hematologie: "nu îndeplinește criteriile pentru TTP, HIT sau sindrom hemofagocitar; nu este exclusă PTI versus vasculită în plus față de tabloul septic". Tratamentul a fost început cu corticosteroizi + perfuzie de trombocite: un bazin zilnic.
+
+6) Căutarea FOCO: s-a efectuat o ecocardiogramă transtoracică: NU au fost vizualizate veruci.
+
+7) Hemoculturi pozitive pentru STAPHILOCOCCUS AUREUS (sensibil la meticilină).
+
+8) A fost efectuată o ecocardiografie transesofagiană: a fost vizualizată o imagine de VERRUGE în frunza anterioară a valvei mitrale.
+
+9) Consultație la Chirurgie Cardiovasculară: tratamentul chirurgical a fost exclus în prezent din cauza SAH. Reevaluare după 6 săptămâni.
+
+10) Apariția unor leziuni purpurice (echimotice) de probabilă origine embolică pe vârfurile degetelor și tălpile picioarelor.
+
+După o săptămână la terapie intensivă, a rămas stabilă. A fost transferat în secție.
+
+JUDECATA DE DIAGNOSTICARE:
+
+- ENDOCARDITE MITRALĂ pe valvă cu degenerare mixomatoasă datorată S. AUREUS.
+
+- SEPSIS SEVERE cu insuficiență renală (corectată la externare). PLACHETOPENIE SEVERĂ.
+
+- HEMORAGIE SUBARAHNOIDĂ. CRISĂ EPILEPTICĂ generalizată.
+
+- ACxFA (a revenit la ritm sinusal).
+
+Comentariu:
+Staphylococcus aureus: S.Aureus trăiește pe pielea umană -> cauzează infecții ale pielii: foliculită, impetigo, abcese cutanate, furunculoză, mastită, celulită, infecții ale rănilor... (de asemenea, răni chirurgicale) ....

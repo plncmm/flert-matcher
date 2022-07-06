@@ -1,0 +1,26 @@
+Anamnesis
+Mujer de 25 años de edad, sin alergias a medicamentos, exfumadora desde hace un año, con anemia ferropénica crónica de causa desconocida diagnosticada en 2008, en tratamiento con hierro oral, migraña desde los 17 años e ingreso en 2010 por mononucleosis infecciosa.
+Consulta en Urgencias por fiebre de hasta 40 oC de una semana de evolución y dolor lumbar izquierdo en las últimas 48 horas, acompañado de vómitos y diarrea, sin otra sintomatología acompañante. La paciente ingresa a cargo de Medicina Interna para estudio y seguimiento de la fiebre.
+
+Examen físico
+Regular estado general. Normocoloreada y normohidratada. Temperatura de 38 oC, tensión arterial 110/60, frecuencia cardiaca 99 lpm. Auscultación cardiaca sin soplos. Auscultación pulmonar: murmullo vesicular conservado, sin crepitantes. Abdomen blando y depresible, sin defensa, con peristaltismo conservado y puñopercusión renal izquierda positiva. No focalidad neurológica. No adenopatías significativas. No lesiones cutáneas.
+
+Pruebas complementarias
+• Analíticamente, destaca una linfopenia absoluta con linfocitos activados (ya conocido en la paciente) en la analítica de sangre al ingreso y microhematuria en orina.
+• Radiografía de tórax: sin hallazgos patológicos.
+• Ecocardiograma: se descarta la presencia de endocarditis.
+• Tomografía computarizada (TC) de abdomen: riñón izquierdo de aspecto edematoso con presencia de cambios inflamatorios por pielonefritis aguda complicada al provocar una isquemia y aparición de infartos renales segmentarios.
+• Ecografía abdominal: infarto en el polo superior e inferior del riñón izquierdo.
+• Hemocultivos y urocultivos: negativos.
+• Serología: IgM CMV positivo, IgG VEB positivo, IgM negativo, VHA negativo, VHB negativo, VHC negativo, VIH negativo, PCR CMV en plasma negativo.
+
+Diagnóstico
+Infarto renal secundario a un cuadro clínico de pielonefritis aguda complicada. Pendiente de descartar inmunodeficiencia primaria.
+
+Tratamiento
+Dieta con abundantes líquidos y antibioterapia con piperacilina-tazobactam y amikacina.
+
+Evolución
+Con diagnóstico de fiebre neutropénica, se inicia tratamiento con piperacilina- tazobactam y amikacina, por vía intravenosa, administrándose una dosis de c- GSF con buena respuesta clínica inmediata. Tras los estudios radiológicos y tras la confirmación de la presencia de infarto renal secundario a cuadro de pielonefritis aguda complicada, se avisa al Servicio de Urología, que indica seguimiento con TC de control de forma ambulatoria dada la mejoría clínica de la paciente.
+Al alta, mantiene buen estado general, afebril, con buenas constantes y estable clínica y analíticamente, manteniendo su anemia ferropénica ya conocida.
+La paciente es valorada a los 3 meses del alta en las consultas externas de Urología, con TC de control que informaba de perfusión renal izquierda heterogénea con áreas cicatriciales en el polo superior e inferior del riñón izquierdo. Analíticamente, muestra una función renal normal. La paciente no ha referido sintomatología alguna. Pendiente de nueva citación.

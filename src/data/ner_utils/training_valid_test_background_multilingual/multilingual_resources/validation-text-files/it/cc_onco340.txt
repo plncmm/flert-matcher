@@ -1,0 +1,24 @@
+Anamnesi
+Un paziente di 55 anni si è presentato al dipartimento di emergenza il 22 luglio 2014 a causa di un forte dolore epigastrico che si irradiava all'ipogastrio, vertigini, nausea e sudorazione. I giorni precedenti aveva consultato il suo centro di cure primarie per un'epigastralgia di minore intensità senza corteccia vegetativa che non era diminuita con gli antiacidi.
+
+"STORIA PERSONALE: Nessuna allergia nota ai farmaci. Nessuna malattia di interesse. Sportiva. Nessun trattamento abituale. Non bevitore. Nessun fumatore. Nessun agente anabolizzante.
+"STORIA FAMILIARE: La madre è morta a 72 anni di tumore al cervello. 3 fratelli, uno è morto per arresto cardiorespiratorio. Cugina materna con cancro al seno all'età di 40 anni.
+
+Esame fisico
+Ipotensione (70/45 mmHg), diaforesi e pallore mucocutaneo. Addome: diffusamente doloroso alla palpazione con segni di irritazione peritoneale.
+
+Test complementari
+-Esame del sangue: anemia con Hb 8,7 g/dl (Hb 13,7 g/dl nell'esame del sangue eseguito 48 ore prima).
+-TAC addominale urgente: Nel lobo epatico sinistro, massa lobulata di 8x10x15 cm che sporge al di fuori del contorno epatico, eterogenea con enhancement periferico. Comprime le strutture adiacenti e perde la separazione con l'antrum gastrico. Grande ematoma nel mesentere adiacente con estensione al diaframma. Fluido intra-addominale libero. Probabile carcinomatosi peritoneale. Conclusione: tumore epatico rotto (probabile epatocarcinoma) con emoperitoneo.
+
+Diagnosi
+Emoperitoneo secondario alla rottura di un tumore al fegato.
+
+Trattamento
+Il paziente è stato sottoposto a un intervento chirurgico d'urgenza mediante una laparotomia sottocostale destra estesa. Sono stati rimossi 2500 ml di emoperitoneo ed è stato trovato un tumore epatico di 15 cm nel segmento II-III. Sono state eseguite la resezione epatica di questi segmenti, la colecistectomia, la resezione epiploica e la biopsia della lesione nel segmento IV. L'alfafetoproteina (AFP) nell'immediato periodo postoperatorio era di 7043 ng/ml.
+"Patologia: Segmenti II-III: carcinoma epatocellulare moderatamente differenziato (HCC) 10x7x5,5 cm, modello trabecolare e invasione venosa. Fegato non tumorale: fegato non cirrotico. Omento: tumore di 7,5x5 cm suggestivo di impianto di epatocarcinoma. Riposo normale.
+
+Evoluzione
+Ha consultato il dipartimento di oncologia medica nel settembre 2014 con AFP 627 ng/ml, Child-Pugh di 7 punti e stadio avanzato secondo il BCLC Staging System. Dato l'HCC resecato ma la presenza di impianti peritoneali nell'intervento, è stato deciso di trattare con Sorafenib a 800 mg/die e sono state richieste sierologie per i virus epatotropi, risultando positivi per una pregressa infezione da HBV (Anti-HBs +, Anti-HBc +). Dopo un mese di trattamento AFP 29,86 ng/ml, con tossicità dermica G3 che richiede una riduzione della dose. Successivamente, l'AFP è aumentata nonostante un adeguato aumento della dose, e sono state richieste diverse risonanze magnetiche al fegato, che hanno mostrato solo semplici cisti e cambiamenti post-chirurgici.
+Nel marzo 2015 AFP 297 ng/ml e una TAC toraco-addominale-pelvica è stata richiesta con la presenza di un nodulo polmonare destro basale di 8 mm, non specifico e senza altri riscontri. Data la buona tolleranza, abbiamo aumentato la dose a 800 mg/giorno con una buona risposta biochimica, raggiungendo AFP 80 ng/ml nel novembre 2015. All'inizio del 2016, elevazione progressiva di AFP con un aumento delle dimensioni del nodulo polmonare basale destro che misura 1 cm. In attesa della segmentectomia polmonare atipica per lo studio istologico al momento.
+

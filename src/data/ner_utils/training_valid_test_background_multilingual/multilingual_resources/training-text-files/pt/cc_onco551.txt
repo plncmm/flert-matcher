@@ -1,0 +1,29 @@
+Anamnese
+Um homem de 61 anos, ex-fumador até 6 meses antes do diagnóstico, há mais de 45 anos (IPA 50), e sem qualquer outra história de interesse, que foi ao seu médico de cuidados primários para o bultoma na região cervical esquerda, sem disfagia ou odynophagia associada. Inicialmente, foi feito um diagnóstico de infecção cervical no contexto de otalgia e implantes dentários recentes, mas dada a falta de melhorias com o tratamento antibiótico, foi encaminhada para a Endocrinologia para uma investigação mais aprofundada.
+A ecografia cervical mostrou múltiplas adenopatias cervicais esquerdas de até 2,7 cm. Tiróide normal com 2 nódulos sólidos bem definidos.
+Foi realizada uma aspiração por agulha fina guiada por ultra-sons (FNA) para obter amostras, e o relatório de patologia concluiu: metástase de carcinoma escamoso de células escamosas.
+A doente foi então avaliada pelo Departamento de Otorrinolaringologia e foi realizada uma fibroscopia, mostrando uma lesão na região da tonsila esquerda que se estende ao palato mole, submucosa do hemipalato esquerdo e atingindo caudalmente a base da língua, vallecula e epiglote. Foi realizada uma biopsia da amígdala com um relatório anatómico de infiltração submucosa por carcinoma espinocelular mal diferenciado, papilomavírus humano (HPV) e p16 positivo.
+O estudo de extensão foi completado com uma tomografia cervicofacial mostrando uma massa semelhante a um tumor na amígdala lingual esquerda, medindo aproximadamente 26 mm, sugestivo de carcinoma espinocelular. Adenopatias metástáticas em ambas as cadeias jugulares internas, mais numerosas e maiores à esquerda nos níveis IIA, IIB, III, IV, VA e VB, com necrose em várias delas.
+Foi realizado um TAC toracoabdominopelvico como um estudo de extensão sem evidências de disseminação à distância, confirmando o diagnóstico do doente: carcinoma epidermoide da orofaringe HPV+ p16+ estágio IVA (cT4N2M0) a partir de Junho de 2013.
+Apresentado ao comité de tumores na cabeça e pescoço do nosso hospital, foi decidido propor um tratamento conservador com quimioterapia e radioterapia. O paciente foi submetido a um tratamento de radioterapia com 50 Gy no leito do tumor e cadeias linfonodais drenantes com margem, com sobreimpressão do tumor primário e gânglios linfáticos afectados até uma dose de 70 Gy. Simultaneamente, o paciente recebeu tratamento quimioterápico com cisplatina semanal 40 mg/m2 durante um total de 6 ciclos.
+Uma reavaliação posterior com fibroscopia mostrou uma resposta completa. Na avaliação da resposta de CT scan, a lesão primária diminuiu em tamanho e densidade. Além disso, houve uma diminuição acentuada, com o desaparecimento quase completo de adenopatias laterocervicais pré-existentes, com a observação apenas de gânglios linfáticos milimétricos, com alterações pós-tratamento nas cadeias IIa e IIb e III.
+O paciente foi acompanhado e, numa reavaliação TAC em Setembro de 2016, apresentou uma recidiva mediastinal com adenopatias preventivas, anterior ao tronco braquiocefálico direito, alto paratraqueal direito, na janela aortopulmonar, no hilo direito e subcarinal. A mediastinoscopia foi realizada com biopsias, que confirmaram a presença de metástase do carcinoma espinocelular p16+.
+Foi encaminhado para a Oncologia Médica onde o tratamento de primeira linha foi iniciado com carboplatina (AUC-5) e cetuximab (400 mg/m2 na primeira semana, seguido de 250 mg/m2 semanalmente) a cada 3 semanas, até completar 5 ciclos que terminaram em Março de 2017, com atrasos devido à toxicidade hematológica.
+Na reavaliação do TAC em Março de 2017, houve provas de progressão da doença mediastinal, pelo que ela iniciou a segunda linha de tratamento com nivolumab, conseguindo uma resposta radiológica completa.
+
+Exame físico
+O paciente veio para um check-up para iniciar o ciclo 33 de nivolumab, e foi visto ter extensas placas eritematosas escamosas no tronco, membros superiores e membros inferiores, com mais placas floridas com esfoliação nas palmas das mãos. Não houve outras lesões cutâneas de interesse. Caso contrário, relatou um bom estado geral e um ECOG 0.
+
+Testes complementares
+Teste de sangue sem resultados de interesse.
+
+Diagnóstico
+Erupção psoriasiforme devido ao anti-PD-1.
+
+Tratamento
+O paciente foi encaminhado para o departamento de dermatologia, onde foi iniciado o tratamento com corticosteróides:
+"Prednisona 50 mg num padrão descendente.
+"Creme Clobetasol".
+
+Evolução
+Tendo em conta o aparecimento da toxicidade cutânea de grau 3 e a resposta radiológica completa da doença, foi decidido descontinuar o nivolumab. O paciente continua com controlos periódicos e, até à data, 6 meses após a retirada do fármaco, ainda está em resposta completa.

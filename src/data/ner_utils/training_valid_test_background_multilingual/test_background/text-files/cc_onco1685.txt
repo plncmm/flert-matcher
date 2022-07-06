@@ -1,0 +1,20 @@
+Anamnesis
+Mujer de 43 años de edad, sin antecedentes de interés, que acude a Urgencias por esputo hemoptoico en abril de 2010.
+
+Exploración física
+Consciente y orientada, buen estado general, eupneica, sin adenopatías cervicales. Auscultación cardíaca: rítmica, sin soplos. Auscultación pulmonar: murmullo vesicular conservado. Abdomen blando, no doloroso, sin signos de irritación peritoneal y sin masas. Miembros inferiores sin edemas.
+
+Pruebas complementarias
+• Hemograma, bioquímica, coagulación básicas: sin alteraciones significativas.
+• Radiografía de tórax: masa parahiliar en el lóbulo superior izquierdo.
+• Tomografía computarizada toracoabdominal: masa parahiliar superior izquierda de 42 x 54 x 45 mm, que infiltra el segmento apical del lóbulo inferior izquierdo a través de la cisura mayor. Comprime la rama segmentaria del bronquio apicoposterior izquierdo englobando las ramas subsegmentarias posteriores, sin infiltración de las estructuras vasculares principales ni hiliares ipsolaterales. Múltiples nódulos pulmonares menores de 10 mm. Adenopatías hiliares izquierdas de 10 mm.
+• Biopsia por broncoscopia: carcinoma sarcomatoide de tipo bifásico homólogo con doble componente de adenocarcinoma (expresa queratinas) y áreas sarcomatoide fusocelulares (expresan vicentina). Deleción del exón 19 del gen del receptor del factor de crecimiento epidérmico positiva.
+
+Diagnóstico
+Adenocarcinoma de pulmón mixto con componente sarcomatoide fusocelular estadio IV (lesiones pulmonares bilaterales).
+
+Tratamiento
+Dado que la paciente presentaba positividad para la mutación del receptor del factor de crecimiento epidérmico, se inició tratamiento de primera línea con gefitinib. La respuesta fue muy buena pero persistía la masa pulmonar, que pudo ser resecada por Cirugía Torácica. A lo largo de la evolución, presentó recurrencia y requirió tratamiento con segunda línea de quimioterapia con cisplatinopermetrexed.
+
+Evolución
+La paciente inicia tratamiento con gefitinib de mayo a noviembre de 2010; en el escáner de reevaluación, aparece franca una progresión de la masa del lóbulo superior izquierdo, y en la tomografía por emisión de positrones que se realiza solo muestra captación a dicho nivel. Se le plantea a la paciente una segunda línea de quimioterapia con cisplatino-permetrexed. Tras su paso por el comité de tumores, y ante la sospecha de que la progresión se deba al componente sarcomatoide, la paciente es operada con lobectomía superior izquierda en diciembre de 2010, con resultado anatomopatológico de carcinoma sarcomatoide pleomórfico con adenocarcinoma papilar y sarcoma fusocelular y de células gigantes, en estadio T2N2 (siete de 15 adenopatías positivas) y bordes de resección libres. En el 2011, la paciente ingresa con signos de compresión medular a nivel cervical, y es operada con diagnóstico anatomopatológico de metástasis ósea de adenocarcinoma. Recibe irradiación sobre área cervical.

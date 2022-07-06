@@ -1,0 +1,22 @@
+Anamnesis
+Paciente de 24 años de edad en la actualidad. Nulípara. No antecedentes médicos de interés. Primera consulta en 2011. Presenta infecciones urinarias de repetición y cateterismo vesical intermitente (CVI) desde los 18 años (2008). También refiere estreñimiento pertinaz. Frecuencia miccional diurna (FMD) cada 4 horas. Frecuencia miccional nocturna (FMN): 0 veces. Presenta sensación vesical disminuida, con ausencia de micción espontánea en el último año. Previamente realizaba 3 CVI diarios con residuos postmiccionales (RPM) de 200-500 cc. Aporta estudio urodinámico (EUD) de 2008 con diagnóstico de vejiga hipoactiva, acomodación vesical disminuida y sensación vesical disminuida.
+
+Examen físico
+Exploración abdominal sin hallazgos de interés. Sensibilidad perineal conservada. Exploración genital sin alteraciones. No se observan prolapso de órgano pélvico ni alteraciones morfológicas uretrales.
+
+Pruebas complementarias
+• Cistouretrografía miccional seriada (marzo de 2011): vejiga trabeculada con divertículo postero-lateral izquierdo de 2 cm. No cistocele. No incontinencia de orina. Pequeño residuo postmiccional.
+• EUD (mayo de 2011): acomodación vesical disminuida (presión máxima del detrusor al llenado de 32 cm de agua). Disfunción miccional sin obstrucción del tracto urinario inferior (URA de 11 cm de agua). Wmáx 19,39 W/m2. No datos electromiográficos de neurogenicidad en el nervio pudendo, potenciales normales.
+
+Diagnóstico
+Infecciones de orina de repetición. Disfunción miccional no neurógena.
+
+Tratamiento
+El 25 de agosto de 2011 se realiza un primer tiempo de neuromodulación de raíces sacras, colocando un electrodo Tine-lead en la raíz S3 derecha. El 15 de septiembre de 2011 se coloca un marcapasos GIE definitivo.
+
+Evolución
+Tras la primera intervención, la evolución es favorable. Inicia la micción al tercer día con voltaje de 1 V del neuroestimulador. RPM < 100 ml. Deseo miccional más intenso que previamente a la intervención. Mejoría del estreñimiento.
+Tres semanas después, en el momento de la implantación del marcapasos definitivo, presenta FMD cada 3 horas, FMN 0 veces, urgencia miccional ocasional, RPM < 100 cc, salvo algún residuo ocasional de 200 cc. Voltaje a 0,7 V.
+Tres meses tras la colocación del marcapasos definitivo, realiza un CVI al día con RPM de 50-100 cc, por lo que los abandona. No presenta ITU. Presenta mejor calibre miccional y mejoría del estreñimiento. Voltaje de 0,9 V. Se realiza una cistografía, que no muestra cambios respecto a la previa.
+Se realiza también EUD, que muestra una presión del detrusor al llenado de 10 cm de agua, URA de 11 cm de agua, Wmáx 14,45 W/m2, flujo máximo de 16 ml/s.
+En la última revisión, 18 meses tras la colocación del dispositivo, no presenta ITU, ni urgencia miccional, FMD cada 3-4 horas, FMN 0 veces. No precisa CVI. Voltaje de 0,9 V.

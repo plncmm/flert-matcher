@@ -1,0 +1,26 @@
+Anamnese
+Uma mulher de 47 anos de idade consultada por dores de cabeça holocranianas pulsantes progressivas de quatro meses de duração e visão desfocada.
+História pessoal: hipertensão, colesteatoma no ouvido direito e síndrome de ansiedade tratada com benzodiazepinas. O paciente relatou dores "por toda a cabeça" que tinham vindo a aumentar progressivamente nas últimas semanas. Caracterizou-se por um claro agravamento ao passar de decúbito para posição sentada, subsidiando posteriormente de forma espontânea. Ocasionalmente, era despertado à noite. Durante os últimos 15 dias, ele também tinha estado a experimentar zumbidos pulsáteis sem especificar o lado, episódios de obscurecimento visual transitório que duravam minutos e fotocópias ao sair da cama. Não apresentava sintomas de doença sistémica, neoplasias conhecidas, anorexia ou perda de peso. Sem perturbações cognitivas, alterações de comportamento, lesões na cabeça ou febre. Ele manteve um bom controlo dos esfíncteres.
+
+Exame físico
+O exame físico geral e neurológico não revelou qualquer focalização. Não houve sinais de radiculopatia ou espasticidade. O exame oftalmológico revelou papiledema bilateral, pelo que foi admitida na Neurologia para investigação adicional com suspeita de trombose do seio venoso.
+
+Testes complementares
+- Hemograma completo com taxa de sedimentação de eritrócitos e hormonas da tiróide: normal.
+- Radiografia do tórax e electrocardiograma realizado à admissão: normal.
+- A serologia para vírus do grupo do herpes, vírus hepatótropicos, vírus da imunodeficiência humana, sífilis, Borrelia e Brucella também era normal.
+- A tomografia computorizada do cérebro (TC) mostrou como única anomalia um aumento do tamanho de todo o sistema ventricular, com uma diminuição dos sulcos corticais.
+- A ressonância magnética cerebral com fase venosa confirmou as descobertas anteriores sem mostrar qualquer outra alteração, pelo que a primeira suspeita de diagnóstico foi descartada.
+- Decidiu-se então efectuar uma punção lombar para continuar o estudo, o que apresentou, para nossa surpresa, grandes dificuldades, pois embora o líquido cefalorraquidiano (LCR) tenha começado a fluir a uma pressão adequada (15 cm H2O), após alguns minutos deixou de fluir. O material que foi extraído era de alta densidade e coagulado à temperatura ambiente. O aparecimento foi xantocromático-gelatinoso, e a citoquímica urgente mostrou uma hiperproteinemia de 539 mg/dl, com outros valores normais: glicemia 92 mg/dl (glicemia 154 mg/dl), 0 células/μl, ADA 1.4).
+- Tendo em conta estes resultados, suspeitou-se de uma lesão no local de extracção do LCR, e foi realizada uma ressonância magnética completa da coluna vertebral, que mostrou uma massa tumoral extramedular intradural na cauda equina, medindo aproximadamente 4 x 1,2 x 2,2 cm. A lesão ocupou todo o canal vertebral ao nível L3 com sinal intermédio T1, sinal intermédio T2 a hiperintenso, e intenso aumento intravenoso de gadolínio. RM com ponderação T2 mostrando uma lesão que ocupa espaço em L3, com hiperintensidade caudal ao nível de L3 em cauda equina. Não continha imagens sugestivas de hemorragia ou mucina, e nenhum anel de hemossiderina.
+
+
+Diagnóstico
+Síndrome de Froin e papiledema como a primeira manifestação de um tumor na coluna vertebral.
+
+Tratamento
+O paciente foi tratado com dexametasona 8 mg cada 6 h e manitol 20% 125 cc/12 h i.v. durante 48 horas, com posterior cirurgia programada e controlo neurofisiológico intra-operatório, no qual foi observada uma massa de alta densidade abrangendo várias raízes da cauda equina. A excisão foi subtotal devido à impossibilidade de dissecar o tumor sem danificar as raízes nervosas. O exame histológico revelou um diagnóstico de epenodermoma mixopapilar.
+
+Evolução
+Actualmente, a paciente tem estado assintomática da sua dor de cabeça com resolução completa do papiledema, salientando apenas no exame uma fraqueza de 4+/5 do membro inferior direito com reflexos miotaticos vívidos.
+

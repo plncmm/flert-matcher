@@ -1,0 +1,26 @@
+Anamnesi
+Il paziente è un maschio di 47 anni senza storia medica o chirurgica di interesse. Non prende alcun farmaco. È originario di Londra e lavora come insegnante di inglese. Suo padre è morto di amiloidosi polmonare all'età di 74 anni e suo padre di cancro renale all'età di 70 anni.
+Nel 2010, si è consultata per un aumento progressivo della circonferenza addominale nel corso di 12 mesi di evoluzione, associato a dolore epigastrico e a una sensazione di pienezza presto dopo aver mangiato. Aveva perso 15 chili di peso negli ultimi 6 mesi.
+
+Esame fisico
+L'esame fisico ha rivelato un indice di Karnosky del 90%, buone condizioni generali e un'auscultazione cardiorespiratoria irrilevante. Il risultato più notevole era una semiologia di ascite moderata.
+
+Test aggiuntivi
+Un emogramma, la biochimica e l'emostasi sono stati richiesti e gli unici risultati degni di nota sono stati l'elevata lattato deidrogenasi (600 U/L) e la creatina proteina chinasi (280 U/L). È stata eseguita anche la sierologia per i virus epatotropi (B e C) e il virus dell'immunodeficienza umana, entrambi negativi, e l'analisi del liquido ascitico è risultata positiva per la cellularità maligna.
+È stata eseguita una tomografia assiale computerizzata toracica, addominale e pelvica (CT-PAT), che ha mostrato una grande massa cistica che copre gran parte dell'addome, così come una grande quantità di liquido intraperitoneale suggestivo di ascite, oltre a molteplici impianti peritoneali. La tomografia a emissione di positroni è stata completata, mostrando la nota grande massa addominale senza attività metabolica.
+
+Diagnosi
+Infine, è stata eseguita una biopsia con ago sottile della lesione ed è stata fatta la diagnosi di un tumore a cellule fusate. L'immunoistochimica ha mostrato positività per vimentina, actina, CD-117, CD-34 e in isolamento per S-100. Negativo per la desmina. L'indice di proliferazione cellulare valutato dal Ki-67 era del 5%. Pertanto il profilo immunoistochimico ha suggerito una diagnosi di tumore stromale gastrointestinale (GIST).
+
+Trattamento
+A causa del grande volume del tumore, è stato deciso di iniziare un trattamento neoadiuvante con imatinib 400 milligrammi al giorno e un'ulteriore valutazione a 2 mesi per un possibile salvataggio chirurgico. La tolleranza iniziale all'imatinib era adeguata, presentava solo un lieve edema palpebrale, ma l'ascite non si placava e richiedeva il posizionamento di un drenaggio peritoneale permanente a causa della ripetuta paracentesi richiesta.
+
+Evoluzione
+Due mesi dopo il trattamento, il paziente è rimasto con abbondanti debiti di liquido ascitico dal drenaggio. Una TAC addominale è stata eseguita per la valutazione, dove la grande massa peritoneale persisteva, con una riduzione minima della componente cistica e una diminuzione del coinvolgimento peritoneale, il che significava una scarsa risposta sia clinicamente che radiologicamente. Con questo, il comitato multidisciplinare di Chirurgia Digestiva ha deciso di eseguire una laparotomia esplorativa, dove è stata osservata la grande massa di 50x30 centimetri (cm), che occupava l'intero addome, con la sua origine nella curvatura gastrica maggiore. La resezione radicale della massa è stata eseguita durante la stessa procedura chirurgica.
+La biopsia chirurgica ha mostrato un tumore GIST ad alto rischio con un diametro massimo di 21 cm.
+Le aree di necrosi erano del 30% e l'indice di proliferazione cellulare con Ki67 era del 3%.
+La TAC di follow-up post-operatorio ha mostrato la scomparsa della massa peritoneale, ma un aumento della densità di grasso intraperitoneale e delle goccioline paracoliche in relazione alla carcinomatosi peritoneale.
+Pertanto, c'era una chiara indicazione per il trattamento con imatinib pseudoadiuvante, a causa delle grandi dimensioni, nonostante la posizione gastrica e il basso tasso di mitosi. Data la scarsa risposta iniziale e la malattia persistente, abbiamo deciso di iniziare il trattamento con imatinib 800 mg.
+Dopo l'intervento e con l'inizio del trattamento ad alte dosi, il paziente ha sperimentato un grande miglioramento dal punto di vista clinico. L'ascite e il dolore epigastrico sono scomparsi completamente e ha iniziato a guadagnare peso progressivamente. Anche la tolleranza al trattamento a dosi più elevate è stata eccellente. L'unica incidenza degna di nota è stata la comparsa di un edema palpebrale. Da un punto di vista analitico, il profilo tiroideo è rimasto stabile.
+Dopo 16 settimane di trattamento, la scansione CT-CT ha mostrato la completa scomparsa del coinvolgimento peritoneale, senza alcuna evidenza di malattia nel test di imaging. Abbiamo continuato il trattamento con una tolleranza simile alla precedente. A causa della natura atipica del quadro, abbiamo richiesto lo stato mutazionale. I risultati sono stati negativi alla mutazione di c-kit e positivi alla mutazione dell'esone 18 di PDGFR-A, la mutazione è pD842V.
+Attualmente, dopo 54 settimane di imatinib, persiste senza evidenza di malattia.

@@ -1,0 +1,27 @@
+Anamnesis
+Varón de 18 años de edad que acude al Servicio de Urgencias de nuestro hospital por presentar un cuadro clínico de inicio brusco de unas dos horas de evolución de alteración visual campimétrica derecha, instaurándose posteriormente, y de forma progresiva, hipoestesia facio-braquio-crural derecha y dificultad grave para la emisión del lenguaje espontáneo con leve alteración de la comprensión. Refería asimismo cefalea de difícil caracterización debido al lenguaje disfásico. El paciente y los familiares negaron cualquier antecedente personal o familiar de interés. Ante un cuadro deficitario neurológico de instauración brusca, se activó el código ictus y se avisó a Neurología.
+
+Exploración física
+Tensión arterial 130/70 mmHg, temperatura 37 oC, frecuencia cardiaca 100 lpm. Bien nutrido, hidratado y perfundido. Exploración por órganos y aparatos: sin hallazgos relevantes.
+
+Exploración neurológica. Funciones corticales: consciente, alerta y colaborador.Afasia mixta grave de predominio motor, con emisión de abundantes parafasias. Resto de la exploración cognitiva no valorable por el grado de afasia. Pares craneales: campimetría por confrontación sin alteraciones evidentes. Fondo de ojo sin papiledema ni palidez papilar. Pupilas isocóricas y normorreactivas a la luz y a la acomodación. Motilidad ocular extrínseca sin restricciones. No nistagmus. No asimetrías faciales. Resto de pares craneales explorados sin alteraciones. Sistema motor: balance y tono muscular conservados en las cuatro extremidades. Reflejos de estiramiento muscular 2+/4 de forma global y simétrica. Reflejo cutáneo-plantar flexor bilateral. Sistema sensorial: hipoestesia tactoalgésica facio-braquio-crural derecha. Cerebelo: pruebas cerebelosas sin alteraciones. Bipedestación y marcha estables, sin aumento de la base de sustentación. No signos meníngeos.
+
+
+Pruebas complementarias
+• Hemograma: sin alteraciones significativas.
+• Bioquímica: sin alteraciones significativas.
+• Coagulación: sin alteraciones significativas.
+• Radiografía de tórax: sin alteraciones.
+• Electrocardiograma: ritmo sinusal a 100 lpm. No alteraciones de la repolarización.
+• Tomografía computarizada (TC) cerebral: sin alteraciones.
+• TC cerebral con perfusión: disminución de los parámetros de flujo sanguíneo cerebral con leve aumento del volumen sanguíneo cerebral de forma parcheada en el hemisferio cerebral izquierdo, incluyendo regiones correspondientes tanto al territorio carotídeo como vértebro-basilar, con parámetros de tiempo de tránsito conservados.
+• Angio-TC de troncos supraaórticos y polígono de Willis: sin estenosis ni otras alteraciones vasculares.
+• Resonancia magnética (RM) nuclear craneal con secuencias de difusión: sin alteraciones.
+
+Diagnóstico
+Probable migraña con aura prolongada.
+
+Tratamiento y evolución
+Ante los hallazgos radiológicos, que ponían en duda el diagnóstico de proceso cerebrovascular isquémico agudo, se realizó una reevaluación clínica del caso. Durante la realización de las pruebas de neuroimagen el paciente presentó varios vómitos de contenido alimenticio precedidos de náuseas. Tres horas después del inicio de la clínica comenzó la recuperación del déficit neurológico, desapareciendo en primer lugar las alteraciones sensoriales en el hemicuerpo derecho y posteriormente el déficit del lenguaje, siendo el tiempo total de la afectación neurológica unas 4 horas. Una vez que recuperó el lenguaje, refirió cefalea hemicraneal, de moderada intensidad, pulsátil, con sonofobia y fotofobia acompañantes, presente ya desde el día previo, aunque se recrudeció en las horas siguientes al cuadro deficitario focal neurológico.
+
+Reinterrogado, volvió a negar antecedentes tanto personales como familiares de cefaleas. Ante esta nueva evolución clínica y los hallazgos radiológicos, se desactiva el código ictus. El paciente permaneció 24 horas en observación, siendo dado de alta con recuperación completa del déficit neurológico y desaparición de la cefalea tras la administración de metoclopramida y metamizol intravenosos.

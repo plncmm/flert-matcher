@@ -1,0 +1,126 @@
+Una donna di 25 anni dell'Honduras ha consultato il dipartimento di emergenza per febbre febbrile, odinofagia e artralgie di 48 ore di evoluzione.
+
+Nelle ultime 10 ore ha sviluppato un'intensa cefalea olocranica, un'eruzione maculopapulare generalizzata e un edema alle mani e ai piedi.
+
+- Storia personale:
+- Nessuna ipertensione. Nessun DM. Nessun LD.
+- No Iqx.
+- Nessun trattamento abituale. No RAMc
+
+- Background epidemiologico:
+- Soggiorno in Honduras per 2 mesi (soggiorno a Tegucigalpa e Choluteca) come VFR.
+- Nessuna consulenza precedente. Nessuna vaccinazione per la febbre gialla.
+- Consumo di acqua potabile. Nessun consumo di cibo poco cotto/ crudo. Nessun contatto con gli animali. Nessun ricordo di punture di zanzara. Nessun contatto con persone malate. Nessuna relazione sessuale rischiosa.
+
+- Su ulteriori domande, il paziente ha riferito un episodio di caratteristiche simili all'inizio di gennaio con febbre, malessere, artromialgia ed eruzione cutanea generalizzata.
+- Ha consultato il suo paese e le è stato prescritto un trattamento sintomatico con una diagnosi di probabile viriasi. Risoluzione completa dopo 72 ore.
+- Fratello, a quel tempo, con sintomi simili.
+
+17/11/15 Arrivo in Honduras: Asintomatico. 
+02/01/16 Inizio della febbre: asintomatico.
+16/01/16 Ritorno in Spagna
+20/01/16 Nuova malattia febbrile
+22/01/17 Pronto soccorso
+
+Alla dimissione: BP 130/78 HR 110lpm SatO2 100% T basale 37.2o
+- Congiuntivite bilaterale non suppurativa.
+- Eruzione generalizzata non pruritica. Iniezione congiuntivale bilaterale.
+- ENT: nessun enanthema. Nessun'altra lesione della mucosa orale. Faringe iperemica senza essudati biancastri.
+- Adenopatia minima nelle catene cervicali.
+- AP: mvc senza rumori sovrapposti. AC: ritmico e senza mormorii.
+- ABD: normale. RHA+. Nessuna visceromegalia.
+- Edema sul dorso delle mani e bimalleolare.
+
+Diagnosi differenziale febbre ed eruzione cutanea.
+
+Test complementari
+LINFOCITI 0,76
+
+Richiesta urgente al micro:
+Colture di sangue e test rapido per la malaria. 2.
+2. Test rapido per la malaria e la febbre Dengue.
+3. Le emocolture non sono necessarie perché il paziente ha "qualcosa di virale".
+4. Sierologia urgente dell'HIV e test rapido per la Dengue.
+5. Colture di sangue e test rapido per la malaria e la dengue.
+
+- L'HCx2 viene estratto e il test rapido per la Dengue e il Plasmodium sono negativi.
+
+Test complementari da eseguire:
+1. Dimissione con trattamento sintomatico e follow-up nelle consultazioni.
+2. Sicuramente è dengue anche se il test rapido è negativo, lasciamo il paziente sotto osservazione per 24h.
+3. Scarico con ciprofloxacina e follow-up nelle consultazioni.
+4. Ricovero con ceftriaxone per sospetta leptospirosi.
+5. Ammissione con trattamento sintomatico per lo studio.
+
+Diagnosi sospette
+1. Febbre tifoidea.
+2. Morbillo o rosolia.
+3. Infezione virale importata.
+4. Malaria P. vivax.
+5. Si tratta di un'infezione rickettsiale e non l'avrei dimesso senza la doxiciclina.
+
+SOMMARIO
+- Paziente VFR con rash, febbre, artralgie, edema e congiuntivite.
+- Soggiorno in Honduras. Area urbana e rurale.
+- I sintomi sono iniziati 4 giorni dopo il ritorno dal viaggio.
+- Storia di una malattia febbrile simile 3 settimane prima.
+
+Giorno +5 dall'inizio dei sintomi
+REVISIONE NELLE CONSULTAZIONI:
+- Paziente già AFebrile.
+- Persistenza di esantema generalizzato con petecchie nelle aree distali e aumento delle artralgie e dell'edema di mani e piedi con impotenza funzionale che impedisce una corretta deambulazione.
+- Esame neurologico senza evidenza di alterazione della sensibilità o della forza. ROT conservato.
+- Test di laboratorio di controllo:
+- CRP 17,7; neutropenia 1480/ linfociti 3.090; plaq 314.000; coagulazione normale.
+- HCx2 risulta negativo.
+- Test sierologici eseguiti al pronto soccorso:
+- HIV: negativo. HAV IgG positivo. HBV: HBs positivo, il resto negativo. HCV: negativo. Sifilide: negativo.
+
+Lo studio microbiologico è stato esteso con:
+- PCR di Dengue, Chikungunya e Zika v. nel siero.
+- PCR nelle urine per v. Zika.
+- Sierologie per v. Dengue, Chikungunya e Zika.
+- Sierologie per Leptospira, Rickettisia, Borrelia, rosolia, morbillo, parotite, parvovirus B19, CMV, HAV, HBV e HCV.
+
+Giorno + 6 dall'inizio dei sintomi
+
+PCR SERUM ZIKA Positivo
+PCR URINA ZIKA Positivo
+IgM ZIKA positivo
+IgG ZIKA
+PRNT Indeterminato
+
+DENGUE SERUM PCR Negativo
+DENGUE URINA PCR -
+DENGUE IgM negativo
+DENGUE IgG positivo
+PRNT DENGUE -
+
+CHIK SERUM PCR Negativo
+PCR URINA CHIK Negativo
+IgM CHIK positivo
+IgG CHIK positivo
+PRNT CHIK Positivo 1/256
+
+Giorno + 17 dall'inizio dei sintomi
+PCR URINA ZIKA Positivo
+Urina PCR CHIK Negativo
+
+Giorno + 34 di comparsa dei sintomi
+IgM ZIKA positivo
+IgG ZIKA positivo
+PRNT ZIKA Positivo 1/512
+
+IgM CHIK positivo
+IgG CHIK positivo
+PRNT CHIK Positivo 1/512
+
+
+DIAGNOSI FINALE
+1. Infezione acuta da virus Zika.
+2. Infezione da virus Chikungunya recente.
+3. Probabile infezione passata con il virus Dengue 
+
+EVOLUZIONE DEL PAZIENTE
+- Favorevole con risoluzione delle artralgie in 3 settimane.
+- È rimasta leggermente astenica. Nessun sintomo dopo due mesi di follow-up.

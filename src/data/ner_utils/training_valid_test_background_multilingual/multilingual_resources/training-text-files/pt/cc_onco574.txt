@@ -1,0 +1,24 @@
+Anamnese
+Um paciente do sexo masculino de 38 anos de idade recentemente operado para neoplasia testicular através de orquiectomia esquerda com resultados compatíveis com neoplasia de células germinativas intratubulares com extensão extratubular. O estudo de extensão destacou a existência de uma imagem de afrouxamento de balões e envolvimento extensivo de gânglios linfáticos retroperitoneais; marcadores tumorais elevados; α-fetoproteína, gonadotropina humana (ß-HCG) e desidrogenase láctica (LDH): todos compatíveis com um tumor testicular não-seminoma fase III.
+Depois de ser avaliado pela Oncologia Médica, foi proposto iniciar o tratamento com quimioterapia de primeira linha (QT) de acordo com o esquema BEP x 4 ciclos (bleomicina, etoposida e cisplatina). O tratamento estava programado para começar após a criopreservação do esperma.
+O paciente, 5 dias após ter sido avaliado, um dia antes do início programado do tratamento, dirigiu-se ao Departamento de Emergência para uma súbita insuficiência respiratória e febre.
+
+Exame físico
+Má condição geral com suor profuso. Taquipneia em repouso com saturação de oxigénio basal de 88%. Temperatura 38.5 oC.
+
+Testes complementares
+Foi solicitado um TAC urgente para excluir o tromboembolismo pulmonar. O TAC revelou múltiplas imagens nodulares de até 3 cm, amplamente distribuídas no parênquima pulmonar de ambos os pulmões (metástases conhecidas). Entremeadas com as imagens nodulares são áreas em vidro fosco, com características inespecíficas, para avaliar a sua origem (inflamatórias, infecciosas, etc.). As análises mostraram uma elevada proteína C-reactiva (CRP) e leucocitose com neutrofilia. Foi efectuada uma nova determinação de marcadores tumorais; LDH 810 U/l (intervalo normal 135-250), α-fetoproteína 42,73 ng/ml (intervalo normal 0-10) e ß-HCG 140-471 mIU/ml (intervalo normal 0-5). Antes do início da terapia antibiótica empírica, foram tomadas culturas de sangue periférico.
+
+Diagnóstico
+Insuficiência respiratória secundária a doença oncológica e infecção respiratória.
+
+Tratamento
+Foi iniciada a antibioticoterapia empírica com piperacilina-tazobactam, corticoterapia e terapia de fluidos, bem como o apoio respiratório com ventilação mecânica não invasiva.
+
+Evolução
+Dada a gravidade do doente, sendo uma doença oncológica potencialmente curável, foi decidido interná-lo na UCI, onde o tratamento foi iniciado com QT com etoposida e cisplatina; a bleomicina não foi prescrita para não interferir com a ventilação.
+Após a administração do primeiro ciclo de QT, a evolução do ponto de vista respiratório foi torpídea com secreções brônquicas que foram cultivadas e duas bactérias foram isoladas; Enterobacter aerogenes e Proteus mirabilis; ambas sensíveis aos carbapenems, acrescentando complicações como a pancitopenia secundária ao tratamento com QT. Foi iniciada uma antibioterapia orientada com meropenem 2 g a cada 8 horas, tratamento de apoio com factor de estimulação da colónia (G-CSF), transfusão de dois concentrados de glóbulos vermelhos e intubação orotraqueal.
+O paciente começou gradualmente, embora lentamente, a melhorar em termos de respiração, permitindo a extubação após 10 dias. Foi também observada uma diminuição dos níveis de marcadores tumorais. Tendo em conta a situação clínica estável, teve alta da UCI para a enfermaria de oncologia, onde foi administrado o segundo ciclo de QT.
+Finalmente, devido a uma melhoria clínica significativa, sem necessidade de apoio respiratório com oxigenoterapia, teve alta em casa para continuar o tratamento em regime ambulatório.
+Subsequentemente, recebeu mais 4 ciclos de QT de acordo com o esquema BEP com uma resposta parcial elevada dos nódulos pulmonares e massa retroperitoneal (CT de reavaliação), pelo que foi submetido a um resgate cirúrgico da massa retroperitoneal residual, com uma resposta parcial completa de acordo com os critérios de Avaliação de Resposta em Tumores Sólidos (RECIST).
+Actualmente, após três anos de acompanhamento, o doente não tem quaisquer indícios de doença.

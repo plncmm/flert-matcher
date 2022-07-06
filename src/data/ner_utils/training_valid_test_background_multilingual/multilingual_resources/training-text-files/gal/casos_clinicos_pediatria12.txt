@@ -1,0 +1,44 @@
+Pícara de dous anos que é trasladada ao Hospital Virxe da Saúde de Toledo por neumonía en lóbulo superior dereito (LSD) con derrame pleural asociado para drenaje do mesmo. Trasladada en ambulancia non medicalizada con osíxeno en lentes nasales a 3 lpm. En tratamento antibiótico intravenoso con ampicilina a 200 mg/kg/día durante 48 horas ao que se engade cefotaxima as últimas 24 horas. As constantes da paciente son frecuencia cardiaca (FC): 160 lpm, tensión arterial (TA): 100/50 mmHg, SatO2 99% con lentes nasales a 3 lpm, temperatura (Ta) de 38,6°C, frecuencia respiratoria (FR) 40 rpm. Á súa chegada atópase con regular estado xeral, palidez intensa de pel e mucosas, gradiente térmico de 3°C en xeonllos e cóbados, reencho capilar de 5 s. Dificultade respiratoria con tiraje sub e intercostal moderado. Auscultación cardiaca rítmica sen soplos e pulmonar con marcada hipoventilación en campo pulmonar dereito. O abdomen é brando e depresible, hepatomegalia de 2 cm de reborde costal, exploración neurológica consciente e orientada, meníngeos negativos. Inicialmente se expande a 20 ml/kg, mellorando a perfusión e desaparecendo o gradiente térmico pero persiste a taquicardia.
+
+Ante estes achados debemos sospeitar:
+a. Síndrome de resposta inflamatoria sistémica (SRIS).
+b. Sepsis.
+c. Sepsis grave.
+d. Shock séptico.
+e. Neumonía en LSD illada.
+
+No noso caso existen criterios de sepsis con disfunción de dous ou máis órganos pero sen chegar a cumprir criterios de shock séptico.
+
+Chegan os resultados do control analítico:
+• Hemograma: hemoglobina 6,9 g/dl, hematocrito 19,2%, plaquetas 18.000x106/L, leucocitos 15.500x106/L.
+• Bioquímica: glucosa 91 mg/dl, urea 105 mg/dl, creatinina (Cr) 1,29 mg/dl, GOT 227 Ou/L, GPT 55 Ou/L.
+• Gasometría venosa: pH 7,31, pCO2 45 mmHg, pO2 134 mmHg, HCO3 – 22,7 mmol/L, exceso de bases -3,3.
+Coagulación: T. protrombina 83%, INR 1,1, T. cefalina 54,4 s, fibrinógeno 954 mg/dl.
+
+Se transfunde un concentrado de plaquetas a 20 ml/ kg e canalizar vena femoral dereita. Comeza con maior traballo respiratorio, e epistaxis importante difícil de controlar. Decídese avisar a otorrinolaringología, que coloca taponamiento anterior. A pesar do taponamiento persiste sangrado e comeza con obnubilación e disminución do nivel de conciencia. Ante o baixo nivel de conciencia e o sangrado importante procédese a sedoanalgesiar á paciente e asegurar a vía aérea con intubación. Posteriormente, unha vez estabilizada, compróbase a presenza de derrame pleural con ecografía, evidenciando derrame pleural encapsulado de 3 cm desde escápula ata diafragma. Colócase tubo de drenaje pleural en zona de maior acúmulo; 5ou espazo intercostal e liña axilar posterior. Trala intubación se hipotensa presentando signos de gradiente térmico, frialdad distal e mala perfusión, polo que se inicia dopamina a 5 μg/kg/min Se ampla a analítica que presenta LDH elevada, bilirrubina elevada, aumento dos reticulocitos e descenso de haptoglobina.
+
+Suscitámosnos/Suscitámonos como posible etiologia do cadro:
+a. Síndrome hemolítico urémico (SHU) secundario a neumococo.
+b. Shock séptico secundario a neumonía complicada.
+c. Anemia hemolítica autoinmune (AHAI).
+d. Púrpura trombocitopénicatrombótica (PTT).
+e. Glomerulonefritis aguda postinfecciosa (GNAPI).
+
+Pensariamos en primeiro lugar no SHU xa que o shock séptico cursa con coagulopatía que non hai no noso caso. O SHU secundario a neumococo causa o 40% dos SHU non E. coli. No seu patogenia a neuraminidasa do neumococo degrada o ácido siálico que cobre o Ag T nas membranas de hematíes, plaquetas e endotelio glomerular que queda exposto. O recoñecemento de Ag T por AutoAc (IgM): causa hemólisis, agregación plaquetar e dano endotelial: Cooms directo +.
+
+Ante a nosa sospeita probablemente sera positivo:
+a. Cooms directo e Ag neumococo en líquido pleural.
+b. Coprocultivo para E. coli.
+c. Actividade ADAMTS 13 < 5%.
+d. Estudo xenético con mutación do factor H.
+e. Test rápido para H1N1 positivo.
+
+O diagnóstico etiológico do SHU debe incluír estudo de:
+• E. coli: test rápido (ELISA) de detección de STx en feces, coprocultivo, cultivo en agar sorbitol Mac Conkey, PCR, serologías, hemocultivo.
+• Neumococo: Test rápido de detección de Ag de neumococo en líquido pleural, Coombs directo positivo, cultivos (sangue, esputo, LCR...), test de Coombs.
+• VIH, H1N1: serologías.
+• MOI IMPORTANTE ANTE SOSPEITA DE SHU tomar mostra de plasma previa a transfusiones para SOLICITAR: actividade ADAMTS 13 e estudo do complemento C3, C4, CH50, FH, FI, FB, por si preséntase un caso de SHU atípico.
+
+Nosa paciente elevou as cifras de urea ata 114 e de creatinina ata 1,33 malia tratamento diurético, con hiperfosforemia e hiperpotasemia refractaria, con balance de +1.000 ml e diuresis de 0,7 cc/kg/h.
+
+A paciente conectouse a HDFVVC durante 72 horas, retirándose tras descenso de Cr a 0,97 e Urea a 91, e recuperar unha diuresis de 3 cc/kg/h con furosemida. Para o tratamento da neumonía mantense inicialmente con cefotaxima e vancomicina. Ao 5ou día de ingreso tras empeoramiento con elevación de RFA pásase a meropenem e linezolid. Engádese amikacina 4 días máis tarde (8ou día VM). Mantén amikacina 4 días (ata 48 horas tras extubación), linezolid durante 10 días e meropenem 13 días. Ante sospeita de neumonía tabicada adminístranse tres dose de urokinasa. Como complicación secundaria ao 4ou día de VM realiza atelectasia masiva de pulmón esquerdo e neumotórax dereito que precisa VAFO durante 5 días, e posteriormente continuar con VMC durante 48 horas máis. A TA mantívose en valores altos da normalidad du rante 48 horas, sen chegar a precisar tratamento antihipertensivo. Retírase tratamento diurético ao 18ou día de ingreso, con normalización da función renal Dada a persistencia do neumotórax mantense o tubo de drenaje ata o 28ou día de ingreso. Revisada en consultas de neumología con persistencia de 2 burbullas de neumotórax en campos anteriores dereitos, con persistencia de paquipleuritis. Función renal normalizada.

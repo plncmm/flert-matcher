@@ -1,0 +1,28 @@
+Anamnèse
+Une femme de 36 ans, sans antécédents, a consulté pour des maux de tête et une vision floue. Au cours des 3 semaines précédant l'admission, elle a présenté un syndrome fébrile avec des températures allant jusqu'à 38 oC, et 5 jours avant l'admission, elle a eu une céphalée frontale prédominante et une vision floue bilatérale avec une douleur rétro-oculaire.
+
+Examen physique
+Fièvre de 37,5 oC. L'acuité visuelle était de 0,2 dans les deux yeux et un œdème papillaire bilatéral. Le reste de l'examen neurologique et systémique était normal. Flou des bords papillaires et élévation papillaire bilatérale. Plusieurs petites lésions nodulaires jaunâtres ont été visualisées dans la rétine nasale.
+
+Tests complémentaires
+- NFS : normale. ESR 22 mm, CRP normale. Bêta-2-microglobuline 2.81.
+- Auto-immunité (ANA et ACA) négative.
+- Angiofluorescéine oculaire : compatible avec une névrite optique bilatérale.
+- IRM cérébrale : petite lésion frontale compatible avec un méningiome comme seule découverte.
+- Ponction lombaire à l'admission : pression d'ouverture normale, glucose 45 (sang simultané 110). Hyperprotéinorragie de 126, 70 cellules majoritairement mononucléaires (97%), globules rouges 3.600, ADA 7,9. BOC négatif. Ponction lombaire en série similaire, compatible avec une méningite lymphocytaire.
+- Ponction lombaire (après traitement tuberculostatique) : glucose 53 (114 simultané), 66 protéines, leucocytes 7, globules rouges 6.
+- Sérologie dans le sérum et le LCR pour Borrelia, Brucella, lupus, VIH, Bartonella, herpès, antigène cryptococcus : négative.
+- Mantoux, culture mycobactérienne, PCR pour la tuberculose négatifs.
+- Radiographie du thorax : pas d'altération notable.
+- ECG : rythme sinusal normal.
+- Tomodensitométrie thoraco-abdominale : petite lymphadénopathie médiastinale non spécifique, et une seule lymphadénopathie abdominale près du tronc cœliaque, sans évoquer d'anomalie.
+
+Diagnostic
+Diagnostic initial : méningite et névrite optique tuberculeuse comme première possibilité.
+Diagnostic définitif : sarcoïdose.
+
+Traitement
+Dans un premier temps, un traitement à base de médicaments antituberculeux et de corticostéroïdes (pendant un mois) est mis en place. Sept mois après le nouveau diagnostic, une corticothérapie et une immunosuppression avec du méthotrexate ont été commencées.
+
+Evolution
+Depuis la première admission, elle a été réévaluée après 2 mois, où elle était afébrile et asymptomatique, à l'exception d'un léger déficit visuel bilatéral. Malgré les résultats négatifs confirmant la méningite tuberculeuse, l'amélioration clinico-analytique (la ponction lombaire a été répétée) a conduit à maintenir le traitement par tuberculostatiques. Sept mois plus tard, il a été réadmis une troisième fois pour une paralysie faciale périphérique gauche. Lors de cette admission, le diagnostic a été reconsidéré et les tests ont été répétés. La ponction lombaire était similaire aux précédentes (hyperprotéinorragie persistante, glucose limite et faible cellularité avec 8 cellules mononucléaires), l'ACE du LCR était négative et l'ACE sérique était de 54 (valeur de référence normale 52) ; cependant, le scanner thoracico-abdominal a montré des adénopathies médiastinales et abdominales élargies avec l'apparition d'infiltrats pulmonaires bilatéraux. Devant ce constat, une fibrobronchoscopie des adénopathies a été réalisée avec lavage bronchoalvéolaire et des biopsies ont été prélevées, avec un rapport CD4/CD8 bas (ce qui ne favorisait pas, mais n'excluait pas, le diagnostic de sarcoïdose). Toujours en attente de l'anatomie pathologique et de l'examen des résultats à la clinique externe, elle a été admise une quatrième fois 2 mois plus tard pour une paralysie faciale droite, avant qu'elle ne se résorbe du côté controlatéral. Les résultats de l'anatomie pathologique ont révélé une inflammation granulomateuse non nécrosante de type sarcoïde. À ce stade, le traitement tuberculostatique a été interrompu et il a été décidé de commencer un traitement immunosuppresseur à base de corticostéroïdes et de méthotrexate.

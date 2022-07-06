@@ -1,0 +1,36 @@
+A 54-year-old male smoker with a history of obesity, dyslipidemia, ischemic heart disease and intermittent claudication.
+She underwent vascular surgery with right iliofemoral bypass, with placement of a Dacron vascular prosthesis for critical stenosis of the iliac artery.
+In the immediate postoperative period she presented fever accompanied by erythema, edema and seropurulent▁exudate through the surgical wound.
+The patient had leukocytosis (12600/mm3) and elevated CRP (425 mg/L).
+Blood cultures were negative.
+An emergency CT scan was performed 24 hours after the intervention, which revealed a fluid collection and gas in the abdominal wall fixed to the emergency prosthesis, which could correspond to postsurgical changes.
+In the culture of▁exudate from the surgical wound, Staphylococcus aureus sensitive to challenge was isolated.
+suspected deep infection of the surgical wound treatment was initiated with intravenous cloxacillin 2g every 6 hours for two weeks, changing to discharge by levofloxacin 750 mg/24h plus oral administration completing 2 weeks
+The patient had a good evolution of the symptoms and the fever disappeared.
+Differential diagnosis The appearance of a seropurulent▁exudate through a surgical wound raises the differential diagnosis between several entities.
+On the one hand, the possibility of facing a non-infectious process such as post-surgical serous▁exudate that may exist in certain cases should always be taken into account.
+The fact that the patient presented fever, elevated acute phase reactants and isolation of S. aureus in the▁exudate leads us to think that this is an infection of the surgical bed.
+However, CT findings that showed the presence of a periprosthetic collection, of non-significant size (< 5mm) and high density (>20 U Housfield), could be justified by changes related to surgery.
+Assuming that there is infection, we must differentiate whether it is a superficial, deep or intra-uterine infection, since treatment and severity can be very different.
+It is difficult to differentiate between these three entities because local or systemic symptoms and purulent secretion can occur in all of them, with or without isolation of microorganisms.
+Among the most common microorganisms isolated in infections after vascular surgery are S. aureus (20-53%), enterobacteria (14-41%) and S. coagulasa negative (15%).
+Other microorganisms should be considered, such as Streptococcus spp., Gram negative bacilli non-identifying or enterococci (10%-15%).
+Polymicrobial (20%), purely anaerobic (5%) infections, or vesicular (1-2%) infections can also be found1.
+We cannot forget multiresistant microorganisms such as ESBL-producing Enterobacteriaceae or S. aureus resistant to urticaria affect patients with specific risk factors.
+One month later, the patient was readmitted due to fever and pain in the surgical area, with neutrophilia (16,000/mm3) and elevated CRP (308 mg/L).
+S. aureus susceptible to bacteraemia was isolated from blood cultures.
+A new CT scan showed a pseudoaneurysm in the anastomosis of the prosthesis with the distal artery and a collection around the prosthesis.
+C/c: pseudoaneurysm in the anastomosis of the prosthesis.
+3D vascular image by CT reconstruction, where pseudoaneurysm is observed in the distal vascular anastomosis.
+The patient was re-operated on from the emergency department with surgical debridement, drainage, resection of the pseudoaneurysm and of the distal segment of the vascular prosthesis, taking intraoperative cultures that were negative.
+The postoperative evolution of the wound was torpid, healing by second intention, through local healing and vacuum system.
+Suspicion of stent infection and the presence of potentially complicated bacteremia due to S. aureus was initiated with antibiotic treatment with 2g cloxacillin every 4 h for two weeks, with negative control blood cultures.
+Subsequently, he completed treatment with levofloxacin 750 mg and rifampicin 600 mg orally every 24 hours for 4 months on an outpatient basis.
+During follow-up, the patient presented a fistula orifice in the wound, with intermittent drainage of purulent material and seropositivity.
+With the suspicion of persistent infection of the segment of the unresected prosthesis, a scintigraphy with marked leukocytes and SPECT-CT was performed with the objective of capturing the radiotracer in the proximal segment of the recently iliofemoral prosthesis.
+SPECT-CT: radiotracer uptake in the proximal segment of the iliofemoral prosthesis.
+For this reason, a new intervention was necessary, in which all protuberant material was removed.
+Escherichia coli was isolated in culture.
+The patient completed treatment with ceftriaxone 1g/24h for 7 days followed by ceftibutene 400mg/24h orally for another week.
+Since then the patient remained asymptomatic to date.
+Final diagnosis Early infection of deep surgical wound by S. aureus and late infection of vascular prosthesis by E. coli.

@@ -1,0 +1,41 @@
+Exponse o caso dun varón de 37 anos, de orixe africana, que reside en España desde fai 10 anos. Consulta por dor abdominal de 3 semanas de evolución, febre/ febrícula e aumento do perímetro abdominal.
+Á exploración, bo estado xeral, destacando TA 110/70 mmHg, FC de 110 spm e Ta de 37.8 oC. Abdomen doloroso á palpación difusa, con ascitis non a tensión. Non outros achados de interese.
+Entre os estudos complementarios, realízanse perfís analíticos, normais salvo GPT 62 Ou/l, CPK 1695 Ou/l, PCR 177 mg/l, VSG 100 mm/h, hemoglobina de 114 g/l, neutrofilia relativa do 67% sen leucocitosis, fibrinógeno de 7,5 g/l e INR 1,4. En ecografía abdominal destaca esplenomegalia homogénea e abundante líquido libre sen outras alteracións. Realízase paracentesis, cuxa bioquímica arroxa 2214 células/mm3 (95% de mononucleares), proteínas 59 g/L, ADA 154 mU/mL, LDH 728 mU/mL, gradiente sero-ascítico de albúmina de 8"8 g/L. Os hemocultivos, urocultivos, baciloscopia e cultivo de esputo foron negativos. A radiografía de tórax e abdomen normais e no TC c/c intravenoso de abdomen observáronse adenopatías diafragmáticas e mesentéricas, abundante líquido intraperitoneal, realce de follas peritoneales e infiltración de omento maior.
+
+Diagnóstico diferencial
+Trátase dun paciente de orixe africana, pero tendo en conta que a causa máis frecuente de ascitis é debida a hipertensión portal por cirrosis hepática (cun 80% de frecuencia) hai que descartar múltiples etiologías pola súa prevalencia, así como outras menos frecuentes pero posibles debido á procedencia e características socio-demográficas e clínicas do paciente:
+
+Hipertensión portal:
+• Cirrosis (80% de todos os casos de ascitis).
+• Hepatitis aguda alcohólica: pode deberse a unha hipertensión portal de base debido a cirrosis ou a unha obstrucción venosa portal transitoria, xunto co estado de malnutrición asociado.
+• Fallo hepático agudo: todas as causas de hepatitis aguda fulminante poden desencadear ascitis.
+• Enfermidade veno-oclusiva hepática (síndrome de Budd- Chiari): por obstrucción debido a tormbosis de polo menos 2 das 3 venas suprahepáticas.
+• Insuficiencia cardíaca.
+• Pericarditis constrictiva: a disminución do retorno venoso pode desencadear ascitis por conxestión.
+
+Hipoalbuminemia:
+• Síndrome nefrótico.
+• Enteropatía perde-proteínas.
+• Malnutrición severa. 
+
+Patología peritoneal:
+• Ascitis por malignidad (cancro gástrico, cancro colorrectal, cancro de páncreas...): de moi difícil diagnóstico ao presentarse de forma moi similar a outras patologías, na discusión revisaranse os seus principais características.
+• Peritonitis infecciosa:
+- Peritonitis bacteriana espontanea: capital descartala en pacientes cirróticos con ascitis.
+- Peritonitis bacteriana secundaria (perforación encuberta): por perforación de víscera oca, as características do líquido ascítico serían diferentes, con elevada celularidad e predominio de PMN, ademais a presentación sería moito máis aguda.
+- Tuberculosis peritoneal: dado a orixe e a forma de presentación, é moi probable, pero débense excluír outras causas.
+- Peritonitis fúngica: sobre todo o pacientes en terapia renal sustitutiva con diálisis peritoneal, que non é o noso caso.
+- Parásitos: excepcionalmente, pero dado a procedencia do paciente, habería que telas en conta (hidatidosis, esquistosomiasis, toxocariasis...) aínda que é moi característico que curse con ascitis eosinofílica.
+• Mesotelioma primario. Eosinofilias sistémicas: Patologías sistémicas con grave afectación de órgano que poidan dar infiltración hepática como as síndromes hipereosinofílicos, síndrome de Churg-Strauss, etc. Cursarían con eosinofilia na. 
+
+Inflamatoria/Autoinmune:
+É necesario descartar patología inflamatoria e autoinmune, que pode cursar con serositis:
+• Síndromes autoinflamatorios: febre mediterránea familiar, criopirinopatías, síndromes periódicas asociados a receptor anti-TNF... Requírese alto índice de sospeita, a ascitis por serositis é pouco frecuente.
+• Enfermidades autoinmunes: LLES (pouco frecuente), artritis reumatoide, hepatitis autoinmune e colestasis crónicas (cirrosis biliar primaria e colangitis escerosa che primaria en fase de cirrosis, etc. outras causas: Sarcoidosis (forma rara de presentación), ascitis quilosa (líquido ascítico lechoso, predominan trglicéridos), ascitis pancreática (amilasa elevada), mixedema, hemoperitoneo, dano urológico...
+
+Evolución
+Durante a hospitalización do paciente, efectúase nova paracentesis (800 ml), con líquido ascítico similar; se centrifuga e cultívase ese líquido ascítico. Tras 14 días de ingreso, realízase laparoscopia diagnóstica con toma de biopsias para cultivo e anatomía patológica. O informe laparoscópico informa de cadro adherencial masivo, granulado miliar en peritoneo parietal, visceral e epiplón, con cuantiosa ascitis, compatible con peritonitis tuberculosa.
+A anatomía patológica informa de inflamación granulomatosa necrotizante e o cultivo da biopsia resulta positivo para Mycobacterium tuberculosis no medio de Lowenstein, sen resistencias a isoniazida nin rifampicina, con PCR positiva; no cultivo do centrifugado de líquido ascítico crece a mesma especie, con PCR negativa. Iníciase tratamento con 4 drogas e prednisona, con excelente evolución e resolución dos síntomas.
+
+Diagnóstico final
+Peritonitis tuberculosa.

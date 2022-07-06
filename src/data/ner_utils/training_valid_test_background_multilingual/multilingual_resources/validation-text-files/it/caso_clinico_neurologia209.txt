@@ -1,0 +1,27 @@
+Anamnesi
+Un uomo di 57 anni è stato seguito per un anno a causa di ipoestesia alle mani e ai piedi, iniziata l'anno precedente. Dislipidemia e grave esenolismo fino a 5 anni fa. Nell'anamnesi ha negato qualsiasi storia familiare di interesse. Il paziente è stato consultato per ustioni indolenti sulle mani, con ipoestesia di distribuzione alle dita 2 e 3 della mano destra e al dito 5 della sinistra, con un successivo peggioramento rapidamente progressivo che interessa le mani e gli arti inferiori (MMII) fino alle ginocchia in modo diffuso, seguendo una distribuzione a guanti e calze. Questi sintomi erano accompagnati da goffaggine motoria distale nelle mani. Si era ferito le estremità distali senza rendersene conto, e si era anche fatto suturare senza anestesia. Ha negato sintomi suggestivi di disautonomia, così come sintomi sistemici o costituzionali.
+
+Esame fisico
+Esame sistemico normale. Non c'erano lesioni dermiche o mucose. Non c'erano deformazioni articolari e nessun ispessimento palpabile dei tronchi nervosi. Nell'esame neurologico iniziale le funzioni mentali superiori erano conservate. Il linguaggio era normale. I nervi cranici non erano alterati. L'equilibrio muscolare ha mostrato una leggera paresi (4/5) dell'abduttore digitorum brevis del primo dito della mano destra e del primo interosseo dorsale della mano sinistra, senza atrofia o fascicolazioni. L'esame sensoriale ha mostrato ipoestesia agli arti superiori (MMSS), più marcata a livello del territorio del nervo mediano nella mano destra e ulnare nella mano sinistra. Le MMII sono state colpite fino alle ginocchia con un'anestesia totale distale. Non c'è stata alcuna diminuzione della sensibilità vibratoria. C'era una marcata anidrosi distale, con disturbi trofici come la perdita di capelli. L'andatura era normale, Romberg negativo. I riflessi osteotendinei erano conservati con un riflesso cutaneo-plantare indifferente.
+Un nuovo esame 5 mesi dopo ha rivelato una distribuzione più diffusa di ipoestesia a livello distale, così come una debolezza più marcata con ipotrofia dei muscoli ulnari della mano sinistra associata ad atrofia dell'adduttore digitorum brevis del primo dito della mano destra. Questi risultati erano indicativi di una multineurite.
+
+Test complementari
+- Esami del sangue: emogramma, biochimica e coagulazione normali. HDL e colesterolo LDL normali. Funzione tiroidea normale e marcatori tumorali. Studio autoimmune con ANA, C-ANCA, P-ANCA e anti-Ro negativi. Anticorpi anti-ganglioside (anti-GM1 e GQ1b IgG) negativi. Crioglobuline negative. Immunoglobuline e proteinogramma normali. Immunoelettroforesi senza risultati di gammopatia. ACE normale.
+- Sierologia per HIV, HBV, HCV e Borrellia negativa.
+- TAC toraco-addominale-pelvica: normale.
+- Risonanza magnetica della colonna cervicale e del cranio: nessun risultato degno di nota.
+- Studio del liquido cerebrospinale (CSF): citochimica normale, senza dissociazione albuminocitologica. La citologia, la coltura batterica e la PCR del virus erano negative.
+- Analisi dell'attività dell'alfa-galattosidasi A normale (malattia di Fabry negativa).
+- Elettroneurografia ed elettromiogrammi seriali (EMG/ENG):
+- Risultati iniziali compatibili con una neuropatia sensitivo-motoria, principalmente di carattere gravemente demielinizzante ma anche assonale. Predominanza nella MMSS, asimmetrica e con grande cronodispersione, latenze aumentate e basse velocità di conduzione, diminuzione dell'ampiezza dei potenziali motori (CMPA) e potenziali sensoriali quasi inevitabili. Elettroneurografia con potenziale motorio mediano con grande cronodispersione, latenza aumentata e ampiezza diminuita.
+- Cambiamento del modello di coinvolgimento in EMG/ENG successivi: scomparsa dei potenziali sensibili (NR). Grave diminuzione delle ampiezze CMPA, persistendo una grande cronodispersione delle risposte con latenze distali allungate. Coinvolgimento frammentario, in quanto alcuni nervi come il nervo radiale destro o il nervo motore peroneo sinistro hanno mostrato valori normali, un risultato suggestivo di multineurite. EMG con modello neurogenico ridotto.
+- Biopsia surale: neuropatia evoluta grave con perdita completa di tutte le fibre, infiammazione e presenza di bacilli intracellulari con colorazione Fite positiva compatibile con la lebbra lepromatosa. Biopsia del nervo surale: si osservano numerosi bacilli Fite-positivi.
+
+Diagnosi
+Multineurite infettiva dovuta al Mycobacterium leprae.
+
+Trattamento
+È stato iniziato un trattamento specifico con rifampicina, dapsone e clofazimina.
+
+Evoluzione
+Dato il sospetto iniziale di una neuropatia immunomediata, sono stati provati diversi cicli di Ig IV e corticosteroidi orali, senza miglioramento. Il decorso clinico continuò a progredire, sviluppando lesioni ulcerative sui piedi.

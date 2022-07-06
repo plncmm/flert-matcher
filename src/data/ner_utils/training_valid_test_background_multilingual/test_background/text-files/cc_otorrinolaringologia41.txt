@@ -1,0 +1,22 @@
+Presentamos el caso de una mujer de 45 años de edad, diagnosticada de hipotiroidismo, en tratamiento con hormona tiroidea, sin otros antecedentes médicos o quirúrgicos. Desde hace unos tres años nota una tumoración localizada en la cola de la parótida izquierda, de crecimiento lento e indolora. No refiere sintomatología de obstrucción nasal, epistaxis ni síntomas otológicos.
+
+En la exploración se palpa una tumoración de 2x1 cm., localizada por detrás de la rama vertical de la mandíbula izquierda, dura, no adherida a planos superficiales pero si en profundidad; también se palpan adenopatías cervicales de pequeño tamaño, de localización yúgulo-digástrica y submaxilar. La exploración nasal, de faringe, laringe es normal.
+
+Se realiza punción-aspiración con aguja fina (PAAF), siendo informada de citología negativa para malignidad, los hallazgos son congruentes con linfadenitis crónica reactiva, no obstante la ausencia de macrófagos con cuerpos tingibles hace recomendable la biopsia, según criterio clínico.
+
+En el estudio mediante TAC, con técnica helicoidal, se aprecia una masa de contornos mal definidos localizada en la cola de la parótida izquierda; también se identifican numerosas adenopatías cervicales a nivel yúgulo-carotídeo y submaxilar bilateral. Como hallazgo casual se aprecia la existencia de lesiones líticas de pequeño tamaño que afectan a los cuerpos vertebrales C4, C5, C6 y D1.
+
+Con la sospecha clínica de linfadenitis (PAAF, múltiples adenopatías) se decide la realización de biopsia de la lesión, con anestesia local, comprobándose que se trata de una tumoración no encapsulada y dependiente de la cola de parótida, extirpándose aparentemente en su totalidad. Microscópicamente se observa una infiltración difusa por una tumoración de estirpe epitelial acompañada por abundante infiltrado linfoide reactivo; en el estudio inmunohistoquímico se determina que las células tumorales se tiñen intensamente con las citoqueratinas (CK) Cam- 5.2 y AE1-AE3, mostrando numerosas células linfoides acompañantes CD20 y CD3 positivas, así como ocasionales células histiocitarias CD68 positivas.
+
+
+El diagnóstico anatomopatológico es de carcinoma indiferenciado de tipo linfoepitelioma-like de parótida, aunque debería descartarse una metástasis de carcinoma nasofaríngeo.
+
+Con los datos anatomopatológicos y los estudios de imagen de TAC (múltiples adenopatías cervicales, lesiones en cuerpos vertebrales) nos planteamos la actitud terapéutica más adecuada para esta patología (¿enfermedad con extensión regional?, ¿con metástasis a distancia en vértebras?,...).
+
+Se realiza una valoración por el servicio de Traumatología para descartar posibles metástasis óseas, mediante Resonancia Nuclear Magnética cérvico- dorsal y un rastreo corporal con Gammagrafía ósea, concluyendo que no se observan lesiones sugestivas de metástasis óseas. En la radiografía de tórax no se aprecian lesiones que nos hagan sospechar la existencia de metástasis en pulmón.
+
+Considerando que se trata de una enfermedad local-regional se realiza parotidectomía y vaciamiento cervical homolateral.
+
+La anatomía patológica de la pieza quirúrgica es de parotidectomía sin evidencia de carcinoma residual (se identifican dos ganglios linfáticos intraparotídeos sin alteraciones), de los 40 ganglios cervicales disecados en ninguno se encuentra metástasis tumoral. Sobre el bloque de parafina se realiza inmunotinción para determinación del virus de Epstein-Barr (EBV), concluyendo que se trata de un Carcinoma linfoepitelial de parótida, negativo para el EBV.
+
+Para completar el tratamiento se realiza radioterapia postquirúrgica usando bomba de Cobalto mediante campos opuestos sobre la región parotídea izquierda, la nasofaringe, la orofaringe y la región cervical alta, con una dosis total de 45 Gy (180 cGy/día); sobre las cadenas ganglionares cervicales la radiación fue de manera bilateral, con una dosis total de 55 Gy (unos 200 cGy/día). Cuatro años tras la cirugía y radioterapia (2007) la paciente sigue haciendo revisiones en consultas externas de ORL.

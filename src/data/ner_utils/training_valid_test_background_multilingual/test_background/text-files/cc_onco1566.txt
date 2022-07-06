@@ -1,0 +1,26 @@
+Anamnesis
+Varón de 54 años de edad, fumador de un paquete al día desde la juventud y bebedor moderado que presenta como antecedente médico de interés una hipoplasia ocular izquierda congénita por lo que portaba una prótesis, que es diagnosticado en febrero de 2012, durante un ingreso en el Servicio de Neumología por un cuadro constitucional y dolor dorsal derecho de cinco meses de evolución, de un adenocarcinoma de pulmón en el lóbulo superior derecho con afectación por contigüidad del tercer, cuarto y quinto arcos costales derechos (T3N3M1a, estadio IV).
+Una vez realizado el diagnóstico, es trasladado al Servicio de Oncología Médica para valorar el inicio de tratamiento citotóxico. Resultaba llamativo en el paciente que había comenzado con una poliuria y nicturia en torno a 8 L al día acompañada de una sed intensa que compensaba bebiendo grandes cantidades de líquidos. Asimismo, refería disminución de la libido, lo cual se había asumido que estaba en el contexto de la enfermedad grave y debilitante que padecía.
+
+Exploración física
+Tensión arterial 114/ 57 mm Hg; frecuencia cardíaca 60 lpm; temperatura 36.6 oC; Sat. O2 96%. ECOG 3.
+Regular estado general, aspecto desnutrido (IMC 17,8 kg/m2). Bien hidratado y prefundido. Auscultación cardíaca: rítmica y nomofrecuente, sin soplos. Auscultación pulmonar: hipofonesis en el ápex derecho.
+Algún roncus disperso en ambos hemotórax.
+Abdomen: blando y depresible, no se palpan masas ni megalias. No doloroso a la palpación. Neurológico: normal.
+
+Pruebas complementarias
+• Función hepática, renal e iones: normales.
+• Hemograma: hemoglobina y leucocitos normales. Trombocitosis de 648.000/mm.
+• Bioquímica de orina: densidad 1.010; osmolalidad 186 mOsm/kg (500-800); potasio urinario 6,9 mmol/L; sodio urinario 29 mmol/L.
+• Estudio hormonal: T4 libre 0,54 ng/dL (0,93-1,7); TSH basal 0,01 mUI/mL (0,27-4,2); LH 0,1 mUI/mL (1,26-10,5); FSH 0,58 mUI/mL (1,37-13,58); PRL 7,77 ng/mL (1-40); testosterona 0,11 ng/mL (1-8); GH 0,48 ng/mL (0,2-2).
+
+Tratamiento y evolución
+Ante la clínica de poliuria y polidipsia con orina hipotónica, se planteó la posibilidad diagnóstica de una diabetes insípida por afectación hipofisaria metástasica, a lo que contribuyó el que se objetivase en el estudio hormonal un hipogonadismo e hipotiroidismo primarios.
+A los dos días de estar en nuestro Servicio, presenta ptosis palpebral derecha y se objetiva una parálisis del III nervio craneal derecho, lo que suponía una gran limitación para el enfermo, ya que era el único ojo por el que veía.
+Se realiza una TC cerebral en la que se objetiva una masa hipofisaria con erosión del dorso selar y un engrosamiento de seno cavernoso derecho con respecto al contralateral.
+Se completa el estudio con una RM cerebral en la que se visualiza una silla turca aumentada de tamaño y ocupada por una masa intraselar de 22 x 13,5mm ligeramente hipointensa en T2 con captación de contraste heterogéneo. La masa invade el seno cavernoso derecho desplazando la carótida intracavernosa lateralmente. El margen superior de la lesión impronta la cisterna supraselar y el quiasma óptico.
+Se identificaba, asimismo, otra lesión nodular supraselar, aparentemente independiente de la intraselar, de aproximadamente 10 x 9 mm, ligeramente hiperintensa respecto a la sustancia gris y en estrecha relación con ambas cintillas ópticas, el infundíbulo y el hipotálamo.
+Dada la patología tumoral del paciente, se asumió el diagnóstico de lesiones metastásicas y se inició tratamiento de la diabetes insípida central con desmopresina inhalada a 20 mcg/día, con reducción de dosis a la mitad por la aparición de hiponatremia como efecto del tratamiento. Se objetivó disminución progresiva de la diuresis hasta ser de 2 L/día, disminuyendo la sed intensa y mejorando así el paciente sintomáticamente.
+Por otro lado, también se inició tratamiento sustitutivo con levotiroxina y cortocoides.
+Dado el deterioro clínico que presentaba, se decidió tratamiento de las lesiones cerebrales con radiopterapia paliativa cerebral, recibiendo una dosis total de 20 Gy repartidos en cuatro sesiones.
+A pesar de la radioterapia, presentó empeoramiento neurológico manifiesto, añadiéndose una parálisis del VI nervio craneal derecho y una somnolencia progresiva hasta llegar al coma, falleciendo a los 20 días del ingreso en nuestro Servicio.

@@ -1,0 +1,51 @@
+Un uomo di 17 anni, proveniente dalla Romania, senza storia precedente o trattamento abituale, che viveva in Spagna da 1 anno con la sua famiglia, che era sana. Non ha riportato alcuna abitudine tossica. Ha consultato il dipartimento di emergenza per una storia di 7 giorni di continua cefalea frontale che si irradiava alla regione occipitale, che nelle ultime 48 ore era stata accompagnata da una febbre fino a 39°C e diversi episodi di vomito a raffica. Non c'erano altri sintomi clinici nel resto dell'anamnesi per organi e apparati. Era stato trattato con amoxicillina e ibuprofene prescritti dal suo medico di base, con poca risposta.
+
+All'esame fisico era in buone condizioni generali, anche se febbricitante a 38.8o, emodinamicamente e ventilatoriamente stabile, con un punteggio della Glasgow Coma Scale di 15 e nessuna focalità neurologica tranne una moderata rigidità nucale.
+
+L'emogramma mostrava una leucocitosi di 15.600 per mm3 con l'86% di neutrofili e una proteina C-reattiva di 26,5 mg/dl; il resto dell'emogramma, la biochimica e la coagulazione erano normali. La radiografia del torace non ha mostrato condensazioni, adenopatie ilari o segni di versamento pleurico. Una puntura lombare è stata eseguita, dopo l'esame del fundus, che ha escluso la presenza di papillite, ed è stato ottenuto un liquido cerebrospinale (CSF) chiaro con una pressione di deflusso leggermente aumentata. La colorazione di Gram del CSF era negativa e la biochimica mostrava 21 leucociti (83% linfociti), glicosuria di 54 mg/dl, proteinuria di 90 mg/dl e un'adenosina deaminasi di 15 U/l. Il paziente è stato ricoverato nell'Unità di Malattie Infettive con una diagnosi sindromica di meningite linfocitica di possibile eziologia tubercolare con copertura antibiotica (ceftriaxone e vancomicina) e aciclovir in attesa dei risultati dello studio eziologico (ibridazione del DNA mediante reazione a catena della polimerasi -PCR- e colture CSF, sierologia ed emocolture).
+
+Diagnosi differenziale
+Con la diagnosi sindromica di meningite linfocitica, la diagnosi differenziale è stata considerata come segue:
+
+Meningite batterica:
+- Meningite parzialmente trattata.
+- Meningite da Listeria monocytogenes.
+- Meningite dovuta a spirochete (Treponema spp. Borrelia spp.).
+- Endocardite infettiva batterica.
+- Quadri suppurativi dovuti a focolai parameningei.
+- Meningite dovuta a microrganismi intracellulari (Rickettsia spp., Coxiella burnetti). 
+
+Meningite virale:
+- Meningite da enterovirus.
+- Meningite da herpesvirus.
+- Meningite da virus dell'immunodeficienza umana (HIV).
+- meningite da adenovirus
+- meningite da virus della coriomeningite linfocitica.
+- meningite da influenzavirus
+- meningite da parotite
+- meningite da arbovirus
+
+meningite tubercolare
+
+meningite fungina
+
+meningite non infettiva
+- Meningite neoplastica.
+- Neurosarcoidosi.
+- Meningite chimica (farmaci antinfiammatori non steroidei, cotrimoxazolo...).
+
+
+Evoluzione
+La PCR del CSF per enterovirus, herpesvirus, parotite, virus Toscana e Mycobacterium tuberculosis era negativa, così come il test di reagina del CSF, la sierologia per HIV, Borrelia, Treponema pallidum, Rickettsia spp e Coxiella burnetti. Clinicamente, il paziente era ancora febbricitante dopo 72 ore, e la cefalea e il vomito erano peggiorati, così fu richiesta una tomografia computerizzata (TC) craniale urgente. La TAC ha mostrato una raccolta di liquido bifrontale che si estendeva su quasi tutta la superficie di entrambi i lobi con un moderato effetto massa e segni di cerebrite, con assorbimento patologico della dura madre. 
+TAC cranica (sezione assiale e ricostruzione sagittale): è stata osservata una raccolta ipodensa corrispondente a un empiema epidurale con assorbimento di contrasto della dura madre.
+Inoltre, c'era una lisi della parete posteriore del seno frontale sinistro, che è stata confermata dalla ricostruzione ossea tridimensionale come probabile origine parameningea della raccolta. 
+TAC cranica (sezione assiale in finestra ossea e ricostruzione ossea tridimensionale): è stata osservata una soluzione di continuità della parete posteriore del seno frontale sinistro.
+
+Con la diagnosi radiologica di empiema epidurale, il reparto di neurochirurgia è stato contattato e ha deciso di intervenire urgentemente sul paziente dopo una risonanza magnetica cranica (MRI) per completare lo studio. Questo ha confermato il coinvolgimento epidurale così come una componente subdurale e parietale dell'empiema che misurava fino a 16 mm, insieme a una pansinusite di entrambi i seni mascellari, frontali e etmoide sinistro. Risonanza magnetica del cranio (T1 sagittale e T2 assiale prima della craniotomia): sono stati osservati una componente subdurale dell'empiema e un coinvolgimento parietale dell'empiema.
+
+La sequenza di diffusione dell'acqua ha mostrato una restrizione dell'acqua, che ha fortemente sostenuto l'origine purulenta della raccolta. Una craniotomia bifrontale e una trephine parietale destra sono state eseguite con l'evacuazione del contenuto purulento e la cranializzazione del seno frontale insieme a un lembo di galea per sigillare la fistola. I risultati intraoperatori erano un plastron epidurale con una dura madre ispessita e giallastra. Le emocolture e le colture simultanee del CSF, compreso le colture lunghe di incubazione per i micobatteri ed i funghi, erano negative; tuttavia, Streptococcus constellatus e Prevotella oris si sono sviluppati nel campione intraoperatorio, l'ultimo resistente a penicillina G. La copertura antibiotica endovenosa che consiste di cefotaxime 2 grammi ogni 4 ore e metronidazolo 500 milligrammi ogni 6 ore è stata scelta e continuata per 6 settimane. L'evoluzione del paziente fu molto favorevole, rimanendo sempre afebrile e non presentando sintomi neurologici di nessun tipo, anche se nella risonanza magnetica di controllo persisteva una certa componente di 5 mm dell'empiema, che si decise di non evacuare, così come il resto dei seni paranasali. RM del cranio (RM sagittale T1 e assiale T2 dopo la craniotomia): è stata osservata un'evacuazione quasi completa dell'empiema con una piccola componente residua di circa 5 mm.
+
+Gli esami successivi confermarono la completa risoluzione dell'empiema e della pansinusite, e il paziente era asintomatico e non c'erano recidive del processo al momento attuale.
+
+Diagnosi finale
+La diagnosi finale era empiema epidurale e subdurale polimicrobico secondario alla sinusite con fistola della parete posteriore del seno frontale sinistro.

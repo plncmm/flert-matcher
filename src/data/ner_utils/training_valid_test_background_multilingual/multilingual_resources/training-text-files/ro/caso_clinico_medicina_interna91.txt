@@ -1,0 +1,37 @@
+Anamneză
+Pacient de sex masculin în vârstă de 41 de ani. Manager de bancă.
+
+Istoric personal
+- Dislipidemie, hiperuricemie asimptomatică și deficit de glucoză la post.
+- NASH probabilă (2006). Serologie negativă pentru virusul B și C.
+- Durere toracică atipică studiată în 2006 cu ecocardiogramă negativă (hipertrofie ventriculară stângă cu funcție sistolică normală (FE= 0,72), disfuncție diastolică) și test de efort.
+- Sindrom de anxietate din 1998.
+
+Istoricul familiei
+Nu există antecedente familiale relevante. Obiceiuri toxice: Fumător de 10 țigări/zi (consum cumulat de 20 de pachete/an). Consum sporadic de alcool moderat. Tratament: Escitalopram 20 mg (1-0-0). Lorazepam 2,5 mg (1-0-2). Bisoprolol 5 mg (1- 0-0-0-0). Gemfibrozil 600 mg (0-0-1).
+
+Istoria curentă
+Pacientul s-a prezentat la serviciul de urgență al centrului nostru cu debut brusc de durere musculară intensă la nivelul brațului drept de 4 ore, fără factori declanșatori aparenți. Ea era foarte îngrijorată și neliniștită cu privire la posibila origine cardiologică a simptomelor. Ea nu raportează dispnee, ortopnee sau dispnee paroxistică nocturnă. Ea nu a avut episoade presincopale anterioare sau sincope sau alte simptome respiratorii însoțitoare. Deși comentează că durerea are caracteristici diferite, pacientul fusese studiat anterior de Cardiologie în 2006, când a prezentat un episod de durere toracică cu caracteristici atipice aparent legate de consumul excesiv de alcool. Studiul efectuat a evidențiat niveluri crescute de CPK, iar o ecocardiografie și un test de efort nu au prezentat anomalii, excluzând o origine cardiologică atât pentru simptome, cât și pentru alterările analitice (nu se atașează un raport al testelor efectuate). Pe baza acestor date, în serviciul de urgență s-a efectuat un ECG (fără semne de ischemie acută) și teste de laborator de bază, evidențiind o creștere a GOT/GPT 31/71 UI/L (n: 0-37/0-41) cu alte teste hepatice normale, CPK de 252 UI/L (n: 0-170 UI/L) și aldolază de 7,9 UI/L (n: 0-7,6 UI/L). Parametrii inflamatori (VSG și PCR) în limitele normalității, cu normofuncție renală fără alterare hidroelectrolitică, Hb 15,4 g/dl, Trombocite 263 10E9/L, Leucocite 6,2 10E9/L. Coagulare normală. Anormal și sedimente fără alterare. Având în vedere aceste rezultate, durerea a fost atribuită unei probabile origini osteo-musculare, iar pacientul a fost trimis la secția de Medicină Internă pentru a verifica evoluția și a completa studiul modificărilor analitice ușoare. La consultul de Medicină Internă, pacientul a fost reinterogat, descriind intoleranță la efort încă din copilărie sub formă de astenie și mialgii generalizate, atât la nivelul extremităților proximale cât și distale, fără artrită sau leziuni cutaneo-mucoase de debut nou.
+
+Anamneză prin aparat
+Fără febră sau crampe. Nici o pierdere de masă musculară. Nu există fasciculații sau simptome senzoriale. El duce o viață relativ normală, cu limitarea descrisă pentru practicarea unor sporturi și care îl condiționează să ducă o viață relativ sedentară. Fără tuse sau flegme. Nu există afecțiuni infecțioase recente. Fără dureri abdominale. Obiceiuri intestinale păstrate cu 1 scaun pe zi fără produse patologice. Pacientul a furnizat analize anterioare care au arătat variații semnificative ale nivelurilor de CPK în ultimii ani, care aparent coincideau cu utilizarea de statine și consumul concomitent de alcool moderat. În plus, avea o hipertransaminazemie cronică și fluctuantă, fără episoade de icter sau alte semne sugestive de decompensare hepatică, care au fost atribuite unei posibile steatohepatite non-alcoolice cu serologii virale negative. În prealabil, au fost efectuate diferite teste (RMN al întregului corp, studiu electrofiziologic, biopsie hepatică) fără a se constata nicio alterare.
+
+Examinarea fizică
+T.A.: 110/70 mmHg. FC: 79/minut. Afebril. Sat.02: 96%. IMC: 28 kg/m2. Stare generală bună. Culoare bună a pielii și a mucoaselor. Faringe: normal. Auscultația cardiacă: fără modificări. Auscultația pulmonară: normală. Abdomen: moale, depresibil, fără dureri sau megalite. Extremități: pulsuri periferice, fără edem. Nu există durere la palpare. Nu există semne de artrită. Examenul neurologic a fost fără semne particulare.
+
+Evoluția și discutarea cazului clinic
+După revizuirea testelor deja disponibile și reanalizarea istoricului pacientului, am orientat studiile către un tablou de intoleranță la efort sub formă de astenie și mialgii însoțite de niveluri oscilante de CPK și hipertransaminază ușoară, fără creșterea parametrilor inflamatori sau semne sugestive pentru prima sau a doua boală a neuronului motor. În plus, în absența leziunilor cutanate compatibile și a slăbiciunii musculare caracteristice, am exclus în mod rezonabil diagnosticul de polimiozită și/sau dermatomiozită. Abordarea de diagnosticare pe care am urmat-o a fost următoarea:
+
+1. având în vedere posibilitatea unei reacții adverse la medicamente, am revizuit și am retras medicamentele potențial implicate (Gemfibrocil/Benzodiazepine/Escitalopram).
+2. S-au solicitat serologii pentru CMV, Epstein barr, Herpes virus și HIV, care au fost negative, iar studiul hipertransaminasemiei a fost completat prin serologii pentru HAV, B și C. Am adăugat un studiu de autoimunitate (ANA, AMA, ASMA și Anti-LKM), obținând un pattern nucleolar ANA 1:320 și ASMA 1:80.
+3. Am completat studiul cu o ecografie Doppler abdominală care a arătat steatoză hepatică difuză cu o zonă de conservare perivesiculară, fără dovezi de leziuni focale solide. Polipi veziculoși multipli (probabil colesterol) cu un canal biliar de calibru normal.
+După ce au fost excluse posibilele etiologii dobândite ale creșterii CPK, cazul a fost orientat către o posibilă miopatie ereditară. Prin urmare, am cercetat istoricul familial și caracteristicile simptomelor pacientului. Nimeni din familia pacientului nu a avut un tablou clinic similar, iar în ceea ce privește simptomele, pacientul a raportat oboseală timpurie și mialgie cu o îmbunătățire a toleranței la efort după câteva minute de la debut. O trecere în revistă a literaturii de specialitate a evidențiat trei grupuri principale de miopatii ereditare:
+- Glicogenoze,
+- Tulburări ale metabolismului lipidic
+- Bolile mitocondriale.
+În ordinea frecvenței, care cuprinde cele trei grupuri, se remarcă trei entități:
+- Deficiența de carnitină palmitoil transferază II (CPT II),
+- Deficitul de miofosforilază [boala McArdle (V)].
+- Deficitul de fosforilază kinază (VIII).
+Conform algoritmului de diagnosticare ----, nivelurile ridicate de CPK împreună cu intoleranța severă la efort (sub formă de astenie și mialgie) de la debutul efortului, dar care se ameliorează semnificativ după 5-10 minute, sunt foarte sugestive pentru boala McArdle. Prin urmare, am efectuat un test de ischemie care a confirmat o creștere discretă a lactatului, compatibilă cu o dificultate în metabolismul glicogenului. A fost efectuată o biopsie musculară care a arătat prezența țesutului muscular scheletic striat, cu păstrarea structurii și o creștere relativă a cantității de glicogen din fibrele musculare. În studiul imunohistochimic efectuat, s-a evidențiat absența historeactivității împotriva miofosforilazei, cu normalitatea restului modelelor historeactive, confirmând existența unei miopatii datorate deficitului de miofosforilază corespunzătoare bolii McArdle.
+

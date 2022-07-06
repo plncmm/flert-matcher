@@ -1,0 +1,35 @@
+ANTECEDENTES PERSONALES
+Varón de 49 años, sin antecedentes de interés, que acude a urgencias por tos, esputo purulento, fiebre (de hasta 39oC) y dolor torácico de tipo pleurítico. Cinco días antes, el paciente había consultado a su médico de atención primaria por fiebre, tos y expectoración verdosa, iniciándose tratamiento con amoxicilina-clavulánico (1000/75 mg), dos comprimidos cada 12 horas. Ante la ausencia de mejoría, acude al Servicio de Urgencias de nuestro centro.
+
+EXPLORACIÓN FÍSICA
+A su llegada presenta cifras de tensión arterial de 120/70 mmHg, frecuencia cardiaca de 76 latidos por minuto y una saturación de oxígeno, por pulsioximetría de 94%, respirando aire ambiente. A la exploración física el paciente mostraba un buen estado general, estaba eupneico en reposo y normocoloreado. Presentaba en el labio superior unas lesiones papulovesiculares compatibles con herpes simple labial. No se palpaban adenopatías. A la auscultación cardiaca los tonos eran rítmicos a 76 por minuto, sin soplos audibles, y a la auscultación pulmonar se apreciaba una hipoventilación generalizada junto con crepitantes en el tercio superior derecho. La exploración abdominal, neurológica y de extremidades inferiores no mostraba alteraciones.
+
+PRUEBAS COMPLEMENTARIAS
+• Analítica: hemograma y bioquímica sin alteraciones significativas.
+• ECG: ritmo sinusal a 76 por minuto, con extrasistolia supraventricular.
+• Radiografía de tórax: pérdida de volumen en lóbulo superior derecho con imagen de cavitación de paredes gruesas sugestiva de condensación cavitada.
+• TC torácico: enfisema pulmonar, junto con signos de broncopatía crónica. Proceso infeccioso cavitado en evolución en lóbulo superior derecho.
+• Broncoscopia: secreciones purulentas que parten de bronquio apical de lóbulo superior derecho. Mucosa congestiva y edematosa.
+• Hemocultivos: negativos
+• Antígeno de Neumococo y Legionella en orina: negativos
+• Esputos seriados: inicialmente negativos, tras dos semanas de tratamiento antibiótico se aisla Klebsiella pneumoniae
+• Serologías negativas para virus respiratorio sincitial, Chlamydophila, Mycoplasma y Coxiella burnetti.
+• Estudio de Mycobacterias: PCR negativa para Mycobacteruim tuberculosis complex. Cultivo negativo.
+• Cultivo de aspirado bronquial: negativo.
+• Serología para VIH: negativa
+• Estudio para Aspergillus y Pneumocictis jirovicii negativos
+
+DIAGNÓSTICO DIFERENCIAL EN URGENCIAS
+• Neumonía adquirida en la comunidad (NAC) con cavitación
+• Absceso pulmonar de origen bacteriano
+• Tuberculosis (TBC)
+• Infección por hongos
+• Neoplasia con cavitación
+
+Tras su valoración en el Servicio de Urgencias se consideraron como diagnósticos más probables la NAC con cavitación y el absceso pulmonar. Consideramos como agentes etiológicos más probables las bacterias anaerobias, enterobacterias y S. aureus. Dado lo recortado de la evolución clínica y la ausencia de factores predisponentes para el absceso pulmonar, principalmente aquellos que favorecen la broncoaspiración, (alcoholismo, epilepsia, procesos neurológicos con afectación de la deglución, boca séptica,...) se pensó, hasta obtener confirmación mediante TC, en la NAC como primera opción. Otras entidades a considerar ante una imagen cavitada en la radiografía de tórax son la TBC, neoplasia pulmonar y la infección por hongos (Criptosporidium, Aspergillus, Histoplasma,...) o bacterias más infrecuentes (Rhodococcus, Nocardia, Actinomyces,...). Aunque no se consideró inicialmente, por su frecuencia y la clínica presentada por el paciente, otros procesos a tener en cuanta serían aquellos de base autoinmune como por ejemplo la granulomatosis de Wegener o la sarcoidosis.
+
+EVOLUCIÓN
+Una vez valorado en Urgencias se instauró tratamiento antibiótico empírico con ertapenem a dosis de 1 gr/24 horas iv y se procedió a su ingreso en el Servicio de Enfermedades Infecciosas. Tras 24 horas de tratamiento antibiótico la fiebre desapareció, continuándose la administración iv durante 14 días. Ante la evolución favorable se procedió al alta hospitalaria e inicio de tratamiento oral con moxifloxacino 400 mg iv /24 horas durante otras 2 semanas. Tras este periodo el paciente presentó una evolución clínica y radiológica satisfactoria.
+
+DIAGNÓSTICO FINAL
+Neumonía (cavitada) adquirida en la comunidad.

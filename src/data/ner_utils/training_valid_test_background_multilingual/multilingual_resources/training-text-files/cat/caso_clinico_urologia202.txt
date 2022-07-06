@@ -1,0 +1,24 @@
+Anamnesi
+Home de 65 anys d'edat que presenta els següents antecedents: enolismo crònic, sigmoidectomía amb colostomia de descàrrega per hèrnia inguinal incarcerada esquerra i insuficiència renal crònica. Baix nivell socioeconòmic, amb deficients condicions higienicosanitàries. Antecedents nefrourológicos: 6 mesos abans de l'ingrés actual, va ingressar per infecció urinària fúngica i insuficiència renal aguda amb ureterohidronefrosis grau III bilateral, HBP i litiasi vesical de gran grandària, sense poder establir-se la presència de globus vesical a l'ingrés. Després de sondatge uretral, no va haver-hi millora significativa de la funció renal, persistint l'èctasi del tracte urinari superior, per la qual cosa es va decidir la col·locació d'una nefrostomía bilateral, després de la qual la funció renal va millorar fins a nivells basals entorn de 2,5 mg/dl de creatinina. Durant el mateix ingrés es va realitzar una adenomectomía prostàtica transvesical i una cistolitectomía. El postoperatori es va caracteritzar per infecció de ferida quirúrgica per Enteroccocus faecalis, que precís tractament antibiòtic i dispositiu de buit (VAC) per al seu tancament. Després de 2 mesos d'hospitalització es va donar d'alta al pacient després del tancament i la retirada de totes dues nefrostomías i la retirada de la sonda vesical, amb funció renal estable entorn de 2,5 mg/dl de creatinina.
+El pacient consulta en el Servei d'Urgències de l'hospital per un quadre de febrícula, astènia, anorèxia, hematúria, oligúria i simptomatologia del tracte urinari inferior de diversos dies d'evolució.
+
+Exploració física
+A la seva arribada al Servei d'Urgències presentava mal estat general, estava conscient i orientat, amb fredor cutània, livideces en els membres inferiors i sense focalidad neurològica. A l'auscultació cardiopulmonar presentava taquicàrdia, sense soplos ni frecs i amb murmuri vesicular conservat. Tensió arterial 108/80 mmHg, freqüència cardíaca 100 lpm, temperatura 36,5 oc. Abdomen tou, no dolorós, sense signes d'irritació peritoneal, sense evidència de visceromegalias ni masses. Puñopercusión i palpació bimanual renal bilateral negatives.
+
+Proves complementàries
+En urgències es va sol·licitar una radiografia d'abdomen, analítica de sang i orina, urinocultivos i ecografia abdominal:
+• Analítica sanguínia: urea 354 mg/dl, creatinina 8,3 mg/dl, sodi 130 mEq/l, potassi 7,1 mEq/l, 13.500 leucòcits/mm3, 472.000 plaquetes/mm3, hemoglobina 15,2 g/dl. Gasometria venosa: pH 6,9, bicarbonat 7,7 mmol/l, ABE -25 mmol/l.
+• Sediment urinari: pH 9, leucocituria i hematúria. En el Gram d'orina s'aprecien bacils i cocos Gram positius.
+• Radiografia d'abdomen: anodina.
+• Ecografia abdominal: s'identifica hidronefrosis bilateral, objectivant una calcificació lineal al llarg de tot el urotelio de totes dues pelvis renals, així com en grups calicins dispersos de tots dos ronyons. L'urèter dret mostra engruiximent urotelial i calcificació de la paret de característiques similars a les de la resta del urotelio. Bufeta de parets engrossides, escassament replecionada i amb sonda en el seu interior. Estudis ecogràfics previs sense aquestes calcificacions.
+Durant l'ingrés:
+• Urinocultivo: Staphylococcus capitis subespècies urealitycum i Bacils Gram positius tipus Corynebacterium.
+• TC sense contrast: calcificació de manera lineal, amb forma poligonal, en tots dos sins renals. Troballes característiques de pielitis incrustant. Hidronefrosis bilateral.
+
+Diagnòstic
+Pielitis incrustant.
+
+Tractament i evolució
+Es realitza una sessió d'hemodiàlisi urgent donat la deterioració hidroelectrolítica i de la funció renal del pacient, precisant posteriorment infusió de drogues vasoactivas per hipotensió mantinguda, que es van anar retirant en els dies successius, després de la normalització de les constants hemodinàmiques.
+Donats les troballes ecogràfiques inicials i la seva discordança comparativa amb les proves d'imatge de l'ingrés previ (sense alteracions), es va decidir realitzar una TC abdominal sense contrast, la qual va donar el diagnòstic de presumpció de pieloureteritis incrustant, que posteriorment es va confirmar amb les troballes analítiques (pH urinari 9) i microbiològics (urinocultivo positiu per a Corynebacterium urealyticum).
+Es va establir inicialment antibioterapia empírica i posteriorment es va modificar segons el antibiograma (es va iniciar tractament amb vancomicina). Inicialment el pacient va evolucionar satisfactòriament, amb millora en els nivells de funció renal, correcció hidroelectrolítica i retirada de fàrmacs vasoactivos per estabilitat de les constants hemodinàmiques. Posteriorment va iniciar un quadre brusc de febrícula, distrès respiratori i inestabilitat hemodinàmica, morint a les poques hores, després de 2 setmanes del seu ingrés hospitalari.

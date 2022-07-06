@@ -1,0 +1,28 @@
+Antecedentes personales: Mujer de 54 años con antecedentes de obesidad e HTA en tratamiento con Enalapril 20 mg/día. No alergias medicamentosas conocidas. Antecedentes familiares: No consanguinidad de sus padres. Padre con Diabetes Mellitus (DM) tipo 2 y fallecido de Cáncer de pulmón. Madre fallecida a los 94 años sin patologías de interés. Hermana vive sana y hermano con DM tipo 2. Enfermedad actual: Acude al S. Urgencias del HUVN con cuadro febril asociado a dolor abdominal.
+Exploración en Urgencias: Mal estado general, consciente, orientada y colaboradora. TA:105/67, Ta38o. Obesidad de predominio troncular; Hirsutismo generalizado.
+
+Auscutación cardio-respiratoria: Eupneica, sin ruídos patológicos con Saturación de oxígeno: 96%, Frecuencia cardiaca: 102 lpm. Abdomen: palpación dolorosa en hipocondrio derecho. Miembros inferiores sin edemas ni signos de trombosis venosa profunda.
+
+Analítica general: Glu: 118 mg/dl, HbA1c: 5,8%; Cr: 0,75 mg/dl; Na+: 139 meq/L K+: 4,5 meq/l, GOT: 68 U/L; GPT: 71 U/L; GGT: 112 U/L; PCR: 312. Leucocitos: 18400 mil (86% N) Colesterol: 205 mg/dl; TG: 297 mg/dl.
+
+TAC Abdominal en Urgencias: Existen 3 lesiones hepáticas de contornos irregulares confluyentes y que muestran una pared que se realza intensamente tras administración de contraste iv. La mayor de ellas se encuentra en el segmento 6-7 y tiene un tamaño aproximado de 6,5 x 6 x 4,5 cm. Las otras 2 lesiones encuentran en los segmentos 4 y 6 y tienen un diámetro aproximado de 2,5 cm.
+
+Juicio clínico de ingreso: Absceso hepático (por cultivo del exudado y hemocultivos no se consigue realizar un diagnóstico microbiológico exacto).
+
+Tratamiento: Ingresó en el Servicio de enfermedades infecciosas. Se trató con antibioterapia de amplio espectro, completándose la resolución del absceso hepático con drenaje del mismo mediante catéter Pigtail. La evolución clínica de la paciente fue positiva con cese del cuadro febril y del dolor abdominal.
+Al cabo de las 2 semanas se realizó TAC abdominal de control donde se informaba de la buena evolución en la resolución del absceso hepático y la ausencia de útero y anejos.
+Por estos últimos hallazgos inesperados se consultó con el Servicio de Endocrinología. La paciente confirmó que tenía amenorrea primaria por la que nunca había consultado e hirsutismo severo desde la pubertad.
+
+Exploración endocrinológica: Obesidad de predominio troncular, Peso: 103,3 kg; T: 160; IMC: 40,35 kg/m2. CC: 112 cm. No bocio. Hirsutismo leve-moderado facial pero severo en tórax. línea alba y distribución androgénica del vello pubiano. No voz de tonalidad grave. No alopecia androgénica. Hipoplasia mamaria. Genitales externos explorados en cama de hospital: Aparentemente femeninos con ausencia de masas inguinales.
+
+Exploración ginecológica: Vulva con hipertrofia moderada de labios mayores y con nódulos palpables bilaterales, mínimo aumento del clítoris y agujero ciego vaginal de aproximadamente 1 cm de diámetro.
+
+Estudio hormonal: LH: 12,3 mUI/ml; FSH: 29 mUI/ml, Testosterona (T): 364 ng/dl (N<75), T Libre: 8,42 ng/dl (N<0,95), Dihidrotestosterona (DHT): 0,42; TL/DHT: 20,04 (N<10). PSA: <0,01 ng/ml, Resto normal.
+Cariotipo: 46,XY
+Ecografía pélvica: No identificaba testículos ni próstata. Ecografía genitales externos: En labio mayor derecho se evidenciaba testículo derecho de ecoestructura homogénea, sin evidencia de lesiones nodulares sólidas. Dilatación del plexo vascular con un diámetro basal de 2.5 mm.
+
+En labio mayor izquierdo se identificaba testículo izquierdo con ecoestructura heterogénea en el que se evidenciaba lesión intraparenquimatosa sólida con focos de calcificación grosera, contornos irregulares de aproximadamente 18 x 13 mm. No hidrocele. Aisladas adenopatías inguinales izquierdas.
+Marcadores de tumores testiculares de células germinales: B-HCG: <0,5 mUI/ml, Alfa-Fetoproteína: 1,7 ng/ml (N<9), LDH: 205 U/L (N<247) .
+Estudio genético: Se recogió sangre en Edta para aislar leucocitos y se realizó amplificación completa por PCR de los exones del gen SRD5A2 (codificador de la enzima 5-alfa reductasa2) localizado en el cromosoma 2p23.1. La paciente presentaba en heterocigosis compuesta 2 variantes patogénicas diferentes: c.344G>a (p. GLY115Asp) y c.679C>t (p.Arg227Ter).
+
+Juicio clínico: ADS/DSD 46,XY por déficit de 5-alfa reductasa 2 con tumor testicular. Tratamiento: Se programa orquidectomía izquierda y se decide preservación del testículo derecho. La paciente desea reasignación a género masculino con cirugía reconstructiva para lo cual se deriva a Unidad de referencia del Servicio Andaluz del Salud.

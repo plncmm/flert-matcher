@@ -1,0 +1,26 @@
+Anamnèse
+Le patient est un homme de 47 ans sans antécédents médicaux ou chirurgicaux notables. Il ne prend pas de médicaments. Il est originaire de Londres et travaille comme professeur d'anglais. Son père est décédé d'une amyloïdose pulmonaire à l'âge de 74 ans et son père d'un cancer du rein à l'âge de 70 ans.
+En 2010, elle a consulté pour une augmentation progressive de la circonférence abdominale sur 12 mois d'évolution, associée à des douleurs épigastriques et une sensation de satiété précoce après le repas. Elle avait perdu 15 kilos au cours des 6 derniers mois.
+
+Examen physique
+L'examen physique a révélé un indice de Karnosky de 90 %, un bon état général et une auscultation cardiorespiratoire sans particularité. Le résultat le plus notable était une sémiologie d'ascite modérée.
+
+Tests supplémentaires
+Un hémogramme, une biochimie et une hémostase ont alors été demandés et les seuls résultats notables étaient une élévation de la lactate déshydrogénase (600 U/L) et de la créatine protéine kinase (280 U/L). Une sérologie pour les virus hépatotropes (B et C) et le virus de l'immunodéficience humaine a également été réalisée, les deux étant négatifs, et l'analyse du liquide ascitique était positive pour une cellularité maligne.
+Une tomographie axiale compacte thoracique, abdominale et pelvienne (CT-PAT) a été réalisée, montrant une grande masse kystique couvrant une grande partie de l'abdomen, ainsi qu'une grande quantité de liquide intrapéritonéal suggérant une ascite, en plus de multiples implants péritonéaux. Une tomographie par émission de positrons a été réalisée, montrant la grande masse abdominale connue sans activité métabolique.
+
+Diagnostic
+Enfin, une biopsie à l'aiguille fine de la lésion a été réalisée et un diagnostic de tumeur à cellules fusiformes a été posé. L'immunohistochimie a montré une positivité pour la vimentine, l'actine, le CD-117, le CD-34 et de manière isolée pour le S-100. Négatif pour la desmine. L'indice de prolifération cellulaire évalué par le Ki-67 était de 5 %. Le profil immunohistochimique a donc suggéré un diagnostic de tumeur stromale gastro-intestinale (GIST).
+
+Traitement
+En raison de l'important volume tumoral, il a été décidé de commencer un traitement néoadjuvant par imatinib à raison de 400 milligrammes par jour et de poursuivre l'évaluation à 2 mois en vue d'un éventuel sauvetage chirurgical. La tolérance initiale à l'imatinib était adéquate, il ne présentait qu'un léger œdème des paupières, mais l'ascite ne s'est pas résorbée et a nécessité la mise en place d'un drain péritonéal permanent en raison des paracentèses répétées nécessaires.
+
+Evolution
+Deux mois après le traitement, le patient présentait toujours un abondant liquide ascitique débité par le drainage. Une tomodensitométrie abdominale a été réalisée pour évaluation. La masse péritonéale importante persistait, avec une réduction minime de la composante kystique et une diminution de l'atteinte péritonéale, ce qui signifiait une mauvaise réponse tant sur le plan clinique que radiologique. Le comité multidisciplinaire de la chirurgie digestive a donc décidé de pratiquer une laparotomie exploratoire, au cours de laquelle on a observé une masse importante mesurant 50x30 centimètres (cm), occupant tout l'abdomen et ayant son origine dans la grande courbure gastrique. La résection radicale de la masse a été effectuée au cours de la même procédure chirurgicale.
+La biopsie chirurgicale a révélé une tumeur GIST à haut risque d'un diamètre maximal de 21 cm.
+Les zones de nécrose étaient de 30% et l'indice de prolifération cellulaire avec Ki67 était de 3%.
+La tomodensitométrie de suivi postopératoire a montré la disparition de la masse péritonéale, mais une augmentation de la densité graisseuse intrapéritonéale et des gouttelettes paracoliques en rapport avec une carcinomatose péritonéale.
+Il y avait donc une indication claire pour un traitement par imatinib pseudoadjuvant, en raison de la grande taille, malgré la localisation gastrique et le faible taux de mitose. Compte tenu de la faible réponse initiale et de la persistance de la maladie, nous avons décidé de commencer un traitement par imatinib 800 mg.
+Après la chirurgie et avec l'initiation du traitement à haute dose, le patient a connu une grande amélioration du point de vue clinique. L'ascite et les douleurs épigastriques ont complètement disparu et il a commencé à prendre du poids progressivement. La tolérance au traitement à des doses plus élevées était également excellente. La seule incidence notable a été l'apparition d'un œdème des paupières. D'un point de vue analytique, le profil thyroïdien est resté stable.
+Après 16 semaines de traitement, la tomodensitométrie a montré une disparition complète de l'atteinte péritonéale, sans aucun signe de maladie dans l'examen d'imagerie. Nous avons poursuivi le traitement avec une tolérance similaire à la précédente. En raison de la nature atypique de l'image, nous avons demandé le statut mutationnel. Les résultats étaient négatifs pour la mutation c-kit et positifs pour la mutation PDGFR-A exon 18, la mutation étant pD842V.
+Actuellement, après 54 semaines d'imatinib, elle persiste sans signe de maladie.

@@ -1,0 +1,36 @@
+Anamneză
+Bărbat în vârstă de 60 de ani, fost fumător de 25 de ani, de aproximativ 20 de ani (ICAT 40 paq-ani), fără alți antecedente personale de interes, care s-a prezentat la serviciul de urgență în iulie 2014, din cauza unor dureri abdominale și rectale generalizate de câteva săptămâni de evoluție, însoțite de alterarea obiceiurilor intestinale (alternanță de constipație cu scaune lichide cu mucus).
+
+Examinarea fizică
+Examenul abdominal a evidențiat o impactare abdominală în hipogastru și o durere semnificativă în fosa iliacă stângă.
+
+Teste complementare
+S-a efectuat o tomografie computerizată abdominală în Urgență cu contrast IV care a arătat îngroșarea și captarea parietală a unui segment al colonului sigmoid cu densitate crescută a grăsimii înconjurătoare și o imagine de 6x4 cm care sugerează un proces neoformativ.
+-În urma rezultatelor, a fost solicitată o tomografie toracică în ambulatoriu, împreună cu o analiză completă și o programare preferențială la Secția de digestie.
+S-a efectuat colonoscopie preferențială, găsindu-se o masă mamelonată, friabilă, la 18 cm de marginea anală, care sângera la frecarea cu colonoscopul, ocupând aproape întreaga circumferință, lăsând un mic lumen total impracticabil. Se iau biopsii din zona respectivă.
+-Nu se observă metastaze la tomografia toracică.
+
+Diagnostic
+Constatări patologice: leziune adenomatoasă cu displazie de grad înalt.
+
+Tratament
+Având în vedere rezultatele testelor complementare, pacientul este îndrumat către o intervenție chirurgicală.
+
+Progresul
+În așteptarea intervenției chirurgicale, pe 4 august, pacientul s-a întors la serviciul de urgență pentru distensie abdominală, însoțită de greață și constipație și absența flatulenței timp de 3 zile.
+Radiografia abdominală a evidențiat o dilatare a întregului cadru colic de la sigma până la 8 cm în cecum cu conținut aero-fecal cu valvă ileocecală competentă, astfel că a fost internat în secția de chirurgie și i s-a pus o proteză neacoperită (tranzitorie), cu ieșire imediată a scaunului semilichid.
+În cele din urmă, în ziua următoare, s-a efectuat o sigmoidectomie cu anastomoză T-T și ileostomie fantomă.
+Rezultatul anatomo-patologic a fost: adenocarcinom stenozant al joncțiunii rectosigmoidiene (cu stenting), moderat diferențiat, cu celule signet ring care infiltrează peretele suprapus (pT4). Infiltrare vasculară perineurală și limfatică cu afectarea a 24 de ganglioni limfatici izolați ( pN1). Limite chirurgicale gratuite.
+În urma rezultatelor, pacienta a fost trimisă la secția de Oncologie, cu aprecierea clinică: Adenocarcinom de colon pT4pN1, stadiul III, pentru care s-a prescris tratament adjuvant cu FOLFOX x 12 cicluri de chimioterapie.
+A fost solicitat un nou studiu de extensie cu o tomografie computerizată toraco-abdominală-pelvină negativă pentru boala metastatică și analize cu markeri tumorali normali (CEA și Ca 19,9).
+Folfox adjuvant a fost început în septembrie 2014, cu o toleranță excelentă.
+În luna februarie 2015, după administrarea ultimului ciclu de FOLFOX, pacientul s-a prezentat la urgență după apariția unei dispnee bruscă în repaus, cu tuse uscată persistentă și insuficiență respiratorie severă, fără durere toracică asociată, zgomote toracice sau sindrom febril, iar în zilele anterioare asimptomatic din punct de vedere respirator.
+La examinare, pacientul a prezentat tahipnee în repaus la 26 rpm cu 88-90% satO2 și 2 bpm. Auscultația respiratorie a evidențiat hipofonie marcată în ambele hemitorace, cu unele crepitații uscate în ambele baze și plat în partea postero-laterală a câmpului median drept.
+Angiografia CT a fost efectuată la internare după obținerea unui D-dimer ridicat în care a fost exclusă PET și după revizuirea imaginilor, un pattern alveolar difuz (în sticlă mată) cu zone confluente, predominant subpleural periferic cu bronhogramă aeriană; bilateral, dar cu implicare mai mare în plămânul drept. De asemenea, semne de PHT moderat.
+La internare, hemoculturile, culturile de spută, antigenuria pneumococică și Legionella, PCR pentru virusurile respiratorii și serologia au fost negative. În ciuda antibioterapiei empirice, corticoizilor și oxigenoterapiei cu VM la 31%, pacientul a prezentat tahipnee 30 rpm și saturație 89%, fără febră sau expectorație mucocupurulentă sau creșterea reactanților de fază acută, astfel că, dată fiind lipsa de ameliorare clinică a pacientului, s-a solicitat evaluarea de către Pneumologie.
+În cele din urmă, pacientul a fost transferat la secția de pneumologie cu judecata clinică: ``insuficiență respiratorie acută severă secundară unei pneumonite acute datorate chimioterapiei (pneumonită chimică)``, deoarece o analiză a literaturii de specialitate arată că sărurile de platină pot fi asociate cu apariția fibrozei pulmonare datorate medicamentelor.
+În plus, comparând cu studiile radiologice anterioare, trebuie remarcat faptul că tomografia toracică din iulie 2014 a fost strict normală, fără alterări pleuropulmonare sau adenopatii mediastinale.
+În timpul internării, pacientul a fost tratat cu corticosteroizi în doze mari iv, bronhodilatatoare și acetilcisteină 600/8 ore, evoluând lent, dar favorabil, deși cu toleranță scăzută la eforturi minime (mersul în cameră).
+În cele din urmă, s-a decis să fie externat din spital cu un nivel de bază al gazelor din sângele arterial de p02 63 și cu nevoia de oxigenoterapie la domiciliu, iar el a fost supus unor controale atât la secția de pneumologie, cât și la cea de oncologie.
+După mai mult de un an de controale, pacientul se ameliorează încet, fără a avea nevoie de oxigenoterapie 24 de ore pe zi și cu 10 mg de prednison la fiecare 24 de ore, tolerând unele exerciții fizice. Retragerea oxigenoterapiei va fi evaluată la următoarea revizuire la Pneumologie.
+În ceea ce privește revizuirile de la Oncologie, ultima din mai 2016 cu CT toracoabdominal și colonoscopie fără dovezi de boală și analize de sânge cu markeri tumorali normali, subliniind doar persistența neurotoxicității de gradul II la nivelul membrelor inferioare.

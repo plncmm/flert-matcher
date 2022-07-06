@@ -1,0 +1,26 @@
+Anamnesis
+54-year-old woman, with no past history of interest, diagnosed with clear cell renal carcinoma pT3N0M0. She was treated with radical nephrectomy and subsequently presented with systemic recurrence with pulmonary metastases. Surgical treatment of these metastases was carried out and treatment with pazopanib for four months until progression was observed. At this time, she was referred to our centre and entered the Ca209025 clinical trial (everolimus vs. nivolumab), starting treatment with everolimus 10 mg/day.
+After one month of treatment, she consulted the emergency department for dyspnoea on moderate exertion, febrile fever and pleuritic pain of one week's duration, with no associated cough or expectoration.
+
+Physical examination
+Physical examination revealed dry crackles in the right lung base, with no other findings of interest. The patient was eupneic and had good oxygen saturation at rest.
+
+Complementary tests
+Laboratory tests showed no elevation of acute phase reactants or other significant alterations and the chest X-ray showed a right basal infiltrate.
+
+Diagnosis
+Right basal right pneumonia vs. everolimus pneumonitis.
+
+Treatment
+Given the suspicion of right basal pneumonia and possible everolimus pneumonitis, everolimus was discontinued, antibiotic treatment with levofloxacin was prescribed and the patient was scheduled for a clinical and radiological check-up in one week.
+
+Evolution
+One week later, the patient showed a clear deterioration in her general condition, with persistent febrile fever and pleuritic pain despite the prescribed treatment. On examination she presented respiratory work-up, with saturation of 90% at rest and dry bibasal crackles on auscultation. Laboratory tests showed only mild lymphopenia, with no other findings of interest, and radiological worsening with progression of the infiltrate to LID and LM.
+
+Hospital admission was then decided, treatment was started with prednisone 60 mg per day and antibiotic treatment was maintained with levofloxacin.
+
+Once on the ward, a thoracic CT scan was performed which confirmed the existence of ground glass infiltrates in the LID and LM, with thickening of the interlobular septa, compatible with pharmacological pneumonitis. As for the oncological disease, a partial response was described, with a decrease in the size of the pulmonary nodules.
+
+A fibrobronchoscopy with bronchoalveolar lavage (BAL) was performed, in which Pneumocystis jirovencii was isolated in small quantities. In this situation, treatment was started with trimetropim-sulfomethoxazole and the study was extended with the determination of beta-D-glucan, which was negative.
+
+On the ward, the patient showed a favourable clinical evolution, with a progressive decrease in oxygen requirements, resolution of the febrile fever and pleuritic pain. A follow-up X-ray was performed one week later, showing almost complete resolution of the infiltrates.

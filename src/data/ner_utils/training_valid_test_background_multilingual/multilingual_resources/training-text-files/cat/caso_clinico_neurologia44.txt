@@ -1,0 +1,34 @@
+Anamnesi
+Dona de 67 anys d'edat que acudeix a Urgències per cefalea contínua de 2 setmanes d'evolució localitzada a nivell retroocular i irradiació frontal, sense símptomes vegetatius acompanyants, que dificultava el descans nocturn i no cedia amb analgèsia convencional. A més, al quadre de cefalea se li va anar afegint de manera progressiva diplopía en els dies previs. Presenta com a antecedents personals al·lèrgia a corticoides, hipertensió arterial, tuberculosi pulmonar i ganglionar tractada durant 9 mesos i cardiopatia isquèmica.
+
+Examen físic
+L'exploració física general no objectiva alteracions. En l'exploració neurològica s'observa una campimetría normal amb limitació per a l'abducció més important que a l'adducció, amb afectació de la supra i infraducción de l'ull izquierdo1, i lleu discromatopsia. En l'examen del fons d'ull es descriu una papil·la de vores nítides. La pacient és valorada per Oftalmologia, descrivint aquests una lleu alteració de l'epiteli retiniano macular, PIO 18 mmHg, no vitritis ni vasculitis.
+
+Proves complementàries
+En el Servei d'Urgències se sol·liciten:
+• Analítica sanguínia, en la qual destaca ionograma amb una hiponatrèmia de 124 mmol/l i creatinina de 93 mmol/l, amb fórmula i coagulació normals.
+• Radiografia de tòrax i electrocardiograma sense alteracions.
+• Tomografia computada (TC) cranial sense signes d'alteracions parenquimàtiques, hemorràgies, masses o ventriculomegalia.
+• En la punció lumbar s'obtenen 0 cèl·lules, glucorràquia i proteinorraquia dins dels valors normals, i no s'observen gèrmens en tinció de gram, bacils àcid-alcohol resistents ni fongs.
+
+Durant l'hospitalització en planta de Neurologia se sol·liciten:
+• Analítica amb marcadors inmunofenotípicos, electroforesis de proteïnes, factor reumatoide i estudi de complement, sense alteracions. S'obtenen ANA i c-ANCA positius a un títol de 1/80.
+• Proteïna de Bence-Jones en orina, negativa.
+• Serologies de VIH i lúes, negatives.
+• Ressonància magnètica: s'observa asimetria dels sins cavernosos amb engruiximent de la paret del si esquerre, amb captació de contrast en la paquimeninge de la fossa cranial mitja esquerra, base del crani fins a la fossa pterigomaxilar.
+• Valoració otorrinolaringológica: dismorfia septal esquerra, amb meatos mitjans lliures bilaterals, recés esfenoetmoidal lliure i cavum normal.
+• TC toràcica d'alta resolució: s'objectiven múltiples opacitats nodulars subcentimétricas, que en estudis previs ja es trobaven presents, però trobant algunes noves que orienten a reactivació de tuberculosi latent.
+• TC abdominal sense alteracions.
+• Biòpsia de fossa pterigomaxilar: mostra material granulomatós, teixit fibrós i cèl·lules inflamatòries.
+
+Diagnòstic
+Després de l'exploració neurològica s'orienta el cas com a síndrome del si cavernós. Es plantegen tres hipòtesis:
+• Reactivació tuberculosa. La pacient havia estat diagnosticada i tractada correctament per a tuberculosi i, atès que no es van arribar a aïllar micobacterias, es va decidir ampliar el diagnòstic diferencial a altres malalties granulomatoses.
+• Procés neoformativo, que es descarta mitjançant marcadors inmunofenotípicos i biòpsia.
+• Malaltia sistèmica inflamatòria, que donada la presència d'anticossos tipus c-ANCA, la insuficiència renal lleu i les imatges d'afectació del si cavernós amb extensió al territori ORL, orienten cap a una granulomatosis amb poliangeítis (malaltia de Wegener). No obstant això, la pacient no compleix els criteris clàssics de malaltia de Wegener, encara que existeix una forta sospita d'una forma limitada d'aquesta.
+
+Tractament
+Donat l'antecedent de tuberculosi i la possible al·lèrgia a corticoides, es decideix no iniciar tractament empíric. A mesura que l'orientació diagnòstica s'aproxima a una vasculitis, es planteja la possibilitat de realitzar teràpia de dessensibilització amb corticoides, però la pacient és poc inclinada i la cefalea millora amb analgèsia convencional, encara que persisteixen la oftalmoparesia i la discromatopsia.
+
+Evolució
+La pacient és donada d'alta amb bon control del dolor, encara que persisteix la diplopía en la visió binocular. Passats 15 dies, la pacient reconsulta per lesions petequiales en les extremitats, presentant deterioració de les xifres de funció renal, per la qual cosa es practica una biòpsia renal, en la qual s'objectiva necrosi fibrinoide sense semillunes, afegint-se clínica d'hemoptisi amb imatges de TC suggeridors d'hemorràgia alveolar. Es comença tractament amb ciclofosfamida i prednisona en bitlles, i donada l'afectació pulmonar, s'inicien plasmafèresi i hemodiafiltración vena-vena. Després de 3 setmanes de tractament, s'aconsegueix la remissió de la clínica, la mobilitat ocular és normal i no dolorosa, i és donada d'alta al seu domicili amb controls ambulatoris. Dotze mesos després, a causa d'una infecció respiratòria vírica complicada per la immunosupressió i la sobreinfección bacteriana, la pacient mor en la Unitat de Vigilància intensiva.

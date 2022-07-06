@@ -1,0 +1,31 @@
+Anamnèse
+Femme de 74 ans, ayant des antécédents personnels de myélome multiple, ayant reçu une greffe de moelle osseuse allogène 10 mois auparavant, et traitée par immunosuppresseurs (tacrolimus, mycophénolate et stéroïdes) depuis environ 15 jours pour une maladie du greffon contre l'hôte.
+
+La patiente a été admise dans le service d'hématologie pour une évolution sur 24-48 heures d'un syndrome général, de fatigue, de douleurs musculaires généralisées, de nausées et de vomissements qui étaient liés à une infection des voies respiratoires supérieures pour laquelle elle avait déjà reçu un traitement antibiotique à l'azithromycine pendant 7 jours. Vingt-quatre heures après l'admission, une demande d'évaluation a été faite au service de neurologie en raison d'une faiblesse du membre supérieur droit qui a évolué en quelques heures vers le développement d'une diplégie brachiale.
+
+Examen physique
+Eupnéïque, saturation en O2 97%. Tension artérielle 125/89 mmHg. Fréquence cardiaque 111 bpm. Auscultation pulmonaire pathologique avec présence de rhonchi et de sifflements épars bilatéraux, le reste de l'examen systémique étant anodin. L'examen neurologique a révélé un patient conscient, avec des fonctions supérieures préservées. La parole est normale. Pas de dysarthrie. La motilité oculaire et la campimétrie de confrontation sont normales et il n'y a pas d'asymétrie faciale. Il y a une faiblesse à 1/5 au niveau de la flexion cervicale. Aux membres supérieurs, il existe une plégie du TMS et une parésie à 0/5 distal et 2/5 proximal du TMS. L'équilibre musculaire dans le MMII est normal. Il n'y a pas eu d'altération significative des différentes modalités sensorielles (algique, vibratoire, arthrocinétique ou tactile fine). Il existe une arréflexie dans le MMSS avec des réflexes ostéotendineux présents et symétriques dans le MMII. Le réflexe cutanéo-plantaire est fléchissant bilatéralement.
+
+Tests complémentaires
+- Biochimie, hémogramme et coagulation : aucun résultat intéressant.
+- Ponction lombaire : 21 leucocytes/mm3 (7% lymphocytes, 93% polymorphonucléaires), protéinorragie 42,6 mg/dl, glucorragie normale.
+- Culture du LCR et Gram : négatif.
+- Hémocultures : négatives.
+- Cultures urinaires : négatives.
+- Sérologie infectieuse : EBV, CMV, HSV, Mycoplasma IgG positif et IgM négatif. Borrelia leptospira, lupus, rougeole, cryptococcus, adénovirus, Coxiella, Chlamydophila pneumoniae, Influenza, Legionella, RSV négatif.
+- Virologie du LCR : détection de l'ARN de l'Enterovirus 68 par PCR positive. Détection PCR du CMV, HSV-1, HSV-2, VZV, EBV, HHV6, HHV7 négative.
+- Virologie sérique : détection par PCR des entérovirus positifs. Détection du CMV, EBV, adénovirus, Rhinovirus, RSV, Influenza A et B, Parainfluenza, Metapneumovirus, Bocavirus négative.
+- Scanner crânien : aucun résultat significatif.
+- IRM du rachis cervical (15 novembre) : aucun signe de compression ou d'invasion du canal rachidien. Au niveau de la moelle épinière cervicale et thoracique, une lésion linéaire hyperintense est identifiée dans les séquences pondérées en T2 affectant la corne antérieure de la moelle épinière de manière bilatérale. Aucune absorption pathologique n'est identifiée.
+- IRM crânienne (19 décembre) : il y a un hypersignal mal défini sur le bord gauche de la protubérance, sans autre signe d'atteinte parenchymateuse ou de prise de contraste pathologique.
+- IRM cervicale (19 décembre) : une amélioration des lésions a été observée en termes d'extension, qui a été délimitée entre C3-C7. A ce niveau, on observe des lésions sur la face antérieure de la moelle épinière touchant la corne antérieure de façon bilatérale. IRM cervicale en séquence STIR, coupes axiales et sagittales : hyperintensité touchant la corne antérieure de la moelle.
+- PESS : conduction centrale et médullaire normale pour les afférences somesthésiques des deux nerfs médians avec une latence périphérique accrue.
+
+Diagnostic
+Myélite infectieuse secondaire à une infection par Enterovirus 68.
+
+Traitement
+Un traitement immunosuppresseur a été mis en place avec des stéroïdes à la dose de 1 g/kg de poids corporel et des immunoglobulines, ainsi que des antiviraux et des antibiotiques à large spectre en cas de suspicion initiale d'une affection infectieuse ou parainfectieuse. Bien que l'étiologie vasculaire représente une possibilité étiopathogénique moins probable, un traitement par antiplaquettaires a été initié.
+
+Evolution
+L'état du patient a continué à se détériorer cliniquement, présentant une dysphagie et une dysphonie et nécessitant un transfert aux soins intensifs pour une intubation orotrachéale en raison d'une insuffisance respiratoire. Pendant son séjour aux soins intensifs, le déficit neurologique a évolué vers une tétraplégie flasque aréflexique et elle est décédée un mois plus tard des suites de multiples complications systémiques.

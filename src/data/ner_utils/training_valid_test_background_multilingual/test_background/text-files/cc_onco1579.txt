@@ -1,0 +1,27 @@
+Anamnesis
+Varón de 53 años de edad, con antecedentes personales de ser alérgico a la penicilina, fumador de 30 años/paquete, en tratamiento deshabituador por enolismo, prostatitis en el año 2009 y herniorrafia inguinal derecha. Antecedentes familiares: tío materno fallecido de neoplasia esofágica.
+En diciembre del año 2010 presenta molestias a nivel faríngeo, odinofagia sin otalgia refleja que trata con antibióticos y antiinflamatorios no esteroideos.
+No refiere hemoptisis, disfonía ni disnea. Refiere que presenta a nivel laterocervical izquierdo varias tumoraciones de un mes de evolución, motivo por el que en enero del año 2011 acude a consultas externas del Servicio de Otorrinolaringología
+
+Exploración física
+ECOG 1. Conciente y orientado. Buen estado general. Se palpan adenopatías cervicales izquierdas voluminosas e indoloras, sin ingurgitación yugular. No se palpan adenopatías en otros territorios. Auscultación cardiopulmonar: ruidos cardíacos rítmicos sin soplos, murmullo vesicular conservado sin estertores. Abdomen: blando, depresible, no doloroso. No se palpan masas ni megalias. Pulsos periféricos presentes y simétricos.
+Sin edemas en miembros inferiores y sin signos de trombosis venosa. No se aprecia focalidad neurológica.
+Laringoscopia: a nivel supraglótico, en la zona del borde libre de la epiglotis izquierda, yuxtapuesta a la zona de los tres repliegues e insinuándose en banda se aprecia lesión de aspecto papilomatoso, con extensión plana y que no afecta al pie ni a la comisura laríngea que se biopsia. La movilidad está conservada.
+
+Pruebas complementarias y diagnóstico
+• Analítica ordinaria: no se aprecian alteraciones significativas. Presenta marcadores tumorales, LDH y b-2-microglobulina dentro de de la normalidad.
+• TC cervical: dos adenopatías de aproximadamente 19 mm en cadena yugular interna izquierda en región IIA, y otra en región IIB de aproximadamente 1 mm. En cadena yugular derecha, se aprecia un ganglio de aproximadamente 13 mm en región IIA.
+• TC toracoabdominal con contraste: sin hallazgos significativos a nivel mediastínico ni pleural, sin masas o nódulos pulmonares. No se observan masas ni adenopatías abdominopélvicas, salvo diverticulosis de sigma.
+• Ante estos hallazgos, se procede a realizar biopsia con aguja gruesa ecodirigida de adenopatía de morfología redondeada de apariencia ecográfica patológica en cadena laterocervical izquierda.
+• Anatomía patológica de la lesión supraglótica: carcinoma indiferenciado de célula pequeña. Inmunohistoquímica: Negativo: Cromogranina, CD 56, CD 45, CK:5/6, CD 99. Positivo: EMA, AE 1/3, BCL-2, CD 10
+• Anatomía patológica de la adenopatía laterocervical: carcinoma indiferenciado de célula pequeña. Músculo estriado, piel y ganglio linfático. Inmunohistoquímica: negativo: CK 20, EBER. Positivo: CK 8, CAM 5,2.
+Ante el diagnóstico de carcinoma microcítico de laringe con afectación ganglionar, se decide completar estudio de extensión con PET y RM cerebral:
+• PET-TC (febrero de 2011): neoplasia supraglótica izquierda (SUV máx. 9) con adenopatías bilaterales: tres derechas (SUV máx. 15,4) (dos yugulares altas y otra yugular media) y dos izquierdas (SUV máx. 11,9) (yugular media y en triángulo posterior) (PET-TC: lesión supraglótica y adenopatías laterocervicales).
+Aumento del metabolismo simétrico del anillo de Waldeyer de más dudosa significación sin identificarse otros depósitos sospechosos en el rastreo corporal.
+• RM cerebral: sin hallazgos.
+
+Tratamiento y evolución
+Durante los meses de febrero-abril de 2011, el paciente recibe quimioterapia según esquema cisplatino-etopósido (tres ciclos) concomitante con radioterapia con técnica IMRT convencional. Se administra una dosis total de 50 Gy (200 cGy/día) en cuello bilateral y 60 Gy (200 cGy/día) en supraglotis y adenopatías cervicales presentando toxicidad cutánea grado 2, mucositis grado 3, disfagia y odinofagia grado 3 según criterios de RTOG. Tras finalizar la radioterapia, se completan tres ciclos más de quimioterapia que finaliza en junio de 2011 presentando como principales toxicidades mucositis grado 3 que requiere administración de nutrición parenteral ambulatoria por Unidad de Hospitalización a Domicilio y anemia grado 3 que precisa transfusión de hemoderivados.
+Tras la finalización del tratamiento, se realiza PETTC de reevaluación donde se aprecia una respuesta metabólica completa a nivel cervical y supraglótico.
+En dicho estudio se objetivan además lesiones hipermetabólicas intestinales, localizadas en íleon y sigma con un SUV de 4,1 y 7,3, respectivamente, por lo que se solicita colonoscopia donde se aprecian diverticulosis colónica y pólipos que se extirpan y se envían para análisis anatomopatológico siendo compatibles con adenomas túbulo-vellosos.
+Dada la excelente respuesta al tratamiento, se decide administrar radioterapia holocraneal profiláctica en septiembre de 2011 (dosis total 30 Gy, 200 cGy/día) con buena tolerancia. Actualmente, tras catorce meses desde el inicio del tratamiento, el paciente se encuentra asintomático y sin evidencia de recaída.

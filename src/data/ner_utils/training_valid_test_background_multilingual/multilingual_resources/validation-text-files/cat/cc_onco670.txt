@@ -1,0 +1,23 @@
+Anamnesi
+Pacient home de 29 anys sense antecedents familiars ni medicoquirúrgicos previs d'interès, ni medicació domiciliària rellevant que presenta un quadre de dolor epigàstric irradiat a l'esquena, augment progressiu del perímetre abdominal i pèrdua de pes d'uns 9 kg de tres mesos d'evolució. En aquest temps, acudeix en dues ocasions a Urgències, sent donat d'alta després de no trobar signes d'alarma ni alteracions analítiques. El mes de desembre de 2017, acudeix de nou amb major deterioració clínica i ascites a tensió. Es cursa llavors ingrés per a estudi en Digestiu.
+
+Exploració física
+Durant l'exploració el pacient presentava bon estat general, encara que cridava l'atenció la seva marcada primesa i aspecte de malaltia. En la palpació abdominal, es posava de manifest onada ascítica, amb ascites a tensió i dolor en la palpació difusa sense irritació peritoneal, masses ni megalias. No es palpaven adenopaties a cap nivell ganglionar, ni es va objectivar cap altra troballa rellevant en l'exploració per aparells.
+
+Proves complementàries
+En els controls analítics seriats que es van realitzar durant l'ingrés no es van trobar alteracions més que PCR i LDH discretament elevades. El proteinograma i totes les serologies víriques realitzades (incloent VIH, hepatotropos, CMV, VEB, herpesvirus i parvovirus) també van resultar normals.
+El líquid ascítico després de la paracentesi no va mostrar cèl·lules tumorals ni altres dades significatives.
+Es va realitzar toracoabdominopélvica que va trobar notable vessament pleural dret, engruiximent pleural, múltiples adenopaties axil·lars, mediastíniques, hiliares pulmonars, intraabdominals (amb conglomerat adenopático celíac-periportal de 5 cm), gàstriques, esplèniques, retroperitoneales i mesentèriques que oferien sospita radiològica de síndrome limfoproliferativa extensa, i focus osteoescleróticos en vèrtebres dorsals D1-D11-D12, manubrio esternal i a nivell costal. També s'objectivava un marcat engruiximent amb augment de densitat multinodular del epiplón major, per la qual cosa es va sol·licitar també endoscòpia digestiva alta (EDA) en la qual es visualitzava en cos gàstric una lesió d'uns 4 cm, arrodonida i ulcerada sospitosa de neoplàsia. En la colonoscòpia, al llarg del recorregut de l'endoscopi, es trobaven diverses àrees de compressió extrínseca de la mucosa que impressionava que poguessin correspondre amb implants peritoneals.
+Es van prendre mostres per a biòpsia de les troballes trobades en EDA i colonoscòpia, tots dos amb resultat negatiu per a malignitat. En aquest cas, el diagnòstic s'obté a través de la biòpsia d'un gangli axil·lar.
+
+Diagnòstic
+L'estudi anatomopatològic va concloure: gangli limfàtic amb infiltració per neoplàsia maligna suggestiva de tumor desmoplásico de cèl·lules petites i rodones (TDCPR) secundat per estudi immunohistoquímic amb expressió positiva per a l'antigen epitelial de membrana (EMA), CKAE1/AE3, vimentina, enolasa neuronal específica i amb positivitat focal en patró dot like per a desmina, així com per la presència de fusió del gen EWSR1/WT1.
+Amb aquestes dades, es diagnostica finalment al pacient de TDCPR intraabdominal estadi IV per afectació pleural, poliadenopática, peritoneal i òssia.
+
+Tractament
+Després de l'alta, el pacient va ser avaluat en consulta d'Oncologia, decidint-se derivació a la nostra Unitat de Referència de Sarcomes de l'hospital per a valoració i tractament.
+Es va proposar com a primera estratègia terapèutica quimioteràpia pal·liativa amb la combinació de vincristina-adriamicina-ciclofosfamida-ifosfamida-etopósido durant sis cicles segons tolerància.
+
+Evolució
+El pacient va començar el tractament anteriorment exposat al gener de 2018. Fins al moment, ha rebut quatre cicles amb bona tolerància, sense toxicitats rellevants (únicament nàusees grau 2), ni alteracions analítiques que hagin propiciat retard en els cicles ni reducció de dosi. Després de segon cicle, va acudir a Urgències per presentar augment de tos, dispnea brusca i malestar general, catalogant-se el quadre de procés infecciós, havent descartat prèviament tromboembolisme pulmonar (TEP). Ha precisat fins al dia d'avui de quatre paracentesis evacuadoras, amb extracció en cadascuna d'elles d'uns 8 litres aconseguint-se millora clínica posterior. Manté ECOG PS de
+1. S'ha realitzat TC de reavaluació en la qual s'objectiva resposta parcial de la malaltia. Pendent de rebre encara els dos cicles restants fins a completar sis.

@@ -1,0 +1,48 @@
+Antecedents personals:
+Home de 29 anys, natural de Mali, que resideix a Espanya des de fa 4,5 anys. No ha tornat al seu país d'origen. La seva ruta migratòria va ser: Costa d'Ivori, Líbia, Mali, Algèria, el Marroc i Fuerteventura. Treballa en els hivernacles. Conviu amb 8 persones en una casa amb bones condicions higièniques. Antecedents de malària en repetides ocasions. No hàbits tòxics ni altres antecedents d'interès. No realitza tractament de manera habitual. No al·lèrgies medicamentoses conegudes.
+
+Malaltia actual: és remès des d'Atenció Primària a la consulta de Medicina Tropical (UMT) per a estudi de hipertransaminasemia. El pacient va acudir al seu metge de capçalera per dolor abdominal que relacionava amb la ingesta d'aliments, amb deposicions normals, i que va cedir amb un tractament que no aporta. En aquesta visita, se li aplica el protocol d'atenció inicial a l'immigrant, que inclou la realització d'un hemograma complet, bioquímica amb perfil hepatorrenal, serologia de VHB, VHC, VIH i sífilis, així com estudi de paràsits en femta i en orina (en subjectes procedents de regions endèmiques de esquistosomiasis). Refereix també pruïja de característiques inespecífiques, sense relació amb la dutxa. Antecedent d'hematúria en la infància per a la qual va rebre un tractament que no recorda, quedant des de llavors asimptomàtic.
+
+
+Exploració física:
+TA: 145/90, Pes: 60 kg. Bon estat general, ben nodrit. Cap i coll: no adenopaties, ni muguet. ACR: tons rítmics sense soplos; murmuri vesicular conservat sense sorolls patològics. Abdomen tou, depresible, no dolorós, no es palpen megalias ni masses. MMII: no dades de filariasis; mínima micosi interdigital entre 4o-5o dits de tots dos peus.
+
+Proves complementàries inicials:
+• Hemograma: leucòcits 9120/microL (57,9% Neutròfils, 33,6% limfòcits, 8,5% eosinòfils; 775 eosinofilos/ mm3). Hb 15,7 mg/dl, Hto 46,5%, VCM 89,1; HCM 30,1; Plaquetes 279.000/microL.
+• Bioquímica: AST 93 UI/L, ALT 184 UI/L, GGT 125UI/L, FA 91 UI/L, resta normal.
+• Serologia: VIH, VHC i lues negatiu. VHB: AgHBs -, AcHBs -, AcHBc +.
+• Paràsits en femta amb tècnica de concentració (Ritchie) 3 mostres (x3): Blastocystis hominis. 
+
+Diagnòstic diferencial
+El diagnòstic diferencial el plantegem d'una banda en l'eosinofília i per un altre en la hipertransaminasemia. L'eosinofília és un de les síndromes més freqüents amb els quals s'enfronta el clínic en pacients amb patologia tropical importada. Encara que cal considerar com a causes possibles els processos al·lèrgics i d'hipersensibilitat, les malalties inflamatòries sistèmiques i les neoplàsies (hematològiques i d'òrgan sòlid), l'etiologia més freqüent en pacients procedents de regions tropicals (el nostre pacient procedeix de Mali) són les parasitosis, fonamentalment les causades per helmints. L'absència de simptomatologia específica de les primeres causes fa més probable l'origen parasitari. Ja en l'anamnesi, el pacient fa referència a episodis d'hematúria en la infància, possiblement a causa d'una esquistosomiasis urinària, malaltia endèmica dels països d'Àfrica Occidental. Entre les possibilitats a considerar estan: Nematodes, s'inclouen:
+1. Geohelmintos (uncinarias, Trichuris trichuria, Ascaris lumbricoides, Strongyloides stercoralis).
+2. Filariosi (oncocercosis, filariasis limfàtica, gènere Mansonella, Lloa lloa).
+3. I altres menys freqüents com Toxocara o Anisakis. Cestodos: Tènia solium, Tènia saginata, Hymenolepis nana, Equinococcus granulosus. Trematodos: Schistosoma haematobium, Schistosoma intercalatum i Schistosoma mansoni, Fasciola hepàtica.
+
+En relació amb l'afectació hepàtica, les possibles causes a considerar en aquest pacient són:
+• Hepatitis virals. L'hepatitis crònica per VHB afecta a més de 350 milions de persones en el món, i la prevalença en la majoria dels països d'Àfrica Subsahariana és superior al 8%. En el nostre cas, el AgHBs és negatiu, però caldria valorar la possibilitat d'una hepatitis B oculta (AcHBc+, AgHBs-, càrrega viral positiva). També caldria considerar l'hepatitis crònica per VHC, encara que la prevalença de la malaltia és menor en pacients procedents d'aquesta zona. Les altres etiologies (VHA, VHE) es manifesten per hepatitis aguda, que sembla raonable descartar.
+• Parasitosis. Entre les quals poden ocasionar afectació hepàtica destaquen la Fasciola hepàtica, Ascaris lumbricoides (més associada a colangitis, colecistitis, colèstasi), i la esquistosomiasis. La esquistosomiasis, sobretot produïda per S. mansoni, pot donar lloc hipertensió portal presinusoidal, caracteritzada per intensa fibrosi periportal, hiperesplenisme i varices esofàgiques, conservant fins a estadis finals de la malaltia la funció hepatocel·lular.
+• Lesions tumorals: el carcinoma hepatocel·lular és una entitat molt prevalent entre pacients procedents de zones endèmiques per VHB, en els quals l'adquisició de la malaltia en la infància permet l'aparició d'aquesta mena de tumors en pacients d'edat jove.
+• Altres possibilitats a considerar serien hepatitis d'origen autoimmune, medicamentós, alcohol, de causa metabòlica, granulomatosa o idiopàtica.
+
+Evolució
+Es prescriu tractament tòpic amb ciclopiroxolamina i se sol·licita estudi segons el protocol d'estudi i tractament de l'eosinofília de la UMT, així com ecografia abdominal i vesical, i càrrega viral de VHB per a descartar hepatitis B oculta. Els resultats es mostren a continuació:
+• Hemograma: leucòcits 5.430/microL (4,2% eosinòfils; 230 eosinòfils/mm3). Hb 14,4 mg/dl. Plaquetes 189.000/microL.
+• Tret drepanocítico (heterozigot per a HbS; HbS 37%).
+• Bioquímica: AST 48 UI/L, ALT 74 UI/L, GGT 81UI/L, FA 119 UI/L, resta normal, incloent metabolisme del ferro, perfil renal i lipídic. IgE: 243 UI/ml.
+• Orina: sediment normal.
+• Coagulació: TP 74%, INR: 1.2, TTPa 27.8 sg.
+• Serologia: Strongyloides (ELISA): NEGATIVA; Schistosoma (ELISA): MOLT POSITIVA. VHB: AgHBs -,
+• PCR VHB: POSITIVA; quantificació ADN VHB: 1.000 UI/ml.
+• Estudis parasitològics: 1. Paràsits en femta amb tècnica de concentració (x3): NEGATIUS. 2. Estudi de microfilarias en sang (test de Knott): NEGATIU. 3. Paràsits en orina amb tècnica de concentració: NEGATIUS.
+• Alfa-fetoproteína: 1,4 ng/ml
+• Rx de tòrax i abdomen: sense alteracions.
+• Mantoux: 10 mm.
+• Ecografia abdominal i vesical: fetge de grandària normal amb alteració de la ecoestructura. Hiperecogenicidad del teixit periportal amb intensa fibrosi. Porta augmentada de calibre (15 mm) i melsa de 12 cm. Bufeta de parets normals.
+
+Davant el diagnòstic d'hepatitis B oculta i signes de hepatopatía crònica, amb dades molt suggeridores de parasitación per Schistosoma, se sol·licita biòpsia rectal que mostra mucosa amb presència d'ous de esquistosomas. Posteriorment, es decideix realització de biòpsia hepàtica per a valorar el grau d'activitat de la malaltia, amb el següent resultat: "Parènquima hepàtic reemplaçat per nòduls de petita grandària amb tractes connectius fibrosos gruixos, amb infiltrat inflamatori linfohistiocitario, necrosi parcel·lar erosiva i acúmulos d'eosinòfils. Canvis regeneratius en hepatòcits. Diagnòstic final compatible amb hepatopatía crònica d'origen viral (grau 2 d'activitat, grau 3 de fibrosi), i possiblement secundària a esquistosomiasis encara que no s'han visualitzat paràsits".
+
+Se sol·licita serologia de VHDelta (AcVHD POSITIVA, PCR VHD: NEGATIVA) i gastroscòpia, a la qual es nega el pacient. Davant les troballes descrites s'inicia tractament amb praziquantel (40 mg/Kg de pes, 1 dia i amb tenofovir 300mg/ dia, presentant actualment bona adherència al tractament, sent l'última càrrega viral de VHB negativa.
+
+Diagnòstic final
+Hepatopatía crònica secundària a esquistosomiasis i hepatitis B oculta.

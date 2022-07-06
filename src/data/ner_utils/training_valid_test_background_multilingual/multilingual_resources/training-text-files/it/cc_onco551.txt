@@ -1,0 +1,29 @@
+Anamnesi
+Un uomo di 61 anni, ex-fumatore fino a 6 mesi prima della diagnosi, da più di 45 anni (IPA 50), e senza altra storia di interesse, che è andato dal suo medico di base per un bultoma nella regione cervicale sinistra, senza disfagia o odinofagia associata. Inizialmente, una diagnosi di infezione cervicale è stata fatta nel contesto dell'otalgia e dei recenti impianti dentali, ma data la mancanza di miglioramento con il trattamento antibiotico, è stata inviata a Endocrinologia per ulteriori indagini.
+L'ecografia cervicale ha mostrato adenopatie cervicali multiple di sinistra fino a 2,7 cm. Tiroide normale con 2 noduli solidi ben definiti.
+Una puntura-aspirazione con ago sottile guidata da ultrasuoni (FNA) è stata eseguita per ottenere campioni, e il rapporto patologico ha concluso: metastasi di carcinoma a cellule squamose.
+Il paziente è stato poi valutato dal reparto di Otorinolaringoiatria ed è stata eseguita una fibroscopia che ha mostrato una lesione nella regione tonsillare sinistra che si estende al palato molle, alla sottomucosa dell'emipalato sinistro e caudalmente raggiunge la base della lingua, la vallecula e l'epiglottide. Una biopsia della tonsilla è stata eseguita con un rapporto di patologia anatomica di infiltrazione sottomucosa da un carcinoma a cellule squamose scarsamente differenziato, positivo al papillomavirus umano (HPV) e alla p16.
+Lo studio di estensione è stato completato con una TAC cervicofacciale che ha mostrato una massa simile a un tumore nella tonsilla linguale sinistra, di circa 26 mm, suggestiva di carcinoma a cellule squamose. Adenopatie metastatiche in entrambe le catene giugulari interne, più numerose e più grandi a sinistra nei livelli IIA, IIB, III, IV, VA e VB, con necrosi in molti di essi.
+Una TAC toracoabdominopelvica è stata eseguita come studio di estensione senza evidenza di diffusione a distanza, confermando la diagnosi del paziente: carcinoma epidermoide dell'orofaringe HPV+ p16+ stadio IVA (cT4N2M0) a giugno 2013.
+Presentato al comitato per i tumori della testa e del collo del nostro ospedale, è stato deciso di proporre un trattamento conservativo con chemioterapia e radioterapia. La paziente è stata sottoposta a un trattamento radioterapico con 50 Gy sul letto tumorale e sulle catene linfonodali drenanti con margine, con sovraimpressione del tumore primario e dei linfonodi interessati fino a una dose di 70 Gy. Contemporaneamente, il paziente ha ricevuto un trattamento chemioterapico con cisplatino 40 mg/m2 alla settimana per un totale di 6 cicli.
+La successiva rivalutazione con la fibroscopia ha mostrato una risposta completa. Nella TAC di valutazione della risposta, la lesione primaria è diminuita in dimensioni e densità. Inoltre, c'è stata una marcata diminuzione, con una scomparsa quasi completa delle adenopatie laterocervicali preesistenti, con la visione di soli linfonodi millimetrici, con cambiamenti post-trattamento nelle catene IIa e IIb e III.
+Il paziente è stato seguito e, in una TAC di rivalutazione nel settembre 2016, ha presentato una recidiva mediastinica con adenopatie prevascolari, anteriori al tronco brachiocefalico destro, paratracheali alte a destra, nella finestra aortopolmonare, nell'ilo destro e subcarinali. La mediastinoscopia è stata eseguita con biopsie, che hanno confermato la presenza di metastasi di carcinoma a cellule squamose p16+.
+È stato indirizzato all'Oncologia Medica dove il trattamento di prima linea è stato iniziato con carboplatino (AUC-5) e cetuximab (400 mg/m2 la prima settimana, seguito da 250 mg/m2 settimanalmente) ogni 3 settimane, fino al completamento di 5 cicli terminati a marzo 2017, con ritardi dovuti alla tossicità ematologica.
+Nella TAC di rivalutazione di marzo 2017, c'era evidenza di progressione della malattia mediastinica, quindi ha iniziato la seconda linea di trattamento con nivolumab, ottenendo una risposta radiologica completa.
+
+Esame fisico
+Il paziente è venuto per un controllo per iniziare il ciclo 33 di nivolumab, ed è stato visto avere estese placche eritematose squamose sul tronco, gli arti superiori e gli arti inferiori, con placche più floride con esfoliazione sui palmi. Non c'erano altre lesioni cutanee di interesse. Altrimenti, ha riportato buone condizioni generali e un ECOG 0.
+
+Test complementari
+Esame del sangue senza risultati di interesse.
+
+Diagnosi
+Eruzione psoriasiforme dovuta agli anti-PD-1.
+
+Trattamento
+Il paziente è stato indirizzato al reparto di dermatologia, dove è stato iniziato un trattamento con corticosteroidi:
+"Prednisone 50 mg in modo decrescente.
+"Clobetasol crema".
+
+Evoluzione
+Vista la comparsa di tossicità cutanea di grado 3 e la risposta radiologica completa della malattia, è stato deciso di sospendere il nivolumab. Il paziente continua con controlli periodici e, ad oggi, 6 mesi dopo la sospensione del farmaco, è ancora in risposta completa.

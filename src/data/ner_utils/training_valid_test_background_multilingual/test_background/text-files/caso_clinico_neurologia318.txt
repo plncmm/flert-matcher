@@ -1,0 +1,24 @@
+Anamnesis
+Varón de 43 años que acudió al Servicio de Urgencias por pérdida brusca de consciencia precedida de sonido gutural atestiguado por su esposa con caída al suelo sin traumatismo craneoencefálico, con confusión posterior y recuperación paulatina, sin cefalea ni náuseas ni otra sintomatología concomitante. En el último mes había presentado varios episodios de mareo, uno de ellos descrito como síncope de características vasovagales de duración prolongada. No tenía enfermedades ni hábitos tóxicos conocidos. Era independiente para las actividades básicas de la vida diaria.
+
+Exploración física
+Tensión arterial 110/80 mmHg. Frecuencia cardiaca 88 lpm. Temperatura corporal 36,5 oC. Estable hemodinámicamente, afebril, eupneico, normocoloreado, bien hidratado y perfundido, auscultación cardiopulmonar normal, pulsos distales conservados simétricamente. Resto de exploración por aparatos normal.
+
+Exploración neurológica: funciones superiores normales. Nervios craneales: normales. Sistema motor: tono y trofismo conservados, balance motor 5/5 en las cuatro extremidades, reflejos miotáticos conservados simétricamente, reflejo cutáneo-plantar flexor bilateral. Hoffmann negativo bilateral. Sensibilidad conservada en todas sus modalidades. Coordinación: no ataxia ni dismetría ni disdiadococinesia. No signos de irritación meníngea.
+
+Pruebas complementarias
+• Análisis: lactato 2,6 mmol/L. Hemograma, coagulación, gasometría venosa y resto de parámetros bioquímicos normales.
+• Electrocardiograma y radiografía de tórax: normales.
+• Tomografía computarizada (TC) craneal en Urgencias: lesión ocupante de espacio frontotemporal derecha, con efecto de masa sobre el ventrículo lateral derecho y desplazamiento de la línea media.
+• Electroencefalograma: signos de afectación cerebral focal fronto-temporal derecha, con una mayor lentificación y desestructuración de la actividad de fondo, sin anomalías epileptiformes sobreañadidas. 
+• Resonancia magnética (RM) cerebral: proceso expansivo hemisférico derecho, con importante efecto masa y desplazamiento de la línea media y signos de herniación subfalcial y transtentorial. Débil captación de contraste, homogénea, a nivel frontal profundo derecho. Principales posibilidades: glioma de bajo grado, linfoma cerebral. Pruebas iniciales. En la resonancia magnética cerebral inicial se observa una lesión expansiva hemisférica derecha con herniación subfalcial y transtentorial. La espectroscopia muestra un pico elevado de colina y señal disminuida de N-acetilaspartato, hallazgos ambos sugestivos de neoplasia cerebral primaria.
+• Espectroscopia: en la zona de la lesión expansiva se obtuvo un índice colina/ N-acetil-aspartato elevado, sugestivo de neoplasia cerebral primaria.
+• Electroencefalograma: signos de afectación cerebral focal fronto-temporal derecho, con una mayor lentificación y desestructuración de la actividad de fondo, sin anomalías epileptiformes sobreañadidas.
+
+Evolución
+El paciente ingresó en el Servicio de Neurocirugía, donde se instauró tratamiento con fenitoína 125 mg y dexametasona 4 mg cada 8 horas i.v. Se programó una biopsia cerebral guiada por navegador, que mostró proliferación tumoral de estirpe glial con signos de infiltración, de estirpe oligodendroglial, sin signos de necrosis ni proliferación parietal vascular, con positividad nuclear con P53 en un 25% de las células, hallazgos sugestivos de glioma tipo oligodendroglioma grado II-III. Pocos días después se procedió a la extirpación subtotal de la lesión, iniciándose tratamiento con levetiracetam 500 mg cada 12 horas, temozolomida y radioterapia estereotáxica concomitante.
+
+Durante los tres años siguientes, el paciente acudió a revisiones en la consulta de Neurooncología, finalizando el tratamiento quimioterápico con buena tolerancia y sin presentar nuevas crisis. Sucesivos controles radiológicos descartaron recidiva tumoral, pero recientemente, 40 meses después de la resección, se ha objetivado una recaída sesión conjunta de las unidades de neurocirugía tumoral y neurooncología. Controles radiológicos. Los sucesivos controles no mostraron progresión durante los tres años tras el diagnóstico. Un nuevo control 40 meses después del mismo mostró signos de recaída local.
+
+Diagnóstico
+Oligodendroglioma grado II-III.

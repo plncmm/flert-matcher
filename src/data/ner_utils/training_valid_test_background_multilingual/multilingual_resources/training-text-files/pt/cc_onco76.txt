@@ -1,0 +1,43 @@
+Anamnese
+Homem de 32 anos de idade com um historial de colelitíase recorrente. Sem hábitos tóxicos. Colecistectomia laparoscópica. Nenhuma outra história.
+
+Consultou o departamento de emergência em Junho de 2014 para um quadro clínico de 2 meses de disfagia progressiva, principalmente para os sólidos, associada à dispneia ao esforço nos últimos 15 dias.
+
+Exame físico
+ECOG 0. hemodinamicamente estável. Eupneic. Tumor suprasesternal de aproximadamente 10 cm de diâmetro. Stridor sobre auscultação traqueal. Sem pletora ou sinais clínicos de síndrome de veia cava superior. Laringoscopia indirecta realizada no departamento de emergência: sem alterações. Auscultação cardíaca: normal. Auscultação pulmonar: rhonchi disperso. Abdómen e extremidades: sem alterações.
+
+Testes complementares
+Durante o estudo nos departamentos de Emergência, Ressuscitação e Hematologia:
+"Radiografia do tórax (5/6/2014): alargamento do mediastino superior.
+"CTAP (5/6/2014): massa cervicotorácica medindo 11 x 16 x 5 cm. Ocupa o mediastino anterior e está localizado abaixo da tiróide, com a qual não tem qualquer relação. A massa desloca e comprime o lúmen traqueal, que tem um diâmetro mínimo de 4 mm. Impressão da veia cava superior com abundante circulação venosa colateral na musculatura paravertebral. Não são demonstradas metástases pulmonares ou adenopatias retroperitoneais.
+"BAG de massa mediastinal (5/6/2014): AP de tumor de células germinativas: seminoma.
+"Immunohistochemistry (IHQ)":
+- Oct-4, D2-40, C-Kit e PLAP: positivo nas células tumorais.
+- CD-20 e CD79a: positivo em linfócitos B.
+- CD3: positivo na população linfóide B.
+- CD30, CD138, EMA, AE1/AE3 e alfa-fetoproteína: negativo.
+
+Com estes resultados, foi transferido para o Serviço de Oncologia Médica em 10/6/2014 para um estudo mais aprofundado:
+"Ultra-som testicular (11/6/2014): ambos os testículos são homogéneos e com vascularização normal.
+Cisto simples de 2 cm na cabeça do epidídimo direito.
+"Functional respiratory tests: severe/very severe obstructive ventilatory pattern with amputation of the inspiratory and expiratory flow/volume curve compatible with fixed tracheal obstruction already known by CT scan. Teste de Broncodilatador (+).
+"CBC (11/6/2014): plaquetas 305.000, leucócitos 16.200 (neutrófilos 13.400), LDH 653 UI/l, glucose, ureia, creatinina, sódio, potássio dentro do normal. Alfa-fetoproteína (11/6/2014) 1,431, beta-HCG (12/6/2014) 901.7, ácido úrico, ferritina, ácido fólico, vitamina B12, beta-2 microglobulina, hormonas da tiróide, anticorpos anti-tiróide TP e anticorpos anti-tiroglobulina dentro dos valores normais. HBV, HCV e serologia HIV negativa. Coagulação: normal, fibrinogénio 509.
+
+Diagnóstico
+Tumor mistos de células germinativas extragonais mediastinais. Mau prognóstico de acordo com a classificação da IGCCCG.
+
+Tratamento
+Com o diagnóstico de tumor germinal extragonal misto, iniciou-se o primeiro ciclo de quimioterapia com intenção radical de acordo com o esquema convencional BEP (bleomicina 30 UI dias 1, 8, 15 + etoposida 100 mg/m2 dias 1-5 + CDDP 20 mg/m2 dias 1-5/21 dias x 4 ciclos). O tratamento com allopurinol foi iniciado para prevenir a síndrome de lise tumoral.
+
+Evolução
+Após quatro ciclos, foi realizada uma reavaliação TAP CT em 24/9/2014, mostrando uma resposta parcial, pelo que o caso foi apresentado à comissão de cirurgia torácica em 9/10/2014, rejeitando o tratamento cirúrgico da massa mediastinal residual devido ao elevado risco cirúrgico em relação à suspeita de infiltração do tumor a nível traqueal e dos dois troncos braquiocefálicos.
+
+Em 14/10/2014 foi realizado um exame PET-CT, onde se observou que a massa cervicotorácica anterior apresentava uma actividade metabólica marcadamente irregular com áreas de ausência de actividade metabólica juntamente com áreas de hipermetabolismo elevado (SUV 9,5 máximo).
+
+Assim, com o diagnóstico de um tumor inconectável com intensa absorção de PET, a quimioterapia é proposta de acordo com o esquema TIP.
+
+Em 16/10/2014, em consulta, o paciente apresentou um aumento do tamanho da massa a nível supraclavicular, decidindo solicitar uma segunda opinião noutro centro, onde o tumor foi considerado ressecável. Em 6/11/2014 foi realizada uma ressecção macroscópica completa (AP: lesão residual de teratoma maligno, com a presença de áreas de displasia epitelial grave e pelo menos um foco limitado de possível transformação carcinomatosa. IHC: positividade intensa para a citoceratina AE3/AE1. Ki-67% nas áreas mais maduras. Positivo para a CEA. AFT ligeiramente positivo em todo o epitélio). 
+
+Na revisão TAP CT scan após a cirurgia, houve uma diminuição significativa no envolvimento do mediastino anterior pré-cardíaco, bem como no envolvimento da veia cava superior.
+
+Dado que não existe tumor germinal residual viável, o paciente não necessita de quimioterapia complementar e encontra-se actualmente sob acompanhamento rigoroso no nosso centro.

@@ -1,0 +1,29 @@
+Motiu de consulta
+Al·lucinacions visuals amb judici de realitat preservat. El cas clínic es desenvolupa en l'àmbit de l'Atenció Primària i posteriorment en Urgències Hospitalàries, per a completar l'estudi.
+
+Enfocament individual (anamnesi, exploració, proves complementàries)
+Antecedents personals: no al·lèrgies a medicaments, hipertensió arterial, no fumador ni bevedor, fibril·lació auricular permanent anticoagulada, malaltia renal crònica, estenosi aòrtica moderada amb FEVI preservada, anèmia ferropènica crònica amb estudis endoscòpics normals, pancreatitis aguda biliar en 2015 de gravetat moderada, hipotiroïdisme. Operat de cataractes en ull esquerre en 2017.
+
+Situació basal: independent per a activitats bàsiques de la vida diària, funcions superiors conservades. Deambula només. Conviu amb la seva dona.
+Tractament habitual: Sintrom 4 mg 1 comprimit al dia, eutirox 150 mg, furosemida 40 mg cada 12 h, omeprazol 20 mg cada 24 h, amlodipino 5 mg 1 comprimit al dia.
+
+Pacient de 87 anys que consulta en el Centre de Salut referint al·lucinacions visuals des de fa 2 setmanes (zoonosis de nena o tama o: cucs, formigues, gallines...) amb judici realitat preservat, generant-li angoixa. Afebril. No consumeixo de nous fàrmacs ni tòxics. No dades suggestives de clínica infecciosa. No dispnea, no dolor toràcic. No situacions estressants prèvies. Acompanyat per la seva dona que refereix que no ha tingut comportaments fora de l'habituals les últimes setmanes, no afectant la seva qualitat de vida de forma acusada, podent exercir la seva activitat habitual. Sense deterioració cognitiva.
+
+Exploració: estabilitat hemodinàmica TA 130/80, FC 65 lpm, afebril. Conscient, orientat en temps i espai i col·laborador, amb judici de realitat conservat fent crítica de les al·lucinacions visuals. Eupneico en repòs sense treball respiratori. Sense troballes d'interès en auscultació cardíaca ni exploració abdominal. No edemes en membres inferiors. Exploració neurològica dins de la normalitat: pupil·les isocóricas i reactives a la llum, moviments oculars externs conservats, campimetría per confrontació normal (encara que persisteix en tot moment les al·lucinacions, que cedeixen en tancar els ulls). No atàxia ni tremolor. Marxa conservada. Romberg negatiu. No focalidad neurològica.
+Test Mini Mental sense trets de deterioració cognitiva, i test de tòxics negatiu.
+Es va decidir derivar a Urgències d'hospital de referència per ser el primer episodi d'al·lucinacions visuals en pacient independent, sense deterioració cognitiva prèvia. A descartar organicitat.
+
+Proves complementàries
+Analítica sang: leucòcits 6.110, hemoglobina 8,5 (anèmia crònica ja estudiada amb valors similars en les anteriors analítiques), plaquetes 237.000. INR 2,3. Glucosa 103, urea 51, creatinina 2 (controls previs similar 2,3), ions normal, no elevació de reactants de fase aguda. Vitamina B12 i tiroidals normal, en l'analítica de fa una setmana.
+Orina normal. Radiografia de tòrax i abdomen normal. TC crani: sense troballes agudes d'interès Valoració per Oftalmologia: agudesa visual 0,3/ 0,1, cataracta dreta. Psuedofacoemulsificación esquerra per intervenció de cataracta esquerra, amb opacificación de la càpsula posterior. DMAE seca bilateral.
+Valoració per Neurologia i Psiquiatria, descartant patologia a aquests nivells.
+
+Judici clínic (llistat de problemes, diagnòstic diferencial)
+Judici clínic: Síndrome de Charles Bonnet en pacient amb escassa agudesa visual bilateral a causa de degeneració macular associada a l'edat (DMAE).
+Diagnòstic diferencial: patologia psiquiàtrica (esquizofrènia, trastorn delirant...), neurològica (demència de cossos de Lewy, demència tipus Alzheimer, demència vascular, Parkinson, delirium...), tòxics, fàrmacs de nova introducció en el pacient, patologia endocrí- metabòlica (crisi tiroidal), tumor cerebral primari, encefalitis, meningitis, metàstasi cerebral de tumor d'origen desconegut...
+
+Pla d'acció i evolució
+Es decideix intervenir la cataracta de l'ull dret, i citar per a aplicar laser YAG en ull esquerre, a causa de la opacificación després de la intervenció de cataractes d'aquest ull. Això milloraria la pobra agudesa visual del pacient, podent desaparèixer en part les al·lucinacions visuals.
+D'altra banda no hi ha un tractament que sigui d'elecció en la síndrome de Charles Bonnet. Per al seu tractament s'han usat fàrmacs anticomicials, neurolèptics, antidepressius i agents colinèrgics. No obstant això, actualment no existeix suficient evidència clínica per a seleccionar un tractament farmacològic determinat. Això juntament amb les mesures higièniques (adequada il·luminació, estar acompa ados...) millora la simptomatologia.
+
+Evolució: en el cas del nostre pacient es va emprar baixa dosi de risperidona amb acceptables resultats. Això juntament amb la intervenció ocular va disminuir la freqüència de les al·lucinacions, millorant l'angoixa del pacient i la seva qualitat de vida.

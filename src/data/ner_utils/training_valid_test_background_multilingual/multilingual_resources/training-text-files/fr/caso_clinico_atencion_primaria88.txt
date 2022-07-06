@@ -1,0 +1,48 @@
+Motif de la consultation
+Le patient s'est présenté à la clinique de soins primaires il y a environ un mois avec des symptômes caractérisés par des paresthésies, des dysesthésies et des spasmes musculaires allant des genoux au niveau distal des membres inférieurs, en particulier dans les muscles des mollets.
+
+Approche individuelle (anamnèse, examen, tests complémentaires)
+Homme de 51 ans aux antécédents personnels de lombalgie chronique, d'insuffisance veineuse des membres inférieurs, fumeur de 1 paquet/jour, buveur de 1 à 2 verres de vin/jour, sans facteur de risque cardiovasculaire, syndrome anxio-dépressif et travailleur dans une imprimerie avec encres et solvants. Comme traitement habituel, il prend Sertraline 100mg/24h et Omeprazole 20mg/24h.
+Il a consulté pour des symptômes de paresthésie, dysesthésie et crampes musculaires dans les membres inférieurs, principalement dans les muscles des mollets, qui duraient depuis un mois. Lors des consultations successives de soins primaires, les symptômes ont progressé et se sont étendus au territoire du nerf médian de la main gauche malgré un traitement antalgique et adjuvant.
+
+Examen systématique
+Bon état général, eupnéique au repos, normo-hydraté et de couleur normale, conscient, orienté et coopératif.
+Auscultation cardio-respiratoire : tonalités rythmiques sans murmure, frottement ou extratons. Murmure vésiculaire conservateur sans bruit pathologique.
+Abdomen : mou et dépressible sans palpation de masses ou de mégalithes. Non douloureux à la palpation. Pas de défense péritonéale.
+Examen neurologique : pupilles isochoriques normoréactives, pas d'altération des nerfs crâniens, pas de perte de force ou de tonus, paresthésie et sensibilité accrue à la douleur dans les deux membres inférieurs. Pas de dysmétrie. Romberg négatif. Démarche normale.
+Des membres : Lassegue négatif et discret livedo reticularis avec atrophie cutanée dans les membres inférieurs, comme preuve d'insuffisance veineuse. Pulsations préservées. Suppression du ROT ici et exaltation du styloradialis gauche, le reste normal.
+
+Tests complémentaires
+Les soins primaires ont effectué des tests analytiques avec :
+Hémogramme normal.
+Biochimie avec légère altération de la GGT (88 U/L) et de la CPK (281 mcg/L). Les ions sont dans la gamme normale.
+Sérologie de la syphilis négative.
+B12 et acide folique dans la normale.
+Hormones thyroïdiennes normales.
+Une radiographie au niveau lombaire a également été réalisée, où aucune image pathologique n'a été observée.
+
+Compte tenu de la persistance des symptômes et de la faible réponse aux mesures hygiéno-diététiques, à l'analgésie et aux adjuvants, il a été décidé d'adresser le cas au spécialiste pour une analyse plus approfondie et des examens complémentaires.
+Dans l'analyse, nous avons trouvé :
+Hémogramme normal.
+Biochimie : Plomb 3.5 mcg/dL (N < 40mcg/dL), Cuivre 135mg/L (N 70 - 140), Créatinine et urée dans la gamme normale, ions normaux, légère augmentation de GOT, GLP et GGT, LDH 182 U/L (135 - 225U/L), ECA 50 U/L (8 - 52 U/L), Protéine 6. 8 g/dL (6,6 - 8,7 g/dL), albumine 4,6 g/dL (3,4 - 4,8 g/dL), CRP 0,2 mg/dL (0 - 0,5 mg/dL), antistreptolysine O 78 U/mL (0 - 200U/mL), RF 67,8 U/mL (0 - 14 U/mL), C4 et C3c normaux.
+Urine 24H : créatinine, calcium, phosphate et urate dans les limites de la normale. Porphyrines normales.
+Immunologie :
+Immunofixation : composant monoclonal dans le sérum normal.
+Auto-immunité : IgA, IgM, IgG, ANA, anti-MPO, anti-PR3, anti-membrane basaleglomérulaire négatifs. Charge virale ARN VHC 2450000 (Positif 1b).
+Sérologie : (Anti - HBc) core HB négatif, Ac contre HCV positif, Ac contre HIV 1/2 négatif.
+Protéinogramme : protéines totales, albumine, globulines dans les limites de la normale.
+Un ENG - EMG des membres a également été réalisé, montrant une polyneuropathie sensori-motrice axonale modérée avec une prédominance sensorielle dans les membres inférieurs, et une IRM du crâne et de la colonne lombaire n'a montré aucun résultat pathologique.
+Avec le diagnostic de la maladie hépatique du VHC, le traitement a été commencé avec l'interféron et la Ribavirine. Malgré le traitement correct et après son achèvement, le patient a continué à présenter les mêmes symptômes cliniques, voire une aggravation des symptômes. Compte tenu de la mauvaise évolution, d'autres diagnostics différents ont été envisagés et c'est alors que nous avons réalisé que notre patient portait des amalgames depuis de nombreuses années, nous avons donc étendu l'étude analytique à nouveau avec un autre métal lourd non pris en compte auparavant, le mercure. Le mercure total dans le sang était de 22 mcg/L (N < 10 mcg/L), et le mercure total dans l'urine était de 2 mcg/g de créatinine (N < 30mcg/L).
+
+Au vu de ces nouveaux résultats, un traitement a été mis en place avec D - penicillamine 250mg/6h et le retrait des prothèses dentaires en amalgame. Lors de contrôles analytiques successifs, le taux de mercure dans le sang a diminué et nous avons constaté une amélioration clinique significative.
+
+Approche familiale et communautaire
+Indépendant pour ABVD. Mariés, sans enfant et de niveau socio-économique moyen. Il a un emploi dans une imprimerie.
+
+Jugement clinique (liste de problèmes, diagnostic différentiel)
+Diagnostic : empoisonnement chronique au mercure et maladie hépatique due au VHC.
+
+Diagnostic différentiel : insuffisance veineuse, anémie, causes énoliques ou autres toxiques (professionnels, amalgames...), altérations ioniques, diagnostic différentiel de polyneuropathie (DM, porphyries...), sclérose en plaques ou autres altérations cérébrales, syphilis, radiculopathie ou neuropathie par coincement, altérations thyroïdiennes.
+
+Plan d'action et évolution
+Grâce au traitement par D - Penicillamine, le patient a montré une amélioration progressive, avec moins de crampes, une amélioration de la sensibilité du bout des doigts et des orteils, l'alternance entre l'hyperalgésie - l'hypoalgésie précédente s'est normalisée, seul un léger engourdissement persiste. Par la suite, lors des contrôles au cabinet médical, les symptômes ont augmenté par poussées, et les analyses de contrôle ont révélé une nouvelle augmentation du taux de mercure, raison pour laquelle le traitement à la D-Pénicillinamine a dû être repris à plusieurs reprises. En outre, après un traitement à l'interféron et à la ribavirine, la charge virale a été confirmée comme négative.

@@ -1,0 +1,24 @@
+Anamnese
+Um paciente de 56 anos de idade com antecedentes de infecção por VIH no tratamento com Dolutegravir/ Abacavir/Lamivudine (Triumeq®) nos últimos dois meses relatou uma erupção pruriginosa e comichosa de um mês de evolução que afectava a face e o pescoço.
+O paciente negou febre ou mal-estar geral e não apresentou prurido em qualquer outra área do corpo. Ele não relacionou precisamente o aparecimento da erupção cutânea com qualquer precipitante.
+
+Exame físico
+Ao exame, o paciente apresentou pápulas e pústulas foliculares, algumas delas erosivas, distribuídas pelo queixo, ramos manidibulares, áreas malares, pavilhões auriculares e pescoço, ligeiramente infiltradas ao toque, não dolorosas à palpação.
+Não havia lesões no tronco ou extremidades, não havia lesões de mucosas ou lesões na área genital, e não eram palpáveis linfadenopatias submandibulares ou periauriculares.
+
+Exames complementares
+Dadas as diferentes suspeitas diagnósticas, decidimos encomendar um teste de sangue, colhemos um exsudado de uma das pústulas para cultura, colhemos uma amostra de uma lesão para PCR do vírus do herpes simples e fizemos uma biopsia cutânea para estudo histológico de uma das lesões.
+Os testes sanguíneos mostraram uma melhoria na contagem de linfócitos CD4+, que tinha aumentado de 200/L para 475/L após o início do tratamento, sem outras alterações notáveis.
+A amostra de exsudado retirada de uma das pústulas mostrou crescimento de flora cutânea mista, mas isto não foi diagnosticamente relevante.
+A PCR para HSV 1 e 2 foi negativa.
+A biopsia de pele mostrou um infiltrado linfistiocítico com abundantes eosinófilos, de preferência perifoliculares na distribuição, mas também com um componente perivascular superficial acompanhado de eosinofilia intersticial. Foi observada na epiderme uma vesícula com material seroso e infiltrado inflamatório misto composto por polimorfonucleares e eosinófilos. O epitélio do infundíbulo folicular também estava salpicado de eosinófilos com um padrão de espongiose eosinófila.
+
+Diagnóstico
+Com estes resultados clinicopatológicos e analíticos, o diagnóstico da foliculite eosinofílica foi estabelecido, provavelmente no contexto da reconstituição imunitária em doentes com VIH após o início da terapia anti-retroviral.
+
+Tratamento
+Antes da obtenção dos resultados dos testes complementares e dada a suspeita clínica de uma infecção herpética com início de disseminação, foi iniciado o tratamento com Valacyclovir 1 g a cada 12 horas e foi marcada uma revisão em 9 dias. Uma vez obtidos os resultados dos testes complementares e estabelecido o diagnóstico, iniciou-se o tratamento com aceponato de metilprednisolona 1 mg/g em emulsão, com um check-up dentro de um mês.
+
+Evolução
+No primeiro check-up nove dias após a primeira consulta, o paciente estava estável, sem novas lesões e sem melhorias, pelo que foi decidido continuar o tratamento com Valacyclovir por mais uma semana enquanto se aguardavam os resultados da biópsia e da PCR, com uma consulta dentro de duas semanas. Duas semanas depois, com um diagnóstico definitivo, foi iniciado o tratamento com corticosteróides tópicos, com um novo check-up dentro de um mês. No último controlo, o doente mostrou uma melhoria notável com menos lesões e estas foram menos pruriginosas, coincidindo tanto com o início do tratamento com metilprednisolona aceponato tópico como com uma estabilização da contagem de linfócitos CD4.
+

@@ -1,0 +1,29 @@
+Anamnesis
+Varón de 61 anos, exfumador ata 6 meses antes do diagnóstico, durante máis de 45 anos (IPA 50), e sen outros antecedentes de interese, que acode ao seu médico de Atención Primaria por bultoma en rexión cervical esquerda, sen asociar disfagia ou odinofagia. Inicialmente, realízase xuízo diagnóstico de proceso infeccioso cervical en contexto de otalgia e implantes dentales recentes, pero ante a falta de mejoría con tratamento antibiótico, derívase a Endocrinología para iniciar estudo.
+A ecografía cervical mostra múltiples adenopatías cervicales esquerdas de ata 2,7 cm. Tiroides normal con 2 nódulos sólidos ben definidos.
+Lévase a cabo unha punción-aspiración con agulla fina (PAAF) guiada por ecografía para obtención de mostras, concluíndo o informe de Anatomía Patológica: metástasis de carcinoma de células escamosas.
+O paciente é valorado nese momento polo Servizo de Otorrinolaringología, realizándose unha fibroscopia onde se observa unha lesión en rexión amigdalar esquerda que se estende a paladar brando, submucosa de hemipaladar esquerdo e caudalmente chega a base da lingua, vallecula e epiglotis. Realízase biopsia de amígdala cunha Anatomía Patológica de infiltración submucosa por carcinoma epidermoide pobremente diferenciado, virus do papiloma humano (VPH) e p16 positivos.
+Complétase o estudo de extensión cunha TC cervicofacial onde se describe unha masa de aspecto tumoral na amígdala lingual esquerda, de aproximadamente 26 mm, suxestiva de carcinoma epidermoide. Adenopatías metastásicas en ambas cadeas yugulares internas, máis numerosas e de maior tamaño esquerdas nos niveis IIA, IIB, III, IV, VAI e VB, observando tamén varias delas con necrosis.
+Realízase TC toracoabdominopélvica como estudo de extensión sen datos de diseminación a distancia, confirmando así o diagnóstico do paciente: carcinoma epidermoide de orofaringe VPH+ p16+ estadio IVA (cT4N2M0) a data de xuño de 2013.
+Presentado no comité de tumores de cabeza e pescozo do noso hospital, decídese propoñer tratamento conservador con quimioterapia e radioterapia. O paciente realiza tratamento radioterápico con 50 Gy sobre leito tumoral e cadeas ganglionares de drenaje con marxe, con sobreimpresión de tumor primario e ganglios afectos ata doses de 70 Gy. Concurrentemente, o paciente recibiu tratamento quimioterápico con cisplatino semanal 40 mg/m2 cumprindo un total de 6 ciclos.
+En reevaluación posterior con fibroscopia presenta resposta completa. Na TC de avaliación de resposta, a lesión primaria diminuíu de tamaño e densidad. Ademais, se obxectiva unha disminución marcada, con case completa desaparición de adenopatías laterocervicales preexistentes, apreciándose únicamente ganglios milimétricos, con cambios postratamiento en cadeas IIa e IIb e III.
+O paciente pasa a seguimiento e, nunha TC de reevaluación en setembro de 2016, presenta recaída mediastínica con adenopatías prevasculares, anteriores ao tronco braquiocefálico dereito, paratraqueales dereitas altas, en fiestra aortopulmonar, en hilio dereito e subcarinales. Realízase mediastinoscopia con toma de biopsias, que confirman a presenza de metástasis de carcinoma epidermoide p16+.
+É remitido a Oncología Médica onde se inicia tratamento de primeira liña con carboplatino (AUC-5) e cetuximab (400 mg/m2 primeira semana, seguido de 250 mg/m2 semanal) cada 3 semanas, ata completar 5 ciclos que finalizan en marzo de 2017, presentando atrasos por toxicidade hematológica.
+Na TC de reevaluación de marzo de 2017 se evidencia progresión de enfermidade mediastínica polo que inicia 2a liña de tratamento con nivolumab, alcanzando resposta completa radiológica.
+
+Exploración física
+O paciente acode a revisión para iniciar ciclo 33 de nivolumab, objetivándose en consulta a presenza de extensas placas eritemato-descamativas en tronco, membros superiores e membros inferiores, presentando nas palmas placas máis floridas con exfoliación. Non presenta outras lesións cutáneas de interese. Polo demais, refire bo estado xeral e un ECOG 0.
+
+Probas complementarias
+Analítica sanguínea sen achados de interese.
+
+Diagnóstico
+Erupción psoriasiforme por anti-PD-1.
+
+Tratamento
+O paciente é remitido a consultas de Dermatoloxía, onde se inicia tratamento corticoide:
+» Prednisona 50 mg en pauta descendente.
+» Clobetasol en crema.
+
+Evolución
+Tendo en conta a aparición de toxicidade cutánea grado 3 e a resposta completa radiológica da enfermidade, decídese suspender nivolumab. O paciente continúa con revisiones periódicas e, a data de hoxe, 6 meses logo da retirada do fármaco, mantense en resposta completa.

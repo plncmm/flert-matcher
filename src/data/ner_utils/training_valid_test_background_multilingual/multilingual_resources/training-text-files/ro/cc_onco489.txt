@@ -1,0 +1,24 @@
+Anamneză
+Bărbat în vârstă de 70 de ani, fără antecedente de interes, care în noiembrie 2017 a fost trimis la secția de gastroenterologie pentru investigații din cauza unei anemii refractare la tratament și a unei dispepsii de 6 luni de evoluție.
+
+Examinarea fizică
+Examinarea nu a fost remarcabilă.
+
+Teste complementare
+"Hemogramă: Hb 10,5 g/dl, CEA 31,8 ng/ml, Ca 19,9: 1.319 U/ml.
+"Gastroscopie: la nivelul incisurii și cu o extensie de aproximativ 3 cm de-a lungul curburii minore, dar și pe fața posterioară, se identifică o leziune excavată cu margini ridicate și febră la frecare. Restul este normal. AP: adenocarcinom intestinal. HER-2 negativ.
+"CT-CT: conglomerat adenopatic la nivelul ligamentului gastrohepatic de aproximativ 25 x 40 mm. Restul este normal.
+"Ecoendoscopie: leziune în curbura mică care afectează 50% din circumferință cu pierderea definiției tuturor straturilor sale, infiltrând grăsimea adiacentă și extinzându-se de la 3 cm sub joncțiunea gastroesofagiană până la antrul proximal. Se observă cinci limfadenopatii infiltrative.
+
+Diagnostic
+Adenocarcinom gastric. Stadiul cT4cN2cM0.
+
+Tratament
+Având în vedere adenocarcinomul gastric local avansat, s-a decis un tratament neoadjuvant cu o schemă FLOT pentru 4 cicluri (studiu FLOT4-AIO), chirurgie radicală și tratament adjuvant ulterior cu alte 4 cicluri de FLOT.
+
+Evoluție
+În ianuarie 2018, a fost început tratamentul neoadjuvant cu FLOT (docetaxel 50 mg/m2, acid folinic 200 mg/m2, oxaliplatin 85 mg/m2 și 5-FU 2.600 mg/m2 zile 1 la fiecare 14 zile). Toleranță foarte bună la tratament. G1 greață și vărsături. După cel de-al 4-lea ciclu, răspunsul parțial a fost o scădere a conglomeratului adenopatic la nivelul ligamentului gastrohepatic, care în prezent măsoară 15 x 25 mm.
+Având în vedere răspunsul radiologic parțial, la 21/3/2018 s-a efectuat gastrectomia totală și limfadenectomia D2. Anatomia patologică a evidențiat un adenocarcinom slab diferențiat care a afectat țesutul perigastric, ajungând până la seroasa viscerală. Răspuns slab la tratament (CAP de gradul 3). Invazie limfovasculară și perineurală. Margini libere. 11 ganglioni afectați din 16. HER-2 negativ. Etapa ypT4apN3acM0.
+După operație, a primit doar 2 cicluri de FLOT adjuvant. A fost suspendat din cauza toleranței digestive slabe și a toxicității hematologice (ultimul ciclu la 20/6/2018).
+La revizuirea din februarie 2019, pacienta a venit la consult cu dureri lombare de 15 zile de evoluție, însoțite de slăbiciune și pierderea forței 3/5 la ambele membre inferioare, precum și incontinență urinară. Pacientul a fost internat pentru investigații suplimentare. A fost efectuată o scanare CT-CT care a arătat recidiva ganglionilor limfatici retroperitoneali și metastaze pulmonare. RMN-ul cerebral și al coloanei vertebrale a evidențiat o alterare morfologică pseudonodulară de tip cauda equina care, după administrarea de contrast intravenos, a fost intens potențată în regiunea leptomeningeală și morfologie nodulară cu diseminare metastatică. La nivelul creierului s-au observat multiple leziuni cerebeloase, vernix și corona radiata dreaptă. A fost efectuată o puncție lombară, iar citologia lichidului cefalorahidian a fost pozitivă pentru malignitate.
+Tratamentul a fost inițiat cu corticosteroizi în doze mari și s-a luat în considerare tratamentul paliativ cu RT, dar pacientul s-a agravat progresiv din punct de vedere neurologic și a decedat la 21/2/2019, la 3 săptămâni de la debutul simptomelor.

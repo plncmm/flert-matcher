@@ -1,0 +1,45 @@
+Antecedentes personales
+Varón de 42 años, sin alergias medicamentosas conocidas, sin antecedentes médico-quirúrgicos de interés. No fumador. Bebedor de 2-3 cervezas/semana. No toma de medicamentos.
+
+Historia clínica
+Paciente derivado de su Médico de Atención Primaria al Servicio de Urgencias, por cefalea frontal de inicio súbito hace menos de 24 horas, refractaria a tratamiento analgésico vía oral, acompañado de nauseas con vómitos biliosos.
+Refiere un dolor continuo, opresivo, focalizado en región frontal, no irradiado. El dolor no aumenta con maniobras de Valsalva.
+No se acompaña de cortejo vegetativo, sensación distérmica, ni signos autonómicos. No presenta fotofobia. No se relaciona con la actividad física. No ha tenido episodios de cefalea de similares características en el pasado. No presenta un cuadro psiquiátrico acompañante. No presenta antecedentes familiares de migrañas, ni de hemorragias subaracnoideas.
+Ha vomitado en 2 ocasiones, siendo un vómito alimenticio con contenido bilioso. No presenta vómitos en escopeta.
+
+Exploración física
+• Presenta unas constantes de: Sat. O2: 97%, T.A: 220/100 mmHg, F.C: 79 lpm, Ta: 36.5 oC.
+• A la exploración, el paciente está consciente, orientado en las tres esferas y colaborador; pupilas isocóricas y normorreactivas; eupneico en reposo; normocoloreado y normohidratado. Glasgow 15.
+• La exploración cardiopulmonar, neurológica y de extremidades inferiores resulta normal.
+• Exploración abdominal: Destaca únicamente un ligero dolor a la palpación profunda en hipocondrio derecho durante la exploración abdominal sin acompañarse de signos de irritación peritoneal; que el paciente lo asocia con el esfuerzo de los vómitos.
+
+Pruebas complementarias
+Se realiza una analítica de sangre en ayunas, destacando únicamente: 16800 leucocitos (85% Neutrofilia), Glucosa: 182 mg/dl, Lactato 2,3 mmol/L Urea, Creatinina e iones resultaron normales, así como el hemograma. La coagulación se encontraba dentro de los márgenes de la normalidad.
+
+Diagnóstico diferencial en urgencias
+Ante un paciente joven con primer episodio de cefalea de inicio súbito, continua, refractaria a analgesia, que no lo identifica con otros dolores en la antigüedad y junto con el episodio de crisis hipertensiva, aporta signos de alarma que orienta hacia una cefalea secundaria.
+El interrogatorio al paciente descartó la intoxicación por fármacos, drogas, alcohol, o exposición prolongada al sol. Así como un traumatismo craneoencefálico previo.
+La ausencia de fiebre y de signos meníngeos descarta inicialmente la presencia de foco infeccioso que pudiera estar en relación con una meningoencefalitis o infección del sistema nerviosos central. La ausencia de focalidad neurológica descarta una encefalopatía hipertensiva. La presencia de hipertensión arterial, descarta un síndrome de hipotensión intracraneal espontánea por hipotensión del LCR. Menos frecuente por la edad del paciente pero también a valorar por la crisis hipertensiva serían: disección aórtica, causa vasculo-renal, cardiopatía isquémica.
+La patología tumoral sobre la glándula suprarrenal también genera episodios de crisis hipertensiva con una posible cefalea refleja secundaria, sin embargo la escasa frecuencia de estos procesos no orientarían inicialmente a un primer diagnóstico de sospecha.
+La presencia de la cefalea descrita, junto con exploración neurológica normal e hipertensión arterial, hace pensar inicialmente en una hemorragia subaracnoidea o un proceso expansivo intracraneal. Por lo que el TAC cerebral es la prueba de imagen a realizar como diagnóstico.
+
+Evolución
+Se realizó un TAC craneal de Urgencia siendo el resultado de la prueba de imagen normal.
+Con los resultados de normalidad en el TAC craneal, mejoría parcial de la cefalea con analgésicos intravenosos, y manteniendo valores de Tensión Arterial en 147/107 mmHg a pesar de las medidas hipotensoras, se solicitó una ecografía abdominal para filiar el ligero dolor en hipocondrio derecho que había ido progresivamente en aumento.
+En las imágenes de la ecografía destaca una masa retroperitoneal derecha, con probable dependencia de la glándula suprarrenal derecha que desplaza riñón derecho.
+Se realizó entonces un TAC tóraco-abdomino-pélvico con contraste para completar el estudio con resultado de: Gran masa retroperitoneal derecha dependiente de glándula suprarrenal de dimensiones de 16x13x15 cm con zonas hipodensas necróticas y gran neovascularización; nódulos satélites tumorales; desplazamiento de riñón derecho y vena cava con probable infiltración de esta; numerosas adenopatías retroperitoneales.
+A nivel torácico se evidencia gran conglomerado mediastínico medio-anterior.
+Se decide finalmente ingreso en Servicio de Urología para completar el estudio y tratamiento.
+
+Diagnóstico final
+Durante el ingreso en Urología se llevó el caso a Comité de Tumores, y junto con el Servicio de Oncología y Colaboración al Servicio de Endocrinología se comenzó el diagnóstico diferencial entre carcinoma suprarrenal y feocromocitoma maligno.
+Se comenzó con el bloqueo alfa, se solicitaron catecolaminas en orina de 24 horas, se pidió una gammagrafía con MIBG y un PET-TAC. También se inició un estudio genético para descartar un feocromocitoma asociado a un MEN2 o VHL (aunque sin que el paciente tuviera familiares de primer o segundo grado conocidos que padecieran tumores en relación con estos síndromes.
+• El estudio hormonal destacaron unos niveles elevados de metanefrinas y normetanefrinas en orina de 24h.
+• La gammagrafía con MIBG informó de un probable feocromocitoma suprarrenal derecho con metástasis cervicomediastínicas e interaorto-cavas, metástasis a nivel hepático (segmentos IV y VIII) y metástasis óseas a nivel L2 y fémur derecho.
+• El PET-TAC con confirmó los mismos hallazgos de las otras pruebas de imagen.
+
+Estos valores elevados de catecolaminas en orina de 24 horas junto con las pruebas de imagen orientaron finalmente a un feocromocitoma.
+Tras alcanzar el bloqueo α, se continuó con β-bloqueantes; se aumentó fluidoterapia y se inició una dieta rica en Sodio para producir una expansión de volumen intravascular que permitiera un buen manejo intraoperatorio.
+
+Finalmente se realizó la cirugía de la masa retroperitoneal mediante cirugía abierta por las grandes dimensiones del tumor realizando una suprarrenalectomía derecha, extirpación en bloque del riñón derecho y linfadenectomía aorto-cava.
+El resultado anatomopatológico de la pieza fue de: "Feocromocitoma maligno metastatizante".

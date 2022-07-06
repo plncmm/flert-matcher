@@ -1,0 +1,24 @@
+Anamnesis
+A 55-year-old patient attended the emergency department on 22 July 2014 due to severe epigastric pain radiating to the hypogastrium, dizziness, nausea and sweating. The previous days he had consulted his primary care centre for epigastralgia of lesser intensity without vegetative cortex that had not subsided with antacids.
+
+"PERSONAL HISTORY: No known drug allergies. No diseases of interest. Sportswoman. No habitual treatment. Non-drinker. No smoker. No anabolic agents.
+"FAMILY HISTORY: Mother died at 72 years of age of brain tumour. 3 brothers, one died of cardiorespiratory arrest. Maternal cousin with breast cancer at the age of 40.
+
+Physical examination
+Hypotension (70/45 mmHg), diaphoresis and mucocutaneous pallor. Abdomen: diffusely painful on palpation with signs of peritoneal irritation.
+
+Complementary tests
+-Blood test: anaemia with Hb 8.7 g/dL (Hb 13.7 g/dL in the blood test performed 48 hours earlier).
+-Urgent abdominal CT scan: In the left hepatic lobe, lobulated mass of 8x10x15 cm protruding outside the hepatic contour, heterogeneous with peripheral enhancement. It compresses adjacent structures and loses separation with the gastric antrum. Large haematoma in adjacent mesentery with extension to the diaphragm. Free intra-abdominal fluid. Probable peritoneal carcinomatosis. Conclusion: Ruptured liver tumour (probable hepatocarcinoma) with haemoperitoneum.
+
+Diagnosis
+Haemoperitoneum secondary to ruptured liver tumour.
+
+Treatment
+The patient underwent emergency surgery by means of an extended right subcostal laparotomy. 2500 ml of haemoperitoneum were removed, and a 15 cm hepatic tumour was found in segment II-III. Hepatic resection of these segments, cholecystectomy, epiploic resection and biopsy of the lesion in segment IV were performed. Alphafetoprotein (AFP) in the immediate postoperative period was 7043 ng/ml.
+"Pathology: Segments II-III: moderately differentiated hepatocellular carcinoma (HCC) 10x7x5.5 cm, trabecular pattern and venous invasion. Non-tumourous liver: non-cirrhotic liver. Omentum: 7.5x5 cm tumour suggestive of hepatocarcinoma implant. Rest normal.
+
+Evolution
+She consulted the medical oncology department in September 2014 with AFP 627 ng/ml, Child-Pugh of 7 points and advanced stage according to the BCLC Staging System. Given resected HCC but presence of peritoneal implants in the surgery, it was decided to treat with Sorafenib at 800 mg/day and serologies were requested for hepatotropic viruses, resulting positive for past HBV infection (Anti-HBs +, Anti-HBc +). After one month of treatment AFP 29.86 ng/ml, with G3 dermal toxicity requiring dose reduction. Subsequently, AFP increased despite an adequate dose increase, and several liver MRI scans were requested, which showed only simple cysts and post-surgical changes.
+In March 2015 AFP 297 ng/ml and a thoracic-abdomino-pelvic CT scan was requested with the presence of a basal right pulmonary nodule of 8 mm, non-specific and with no other findings. Given good tolerance, we increased the dose to 800 mg/day with a good biochemical response, achieving AFP 80 ng/ml in November 2015. At the beginning of 2016, progressive elevation of AFP with an increase in the size of the right basal lung nodule measuring 1 cm. Pending atypical pulmonary segmentectomy for histological study at present.
+

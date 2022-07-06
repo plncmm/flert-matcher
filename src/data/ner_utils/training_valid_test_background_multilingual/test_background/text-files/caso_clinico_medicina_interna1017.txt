@@ -1,0 +1,8 @@
+Anamnesis
+Mujer de 28 años, fumadora, con antecedentes de enfermedad tromboembólica venosa a los 27, tipo trombosis venosa profunda (TVP) en miembro inferior con tromboembolismo pulmonar (TEP) secundario, por el que toma rivaroxabán con buena adherencia, que acude al servicio de urgencias por cefalea de dos meses de evolución con perfil de organicidad. En la exploración presenta edema de papila bilateral con hallazgos en resonancia cerebral de trombosis de seno venoso longitudinal.
+
+Evolución
+Ingresa en Neurología. En estudio analítico solicitado destacamos: Linfopenia, anticuerpos antinucleares (ANA) positivos y de anticuerpos antiDNA doble cadena y antiantígeno nuclear extraíble (antiENA) tipo antiRo. Hipocomplementemia: C3 y C4 de 83 mg/dl y 7.6 mg/dl respectivamente. Triple positividad de anticuerpos antifosfolipídicos (AAF): Anticoagulante lúpico (AL), anticardiolipina (AC) con IgM e IgG de 145 y 150 mpl/ml respectivamente y anti-B2 glicoproteína I. Ante estos resultados se interconsulta a Medicina Interna. En anamnesis más exhaustiva, la paciente describe artritis episódica en manos, aftas orales recurrentes y Raynaud trifásico en meses fríos.
+
+Diagnóstico
+Lupus eritematoso sistémico (LES) según criterios SLICC (Citopenia, úlceras, artritis, ANA, antiDNA, AAF positivos e hipocomplementemia) con síndrome antifosfolipídico (SAF) asociado, con trombosis de repetición pese a correcta anticoagulación con nuevos anticoagulantes orales (NACOS).

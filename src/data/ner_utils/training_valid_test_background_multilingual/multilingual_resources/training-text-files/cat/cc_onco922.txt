@@ -1,0 +1,33 @@
+Anamnesis
+Antecedents familiars: oncle matern mort per càncer de pròstata amb més de 70 anys i un altre per neoplàsia faríngia. Oncle patern mort per càncer de pulmó.
+Antecedents personals: sense al·lèrgies medicamentoses conegudes. Exfumador des de fa 20 anys (20 paquets-any). Diabetis mellitus tipus II des de 2004, insulinodependiente des de fa 3 anys.
+Hipercolesterolèmia. Treballador d'un celler. Nega consum de tòxics. Tractament habitual: simvastatina 20 mg, omeprazol 20 mg, naproxén si té dolor, cinitaprida 10 mg abans dels menjars.
+La seva història oncològica comença el 03/12/16, quan el pacient va acudir a Urgències per febre de fins a 38,5oC, pèrdua de ponderal quantificada en 7 kg en l'últim mes, disfàgia a sòlids i a líquids, amb sensació de plenitud gàstrica precoç, astènia intensa i dolor abdominal hipogàstric.
+Es va realitzar ecografia i TC abdominal urgent amb contrast objectivant tumoració centro-abdominal de 17,2 x 7,7 x 7,5 cm, amb important component hidroaéreo, engruiximent mural marcat i irregular, contactant amb anses d'intestí prim, probablement en relació a GIST complicat. Es va decidir realització de laparotomia exploradora urgent per sospita de perforació intestinal, que objectiva claveguera centro abdominal, realitzant-se resecció de tumoral amb diverses anses intestinals, i anastomosis laterolateral mecànica. Cirurgia subòptima per vores afectes.
+L'informe anatomopatològic va objectivar troballes compatibles amb fibromatosis mesentèrica de tipus desmoide, amb estudi immunohistoquímic positiu per a actina de múscul llis i beta-catenina; i negatiu per a desmina, CD34, S100, CD117(C-KIT) i DOG1.
+Valorat per primera vegada en consultes d'Oncologia Mèdica el 16/01/2017, es va decidir seguiment estret amb control radiològic en 4 mesos, així com colonoscòpia per l'associació coneguda dels tumors desmoides i la poliposis adenomatosa familiar (PAF).
+Un mes després de la intervenció, va acudir a Urgències per dolor en fossa renal dreta amb irradiació, realitzant-se TC abdominal que va mostrar ureterohidronefrosis dreta moderada i múltiples implants peritoneals, compatibles amb recidiva tumoral. Es va desestimar nova intervenció per part d'Urologia i Cirurgia, per la qual cosa va ingressar en Oncologia per a completar estudi i es va procedir a la col·locació de nefrostomía percutània dreta sense complicacions.
+Prèvia a l'alta, es va realitzar colonoscòpia descartant-se PAF. Davant la discordança clínic-patològica (necrosi tumoral, implants peritoneals, evolució clínica, etc.) es va sol·licitar una nova revisió histològica en centre de referència de tumors de parts toves, emetent-se un diagnòstic de limfoma B difús de cèl·lules grans, inmunofenotipo germinal amb inmunoexpresión positiva per a BCL-6 i negatius per a MUM-1, CD5, CD10, cMYC i EBER amb un índex proliferatiu (Ki67) del 80%. Per consegüent, el pacient va continuar la seva evolució a càrrec del Servei d'Hematologia.
+Després d'aparició de febre al costat d'atàxia, alteracions del sensori i síndrome emètica, es va realitzar RMN cerebral que va descartar afectació a aquest nivell. Es va decidir realització de punció lumbar, detectant-se antigen Cryptococcus (+); iniciant-se anfotericina liposomal i fludrocortisona (data d'inici del tractament: 17/03/17). A les 48 hores, es va informar de serologia per a VIH (+) amb viremia de 684.000c/ml i recompte de LCD4 en 38/ul.
+El pacient va presentar evolució favorable, sent el cultiu de control (-) i després de completar cicle, es va realitzar desescalada a fluconazol oral. Després de quatre setmanes de tractament antifúngic, es va iniciar tractament antiretroviral amb raltegravir + FTC + TDF amb bona tolerància.
+Es va completar estudi amb PET que va informar d'extensa afectació a nivell abdominal i pulmonar, biòpsia òssia (sense infiltració) i ecocardiograma amb fracció d'ejecció conservada. En situació estable, es va iniciar cicle R-CHOP amb bona tolerància i resposta.
+
+Exploració física
+ECOG 2. Boca seca sense aftas. Marcada caquèxia. A nivell abdominal, va destacar empastamiento en hemiabdomen dret, així com dubtós en flanc esquerre amb dolor a la palpació de epigastrio i hipocondrio dret. La resta, anodí.
+
+Proves complementàries
+» TC amb contrast I.V. d'abdomen (13/02/2017): progressió de la malaltia amb múltiples masses intraperitoneals compatibles amb implants metastásicos. Un d'ells obstrueix a l'urèter dret i un altre infiltra a una ansa de delegat en la fossa ilíaca esquerra.
+» LCR (17/03/17): 30 leucòcits (10% PMN, 30% MN), 0 hematies, 97 glucosa, 125 proteïnes, 22,3 ADA. Abundants limfòcits. IF: només 4% limfòcits B monoclonals, resto limfòcits T. Es detecta antigen Cryptococcus.
+» Serologies (20/03/17): VIH (+), VHB i VHC (-), CMV IgG(+), VEB(-), VHS IgG(+),Sífilis (-), toxoplasma IgG(+). B2- microglobulina (21/04/17): 4,52, LDH: 473.
+» PET (24/04/17): informa d'extensa afectació supra i infradiafragmática amb predomini de grans masses a nivell abdominal, així com pulmonar i sense troballes en la resta.
+
+Diagnòstic
+» Limfoma difús de cèl·lules grans B (LCGB) tipus centrogerminal.
+» Infecció per VIH categoria C3 (sida).
+» Meningitis criptocócica.
+
+Tractament
+Després de presentar el cas en sessió multidisciplinària, es va decidir inici de tractament amb anfotericina liposomal i fludrocortisona, passant a fluconazol via oral. Passades 4 setmanes, es va instaurar tractament antiretroviral amb raltegravir + FTC + TDF i, finalment, es va iniciar quimioteràpia sistèmica segons esquema R-CHOP.
+
+Evolució
+Pacient amb els antecedents descrits prèviament, estable en el moment actual, en seguiment per la Unitat d'Hematologia en Consultes Externes. Bona resposta i tolerància després de tercer cicle de R-CHOP.

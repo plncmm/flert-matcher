@@ -1,0 +1,30 @@
+Anamnesis
+Paciente varón de 30 años de edad con los antecedentes familiares de una hermana en tratamiento por reflujo vesicoureteral bilateral. Cirugías previas: apendicectomía y labio leporino. El paciente refería infecciones urinarias de repetición (5-6 episodios/año), para lo cual había estado en seguimiento y tratándose en su área de Atención Primaria de salud. Se había realizado múltiples urocultivos, aislándose en la mayoría de ellos Escherichia coli multisensible al inicio y multirresistente en los últimos meses, con poca mejoría tras el tratamiento con antibióticos. Dados los antecedentes descritos, se remitió a la consulta de Urología, donde el paciente refiere disuria, polaquiuria, tenesmo vesical desde hace 5 años; asimismo, informa de que en los últimos meses ha notado disminución del calibre del chorro miccional, asociándose goteo postmiccional. Refiere además que hace una semana, al sentarse, presentó salida de una secreción mucosa y amarillenta por la uretra. No ha tenido fiebre ni hematuria.
+
+Exploración física
+Cara: cicatriz de cirugía de labio leporino. Auscultación respiratoria: murmullo vesicular conservado sin estertores. Cardiovascular: ruidos cardíacos rítmicos, sin soplos. Resto sin interés. Abdomen: cicatriz de apendicectomía; blando, depresible, sin masas ni megalias. Genitales: testes de consistencia normal, sin signos inflamatorios. Periné normal. Tacto rectal: próstata grado I adenomatosa con bordes definidos, sin signos inflamatorios.
+Pruebas complementarias
+● Hemograma: hemoglobina 15,5 g/dl. Leucocitos y fórmula normales.
+● Creatinina: 0,9 mg/dl.
+● Sedimento de orina: leucocitos 50/campo, hematíes 15/C. Bacterias abundantes.
+● Urocultivo: Escherichia coli portador de BLEA.
+● Ecografía: riñones de características normales, no se observa dilatación de la vía urinaria. Vejiga de pared engrosada con residuo postmiccional de 100 ml.
+
+Diagnóstico de sospecha
+Infección urinaria complicada por Escherichia coli portador de BLEA secundario posiblemente a obstrucción del tracto urinario inferior.
+
+Tratamiento y evolución
+Se instaura tratamiento con fosfomicina a dosis de 500 mg por vía oral cada 8 horas durante 2 semanas y se solicitan nuevos estudios (flujometría y uretrocistografía). Tras el tratamiento antibiótico, el paciente mejora parcialmente de sus síntomas, persistiendo el goteo postmiccional y la disminución del calibre del chorro.
+● Uretrocistografía: se observa una imagen sacular que capta contraste a nivel de la uretra bulbar.
+● Flujometría: flujo 10 ml/s.
+Ante la sospecha clínica-radiológica de quiste de glándula de Cowper (siringocele) se solicita realizas el estudio con una resonancia magnética y una uretrocistoscopia en vistas a un posible tratamiento quirúrgico.
+● Resonancia magnética: imagen quística de glándulas de Cowper.
+● Uretrocistoscopia: pequeño orificio con hiperemia en su periferia a nivel de la uretra bulbar.
+
+Diagnóstico definitivo
+Siringocele simple de tipo obstructivo.
+
+Tratamiento y evolución
+Se realizó marsupialización endoscópica del quiste. El paciente mejoró completamente de los síntomas.
+● Flujometría control: 18 ml/s.
+● Uretrocistografía postmiccional. Se observa la disminución de retención de contraste a nivel del quiste con respecto a la prequirúrgica.

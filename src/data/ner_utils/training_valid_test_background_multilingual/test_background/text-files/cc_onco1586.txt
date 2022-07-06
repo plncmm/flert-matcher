@@ -1,0 +1,35 @@
+Anamnesis
+Varón de 44 años de edad, sin alergias medicamentosas ni hábitos tóxicos, con antecedentes de dislipemia. hipertensión arterial, apendicectomizado e intervención de fisura anal. Tratamiento habitual con captopril 50 mg 1-0-0 y bromacepam 1,5 mg 0-0-1.
+Acude a Urgencias el día 26 de junio de 201 por dolor abdominal irradiado a espalda. En la anamnesis dirigida, destaca que desde hace 3-4 meses presenta mayor sensación de pesadez pospandrial de la habitual, junto saciedad precoz y dolor epigástrico pospandrial que no se ve modificado con la postura o los movimientos, sin embargo dicho dolor se va haciendo cada vez más frecuente, siendo diario y se ha ido desplazado hacia región suprapúbica en las últimas semanas haciéndose de carácter intermitente y viéndose aumentado con las maniobras de valsalva y con la micción. Sensación distérmica de predominio vespertino no termometrada, sin sudoración profusa.
+No refiere prurito. Sensación de palpitaciones diarias, así como de presentar frialdad distal de miembros inferiores. Sin flushing. Hiporexia con asco por las comidas, con astenia progresiva y descenso ponderal de 5 kg.
+
+Exploración física
+Buen estado general, bien hidratado y perfundido.
+Eupnéico en reposo, sin trabajo respiratorio. Tolera decúbito sin Ingurgitación venosa yugular ni reflujo hepatoyugular.
+Consciente y orientado. Glasgow 15/15, no se observa focalidad neurológica. Otorrinolaringología: no hipertrofia amigdalar ni abombamiento de pilares.
+No se palpa bocio. Sin adenopatías cervicales ni supraclaviculares, axilares o inguinales. Auscultación cardiopulmonar: tonos cardíacos rítmicos sin soplos.
+Murmullo vesicular conservado sin ruidos sobreañadidos.
+Abdomen: masa de 10 x 6 cm aproximadamente en periumbilical y vacío derecho dolorosa a la palpación, adherida, no pulsátil. Sin visceromegalias.
+Ausencia de peritonismo. Ruidos intestinales levemente disminuidos. Puño-percusión renal bilateral negativas.
+Miembros inferiores con frialdad distal bilateral con pulsos pedios conservados y simétricos. No presenta edemas ni signos de trombosis venosa profunda.
+
+Pruebas complementarias
+• Analítica: normal, salvo LDH 1170 U/L. Marcadores tumorales: b-GCh 25,0 mUI/mL y NSE: 71,2 ng/mL [0,0-16,3].
+• TC abdominal con contraste iv: parénquima hepático homogéneo, sin evidencia de lesiones focales.
+Páncreas y bazo normales. Dilatación de pelvis renal y uréter derecho que queda englobado por una gran masa retroperitoneal infrarrenal que se dirige caudalmente hasta la pelvis, sobrepasando la bifurcación aórtica. Esta masa presenta un tamaño aproximado de 10 x 9 x 10 cm de aspecto nodular con bordes lobulados. Comprime y obstruye la vena cava inferior con presencia de trombo en vena ilíaca derecha que se continúa hasta vena femoral. Aorta englobada en su totalidad con disminución del calibre sin evidencia de lesiones importantes. Esta masa contacta íntimamente con el músculo psoas derecho sin evidencia de plano de separación. Pequeñas adenopatías retroperitoneales acompañantes. Anulación funcional del riñón derecho. Resto sin hallazgos de interés.
+Conclusión: masa retroperitoneal compatible con linfoma/linfosarcoma. Uropatía obstructiva derecha. Trombosis de vena cava y venas ilíacas y femorales derechas.
+• PET-TAC: gran masa hipermetabólica de diámetros máximos de 114 x 98 x 108 mm y alta tasa de captación de FDG con SUV máx. 9,66, de localización retroperitoneal, que atrapa aorta, vena cava, ilíaca derecha y uréter derecho. Los límites periféricos de encuentra bien delimitados, con cierto aspecto polilobulado que recuerda a un conglomerado linfomatoso.
+En el resto del estudio no se aprecian otras lesiones hipermetabólicas que sugieran la presencia de actividad tumoral macroscópica. Conclusión: gran masa neoplásica retroperitoneal que invade la cava y atrapa la aorta y el uréter derecho.
+• Se realizó una biopsia percutánea de la masa con resultado anatomopatológico: tumor mesenquimal maligno. vimentina (+), desmina (+/–), actina (+/–), cromogranina (–), sinaptofisina (–), CK (–), S-100 (–), CD99 (+/–), Ki-67 (+ 50%). Y por no ser un diagnóstico concluyente. se toma muestra por laparotomía cuyo resultado es: proliferación neoplásica con necrosis constituida por celulas pequeñas intermedias.
+Inmunohistoquimica Vimentina (+/–), CD 99 (+/–), b-GCh, AFP y CD30 negativos. OCT-3/4 positivo nuclear. En conjunto se trata de una neoplasia germinal, muy probablemente un seminoma.
+
+Diagnóstico
+Se cataloga como tumor germinal seminomatoso TxN3M0S2, estadio IIIB, con criterios de irresecabilidad.
+
+Tratamiento y evolución
+De forma aguda presenta disnea y hemoptisis leve, por lo que se realiza una angio-TC de tórax que informa de tromboembolismo pulmonar subsegmentario en lóbulo inferior derecho. Se instaura tratamiento con heparina de bajo peso molecular, con mejoría de la clínica.
+Ante la sospecha de tumor maligno indiferenciado y antes de contar con la anatomía patológica definitiva, dado que el paciente presentaba deterioro clínico recibe un primer ciclo de quimioterapia con esquema CAV (ciclofosfamida, doxorrubicina, vincristina) con beneficio clínico y disminución de la masa a la exploración física. Una vez que se tiene el diagnóstico definitivo de tumor germinal se realiza una ecografía testicular que resulta normal y se inicia tratamiento con esquema BEP por cuatro ciclos con toxicidad hematológica grado 3 (neutropenia afebril y trombopenia), neurotoxicidad grado 2 y ototoxicidad grado 2.
+En controles seriados de marcadores se produce una negativización de b-GCh y normalización de LDH.
+Tras cuatro ciclos se realiza TC de reevaluación: disminución de tamaño significativo de masa retroperitoneal.
+Ante estos hallazgos se decide cirugía de masa residual, siendo el resultado anatomopatológico definitivo de masa retroperitoneal y tejido yuxtacavo: ambas muestras presentan extensas áreas de componente inflamatorio de tipo histiocitario reparativo, necrosis y fibrosis, sin evidencia de proliferación tumoral germinal remanente, en el estudio completo del material remitido.
+En la actualidad el paciente se encuentra asintomático y realizando vida normal.

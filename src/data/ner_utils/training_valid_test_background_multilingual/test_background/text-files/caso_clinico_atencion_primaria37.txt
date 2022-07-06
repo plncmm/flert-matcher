@@ -1,0 +1,34 @@
+Motivo de consulta
+Disnea.
+
+Enfoque individual (anamnesis, exploración, pruebas complementarias)
+Mujer de 75 años con antecedentes de Insuficiencia cardíaca, Hipertensión arterial y Diabetes Mellitus Tipo 2. En tratamiento con Enalapril 20mg 1c/24h, Bisoprolol 5mg 1c/24h, Espironolactona 100mg 1c/24h y Metformina 1gr 1c/24h que hasta el momento ha presentado un buen control de su patología de base, aunque con exacerbaciones de su insuficiencia cardíaca. Acude a nuestra consulta de Atención primaria por la aparición de disnea de esfuerzo (NIHYA II/IV) de 1 día de evolución con sensación de opresión torácica.
+
+Anamnesis: la paciente nos comenta que se trata de un dolor y una disnea que aparecen con el movimiento, no en reposo. El dolor le recuerda al que ha tenido en otras ocasiones cuando ha tenido derrame pleural debido a su patología. No ha notado palpitaciones y el dolor no se irradia. Nos comenta que su peso habitual son 52 kg (dato que objetivamos en las constantes registradas en la última consulta que había tenido lugar 4 días antes, en aquel momento la paciente se encontraba asintomática, el motivo de la misma fue la renovación de recetas).
+
+Exploración física: auscultación cardio-pulmonar: Corazón rítmico sin soplos a buena frecuencia. MV ligeramente disminuido con crepitantes húmedos en ambas bases. Percusión mate.
+Abdomen blando y depresible, no masas ni megalias, no doloroso a la palpación y sin signos de irritación peritoneal.
+Edemas con fóvea en MMII hasta los tobillos.
+Pulsos presentes y simétricos en las 4 extremidades. Tensión Arterial: 128/73
+SatO2: 97%
+Frecuencia Cardíaca: 50lpm
+Eupneica en reposo, ligeramente taquipneica al movimiento. Peso actual: 53.9kg
+
+Pruebas complementarias: se solicita Rx Urgente Posteroanterior y Lateral de tórax y se indica a la paciente que venga a recoger el resultado al final de la mañana (es una posibilidad existente en nuestro centro de salud). En la que se aprecia un ligero derrame pleural bilateral y presencia de cardiomegalia (ya descrita en estudios previos y consonante con la patología de base de la paciente).
+
+Se solicita Electrocardiograma: Ritmo sinusal a 52lpm. Eje desviado a la izquierda (descrito en estudios previos). PR normal y constante. QRS estrecho. No alteraciones de la repolarización. No presencia de bloqueos auriculo-ventriculares ni de rama.
+Se solicita analítica reglada, no fue necesaria en aquel momento para el diagnóstico pero sí para una revisión de la paciente.
+
+Enfoque familiar y comunitario
+Se pide a la paciente que contacte con su hija que vive con ella para que acuda a consulta y, entre todos, encontrar un plan de acción que sea adecuado científicamente y que puedan llevar a cabo la paciente y su familia teniendo en cuenta su contexto familiar (se consensua el tratamiento).
+
+Juicio clínico (listado de problemas, diagnóstico diferencial)
+Juicio clínico: derrame pleural por descompensación leve de la insuficiencia cardíaca de la paciente.
+
+Diagnóstico diferencial: Neumonía, derrame pleural paraneumónico.
+
+Plan de acción y evolución
+Se decide iniciar tratamiento con diuréticos (Furosemida 40mg 1 comprimido al desayuno y 1 al almuerzo) para favorecer la pérdida del líquido acumulado y llevar un seguimiento estrecho de la paciente, pesándola todos los días hasta que alcanzase su peso original. Además, se decide bajar la dosis de Bisoprolol a 2,5mg (con idea de volver a la dosis habitual una vez pasado el momento agudo). También se recomienda a la paciente reducir la ingesta de sal entre un 10 y un 20%.
+Comunicamos a la paciente que debe contactar con el servicio de Cardiología para adelantar su cita de revisión y que si sufre un aumento brusco de su disnea u otra sintomatología de alarma debe acudir al servicio de urgencias de su hospital de referencia. No se decide enviar en aquel momento a urgencias por ser una situación que la paciente ha presentado en otras ocasiones y por la ausencia de datos de alarma en aquel momento decidimos que podía ser manejado desde Atención Primaria ya que íbamos a realizar un seguimiento continuado de la paciente (acudiría para revisión a nuestra consulta diariamente).
+
+Evolución: la paciente presentó una evolución favorable, perdiendo 0.5kg el primer día, 0.3kg el segundo, 0.5kg el tercer día, 0.6kg el cuarto, alcanzando su peso original al quinto día. Durante las visitas de seguimiento se auscultó a la paciente con el fin de descartar la aparición de soplos y de otros ruidos patológicos en la auscultación pulmonar, además se reevaluaron las constantes de la paciente que permanecieron estables en todo momento. Desde el primer día comenzó a notar una marcada mejoría de su patología disminuyendo la disnea y la sensación de opresión en el pecho.

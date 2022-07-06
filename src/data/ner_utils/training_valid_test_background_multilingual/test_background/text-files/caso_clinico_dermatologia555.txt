@@ -1,0 +1,22 @@
+Anamnesis
+Varón de 44 años con los antecedentes relevantes de infección VIH de quince años de evolución, hepatitis C y hepatitis B que consulta por presentar lesión en pabellón auricular izquierdo de meses de evolución que relaciona con picadura de araña. Refiere en los últimos días aumento de tamaño, aparición de dolor y sensación pulsátil, así como malestar general y fiebre de hasta 38oC.
+Niega aparición de lesiones similares en otras zonas expuestas, viajes recientes, contactos con animales, introducción de nuevos fármacos u otros datos epidemiológicos de interés. Se encuentra en tratamiento con terapia antirretroviral (emcitrabina, tenofovir, lopinavir/ritonavir) con seguimiento errático.
+
+Exploración física
+En pabellón auricular derecho se objetiva placa violácea que engloba tres nódulos en su superficie, infiltrada al tacto, no ulcerada, no caliente y de bordes bien definidos. Además, se observa una pápula violácea en región malar izquierda con patrón de arcoíris en la dermatoscopia. En cavidad oral aparecen lesiones maculopapulares violáceas localizadas a nivel de paladar duro sin lesiones en lengua o mucosa yugal. No se objetiva rash ni otras lesiones a otros niveles. No presenta adenopatías en cadenas ganglionares accesibles.
+En el momento de la exploración se encuentra con aceptable estado general, afebril y hemodinámicamente estable.
+
+Exploraciones complementarias
+En la analítica se objetiva bicitopenia (plaquetas 117000, leucocitos 3800) y alteración del perfil hepático (ALT 57, GGT 184). Para conocer su estado en relación con el VIH se realiza estudio inmunológico que demuestra intensa afectación de la enfermedad (linfocitos T CD4+ 34). Los análisis microbiológicos ponen en evidencia una carga viral de VIH elevada (496.200 copias/ml) con PCR para CMV positiva; no existe evidencia de infección por micobacterias.
+La radiografía de tórax muestra opacidades micronodulares y peribroncovasculares bilaterales, sobre todo en campos medios e inferiores.
+En biopsia con punch de 4 mm de la lesión retroauricular histológicamente no se objetivan alteraciones en epidermis hallándose en dermis proliferación de células fusocelulares (con escasa atipia y baja tasa mitótica) que crecen formando haces con frecuentes hendiduras y luces vasculares mal definidas. Se realiza tinción específica para virus herpes tipo 8 que muestra positividad en algunos núcleos.
+Tras estos primeros datos que confirman la existencia de un sarcoma de Kaposi se realizan pruebas complementarias para valorar la extensión del mismo. Se realiza panendoscopia oral y broncoscopia donde se objetiva afectación esofágica y pulmonar respectivamente (estudio histopatológico correspondiente).
+
+Diagnóstico
+Sarcoma de Kaposi con afectación cutánea, digestiva y pulmonar.
+
+Tratamiento
+Con el diagnóstico de Sarcoma de Kaposi y en base al deterioro inmunológico se instaura tratamiento antirretroviral con dolutegravir, tenofovir y emcitrabina y se inicia profilaxis con sulfametoxazol/trimetoprima y valganciclovir.
+
+Evolución
+Tras un inicial buen control a los cuatros meses el paciente inicia malestar general, pérdida de peso y aumento del tamaño de las lesiones cutáneas. Por todo ello, se procede a su ingreso donde se objetiva progresión radiológica de la enfermedad. Esto hace que, tras descartar infección oportunista concomitante, se decida el inicio de quimioterapia con doxorrubicina liposomal.

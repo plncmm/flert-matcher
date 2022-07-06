@@ -1,0 +1,35 @@
+Anamnese
+Mulher de 68 anos, ex-fumadora há mais de 30 anos. Em 2007 foi submetida a cirurgia conservadora para carcinoma ductal infiltrante do estádio direito da mama IA (pT1cN0), triplamente negativo. Recebeu quimioterapia adjuvante (6 ciclos de CMF) e radioterapia.
+Em Setembro de 2018, foi encaminhada para Medicina Interna após a auto-palpação de um nódulo na região supraclavicular direita. A ecografia e mamografia das mamas mostrou linfadenopatia axilar direita e os testes sanguíneos mostraram CA elevada 15.3. Após uma biopsia axilar ter confirmado carcinoma, foi realizada uma tomografia computorizada, que apenas mostrou linfadenopatia axilar direita e cintilografia óssea (GGO), que apenas descreveu hipercaptação na articulação sacroilíaca esquerda, o que não foi claramente patológico.
+Em Janeiro de 2019, foi realizada uma linfadenectomia axilar direita, resultando em metástase de carcinoma de alto grau com sobrecrescimento capsular em seis nódulos (6/9). A imuno-histoquímica mostrou uma positividade intensa para o receptor de estrogénio e progesterona (80% e 50% respectivamente), índice de proliferação Ki 67 de 50-55% e HER-2 negativo.
+Antes de ser avaliada na clínica oncológica, foi internada em Fevereiro de 2019 por dores de cabeça holocranianas, ptose palpebral e diplopia, bem como polidipsia, noctúria e poliúria com uma semana de duração.
+
+Exame físico
+Bom estado geral. No exame neurológico, foram observadas ptose palpebral, midríase, desvio ocular externo e abolição do reflexo fotomotor no olho esquerdo; o resto, não foram observadas quaisquer descobertas.
+
+Testes complementares
+A RM do cérebro mostrou uma massa pituitária de 10 x 13 x 12 mm, que expandiu e ocupou ligeiramente a sella turcica com crescimento craniano e espessamento do talo pituitário, sem afectar o quiasma óptico, com realce homogéneo moderado após contraste.
+Estudo hormonal: hiperprolactinemia, hipotiroidismo, hipercortisolismo e deficiência de hormonas antidiuréticas.
+Foi solicitada uma nova TAC, que revelou uma lesão esclerótica na borda ilíaca da articulação sacroilíaca esquerda, seguida de uma RM pélvica para estudar a lesão, que foi definida como uma suspeita de metástase esclerótica.
+Dada a discrepância entre o fenótipo do carcinoma operado em 2007 e o fenótipo das linfadenopatias axilares, foi solicitada uma RM mamária em busca de um tumor metacrónico, excluindo-se uma segunda neoplasia.
+
+Diagnóstico
+Por um lado, o diagnóstico de um tumor mamário oculto luminal (TxN2M1) ou recidiva de triplo negativo com um fenótipo diferente do apresentado em 2007 com dúvidas de uma única metástase óssea.
+Por outro lado, apresentou hipopituitarismo secundário a uma lesão de selar, o que eleva o diagnóstico diferencial de metástase do carcinoma mamário, infundibulohypophysitis ou macroadenoma pituitário causando diabetes insípido, hiperprolactinemia leve e paralisia do terceiro nervo craniano.
+Com vista a um possível tratamento local da lesão cerebral e estudo confirmatório da lesão óssea (uma vez que seria um único foco metastásico), foi decidido solicitar uma PET scan. Isto detectou uma captação discreta na glândula pituitária e uma lesão óssea sacroilíaca esquerda com uma baixa taxa de proliferação celular. Não teve, portanto, qualquer utilidade no esclarecimento da natureza das lesões.
+
+Tratamento
+Foi decidido consultar a neurocirurgia e, finalmente, evitar o tratamento local da lesão pituitária, dadas as complicações que isso implicaria, e foi iniciado o tratamento sistémico de duas patologias:
+"Dada a evolução radiológica da lesão óssea e o aumento dos marcadores tumorais, inicia o tratamento em Março de 2019 para o carcinoma avançado com letrozol 2,5 mg/24 h e ribociclib 600 mg/24 h durante 21/28 dias.
+"Dada a insuficiência pituitária, iniciou o tratamento com dexametasona 4 mg/8 h, levothyroxina 25 mg/24 h e desmopressina 120 mcg/12 h sublingual, como indicado pela Endocrinologia.
+
+Evolução
+Após o primeiro tratamento, o doente foi admitido para um episódio de mucosite G3 e tordo oral. Ela apresentou uma evolução lenta e torpida das lesões orofaríngeas, com úlceras afetas que requerem tratamento antifúngico local e sistémico (fluconazol 200 mg intravenoso). A endoscopia oral descartou complicações.
+Apresentou toxicidade hematológica: anemia G3 com necessidade de transfusão, neutropenia G3 e trombopenia G2. Os parâmetros da função hepática eram normais.
+Além disso, o paciente sofreu uma broncopneumonia pneumocócica bilateral com broncoscopia sem isolamento de outros agentes patogénicos, também corroborada pela serologia e citologia normais.
+Simultaneamente, desenvolveu uma pneumonia no terceiro dedo da mão esquerda com isolamento de Streptococcus pyogenes sensíveis à penicilina, com boa resposta à ceftriaxona intravenosa, adicionando também sulfametoxazol-trimetoprim profiláctico devido ao uso de corticosteróides.
+Posteriormente, apresentou inchaço, vermelhidão e edema no membro inferior direito, sugestivo de celulite. A ecografia com Doppler venoso excluiu trombose. O paciente melhorou clinicamente após um curso de antibioticoterapia intravenosa com ácido amoxicilino-clavulânico.
+Antes da alta, foi realizado um novo GGO que continuou a mostrar um foco de hipercaptação na articulação sacroilíaca esquerda que tinha aumentado em tamanho e intensidade em relação ao exame anterior, sugestivo de metástase óssea.
+Após a alta do hospital, foi decidido descontinuar o ribociclibe devido aos acontecimentos adversos experimentados e manter o letrozol.
+Três meses após o tratamento, a RM do cérebro mostrou adenoipófise e neurohipófise de tamanho e morfologia normais, sem evidência de compressão ou deslocamento do talo pituitário, com realce normal após contraste.
+Clinicamente, ela é assintomática (sem défice neurológico ou sintomas endócrinos) e com níveis de CEA 15,3 decrescentes (100 U/ml no início e 40 U/ml no presente).

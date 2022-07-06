@@ -1,0 +1,23 @@
+Motivo de consulta: Varón de 67 años, consulta por mareo tipo inestabilidad que aparece con los giros cefálicos y al incorporarse, asociado a náuseas sin vómitos, de 10 días de evolución.
+Antecedentes personales: HTA, DL. Exfumador. AIT en 1995. Tratamiento: Valsartán, Adiro, Crestor. Vida activa.
+
+Exploración física: Afebril. Normotenso. ACP normal. Neurológico: consciente y orientado, disartria leve. PPCC normales. Nistagmo horizontal y vertical bilateral. Sensibilidad y fuerza conservadas en extremidades. ROT ++/++++. RCPFB. No dismetrías. Romberg negativo. Marcha en tándem.
+
+Diagnóstico diferencial:
+- Vértigo periférico: vértigo posicional paroxístico benigno, enfermedad de Meniere, neuritis vestibular, vértigo psicógeno.
+- Vértigo central: ictus/AIT vertebrobasilar, tumor del ángulo pontocerebeloso, migraña vestibular, síndrome paraneoplásico neurológico.
+- Fármacos: anticomiciales, hipnóticos.
+- Enfermedades infecciosas: lúes, meningitis.
+- Enfermedades endocrinológicas: diabetes, hipotiroidismo.
+- Vasculitis: arteritis de la temporal.
+
+Pruebas complementarias:
+Analítica normal. Serologías VIH, VHB, VHC, sífilis negativas.
+Radiografía de tórax PA y lateral: Masa hiliar derecha asociada a masa en pared torácica anterior.
+TAC craneal: lesión isquémica crónica en territorio de ACP derecha.
+TAC abdominopélvico: Masa hiliar derecha sugestiva de cáncer broncogénico. Adenopatías paratraqueales e hiliares derechas. Metástasis pleurales derechas. Fibrobroncoscopia: infiltración tumoral en bronquio lobar superior derecho. PAAF de masa hiliar derecha y biopsia bronquial: carcinoma tipo oat-cell.
+RMN cerebral: sin hallazgos significativos.
+Análisis LCR: Aspecto claro, hiperproteinorraquia y pleocitosis de predominio linfocítico. Citología negativa para células malignas.
+Anticuerpos antineuronales: SOX 1 +.
+
+Juicio diagnóstico: Carcinoma microcítico de pulmón. Síndrome paraneoplásico (SPN) cerebeloso con positividad para anticuerpos SOX1.

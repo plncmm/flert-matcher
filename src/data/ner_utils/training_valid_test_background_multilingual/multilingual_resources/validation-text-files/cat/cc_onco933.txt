@@ -1,0 +1,40 @@
+Anamnesi
+El piometra és una patologia poc freqüent que es defineix com la presència de material purulent en la cavitat uterina secundari a una dificultat en el drenatge d'aquesta, i que donaria lloc a un augment del volum de la cavitat uterina, aprimament de la seva paret i fins i tot trencament d'aquesta amb sortida del material purulent a la cavitat abdominal desencadenant una peritonitis.
+Es presenta el cas d'una pacient de 58 anys sense antecedents mèdics d'interès, independent per a les activitats bàsiques de la vida diària, que acudeix a Urgències en diverses ocasions al març de 2016 amb clínica de dolor en hipogastrio juntament amb disuria, tenesme i polaquiuria. Va ser tractada amb antibiòtic i sondatge vesical per retenció urinària en totes dues ocasions, de manera ambulatòria. Al no presentar millora, la pacient acudeix una tercera vegada a Urgències per la mateixa clínica que reapareixia en retirar la sonda vesical.
+
+Exploració física
+El piometra és una patologia poc freqüent que es defineix com la presència de material purulent en la cavitat uterina secundària a una dificultat en el drenatge d'aquesta, i que donaria lloc a un augment del volum de la cavitat uterina, aprimament de la seva paret i fins i tot a trencament d'aquesta amb sortida del material purulent a la cavitat abdominal desencadenant una peritonitis.
+Es presenta el cas d'una pacient de 58 anys sense antecedents mèdics d'interès, independent per a les activitats bàsiques de la vida diària, que acudeix a Urgències en diverses ocasions al març de 2016 amb clínica de dolor en hipogastrio juntament amb disuria, tenesme i polaquiuria. Va ser tractada amb antibiòtic i sondatge vesical per retenció urinària en totes dues ocasions, de manera ambulatòria. Al no presentar millora, la pacient acudeix una tercera vegada a Urgències per la mateixa clínica que reapareixia en retirar la sonda vesical.
+» ECOG 1. Normonutrida, normohidratada, normocoloreada, conscient i orientada en temps, espai i persona. Eupneica.
+» AC: rítmica, sense soplos.
+» AP: murmuri vesicular conservat, sense sorolls sobreañadidos.
+» Abdomen: dolorós durant la palpació en hipogastrio, amb defensa a la palpació d'aquest. No es palpen masses ni megalias.
+» Membres inferiors: sense edemes ni signes de trombosi venosa profunda.
+» Neurològic: Glasgow 15/15. Pupil·les isocóricas i normorreactivas. Parells cranials conservats.
+No hi ha signes de focalidad neurològica. No hi ha rigidesa nucal. Se sol·licita a més valoració per Ginecologia:
+» Exploració amb especuloscopio: no es visualitza cèrvix, ni sagnat vaginal.
+» Tacte bimanual: cèrvix esborrada en anteversión forçada, parametrio dret lliure, l'esquerre sembla engrossit.
+
+Proves complementàries
+En porta d'Urgències:
+» Hemograma i bioquímica bàsica sense alteracions, excepte elevació de reactants.
+» Sediment d'orina no patològic.
+» Radiografia simple d'abdomen: aparent massa pelviana amb resta d'estudi normal. Davant la troballa descrita se sol·licita ecografia abdominal.
+» Ecografia abdominal que es complementa amb TC abdominopélvica: líquid lliure en cavitat abdominal juntament amb massa heterogènia que sembla correspondre a creixement uterí amb engruiximent mural i centre quístic/necròtic, amb gruix de paret de 12 mm aproximadament, i vascularització d'aquesta. Presenta una grandària de 100 x 100 x 90 i desplaça estructures adjacents, amb bufeta en localització anterolateral. Valoren com a primera opció lesió neoformativa endometrial donada l'edat de la pacient i la presència de líquid ascítico, però no poden descartar-se altres entitats, havent de completar l'estudi amb ecografia ginecològica i RM.
+» Ecografia ginecològica: úter de 10 cm, amb imatge intracavitaria de ecorrefringencia mixta, d'uns 45 mm en gruix endometrial. Miometrio homogeni, annexos atròfics, líquid lliure.
+La pacient s'ingressa en planta de Ginecologia:
+Davant les troballes prèviament descrites, se sol·licita RM de pelvis: neoplàsia endometrial de 35 mm que assenteixi en el fons d'úter, on existeix una discontinuïtat miometrial que es relaciona amb el tumor sent visible clarament en el pla sagital. La cèrvix sembla normal. Presenta a més distensió de la cavitat endometrial per presència de líquid que podria ser hemàtic. Ascites probablement carcinomatosa.
+Es realitza biòpsia uterina mitjançant histeroscopia, sent el resultat de l'anatomia patològica un epiteli de tipus endocervical amb presència de lesió intraepitelial tipus CIN-3, amb extensió intraglandular. Expressió intensa i difusa de p16 que suggereix origen cervical, sent, per tant, el diagnòstic, carcinoma de cèrvix.
+La pacient presenta evolució tortuosa durant l'ingrés, sol·licitant-se nova TC d'avaluació que evidenciava col·leccions líquides intraperitoneals loculadas sospitoses d'afectació inflamatòria/infecciosa, decidint-se realitzar punció de col·lecció abdominal guiada per ecografia per a estudi microbiològic, bioquímic i anatomopatològic.
+El cultiu de líquid abdominal evidència la presència de Trichosporon jirovecii.
+
+Diagnòstic
+Es diagnostica així una perforació uterina secundària a piometra, per un carcinoma de cèrvix estadi IIB mínim de la FIGO, CT2B CN0 CMX, amb peritonitis secundària a l'evacuació del contingut uterí infectat cap a la cavitat abdominal.
+
+Tractament
+Davant sospita de líquid compatible amb infecciós, es realitza laparotomia exploradora amb rentades i col·locació de drenatges, presentant en els dies posteriors millora dels reactants de fase aguda, i es tracta amb antibioterapia empírica intravenosa i voriconazol, donat el resultat del cultiu del líquid abdominal.
+Una vegada resolt el procés infecciós, és remesa al servei d'Oncologia Mèdica. Es proposa i accepta tractament amb radioteràpia i quimioteràpia concomitant (cisplatí setmanal 40 mg/m²), seguit de braquiterapia ginecològica.
+
+Evolució
+La pacient presenta bona tolerància al tractament, sense toxicitat important. En l'avaluació de resposta tumoral mitjançant TC es constata remissió completa tumoral, i persistència de distensió de la cavitat abdominal amb contingut hipodenso en el seu interior, en relació amb mucómetra secundària coneguda. Per a evitar possibles complicacions futures, en comitè de tumors ginecològics es va decidir la realització d'histerectomia total + doble anexectomía + eventroplastia, que es va realitzar sense incidències immediates.
+A les tres setmanes després de la cirurgia, la pacient acudeix a Urgències de Ginecologia referint borborigmo intestinal i episodis de dolor ocasionals juntament amb sagnat via vaginal. En la TC de control, presenta col·lecció hidroaérea suggestiva d'abscés pelvià postquirúrgic, juntament amb important dilatació d'intestí prim amb retard en el trànsit suggestiu d'oclusió intestinal. Ha requerit diverses intervencions per síndrome adherencial, trobant-se en l'actualitat ingressada per síndrome de adherenciolisis.

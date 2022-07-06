@@ -1,0 +1,21 @@
+A 3-week-old boy presented with nasal congestion, tachypnea and reduced breastfeeding for two days.
+She was born at 36 weeks, from a 21-year-old woman who had been infected by this parasite. She had received prenatal treatment because she had been diagnosed with Streptococcal B. Previously, she had received neonatal sepsis for 48 hours.
+Upon admission to the emergency room, the patient had a temperature of 36.1 °C, pulse of 166 l.p.m., blood pressure of 89/63 mm Hg, respiratory rate of 40 r.p.m.
+and oxygen saturation of 87% in ambient air.
+A chest X-ray showed bilateral linear opacities and consolidation in the right upper lobe.
+Oxygen and antibiotics (ampicillin and gentamicin) were administered to a pediatric hospital.
+Upon transfer, the patient developed hypotension, tachycardia, hypothermia and tachypnea.
+Precautions were applied against droplets and contact, and patient weight was placed in a negative pressure room in the pediatric intensive care unit, where he was intubulated and received a solution of crystalloids per kilogram of body weight.
+Nasal swabs were obtained for testing severe acute respiratory syndrome with coronavirus 2 (SARS-CoV-2) and respiratory viral panel.
+The chest X-ray performed after intubation showed bilateral infiltrates and partial collapse of the right upper lobe.
+A transthoracic echocardiogram showed normal anatomical and functional cardiac characteristics.
+Leukocytes count was 4000 per mm tape measure, with 55% lymphocytes; inflammation markers values were high.
+Mechanical ventilation was started with positive end-expiratory pressure of 7 cm of water, carbon dioxide fraction 0.6 and mean airway pressure of 22 cm of water, for a partial arterial oxygen pressure of 49 mm Hg and a partial arterial pressure of 49 mm Hg.
+Treatment was switched to vancomycin, cefepime and amplicillin and was withdrawn 48 hours later, when cultures were negative.
+Hydroxychloroquine was started and the diagnosis was established based on suspicion of COVID-19.
+Hypotension disappeared on day 2 after admission.
+A pneumothorax on the right side was successfully treated by chest drainage.
+The patient was extubated on day 5 and left the pediatric ICU.
+The results of the RT-PCR tests to detect SARS-CoV-2 admission were positive on day 7; the patient completed treatment of 5 days of hydroxychloroquine and azithromycin at day 7.
+On day 9, the patient was discharged home without antibiotic therapy.
+Of the eight household contacts of the patient, one (a 49-year-old woman) was symptomatic; however, the SARS-CoV-2 test was not performed on any of the contacts.

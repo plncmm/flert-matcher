@@ -1,0 +1,29 @@
+Anamnesis
+Paciente varón de 74 anos de idade, sen alergias medicamentosas coñecidas nin hábitos tóxicos. Antecedentes persoais de diabetes mellitus tipo II, hipertensión arterial, dislipemia, tromboembolismo pulmonar submasivo esquerdo e en estudo por insuficiencia renal. Antecedentes quirúrgicos de herniorrafia inguinal dereita e colecistectomía laparoscópica (2010). Tratamento habitual: omeprazol, torasemida, enalapril, bisoprolol, insulina e acenocumarol.
+Acode ao Servizo de Urxencias do hospital por deterioro do estado xeral, con astenia e perda de peso, acompañado de dor no hipogastrio e na rexión perineal máis disuria dun mes de evolución. Non refire febre nin sensación distérmica. En tratamento con amoxicilina-acedo clavulánico por parte do seu médico de Atención Primaria.
+
+Exploración física
+Consciente, orientado. Palidez mucocutánea e normohidratado. Auscultación cardíaca: rítmico a 88 lpm, non se auscultan soplos. Auscultación pulmonar: hipoventilación xeneralizada. Abdomen: brando, depresible, doloroso á palpación no hipogastrio, sen signos de irritación peritoneal; non se palpan masas nin visceromegalias; peristaltismo conservado. Genitales externos: testículo dereito atrófico, teste esquerdo eritematoso, empastado suxestivo de orquiepididimitis. Tacto rectal: rexión perineal sen alteracións; disminución do ton do esfínter anal; próstata branda non sospeitosa (GI) nin dolorosa; refire perda involuntaria de feces. Colócase unha sonda vesical e tómase unha mostra para urocultivo.
+
+Probas complementarias
+● Analítica: hemoglobina 11,4 g/dl, hematocrito 34,5%, leucocitos 14,2 mil/mm3, neutrófilos 72,3%.
+● Bioquímica: creatinina 1,6 mg/dl, glucosa 300 mg/dl.
+● Gasometría venosa: pH 7,45, PaO2 36 mmHg, PaCO2 29 mmHg, HCO3 20,2 mmol/l.
+● Ouriña: pH 5,5, 60-100 leucocitos/campo, flora bacteriana +++.
+● Coagulación: tempo de protrombina 88,6 s, actividade de protrombina 9%.
+● INR-TP 7.31, TTPA 54,9 s, fibrinógeno derivado 794 mg/dl.
+● Ecografía: vía biliar principal dilatada (13 mm). Riñón dereito con morfología, tamaño e ecoestructura normais. Riñón esquerdo con imaxes quísticas de 3,8 e 4 cm de aspecto simple. Non dilatación pielocaliciar bilateral. Imaxe hipodensa esplénica, heterogénea, de 3,8 cm con extensión ao bordo esplénico inferior e anterior. Non se observa líquido libre.
+● Urocultivo: positivo a Klebsiella oxytoca, sen resistencias aos antibióticos habituais.
+● Dado o estado xeral e os achados ecográficos, decídese o seu ingreso a cargo do Servizo de Medicina Interna para o seu estudo. Iníciase tratamento antibiótico con levofloxacino. Ao sexto día presenta dor abdominal difuso e ventre en táboa polo que se lle realiza unha tomografía computarizada abdómino-pélvica: derrame pleural bilateral e líquido libre peritoneal. Lesión esplénica nodular hipodensa de aproximadamente 5 cm de diámetro con área periférica que se estende ata o hilio e o ligamento gastroesplénico, sen poder descartar tumoración. Marcados abscesos prostáticos (6 cm lóbulo esquerdo) e vesículas seminales con descenso inferior interno do músculo elevador do ano. Pequena cantidade de líquido retrovesical.
+
+Diagnóstico
+Absceso interprostático.
+Masa esplénica pendente de filiar.
+
+Tratamento
+Realízase unha cistostomía suprapúbica e drenaje percutáneo perineal ecodirigido do lóbulo prostático esquerdo, con saída de 60 cc de pus, e do lóbulo dereito, con saída de 15 cc. Déixanse dous drenajes tipo pigtail (un en cada lóbulo) e realízase instilación intraprostática con tobramicina. Tómanse mostras para Microbiología (íllase Klebsiella pneumoniae sensible a tobramicina).
+
+Evolución
+Durante o postoperatorio realízaselle unha toracocentesis diagnóstica de derrame pleural dereito, sendo compatible con trasudado. Solicítase unha tomografía de control, na cal se objetivan adenopatías en situación retrocava, subaórtica, cadea diafragmática anterior e retrocrurales. Masa no hilio esplénico, probablemente por conglomerado adenopático con signos de infiltración tumoral que suxiren a posibilidade dun proceso linfoproliferativo: linfoma.
+Dada a mejoría do estado xeral, procédese ao alta con talla vesical, para valorar a posibilidade de cirugía programada de esplenectomía e resección transuretral de próstata, previa colocación de filtro de cava.
+O paciente reingresa aos 14 días do alta por un gran deterioro do estado xeral, acompañado de diarrea, distensión abdominal e disnea de repouso sen febre, secundaria a recidiva da súa derrame pleural bilateral. Practícase unha nova toracocentesis, con citología de líquido pleural compatible con linfoma de alto grado. Falece por fracaso multiorgánico.

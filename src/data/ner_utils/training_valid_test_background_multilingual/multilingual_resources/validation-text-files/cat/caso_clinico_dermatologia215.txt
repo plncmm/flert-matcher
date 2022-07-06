@@ -1,0 +1,16 @@
+Anamnesi
+Dona de 71 anys d'edat, diagnosticada de artropatía psoriásica, en tractament amb leflunomida des de feia un mes i mig.
+Va ingressar per presentar un quadre de febre, astènia i odinofagia d'una setmana d'evolució acompanyat d'una erupció cutània des de feia dos dies, pruriginosa i de predomini en tronc.
+
+Exploració física
+Es va objectivar un exantema maculopapular confluente, d'aspecte morbiliforme, amb eritema i descamació que comprometia més del 90% de la superfície corporal així com febre termometrada de 38,5oC i hipotensió arterial (90/60 mmHg). En la mucosa oral presentava plaques blanquinoses que es desprenien amb facilitat. La faringe es mostrava hiperèmica sense exsudat ni hipertròfia amigdalar. No es van palpar adenopaties cervicals.
+
+Exploracions complementàries
+En l'estudi analític durant l'ingrés es va apreciar leucocitosis (17600/μL) amb eosinofília (19%) i trombocitopenia (61000/μL). Es va objectivar elevació de les proves de funció hepàtica (GOT 1700 O/L, GPT 1400 O/L, GGT 1137 O/L). Les serologies van mostrar positivitat per a VHS-6 IgM sent negatives la resta de determinacions. Els hemocultivos van ser positius per a E. coli. Es va realitzar TC abdomino-pelvià que va evidenciar adenopaties subcentimétricas a nivell del lligament gastrohepático i hil hepàtic, arrel del mensenterio i paracecales així com adenopaties inguinals bilaterals.
+La biòpsia realitzada va mostrar una hiperqueratosis ortoqueratósica amb pegats de paraqueratosis sobre una epidermis permeada per abundants limfòcits, queratinocitos necròtics i degeneració vacuolar de la basal. En dermis superficial s'apreciava un infiltrat inflamatori polimorf compost principalment per limfòcits de diferent grandària, alguns lleugerament grans amb nuclis irregulars, hipercromáticos, lleugerament atípics.
+
+Diagnòstica
+Síndrome de DRESS per leflunomida.
+
+Evolució i tractament
+La pacient va romandre ingressada durant un mes i mig en el servei de medicina interna durant el qual ni la febre, ni la hipotensió, ni les lesions cutànies van arribar a tornar completament malgrat la suspensió de la leflunomida i al tractament tòpic i sistèmic amb corticoides. Després del diagnòstic inicial de "bacteriemia per Escherichia coli" es pautó ceftriaxona amb resolució d'aquesta. Igualment, es va administrar fluconazol per al tractament del seu muguet oral amb resolució satisfactòria del quadre. Durant l'ingrés es va objectivar una cridanera eosinofília així com una hepatitis aguda que es va resoldre parcialment amb tractament esteroidal. Finalment, la pacient va presentar un quadre d'empitjorament brusc, amb obnubilació, coagulopatía i astènia global, per la qual cosa va ser derivada a UCI amb defunció posterior per xoc sèptic i fallada multiorgànica amb sobreinfección per Staphilococcus aureus meticilín resistent.

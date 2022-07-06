@@ -1,0 +1,21 @@
+Anamnesis
+Paciente mujer de 63 años de edad, entre cuyos antecedentes personales destacan 6 partos vaginales, obesidad, síndrome del túnel carpiano y depresión. Dolor lumbosacro progresivo de años de evolución secundario a quiste de Tarlov en S2-S3 diagnosticado por resonancia magnética, con el que se mantiene actitud expectante. Distopia genital intervenida hace 7 años mediante histerectomía vaginal, plastia y colocación de sling suburetral. Estreñimiento pertinaz e incontinencia fecal de 14 años de evolución, intervenida entonces mediante plicatura esfinteriana, y de nuevo hace 4 años realizando plastia vaginal posterior y cleisis por rectoenterocele. Durante el estudio de esta última patología fue descubierta una hipomotilidad colónica e hipotonía esfinteriana. Flebectomía de miembros inferiores y extracción de cataratas. Actualmente en tratamiento con clonazepam, pregabalina, trazodona y lorazepam.
+La paciente fue remitida a consultas de Urología por retención de orina de 2 meses de evolución, que aparece tras la intervención de artroplastia total de rodilla derecha por gonartrosis realizada con anestesia locorregional epidural. La paciente permanece sondada desde entonces. Refiere, además, dolor perineal y disminución de la sensibilidad en ambos miembros inferiores.
+
+Exploración física
+La exploración uroginecológica muestra laxitud del suelo pélvico, prolapso de la pared anterior estadio II y prolapso de la pared posterior estadio I, según la clasificación POP-Q (Pelvic Organ Prolapse Quantification), y alteración de la sensibilidad en el territorio S2-S4, sin otros hallazgos de interés. La exploración neurológica muestra una espinopercusión dolorosa en L4-L5. La extensión y rotación derechas son muy expresivas, refiriendo dolor en la zona lumbar derecha. El resto de la exploración resulta anodina.
+
+Pruebas complementarias
+• No se encuentran hallazgos patológicos en el hemograma, la hemostasia y la bioquímica.
+• Ecografía abdominal son hallazgos.
+• El sedimento de orina muestra piuria y el urocultivo es positivo a Escherichia coli.
+• Se realiza una resonancia magnética (RM) para descartar una lesión iatrogénica por la técnica anestésica, observándose una ampliación del canal espinal a nivel de S2-S3 informado como quiste de Tarlov ya conocido, que no había variado de tamaño, no visualizando otros hallazgos de interés.
+• La electroneurografía y la electromiografía muestran una afectación radicular subaguda leve en el territorio L5 izquierdo y crónica en S1 izquierdo. Se describe también una discreta asimetría y retraso de conducción de los potenciales evocados somatosensoriales desde el miembro inferior izquierdo respecto al lado contralateral.
+
+Tratamiento y evolución
+Se realizan con la paciente sesiones de reeducación miccional supervisadas y se inicia tratamiento con tamsulosina. Tras la retirada de la sonda, la paciente presenta incontinencia, objetivándose en la ecografía residuo postmiccional, por lo que se solicita un estudio urodinámico, que objetiva micción coordinada, incontinencia urinaria de esfuerzo sin sensación de micción y detrusor hipocontráctil. Ante estos hallazgos se diagnostica de vejiga neurogénica de baja presión.
+Se propone a la paciente realizar un cateterismo intermitente, que rechaza, por lo que finalmente se decide llevar a cabo un sondaje permanente que mantiene en la actualidad. Se descarta ofertarle neuromodulación por la patología sacra.
+La patología intestinal ha progresado durante la evolución del caso, requiriendo nuevamente una intervención de corrección del rectocele, que ha recidivado de nuevo tras la cirugía.
+
+Diagnóstico
+Vejiga hipotónica e hiposensible asociada a dolor perineal. Etiología mixta de origen neurológico, causado por el quiste de Tarlov a nivel de S2-S3, y farmacológico, dados los tratamientos antiálgicos y antidepresivos que toma la paciente y que producen, entre sus efectos secundarios, hipotonía del detrusor.

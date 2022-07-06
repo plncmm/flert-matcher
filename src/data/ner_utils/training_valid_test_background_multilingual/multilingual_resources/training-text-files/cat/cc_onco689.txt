@@ -1,0 +1,23 @@
+Anamnesi
+Dona de 36 anys, fumadora activa de 5 paquets-any, immigrant: exposada a l'accident de Txernòbil. Consulta a l'abril 2017 per dispnea brusca i dolor toràcic pleurític dret.
+
+Exploració física
+A l'exploració física, destaca un ECOG 1, i la resta sense troballes.
+
+Proves complementàries
+Analíticament no presenta troballes rellevants.
+Radiografia de tòrax: lesió nodular cavitada en LID.
+Angio-TC de tòrax: TEP bilateral. Massa cavitada en segment apical del LID de 3,2 cm. Adenopaties paratraqueales bilaterals, en finestra aortopulmonar i hiliares bilaterals.
+Broncoscòpia: normal amb raspallat i BAS negatiu per a malignitat.
+PET/TC: lesió hipermetabólica en LID. Adenopaties hipermetabólicas paratraqueales inferiors dretes i esquerres, finestra aortopulmonar, subcarinal i hiliar bilateral. Múltiples adenopaties hipermetabólicas retroperitoneales.
+Es realitza biòpsia Tru-cut de massa pulmonar que informa d'infiltració per adenocarcinoma de patró micropapil·lar TTF1 +++, PD-L1 (Ac 22C3) negatiu, amb forta expressió immunohistoquímica de ALK concordant amb expressió proteica de translocació.
+EGFR natiu.
+
+Diagnòstic
+Es diagnòstica, per tant, d'un adenocarcinoma de pulmó cT2aN3M1c (8a edició TNM) portador de la translocació ALK.
+
+Tractament
+S'inicia tractament amb crizotinib en primera línia al juliol 2017 a una dosi diària de 250 mg cada 12 hores. Es confirma resposta parcial en TC toràcica abdominal segons criteris RECIST 1.1 i resposta completa metabòlica en PET/TC realitzada a les 8 setmanes.
+
+Evolució
+Des de l'inici del tractament, la pacient presenta nàusees grau 1-2 associades, en la setmana 15, a emesis grau 1. Al novembre de 2017, després de 19 setmanes, consulta per quadre de disfàgia progressiva de 15 dies d'evolució acompanyada de dolor centrotorácico. Es realitza gastroscòpia urgent que mostra una mucosa esofàgica de coloració grisenca difusa amb àrees sobreelevadas a diversos nivells. La biòpsia d'esòfag mostra un epiteli esofàgic amb destrucció de la capa basal, no observant-se fongs, ni inclusions víriques. Amb el diagnòstic de esofagitis G3 secundària a tractament amb crizotinib, es procedeix a suspendre tractament i al seu ingrés hospitalari per a tractament de suport. L'evolució és favorable, amb millora simptomàtica al quart dia; no obstant això, al desè dia existeix un empitjorament simptomàtic consistent en dolor abdominal a nivell d'epigàstric, que no respon al tractament analgèsic malgrat l'increment progressiu de la dosi d'opioides pautada. L'exploració física era anodina.

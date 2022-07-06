@@ -1,0 +1,22 @@
+Anamnesis
+Mujer de 73 años, sin alergias, asmática, hipertensa y dislipémica en tratamiento, con antecedentes de angioma medular L5 y estenosis del canal raquídeo e intervenida de plasmocitoma en la columna cervical (C3-C4) en 1996. El ojo izquierdo (OI) es amblíope por astigmatismo en la infancia.
+Al despertarse evidencia visión doble horizontal al mirar de lejos con ambos ojos y en todas las posiciones de la mirada que se hace en los siguientes días más manifiesta e invalidante, hasta el punto de dificultarle la marcha autónoma por mareo y obligarle a utilizar un parche en un ojo. Niega traumatismos, fiebre u otros signos infecciosos, cefalea, somnolencia, confusión, síntomas constitucionales y cualesquiera otros signos neurológicos o sistémicos recientes. Al tercer día, acude a Urgencias, donde es vista por las guardias de Oftalmología y Neurología, decidiéndose su ingreso posterior en planta de este último servicio.
+
+Examen físico
+Normotensa. Eupneica. Auscultación normal. Sin soplos carotídeos. Orientada en las tres esferas. OI: pterigion nasal y ambliopía anisometrópica por astigmatismo. Cover de cerca –5Dp OD; de lejos (+5-+10) OD. Agudeza visual ODcc-1; OIcc-0,8. Polo anterior y posterior normales. Ambas papilas con bordes bien definidos y excavación de 0,3 y vasos retinianos de buen calibre. Reflejo fotomotor directo y consensuado normales. Sin DPAR. Mínima restricción de la exoducción del OD (< 5o) mayor de lejos. Convergencia con sincinesia miótica conservada. Ducciones y versiones normales. Sin nistagmo. Divergencia difícil y generando diplopía binocular horizontal que aparece a partir de 1 m de distancia en todas las posiciones de la mirada con mayor separación a la derecha. Campimetría por confrontación y resto de pares craneales normales. Fuerza, sensibilidad, coordinación, reflejos, marcha y estática sin alteraciones.
+
+Pruebas complementarias
+• ECG: RS de QRS estrecho a 60 lpm, sin alteración del QT ni del PR.
+• TC craneal: se observa una hiperdensidad (calcio) en el pedúnculo hemimesencefálico izquierdo, compatible con angioma cavernoso.
+• Analítica de sangre: hemograma sin alteración de las series. Coagulación y gasometría sin alteraciones. Bioquímica con perfil hepático, renal, iónico normal. PCR 0,8.
+• Proteínas y hormonas sin alteraciones.
+• Estudio serológico básico en suero negativas.
+• ECO-Doppler TSA: ateromatosis carotídea difusa en grado ligero sin repercusión hemodinámica. Arterias subclavias y vertebrales permeables con flujo normal.
+• Ecocardiograma: hipocinesia de los segmentos basales de las caras inferior y lateral inferior. Función sistólica global normal. Patrón de llenado transmitral compatible con alteración de la relajación. Válvula aórtica ligeramente esclerosada. Insuficiencia ligera (I/IV), con jet excéntrico dirigido hacia el velo anterior mitral.
+• RM craneal: pequeñas alteraciones de señal en la sustancia blanca de ambas coronas radiadas y en el pedúnculo cerebeloso medio izquierdo, con aspecto de leucoaraiosis de grado leve. En el hemimesencéfalo izquierdo se aprecia un vacío de señal en SWI (BOLD) en el área de hiperdensidad descrita en el TCC, sin claras lesiones focales que sugieran presencia de cavernomas en otras localizaciones. Pequeñas calcificaciones de ambos globos pálidos, inespecíficas. En T2 Eco de gradiente no se observa cavernomatosis.
+
+Diagnóstico
+Inicial parálisis de la divergencia y posterior paresia del VI par craneal de origen incierto, en posible relación con alteración mesencefálica (¿mínima lesión angiomatosa: telangiectasias/ cavernoma, etc?).  Tratamiento Se trató con antiagregación y con parches alternantes durante su estancia en planta y al alta.
+
+Evolución
+Durante su ingreso en planta desarrolla una restricción franca de la exoducción del OD, compatible con una paresia del VI par craneal. No es capaz de precisar si fue de instauración brusca o rápida en pocas horas. Al alta presenta mejoría progresivamente en las siguientes semanas, hasta desaparecer por completo la visión doble lejana, quedando solo una cada vez menos manifiesta diplopía binocular vespertina a la derecha. Se negó a realizarse el estudio de LCR mediante punción lumbar y test de edrofonio por encontrarse mejor.

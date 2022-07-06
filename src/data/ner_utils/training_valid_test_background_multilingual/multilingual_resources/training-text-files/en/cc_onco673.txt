@@ -1,0 +1,27 @@
+Anamnesis
+65-year-old woman, allergic to colchicine derivatives and diclofenac. No cardiovascular risk factors or chronic medication. Her only history was severe kyphoscoliosis and she had undergone hysterectomy with double adnexectomy and removal of a neurofibroma.
+Oncological history: in July 2017, she was diagnosed with stage IV left-sided clear cell renal cell carcinoma with lung and lymph node involvement. In August of the same year, she started treatment with sunitinib 50 mg/24 h (4/6 schedule) as first line for metastatic disease.
+One month after starting treatment, he visited the emergency department for the last four days with frank haematuria. She did not report voiding syndrome or fever. She only associated isolated episodes of vomiting with food content, without abdominal pain or altered gastrointestinal transit.
+
+Physical examination
+Afebrile and haemodynamically stable. Karnofsky index 70 %. Mucocutaneous pallor. No haematomas or palpable adenopathies were observed. Cardiopulmonary and abdominal examination was normal.
+
+Complementary tests
+Laboratory tests on admission showed leukocytes 3,400/mcl, haemoglobin 10.9 g/dl, with normal mean corpuscular volume and mean corpuscular haemoglobin, platelets 31,000/mcl, urea 43.6 mg/dl, creatinine 0.89 mg/dl and C-reactive protein 77 mg/l.
+The urine system on admission showed negative nitrites and in the sediment 25-50 red blood cells/field and 2-5 leukocytes.
+Chest X-ray showed the known pulmonary nodules with no other relevant findings.
+
+Diagnosis
+"Stage IV renal carcinoma treated with sunitinib.
+"Grade 4 thrombocytopenia secondary to antiangiogenic therapy.
+"Haematuria secondary to thrombocytopenia.
+
+Treatment
+Given the frank haematuria, a bladder catheter was placed for continuous bladder lavage, tranexamic acid 0.5g/8 h was prescribed and a platelet concentrate was transfused, with slight clinical and laboratory improvement.
+During admission, daily haemograms were performed, showing a progressive decrease in the platelet count, for which reason low-dose corticotherapy was added (methylprednisolone 20 mg/12 h), without achieving an increase in this analytical parameter.
+Despite the prescribed treatment, the patient continued to have haematuria and a platelet count of 6,000/mcl, so a peripheral smear was requested; this figure was confirmed and schistocytes or other morphological alterations were ruled out.
+In agreement with haematology, corticosteroids were increased to a dose of 1 mg/kg/day and intravenous immunoglobulin was prescribed (1 g/kg for 48 hours). After this treatment, platelet counts progressively increased until the patient was discharged with a platelet count of 41,000/mcl.
+Throughout the hospital stay, six platelet concentrates had to be transfused. In addition, complications included bilateral epistaxis that required nasal packing by Otorhinolaryngology, and urinary tract infection secondary to bladder catheterisation. Urine culture isolated more than 100,000 CFU/ml of Enterococcus faecalis and Escherichia coli sensitive to nitrofurantoin, so treatment with this antibiotic and bladder catheter replacement was performed.
+
+Evolution
+On discharge from hospital, it was decided to definitively withdraw Sunitinib and treatment was started with nivolumab 3 mg/kg/every 15 days, as a second line for metastatic disease. She is currently in partial response (PR) after 13 cycles of anti PD-1.

@@ -1,0 +1,31 @@
+Anamneză
+Diagnosticat în decembrie 2012 cu carcinom cu celule renale în urma unei descoperiri întâmplătoare la ecografie. Cazul a fost prezentat Comitetului de Tumori Urologice, care, fiind vorba de o boală localizată, fără implicare la un alt nivel în studiul de extensie, a decis să efectueze o nefrectomie radicală cu intenție curativă. Anatomia patologică a confirmat diagnosticul de carcinom renal cu celule clare și a fost clasificat ca T3aN0M0.
+Pacientul a continuat să fie monitorizat în secția de oncologie prin teste imagistice și a rămas în răspuns complet până în martie 2014, când, la o tomografie computerizată de reevaluare, s-a identificat progresie la nivelul plămânilor, cu noduli pulmonari multipli bilaterali cu o dimensiune maximă de 11 mm.
+Pacientul a fost clasificat ca având un prognostic bun conform clasificării lui Heng, iar tratamentul antiangiogenic de primă linie a fost început cu pazopanib: 800 mg/zi pe cale orală. Ca toxicitate secundară la pazopanib, a prezentat paloare cutanată și păr alb, astenie de gradul 3, disgeuzie de gradul 2 și diaree de gradul 2, care au necesitat o reducere a dozei la 600 mg/zi, cu toleranță bună.
+Ea a continuat tratamentul cu pazopanib, cu un răspuns parțial în primele luni și, ulterior, boală stabilă cu adenopatie mediastinală și o singură leziune pulmonară vizibilă în lobul superior, și s-a decis continuarea tratamentului cu pazopanib. După patru ani cu boală stabilă menținută cu pazopanib, în februarie 2018 a prezentat o nouă progresie la nivel pulmonar la CT cu reapariția leziunilor pulmonare de la diagnostic.
+A început tratamentul de linia a doua cu imunoterapie cu nivolumab, obținând o stabilizare a bolii oncologice până în iunie 2018 (la cinci luni de la începerea tratamentului cu nivolumab), când a fost internată în secția de oncologie pentru trombocitopenie severă (5.000 de trombocite) și hemoragie externă constând în epistaxis și peteșii la nivelul membrelor inferioare. La suspiciunea de toxicitate hematologică mediată imunitar, au fost solicitate testele Coombs directe și indirecte, ambele fiind negative, precum și serologia virală, care a detectat pozitivitate pentru parvovirusul B19. A fost evaluată posibilitatea apariției purpurei trombocitopenice imune de gradul 4 secundară nivolumabului, iar tratamentul a fost prescris cu corticoterapie cu recuperarea numărului de trombocite.
+Având în vedere îndoiala că simptomele hematologice erau secundare antibioticelor pe care pacientul le primise în luna precedentă pentru o infecție respiratorie sau că erau declanșate de o infecție virală, s-a decis reluarea tratamentului cu nivolumab.
+O lună mai târziu, pacientul s-a prezentat la serviciul de urgență cu febră de 39°C, tuse accentuată fără expectorație, dispnee la efort moderat de patru zile.
+
+Examinarea fizică
+ECOG 1. Stabil hemodinamic. Tahipnee în timpul conversației. În timpul auscultației cardiopulmonare: tonuri cardiace ritmice, crepitații bibasale. Extremitățile inferioare: edem crescut cu fovea discretă fără semne de tromboză venoasă profundă.
+
+Teste complementare
+Hemograma și biochimia sângelui, inclusiv ionograma, testele funcției renale și hepatice fără modificări. Gazele din sângele arterial: insuficiență respiratorie, alcaloză respiratorie.
+Radiografie toracică: infiltrate pulmonare predominant pe dreapta.
+Tomografie computerizată toracică: afectare interstițială extinsă, predominant în hemitoracele drept, cu un model predominant reticular secundar imunoterapiei. Zone de consolidare în lobul superior drept, legate de suprainfecție.
+În timpul internării, a raportat oboseală persistentă, slăbiciune generalizată, greață și vărsături. A fost solicitat un profil hormonal, care a evidențiat hipotiroidism secundar și insuficiență suprarenală de dată recentă. S-a decis completarea studiului cu rezonanță magnetică (RMN) cerebrală cu gadoliniu, fără a se constata captare patologică, glanda hipofiză fiind normală ca mărime, morfologie și situație.
+
+Diagnostic
+"Pneumonie mediată imunitar de gradul 3 secundară tratamentului cu nivolumab.
+"Panhipopituitarism secundar hipofizitei de gradul 2 datorate nivolumab.
+
+Tratament
+În ceea ce privește managementul pneumonitei, s-a solicitat colaborarea cu Unitatea de Boli Infecțioase pentru a exclude etiologia suprainfecției atipice. Tratamentul cu nivolumab a fost suspendat. S-a administrat metilprednisolon intravenos 1 mg/kg/zi, s-a adăugat antibioterapie empirică și s-a efectuat bronhoscopie cu rezultate microbiologice negative.
+Pentru gestionarea panhipopituitarismului, s-a lucrat împreună cu endocrinologia și s-a prescris tratamentul cu corticoizi și suplimentarea hormonală.
+
+Evoluție
+Pacientul a prezentat o evoluție torpidă, cu o internare îndelungată, complicată de decompensarea insuficienței cardiace și apariția rapidă a fibrilației atriale de novo, care a necesitat ajustarea tratamentului de către Cardiologie.
+Ca și complicații secundare dozelor mari și utilizării prelungite a corticoterapiei, pacientul a dezvoltat sindromul Cushing iatrogen și simptome maniaco-depresive care au necesitat monitorizare de către Psihosomatică.
+După recuperarea stării clinice pentru care a necesitat internarea și în ciuda faptului că nu a existat progresie a bolii oncologice la testele imagistice, în condițiile imposibilității continuării imunoterapiei din cauza toxicității secundare (purpură trombocitopenică imună de gradul 4/neumonită de gradul 3/hipofizită de gradul 2), în octombrie 2018 a fost începută linia a treia de cabozantinib, iar boala a rămas stabilă până în prezent. Manifestările clinice care i-au limitat calitatea vieții în această perioadă au fost astenia persistentă de gradul 3 și exacerbarea dispneei obișnuite, motiv pentru care a necesitat o monitorizare la cardiologie, cu o ecocardiografie de control care a detectat o fracție de ejecție ventriculară stângă de aproximativ 20%.
+În prezent, trebuie evaluat raportul risc-beneficiu al menținerii tratamentului cu cabozantinib, chiar știind că un astfel de tratament i-ar agrava dispneea și astenia, și s-a decis reluarea cabozantinibului la o doză redusă (40 mg/zi).

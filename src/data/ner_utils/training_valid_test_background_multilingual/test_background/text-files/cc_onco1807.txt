@@ -1,0 +1,25 @@
+Anamnesis
+Paciente varón de 78 años, que presenta como antecedentes personales una fractura de clavícula izquierda hace más de 30 años, reflujo gastroesofágico, cólicos biliares en dos ocasiones y fístula anal. Diagnosticado de un adenocarcinoma de próstata localizado Gleason 6 en el año 2006, que fue tratado con radioterapia radical, con respuesta completa al tratamiento. En noviembre del 2007 ingresó con un cuadro suboclusivo, realizándose una laparatomía exploratoria, en la que se encontró una gran tumoración localizada en el mesenterio ileal, que se extirpó. La histología de esta masa fue informada como tumoración maligna indiferenciada de mesenterio ileal, con patrón organoide sugestivo de patrón neuroendocrino, con presencia de necrosis e índice mitótico alto. Inmunohistoquímicamente fue positiva para vimentina, focalmente positiva para S-100 y CAM 5.2, siendo negativa para otros marcadores de tumores mesenquimales usados, incluidos para GIST. Se descartó, además, proceso linfoide y metástasis de adenocarcinoma de próstata. Tras la resección quirúrgica del tumor el paciente permaneció asintomático y siguió revisiones.
+En una revisión cinco meses tras la cirugía, se realizaron las siguientes pruebas complementarias: 
+• Tomografía computarizada (TC) tóraco- abdómino- pélvica: lesión nodular de 2 cm en el retroperitoneo con un centro parcialmente necrosado, compatible con adenopatía. Nódulos milimétricos en el lóbulo inferior izquierdo del pulmón, no visibles en estudios previos, que podrían corresponder a metástasis.
+• Resonancia magnética (RM) abdominal: imagen nodular de 2 cm inferior a la glándula suprarrenal izquierda de localización paraaórtica retroperitoneal izquierda, sugestiva de adenopatía.
+• La gammagrafía con octreotide no presentó captaciones patológicas.
+• Los valores analíticos de enolasa neuronal específica marcaban cifras de 26,3 ng/ml.
+Ante estos hallazgos compatibles con carcinoma neuroendocrino con recidiva ganglionar y pulmonar, se decidió iniciar tratamiento con cisplatino-etopósido, presentando una respuesta parcial radiológica y una disminución de las cifras de enolasa neuronal específica tras tres ciclos de dicho tratamiento. En la visita del quinto ciclo de quimioterapia, el paciente refería aumento de tamaño y consistencia del testículo izquierdo de 15 días de evolución, sin asociar pérdida de peso ni ninguna otra sintomatología.
+
+Exploración física
+La exploración física mostraba un testículo izquierdo de consistencia y tamaño aumentado (aproximadamente 10 cm), siendo el resto de la exploración rigurosamente normal.
+
+Pruebas complementarias
+Se procedió a realizar las siguientes pruebas complementarias:
+• Analítica: hemograma, bioquímica y coagulación, normales; con cifras de antígeno prostático específico (PSA) y enolasa neuronal específica dentro del rango de la normalidad.
+• Ecografía testicular: ambos testículos en bolsas escrotales, con testículo derecho de características sonográficas normales y testículo izquierdo aumentado de tamaño y sustituido la mayor parte de su parénquima por lesiones sólidas que protruyen en su contorno, heterogéneas, algunas con calcificaciones y con aumento de la vascularización, la mayor de 5 cm.
+• Dados los hallazgos nuevos de masa testicular de rápido crecimiento se realizó orquiectomía radical izquierda. La anatomía patológica de la pieza fue informada como un tumor de células de Leydig maligno de 9 cm: tumoración abigarrada constituida por células con marcada atipia nuclear, mitosis y focos de necrosis. Sin presencia de neoplasia intratubular. Inmunohistoquímicamente marcaban CD 117 (c-Kit), CK AE1: AE3, alfa-inhibina y Melan A. Focalmente con CK Cam 5.2 y con EGFR. Eran negativas para S-100, D2-40, PLAP, EMA, CD30, alfafetoproteína y CK-7. Presencia de dos nódulos metastásicos en el cordón espermático, uno de ellos próximo al borde quirúrgico superior.
+
+Diagnóstico
+• Tumor maligno de células de Leydig testicular resecado.
+• Neoplasia maligna abdominal indiferenciada de origen mesentérico (probable tumor neuroendocrino), con recidiva ganglionar y pulmonar.
+• Adenocarcinoma de próstata Gleason 6 con respuesta completa tras radioterapia.
+
+Tratamiento y evolución
+Tras la cirugía testicular se decidió no administrar ningún otro tratamiento complementario dada la respuesta radiológica obtenida y la falta de evidencia de tratamiento adyuvante en el tumor maligno de células de Leydig. Dos meses más tarde se realizó una nuevo TC, en la que habían desaparecido los nódulos milimétricos visibles previamente en el lóbulo inferior izquierdo del pulmón, y la adenopatía retroperitoneal izquierda había disminuido de tamaño hasta los 13 mm. El paciente presentaba muy buen estado general, encontrándose asintomático, por lo que se decidió continuar el seguimiento.

@@ -1,0 +1,44 @@
+Anamnesi
+Home de 69 anys d'edat amb antecedents personals d'hipertensió arterial i insuficiència renal crònica secundària a glomerulopatía per IgA. Va rebre el seu primer trasplantament renal al juliol de 1996, amb rebuig agut corticosensible en el primer mes posttrasplantament. En l'actualitat l'empelt és normofuncionante.
+Al juliol de 2012 acudeix al Servei d'Urgències per presentar febre, dolor en la fossa ilíaca esquerra (FII) i disminució de la força en el membre inferior esquerre.
+
+Examen físic
+Tensió arterial 128/77 mmHg, temperatura 39,7oC. Abdomen lleument dolorós a la palpació en la FII. Membres inferiors: cuixa esquerra augmentada de grandària respecte al contralateral, amb lleu empastamiento.
+
+Proves complementàries
+Proves realitzades en el primer ingrés:
+• Analítica de sang: creatinina 1 mg/dl, hemoglobina 11 g/dl. Leucos: 6.500 (fórmula normal).
+• Ecografia abdominal: col·lecció perirenal, subcapsular, anecoica, que envolta al ronyó amb un gruix màxim de 4 cm. Dilatació calicina mitjana: 2,5 cm.
+• Ecografia dels membres inferiors: no signes de trombosi venosa profunda.
+• Tomografia computada (TC) i URO-TC: imatge de probable infart renal en el mesorriñón amb hematoma subcapsular amb dilatació calicina en l'àrea de l'infart/romp renal.
+• Gammagrafia renal: hipocaptación en el mesorriñón amb defecte cortical. Proves realitzades en el segon ingrés:
+• Anàlisi del líquid drenat: aspecte serós, groguenc clar. Glucosa 107 mg/dl, creatinina 1 mg/dl, sodi 144 UmEq/l, potassi 4 mEq/l, proteïnes 0,59 mg/dl, albúmina 0,6 g/dl, colesterol 6 mg/dl, triglicèrids 4 mg/dl i amilasa 6 UI7l. Cultiu estèril i estudi citològic: negatiu per a malignitat.
+• Linfogammagrafía de membres inferiors i abdomen: normal.
+• Inmunoelectroforesis (IEF) en sèrum: 42,2% Alb; 9,9% alfa-1; 19,2% alfa-
+2; 12,2% beta; 15,7% gamma; 1.110 IgG; 694 IgA; 271 IgM.
+• Inmunofijación en sèrum: banda monoclonal IgM lambda (no quantificable).
+• IEF en orina: normal (Bence-Jones: negatiu).
+• IEF líquid de drenatge: no bandes monoclonals. Nivells de EPO: 8,43
+(4-20).
+• Beta-2 microglobulina: 2,7 (0,8-2,2).
+• Biòpsia de medul·la òssia: normal.
+• Estudi citològic de medul·la òssia: 3% cèl·lules plasmàtiques sense atipias.
+
+Diagnòstic
+L'anàlisi del líquid de drenat ens va ajudar a descartar diversos factors etiològics com a hematoma, abscés, urinoma o linfocele.
+Davant l'absència d'un clar factor etiològic causant de la col·lecció perrirenal i la persistència de la mateixa pesi a l'intent de escleroterapia amb povidona iodada, revisem la bibliografia científica, trobant la descripció d'una nova síndrome sota l'acrònim de TEMPI que reunia les següents troballes clíniques: telangièctasis, eritrocitosis, gammapatía monoclonal, col·lecció perirenal i xunt pulmonar amb hipoxèmia.
+Encara que en el nostre cas el pacient no complia algun dels ítems, com la presència de eritrocitosis o la hipoxèmia, la presència de col·lecció perirenal amb sagnat de la seva superfície i la paraproteína monoclonal ens van obligar a realitzar una biòpsia de medul·la òssia, en la qual es va descartar mieloma múltiple; ens trobàvem, llavors, davant una gammapatía monoclonal de significat incert (MGUS).
+Malgrat no complir tots els criteris de la síndrome de TEMPI, pensem que les troballes anteriorment descrites i la resposta del pacient al tractament amb rituximab ens van fer pensar en el paper etiològic de la gammapatía monoclonal com a responsable del quadre clínic.
+
+Tractament
+En el primer ingrés, es decideix iniciar tractament ATB amb meropenem i daptomicina i drenatge de la col·lecció mediat per TC.
+Posteriorment, es produeix una recidiva de la col·lecció, per la qual cosa es decideix marsupialización quirúrgica i esclerosi amb povidona iodada, amb col·locació de tub de drenatge, amb persistència d'alt dèbit.
+Després de la troballa de bandes monoclonals en l'IEF del sèrum, es decideix iniciar tractament amb rituximab (350 mg/dl), amb desaparició de la col·lecció i clara millora clínica del pacient.
+
+Evolució
+A l'agost de 2012 es produeix una millora clínica molt important després de 15 dies de tractament ATB. Amb l'estudi de hipercoagulabilidad negatiu i virus de Epstein-Barr negatiu, es decideix realitzar una nova TC i seguiment ambulatori.
+Al setembre de 2012, el pacient acudeix de nou per impotència funcional del membre inferior esquerre, que li impedeix la deambulació, amb eritema local i mal control de la tensió arterial.
+A l'exploració física presenta una tensió arterial de 189/104 mmHg. Afebril. Abdomen amb empelt renal en la FII augmentat de grandària, amb palpació d'una massa perirenal.
+En l'analítica de sang s'aprecia una lleu deterioració de la funció renal, amb creatinina de 1,2 mg/dl. Es va realitzar una ecografia urgent, en la qual es va objectivar recidiva de la col·lecció subcapsular.
+Es va decidir llavors dur a terme cirurgia amb intenció curativa: marsupialización de la col·lecció de gran grandària, probablement subcapsular al peritoneu, amb col·locació de tub en T. El ronyó tenia aspecte friable, sagnant al frec, i va requerir hemostàsia intensa. L'aspecte del líquid drenat era serós clar. Després de la cirurgia, el dèbit va ser major de 1.500 ml durant una setmana, amb posterior reducció després d'una setmana a <1.000 ml/dia, amb desaparició de la impotència funcional.
+Després de la constatació de gammapatía monoclonal en el sèrum del pacient, es va iniciar tractament amb la primera dosi de rituximab, observant-se un descens del dèbit amb <200 ml/dia. Amb la segona dosi de rituximab es va observar un descens a <50 ml/dia, procedint-se a la retirada del drenatge i a l'alta del pacient.

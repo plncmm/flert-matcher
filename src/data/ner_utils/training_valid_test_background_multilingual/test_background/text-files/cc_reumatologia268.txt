@@ -1,0 +1,42 @@
+Mujer de 29 años derivada a la consulta externa de Medicina Interna por ANA positivo 1/160 patrón homogéneo en una sola determinación y síndrome seco para estudio. Entre sus antecedentes contaba síndrome seco (xerostomía y xeroftalmía), dispepsia y diarrea de larga data en estudio por Digestivo.
+En la exploración física presentaba: tensión arterial 110/60mmHg. FC 84lpm. Afebril. Saturación 98% basal.
+No adenopatías palpables. Parótidas simétricas y no tumefactas. Tonos rítmicos sin soplos. Buena ventilación en ambos campos pulmonares. Abdomen: blando, depresible, sin dolor a la palpación. Exploración articular normal. No lesiones cutáneas, salvo por hirsutismo.
+
+Entre sus pruebas complementarias destacaban:
+— Hemograma: sin citopenias.
+— Coagulación: normal.
+— Bioquimica: parámetros hepáticos, función renal y electrolitos normales.
+— Inmunoglobulina A 122 mg/dL, Ig G 110 mg/dL, IgM 138 mg/dL.
+— No consumo de complemento.
+— PCR 5 mg/L.
+— Factor reumatoide negativo.
+— TSH 3,2 μUI/mL.
+— Nueva determinación de ANA y ENAS negativos.
+— Orina: normal.
+— Gammagrafía parotídea: alteración funcional de las glándulas salivares de predominio en parótidas y submandibular izquierda.
+— Test de Schirmer: negativo ambos ojos.
+— Radiografía de tórax: nódulo en hilio pulmonar izquierdo. RX PA y L de tórax con nódulo pulmonar solitario.
+
+
+DIAGNÓSTICO DIFERENCIA
+El nódulo pulmonar solitario es una lesión única, menor de 3 cm, redondeada, rodeada de parénquima pulmonar con aire sin adenopatías, atelectasias, neumonías o derrames. Su diagnóstico diferencial es amplio, incluyendo lesiones neoplásicas (malignas y benignas), inflamatorias, infecciosas, congénitas y vasculares.
+Respecto a las lesiones malignas, aunque son las menos probables cuando nos enfrentamos a un nódulo pulmonar solitario, son siempre de las que más nos interesa descartar.
+
+Nuestra paciente no había sido nunca fumadora y tenía menos de 35 años, no tenía hemoptisis y no había estado expuesta a carcinógenos, pero el tamaño de la lesión era sugestivo de alto riesgo. Por ello se le realizó:
+— TC de tórax: lesión nodular sólida de unos 3,3cm de diámetro con contornos lobulados y densidad heterogénea en íntimo contacto con el bronquio y la arteria pulmonar izquierda con signos de infiltración de la arteria del lóbulo inferior izquierdo.
+Siguiendo los protocolos de Neumosur, up to datei y otras guías consultadas, dado que la lesión presenta datos de malignidad se decidió la realización de:
+— PET-TC: lesión bien definida de 2,7 x 3 cm con captación metabólica periférica con un SUV max elevado de 4,8 y centro necrótico compatible con lesión tumoral.
+
+PRUEBAS DIAGNÓSTICAS
+— Fibrobroncoscopia: normal
+— Lobectomía compatible con un tumor miofibroblástico inflamatorio con infiltrado plasmocitario IgG4 (ratio IgG4/IgG 0,42).
+— Niveles de IgG4 en sangre elevados, en 147 mg/dL.
+
+DIAGNÓSTICOS DEFINITIVOS
+— Enfermedad relacionada con IgG4
+— Probable síndrome de Sjögren
+
+En conclusión, la paciente presenta una enfermedad asociada con IgG4 definitiva, dado que presenta 3 criterios diagnósticos de los descritos por Uhemara et al en 2012.
+
+TRATAMIENTO Y EVOLUCIÓN
+Actualmente la paciente está con tratamiento sintomático para el síndrome seco y completamente asintomática desde el punto de vista pulmonar sin datos de actividad.

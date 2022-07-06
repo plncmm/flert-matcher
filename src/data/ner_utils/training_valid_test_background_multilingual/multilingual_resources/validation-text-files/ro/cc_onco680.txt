@@ -1,0 +1,26 @@
+Anamneză
+Pacientul s-a prezentat la urgențe pentru exacerbarea durerii abdominale obișnuite, localizată în epigastru și iradiind în ambele hipocondrii, surdă și severă, de 8 din 10, care nu a cedat cu analgezia de primă intenție, fără alte simptome asociate.
+
+Examinarea fizică
+La sosirea la departamentul de urgență, tensiunea arterială era de 200/110 mm Hg. Durere abdominală la palpare în hemiabdomenul drept, fără semne de iritație peritoneală. Restul examinării, inclusiv examenul neurologic, nu a fost remarcabil.
+
+Teste complementare
+La Urgențe, s-a observat o agravare a tabloului său obișnuit de colestază (bilirubină 1,67, FA 406, GGT 739), creșterea enzimelor de citoliză (GOT 766, GPT 694) și creșterea troponinelor 0,7 și a coagulopatiei (INR 1,37 și fibrinogen 244).
+Având în vedere alterarea analitică și durerea abdominală, s-a efectuat o tomografie computerizată a abdomenului care a evidențiat infarcte renale bilaterale și tromboza unei ramuri a arterei hepatice, cu zone ischemice ulterioare.
+Din cauza prezenței coagulopatiei și a infarcturilor viscerale, s-a început anticoagularea cu heparină cu greutate moleculară mică (HBPM). În plus, având în vedere alterarea profilului hepatic, a fost solicitat un test pentru depistarea virusurilor hepatotrope (VHB, VHC, CMV și EBV), care a fost negativ.
+Pacientul a fost internat în secția de Oncologie Medicală pentru investigații suplimentare.
+
+Diagnostic
+Endocardită marantică (EM) cu implicare embolică sistemică (splenică, hepatică, renală și a sistemului nervos central), manifestată prin durere abdominală, episod de amnezie globală tranzitorie și alterarea paroxistică a nivelului de conștiență la un pacient cu carcinom ductal infiltrativ de grad înalt, stadiul IV, al pancreasului muco-secretor, cu implicare hepatică.
+
+Tratament
+HPBM pentru SM.
+
+Evoluție
+S-a efectuat ecoendoscopie cu biopsie pentru a identifica procesul tumoral, care s-a dovedit a fi un carcinom ductal infiltrant de grad înalt, în stadiul IV, al pancreasului muco-secretor, din cauza afectării ficatului.
+În timpul internării, pacientul a prezentat un episod de amețeală, transpirație și o senzație de pierdere a forței în mâna stângă, cu tensiune arterială ridicată și un ECG normal. A fost solicitată o evaluare cardiologică urgentă, inclusiv o ecocardiografie transtoracică (ETT), care a evidențiat o imagine îndoielnică de vegetație pe valva aortică și o insuficiență aortică moderată. S-a decis să se extindă studiul cu ecocardiografie transesofagiană (ETE). În cele din urmă, ETE a arătat o imagine compatibilă cu endocardita.
+Ca urmare a acestei constatări, au fost efectuate culturi microbiologice și a fost inițiată o antibioterapie empirică cu vancomicină, ampicilină și gentamicină. Hemoculturile au fost sterile și pacientul a continuat fără febră. Au fost efectuate un TTE și un TEE de urmărire, unde a persistat o masă aderentă pe partea ventriculară a frunzei coronare drepte, care părea să fi crescut în dimensiune. Studiul microorganismelor care cauzează endocardita a fost extins cu hemoculturi negative: serologie pentru febra Q, Brucella și Chlamydia pneumoniae; și PCR pentru Bartonella, Borrelia, Coxiella și Rickettsia. Toate au fost negative.
+Având în vedere asocierea dintre episoadele paroxistice de alterare a nivelului de conștiență (care tindeau să coincidă cu momentele în care LMWH era ocazional suspendată) și o imagine de endocardită, a fost solicitată o tomografie computerizată craniană, care s-a dovedit a fi normală.
+La acel moment, a fost luat în considerare un episod de amnezie globală tranzitorie care avusese loc cu 4 luni înainte și care, a priori, nu fusese legat de boala tumorală, deoarece acest simptom a precedat simptomele constituționale. Privit în perspectivă, nu s-a putut exclude ca acest eveniment să aibă legătură cu SM actual, astfel că s-a solicitat un RMN cranian, care a evidențiat infarcte supra și infratentoriale cu profil lacunar și timp de evoluție diferit, sugerând o origine tromboembolică cardiacă.
+Din păcate, profilul hepatic al pacientului a început să se înrăutățească progresiv. Acest lucru, asociat cu o înrăutățire clinică accentuată, a însemnat că pacientul nu era un candidat pentru tratamentul cu chimioterapie și că s-a optat doar pentru controlul simptomatic.
+

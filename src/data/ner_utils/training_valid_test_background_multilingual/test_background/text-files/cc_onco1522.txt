@@ -1,0 +1,25 @@
+Anamnesis
+Mujer de 60 años de edad, sin antecedentes médicos de interés, consulta por presentar cuadro de una semana de evolución de desorientación progresiva, pérdida de fuerza de miembro superior izquierdo y trastorno del lenguaje.
+
+Exploración física
+Tensión arterial 140/80 mm Hg; temperatura 36,5 oC; talla: 1,68 m; peso 79 kg; SO2 93%; ECOG 2.
+Disminución de fuerza 3/5 en el miembro superior izquierdo, leve disartria; resto sin hallazgos de interés.
+
+Pruebas complementarias
+• Analítica: glucosa 91 mg/dL; urea 35 mg/dL; creatinina 0,6 mg/dL; hemoglobina 13,5 g/dL; resto de fórmula y coagulación normales.
+• Radiografía de tórax: sin hallazgos.
+• TC y RM cerebrales: lesión focal de localización temporal derecha profunda de 3 x 2 x 2,5cm con importante edema vasogénico, compresión del sistema ventricular ipsilateral y desplazamiento de la línea media.
+• Estudio de extensión con TC toracoabdominopélvica: sin hallazgos de interés.
+• Mamografía: sin hallazgos de interés.
+
+Evolución y tratamiento
+Intervenida mediante craneotomía temporal derecha con exéresis completa de lesión tumoral y duramadre adyacente. Anatomía patológica: proliferación de células de amplio citoplasma eosinófilo denso, con núcleos vesiculosos con anisocariosis, nucleolos promimentes, frecuentes imágenes de mitosis, amplias áreas de necrosis, focalmente hay células con poco citoplasma y células con morfología alargada. Inmunohistoquímica: queratinas (CK20, CK7, CAM 5.2, AE1, AE3) negativas. GFAP negativa. EMA negativa.
+Vimentina positivo intenso. S100 positivo débil. Factor de microftalmía negativo. Conclusión: neoplasia maligna de células grandes, sugestivo de metástasis, entre ellas melanoma.
+Sin embargo, en la exploración física no se observaron nevus ni lesiones sospechosas. Recibió tratamiento complementario con radioterapia sobre lecho quirúrgico, con dosis total de 60 Gy y se decidió seguimiento estrecho.
+La TC de control a los cinco meses evidencia: recidiva tumoral craneal temporal derecha con afectación meníngea adyacente y extensión extracraneal en musculatura masetera y ósea ipsilateral. Se comenta el caso en el Comité de Tumores y se decide segunda intervención.
+Se realiza una craneotomía con extirpación intraaxial y extraaxial a nivel de la fosa media derecha, según el protocolo quirúrgico fue macroscópicamente incompleta. Se desestimó radioterapia complementaria.
+Anatomía patológica: fue compatible con menigioma anaplásico maligno. Se pauta quimioterapia: temozolamida en monoterapia con intención paliativa.
+En la RM de control a los cuatro meses, se evidencia recidiva pterional con siembra tumoral silviana y subfrontal derecha. Tercera intervención quirúrgica mediante craneotomía fronto-temporo-pterional con resección macroscópica incompleta. Anatomía patológica: neoplasia de células grandes de patrón sólido y disposición aleatoria, pobremente diferenciado, de alto grado, positividad intensa para CK AE1-AE3, y focal para CAM 5,2, con negatividad para CK7,CK20, CK5/6 y el BER-EP4. La GFAP y el S-100 son negativos en la mayoría de las células tumorales con reactividad en las células de la periferia, donde es difícil diferenciar entre células parenquimatosas atrapadas o células neoplásicas. EMA, mamoglobina, cromogranina, TTF-1, HMB-45 Hepatocito, CD10 y CEA fueron negativos.
+El Ki-67 es elevado hasta en un 40%. Conclusión: ganglioglioma anaplásico. Se mantiene actitud con temozolamida. Durante el tratamiento quimioterápico presenta progresión clínica con hemiparesia derecha que se confirmó por RM: recidiva temporal derecha y siembra frontal derecha paraoftálmica. Cuarta intervención mediante craneotomía temporal derecha: identificación de tumor silviano con extensión temporal que infiltra duramadre y algo de parénquima cerebral.
+Se realiza exéresis en bloque y aspiración de la zona medial. Hay infiltración del tegmen timpani, de la mastoides y de la pared lateral de la órbita. Estas dos últimas no se pueden resecar. Pasa a controles sintomáticos exclusivos. Evoluciona clínicamente con disartria, parálisis facial derecha, hemiplejia izquierda.
+Ingresa luego de un mes por atragantamiento, broncoaspiración y finalmente es éxitus.

@@ -1,0 +1,45 @@
+Anamnesis
+66-year-old woman, no known drug allergies, no toxic habits, currently retired, no family history of oncological pathology, with a history of arterial hypertension on treatment with hydrochlorothiazide.
+
+Independent for activities of daily living, ECOG 0.
+
+Her oncological history began in March 2015, with pruritus in an already known skin lesion on the left upper dorsal level (erythematous pearly papule with teleangiectasias, measuring 4 millimetres).
+
+An excisional biopsy was performed. The pathological anatomy reports Breslow Nodular Melanoma 2.5 mm, Clark level IV, absence of ulceration, no inflammatory component, no regression, pleomorphic cellularity, 11 mitoses/mm2, no perineural or vascular invasion, no satellitosis, positive lateral surgical margins. BRAF V600E wild type mutational study.
+
+Laboratory tests showed LDH levels in the normal range.
+A PET-CT scan was performed in the left axillary region showing 3 adenopathies with a necrotic centre measuring 21 mm (two very close together) and a third measuring 7.5 mm, maximum SUV of 10 and 2 respectively. In the right axillary region there are 15 mm necrotic lymphadenopathy, maximum SUV of 6.
+-Fine needle aspiration of axillary lymphadenopathy was performed with pathological anatomy results indicating melanoma metastasis.
+-In May 2015, a 2 cm margin enlargement was performed with bilateral axillary lymphadenectomy. There were no postoperative complications. The pathological anatomy reports the absence of residual tumour in the surgical margins. In relation to the lymphadenectomy, she reported 4 positive lymph nodes out of 49 nodes in total (19 right nodes, 30 left nodes, maximum diameter 35 mm, without extracapsular invasion).
+With a diagnosis of Stage IIIC melanoma (pT3a pN3), resected, BRAF wild type, she started adjuvant treatment in June 2015 as part of a clinical trial.
+This is a randomised, double-blind, phase III study of adjuvant immunotherapy treatment with ipilimumab versus Nivolumab after complete resection of stage IIIb/c or IV melanoma in patients with a high risk of recurrence.
+Patients are randomised to:
+- arm A: Ipilimumab 10 mg/kg IV (intravenous) every 3 weeks for 4 doses and then every 12 weeks starting week 24 plus placebo IV every 2 weeks.
+- arm B: Nivolumab 3 mg/kg IV every 2 weeks plus placebo IV every 3 weeks for 4 doses and then every 12 weeks starting at week 24.
+Treatment is until disease recurrence, unacceptable toxicity or maximum of 1 year.
+
+Current illness:
+In August 2015 she attended day hospital for diarrhoea of 15 days evolution, initially presenting 2-3 stools per day, with progressive increase in number and intensity, the picture is associated with haematochezia, rectorrhagia, diffuse colicky abdominal pain, nausea and vomiting 1-2 episodes per day. She also presented fever in previous days. It should be noted that the patient had previously consulted another centre and was prescribed treatment with ciprofloxacin, which she was taking at the time of assessment in the day hospital.
+
+Physical examination
+ECOG 2. Haemodynamically stable and afebrile. Abdomen slightly distended, diffusely painful on palpation, both on superficial and deep palpation. Peristalsis preserved.
+
+Complementary tests
+The admission blood test showed anaemia with haemoglobin 10.9 g/dL, hypokalaemia of 3.15 meq/litre, elevated C-reactive protein of 100.4 mg/dL.
+An abdominal CT scan was performed, reporting minimal/slight thickening of the posterior wall of the cecum, non-specific. There were no other alterations that could be assessed by this method in the rest of the colon or signs of bleeding.
+Colonoscopy was performed, which revealed multiple ulcerated lesions in the ascending and transverse colon with raised edges covered with blood and fibrin, surrounded by large areas of healthy mucosa. Biopsies are taken from the ulcer edges and the base of the ulcer. It is reported as ulcerative colitis of undetermined origin.
+Pathology reports fragments of colonic mucosa with ulceration with granulation tissue and reparative changes in the adjacent epithelium. No changes suggestive of viral infection. Molecular biology results were negative for cytomegalogivus, herpes simplex virus 1 and 2, and Epstein-Barr virus.
+Blood cultures, stool culture and clostridium difficile toxin were taken, all negative.
+Quantiferon is performed which is negative.
+
+Diagnosis:
+This is a 66-year-old female patient, operated on for stage IIIC melanoma, undergoing adjuvant treatment with immunotherapy as part of a clinical trial (double-blind, nivolumab versus ipilimumab), who is admitted for grade 3 diarrhoea and rectorrhagia, with ulcerated lesions on colonoscopy, with negative microbiological diagnosis, and on pathological anatomy colonic mucosa with ulceration with granulation tissue and reparative changes in the adjacent epithelium. There were no changes suggestive of viral infection.
+In this context we interpret the picture as severe immune-mediated colitis.
+
+Treatment:
+We started treatment with high-dose corticosteroids and he received a single dose of infliximab with progressive clinical improvement, so we started to taper corticosteroids. We also suspended ciprofloxacin and indicated empirical antibiotic treatment with piperacillin-tazobactam. During admission we indicated total parenteral nutrition.
+
+Evolution:
+The patient evolves favourably, which allows us to start oral tolerance, progressively changing the treatment to the oral route. After approximately 30 days of hospitalisation, the patient was discharged.
+The patient is discharged from the clinical trial and no longer receives adjuvant treatment. On an outpatient basis, she continues with a progressive decrease in corticoids until they are definitively discontinued.
+Currently under follow-up, ECOG 0, with no evidence of oncological disease or toxicity sequelae.

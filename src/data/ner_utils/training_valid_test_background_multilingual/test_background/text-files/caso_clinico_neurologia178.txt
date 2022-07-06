@@ -1,0 +1,31 @@
+Anamnesis
+Mujer de 74 años, con antecedentes personales de mieloma múltiple que recibió trasplante de médula ósea alogénico 10 meses antes, y en tratamiento con inmunosupresores (tacrolimús, micofenolato y esteroides) desde aproximadamente 15 días antes por enfermedad injerto contra huésped.
+
+La paciente ingresa en el Servicio de Hematología por un cuadro de 24-48 horas de evolución de síndrome general, cansancio, dolores musculares generalizados, náuseas y vómitos que se ponen en relación con un cuadro respiratorio de vías altas por el que ya llevaba 7 días de tratamiento antibiótico con azitromicina. A las 24 horas de su ingreso se solicita valoración al Servicio de Neurología por presencia de debilidad en el miembro superior derecho que progresa en pocas horas hasta desarrollar una diplejia braquial.
+
+Examen físico
+Eupneica, saturación de O2 97%. Tensión arterial 125/89 mmHg. Frecuencia cardiaca 111 lpm. Auscultación pulmonar patológica con presencia de roncus y sibilancias dispersas de forma bilateral, siendo el resto de la exploración sistémica anodina. A la exploración neurológica se aprecia una paciente consciente, que conserva las funciones superiores. El lenguaje es normal. No disartria. La motricidad ocular y la campimetría por confrontación son normales y no se objetiva asimetría facial. Presenta debilidad a 1/5 a nivel de la flexión cervical. A nivel de los miembros superiores se observa una plejia del MSD y paresia a 0/5 distal y 2/5 proximal del MSI. El balance muscular en MMII es normal. No se objetivan alteraciones significativas en las diferentes modalidades sensitivas (algésica, vibratoria, artrocinética o táctil fina). Presenta una arreflexia en MMSS con reflejos osteotendinosos presentes y simétricos en los MMII. El reflejo cutáneo-plantar es flexor bilateralmente.
+
+Pruebas complementarias
+• Bioquímica, hemograma y coagulación: sin hallazgos de interés.
+• Punción lumbar: 21 leucocitos/mm3 (7% linfocitos, 93% polimorfonucleares), proteinorraquia 42,6 mg/dl, glucorraquia normal.
+• Cultivo y Gram de LCR: negativo.
+• Hemocultivos: negativos.
+• Urinocultivos: negativos.
+• Serología infecciosa en suero: VEB, CMV, VHS, Mycoplasma IgG positivo e IgM negativo. Borrelia leptospira, lúes, sarampión, criptococo, adenovirus, Coxiella, Chlamydophila pneumoniae, Influenza, Legionella, VSR negativos.
+• Virología en LCR: detección de ARN de Enterovirus 68 por PCR positivo. Detección por PCR de CMV, VHS-1, VHS-2, VZV, VEB, VHH6, VHH7 negativo.
+• Virología en suero: detección por PCR de Enterovirus positivo. Detección de CMV, VEB, adenovirus, Rhinovirus, VRS, Influenza A y B, Parainfluenza, Metapneumovirus, Bocavirus negativo.
+• TC craneal: sin presencia de hallazgos significativos.
+• RM de columna cervical (15 de noviembre): no signos de compresión ni invasión del canal raquídeo. A nivel de la médula cervical y torácica se identifica una lesión lineal hiperintensa en las secuencias potenciadas en T2 que afectan al asta anterior de la médula de forma bilateral. No se identifican captaciones patológicas.
+• RM craneal (19 de diciembre): se objetiva una hiperseñal mal definida en el margen izquierdo de la protuberancia, sin observarse otros datos de afectación parenquimatosa ni captaciones de contraste patológicas.
+• RM cervical (19 de diciembre): se observa una mejoría de las lesiones en cuanto a su extensión, delimitándose esta entre C3-C7. A este nivel se aprecian lesiones en la cara anterior de la médula que afectan a las astas anteriores de forma bilateral. Resonancia magnética cervical en secuencia STIR, cortes axial y sagital: se observa una hiperintensidad que afecta al asta anterior de la médula.
+• PESS: normalidad en la conducción central y medular para las aferencias somestésicas de ambos nervios medianos con incremento en la latencia periférica.
+
+Diagnóstico
+Mielitis infecciosa secundaria a infección por Enterovirus 68.
+
+Tratamiento
+Se comenzó tratamiento inmunosupresor con esteroides a dosis de 1 g/kg peso e inmunoglobulinas, así como antivíricos y antibióticos de amplio espectro ante la sospecha inicial de un cuadro infeccioso o parainfeccioso. A pesar de que la etiología vascular representaba una posibilidad etiopatogénica menos probable, se instauró tratamiento con antiagregantes.
+
+Evolución
+La paciente siguió empeorando clínicamente, presentando disfagia y disfonía y precisando horas más tarde traslado a la UCI para intubación orotraqueal por insuficiencia respiratoria. Durante su estancia en dicha Unidad, el déficit neurológico progresó hasta desarrollar una tetraplejia flácida arrefléxica, falleciendo un mes después en relación con múltiples complicaciones sistémicas.

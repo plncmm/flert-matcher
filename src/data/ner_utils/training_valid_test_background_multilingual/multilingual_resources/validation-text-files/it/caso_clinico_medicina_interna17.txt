@@ -1,0 +1,18 @@
+Storia clinica. Anamnesi
+Un paziente maschio di 34 anni di origine bulgara, con una storia di epatite C ed ex consumatore di cocaina 4 anni fa. Si è consultato per 5 giorni di dolore toracico pleuritico e dispnea, accompagnato da febbre (gli ultimi due giorni) e dolore all'arto inferiore sinistro. Sono state eseguite ecocardiografia doppler degli arti inferiori e TAC toracica, che hanno portato alla diagnosi di TVP negli arti inferiori, TEP bilaterale e noduli polmonari cavitati suggestivi di embolia settica come prima opzione eziologica, senza poter escludere una vasculite e meno probabilmente un processo neoplastico. Alla luce di quanto sopra, è stato deciso di ricoverarlo in terapia intensiva. Dopo la stabilizzazione clinica, è stato trasferito a Medicina Interna. Durante la sua permanenza in reparto, ha presentato un esantema pustoloso acuto generalizzato prevalentemente sul tronco e sulla MMSS associato a febbre e leucocitosi. È stato valutato insieme a dermatologia e sono stati prelevati campioni per la biopsia e la coltura.
+
+Esame fisico
+Pressione: 120/70 mmHg, frequenza cardiaca: 90 bpm, temperatura: 37.8oc, saturazione di ossigeno del 100% con maschera ventimask al 50%. Cavità orale: lesione biancastra sul lato sinistro della lingua.
+CYC: Adenopatie retroauricolari e ascellari sinistre. Torace: AC: toni ritmici senza mormorii udibili. AP: murmure vescicolare conservato. Addome: morbido, depressibile, senza masse o visceromegalia. Suoni idro-aerei positivi. Dolore alla palpazione nell'ipocondrio destro. Nessun segno di peritonismo. Estremità: aumento del perimetro delle estremità inferiori. Pulsazioni periferiche palpabili. Adenopatie inguinali bilaterali, la più grande nella zona inguinale sinistra che misura 1 cm, aderente ai piani profondi, indolore alla palpazione. Pelle: lesioni papulo-pustolose generalizzate prevalentemente sugli arti con una base eritematosa solida e alcune con croste.
+
+Test complementari
+Emocromo: Leucociti 20,6 migliaia/mcL (polimorfonucleari 86%), Hb: 12 g/dl, piastrine: 233 migliaia/mcL. VES: 120 mm. Studio di coagulazione: Attività protrombina: 61%, ATTP: 32 sec. Fibrinogeno: 874 mg/dl. Biochimica Gluc: 99 mg/dl, Urea:17 mg/d, Creatinina:0.5 mg/d, Bilirubina totale:0.5 mg/d, GOT:17 UI/L, GPT:33 UI/L, CPK:110 UI/L. Na:137 mmol/L, K:3.2 mmol/L. Ca:8.7 mmol/L, Fosforo:4.4 mmol/L, Magnesio:2.2 mmol/L. Mantoux: 0 mm di indurimento. Profilo del ferro: Fe: 8 mcg/dL, ferritina: 851 ng/ml, acido folico: 3.1 pg/ml. Autoimmunità: ANA, ANCA negativi, Complemento normale. Sierologia: HAV (-), HBV (infezione passata), HCV (positivo) con carica virale non rilevabile. HIV (-). Mycoplasma, Chlamydia, Coxiella Burnetti e Brucella Negativo. Emocoltura: positiva per S. aureus sensibile alla meticillina. Ecocardiogramma transtoracico: LVEF conservata. Nessuna alterazione nelle cavità o a livello valvolare. Nessuna effusione pericardica. Nessun dato di endocardite. Coltura della biopsia dell'adenopatia inguinale: Aerobi (-). Macchia BAAR (-). Coltura dell'espettorato indotto: BAAR (x3) Negativo.
+
+Diagnosi differenziale
+- Pustolosi esantematica acuta generalizzata.
+- Sindrome di Gianotti-Crosti o dermatite acrale papulare.
+- Dermatosi neutrofila: S. Sweet, Vasculite.
+- Risultati:- Anatomia patologica della biopsia cutanea: dermatite neutrofila, pustolosa e vasculite. Le alterazioni osservate suggeriscono una lesione papulo-pustolosa della malattia di Behçet come prima possibilità - Cultura della biopsia cutanea: aerobica. Macchia BAAR negativa.
+
+Diagnosi finale
+Dermatosi neutrofila in un paziente con malattia di Behçet.

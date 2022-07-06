@@ -1,0 +1,28 @@
+Anamnesis
+Trátase dun home de 58 anos exfumador desde fai 18 anos cun índice paquete-ano 44. Como antecedentes persoais destacan hipertensión arterial en tratamento con valsartán-hidroclorotiazida e manidipino, diabetes mellitus controlada con metformina, síndrome de apnea-hipopnea do soño tratado con CPAP e hiperuricemia controlada con alopurinol. Respecto de as intervencións quirúrgicas resaltamos un miofibroblastoma de mama esquerda extirpado en 2016.
+Historia oncológica
+En marzo de 2018 foi diagnosticado dun adenocarcinoma bronquial dereito cT4 (masa de 9 cm con infiltración esofágica, vascular e posible traqueal) cN3 (adenopatía paraaórtica de 10 mm e paratraqueal esquerda de 20 mm) M0, estadio IIIC segundo a 8a clasificación TNM do cancro de pulmón trala realización de probas complementarias (tomografía computarizada abdominopélvica e cerebral, e fibrobroncoscopia con toma de biopsias onde se objetivó un tumor excrecente na zona máis distal de traquea procedente do bronquio principal dereito que invade carina e provoca compresión extrínseca en lóbulo medio e lóbulo inferior dereito.
+A nivel molecular, presentaba expresión positiva de PD-L1 (100 %), EGFR negativo, ROS-1 negativo e sen translocación ALK.
+Tras ser comentado o caso en comité de tumores torácicos definiuse a seguinte estratexia terapéutica: quimioterapia con cisplatino e vinorelbina oral e avaliación posterior con novo TC e valoración de quimiorradioterapia concomitante a partir do terceiro ciclo.
+No día + 10 do primeiro ciclo, acode ao Servizo de Urxencias por hemoptisis importante con coágulos e deterioro agudo da función renal asociado a malestar xeral con disminución da ingesta e vómitos decidíndose ingreso en Oncología con fluidoterapia e medidas de soporte para a hemoptisis.
+Dada a gravidade da hemoptisis, suscítase iniciar tratamento con radioterapia hemostática. O día posterior ao seu inicio, presentou un deterioro brusco do estado xeral con insuficiencia respiratoria aguda (oxigenoterapia con mascarilla con reservorio ao 100 % con saturaciones de Ou2 que oscilaban entre 70 e o 85 %).
+
+Exploración física
+Durante a exploración física destaca un PS 3 e hipofonesis marcada en 2/3 hemitórax dereito.
+O paciente atópase disneico en repouso con saturaciones en torno ao 70-85 % con mascarilla con reservorio ao 100 %. Mantén adecuado control da tensión arterial.
+
+Probas complementarias
+Tralo cadro de disnea brusca solicítase gasometría arterial onde se obxectiva unha hipoxemia con presión parcial de oxigeno de 58,2 mm Hg. Ante a sospeita de derrame pleural dereito solicítase ecografía transtorácica e radiografía de tórax onde se observa unha masa hiliar dereita de gran tamaño que obstruye o bronquio principal dereito con afectación da carina e neumonitis obstructiva con gran compoñente de atelectasia.
+En analítica sanguínea apréciase un descenso do filtrado glomerular 26 (previo de 67) con elevación de cifras de creatinina 2,55 mg/dl (previas 0,9 mg/dl).
+
+Diagnóstico
+Insuficiencia respiratoria parcial secundaria a atelectasia por invasión tumoral do bronquio principal dereito e insuficiencia renal aguda en relación a nefrotoxicidad por cisplatino, con compoñente fundamentalmente prerrenal por disminución da ingesta e vómitos.
+
+Tratamento
+Nun primeiro momento, comezouse con ventilación mecánica non invasiva con FIO2 100 % IPAP 26, EPAP 11, FR 18 rpm conseguíndose saturaciones de osíxeno en torno ao 90 %. Posteriormente, debido a mala tolerancia de VMNI por vómitos, colócase mascarilla con reservorio ao 100 %. Engadíronse glucocorticoides ante a sospeita de certo grado de compoñente inflamatorio.
+Valorouse a posibilidade de realizar unha broncoscopia de face a valorar si existían opcións de terapia local da obstrucción, pero finalmente esta opción foi desestimada polos servizos correspondentes.
+
+Evolución
+Atopándose o paciente cunha situación respiratoria claramente afectada, efectuou unha expectoración hemoptoica acompañada dun material tumoral sólido de 5 cm. De forma prácticamente inmediata, produciuse unha mejoría respiratoria, deixando de precisar a mascarilla con reservorio ao 100 %, e mantendo saturaciones de oxigeno do 92-93 con lentes nasales de osíxeno a 2 lpm. Realízase nova de radiografía de tórax onde se evidencia unha clara mejoría da neumonitis obstructiva e da atelectasia.
+Esta mejoría iniciada continuou os seguintes días do ingreso, permitindo ser alta hospitalaria tras sete días de ingreso. Ao alta, o paciente atopábase eupneico sen precisar de máis oxigenoterapia e habéndose corrixido a función renal trala hidratación intravenosa. Continuouse a radioterapia hemostática dada a persistencia de hemoptisis, aínda que en moita menor cuantía.
+Acudiu na data prevista a hospital de día e administrouse o segundo ciclo con redución de dose ao 80 %, dada a toxicidade experimentada.

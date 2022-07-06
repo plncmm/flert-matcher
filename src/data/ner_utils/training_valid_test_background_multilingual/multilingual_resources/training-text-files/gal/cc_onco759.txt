@@ -1,0 +1,33 @@
+Anamnesis
+Muller de 56 anos fumadora activa ata o diagnóstico, cun consumo acumulado de tabaco de 20 paquetes-ano. En xaneiro de 2016 comeza con clínica de tos con expectoración purulenta sen febre, ortopnea ou disnea paroxística nocturna, inicialmente tratada como unha infección respiratoria con broncodilatadores e antibióticos.
+Presenta mala evolución clínica coas medidas instauradas, polo que acode a Urxencias do seu hospital de referencia o 9 de febreiro de 2018 por disnea intensa.
+Tras diagnóstico de SVCS secundario a gran masa suprahiliar dereita, sobreinfección respiratoria e insuficiencia respiratoria global con acidosis que precisa soporte ventilatorio, trasládase de forma urxente ao Servizo de Neumología do noso centro para ventilación mecánica non invasiva (VMNI), estudo da masa e tratamento específico.
+Á mañá seguinte, se contacta con Anatomía Patológica, quen biopsian o bloque adenopático supraclavicular, confirmándose histológicamente un carcinoma microcítico de pulmón.
+
+Exploración física
+TA 128/72 mm Hg. FC 120 lpm. Sat. Ou2 97 % con oxigenoterapia con VMNI con FiO2 50 %. Consciente, orientada e colaboradora. Mala perfusión periférica, con livideces e cianosis acra. Importante traballo respiratorio, con taquipnea e utilización de musculatura accesoria. Gran adenopatía supraclavicular dereita, de consistencia pétrea, fixa a planos profundos. Auscultación pulmonar con roncus dispersos e crepitantes base esquerda. Auscultación cardiaca con ruídos cardiacos rítmicos.
+Extremidades inferiores sen edemas nin signos de trombosis venosa profunda.
+
+Probas complementarias
+» Bioquímica: sodio, potasio, urea e creatinina normais, creatina quinasa 186 Ou/l, troponina I 6,1 ng/l, PCR 32,54 mg/dl.
+» Hemograma: hemoglobina 15,7 g/dl, plaquetas 252.000/mcl, leucocitos 23.000/mcl, 87 % polimorfonucleares.
+» Coagulación: taxa de protrombina 50 %.
+» Gasometría arterial basal: pO2 25,4 mm Hg, pCO2 70,7 mm Hg, SatO2 43,6 %, pH 7.287.
+» Gasometría de control con VMNI: pO2 138 mm Hg, pCO2 55,2 mm Hg, pH 7,38, exceso de bases 3,2, bicarbonato 29 mmol/l.
+» Electrocardiograma: taquicardia sinusal a 120 lpm.
+» Radiografía tórax portátil: infiltrado de aspecto alveolar na base pulmonar esquerda, con broncograma aéreo, suxestivo de consolidación pulmonar. Masa suprahiliar dereita.
+» TC de tórax: gran masa suprahiliar dereita que infiltra as estruturas mediastínicas estendéndose á beira contralateral e cara á rexión supraclavicular, con adenopatías en rango patológico infracarinales, hiliares bilaterales e axilares dereitas, todo iso suxestivo de neoplasia primaria de pulmón. Masa cavitada no lóbulo superior dereito e nódulos pulmonares en lóbulo superior esquerdo, suxestivos de metástasis. Infiltrados de aspecto alveolar con áreas de consolidación no lóbulo inferior esquerdo e língula, así como no lóbulo medio, de probable orixe inflamatorio-infeccioso agudo. Abundante circulación colateral na parede costal esquerda e perivertebral, secundaria ao colapso da vena cava inferior pola masa previamente descrita.
+» Punción-aspiración con agulla fina da lesión en rexión supraclavicular dereita: carcinoma de pulmón neuroendocrino de célula pequena (carcinoma microcítico).
+
+Diagnóstico
+Síndrome de vena cava superior secundario a carcinoma microcítico de pulmón, enfermidade extensa por afectación supraclavicular que se estende a rexión cervical e axilar.
+
+Tratamento
+Trala realización da biopsia por parte de Anatomía Patológica, se contacta con Oncología Radioterápica, quen administran un flash de radioterapia descompresiva 8 Gy sobre a lesión hiliar, e con Oncología Médica, quen, tras confirmación histológica de carcinoma microcítico de pulmón, pautan primeiro ciclo de carboplatino 4 AUC + etopósido 80 mg/m2 (a 80 % de intensidade de dose e evitando cisplatino ante mal estado xeral da paciente), de forma urxente. Dose total para unha superficie corporal de 1,5 m2: carboplatino 500 mg iv día 1 + etopósido 120 mg iv días 1, 2 e 3.
+
+Evolución
+A paciente permanece ingresada en Neumología con progresiva mejoría do estado xeral e menor dependencia da ventilación mecánica non invasiva, podéndose proceder á súa retirada, sendo dada de alta tras 14 días de ingreso hospitalario, sen precisar oxigenoterapia domiciliaria. Durante o ingreso realízase TC de cráneo, tórax e abdomen que mostra discreta redución da masa mediastínica (7 días trala instauración do tratamento).
+De forma ambulatoria, realízase PET-TC que mostra afectación ganglionar metastásica local e a distancia, así como lesión retroperitoneal hipermetabólica suxestiva de metástasis.
+A paciente acode a Consultas Externas na data correspondente ao segundo ciclo referindo disnea e tos produtiva, con leucocitosis e neutrofilia na analítica, precisando nuevamente ingreso hospitalario por insuficiencia respiratoria. Debido á sospeita de infección respiratoria de orixe nosocomial, instáurase oxigenoterapia e tratamento antibiótico de amplo espectro. Ante a mala evolución nas horas seguintes contacta con Neumología e decídese realizar ventilación mecánica non invasiva ata reevaluación radiológica da enfermidade.
+Realízase TC de tórax, abdomen e pelvis que mostra disminución do tamaño da masa mediastínica e hiliar dereita, pero como consecuencia apréciase necrosis con destrución da parede traqueal dereita, que se comunica cunha cavidad aérea de 4 cm, a cal presenta fístula a unha cavitación periférica de 5 cm. Tamén se aprecia resposta de dúas nódulos pulmonares, con cavitación e presenza de nivel hidroaéreo no seu interior. Aparición de consolidación do espazo aéreo con broncograma no lóbulo inferior dereito e múltiples nódulos centrolobulillares e patrón de árbore en brote de predominio en lóbulos inferiores, compatible cun proceso infeccioso-inflamatorio asociado.
+Dado o mal pronóstico a curto prazo polas alteracións que se presentadas na TC e o sufrimento físico da paciente malia as medidas instauradas, retírase VMNI e iníciase unha sedación paliativa, sendo finalmente exitus.

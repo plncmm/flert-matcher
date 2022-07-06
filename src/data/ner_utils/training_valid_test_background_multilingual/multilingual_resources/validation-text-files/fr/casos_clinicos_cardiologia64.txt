@@ -1,0 +1,30 @@
+ANTÉCÉDENTS, MALADIE ACTUELLE ET EXAMEN PHYSIQUE
+Un homme de 68 ans avec des antécédents d'hypertension artérielle, ex-fumeur, bronchite chronique et tuberculose pulmonaire dans sa jeunesse. Il avait été opéré deux ans auparavant pour une hernie épigastrique et un volvulus gastrique et un an auparavant pour une éventration abdominale. Deux mois plus tôt, il avait été admis en cardiologie avec un diagnostic de péricardite aiguë idiopathique possible, et une récidive de hernie pass-œsophagienne a été découverte par hasard. Son traitement habituel était le suivant : dutastéride 0,5 mg/24h, tamsulosine 0,4/24h, olmesartan 4/12h, salmétérol/fluticasone 50/500 mg/24h, diltiazem, clenbutérol et oméprazole.
+Il a été admis de manière programmée pour une chirurgie corrective de la hernie para-oesophagienne avec réduction de l'estomac hernié, fermeture des piliers diaphragmatiques, fundoplication de type Nissen et gastropexie.
+
+Dans les jours qui ont suivi l'opération, le patient s'est plaint d'une douleur thoracique irradiant vers l'épaule, accompagnée d'une dyspnée et d'une dysphagie, sans cause apparente. Le huitième jour postopératoire, l'état général s'est considérablement détérioré, avec une hypotension marquée, des douleurs thoraciques et une dyspnée intense, et l'équipe de cardiologie de garde a été prévenue.
+
+L'examen physique a montré une hypotension 90/65 mmHg, une tachycardie (120 bpm), un IY marqué à 45o, des tonalités cardiaques étouffées, des crépitants dans les bases pulmonaires, un emphysème sous-cutané du côté droit et un hémiabdomen, un œdème MMII.
+
+TESTS COMPLÉMENTAIRES
+ECG : tachycardie sinusale à 120 bpm. Axe -30o, BIRDHH. Surélévation diffuse de ST avec descente d'AVR, descente de PR avec montée d'AVR (compatible avec une péricardite aiguë).
+Radiographie du thorax : cardiomégalie significative, congestion pulmonaire. NFS : urée 110, Cr 1,78, ions normaux, CRP > 9 mg/dl, Hb 10,4, leucocytose (15300/ul, neutrophilie 88%), plaquetteopénie 67 000/ul. Coagulation normale. Marqueurs de dommages myocardiques négatifs. Cholestérol normal. Fer normal. Thyroïde normale.
+Echocardiographie urgente : épanchement péricardique circonférentiel, 30 mm, collapsus des cavités droites et tendance au collapsus du ventricule gauche, alternance des flux valvulaires avec la respiration, compatible avec une tamponnade échocardiographique.
+
+EVOLUTION
+Il a été transféré à l'unité de soins intensifs cardiovasculaires où une péricardiocentèse percutanée a été réalisée, permettant d'obtenir un abondant liquide purulent, d'envoyer les échantillons correspondants pour une analyse biochimique et microbiologique et d'initier un traitement antibiotique empirique à large spectre (méropénème + vancomycine). Compte tenu des antécédents récents de chirurgie digestive, une relation avec le processus actuel a été suspectée et un scanner thoracique a été demandé pour exclure la présence d'une fistule digestive-péricardique.
+CT scan : niveau hydro-aérique dans un épanchement péricardique sévère d'environ 3 cm circonférentiellement. Après l'administration d'un contraste oral, aucune donnée suggérant la présence d'une fistule digestive-péricardique n'a été observée. Péricardite bactérienne, pneumopéritoine, emphysème sous-cutané.
+Culture du liquide péricardique : liquide purulent, avec PMN abondants, croissance de plusieurs microorganismes : Str bêta hémolytique groupe F, Str Viridans, BGP aérobie, BGN. Taches et cultures mycobactériennes négatives. Antibiogramme : sensible à l'amoxicilline-acide clavulanique, résistant à la vancomycine).
+Échocardiogramme de contrôle : constriction péricardique, mouvement parallèle des deux feuillets péricardiques et épaississement. Bien qu'initialement, après une péricardiocentèse percutanée, il y ait eu une amélioration significative, il a été observé par la suite que l'épanchement péricardique augmentait progressivement et que les signes et symptômes d'insuffisance cardiaque persistaient, de sorte qu'une péricardiotomie subxiphoïde a été effectuée, drainant 200 cc de liquide purulent et de fibrine.
+Anatomie pathologique : péricardite chronique fibreuse avec surface interne nécro-hémorragique et purulente. Grande réaction fibroblastique et sclérose associée. Amélioration de la situation clinique et afébrile mais dans les échocardiogrammes en série a augmenté l'épanchement péricardique dans la face latérale augmentation progressive de sorte que la chirurgie cardiaque a été effectuée et le péricarde a été retiré par péricardiectomie interphrénique et le drainage de l'abcès épicardique dans la face latérale du ventricule gauche et dans l'oreillette droite.
+Culture de la capsule péricardique négative. Le Quantiferon était négatif, indiquant une probabilité minimale d'infection par M. tuberculosis.
+
+Le patient a suivi plusieurs semaines d'antibiothérapie intraveineuse (initialement : méropénème 1 g/8h, 3 semaines + vancomycine 1 jour et ensuite : imipénème 0,5 g/8h + amikacine 800 mg/24h, 2 semaines). Bonne évolution et amélioration progressive ultérieure. Au total, il a été admis pendant plus de deux mois. Actuellement, le patient est asymptomatique et mène une vie active. Dans les échocardiogrammes de contrôle, l'épanchement péricardique a complètement disparu.
+
+DIAGNOSTIC
+Récidive de la hernie paraoesophagienne après une chirurgie de type Nissen.
+Péricardite aiguë purulente, épanchement péricardique grave et tamponnade cardiaque.
+Péricardite effusive-constrictive.
+Péricardiocentèse évacuatrice et diagnostique.
+Péricardiotomie subxiphoïde.
+Péricardiectomie et drainage de l'abcès péricardique.

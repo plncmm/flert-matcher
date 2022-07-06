@@ -1,0 +1,32 @@
+Un paziente maschio di 65 anni, ex-fumatore con una storia di ipercolesterolemia, sanguinamento gastrointestinale superiore a causa di ulcera pilorica, iperuricemia, fibrillazione atriale anticoagulata e ha subito la sostituzione della valvola con protesi aortica e mitrale in metallo 3 mesi fa. È arrivato al dipartimento di emergenza del nostro ospedale con una storia di febbre fino a 39oC accompagnata da brividi (soprattutto di notte), malessere generale, confusione e vomito senza prodotti patologici. Nei giorni precedenti non aveva sintomi respiratori, di minzione o gastrointestinali associati.
+
+All'esame fisico, il paziente era in discrete condizioni generali, cosciente, disorientato nel tempo e nella persona, ma non nello spazio. La pressione sanguigna era 135/70 mmHg e la frequenza cardiaca 87 bpm. Afebrile. All'auscultazione cardiaca aveva toni aritmici leggermente tachicardici con scatti metallici. L'auscultazione polmonare ha mostrato un murmure vescicolare conservato senza altri suoni. L'esame neurologico ha rivelato un collo rigido e segni meningei positivi (Kerning e Bruzinsky); forza e sensibilità erano conservate negli arti superiori e inferiori.
+
+Con il sospetto clinico di meningite, è stato eseguito un esame del sangue completo con emoglobina 10,3 mg/dl, 6340 x103 leucociti (4920 x 103 neutrofili), 102.000 x103 piastrine, urea 45mg/dl, creatinina 1,6 mg/dl, C Reactive Protein (CRP) 221,7 mg/l e procalcitonina 1. 17 ng/ml; la TAC cranica non ha rivelato anomalie, e la puntura lombare, la cui analisi del liquido cerebrospinale (CSF) ha mostrato una conta di globuli bianchi di 1810/mm3 (95% neutrofili e 15% linfociti), proteine 612,5 mg/dl e glucosio 17,2 mg/dl.
+
+Diagnosi differenziale
+Si trattava di un caso di meningite acuta acquisita in comunità, i principali "dati guida" disponibili erano pleocitosi neutrofila, ipoglicemia e iperproteinemia. La diagnosi di meningite acuta acquisita in comunità (1) è impegnativa negli adulti anziani a causa della presentazione clinica variabile e della comorbidità associata. Le cause principali della meningite acuta acquisita in comunità sono:
+ 
+ 1. infettivo
+ - Batterica (caratterizzata da ipoglicemia, iperproteinemia e pleocitosi neutrofila) principalmente Streptococcus pneumoniae, Neisseria meningitidis o Listeria monocytogenes. Fasi iniziali della meningite dovuta a Brucella spp, Lupus o Leptospiras spp.
+ - Virale, principalmente legato a enterovirus, arbovirus, parotite, virus herpes simplex, virus varicella-zoster, virus Epstein-Barr, citomegalovirus, adenovirus e HIV.
+ - Micobatteri.
+ - Funghi, amebe.
+
+2. Linfoma del sistema nervoso centrale o carcinomatosi meningea.
+
+3. Altri: focolai infettivi parameningei (empiema cerebrale), aneurisma cerebrale, meningite chimica, fasi iniziali della meningite di Mollaret, encefalite emorragica acuta, sclerosi multipla, endocardite.
+
+4. Causa sconosciuta. La tecnica di imaging eseguita (TAC cranica) non ha mostrato segni di emorragia, né lesioni focali a livello parenchimale o meningeo, rendendo improbabile una carcinomatosi meningea, un linfoma del sistema nervoso centrale, una sclerosi multipla, un aneurisma cerebrale o un empiema epidurale.
+
+D'altra parte, l'analisi biochimica del CSF era compatibile con una meningite batterica: liquido torbido con pleocitosi prevalentemente neutrofila (1810 leucociti/mm3 con 95% di neutrofili), iperproteinorrachia (proteine superiori a 500 mg/dl) e ipoglicemia (glucosio inferiore a 45 mg/dl). Pertanto, la principale eziologia da escludere era quella infettiva con caratteristiche batteriche.
+
+Evoluzione
+All'ammissione, dato l'alto sospetto clinico, è stato iniziato un trattamento empirico per la meningite batterica in pazienti di età superiore ai 50 anni, con desametasone 10mg ogni 24h, ceftriaxone 2g ogni 12h, vancomicina 1g ogni 12h e ampicillina 2g ogni 4h per via endovenosa. Prima dell'inizio del trattamento antibiotico, sono stati prelevati campioni per la coltura e la rilevazione dell'antigene dello Streptococcus pneumoniae nel CSF, che erano negativi (sia la coltura che l'antigene), è stata eseguita la colorazione diretta di Gram, che ha rivelato cellule gram-positive sotto forma di cocchi, in catene corte e anche piccoli gruppi; e sono state fatte colture di sangue, che erano positive per Streptococcus equi subspecies ruminatorum. L'identificazione delle specie è stata effettuata direttamente dalla coltura del sangue usando la spettrometria di massa (MALDI-TOF).
+
+Dopo aver ottenuto un'emocoltura positiva (2 bottiglie su 4), l'antibiotico è stato cambiato in benzilpenicillina endovena (42 milioni di unità/giorno) per 14 giorni e successivamente cambiato in ceftriaxone endovena 2g/24h per altri 7 giorni, completando 21 giorni di antibioterapia. Le emocolture erano negative dopo 7 giorni di trattamento antibiotico.
+
+Data la batteriemia e la recente sostituzione della valvola cardiaca, l'endocardite è stata esclusa con l'ecocardiografia transtoracica e transesofagea. Non c'era ipogammaglobulinemia e nessuna prova di immunosoppressione. Lo Streptococcus equi è chiaramente legato al contatto con gli animali. A questo proposito, il paziente è stato re-interrogato e ha riferito di aver partecipato, due giorni prima dell'inizio dei sintomi, a un pellegrinaggio per una festa locale, dove ha avuto un contatto diretto con un gran numero di cavalli. L'evoluzione è stata favorevole con la scomparsa della febbre e di altri sintomi, così come la normalizzazione dei reagenti di fase acuta.
+
+Diagnosi finale
+Meningite batterica comunitaria dovuta a Streptococcus equi subsp. ruminatorum.

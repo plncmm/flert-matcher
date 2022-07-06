@@ -1,0 +1,33 @@
+Anamnesis
+Patient, 70 years old at the time of diagnosis, referred to Medical Oncology from the Breast Surgery Unit after a biopsy of an ulcerated lesion in the left breast.
+At the first Medical Oncology consultation (July 2016), the patient's personal history included hypertension for 20 years and treatment with losartan 100 mg vo c/24 hours, spironolactone 100 mg vo c/24 hours and amlodipine 10 mg vo c/24 hours. On the other hand, she reports having undergone multiple operations for basal cell carcinoma on the right wing of the nose, the last operation being in February 2016. She also denies toxic habits and drug allergies. She is independent for basic activities of daily living.
+In April 2016 she noticed an ulcerated tumour in the left breast. As it had increased in size, she decided to go to the emergency department in June 2016, from where she was referred to the breast surgery unit.
+
+Physical examination
+On examination, she was in good general condition with ECOG 1 (limited physical effort), weight: 60 kg, height: 141 cm and skin pallor. Cardiac auscultation revealed the presence of a panfocal grade II/VI systolic murmur, predominantly in the aortic focus. Examination of the lymph node chains revealed no adenopathies. Pulmonary auscultation showed no pathological findings and there was no evidence of visceromegaly in the abdomen. On the other hand, the right breast shows no alterations, but on the left breast there is an erythematous tumour of approximately 13 cm in maximum diameter, with irregular borders and ulcerated and necrotic tissue in the lower quadrant.
+
+Additional tests
+"Skin punch biopsy of the left breast (June 2016): infiltration by diffuse large cell non-Hodgkin's B lymphoma. Neoplastic cells positive for CD 20 and negative for epithelial markers and T line.
+"PET-CT scan of the chest and abdomen (July 2016): hypermetabolic lesion with high cell proliferation rate (SUVmax of 28.8) in the left breast affecting the entire gland and infiltrating the skin. Left axillary lymph node with low proliferation rate (SUVmax of 1.5), low probability of malignancy.
+"Echocardiography (July 2016): degenerative aortic and mitral pathology without haemodynamically significant valvular lesion. Good systolic function. Left ventricular ejection fraction of 56% (lower limit of normality: 55%).
+"Serology negative for hepatitis B, hepatitis C, syphilis and HIV.
+"Haemoglobin 9 mg/dl, leucocytes 11,460 mg/dl, neutrophils 6,710 mg/dl, platelets 162,000 mg/dl.
+"Biochemistry: creatinine 1.25 mg/dl, LDH 623 U/l.
+"Tumour marker: beta-2 microglobulin 7.7 mg/l (normal range: 0.10-3.00).
+
+Diagnosis
+Primary breast lymphoma.
+
+Treatment
+In July 2016, she started first-line treatment for stage I diffuse large B-cell non-Hodgkin's lymphoma of the left primary breast with R-CHOP iv chemotherapy (rituximab 560 mg, cyclophosphamide 1,100 mg, doxorubicin 74 mg, vincristine 2 mg and prednisone 89 mg) in 21-day cycles with associated granulocyte colony-stimulating factor sc for 7 days.
+After the first cycle, there was significant improvement of the left breast swelling, however, she presented with g1 asthenia according to the common terminology criteria for adverse events version 4.0 (CTCAE-v 4.0).
+After the second cycle, the patient persisted with g1 asthenia, and g1 hyporexia, g2 alopecia and g1 mucositis were added. In addition, the breast lesion continued to progressively improve and was now limited to the inner inner inner quadrant.
+When she attended the medical oncology department to assess the start of the fourth cycle of chemotherapy, the patient presented poor general condition associated with disorientation and dysarthria, so a CT scan of the skull was performed, which showed lacunar infarction in the left radial crown.
+The fourth cycle of chemotherapy was suspended and the patient was admitted to the Stroke Unit.
+
+Evolution
+She was hospitalised in the Stroke Unit for 5 days. Doppler ultrasound of the supra-aortic trunks showed no significant findings, and she was discharged with a diagnosis of acute ischaemic stroke in the territory of the left middle cerebral artery of cardioembolic origin and paroxysmal atrial fibrillation. Trazodone 100 mg vo c/24 hours at night and enoxaparin sc 60 mg c/12 hours were added to her usual medication.
+The patient had a progressive but slow clinical improvement, which prevented her from attending the Medical Oncology consultation to assess whether to continue with chemotherapy.
+A follow-up PET-CT scan was performed in October 2016, which showed a significant decrease in the size and degree of uptake of the left breast lesion, with a pathological increase in tracer uptake persisting, mainly affecting the central region and lower quadrants, with overall dimensions of approximately 8 x 2.5 x 5cm and a SUVmax of 6.3 (previous SUV 28.8). It was considered a partial metabolic response.
+She was referred to the Radiation Oncology department and, once her general condition improved, she started adjuvant radiotherapy. From 13 December to 11 January 2017, 40 Gy was administered on the left breast and residual lesion plus margin and 32 Gy on axillary lymph node areas (levels I-II-III and supraclavicular fossa) both with a fractionation of 2 Gy/day, 5 days a week, using 3DC technique with photons of 6 and 15 Mv energy.
+Finally, in February 2017, the patient returned to the medical oncology department asymptomatic, in good general condition, with no sequelae of the cerebral infarction and with the left breast lesion in very good condition and completely healed.

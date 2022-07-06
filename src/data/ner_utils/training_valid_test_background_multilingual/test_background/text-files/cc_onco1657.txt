@@ -1,0 +1,21 @@
+Anamnesis
+Varón de 20 años de edad, sin antecedentes medicoquirúrgicos de interés que acude a Urgencias por un cuadro de cefalea frontotemporal continua de dos semanas de evolución. Asocia en los últimos cuatro días diplopía, disartria y desorientación temporoespacial. No refiere fiebre ni clínica infecciosa asociada.
+
+Exploración física
+Normocoloreado, normohidratado. Tensión arterial 120/70 mm HG; frecuencia cardíaca 90 lpm. Apirético. Sin exantemas ni petequias cutáneas. Auscultación cardíaca: rítmica, sin roces ni soplos. Auscultación pulmonar: murmullo vesicular conservado. Sin ruidos sobreañadidos. Abdomen: anodino. No se observan masas testiculares. Sin adenopatías axilares, inguinales ni supraclaviculares. Exploración neurológica: consciente, desorientado en tiempo, orientado en espacio y persona. Sin rigidez de nuca ni signos meníngeos. No presenta nistagmus. Pares craneales normales. Sin alteración de la fuerza ni la sensibilidad. Reflejos osteotendinosos presentes bilaterales. Reflejo cutaneoplantar flexor bilateral. Sin dismetría. No se observa disdiadococinesia. Marcha con tendencia a lateralización.
+
+Pruebas complementarias
+• Tomografía computarizada craneal: tumoración en la región pineal. Dilatación ventricular y borramiento de surcos cerebrales.
+• Resonancia magnética cerebral: tumor de la región pineal, ocupando el receso pineal del tercer ventrículo, comprimiendo el tectum y techo del mesencéfalo, con hidrocefalia, de 3 x 2,8 x 2,6 cm. Con quistes, focos de calcificación y focos de hemorragia. El estudio de espectroscopia y perfusión está artefactado por la presencia de sangre y calcio, existiendo focos de aumento de perfusión aislados en la periferia de la lesión. Primera resonancia magnética cerebral: se objetiva un tumor de la región pineal comprimiendo el tectum y techo del mesencéfalo, con quistes, focos de calcificación y focos de hemorragia.
+• Analítica: hemograma, química y coagulación dentro de la normalidad (incluida LDH). AFP 42,75 ng/ml (0-3,4); B-HCG total 87,08 ng/ml (0-7).
+• Ecografia testicular: sin hallazgos patológicos.
+• Tomografía computarizada toracoabdominopélvica: sin hallazgos patológicos.
+
+Diagnóstico
+Se decide ingreso del paciente a cargo del Servicio de Neurocirugía. Se realiza intervención quirúrgica: craneotomía y exéresis total de la lesión, mediante un abordaje infratentorial supracerebeloso. Durante el ingreso, y en espera del resultado anatomapatológico, presenta una diabetes insípida, un hipogonadismo hipogonadotropo y un síndrome talámico que se controlan por parte del Servicio de Endocrinología. La anatomía patológica de la pieza confirma el diagnóstico de teratoma con transformación maligna. Tras la intervención, presenta normalización de marcadores tumorales (AFP 1,96 ng/ml y B-HCG 4,3 ng/ml).
+
+Tratamiento
+Con el diagnóstico de tumor germinal intracraneal tipo teratoma maligno con elevación de marcadores tumorales, se decide inicio el 12 de noviembre de 2010 de quimioterapia adyuvante con esquema BEP (bleomicina + bisplatino + VP16)5. No se realiza tratamiento con radioterapia debido a la dudosa eficacia de la misma en los tumores no seminomatosos.
+
+Evolución
+El día 18 de enero de 2011 finaliza el tratamiento adyuvante. Durante el tratamiento se realizan mediciones seriadas de alfafetoproteía y B-HCG. Actualmente se encuentra libre de enfermedad y en control en nuestro Servicio.

@@ -1,0 +1,20 @@
+Paciente varón de 49 años de edad, que consultó por haber descubierto de forma casual una disminución de la agudeza visual del ojo derecho (OD), en ausencia de otros síntomas acompañantes. No refería antecedentes sistémicos patológicos ni tratamientos tópicos o sistémicos. Fue remitido a la Unidad de Retina por sospecha de una coroidopatía serosa central (CSC) crónica para ser tratado mediante terapia fotodinámica (TFD) con Visudyne®.
+La exploración oftalmológica en aquel momento era la siguiente:
+• Agudeza visual: OD = 0,6; ojo izquierdo (OI) = 1,2 con su corrección.
+• Presión intraocular: OD = 18 mmHg, OI = 18 mmHg.
+• Segmento anterior: fáquico, medios transparentes.
+• Fondo de ojo:
+– OD: perfil macular alterado con una banda hipopigmentada formada por la cresta de un estafiloma que nacía de la zona infrapapilar y discurría hasta la fóvea.
+– OI: atrofia miópica moderada del polo posterior, con marcada atrofia peripapilar.
+• Angiografía fluoresceínica (AGF):
+– OD: rarefacción del epitelio pigmentario de la retina (EPR) en forma de herradura que coincidía con la zona anteriormente descrita del estafiloma, migración de pigmento en forma de grumos y aparición de múltiples puntos levemente hiperfluorescentes con dudosa imagen de fuga de fluoresceína.
+– OI: área macular conservada en ausencia de zonas de atrofia o escapes de fluoresceína.
+• Autofluorescencia (filtros de Spaide; Visupac, Zeiss):
+– OD: imagen en forma de herradura coincidente con el estafiloma, con un defecto de autofluorescencia en la zona foveal y grumos de hipere hipoautofluorescencia acordes con la imagen de AGF.
+– OI: zona de hiperfluorescencia peripapilar en ausencia de alteraciones maculares.
+• Tomografía de coherencia óptica spectral domain (SD-OCT) (Cirrus, Zeiss):
+– OD: desprendimiento neurosensorial (DNS) subfoveal. Orientación oblicua de la retina.
+– OI: perfil macular conservado con integridad de las capas de la retina y ausencia de fluido subretiniano (FSR).
+
+EVOLUCIÓN
+Ante la sospecha de que se tratara de una maculopatía del estafiloma, también conocida como dome shaped maculopathy (DSM), no se realizó ningún tratamiento activo y se mantuvo una actitud expectante. El paciente fue revisado anualmente y a partir del quinto año el FSR macular desapareció por completo de forma espontánea, mostrando un adelgazamiento de la coroides en la zona macular, con adelgazamiento de la capa nuclear externa y disrupción de la capa de unión de los segmentos internos y de los segmentos externos de los fotorreceptores (IS/OS). En la imagen de autofluorescencia obtenida mediante un equipo Spectralis (Heidelberg), se apreciaba una distribución del patrón de autofluorescencia idéntica a la inicialmente descrita con los filtros de Spaide. La agudeza visual era de 0,6 en el OD y de 1,2 en el OI, sin que el paciente refiriera deterioro subjetivo a lo largo de estos siete años.

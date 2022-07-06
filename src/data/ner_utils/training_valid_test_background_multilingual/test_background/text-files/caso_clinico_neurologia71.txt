@@ -1,0 +1,28 @@
+Anamnesis
+Varón de 71 años, con antecedentes de hipertensión binocular en tratamiento con cartelol 20 mg y bimatoprost 0,1 mg/ml en gotas oculares. Gonartrosis. En seguimiento por Cardiología por posible angor. En tratamiento actual con diltiazem 300 mg. Presenta síndrome prostático (biopsia negativa) con cirugía de resección prostática vía abdominal hace 4 años. Apendicectomizado en la juventud e intervenido de cataratas de ambos ojos hace 4 años. Exfumador hace 20 años. Sobrepeso. Situación basal: Rankin 0.
+El día previo a su ingreso, el paciente se encuentra completamente normal. Se acuesta sobre las 23:45 horas y alrededor de las 6:50 horas, al llamarle su esposa, encuentra que no responde, con respiración superficial y que ha presentado relajación de esfínteres. Ella intenta levantarle los brazos y los mantiene contra gravedad pero no emite ninguna palabra y no obedece a órdenes. Avisan al Servicio de Urgencias, que describe Glasgow de 8 puntos y lo traslada a Urgencias del Hospital. A su llegada se procede a intubación orotraqueal y conexión a ventilación mecánica. Ingresa en la UCI. Tras descartar proceso estructural, respiratorio y tóxico-metabólico que justifique el deterioro del nivel de consciencia, y tras comprobar que al retirar la sedación el paciente continúa con deterioro del nivel de consciencia, consultan con Neurología. Ante la sospecha de ictus del territorio vertebrobasilar, solicitamos una nueva tomografía computarizada (TC) craneal y una angio-TC de los troncos supraaórticos (TSA). Durante la monitorización en la UCI, se detecta fibrilación auricular (FA) paroxística no conocida, que finalmente se hace permanente.
+
+Examen físico
+A la exploración tras la extubación y la retirada de la sedación el paciente se encuentra somnoliento-obnubilado, responde a la llamada vigorosa. Tras estimular durante un rato el paciente está más reactivo. Emite espontáneamente quejido y lenguaje farfulleante, es capaz de colaborar en la exploración y obedecer órdenes sencillas. Presenta ptosis palpebral bilateral, logra apertura ocular con dificultad a la llamada. Tiene una desconjugación de la mirada en posición neutra. MOE: impresiona de limitación severa en todos los planos, con predominio vertical. Las pupilas son reactivas, algo asimétricas, pero estaban así al ingreso. Resto de pares craneales normales. Fuerza: moviliza las cuatro extremidades de forma simétrica, impresiona de forma global de 4/5. ROT ++. RCP flexor bilateral. Sensibilidad poco valorable, sensibilidad algésica conservada y simétrica en las cuatro extremidades.
+
+Pruebas complementarias
+• Analítica de urgencias con hemograma y coagulación normales. Bioquímica con elevación de CK-MB y pro-BNP muy leve con PCR negativa. Resto normal. Tóxicos en orina negativos. La analítica del día siguiente destaca una PCR de 13 mg/l y una leucocitosis con desviación izquierda de 14.730 leucocitos.
+• Punción lumbar: de aspecto claro y cristalino. Glucosa 68, proteína 45,8, leucocitos 2, ADA 0. Tinción de gram negativa. Cultivo: negativo.
+• Electrocardiograma: FA a 98 lpm con eje a –45 o HBAI con QRS estrecho.
+• Radiografía de tórax: sin hallazgos patológicos.
+• TC de cráneo en urgencias: escasas lesiones focales en la sustancia blanca subcortical por isquemia/hipoperfusión crónica. Resto normal.
+• TC y angio-TC de TSA: lesiones hipodensas en ambos tálamos mediales, difícilmente detectables en la TC previa. Sin stop en la arteria basilar.
+• RM cerebral: se observan dos lesiones de morfología redondeada en la región anterior de ambos tálamos e hipotálamos, hiperintensas en secuencias T2 y FLAIR T2, que restringen en difusión, compatibles con lesiones isquémicas agudas. No producen efecto de masa significativo ni desplazamiento de las estructuras de la línea media. El estudio venoso es normal y demuestra permeabilidad de senos y venas profundas. Escasas lesiones focales en la sustancia blanca subcortical de ambos hemisferios de probable origen vascular y sin significación clínica. Corte coronal de la resonancia magnética cerebral en T2 donde se aprecia una lesión talámica medial bilateral y afectación del mesencéfalo. Corte sagital de la resonancia magnética cerebral en difusión que resalta la lesión isquémica aguda.
+• Ecocardio: HVI concéntrica leve. FEVI conservada. Dilatación leve de la AI (35 mm).
+• Urocultivo: negativo.
+• Hemcultivos negativos a los 5 días.
+• Serologías: VHS tipo I y II, CMV y VEB negativas.
+
+Diagnóstico
+Ictus isquémico del territorio vertebrobasilar en el territorio de la arteria de Percheron de origen cardioembólico. Infarto talámico-hipotalámico medial bilateral. ACxFA crónica.
+
+Tratamiento
+Dieta de fácil masticación. Digoxina 1 comp./24 horas excepto los domingos. Ranitidina 300 mg/24 h. Bimatoprost 0,1 mg/ml 1 gota cada 12 horas en ambos ojos. Atorvastatina 40 mg 1 comp./24 h en la cena. Acenocumarol según pauta de Hematología. Risperidona solución 0,5 ml a las 23 horas si agitación.
+
+Evolución
+El paciente al alta está vigil, tiene limitación compleja de la mirada conjugada que ha mejorado desde el ingreso, persiste en afasia motora y con importante deterioro cognitivo de perfil frontal y presencia de alteraciones conductuales. Logra sedestación estable y con dificultad bipedestación. La marcha es dificultosa. Durante el ingreso iniciamos anticoagulación con acenocumarol por AcxFA persistente y al alta el paciente es dependiente para todas las actividades de la vida diaria. Rankin 5 y NIHSS de 9 puntos.

@@ -1,0 +1,14 @@
+Anamnesis
+Un varón de 73 años con antecedentes personales de carcinoma basocelular nasal extirpado cinco años antes consultó por una erupción en región facial de pocas semanas de evolución, asintomática. Fue tratado con doxiciclina 100mg vía oral cada 24 horas y metronidazol tópico cada 12 horas durante dos meses, sin ninguna mejoría, por lo que en la cita de revisión a los dos meses se decidió ampliar el estudio.
+
+Exploración física
+El paciente presentaba lesiones papulares milimétricas eritematosas en nariz y ambas mejillas, además de la cicatriz de extirpación previa. En la dermatoscopia se observaba un patrón inespecífico sobre un fondo levemente eritematoso, con algunos vasos telangiectáticos gruesos rodeando estructuras amarillentas sin apreciarse datos que ayudaran a orientar el diagnóstico.
+
+Exploraciones complementarias
+La biopsia cutánea reveló la presencia de infiltrados nodulares perifoliculares con rasgos histopatológicos e inmunofenotípicos compatibles con leucemia linfática crónica (LLC) / linfoma linfocítico de célula pequeña (CD20+, CD5+, CD23+, CD43+, bcl2+; CD3-, CD10-, ciclina D1-). En la analítica destacaba una leucocitosis (13800/ μL) con linfocitosis (9600 /μL) en sangre periférica; la bioquímica con perfil hepático y renal, así como la coagulación fueron normales. Se realizó una citometría de flujo, que evidenció una población clonal B en médula ósea con inmunofenotipo de leucemia linfática crónica, confirmando el diagnóstico. Se realizó un estudio de extensión mediante un TC cervico-toraco-abdomino-pélvico y una biopsia de médula ósea sin hallazgos patológicos.
+
+Diagnóstico: Leucemia linfática crónica (estadio 0 de Rai, A de Binet), con leucemia cutis como única manifestación.
+
+Tratamiento: El paciente fue tratado con corticoides tópicos y sistémicos (deflazacort 30mg vía oral en pauta descendente durante 3 meses e hidrocortisona tópica cada 12 horas durante un mes).
+
+Evolución: A los tres meses desaparecieron las lesiones. Después de dos años, el paciente continúa en seguimiento clínico, con linfocitosis mantenida y sin afectación sistémica.

@@ -1,0 +1,31 @@
+Anamnesi
+Una donna di 44 anni è stata consultata per mal di testa e febbre di 2 settimane di evoluzione. La sua unica storia personale di interesse è stata 5 anni fa, quando ha presentato un carcinoma duttale mammario infiltrante ormono-dipendente, stadio pT2N0M0, che è stato trattato con una lumpectomia, radioterapia, chemioterapia e terapia ormonale, e che da allora è in remissione completa. Come storia familiare rilevante, ha vissuto con una sorella che ha sofferto di tubercolosi polmonare trattata 26 anni fa. Continua il trattamento con triptorelina (analogo del GnRH) ed exemestane (inibitore dell'aromatasi). La storia attuale è iniziata 2 settimane prima che la paziente arrivasse al dipartimento di emergenza, quando ha iniziato con una febbre di basso grado che si è trasformata in una febbre fino a 39,5oC negli ultimi giorni, associata a cefalea oppressiva, prevalentemente nelle regioni occipitale e cervicale, anche se con estensione olocranica, che è andata progredendo in intensità in modo che nella valutazione iniziale ha presentato un punteggio VAS di 7/10, e che non è migliorata con il trattamento analgesico convenzionale. Ha anche presentato nausea e un po' di vomito del contenuto del cibo. Nega qualsiasi sintomo suggestivo di focalità neurologica, così come qualsiasi altro sintomo sistemico nell'anamnesi per apparato.
+
+Esame fisico
+Esame fisico generale: temperatura 38,9 oC, pressione sanguigna 130/80 mmHg, frequenza cardiaca 120 bpm. Nessun'altra alterazione di interesse. Esame neurologico: leggera rigidità nucale, con segni di Kernig e Brudzinski negativi. Il resto era normale.
+
+Test complementari
+- Nell'ED, sono stati eseguiti studi analitici (biochimica di base, emogramma, studio della coagulazione) che non hanno mostrato alterazioni tranne i livelli di LDH di 201 IU/l, con CRP < 0,3 mg/dl e procalcitonina 0,069 ng/ml.
+- La tomografia computerizzata (CT) del cranio era normale, così come la radiografia del torace e l'esame sistemico delle urine.
+- Una puntura lombare è stata eseguita con una pressione di apertura di 300 mm H2O, nessun blocco e liquido cerebrospinale chiaro. Il risultato dello studio citobiochimico fu di 50 leucociti/mm3 (15% polimorfonucleati, 85% mononucleati), 0 globuli rossi/mm3, glucosio 21 mg/dl (glicemia capillare 133 mg/dl), proteine 1,26 g/l.
+- Il resto dello studio è stato ottenuto durante tutto il ricovero del paziente, di cui il più rilevante era la coltura CSF positiva per il complesso di Mycobacterium tuberculosis sensibile a streptomicina, etambutolo, pirazinamide, isoniazide e rifampicina.
+- Interferone gamma CSF: 166 pg/ml.
+- PCR per micobatteri, HSV ed enterovirus nel CSF: negativo.
+- Coltura del CSF per i batteri: negativo.
+- Citologia del CSF negativa per le cellule maligne.
+- Sierologia del CSF per lupus, Borrelia, Brucella e Cryptococcus neoformans: negativa.
+- Macchie di fluorescenza e colture micobatteriche nell'espettorato e nelle urine: negative.
+- Sierologia nel siero/plasma per HIV, HCV, HBV, sifilide, Brucella, Toxoplasma: negativo.
+- Test di Mantoux: negativo.
+- Risonanza magnetica cranica (MRI) con contrasto endovenoso: uptake leptomeningeo a livello di entrambi gli emisferi cerebrali e strutture della fossa posteriore. Fetta assiale della sequenza FLAIR con risonanza magnetica a contrasto endovenoso che mostra l'assorbimento leptomeningeo a livello del tronco encefalico.
+- TAC toraco-addominale-pelvica: nessun segno di recidiva linfonodale o di diffusione a distanza della sua neoplasia mammaria.
+- Marcatori tumorali: normali.
+
+Diagnosi
+Meningite tubercolare.
+
+Trattamento
+Inizialmente, dato il quadro della meningite con pleocitosi a predominanza di linfociti, ipoglicorrea e iperproteinorrea a insorgenza subacuta, è stato iniziato un trattamento antimicrobico empirico con ampicillina (2 g/4 h per via endovenosa), aciclovir 10 mg/kg/8 h per via endovenosa), ceftriaxone (2 g/12 h per via endovenosa) e tubercolostatici orali, oltre a desametasone (8 mg/6 h per via endovenosa). Dopo aver escluso altre eziologie infettive (virali e batteriche), oltre al tumore (carcinomatosi meningea) e all'infiammazione non infettiva, è stato mantenuto solo in trattamento antitubercolare: isoniazide 300 mg/24 h (insieme a piridossina 300 mg/settimana), rifampicina 600 mg/24 h, pirazinamide 2 g/24 h e levofloxacin 500 mg/12 h.
+
+Evoluzione
+La paziente ha mostrato un miglioramento progressivo fino ad essere asintomatica e afebrile 10 giorni dopo aver iniziato il trattamento. Come effetto collaterale farmacologico, ha presentato un'epatopatia progressiva asintomatica con un profilo citolitico, con valori di GOT e GPT fino a 141 e 208 IU/l, rispettivamente, 15 giorni dopo aver iniziato il trattamento, rendendo necessaria la sostituzione di isoniazide, rifampicina e pirazinamide con un trattamento antitubercolare di seconda linea (linezolid, etambutolo e amikacina, oltre alla levofloxacina). Data la buona evoluzione del profilo epatico, il trattamento farmacologico è stato progressivamente cambiato, così che è stata dimessa dall'ospedale con isoniazide, rifampicina e levofloxacina per altri 2 mesi e poi isoniazide e rifampicina per altri 9 mesi. Al successivo follow-up ambulatoriale il paziente è rimasto asintomatico e non ha presentato ulteriori complicazioni.

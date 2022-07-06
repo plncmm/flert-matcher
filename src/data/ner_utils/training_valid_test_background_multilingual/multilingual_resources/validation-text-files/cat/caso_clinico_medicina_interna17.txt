@@ -1,0 +1,18 @@
+Història clínica. Anamnesi
+Pacient home de 34 anys d'origen búlgar, amb antecedents d'hepatitis C i ex- consumidor de cocaïna fa 4 anys. Va consultar per un quadre de 5 dies d'evolució de dolor toràcic de característiques pleurítiques i dispnea, acompanyat de febre (els dos últims dies) i dolor en membre inferior esquerre. Es van realitzar eco-doppler de membres inferiors i TAC toràcic que van aportar els diagnòstics de TVP en MII, TEP bilateral i nòduls pulmonars cavitados suggeridors d'embolisme sèptic com a primera opció etiològica sense poder descartar vasculitis i menys probable procés neoplàsic. Amb tot l'anterior es va decidir ingrés en UCI. Després de l'estabilització clínica va passar a càrrec de Medicina Interna. Durant la seva estada en planta, va presentar un exantema agut generalitzat de tipus pustulós de predomini en tronc i MMSS associat a febre i leucocitosis. Valorat de manera conjunta amb dermatologia es van prendre mostres per a biòpsia i cultiu.
+
+Exploració física
+TA: 120/70 mmHg, FC: 90 lpm, Temperatura: 37,8oc, Saturació d'Oxigen del 100% amb màscara ventimask al 50%. Cavitat Bucal: Lesió blanquinosa en cara lateral esquerra de la llengua.
+CYC: Adenopaties retroauriculares esquerres i axil·lars. Tòrax: AC: Tons rítmics sense soplos audibles. AP: Murmuri vesicular conservat. Abdomen: tou, depresible, no masses ni visceromegalias. Sorolls hidroaéreos positius. Dolor a la palpació en hipocondrio dret. No signes de peritonismo. Extremitats: augment de perímetre de MII. Polsos perifèrics palpables. Adenopaties inguinals bilaterals, la de major grandària en zona inguinal esquerra d'1 cm, adherida a plans profunds, sense dolor a la palpació. Pell: lesions papulo-pustuloses generalitzades de predomini en membres amb fons eritematós de consistència ferma i algunes amb crosta.
+
+Proves complementàries
+Hemograma: Leucòcits 20.6 milers/mcL (Polimorfonucleares 86%), Hb: 12 g/dl, plaquetes: 233 milers/mcL. VSG: 120 mm. Estudi de Coagulació: Activitat de protrombina: 61%, ATTP: 32 seg. Fibrinogen: 874 mg/dl. Bioquímica Gluc: 99 mg/dl, Urea:17 mg/d, Creatinina:0.5 mg/d, Bilirubina Total :0.5 mg/d, GOT:17 UI/L, GPT:33 UI/L, CPK:110 UI/L. Na:137 mmol/L, K:3.2 mmol/L. Ca:8.7 mmol/L, Fòsfor:4.4 mmol/L, Magnesi:2.2 mmol/L. Mantoux: 0 mm d'induració. Perfil Fèrric: Fe: 8 mcg/dl, Ferritina: 851 ng/ml, Àcid Fòlic: 3.1 pg/ml. autoimmunitat: ANA, ANCA negatius, Complement normal. Serologia: VHA (-), VHB (infecció passada), VHC (positiu) amb càrrega viral indetectable. VIH (-). Mycoplasma, Chlamydia, Coxiella Burnetti i Brucella Negatius. Hemocultivo: positiu per a S. aureus Meticilina sensible. Ecocardiograma Transtorácico: FEVI conservada. No s'objectiven alteracions en cavitats ni a nivell valvular. No vessi pericardíac. No dades de endocarditis. Conreo biòpsia adenopatia inguinal: Aerobis (-). Tinció BAAR (-). Cultiu d'esput induït: BAAR (x3) Negatiu.
+
+Diagnòstic diferencial
+· Pustulosis exantemàtica aguda generalitzada.
+· Síndrome de Gianotti-Crosti o dermatitis papular acral.
+· Dermatosis Neutrofílica: S. Sweet, Vasculitis.
+· Resultats:- Anatomia Patològica de Biòpsia Cutània: Dermatitis i Vasculitis Neutrofílica, Pustulosa. Les alteracions observades suggereixen una lesió pápulo- pustulosa de la malaltia de Behçet com a primera possibilitat.- Cultiu de biòpsia cutània: Aerobi. Tinció de BAAR negatiu.
+
+Diagnòstic final
+Dermatosis Neutrofílica en pacient amb Malaltia de Behçet.

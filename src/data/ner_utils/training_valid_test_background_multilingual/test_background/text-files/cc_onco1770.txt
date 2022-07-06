@@ -1,0 +1,23 @@
+Anamnesis
+Varón de 62 años de edad, exfumador y exenol, sin alergias medicamentosas conocidas ni antecedentes oncológicos familiares. Antecedentes personales de hipertensión arterial y dislipemia. Consulta al Servicio de Urgencias por clínica de un mes de evolución de disnea progresiva hasta hacerse de mínimos esfuerzos y síndrome constitucional con pérdida de 7 kg de peso.
+
+Exploración física
+El paciente presenta aceptable estado general, con un índice de Karnofsky del 80%. No se palpan adenopatías laterocervicales ni supraclaviculares. En la auscultación cardiopulmonar, presenta hipofonesis bibasal. En la exploración abdominal, presenta dolor a la palpación superficial y profunda a nivel epigástrico. El resto de la exploración es normal.
+
+Pruebas complementarias
+• Analítica sanguínea: hemoglobina 11,6 g/dl. Resto del hemograma y de la bioquímica sin alteraciones.
+• Marcadores tumorales: CEA 2 ug/l; Ca-19.9 77,7 KUI/l.
+• Radiografía de tórax: derrame pleural bilateral.
+• Citología del líquido pleural: compatible con exudado. Negativa para células malignas.
+• Tomografía computarizada toracoabdominal: se objetiva un engrosamiento de los pliegues a nivel del cuerpo gástrico, de aspecto mamelonado. Múltiples adenopatías en ligamento gastrohepático, hepatoduodenal y paraaórticas, la mayor de 2 cm, todas ellas sugestivas de malignidad. Patrón nodular a nivel del peritoneo en la pelvis, probables implantes peritoneales en relación con carcinomatosis peritoneal. Severo derrame pleural bilateral con atelectasia pasiva de ambos lóbulos inferiores.
+• Fibrogastroscopia: gran masa a nivel de la cara anterior de cuerpo gástrico.
+• Biopsia gástrica: adenocarcinoma infiltrante.
+• Biopsia pleural: adenocarcinoma infiltrante Her-2 positivo (inmunohistoquímica 3+).
+• Ecocardiograma: cardiopatía hipertensiva. Fracción de eyección del ventrículo izquierdo 55%.
+
+Diagnóstico
+Dadas las exploraciones realizadas, se llega al diagnóstico de adenocarcinoma gástrico Her-2 positivo, estadio IV, con afectación pleural y peritoneal.
+
+Tratamiento y evolución
+En diciembre de 2009 inicia quimioterapia esquema cisplatino 75 mg/m2 + capecitabina 1.000 mg/m2 + trastuzumab 6 mg/kg trisemanal. Tras tres ciclos de tratamiento, se realiza una tomografía computarizada de valoración de respuesta, observándose estabilización de la enfermedad a nivel gástrico y pleural con respuesta parcial adenopática perigástrica y retroperitoneal, completando hasta seis ciclos de tratamiento. En mayo de 2010, presenta respuesta parcial mantenida y beneficio clínico, con negativización de marcadores (Ca-19.9 9,81 KUI/l), por lo que inicia tratamiento de mantenimiento con trastuzumab. En octubre de 2010, presenta un empeoramiento de su disnea basal, con enfermedad radiológica estable, por lo que introduce capecitabina y se mantiene trastuzumab, dado el beneficio clínico inicial. En febrero de 2011, el paciente presenta un episodio de toxicidad gastrointestinal en forma de náuseas y vómitos grado 2-3 y síndrome mano-pie grado 3, finalizando el tratamiento con capecitabina, manteniéndose el trastuzumab. En marzo de 2011, acude a Urgencias por presentar un discreto empeoramiento de empeoramiento de su disnea habitual, siendo esta de reposo y presentando, en la radiología convencional de tórax, la aparición de un patrón reticulonodulillar bilateral, por lo que se decide su ingreso para finalizar el estudio y valorar el tratamiento. Durante el ingreso se realiza una ventriculografía y una tomografía computarizada torácica. Ventriculografía: fracción de eyección del ventrículo izquierdo del 54%. Tomografía computarizada torácica: se observa un patrón reticulonodulillar bilateral altamente sugestivo de linfangitis carcinomatosa.
+Dada la franca progresión de la enfermedad, el paciente se encuentra actualmente en tratamiento con quimioterapia esquema docetaxel, del cual se han administrado hasta el momento dos ciclos, pendiente de revaloración.

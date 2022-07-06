@@ -1,0 +1,24 @@
+Anamnesis
+Muller de 47 anos alérgica ao yodo, fumadora social, intervinda/intervida de varices, dous cesáreas e un absceso glúteo. Sen outros antecedentes médicos de interese nin tratamento habitual. Vive co seu marido e tres fillos, traballa como profesora.
+A raíz de anemia ferropénica dun ano de evolución que non mellora malia ferroterapia oral realízase colonoscopia en xaneiro/2017. Nela vese unha neoformación a 60 cm da marxe anal con biopsia positiva para adenocarcinoma. Complétase estudo mediante TC corporal e RM hepática que pon de manifesto a presenza de, polo menos, catro metástasis hepáticas en ambos lóbulos, a maior delas de 15 mm de diámetro.
+
+Ante os resultados, decídese inicialmente abordaje quirúrgico do primario e, en función de achados intraoperatorios, realizar tamén intervención sobre metástasis hepáticas. En febreiro/2017 realízase unha sigmoidectomía laparoscópica con ecografía intraoperatoria, onde se observan múltiples metástasis hepáticas; polo menos 3 en lóbulo hepático esquerdo e 5 de pequeno tamaño no dereito, polo que non se actúa sobre elas. O estudo anatomopatológico da peza quirúrgica confirma adenocarcinoma de colon (pT3), con metástasis en 5 dos 30 ganglios resecados (pN2a); sen perda de expresión de proteínas reparadoras e con mutación no exón 2 de KRAS.
+Trala cirugía, preséntase o caso en sesión multidisciplinar, decidíndose tratamento quimioterápico perioperatorio e valorar resección das metástasis hepáticas en función da resposta. En marzo/2017 comeza tratamento con XELOX que recibe durante 4 ciclos. Na TC e RM de reevaluación obsérvase progresión hepática, polo que se instaura 2a liña con FOLFIRI-aflibercept. Tras 6 ciclos obsérvase resposta serológica e radiológica polo que, en novembro/2017, realízase metastasectomía das lesións hepáticas. Inicialmente presenta boa evolución, pero, ao 2ou día postoperatorio, comeza con inestabilidade hemodinámica.
+
+Exploración física
+No momento da nosa valoración na planta de Cirugía Xeral, a paciente presenta TA 69/40 mm Hg, frecuencia cardiaca 120 lpm, taquipnea en repouso, palidez mucocutánea, mala perfusión distal e aqueja náuseas. O abdomen é brando, non presenta peritonismo e o débito do drenaje abdominal permanece sen cambios.
+
+Probas complementarias
+Solicítase TC urxente na que non se ven complicaciones postquirúrgicas agudas, pero se obxectiva derrame pericárdico de moderada cuantía que, en ecografía transtorácica, condiciona taponamiento cardiaco. Realízase pericardiocentesis con evacuación de 380 ml de líquido serohemático con características de exudado (pH < 7,2, LDH, proteínas e colesterol altos, glucosa baixa) e con gran cantidade de hematíes e leucocitos (90 % polimorfonucleares). Evoluciona favorablemente, pero ao mes vólvese a reproducirse o derrame, esta vez ademais con derrame pleural asociado. Require, nesta ocasión, nova pericardiocentesis e realización de fiestra pleuropericárdica. As troponinas en todo momento foron normais.
+Debido ao inusual do cadro, cun líquido pericárdico negativo para células malignas, completouse estudo con numerosas probas. O estudo inmunológico con anticorpos antinucleares, factor reumatoide e complemento foron normais. Ademais, descartouse a presenza de marcadores suxestivos de linfoma no líquido pericárdico. As serologías de Coxiella burnetii, Bartonella henselae, Borrelia burgdorferi, Entamoeba histolytica, Toxoplasma gondii, virus herpes simplex 1 e 2, citomegalovirus, virus de Epstein Barr, virus varicela zoster e parvovirus B19 foron negativas. Con todo, detectouse test de rosa de Bengala positivo para Brucella, o test de Coombs e as aglutinaciones tamén foron positivas cun título 1/40.
+
+Diagnóstico
+Neste contexto, establécese o diagnóstico de derrame pericárdico secundario a brucelosis en paciente con antecedente de adenocarcinoma de colon pT3 pN2a pM1 (hepáticas), con mutación en exón 2 de KRAS.
+
+Tratamento
+Con devanditos achados, comeza tratamento dirixido con doxiciclina e hidroxicloroquina, debendo suspender a hidroxicloroquina ao terceiro mes por alteración de probas de función hepática.
+
+Evolución
+Tras 6 meses de tratamento alcanza negativización serológica (título 1/20) e o derrame pericárdico non se volve a repetir.
+Respecto de a enfermidade oncológica, continúa seguimiento sen evidencia de enfermidade ata xullo/2018 que se documenta recaída hepática e ganglionar. Retómase tratamento con FOLFIRI-aflibercept do que recibiu ata o momento 18 ciclos con trombopenia grado 2 como única toxicidade. En última PET de marzo/2019, a enfermidade está estable.
+A paciente mantén ECOG 0, ten unha vida activa, continúa dando clases de inglés aos seus alumnos e viaxa unha vez ao ano a Australia onde vive a súa familia adoptiva.

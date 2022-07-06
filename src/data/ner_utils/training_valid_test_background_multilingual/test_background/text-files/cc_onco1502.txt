@@ -1,0 +1,27 @@
+Anamnesis
+Varón de 67 años de edad, con los siguientes antecedentes personales: hipertensión arterial, fibrilación auricular, insuficiencia cardíaca, insuficiencia mitral leve, infartos cerebrales múltiples con epilepsia vascular secundaria y hemiparesia derecha residual leve. Sin alergias medicamentosas conocidas y en tratamiento con anticoagulación oral y antihipertensivos.
+En febrero de 2008 consulta por disnea y tos seca persistente, osbservándose en una radiografía de tórax una atelectasia pulmonar de lóbulo inferior izquierdo. Se ingresa en el Servicio de Neumología para estudio.
+
+Exploración física
+Buen estado general, PS 0, índice de Karnofsky 100%. Prefrágil, por la comorbilidad referida, independiente (índice de Katz < 2). En la auscultación cardiorrespiratoria: destaca una frecuencia cardíaca de 98 lpm, arrítmica y una disminución del murmullo vesicular en campo medio y base pulmonar izquierda.
+
+Pruebas complementarias
+• Hemograma, bioquímica y coagulación: sin alteraciones destacables.
+• Broncoscopia: masa de contornos irregulares muy vascularizada que ocluye en su totalidad el lóbulo inferior izquierdo con sangrado al mínimo roce.
+• Anatomía patológica de la biopsia bronquial: carcinoma adenoide quístico.
+• Perfil inmunohistoquímico: positividad para citoqueratina AE1/AE3, P-63, S-100 y actina del músculo liso. No se detecta positividad para PAGF.
+• RM de tórax: presencia de atelectasia posterior del lóbulo inferior izquierdo con margen cóncavo sugestivo de masa subyacente de aproximadamente 57 x 47 mm parahiliar posterior y paravertebral izquierda con cambios quísticos intralesionales. Sin adenopatías de tamaño significativo.
+• TC de tórax: masa de tejidos blandos que mide aproximadamente 6 cm con densidad heterogénea e imágenes hipodensas en su interior que no infiltra aorta descendente ni otros órganos de la vecindad.
+• TC abdominal: sin hallazgos significativos.
+• PET: aumento de actividad a nivel del lóbulo inferior izquierdo de pulmón izquierdo con áreas acompañantes de neumonitis y/o atelectasia (SUV 4,76) sugestivo de neoplasia pulmonar; resto del estudio negativo para malignidad.
+
+Diagnóstico
+Carcinoma adenoide quístico de pulmón localizado.
+
+Tratamiento y evolución
+Valorado el paciente en el Comité de Tumores Torácicos, se decide tratamiento quirúrgico radical mediante lobectomía inferior izquierda y linfadenectomía completa. Con resultado histológico de carcinoma adenoide quístico que infiltra la pleura mediastínica ( pT3) sin metastásis ganglionares (pN0). Bordes libres.
+Tras un postoperatorio sin incidencias, el paciente es valorado en Consultas de Oncología Médica, donde inicia revisiones, ya que en este momento no está indicada ninguna otra terapia adyuvante.
+En junio de 2010 el paciente presenta una crisis convulsiva generalizada, motivo por el que precisa ingreso hospitalario. En el estudio complementario con TC craneal y RM craneal, se observa una lesión ocupante de espacio paraventricular izquierda con características radiológicas de meningioma. Se deriva al Servicio de Neurocirugía para filiar dicha lesión. Finalmente, es intervenido quirúrgicamente, presentado nuevo episodio de ictus hemorrágico intraoperatorio lo que motiva una cirugía incompleta. La anatomía patológica confirma la existencia de metástasis de carcinoma adenoide quístico.
+El paciente es valorado en el Servicio de Radioterapia al tratarse de cirugía incompleta donde desestiman la administración de radioterapia holocraneal dada la comorbilidad previa y secuelas (disfasia y hemiparesia derecha. Inicia nuevamente revisiones en el Servicio de Oncología Médica sin evidencia de recidiva y sin deterioro clínico hasta junio de 2011 cuando se detecta en un control radiológico la aparición de una nueva lesión metastásica occipital izquierda.
+Con estos hallazgos y habiéndose descartado enfermedad tumoral a otro nivel es derivado al Servicio de Radioterapia donde recibe tratamiento con radiocirugía, administrándose una dosis total de 20 Gy con buena tolerancia y sin presentar complicaciones.
+En el momento actual el paciente continúa en revisiones con estabilización de enfermedad y sin cambios clínicos.

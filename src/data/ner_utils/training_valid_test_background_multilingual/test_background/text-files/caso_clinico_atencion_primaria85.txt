@@ -1,0 +1,39 @@
+Motivo de consulta
+Paciente de 61 años que acude a consulta de primaria por malestar, el paciente ha perdido mucho peso y refiere no encontrarse bien, ha dejado de ponerse insulina ya que estaba ―harto‖ de pincharse, si continuaba tomando los antidiabéticos orales. En ella se detecta TAS˃160 y TAD˃100, se le recomienda realizar AMPA y analítica.
+
+Enfoque individual (anamnesis, exploración, pruebas complementarias)
+Anamnesis: paciente de 61 años, con AP de HTA, DM2, Psoriasis, AIT, IAM inferior 2014, exfumador de 2 paquetes/diario y apendicectomizado, que acude por encontrarse mal desde hace dos semanas con un cansancio extremo, ha dejado de ponerse la insulina y ha vuelto a fumar.
+
+Exploración: Se detecta HTA con cifras superiores a 160/100 y glucemia capilar 320, la auscultación cardiopulmonar es anodina, existen signos de deshidratación, alteraciones tróficas en la piel. Se le recomienda realizar AMPA y analítica y volver al tratamiento previo.
+
+Seguimiento: Tras AMPA, se observan valores superiores a 160/100, una hemoglobina glicosilada de 15%, una hipopotasemia 2,6 y una creatinina en 2, por lo que se le pide analítica un poco más específica con aldosterona y renina plasmática y TAC abdominal. Índice tobillo brazo.
+
+Pruebas complementarias:
+Analíticas: Hb glicosilada 15%, K bajo (2,3). Creatinina 2.
+Aldosterona 333, Renina ˂0,3.
+Cociente aldosterona/actividad renina plasmática elevado.
+TAC abdomen: Hiperplasia nodular adrenal bilateral. Ambos riñones con múltiples quistes intraparenquimatoso y corticales, imágenes hipercaptantes en médula renal bilateral en relación con nefrocalcinosis medular, litiasis renal bilateral sin dilatación de vía excretora.
+TA brazo derecho 180/80, pie 180 índice tobillo brazo 1. TA brazo izdo. 160/80, pie 140, Índice T/B 0,8.
+
+Enfoque familiar y comunitario
+Es una familia nuclear sin parientes cercanos ya que se trasladaron a Andalucía, se han quedado recientemente en nido vacío ya que su hijo se ha ido a vivir solo, aunque éste está pendiente de sus padres. Es una persona muy trabajadora y cumplidora que no quiere faltar al trabajo para acudir al médico, ni siquiera cuando tuvo el infarto de miocardio y el ictus. Facilitar desde las empresas y desde la consulta con flexibilidad el control de estos enfermos.
+
+Juicio Clínico
+Lista de Problemas: HTA secundaria a filiar causa, Hipopotasemia, DM 2.
+
+Diagnóstico Diferencial
+Causas más frecuentes de origen renal: enfermedad renal parenquimatosa, HTA renovascular.
+Causas más frecuentes de origen endocrinológico: hiperaldosteronismo primario, hipercortisolismo, feocromocitoma, hipertiroidismo, hipotiroidismo, hiperparatiroidismo, acromegalia.
+Otras causas: síndrome de apnea-hipopnea del sueño, Coartación de aorta, HTA inducida por fármacos.
+
+Plan de acción y evolución
+Añadir al estudio y control en nuestra consulta el estudio hospitalario, con la realización de pruebas específicas por la posibilidad de una hipertensión secundaria en particular de un hiperaldosteronismo primario idiopático y de una insuficiencia renal grado 3. Se ingresa en hospital para dicho estudio.
+Cateterismo adrenal bilateral para determinar aldosterona con estímulo mediante perfusión continua de ACTH:
+Vena cava inferior: Cortisol 38,1; Aldosterona 70000.
+Suprarrenal Derecha: Cortisol 41.7; Aldosterona 1480.
+Suprarrenal Izquierda: Cortisol 1375,4; Aldosterona ˃500000.
+La suprarrenal derecha no se ha podido canalizar bien.
+Gammagrafía renal con Iodocolesterol a las 72h y a las 96h hay un acúmulo focal de moderada intensidad en ambas glándulas suprarrenales, levemente más intensa en derecha compatible con hiperplasia suprarrenal bilateral de la zona glomerular causante del hiperaldosteronismo.
+
+Evolución
+Favorable al volver a su tratamiento habitual con insulinas lenta de base e insulina rápida en la comida, se mantiene el tratamiento con AAS 100 1/24h, Atenolol de 50 cada 12h, Olmesartan 40/Amlodipino 5, Doxazosina 4/24h y se sustituye los antidiabéticos orales por Trulicity semanal, se sustituye la Hidroclorotiazida 25/24h por Espironolactona 25 y se reducen los suplementos de K de 2/24h a 1/24h. Con estos cambios su hemoglobina glicosilada ha vuelto a ser 6,2% y ha mejorado la función renal con una creatinina de 1,8 y un K 3,2. La tensión arterial se mantiene en 150/90 por lo que habrá que intensificar el tratamiento según evolucione con la pauta nueva de espironolactona.

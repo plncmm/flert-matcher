@@ -1,0 +1,46 @@
+Pacient home de 75 anys, remès al servei d'urgències des de les consultes externes de cardiologia per presentar una deterioració clínica important, amb dispnea de mínims esforços, ortopnea, dispnea paroxismal nocturna i palpitacions.
+
+Antecedents, malaltia actual i exploració física
+
+Antecedents
+No al·lèrgies medicamentoses conegudes.
+Factors de risc: diabetis mellitus 2, hipertensió arterial, dislipèmia. Exfumador des de fa 7 anys de 50 paquets/any.
+Antecedents mèdics: EPOC. ACV isquèmic d'artèria cerebral mitjana al març 2008. Intervencions quirúrgiques: hemorroides, hèrnia epigàstrica, polipectomia colónica. Tumor vesical tractat amb RTU en 2011 i 2013.
+Cardiopatia prèvia: miocardiopatia dilatada diagnosticada en 2002 amb funció sistòlica severament deprimida (FEVI 20%), i artèries coronàries normals en cateterisme cardíac. Seguiment en consultes externes de cardiologia, amb millora important de la funció ventricular amb tractament mèdic (FEVI 50% en ecocardiograma de 2008, 2010 i 2012). Al novembre de 2013 debuta amb fibril·lació auricular amb resposta ventricular ràpida, es va realitzar cardioversión elèctrica en urgències que va ser efectiva i es va donar d'alta. Una setmana més tard acudeix de nou a urgències per fibril·lació auricular, on es realitza de nou cardioversión elèctrica, passant a ritme sinusal i donat d'alta. En revisió en consultes externes al gener de 2014 el pacient es trobava de nou en fibril·lació auricular.
+
+Tractament habitual: dabigatran 110 mg/12h, bisoprolol 10 mg/24h, ramipril 2,5 mg/24h, rosuvastatina 20 mg/24h, omeprazol 40 mg/24h, furosemida 20 mg/12h (maneig segons necessitat), bromur tiotropio inhalat, repaglinida 0,5 mg, fluoxetina 20 mg, alprazolam 0,5 mg/24h. 
+
+Malaltia actual: pacient home de 75 anys, remès al servei d'urgències des de les consultes externes de cardiologia per presentar en les últimes setmanes una deterioració clínica important, amb dispnea de mínims esforços, ortopnea, dispnea paroxismal nocturna, i palpitacions en els últims dies. No refereix clínica d'infecció respiratòria ni una altra clínica acompanyant. En el moment de l'ingrés presentava fibril·lació auricular amb resposta ventricular a 130-150 lpm malgrat tractament a màximes dosis de betabloqueante, per la qual cosa es remet per a ingrés en cardiologia, per a intentar control de freqüència o cardioversión.
+
+Exploració física
+TA 120/65 mmHg. FC 155 lpm, Ta 36,5 oc. Sat. O2 96% amb FiO2 de 0,21.
+Pacient conscient, normocoloreado i normohidratado.
+Auscultació cardíaca: tons cardíacs arrítmics, sense que es ausculten soplos.
+Auscultació pulmonar: disminució generalitzada murmuri vesicular, amb crepitantes bibasales. ʟʟ Membres inferiors: no edemes, no signes de trombosi venosa profunda.
+Abdomen: tou, no dolorós a la palpació.
+
+Proves complementàries
+ECG: fibril·lació auricular amb resposta ventricular ràpida, QRS estret, no presenta alteracions de la conducció intraventricular. Signes de sobrecàrrega ventricle esquerre en V5-V6 i VAIG DONAR i aVL.
+Radiografia de tòrax: infiltrats alvèol-intersticials bibasales suggestius d'insuficiència cardíaca. Sins costofrénicos lliures. Índex cardiotorácico menor de 0,5.
+Analítica realitzada en la planta de cardiologia: ʟʟ Leucòcits: 12,4x10e9/L, Hb17,5 g/dl, plaquetes 262x10e9/L.
+Coagulació: TPT 15s, IQ: 76%, APTT 35,3s.
+Glucosa: 140 mg/dl, urea 64 mg/dl, creatinina 1,21 mg/dl, K 5 MM/L, Na 143 MM/L, AST 31 O/L, ALT 41 MM/L, LDH 244 O/L, PCR 0,2 mg/dl, pro-BNP 16727 pg/ml.
+Hemoglobina glicosilada: 6,9%.
+
+Ecocardiograma:
+Mala finestra ecocardiográfica.
+Ventricle esquerre lleugerament dilatat, no hipertròfic, amb contracció global severament deprimida (20-25%), hipoquinesia severa ápex.
+Aurícula esquerra moderadament dilatada.
+Vàlvula mitral engrossida, amb insuficiència lleugera.
+Vàlvula aòrtica esclerosada, amb bona obertura, sense insuficiència.
+Cavitats dretes amb aurícula moderadament dilatada. FEVD conservada.
+Vena cava inferior no dilatada, amb bon col·lapse inspiratori.
+No presenta vessament pericardíac.
+
+Evolució clínica
+Pacient ingressa en planta de cardiologia amb fibril·lació auricular amb resposta ventricular a 140-150 lpm sense que s'aconsegueixi controlar malgrat augmentar bisoprolol fins a dosi de 15 mg/24h i afegir digoxina i amiodarona, romanent amb freqüència ventricular de 130-140 lpm durant els següents 3 dies. Davant el fracàs de control de ritme d'episodis anteriors i un difícil control de la freqüència cardíaca es decideix conjuntament entre l'equip clínic, els electrofisiólogos i la família, realitzar ablació del node auriculoventricular i col·locació de marcapassos. Es va procedir a la col·locació de marcapassos definitiu, amb la intenció de col·locar elèctrode també en VI per a teràpia de resincronització cardíaca (TRC), però no es va poder ja que es va produir dissecció del si coronari. Es va col·locar finalment marcapassos DDD. Cinc dies més tard es va realitzar ablació del node auriculoventricular sense que hi hagués incidències. El pacient es va donar d'alta amb millor control clínic, i mantenint el mateix tractament anticoagulant, retirant-se del tractament la digoxina, amiodarona i les dosis tan altes de bisoprolol amb les quals s'havia intentat reduir la freqüència cardíaca. Es va mantenir la medicació per a maneig d'insuficiència cardíaca.
+
+Diagnòstic
+Fibril·lació auricular amb resposta ventricular ràpida de difícil control.
+Estratègia de control de freqüència mitjançant ablació del node AV i implant de marcapassos. 
+Taquimiocardiopatía amb disfunció ventricular severa.

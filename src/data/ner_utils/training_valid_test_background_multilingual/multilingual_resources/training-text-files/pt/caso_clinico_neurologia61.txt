@@ -1,0 +1,29 @@
+Anamnese
+Um homem de 38 anos de idade do Peru, sem alergias a drogas, hábitos tóxicos ou factores de risco vascular conhecidos, assistiu ao departamento de emergência para dores de cabeça frontotemporais, pulsantes e estritamente unilaterais, que pioraram com movimentos da cabeça e fotofobia associada. Negou alterações cognitivas, visuais ou sensoriais antes do episódio. A dor de cabeça era de intensidade moderadamente severa e tinha começado abruptamente na tarde do dia antes de consultar o departamento de emergência enquanto estava em repouso. Na anamnese, ela negou qualquer história de dores de cabeça anteriores, sensação de distermia ou febre. Também não tinha antecedentes familiares de dores de cabeça ou outras doenças de interesse. Na altura da consulta estava desempregado (tinha trabalhado como empregado de mesa) e vivia em Espanha com o seu parceiro há mais de 10 anos. Embora o doente não estivesse a ser tratado com quaisquer medicamentos, tinha tomado um único comprimido de paracetamol 1 g por via oral como tratamento sintomático, com ligeira melhoria. Durante a sua estadia na DE, a dor melhorou ligeiramente após a administração de 25 mg de dexketoprofeno intravenoso.
+
+Exame físico
+Geral: pressão arterial 125/80 mmHg, ritmo cardíaco 70 bpm, saturação de oxigénio 99%. Afebrile. Bom aspecto geral, bem hidratado, nutrido e perfumado. Não foram observadas erupções cutâneas. Rítmico carotídeo sem murmúrios audíveis. Auscultação cardíaca e respiratória sem alterações. Abdómen mole e depressável, sem massas ou organomegalia. Extremidades inferiores sem edema ou sinais de trombose venosa profunda. Exame neurológico: alerta de paciente. Orientado em pessoa, tempo e espaço. Sem afasia. Sem apraxias. Discurso fluente e não distórico. Campimetria por confrontação ocular sem alterações. Exame oftalmológico no departamento de emergência com fundo normal, papila com bordos claros e cor normal. Os alunos são isocóricos e normalmente reactivos à luz e ao alojamento. Seguimento dos movimentos oculares sem restrições ou outras alterações (sem nistagmo evocado). Preservação dos movimentos oculares sacádicos. Nervos cranianos V, VIII, IX, X, XI e XII sem alterações. Equilíbrio muscular 5/5 nas quatro extremidades. Tónus muscular normal e trofismo. Nenhuma alteração na coordenação das manobras de dedo e calcanhar. Sem disdiadococinesia. Reflexos osteotendinosos generalizados ++/+++. Sensibilidade táctil, algésica, vibratória e proprioceptiva sem alterações. Andar em tandem sem alterações. Romberg negativo. Sem sinais meníngeos.
+
+Testes complementares
+- Dados laboratoriais urgentes: hemograma, coagulação e bioquímica sem alterações. Urina: sem alterações.
+- Dados laboratoriais diferidos: hemoglobina 16,3 g/dl, MCV 94,8 fl, MCH 30,6 pg, leucócitos 6,48 x 103/microl, plaquetas 380 x 103/microl, CRP 1,4 mg/dl, LDH 148 IU/l (< 247), FA 148 IU/l (30-120), colesterol total 182 mg/dl. Coagulação no intervalo normal. Metabolismo do ferro sem alterações. Imunologia: ANA, ANCA, anti-Ro e anticorpos anti-La negativos. C3 e C4 na gama normal. Factor reumatóide e anticorpos peptídeos anti-citrullinated negativos. Proteinograma e imunoglobulinas séricas sem alterações. Angiotensina de conversão da enzima 39,4 UI (20-60).
+- Marcadores tumorais (Ca 15,3, Ca 19,9, AFP, PSA) nas gamas normais.
+- Raio-X ao tórax: índice cardiotorácico normal. Seios costofrénicos livres. Sem espessamento mediastinal ou infiltrados parenquimatosos.
+- Tomografia computorizada (TAC) do cérebro com e sem contraste: hipodensidade temporal direita sem efeito de massa que respeita o córtex cerebral e que não capta o contraste.
+- Ressonância magnética cerebral (MRI) com e sem contraste: melhoramento da paquímenografia hemisférica direita, com áreas de espessamento focal pseudonodular associado de localização temporal. Alteração do sinal cortico-subcortical temporal direito subjacente, sugestivo de edema reactivo.
+- Angiografia por RM: hipoplasia do seio transverso esquerdo sem evidência de trombose venosa cerebral.
+- Perfuração lombar: pressão de abertura 12 mm H2O. 20 células (100% linfócitos). Proteínas 387 mg/dl, glicose 50 mg/dl (soro 70 mg/dl), ADA 3,3 (0,5-3), índice de tibbling 0,62 (0,3-0,7). Não foram observadas células tumorais.
+- A PCR para tuberculose (TB) foi negativa. As culturas eram negativas para as bactérias e fungos habituais. Os antigénios fúngicos (Cryptococcus, Blastomyces, Coccidioides imitis, Histoplasma capsulatum, Paracoccidioides brasilensis) foram negativos.
+- Culturas negativas de tuberculose no sangue e na urina.
+- Serologias em soro e líquido cerebrospinal negativo para sífilis, Brucella, Rickettsia conorii, Borrelia burgdorferi, HIV, HBV, HCV, toxoplasmose, rubéola, CMV. PCR para HSV 1, HSV 2, vírus Epstein-Barr e cito-emgalovírus.
+- TAC tóraco-abdominal: nenhuma adenopatia mediastinal, derrame pleural ou infiltrações no parênquima pulmonar.
+Tomografia computorizada do cérebro com contraste mostrando uma hipodensidade temporal direita sem captação de contraste. RM do cérebro em sequência T1 com gadolínio mostrando espessamento meníngeo com edema circundante.
+
+Diagnóstico
+Dor de cabeça secundária à paquimeningite hipertrófica idiopática.
+
+Tratamento
+O paciente permaneceu no hospital com bom controlo da dor de cabeça com ibuprofeno 600 mg por via oral a cada 8 horas.
+
+Evolução
+Após a conclusão do estudo e tendo em vista a melhoria da dor de cabeça, foi solicitada uma ressonância magnética de controlo, que mostrou uma melhoria das lesões.

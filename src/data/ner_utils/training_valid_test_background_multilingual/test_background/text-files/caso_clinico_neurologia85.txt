@@ -1,0 +1,26 @@
+Anamnesis
+Varón de 39 años que acude por cefalea bifrontal y vómitos. El paciente refirió comenzar con rinorrea acuosa 2 días antes de ingresar, autolimitada, tras la cual se asocia cefalea bifrontal, inicialmente opresiva, que pasa a ser pulsátil, de intensidad moderada, con fotofobia asociada, y que alivia parcialmente con analgesia. Además, cuatro episodios de vómitos. No clínica infecciosa previa respiratoria, urinaria, digestiva, ni otorrinolaringológica. No traumatismo a nivel craneal ni intervenciones neuroquirúrgicas ni otorrinolaringológicas. No viajes recientes, ni contacto con animales. No relaciones sexuales de riesgo. No fiebre.
+
+Examen físico
+Constantes vitales: temperatura 37"7oC, tensión arterial 113/52 mmHg, frecuencia cardiaca 95 lpm, saturación de O2 95%. Aspecto: regular estado general. Hábito leptosómico. Eupneico. Tolera el decúbito. Piel y anejos: no lesiones cutáneas aparentes. No adenopatías. Auscultación cardiopulmonar: ruidos cardiacos rítmicos, sin soplos ni extratonos. Murmullo vesicular conservado, sin ruidos sobreañadidos. Abdomen y miembros inferiores: anodinos.
+Exploración neurológica. Estado mental y funciones superiores: consciente. Orientado en tiempo, espacio y persona. Atento. Colaborador. Lenguaje, habla y memoria normales. Obedece órdenes simples y complejas. Pares craneales: dentro de los límites de la normalidad. Motilidad: fuerza muscular 5/5 proximal y distal globalmente. ROT 2/4 en miembros superiores y miembros inferiores. RCP flexor bilateral. Sensibilidad: sensibilidad tacto-algésica y vibratoria conservada. Cerebelo y extrapiramidal: no dismetría. No disdiadococinesia. No temblor. Marcha: deambulación normal. Romberg negativo. Neurovascular: no soplos en la región laterocervical ni supraclavicular. Otros: rigidez de nuca, signos meníngeos presentes (Kernig y Brudzinski).
+
+Pruebas complementarias
+• Hemograma: hemoglobina 12,5 g/dl, hematocrito 38,3%, VCM 86 fl, HCM 28,1 pcgrm, plaquetas 169.000/mm3, leucocitos 17.200/mm3 (90,3% neutrófilos, 5,6% linfocitos). VSG
+6 mm. Coagulación: ,ormal. Bioquímica: glucosa, perfil renal, hepático, lipídico, férrico e iones dentro de la normalidad. Vitamina B12 normal, ácido fólico normal. Serología: sífilis, Coxackie A9 y B (1-6), Echovirus y VIH negativo, herpes simple IgG positivo e IgM negativo, VZV IgG positivo e IgM negativo, Epstein-Barr IgG positivo, Toxoplasma gondii IgG positivo e IgM pendiente, Brucella IgG negativo, Borrellia IgG negativo, Coxiella burnetii negativo. Proteinograma: normal. IgG, IgA e IgM normal. Complemento C3 y C4 normal. CH50 normal.
+• Electrocardiograma: ritmo sinusal a 78 lpm, eje normal, PR 120 ms, BIRDHH.
+• Radiografía de tórax: sin hallazgos significativos.
+• Tomografía computarizada (TC) de cráneo: imágenes en las que se aprecian discretos signos inflamatorios a nivel de las estructuras etmoidales y nasales con restricción ventilatoria. Desviación septal. Pequeño quiste en la base del seno maxilar derecho (¿papiloma?).
+• Resonancia magnética (RM) cerebral: defecto óseo de aproximadamente 1 cm (latero-lateral) en la pared posterior del seno esfenoidal con protrusión de la dura a ese nivel sin contenido encefálico en el componente prolapsado. Ocupación subtotal del seno esfenoidal por líquido. Las secuencias craneales basales demuestran ocupación de los surcos bilaterales supratentoriales por material hiperintenso en probable relación con contenido piógeno. Adicionalmente, se identifican burbujas aéreas en el espacio subaracnoideo bilateral en probable relación con su proceso de base (fístula LCR) sin poder descartar microorganismo productor de gas. Conclusión: imágenes compatibles con meningocele esfenoidal. Neumoencéfalo en el espacio subaracnoideo probablemente secundario.
+• Doppler transcraneal: sin datos de vasoespasmo.
+• Líquido cefalorraquídeo: líquido claro. Hematíes 35/mm3, leucocitos 75/mm3 (78% neutrófilos, 22% mononucleares), glucosa 55 mg/dl, proteínas 0,79 g/l. No se observan microorganismos en la tinción de Gram. Cultivo Neisseria meningitidis cepa tipo B sensible a cefotaxima y ciprofloxacino.
+• Muestra de rinorrea: compatible con LCR. Líquido turbio. Hematíes 678/mm3, leucocitos 1.500/mm3 (85% neutrófilos, 15% mononucleares), glucosa 35 mg/dl, proteínas 2,73 g/l. Beta-2-transferrina presente.  
+
+Diagnóstico
+Meningitis aguda por meningococo cepa B secundaria a fístula de LCR (meningocele esfenoidal).
+
+Tratamiento
+Cefotaxima 1 g/4 h + vancomicina 1 g/8 h intravenosa, y cierre de la fístula de LCR mediante técnica quirúrgica endoscópica.
+
+Evolución
+Desde ingreso, el paciente recibió tratamiento con antibioterapia empírica, que se prolongó posteriormente tras confirmar sensibilidad antibiótica mediante antibiograma (meningococo cepa B). A pesar de presentar rinorrea autolimitada en su domicilio, volvió a aparecer rinorrea en los primeros días de ingreso, recogiéndose muestra para análisis, la cual mostró compatibilidad para LCR. Sumado a este hallazgo analítico se visualiza además un defecto óseo compatible con fístula de LCR en el seno esfenoidal. Por tanto, ante la presencia de fístula de LCR con meningocele esfenoidal descrita, se indicó tratamiento quirúrgico mediante técnica endoscópica para reparar el mencionado defecto, con buena evolución posterior.

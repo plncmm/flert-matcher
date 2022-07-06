@@ -1,0 +1,30 @@
+Anamnesi
+Home de 80 anys d'edat que acudeix a Urgències per inestabilitat per a la marxa i sensació nauseosa des de fa 2 dies, d'inici brusc mentre deambulava, amb un empitjorament del quadre en les últimes 24 hores. Presenta, a més, cefalea bitemporal opressiva d'intensitat moderada des de fa 10 dies i astènia d'un mes d'evolució.
+
+Antecedents personals: exfumador, dislipèmia en tractament dietètic, hiperplàsia benigna de pròstata, infeccions del tracte urinari de repetició. Antecedents familiars: sense interès. Independent per a les activitats bàsiques de la vida diària. Escala de Barthel de 100 punts.
+
+Examen físic
+General: Bon estat general, tensió arterial 162/86 mmHg, freqüència cardíaca 72 lpm, temperatura 35,7 oc. Normocoloración mucocutánea, perfusió i hidratació normals, eupneico. Induració de totes dues artèries temporals, més acusada en el costat dret; caròtides rítmiques, sense soplos; tons cardíacs rítmics, sense soplos; murmuri vesicular conservat sense sorolls sobreañadidos; abdomen globulós, tou i depresible, sense masses, megalias ni signes d'irritació peritoneal; polsos pedios presents, sense edemes en les extremitats ni signes de trombosi venosa profunda.
+
+Exploració neurològica: orientat, llenguatge normal, sense apràxies ni agnòsies. Pupil·les isocóricas i normorreactivas, hemianopsia homònima dreta en la campimetría per confrontació, motilitat ocular extrínseca sense alteracions, no asimetria facial, resta de nervis cranials sense alteracions; to, trofismo i balanç muscular conservats, reflexos miotáticos vius de forma generalitzada, reflex cutani-plantar flexor bilateral, Hoffmann negatiu bilateral; sensibilitat tàctil, algésica i vibratòria conservades; disdiadococinesia i dismetría en proves dit-nas i taló-genoll bilateral, de predomini en els membres esquerres; proves de Romberg i Barany negatives; marxa inestable, sense clara lateralització, amb augment de la base de sustentació. NIHSS: 4 punts.
+
+Proves complementàries
+• Dades de laboratori: bioquímica, glucosa 158 mg/dl, urea 61 mg/dl, PCR 20,4 mg/l, colesterol total 229 mg/dl (HDL 57 mg/dl, LDL 151 mg/dl), hemograma 21.900/μl (79,4% neutròfils, 11,8% limfòcits), plaquetes 376.000/μl, fibrinogen 638 mg/dl; resta de valors dins de la normalitat. VSG 17 mm/h. Gasometria venosa sense alteracions significatives. Estudi sistemàtic d'orina, normal. Sistema hipófiso-tiroidal, sense alteracions. PSA 21,49 mg/ml, sense alteració de la resta de marcadors tumorals. Serologies negatives per a lúes, VHC, VHB i VIH.
+• ECG: ritme sinusal. QRS 0,13. Bloqueig de branca dreta amb alteracions secundàries de la repolarització.
+• Radiografia de tòrax: índex cardiotorácico dins de la normalitat, sense consolidacions ni vessaments.
+• Doppler transcraneal: acceleració de totes dues artèries cerebrals mitjanes (ACM), més acusada a nivell de M1 dreta, sense identificar-se l'artèria cerebral posterior (ACP) esquerra. Important reducció del flux en totes dues artèries vertebrals (AV), amb inversió de flux en l'artèria basilar (AB).
+• Dúplex de troncs supraaórticos (TSA): estudi carotídeo normal. Patró d'ona de xoc en ambdues AV, compatible amb una oclusió distal d'aquestes.
+• Eco-Doppler de les artèries temporals: halo hipoecoico en totes dues artèries temporals i les seves branques.
+• Ecocardiograma transtorácico: lleugera dilatació de l'aurícula esquerra, sense altres anomalies significatives.
+• TC cerebral: hipodensidades compatibles amb infarts en el territori de totes dues artèries cerebel·loses posteroinferiores (PICA) i ACP esquerra.
+• Ressonància magnètica (RM) cerebral: lesions hiperintensas en les seqüències T2 i FLAIR, amb lleu efecte de massa sobre el parènquima adjacent i amb borramiento de solcs, compatibles amb infarts en el territori de totes dues PICA i ACP esquerra. Imatges de la ressonància magnètica cerebral en seqüència T2 que mostren signes d'infart cerebral en el territori de totes dues PICA i ACP esquerra.
+• Angio-TC cerebral i de TSA: oclusió del segment V2 de totes dues AV. ACP i AB permeables, amb persistència d'artèria comunicant posterior. El sistema carotídeo no va mostrar alteracions. Imatges de la angio-TC dels troncs supraaórticos en les quals s'observa oclusió de V2 proximal dreta i V2 distal esquerra. Flux filiforme en la AV esquerra a nivell de C2.
+
+Diagnòstic
+Infart cerebral en el territori de totes dues PICA i ACP esquerra, d'etiologia inhabitual. Arteritis de cèl·lules gegants.
+
+Tractament
+Va ser ingressat en la Unitat de Ictus. Després de les troballes en la TC cerebral i en l'estudi neurosonológico, va rebre tractament empíric esteroidal (metilprednisolona 1 g/dia, 5 dies per via intravenosa) i les cures i recomanacions terapèutiques segons via clínica. Es va confirmar posteriorment el diagnòstic. A més de l'antiagregació plaquetària, va continuar en tractament amb prednisona en pauta descendent, associat a tractament profilàctic d'osteoporosi i estatinas.
+
+Evolució
+El pacient va presentar una millora progressiva durant el seu ingrés, sense complicacions afegides, amb una puntuació en la ERm de 3 punts a l'alta. En les successives revisions no va referir nova simptomatologia, els reactants de fase aguda es trobaven en rang normal i el signe de l'halo s'hi havia negativizado, encara que persistia amb una puntuació de 2 en la ERm als 3 mesos.

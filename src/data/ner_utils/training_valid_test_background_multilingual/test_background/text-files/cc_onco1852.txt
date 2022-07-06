@@ -1,0 +1,14 @@
+Anamnesis
+La paciente se trata de una mujer de 68 años, fumadora de 48 paquetes/año, sin otros antecedentes médicos ni quirúrgicos de interés, que debuta con clínica de mareo, náuseas y vómitos.
+
+Exploración física
+A la exploración física, presenta un nistagmo horizonto-rotatorio en todas las direcciones, involuntario y sin otra focalidad neurológica, en concreto, sin movimientos de extremidades involuntarios, ataxia o alteraciones cognitivas.
+
+Exploraciones complementarias
+En las exploraciones complementarias, analíticamente no presenta alteraciones; en la radiografía de tórax, presenta una masa en el lóbulo superior derecho y en la tomografía axial computerizada (TAC) se presenta la masa junto con múltiples adenopatías en el hilio derecho. Se realizó una fibrobroncoscopia, que mostró una masa en la entrada del bronquio del lóbulo superior derecho, tomándose una biopsia, con resultado anatomopatológico de carcinoma microcítico de pulmón. Se realizó estudio extensión con TAC que fue negativo para enfermedad a distancia. Se realizó un TAC y una Resonancia magnética (RM) cerebrales, que no mostraron alteraciones morfológicas. Se completó el estudio con la realización de una punción lumbar. El análisis de Herpes virus 1 y 2 (VH1, VH2), Ebstein Barr (VEB), Citomegalovirus (CMV), Varicela-Zoster (VVZ) fue negativo. Los anticuerpos onconeuronales se estudiaron contra los antígenos Hu, Ri, Amfifisina, CV2, Ma2, Recoverina, SOX-1, Titin, GAD65, Tr (DNER), todos fueron negativos, excepto contra el antígeno Zic4, que resultó positivo.
+
+Juicio diagnóstico
+Síndrome puro de opsoclonus sin mioclonus como síndrome paraneoplásico secundario a carcinoma microcítico de pulmón estadio limitado.
+
+Tratamiento y evolución
+Ante este diagnóstico, se planteó la estrategia terapéutica de administrar el primer ciclo de Cisplatino-Etopósido. Se descartó aplicar radioterapia concomitante por perfomance status 3 secundario a la inestabilidad en la marcha y el mareo, que condicionaban un encamamiento las 24 horas con dependencia completa para actividades básicas de vida diaria. Tras el primer ciclo, la paciente no mostró mejoría del opsoclonus. Secundariamente, recibió gammaglobulina intravenosa (0.5mg/kg/día) durante 5 días sin mejoría del síndrome, seguido de 5 días más de tratamiento con corticoides intravenosos (metilprednisolona 1 g/día), con el mismo resultado. Dos semanas después de terminar el primer ciclo de quimioterapia y el tratamiento inmunomodulador, la paciente comenzó a mejorar. Evolucionó con una completa desaparición del opsoclonus al cabo de 3 semanas. Tras 3 ciclos de Cisplastino- Etopósico, el TAC mostró una respuesta parcial, llegando a administrarse 5 ciclos de quimioterapia. Posteriormente ante la mejoría clínica se pautó radioterapia radical secuencial, de la que se encuentra actualmente en curso con una performance status de 1.

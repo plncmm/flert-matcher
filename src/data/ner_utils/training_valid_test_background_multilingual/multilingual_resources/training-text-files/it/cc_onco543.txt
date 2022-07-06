@@ -1,0 +1,26 @@
+Anamnesi
+"Paziente maschio di 68 anni, con una storia di ipertensione arteriosa, iperplasia prostatica benigna e fumo attivo di 63 pacchetti-anno.
+"Buona conformità al trattamento (olmesartan 20 mg 1c/d, idroclorotiazide 12,5 mg 1c/d,
+"tamsulosina 0.4mg 1c/d).
+"Nessuna storia familiare di interesse.
+"Diagnosi di adenocarcinoma polmonare in stadio IV, T2 (atelettasia), N0, M1c (metastasi cerebrali, metastasi polmonari bilaterali, versamento pleurico), EGFR negativo, nessuna traslocazione ALK, ROS-1 negativo e PD-L1 positivo nel 90% delle cellule tumorali.
+"Buon supporto sociale e indipendente per le attività di base della vita quotidiana.
+È stata eseguita una radioterapia olocranica delle metastasi cerebrali, che si è conclusa il 03/11/2018, essendo trattata con corticosteroidi in modo decrescente a causa dei sintomi neurologici durante le settimane successive. Ha iniziato il trattamento di prima linea con pembrolizumab il 23/11/2018.
+"Si è presentato al pronto soccorso il 2/12/2018, presentando una dispnea di 4 giorni di evoluzione, di insorgenza brusca, con rapida evoluzione al minimo sforzo, con tosse aumentata senza espettorazione: afebrato; non aveva segni clinici di insufficienza cardiaca, o altri sintomi dovuti a dispositivi o sistemi. Vaccinazione antinfluenzale.
+
+Esame fisico
+All'arrivo al triage, si è presentato con una pressione sanguigna di 113/77 mm Hg, una frequenza cardiaca di 97 bpm e una saturazione di ossigeno del 93% con FiO2 del 35%. La temperatura era di 36,5 oC e un punteggio di Glasgow di 15.
+All'esame era in discrete condizioni generali, cosciente e orientato, anche se con moderata disidratazione e tachipnea di 37 respiri al minuto.
+All'auscultazione cardiaca i toni erano ritmici, senza murmure, mentre all'auscultazione polmonare i ronchi abbondanti e l'affanno bilaterale erano molto evidenti. L'esame addominale non ha mostrato alcun reperto patologico, così come nessun segno di edema o segni di trombosi venosa negli arti inferiori.
+
+Test complementari
+I test di laboratorio non hanno mostrato alterazioni nella serie rossa o bianca. I gas sanguigni arteriosi hanno mantenuto un pH di 7,48, con insufficienza respiratoria parziale (PO2 di 53 mm Hg e pCO2 di 30 mm Hg). Non aveva alterazioni ioniche, con una funzione renale ed epatica normale. Una proteina C-reattiva di 13,2 mg/dl e un D-dimero di 975 ng/ml (valore normale < 100) sono stati notati. Una radiografia del torace ha mostrato infiltrati alveolari bilaterali con una predominanza di coinvolgimento interstiziale bilaterale, così come un possibile versamento e/o atelettasia nel polmone destro. L'angio-TC non ha mostrato alcun difetto di rifornimento nelle arterie polmonari, evidenziando un minimo versamento pleurico bilaterale e la comparsa di opacità ground-glass in entrambe le basi polmonari, non presenti nella precedente TAC di ottobre 2018. Gli antigeni dello pneumococco, la Legionella e la PCR dell'influenza erano negativi.
+
+Diagnosi
+Dati i risultati in quel momento, la diagnosi differenziale è stata sollevata tra una polmonite da pembrolizumab di grado 3 (sintomi gravi e pericolosi per la vita con ipossia e distress respiratorio), e una polmonite infettiva (principalmente batterica, con copertura di Pneumocystis jirovecii).
+
+Trattamento
+Il trattamento con Pembrolizumab è stato interrotto e il metilprednisolone è stato somministrato a 2-3 mg/kg/giorno. La terapia antibiotica con levofloxacina e trimethoprim-sulfamethoxazole è stata aggiunta, così come la terapia di supporto.
+
+Evoluzione
+Il paziente ha mostrato un parziale miglioramento dei suoi sintomi. Tuttavia, durante i giorni successivi i sintomi sono ricomparsi con un aumento della tosse con espettorazione, aumento del fabbisogno di ossigeno e peggioramento delle condizioni generali. Sono stati eseguiti follow-up HR-CT, fibrobroncoscopia e lavaggio broncoalveolare. La colorazione di Gram ha mostrato lieviti, con coltura positiva per Aspergillus fumigatus, così come la sierologia positiva per il citomegalovirus e Aspergillus, e la RT-PCR positiva per Pneumocystis jirovecii. Sono stati aggiunti Voriconazolo (dose di carico di 400 mg ogni 12 ore e successivamente 200 mg ogni 12 ore) e ganciclovir (10 mg/kg/giorno). Nonostante questo, l'evoluzione sfavorevole è persistita e il paziente è morto sei giorni dopo.

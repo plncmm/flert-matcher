@@ -1,0 +1,40 @@
+Anamnese
+Paciente com 54 anos, fumador de 10 cigarros de cannabis por dia, bebedor de mais de 3L de cerveja por dia e ex-consumidor de drogas farejadas na sua juventude (cocaína, heroína) com historial de hepatite crónica do genótipo C 4c 4d, tratado, sem resposta ao tratamento e sem mais controlos devido à vontade do paciente. O paciente trabalha em construção e hospitalidade com bom estado funcional com ECOG de 1.
+Iniciou um estudo em Dezembro de 2014 como resultado de dores no peito do tipo picada juntamente com a síndrome constitucional associada. Foi solicitado um raio-x ao seu centro de saúde onde foi visto um nódulo de 1 cm no meio do pulmão direito.
+Tendo em conta estes resultados, foi realizado um TAC ao tórax, mostrando múltiplos nódulos pulmonares bilaterais, metástases líticas no 6º arco costal esquerdo e uma massa renal direita medindo 6x4 cm, sem infiltração de estruturas vasculares ou extensão perirrenal, com adenopatias locorregionais e uma massa adrenal esquerda medindo 4x 5cm.
+Após discussão do caso no comité do tumor urológico, foi decidido realizar uma nefrectomia laparoscópica direita, que foi realizada em Março de 2015 com resultados anatómicos patológicos de carcinoma renal límpido de grau 3 de Fuhrman com infiltração da gordura no seio renal e metástase em 3 gânglios linfáticos isolados.
+Foi avaliado nos nossos escritórios em Abril de 2015 e começou o tratamento com Sunitinib 50mg diariamente durante quatro semanas com duas semanas de descanso e Zometa.
+Devido ao agravamento da função renal, astenia e estomatite de grau 2, o tratamento foi interrompido em Agosto de 2015 e retomado em Setembro com uma dose de 37,5mg diários de Denosumab.
+
+Em Setembro de 2015 foi realizado um TAC de controlo toracoabdominal, que mostrou a estabilização da doença e o tratamento foi mantido.
+Em Outubro de 2015, o paciente assistiu ao serviço de urgência para um episódio de desorientação temporária com alucinações visuais e auditivas e défice visual progressivo durante meses no olho esquerdo.
+
+Exame físico
+O exame físico revelou hepatomegalia de três dedos de largura a nível abdominal, sem outras alterações significativas.
+Os resultados neurológicos incluíram bradipsicia com desorientação temporal e visão desfocada com lateralização esquerda sem outras alterações, com pupilas isocóricas e normoreactivas, sem perda de força ou sensibilidade a qualquer nível e sem alterações da marcha.
+
+Testes complementares
+Durante a sua estadia no departamento de emergência, foram realizados os seguintes testes complementares:
+- Exames de sangue: anemia com Hb de 9 gr/dl e hiponatraemia leve de 134 mEq/L sem outras alterações significativas.
+- TAC do cérebro: lesão na região de selar, com bordas bem definidas, 20x20 mm de tamanho, estendendo-se cranialmente sobre a cisterna supra-selar, o quiasma óptimo e contactando a parede inferoanterior do ventrículo III, produzindo um efeito de massa discreta com ligeira triventricomegalia, sugerindo como primeira possibilidade o macroadenoma pituitário versus metástase.
+Dois concentrados de glóbulos vermelhos foram transfundidos no departamento de emergência e o paciente foi admitido em Oncologia Médica para completar o estudo. Durante a admissão, o paciente piorou clinicamente, tornando-se cada vez mais desorientado com episódios de agitação psicomotora.
+Foi solicitada uma ressonância magnética do cérebro para identificar a presença de uma lesão de selar e para excluir a presença de carcinomatose meníngea, juntamente com uma tomografia computadorizada tóraco-abdominal de restabelecimento. Foi também solicitado um perfil hormonal completo.
+- Perfil hormonal: Livre T4 0,54 ng/dl, basal TSH 0,04 uU/mL, LH <0,07 mIU/mL, basal FSH 0,09 mIU/mL, basal PRL 27,5 ng/mL, Testosterona 0,07 ng/mL.
+- RM do cérebro: massa hipotálamo-hipófise com edema extenso em ambos os hipotálamos, cápsulas internas, meio-cérebro e fitas ópticas, o que, juntamente com a história clínica e a presença de uma segunda lesão no hemisfério cerebelar esquerdo, sugere a possibilidade de metástase, sem excluir completamente a coexistência de dois processos: metástase cerebelar e macroadenoma pituitário, embora este último pareça mais improvável. Hidrocefalia tetraventricular com edema transepodérmico. Não foram identificadas melhorias leptomeníngeas, embora a possibilidade de carcinomatose leptomeníngea não possa ser excluída.
+- Tomografia computadorizada toracoabdominal: Progressão significativa das metástases pulmonares bilaterais em relação ao estudo anterior, metástases ósseas e adrenais.
+
+Diagnóstico
+Massa hipofisária de 2,8 cm de diâmetro máximo em relação provável ao macroadenoma pituitário versus metástase num doente com carcinoma renal de células claras de estádio IV. O hipotiroidismo central no contexto. Hiperprolactinemia leve em provável relação à compressão do talo pituitário.
+Hipogonadismo hipogonadotrópico.
+
+Tratamento
+Tendo em conta os resultados dos testes complementares, foi solicitada uma avaliação por Radiação Oncológica e Neurocirurgia. Após uma avaliação conjunta do caso, foi decidido transferir o paciente para a Neurocirurgia para cirurgia, dada a ausência de comorbilidades, idade e boa situação funcional antes da admissão.
+Foi avaliado pelo Serviço de Endocrinologia e o tratamento foi ajustado iniciando o tratamento com Levotiroxina 100 mcgr a cada 24 horas, recomendando um guia de cobertura de stress para cirurgia com dexametasona ou actocortina.
+Foi submetido a cirurgia em 13/11/2015 por craniotomia guiada por neuronavigação. Apresentou complicação intra-operatória com choque hemorrágico com hipotensão e anemia aguda com Hb 3.2, requerendo transfusão de 4 concentrados de hematita e volume sem identificar um ponto de hemorragia claro. Após estabilização do paciente, foi transferido para camas de reanimação.
+
+Evolução
+Nos dias seguintes à cirurgia, o paciente tornou-se progressivamente anémico com o aparecimento de sintomas neurológicos não presentes antes da cirurgia com midríase atrasada esquerda. Foi realizada uma tomografia cerebral pós-operatória, mostrando alterações secundárias à cirurgia, sem sinais de hemorragia ou outras alterações significativas.
+Os resultados da anatomia patológica da peça cirúrgica mostraram metástases cerebrais de carcinoma renal celular claro.
+Após vários dias de reanimação, o paciente agravou-se progressivamente, com deterioração neurológica e respiratória, hipoxemia com mecânica respiratória muito deficiente, secundária ao envolvimento significativo da metástase pulmonar, juntamente com hipocalcemia grave com níveis de cálcio iónico inferiores a 2.
+Neste momento, considera-se que dada a situação actual do doente e da sua doença, ele não necessita de medidas agressivas de apoio, limitando o esforço terapêutico de acordo com os familiares do doente e a sua vontade viva.
+

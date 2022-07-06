@@ -1,0 +1,33 @@
+Anamnesi
+Pacient de 36 anys d'edat sense al·lèrgies medicamentoses. Antecedents quirúrgics: resecció d'un pòlip en una corda vocal, salpinguectomía dreta laparoscòpica per embaràs ectòpic en 2013.
+
+Des de les 25 setmanes d'embaràs va consultar en el Servei d'Urgències en diverses ocasions per símptomes compatibles amb infecció del tracte urinari (ITU), requerint canvi d'antibiòtic en quatre ocasions per a aconseguir el control dels símptomes. Els urinocultius van resultar positius per a Escherichia coli.
+
+Part sense incidències el 16 d'agost de 2014. Sis dies després la pacient va consultar per febre i dolor abdominal intens. Es va sol·licitar ecografia transvaginal i abdominal, apreciant-se líquid lliure intraperitoneal. Amb sondatge vesical es va obtenir orina purulenta. Davant aquestes troballes, es decideix completar l'estudi amb una tomografia computada (TC) abdominal urgent i ingrés hospitalari en Urologia.
+
+Exploració física
+Pacient amb bon estat general. Conscient i orientada. Eupneica en repòs. Auscultació cardíaca i pulmonar sense alteracions. Abdomen: presentava timpanisme difús a la percussió, amb dolor generalitzat a la palpació. No s'apreciaven signes d'irritació peritoneal. Sucusión renal negativa bilateral. Exploració ginecològica normal, a excepció de dolor a la palpació en la paret anterosuperior vesical.
+
+Proves complementàries
+» Sediment d'orina: negatiu.
+» Exsudat vaginal: E. coli productora de β-lactamasas d'espectre estès i Candida glabrata.
+» Analítica: leucocitosis (27.000 leucòcits/mm3) amb 93% neutròfils. Resta normal.
+» TC abdominal: abundant líquid intraperitoneal, majoritàriament en la pelvis menor. Ili reflex.
+Extens creixement tumoral de paret vesical esquerra amb realç de contrast. No adenopaties. Resta sense troballes.
+» Laparotomia exploradora: abundant líquid lliure peritoneal secundari a perforació en la cara posterior de la bufeta. Es va practicar tancament de la paret amb biòpsia intraoperatòria d'aquesta.
+» Resultat anatomopatològic de la mostra intraoperatòria: carcinoma escatós.
+
+Diagnòstic
+Per a arribar al diagnòstic complet es va realitzar en un segon temps cistectomía radical amb derivació tipus Bricker i histerectomia.
+» Diagnòstic anatomopatològic: patró histològic mixt, amb àrees de carcinoma urotelial convencional (15%), àrees de diferenciació escatosa (20%) i àrees sarcomatoides (65%).
+» PET-TC: dues lesions hepàtiques d'11 i 18 mm amb SUV màxim 3,4 i 5,7 respectivament.
+» La pacient és diagnosticada de carcinoma sarcomatoide de bufeta pT3aN0M1.
+
+Tractament
+Es va decidir iniciar tractament quimioteràpic pal·liatiu el dia 9/12/2014 amb adriamicina 75 mg/m² dia 1 + ifosfamida 3 g/m² dies 1-3 + MESNA IV dies 1-3.
+
+Evolució
+Després del primer cicle va presentar neutropènia febril grau 4. Després de l'administració del segon, apareix neutropènia febril grau 2 amb ITU per Pseudomonas aeruginosa, que va requerir tractament antibiòtic intravenós per a la seva resolució.
+En la PET de reavaluació després de completar tres cicles s'aprecia augment de grandària i activitat metabòlica de les lesions hepàtiques (50 i 51 mm amb SUV máx 4,9 i 5,8). A més, es detecten diversos implants peritoneals que infiltren sigma i músculs adjacents.
+Donada la progressió, el 2/3/2015 inicia tractament amb cisplatí 80 mg/m² dia 1 + gemcitabina 1.250 mg/m² dies 1 i 8. Va rebre tres cicles, amb efectes secundaris que obliguen a reduir la dosi un 20% en el segon cicle.
+En el moment actual, es troba pendent de la realització d'una nova PET-TC per a la valoració de la resposta.

@@ -1,0 +1,36 @@
+Anamnesi
+La pacient consulta per febre de fins a 38,6 oc de 24 hores d'evolució acompanyada de síndrome distérmico i vòmits. Va rebre segon cicle de pembrolizumab feia set dies. Va presentar lleu dolor abdominal ocasional autolimitat sense alteracions de l'hàbit intestinal. Tos ocasional amb expectoració blanquinosa. La pacient es trobava rebent capellans de ferides en cuixa dreta, per supuración. Va realitzar tractament amb clindamicina per aquest motiu.
+
+Exploració física
+» TA: 155/63 mm Hg, FC 91 lpm, Ta: 38,1 oc, SatO2: 92%, PS 1.
+» Regular estat general. Eupneica en repòs. Pal·lidesa cutània. Ben hidratada.
+» Cap i coll: adenopaties de petita grandària laterocervicales bilaterals. No són doloroses durant la palpació. Cavitat bucal amb lesions compatibles amb muguet. No hi ha traspuats amigdalares. Otoscopia normal bilateral. Sense rigidesa nucal.
+» AC: rítmica a bona freqüència. No es auscultan soplos.
+» AP: mvc en tots dos hemitórax amb escassos crepitantes secs bibasales.
+» Abdomen: globulós, tou, depresible. No hi ha masses ni megalias palpables. Dolor durant la palpació en HCD amb Murphy dubtós. RHA normals. Sense punts herniario ni polsos bufadors. En regió inguinal dreta lesió excrecente de petita grandària sobre base de lesió quirúrgica. En cara interna de membre inferior dret (MID) s'objectiven 3 lesions puntiformes supuratives amb fons de teixit de granulació amb secreció purulenta i signes inflamatoris perilesionales. Edema amb escassa fòvea perimaleolar en MID. Homans negatiu.
+
+Proves complementàries
+Entre les proves complementàries realitzades a la seva arribada a Urgències, van destacar:
+» Hemograma: hematies 3,68 hemoglobina 9,2. Hematòcrit 30,2. Volum corpuscular medio 82,1.
+» Hemoglobina corpuscular mitjana eritrocitària 25. Concentració d'hemoglobina corpuscular mitjana eritrocitària 30,5. Amplitud de distribució eritrocitària 15,8. Leucòcits 0,2. Neutròfils % 6,2.
+» Neutròfils 0. Limfòcits % 93,8. Limfòcits 0,2. Monòcits % 0. Monòcits 0. Eosinòfils % 0. Eosinòfils 0. Basòfils % 0. Basòfils 0. Plaquetes 312. Volum plaquetar mitjà 10.
+» Coagulació: ràtio del temps de protrombina 1,31. Activitat de protrombina 72. Temps de protrombina 14,7. INR 1,31. Temps parcial de tromboplastina activat (aPTT) 38. Ràtio del aPTT 1,16. Fibrinogen derivat 7,35.
+» Bioquímica: urea 40 creatinina en sang 0,95. Proteïnes totals 6,7. Bilirubina total 0,35. Sodi
+» 135. Potassi 4,59. Creatina cinasa 30. Aspartat amino transferasa (GOT) 13. Amilasa 46. PCR 195.
+» » Orina: gravetat específica 1.020. pH 6. Cetones 10. Glucosa negativa. Nitrit negatiu. Bilirubina negativa. Proteïnes 100. Urobilinógeno 0,2. Hematies negatives. Leucòcits negatius.
+» Gasometria venosa: Ph 7,42. nA 136. k 4,5. cA 1,10. gLUC 220. lAC 1,4. hTCO 3 4%. hco3- 24,0.
+» tHBC 9,9.
+» Radiografia simple de tòrax posteroanterior: no es van identificar imatges d'infiltrats ni condensacions.
+Es van extreure hemocultivos x 2, urinocultiu, cultiu de ferida de MID i cultiu de placa de mucosa oral.
+
+Diagnòstic
+El judici diagnòstic de la pacient va ser compatible amb neutropènia febril grau IV (profunda), infecció de ferida quirúrgica i candidiasis orofaríngea.
+
+Tractament
+Es va decidir ingrés hospitalari. Es va recomanar aïllament invers, repòs i dieta absoluta, així com administració de G-CSF i antibioterapia empírica amb meropenem i vancomicina intravenoses.
+Després de cultiu positiu de la ferida en MID per a pseudobufona aeruginosa, es va ajustar tractament segons antibiograma, desescalant a ceftazidima intravenosa. Es va afegir al tractament fluconazol intravenós per creixement de Candida albicans en cultiu de placa de mucosa oral.
+
+Evolució
+La pacient va experimentar millora clínica evident, mantenint el seu habitual PG. No obstant això, després de més de deu dies d'ingrés, mantenia la xifra de neutròfils sèrica en 0 mil/mm3. Es va comentar el cas amb Hematologia, que va recomanar estudi de medul·la òssia. Es va realitzar un aspirat de medul·la òssia, que es va informar com a estudi fenotípic sense evidència d'infiltració per hemopatia i absència de sèrie mieloide (agranulocitosi).
+Es va sol·licitar anàlisi de la mostra obtinguda en l'aspirat, per citometria de flux, amb troballes concordants amb agranulocitosis, plasmocitosis cridanera i augment relatiu de sèrie vermella. També es va descriure una població de cèl·lules, no menyspreable en algunes extensions, d'aspecte no hematològic, sense formar nius, en possible relació amb melanoma metastásico.
+Davant la confirmació d'infiltració de MO per melanoma i atès que la pacient segueix en l'actualitat (un mes després de l'ingrés) en absència absoluta de xifra de neutròfils, es va desestimar per part nostra més tractament oncològic actiu. Es va consensuar amb la pacient i familiar derivació a la Unitat de Cures Pal·liatives per a tractament simptomàtic.

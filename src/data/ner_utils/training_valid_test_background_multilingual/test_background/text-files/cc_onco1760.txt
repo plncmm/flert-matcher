@@ -1,0 +1,19 @@
+Anamnesis
+Mujer de 62 años de edad, con antecedentes de alergia a la penicilina y a la fenitoína, con intervenciones de fístula anal en el 2000 y de meningioma en el 2001. Colecistectomía. En julio de 2010, es intervenida de un adenocarcinoma de recto grado II, pT3N0M0, estadio IIIB, con infiltración vascular y perineural. Derivada a la consulta de Oncología Médica tras la cirugía, realiza tratamiento complementario con radioterapia sobre el recto y ganglios perirrectales e ilíacos (dosis total de 60 Gy) y capecitabina concurrente (825 mg/m2 cada 12 horas). Posteriormente, recibe quimioterapia durante seis meses según esquema FOLFOX-6 modificado. A los tres meses de finalizar el tratamiento, acude a la consulta presentando edema y eritema en la región malar izquierda. La paciente había atribuido los síntomas a una picadura de insecto. No había tenido fiebre ni otros síntomas sistémicos.
+
+Exploración física
+Tumefacción malar dolorosa y de consistencia pétrea, fija a los planos profundos, de aproximadamente 6 cm de diámetro. Eritema, sin otra lesión dérmica o en cavidad oral. Sin adenopatías locorregionales. Tampoco hay hallazgos relevantes en el resto de la exploración física. La visión y los movimientos oculares están preservados.
+
+Pruebas complementarias
+• Se solicita una tomografía computarizada facial, en la que se evidencia una masa de partes blandas en la región cigomática izquierda, con componente hipodenso en su interior que sugiere necrosis con afectación de los planos óseos. Se observa una osteólisis en la pared lateral del seno maxilar, en su porción anterior, así como en el cigomático y en el reborde orbitario izquierdo inferior, con discreto componente de partes blandas intraorbitario en el margen anterolateral del suelo de la órbita.
+• La paciente no presenta en este momento alteraciones analíticas.
+• La tomografía computarizada toracoabdominal no pone de manifiesto otras alteraciones, además de la anteriormente referida.
+
+Diagnóstico
+Dados los hallazgos radiológicos, se procede entonces a realizar una punción-aspiración con aguja fina, obteniéndose varios fragmentos de tejido fibroso y tejido óseo ampliamente infiltrado por un carcinoma enteroide.
+
+Tratamiento
+Con el diagnóstico de metástasis ósea única de adenocarcinoma de recto, se administra una dosis de radioterapia de 50 Gy sobre un volumen blanco, que incluyó tumoración malar izquierda.
+
+Evolución
+Durante el tratamiento radioterápico, la paciente presenta inflamación de la zona tratada, así como conjuntivitis. Posteriormente, presenta una reducción aparente del tamaño de la tumefacción y evidente del dolor, aunque en una nueva tomografía computarizada facial parece detectarse un leve crecimiento de la masa de las partes blandas. En la tomografía computarizada toracoabdominal de control, se detectan metástasis pulmonares bilaterales, realizándose en ese momento una tomografía por emisión de positrones/tomografía computarizada en la que se evidencian, además, depósitos en la mandíbula izquierda, la décima vértebra dorsal y la segunda y la quinta lumbar, la clavícula derecha y la escápula izquierda. Por presentar mutaciones en el gen K-ras, se inicia tratamiento sistémico con quimioterapia según esquema FOLFIRI-bevacizumab, del que ha recibido diez ciclos hasta el momento actual.

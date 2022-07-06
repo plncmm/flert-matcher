@@ -1,0 +1,22 @@
+Anamnesis
+Paciente varón de 32 años de edad, de origen ecuatoriano, sin antecedentes médicos ni quirúrgicos, que acude a Urgencias por dolor abdominal intenso en horas de la madrugada después de la ingesta de alcohol en la noche previa; no refiere fiebre, no traumatismos, no síndrome miccional previo.
+Se solicitan análisis de sangre y orina, presentando ausencia de micción, sin clínica de retención urinaria. Se hidrata el paciente por vía venosa hasta tener los resultados de las pruebas solicitadas.
+
+Examen físico
+Estable hemodinámicamente, frecuencia cardiaca 75 lpm, temperatura 36,8 oC. Abdomen blando y depresible, con moderado dolor en el hipogastrio y mesogastrio, no signos de Murphy, no signos de irritación peritoneal, no globo vesical. Puñopercusión en la fosa renal no dolorosa. Pene normal, testes normales, resto de exploración física normal.
+
+Pruebas complementarias
+• Analítica: leucocitos 16,8 x 1.000/μl, hemoglobina 16,2 g/dl, hematocrito 48%, plaquetas 248 x 1.000/μl, neutrófilos 90,2%, glucosa 126 mg/dl, creatinina 1,31 mg/dl, sodio 139 mEq/l, potasio 4,13 mEq/l, LDH 342 UI/l, actividad de protrombina 101%, INR 0,99, proteína C reactiva 0,47 mg/dl.
+• Radiografía de abdomen: sin hallazgos relevantes.
+• Ecografía: vejiga moderadamente replecionada con pared engrosada e irregular, con contenido ecogénico en su interior, que se desplaza con el movimiento del paciente, compatible con coágulos intravesicales. Posible solución de continuidad de la pared de la vejiga.
+• Cisto-tomografía computarizada: se observa un claro defecto en la cúpula vesical, y presencia de contraste libre en la cavidad peritoneal, sobre todo en la pelvis. Sonda de Foley en el interior de la vejiga.
+
+Diagnóstico
+Rotura espontánea de vejiga intraperitoneal.
+
+Tratamiento
+Se pone sonda vesical de tres vías de 20 Ch, con salida de orina hematúrica que aclara espontáneamente. Se pasa al paciente a quirófano para intervención quirúrgica urgente. Realizamos incisión de laparotomía infraumbilical transperitoneal. Se obtiene abundante orina de la cavidad peritoneal, objetivándose apertura en la cúpula vesical de aproximadamente unos 3 cm de diámetro. Los bordes vesicales no presentaban patología aparente, a pesar de lo cual se envían biopsias para su estudio histológico. Se realiza el cierre vesical en tres capas, comprobando la estanqueidad con azul de metileno.
+
+Evolución
+El paciente tiene una buena evolución en el postoperatorio. Se da de alta con sonda vesical, la cual se retira a la segunda semana tras la cirugía. Se valora al mes del alta, con buena micción, y ecografía con valoración de residuo miccional de 10 cc.
+Resultados de la anatomía patológica: fragmentos de pared vesical resecados con necrosis y hemorragia, sin otras lesiones histológicas relevantes.

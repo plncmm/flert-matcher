@@ -1,0 +1,32 @@
+We present the case of a 25-year-old woman who came to the emergency department with a 72-hour history of non-productive cough and respiratory sounds, without fever or other accompanying symptoms. She lived in an urban area and had contact with domestic animals (canary and dogs). She had no drug allergies or family or personal history of interest, except for active smoking (7 packs/year).
+
+A chest X-ray taken in the Emergency Department of the hospital where he consulted showed a rounded lesion in the right upper lobe and, given the respiratory symptoms, with suspicion of community-acquired pneumonia, he was started on treatment with levofloxacin 500 mg every 24 hours. After 7 days of treatment the symptoms disappeared.
+
+The patient was seen in the outpatient pulmonology department of another centre. A control chest X-ray performed one month after the onset of the symptoms showed the persistence of a rounded, well-defined image, about 3 cm in diameter, located in the right upper lobe, and a study of a solitary pulmonary nodule (SPN) was initiated.
+
+Differential diagnosis
+SPN is defined radiologically as a single intraparenchymal pulmonary lesion, round or oval, with well-defined borders and a diameter of no more than 3 cm. It can be the presenting form of both benign and malignant processes, constituting a diagnostic challenge. The differential diagnosis of SPN is discussed below: 
+Malignant causes (40-50%).
+1. Primary lung neoplasia. Adenocarcinoma is the most common histological subtype presenting as SPN, accounting for 30-50% of malignant lesions, followed by squamous cell carcinoma with 10-37%. Carcinoid tumours are typically endobronchial. However, 20% present as peripheral SPN with well-defined borders.
+2. Pulmonary metastases. Although they commonly present as multiple pulmonary nodules, they can also present as SPNs as in the case of melanoma, sarcoma and carcinomas of the colon, breast, kidney and testis. They account for less than 10% of all SPNs.
+3. Others: primary extranodal lymphoma, plasmacytoma, schwannoma.
+
+Benign causes (50-60%)
+Infectious. Infectious granulomas cause approximately 80% of benign SPNs. Tuberculosis and fungal infections (histoplasmosis, coccidioidomycosis, cryptococcosis and blastomycosis) may be the origin of these. Other less common infectious causes are bacterial abscesses, aspergilloma and Pneumocystis jirovecii infection.
+2. Benign tumours. Hamartomas cause 10% of benign pulmonary nodules. Other less common causes are fibromas, lipomas, leiomyomas, haemangiomas, amyloidoma and pneumocytoma.
+Vascular. These include arteriovenous malformations, contusions and pulmonary infarctions.
+4. Inflammatory. The following systemic diseases should be highlighted as causes of SPN:
+- Wegener's granulomatosis
+- Rheumatoid arthritis
+- Sarcoidosis
+5. Congenital malformations such as bronchogenic cyst. Focusing on our case, we are dealing with a young patient, immunocompetent in principle, with no family or personal history of neoplastic disease.
+In the case of a NPS of tumour aetiology, it could correspond to a primary lung neoplasm of early presentation in a female smoker, or a hamartoma, as it is the most common benign tumour. Among the infectious causes, most are rare infections in non-immunosuppressed patients, with the exception of tuberculosis. Therefore, in principle, unless the patient did not have an immunodeficiency that is not known at this time, it would be an unlikely aetiology. Although it could be the presentation of a systemic disease, the absence of other clinical data makes this diagnosis less likely in principle. Finally, among the less frequent causes, a vascular or congenital malformation could be the cause of the radiological lesion.
+
+Evolution
+Given the persistence of the lesion on chest X-ray, computed axial tomography (CT) of the chest was requested, which showed a 5 cm lung consolidation, rounded, with polylobulated edges and air bronchogram with no signs of cavitation in the posterior segment of the right upper lobe. In view of these findings, fibrobroncopy was performed, showing an inflammatory stenosis in the apical segment of the right main bronchus with no other findings, which was biopsied. The biopsy samples obtained showed no findings of neoplastic cells. Sputum smear microscopy and bronchoalveolar lavage culture in conventional and Lowestein medium were negative. No samples were processed for fungal culture.
+At that time, general laboratory tests showed no significant findings and serology was negative for hepatitis B, C and human immunodeficiency virus (HIV) on two occasions.
+Given the uncertainty of a neoplastic origin of the lesion and the lack of conclusive results, it was decided to perform an exploratory videothoracoscopy. Right bisegmentectomy and lymphadenectomy were performed. The pathological anatomy of the surgical specimen showed no findings of neoplastic disease. Histology was compatible with pure histiocytic granuloma, with Grocott and PAS techniques revealing the presence of Cryptococcus neoformans. At this point the patient was referred to us. On the first visit to our clinic she was asymptomatic and the general examination was strictly normal. The first step was to rule out any type of immunodeficiency due to the unexpected finding of pulmonary cryptococcosis. We performed a new HIV serology, as well as an autoimmunity study with negative results, and the quantification of complement and immunoglobulins was normal. In order to rule out idiopathic CD4 T-lymphocyte lymphopenia, CD4 levels were requested, with normal results (1408). A second issue was the need to rule out a disseminated form of cryptococcosis, as well as the need for antifungal treatment. The cryptococcal antigen was negative, the chest and abdominal CT scan showed no noteworthy findings and the cranial MRI was normal.
+Given the absence of neurological symptoms and the normality of the complementary tests, lumbar puncture was not performed to rule out meningeal cryptococcosis. On the other hand, in the absence of data of systemic infection (analytical study, CT scan of the chest and abdomen and MRI of the skull with no findings) in an immunocompetent patient, the infection was considered resolved after surgical treatment and it was decided not to perform antifungal treatment.
+
+Final diagnosis
+Cryptococcus neoformans abscess pneumonia manifested as a solitary pulmonary nodule in an immunocompetent patient.

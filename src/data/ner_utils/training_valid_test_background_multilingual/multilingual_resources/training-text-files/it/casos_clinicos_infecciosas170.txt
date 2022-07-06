@@ -1,0 +1,41 @@
+Viene presentato il caso di un uomo di 37 anni di origine africana, che vive in Spagna da 10 anni. Si è consultato per dolori addominali di 3 settimane di evoluzione, febbre/febbre e aumento del perimetro addominale.
+All'esame, buone condizioni generali, con BP 110/70 mmHg, HR di 110 spm e Ta di 37,8 oC. L'addome era doloroso alla palpazione diffusa, con ascite non tensiva. Nessun altro risultato di interesse.
+Tra gli studi complementari, i profili analitici erano normali ad eccezione di GPT 62 U/l, CPK 1695 U/l, CRP 177 mg/l, VES 100 mm/h, emoglobina 114 g/l, neutrofilia relativa 67% senza leucocitosi, fibrinogeno 7,5 g/l e INR 1,4. L'ecografia addominale ha mostrato una splenomegalia omogenea e un abbondante liquido libero senza altre alterazioni. La paracentesi è stata eseguita e la biochimica ha mostrato 2214 cellule/mm3 (95% mononucleari), proteine 59 g/L, ADA 154 mU/mL, LDH 728 mU/mL, gradiente siero-ascite albumina di 8,8 g/L. Le emocolture, le colture delle urine, la microscopia dello striscio e la coltura dell'espettorato erano negative. Le radiografie del torace e dell'addome erano normali e la TAC con c/c intravenosa dell'addome ha mostrato adenopatia diaframmatica e mesenterica, abbondante liquido intraperitoneale, aumento delle lastre peritoneali e infiltrazione dell'omento maggiore.
+
+Diagnosi differenziale
+Si tratta di un paziente di origine africana, ma tenendo conto che la causa più frequente di ascite è dovuta all'ipertensione portale dovuta alla cirrosi epatica (80% di frequenza), si devono escludere eziologie multiple per la loro prevalenza, così come altre cause meno frequenti ma possibili per l'origine e le caratteristiche socio-demografiche e cliniche del paziente:
+
+Ipertensione portale:
+- Cirrosi (80% di tutti i casi di ascite).
+- Epatite alcolica acuta: può essere dovuta alla sottostante ipertensione portale dovuta alla cirrosi o all'ostruzione venosa portale transitoria, insieme allo stato di malnutrizione associato.
+- Insufficienza epatica acuta: tutte le cause di epatite acuta fulminante possono scatenare un'ascite.
+- Malattia veno-occlusiva epatica (sindrome di Budd-Chiari): ostruzione dovuta alla trombosi di almeno 2 delle 3 vene sovraepatiche.
+- Insufficienza cardiaca.
+- Pericardite costrittiva: la diminuzione del ritorno venoso può provocare ascite a causa della congestione.
+
+Ipoalbuminemia:
+- Sindrome nefrosica.
+- Enteropatia da perdita di proteine.
+- Grave malnutrizione. 
+
+Patologia peritoneale:
+- Ascite dovuta a malignità (cancro gastrico, colorettale, pancreatico...): molto difficile da diagnosticare perché si presenta in modo molto simile ad altre patologie, le sue caratteristiche principali saranno riviste nella discussione.
+- Peritonite infettiva:
+- Peritonite batterica spontanea: deve essere esclusa nei pazienti cirrotici con ascite.
+- Peritonite batterica secondaria (perforazione occulta): a causa della perforazione dei visceri cavi, le caratteristiche del liquido ascitico sarebbero diverse, con alta cellularità e predominanza di PMN, e la presentazione sarebbe molto più acuta.
+- Tubercolosi peritoneale: data l'origine e la forma di presentazione, è molto probabile, ma altre cause devono essere escluse.
+- Peritonite fungina: soprattutto nei pazienti in terapia sostitutiva renale con dialisi peritoneale, che non è il nostro caso.
+- Parassiti: eccezionalmente, ma data l'origine del paziente, devono essere presi in considerazione (idatidosi, schistosomiasi, toxocariasi...) anche se è molto caratteristico che si presenti con ascite eosinofila.
+- Mesotelioma primario. Eosinofilia sistemica: patologie sistemiche con grave coinvolgimento d'organo che possono portare all'infiltrazione del fegato come le sindromi ipereosinofile, la sindrome di Churg-Strauss, ecc. Si presenterebbero con eosinofilia in LA. 
+
+Infiammatorio/Autoimmune:
+È necessario escludere la patologia infiammatoria e autoimmune, che può manifestarsi con la sierosite:
+- Sindromi autoinfiammatorie: febbre mediterranea familiare, criopirinopatie, sindromi periodiche associate a recettori anti-TNF.... È necessario un alto indice di sospetto, poiché l'ascite dovuta alla sierosite è rara.
+- Malattie autoimmuni: LES (raro), artrite reumatoide, epatite autoimmune e colestasi cronica (cirrosi biliare primaria e colangite primaria in fase di cirrosi, ecc. altre cause: Sarcoidosi (rara forma di presentazione), ascite chilosa (liquido ascitico lattiginoso, prevalentemente trgliceridi), ascite pancreatica (amilasi elevata), mixedema, emoperitoneo, danno urologico....
+
+Evoluzione
+Durante l'ospedalizzazione del paziente, viene eseguita una nuova paracentesi (800 ml), con liquido ascitico simile; questo liquido ascitico viene centrifugato e messo in coltura. Dopo 14 giorni di ricovero, è stata eseguita una laparoscopia diagnostica con prelievo di biopsie per la coltura e l'anatomia patologica. Il referto laparoscopico ha mostrato sintomi adesivi massicci, granuli miliari nel peritoneo parietale e viscerale e nell'omento, con una notevole ascite, compatibile con una peritonite tubercolare.
+L'anatomia patologica riporta un'infiammazione granulomatosa necrotizzante e la coltura della biopsia è positiva per Mycobacterium tuberculosis in mezzo Lowenstein, senza resistenza all'isoniazide o alla rifampicina, con PCR positiva; la coltura di centrifugazione del liquido ascitico coltiva la stessa specie, con PCR negativa. Il trattamento è stato iniziato con 4 farmaci e prednisone, con un'eccellente evoluzione e risoluzione dei sintomi.
+
+Diagnosi finale
+Peritonite tubercolosa.

@@ -1,0 +1,32 @@
+Anamnesis
+Patient aged 66 years with the following personal history: no known allergies. Toxic habits: former smoker until 14 years ago, IPA 30, former heavy drinker for more than 20 years, currently drinking a glass of wine a day; no travel, currently no contact with animals, hunter, eating what he hunted but under control, arterial hypertension, hypercholesterolemia, polyclonal hypergammaglobulinemia, osteoarthrosis, gouty arthritis, episodes of lumbosciatica, osteosynthesis surgery of the left lower limb (work accident). Usual treatment: fluvastatin, diacerein, omeprazole, enalapril + hydrochlorothiazide. Baseline: ARVD. No cognitive impairment. Autonomous ambulation. Retired, employed on a chicken farm. Family history: of no interest. The patient was brought to the Emergency Department due to a clinical manifestation observed by the family on the same day in the morning, consisting of impaired speech, with incoherent language and impaired comprehension. In addition, he presented time and space disorientation, deviation of the corner of the mouth to the left and gait disturbance with non-systematic lateral deviation. On the previous night he had presented several alimentary vomiting and soft stools without pathological products. No fever. No other neurological focality in the anamnesis.
+On the same day he had been assessed by his primary care physician, who described in the report that the patient had an ataxic gait and a deviation of the oral commissure to the left, without meningeal signs, and referred him to the emergency department for further examination.
+
+Physical examination
+Neurological examination in the emergency department: conscious, disoriented in time. Pupils are isochoric and normally reactive. Horizontal nystagmus. No nuchal rigidity, no meningeal signs, gait ataxia with lateropulsion especially to the right. Positive Romberg's test. Rest of the examination with no findings.
+On admission to the Neurology ward the following day: alert. Conscious. Obeys axial commands. Language with little fluency and isolated words. Easily intoxicated with the previous order and with two-step orders. Nominates 1/3. Does not repeat. Obeys commands by imitation after repeated several times. Disoriented in time and space. Persevering. No campimetric defects due to threat reflex. FO: uncooperative, continuous movement compatible with nystagmus. Pupils are isochoric and normoreactive. EOM: inadequate cooperation, no ophthalmoparesis. Mild left central facial paresis. No claudication in Barré or Mingazzini. Tactoalgesic sensitivity: withdraws in response to nociceptive stimulus. REM +/++++ and symmetrical. RCP: bilateral flexor. Impossibility to maintain sitting and standing. Coordination: no finger-nose dysmetry. No meningeal signs. Blood pressure 160/90 mmHg, heart rate 82 bpm, baseline O2 saturation 90%, eupneic, afebrile.
+Somatic examination: no skin lesions. Head and neck: no findings. Cardiac auscultation: rhythmic, no murmurs. Pulmonary auscultation: preserved vesicular murmur, bibasal crackles more intense in the right base, disseminated rhonchi. Abdomen: no findings. Extremities: bony deviation at the left external supramalleolar level post-surgery. Rest normal.
+
+Complementary tests
+- CBC: normal. Coagulation: ATIII deficiency (68%). Proteinogram normal. IgG 2211 and IgA 533. Beta-2-microglobulin: 1559. Negative tumour markers. Normal autoimmunity study. Blood culture and urine culture: negative. Blood serology: Brucella, HIV hepatitis B and C and lues negative. CSF: cells: 5 red blood cells: 1 glucose: 84 proteins: 183 lactic acid: 2.8 alb: 102.8 adal: 4 gram.
+- CSF: no microorganisms observed. Culture: sterile fungi and mycobacteria. PCR herpes virus: no HSV or VZV detected.
+- Electrocardiogram (ECG): sinus rhythm at 67 bpm, normal electrical axis, without repolarisation alterations.
+- Posteroanterior chest X-ray: rotated, increased CTI, no visualisation of the left costophrenic sinus, with left basal infiltrate.
+- Echocardiography: cardiac cavities of normal size. Biventricular function preserved. No significant valvulopathies. No abnormal images.
+- Complete abdominal ultrasound: normal.
+- Gastroscopy: lymphangiectasia. Gastric cavity partially assessable for food content.
+- Electroencephalogram (EEG): slowed brain activity for the patient's age.
+- Urgent brain computed tomography (CT): no acute intra- or extra-axial bleeding observed at the present time. Preserved midline. Symmetrical sulci, cisterns and ventricles. No assessable parenchymal alterations.
+- Cerebral MRI: in FLAIR and T2, extensive areas of signal alteration are observed at the level of the brainstem, subcallosal gyri and hippocampal regions bilaterally, peripherally to both lenticular nuclei and very discreetly in the left thalamus. Brain MRI in FLAIR axial section, showing hyperintensity peripherally to both lenticular nuclei.
+
+Diagnosis
+- Wernicke-Korsakoff encephalopathy.
+- Lower respiratory tract infection.
+- Antithrombin III deficiency.
+- Polyclonal hypergammaglobulinaemia.
+
+Treatment
+Thiamine 300 mg/8 h intravenous.
+
+Evolution
+In addition to treatment with intravenous thiamine, treatment was initially started with acyclovir and ampicillin to protect against a probable neuroinfection by herpes virus and Listeria. After performing a brain MRI, which was compatible with the diagnosis of Wernicke's encephalopathy, and given the negative results of the cultures and PCR for neurotropic virus, treatment was continued only with intravenous thiamine and later orally. As a complication during admission, he presented a lower respiratory tract infection that subsided after treatment with antibiotics, bronchodilators and mucolytics. The control brain MRI 8 days later showed a clear radiological improvement, with persistence of only a slight increase in FLAIR signal in the hippocampus. The neurological examination at discharge showed only an unstable tandem, the rest of the examination being normal. Reviewed at 3 months, the patient remained asymptomatic, with a normal neurological examination.

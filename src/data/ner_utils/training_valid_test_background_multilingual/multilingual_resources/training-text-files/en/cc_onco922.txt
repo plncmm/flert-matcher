@@ -1,0 +1,33 @@
+Anamnesis
+Family history: maternal uncle died of prostate cancer at over 70 years of age and another of pharyngeal neoplasia. Paternal uncle died of lung cancer.
+Personal history: no known drug allergies. Ex-smoker for 20 years (20 packs/year). Diabetes mellitus type II since 2004, insulin-dependent for 3 years.
+Hypercholesterolemia. Worker in a winery. Denies drug use. Usual treatment: simvastatin 20 mg, omeprazole 20 mg, naproxen if in pain, cinitapride 10 mg before meals.
+His oncological history began on 03/12/16, when the patient attended the emergency department with fever of up to 38.5oC, weight loss of 7 kg in the last month, dysphagia for solids and liquids, with a feeling of early gastric fullness, intense asthenia and hypogastric abdominal pain.
+Ultrasound and urgent abdominal CT scan with contrast showed a central abdominal tumour measuring 17.2 x 7.7 x 7.5 cm, with a large hydro-aerial component, marked and irregular mural thickening, in contact with small bowel loops, probably related to complicated GIST. It was decided to perform an urgent exploratory laparotomy due to suspicion of intestinal perforation, which revealed a central abdominal cloaca, and resection of the tumour with several intestinal loops and mechanical laterolateral anastomosis was performed. Suboptimal surgery due to affected edges.
+The anatomopathological report showed findings compatible with mesenteric fibromatosis of the desmoid type, with positive immunohistochemical study for smooth muscle actin and beta-catenin; and negative for desmin, CD34, S100, CD117(C-KIT) and DOG1.
+First assessed in medical oncology consultations on 16/01/2017, close follow-up with radiological control in 4 months was decided, as well as colonoscopy due to the known association of desmoid tumours and familial adenomatous polyposis (FAP).
+One month after the operation, the patient attended the emergency department for pain in the right renal fossa with irradiation, and an abdominal CT scan showed moderate right ureterohydronephrosis and multiple peritoneal implants, compatible with tumour recurrence. Urology and surgery ruled out further surgery, so he was admitted to oncology to complete the study and a right percutaneous nephrostomy was performed without complications.
+Prior to discharge, colonoscopy was performed and FAP was ruled out. Given the clinical-pathological discordance (tumour necrosis, peritoneal implants, clinical evolution, etc.), a new histological review was requested at a reference centre for soft tissue tumours, resulting in a diagnosis of diffuse large cell B lymphoma, germinal immunophenotype with positive immunoexpression for BCL-6 and negative for MUM-1, CD5, CD10, cMYC and EBER with a proliferative index (Ki67) of 80%. Consequently, the patient continued his evolution under the care of the haematology department.
+After the onset of fever together with ataxia, sensory disturbances and emetic syndrome, a brain MRI was performed which ruled out brain involvement. A lumbar puncture was performed and Cryptococcus antigen (+) was detected; liposomal amphotericin and fludrocortisone were started (treatment start date: 17/03/17). After 48 hours, HIV serology (+) was reported with a viraemia of 684,000c/ml and LCD4 count of 38/ul.
+The patient progressed favourably, with a control culture (-) and after completing the cycle, de-escalation to oral fluconazole was performed. After four weeks of antifungal treatment, antiretroviral treatment was started with raltegravir + FTC + TDF with good tolerance.
+A PET scan was completed which showed extensive abdominal and pulmonary involvement, bone biopsy (without infiltration) and echocardiogram with preserved ejection fraction. In stable condition, R-CHOP cycle was started with good tolerance and response.
+
+Physical examination
+ECOG 2. Dry mouth without aphthae. Marked cachexia. At the abdominal level, there was marked impaction in the right hemiabdomen, as well as dubious pain in the left flank with pain on palpation of the epigastrium and right hypochondrium. The rest was unremarkable.
+
+Complementary tests
+"I.V. contrast-enhanced CT scan of the abdomen (13/02/2017): progression of the disease with multiple intraperitoneal masses compatible with metastatic implants. One of them obstructs the right ureter and another one infiltrates a delegate's loop in the left iliac fossa.
+"CSF (17/03/17): 30 leukocytes (10 % PMN, 30 % MN), 0 red blood cells, 97 glucose, 125 proteins, 22.3 ADA. Abundant lymphocytes. IF: only 4 % monoclonal B-lymphocytes, rest T-lymphocytes. Cryptococcus antigen detected.
+"Serology (20/03/17): HIV (+), HBV and HCV (-), CMV IgG(+), EBV(-), HSV IgG(+), Syphilis (-), toxoplasma IgG(+). B2-microglobulin (21/04/17): 4.52, LDH: 473.
+"PET scan (24/04/17): reports extensive supra- and infradiaphragmatic involvement with predominance of large masses at abdominal level, as well as pulmonary and no findings in the rest.
+
+Diagnosis
+"Diffuse large B-cell lymphoma (DLBCL) centrogerminal type.
+"HIV infection category C3 (AIDS).
+"Cryptococcal meningitis.
+
+Treatment
+After presenting the case in a multidisciplinary session, it was decided to start treatment with liposomal amphotericin and fludrocortisone, switching to oral fluconazole. After 4 weeks, antiretroviral treatment was started with raltegravir + FTC + TDF and, finally, systemic chemotherapy was started according to the R-CHOP scheme.
+
+Evolution
+Patient with the previously described history, stable at the present time, being monitored by the Haematology Unit in Outpatients' Departments. Good response and tolerance after third cycle of R-CHOP.

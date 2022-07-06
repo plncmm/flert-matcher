@@ -1,0 +1,18 @@
+Apresentamos o caso de uma mulher de 37 anos, com a única história clínica de síndrome ansio-depressiva tratada com lorazepam e fluoxetina, que consultou o departamento de emergência uma semana após ter sofrido um processo de tonsilas manifestado com odynophagia e tratado com antibioterapia pelo seu médico de cuidados primários, com uma sensação de entorpecimento na hemibody esquerda, diplopia e instabilidade da marcha. Tendo em conta estes sintomas, foi realizado um TAC craniano, o que era normal, e o paciente teve alta. No entanto, em casa houve um agravamento progressivo dos sintomas, com uma sensação generalizada de entorpecimento, incapacidade deambulação e diplopia, razão pela qual foi internada na enfermaria do hospital. Após 24 horas de admissão, continuou a agravar-se, com o aparecimento de sonolência intensa, desorientação, oftalmoparesia bilateral (com ptose e limitação de todos os movimentos oculares) e tetraparese predominantemente crural, com Babinski bilateral; nesta situação a paciente foi transferida para a Unidade de Cuidados Intensivos, necessitando de intubação orotraqueal.
+
+Testes complementares
+- Hemograma e bioquímica sem alterações significativas. Receptor anti-NMDA e anti-acetilcolina negativo. Anticorpos antigangliosídeos negativos (incluindo o antiGQ1B).
+- CSF: bioquímica normal. PCR de enterovírus, vírus do herpes e Varicella Zoster negativo. Culturas bacterianas e fúngicas negativas. BAAR negativo.
+- TAC Cranial: normal.
+- Ressonância magnética craniana: normal.
+- Ressonância magnética craniana de controlo (realizada 2 semanas após a admissão): nenhuma alteração significativa no tronco ou no cerebelo. Imagens focais pouco simétricas de sinal aumentado em Flair podem ser vistas tanto ao nível das cápsulas internas, sem restrições de difusão, como de outras imagens subcorticais ao nível parietooccipital de características semelhantes, de natureza não específica.
+- Ressonância magnética da coluna cervical: discretas saliências posteriores do disco ao nível de C5-C6 e C6-C7.
+- Estudo electrofisiológico: normal.
+- Estudo electrofisiológico de controlo: condução sensorial, motora e F-resposta de ambas as MMII normais.
+F de ambos os MMII normais. EEG: abrandamento da actividade bioeléctrica de média tensão sem outras anomalias sobrepostas. EMG de fibra única: estudo normal. VEPs: estudo normal. Cálculo de VA de OI:1.
+
+Evolução
+A paciente foi internada na UCI durante 2 semanas, onde evoluiu favoravelmente em relação ao quadro clínico acima descrito. Quando voltou à ala hospitalar convencional, estava consciente e alerta, com oftalmoparesia completa e ptose esquerda, limitação do olhar bilateral horizontal e vertical no olho esquerdo, sem nistagmo. Além disso, tetraparese de intensidade 4/5 em membros superiores e 3/5 em membros inferiores, ROT algo vivo em membros superiores, patela fraca e Aquiles conservados, Babinski direito, e reflexo cutâneo plantar esquerdo indiferente. Nos dias seguintes continuou a progredir favoravelmente, e a traqueostomia foi encerrada sem incidentes, com recuperação progressiva do défice motor, voltando a poder ambular, e com lenta melhoria da oftalmoplegia, mas com persistente ptose palpebral esquerda e limitação do olhar vertical superior no olho esquerdo.
+
+Diagnóstico
+Encefalite de Bickerstaff.

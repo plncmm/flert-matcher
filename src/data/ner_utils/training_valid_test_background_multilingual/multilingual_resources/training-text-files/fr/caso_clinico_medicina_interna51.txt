@@ -1,0 +1,24 @@
+Histoire personnelle
+Patient masculin de 29 ans, sans allergies médicamenteuses connues ni antécédents médicaux ou chirurgicaux intéressants.
+
+Histoire épidémiologique
+Né en Inde, il vit en Angola depuis 15 ans et se rend fréquemment à Hong Kong pour son travail.
+
+Maladie actuelle
+Il s'est présenté aux urgences d'un hôpital espagnol parce que lors d'une croisière avec sa femme en Grèce et en Turquie, au 8ème jour du voyage, il a commencé à souffrir de fièvre, d'une jaunisse, de douleurs abdominales et de diarrhées sans produits pathologiques. Il s'est rendu dans un centre médical en Turquie, où il a subi une analyse de sang montrant un GOT 132 U/L ; GPT 244 U/L ; GGT 199 U/L, une sérologie VHB et VHC négative, une goutte épaisse et un frottis négatifs. Trois jours plus tard, le 12e jour de la croisière, une fois celle-ci terminée, il a continué à présenter le même tableau clinique. Il avait auparavant séjourné à Hong Kong pendant 20 jours et, pendant les 7 jours précédant le voyage, en Angola.
+
+Examen physique et tests complémentaires
+Aux urgences, il présentait de la fièvre (39o), une tension artérielle de 93/54 mmHg, une fréquence cardiaque de 93lpm, et à l'examen physique, il présentait une hépatomégalie de 2 croix, sans autre altération significative. Les tests de laboratoire ont révélé 18000 plaquettes, une créatinine de 1,74 mg/dL, une bilirubine totale de 12,14 mg/dL (bilirubine directe 8,63 mg/dL, bilirubine indirecte 3,51mg/dL), GOT 141 U/l, GPT 163 U/l. ECG et radiographie pulmonaire sans altération significative ; l'échographie abdominale a montré une discrète hépatomégalie. Le test de diagnostic rapide du paludisme a été répété et s'est révélé positif, le frottis et le frottis de sang épais avec une parasitémie de 17%.
+
+Évolution pendant l'admission
+Un diagnostic de paludisme grave a été posé, avec hyperparasitémie, ictère/transaminasémie et thrombocytopénie comme critères de mauvais pronostic. Il a été admis aux soins intensifs et le traitement a commencé par de l'artésunate i.v. pendant 3 jours pendant son séjour aux soins intensifs. Par la suite, avec la récupération de la fonction rénale, de la thrombocytopénie, de la tolérance de la voie orale et de la stabilité hémodynamique, il a été décidé de le transférer dans le service hospitalier conventionnel, en poursuivant le traitement par artéméther-luméfantrine (Riamet), 4 comprimés toutes les 12 heures pendant 3 jours. Les jours suivants, il a présenté une stabilité hémodynamique, une réduction progressive de la fièvre et des transaminases. Le jour +7 de l'admission, il a de nouveau eu un pic de fièvre (38.7oC), et l'analyse de sang a montré une hémoglobine de 10.7 mg/dL (à l'admission 12.2mg/dL) et une LDH de 1157 U/L (à l'admission 570 U/L). Au cours des jours suivants, il a continué à avoir de la fièvre, une baisse de l'hémoglobine et une élévation des LDH, atteignant le nadir de l'hémoglobine (8,3 mg/dL) et une élévation des LDH de 1582 U/L au jour 14 de l'admission. L'anémie hémolytique a été étudiée et les tests complémentaires suivants ont été effectués :
+- Étude de l'hémolyse : réticulocytes élevés, Hb diminuée, LDH élevée, haptoglobine normale et étude de la ferrocinétique dans les limites de la normalité.
+- Auto-immunité : ANAs et cryoglobulines dans les limites normales.
+- Coombs négatif
+- Pas de déficit en G6PD
+- Immunophénotype dans les limites de la normale.
+- Cholangiorésonance : aucune altération significative.
+- Sans changement d'attitude clinique, 13 jours plus tard, il présentait des taux d'hémoglobine de 10,2 mg/dL, LDH 647 U/L, bilirubine totale 2,91mg/dL avec normalisation des transaminases, et il a donc été décidé de le faire sortir de l'hôpital avec un suivi ultérieur dans des cliniques externes.
+
+Jugement clinique
+Paludisme grave. Anémie hémolytique secondaire à un traitement à l'artésunate. Bonne évolution clinique jusqu'à la normalisation des différents paramètres analytiques.

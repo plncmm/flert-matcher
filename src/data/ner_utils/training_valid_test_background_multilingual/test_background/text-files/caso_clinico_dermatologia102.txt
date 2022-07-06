@@ -1,0 +1,17 @@
+Anamnesis
+Varón de 51 años, exfumador, diagnosticado en 2009 de carcinoma epidermoide de pulmón (T3N2M0) que inicialmente recibió varios ciclos de quimioterapia y radioterapia, seguidos de una pauta de mantenimiento con erlotinib 150 mg al día vía oral. Tras iniciar erlotinib, desarrolló una leve reacción acneiforme en cara y cuero cabelludo, xerosis y paroniquia en varios dedos de manos y pies. Un año después de comenzar con el erlotinib, el paciente refiere dolor e inflamación en primer dedo de pie derecho, con empeoramiento de la paroniquia previa, presentando importantes signos inflamatorios en pliegues ungueales laterales de la primera uña de pie derecho acompañado de un exudado serosanguinolento. Se instaura tratamiento con amoxicilina-clavulánico vía oral y se disminuye la dosis de erlotinib a 100 mg al día, con mejoría del cuadro, tras lo cual se retoma la pauta previa de erlotinib 150 mg diarios. Después de la resolución de este último episodio el paciente permanece estable durante 4 años, momento en el cual, consulta de nuevo en nuestro servicio por prurito y aparición de lesiones cutáneas dolorosas por la práctica totalidad del cuero cabelludo. El paciente además aqueja una importante caída de pelo.
+
+Exploración física
+A la exploración se observa eritema, pápulas y nódulos dolorosos acompañados de importante edema y formación de una gruesa costra amarillenta por la práctica totalidad del cuero cabelludo asociado a zonas alopécicas parcheadas irregulares.
+
+Exploraciones complementarias
+Realizamos biopsia y cultivo del cuero cabelludo, así como analítica completa (planteándonos algún tratamiento más agresivo en el futuro, si fuera necesario). El estudio histológico mostró inflamación infundibular con polimorfonucleares neutrófilos, intenso infiltrado inflamatorio perianexial linfoplasmocitario con fibrosis, y costra fibrinopurulenta en superficie con sobreinfección bacteriana. La tinción PAS fue negativa para hongos, siendo los hallazgos compatibles con una foliculitis quística profunda PAS negativa. El cultivo confirma la sobreinfección por Staphylococcus aureus resistente a mupirocina.
+
+Diagnóstico
+Foliculitis decalvans secundaria a tratamiento con erlotinib.
+
+Tratamiento
+Se pauta tratamiento empírico con amoxicilina-clavulánico 875/125 mg/8 h vía oral (1 semana), pasando posteriormente a doxiciclina 100 mg/8 h vía oral hasta la revisión. También se indica prednisona 5 mg vía oral (1 semana) dada la intensa inflamación, acetónido de fluocinolona 0,025% gel mezclado con mupirocina pomada por las noches y aceite de oliva y descostrado suave por las mañanas. Tras la obtención de los resultados del cultivo, se cambia el tratamiento con mupirocina pomada por ácido fusídico crema según antibiograma.
+
+Evolución
+El cuadro evoluciona hacia la resolución progresiva en menos de 1 mes, dejándose entonces una pauta de mantenimiento con doxiciclina 100 mg/24 h vía oral, no siendo necesario la introducción de otro fármaco sistémico más agresivo (como retinoides orales) ni la retirada o la disminución de la dosis de erlotinib.

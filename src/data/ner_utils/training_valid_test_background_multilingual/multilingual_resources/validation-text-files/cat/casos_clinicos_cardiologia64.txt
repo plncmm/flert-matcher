@@ -1,0 +1,30 @@
+ANTECEDENTS, MALALTIA ACTUAL I EXPLORACIÓ FÍSICA
+Home de 68 anys d'edat, amb antecedents d'hipertensió arterial, exfumador, bronquitis crònica i tuberculosi pulmonar en la joventut. Va ser intervingut dos anys abans d'hèrnia epigàstrica i vòlvul gàstric i un any abans d'eventració abdominal. Dos mesos abans ingressa en Cardiologia amb el diagnòstic de possible pericarditis aguda idiopàtica, descobrint-se de manera casual recidiva d'hèrnia pasaesofágica. Com a tractament habitual presa dutasterida 0,5 mg/24h, tamsulosina 0,4/24h, olmesartan 4/12 h, salmeterol/ fluticasona 50/500 mg/24h, diltiazem, clembuterol i omeprazol.
+Ingressa de forma programada per a cirurgia correctora d'hèrnia paraesofágica amb reducció de l'estómac herniado, tancament dels pilars diafragmàtics, fundoplicatura tipus Nissen i gastropexia.
+
+En els dies següents a la cirurgia el pacient es queixa de dolor toràcic irradiat a l'espatlla amb dispnea i disfàgia acompanyant, sense objectivar-se causa aparent. El vuitè dia postoperatori presenta deterioració important de l'estat general, amb hipotensió marcada, dolor toràcic i dispnea intensa pel que s'avisa a l'equip de Cardiologia de guàrdia.
+
+A l'exploració física presenta hipotensió 90/65 mmHg, taquicàrdia (120 lpm), marcada IY a 45o, tons cardíacs apagats, crepitantes en bases pulmonars, emfisema subcutani costat i hemiabdomen dret, edema MMII.
+
+PROVES COMPLEMENTÀRIES
+ECG: taquicàrdia sinusal a 120 lpm. Eix -30o, BIRDHH. Elevació del ST difusa amb descens en AVR, descens del PR amb ascens en AVR (compatible amb pericarditis aguda).
+Radiografia de tòrax: cardiomegalia important, congestió pulmonar Analítica: urea 110, Cr 1,78, ions normals, PCR > 9 mg/dl, Hb 10,4, leucocitosis (15300/ul, neutrofilia 88%), plaquetopenia 67 000/ul. Coagulació normal. Marcadors mal miocàrdic negatius. Colesterol normal. Ferro normal. Tiroides normal.
+Ecocardiograma urgent: vessament pericardíac circumferencial, 30 mm, col·lapse de cavitats dretes i tendència al col·lapse del ventricle esquerre, alternança dels fluxos valvulars amb la respiració, compatible amb tamponament ecocardiográfico.
+
+EVOLUCIÓ
+Es trasllada a Unitat de Vigilància intensiva Cardiovascular on es realitza pericardiocentesis percutània amb obtenció d'abundant líquid purulent, enviant les corresponents mostres per a anàlisi bioquímica i microbiològica i inici de tractament antibiòtic empíric d'ampli espectre (meropenem + vancomicina). Donat l'antecedent recent de cirurgia digestiva se sospita relació amb el procés actual pel que se sol·licita TAC toràcic per a descartar la presència de fístula digestiu-pericardíaques.
+TAC: nivell hidroaéreo en vessament pericardíac greu d'uns 3 cm circumferencial. Després d'administrar contrast oral no s'observen dades que suggereixin la presència de fístula digestiva-pericardi. Pericarditis bacteriana, neumoperitoneo, emfisema subcutani.
+Cultiu líquid pericardíac: líquid purulent, amb abundants PMN, creixement de diversos microorganismes: Str beta hemolític grup F, Str Viridans, BGP aerobi, BGN. Tincions i cultius micobacterias negatives. Antibiograma: sensible a amoxicilina-clavulánico, resistent a vancomicina).
+Ecocardiograma control: dades de constricció pericardíaca, moviment paral·lel de totes dues fulles pericardi i engruiximent. Encara que inicialment després de la pericardiocentesis percutània millora significativament, després s'observa que el vessament pericardíac augmenta progressivament i persisteixen signes i símptomes d'insuficiència cardíaca, per la qual cosa es realitza pericardiotomía subxifoidea drenant 200 cc de líquid purulent i fibrina.
+Anatomia patològica: pericarditis crònica fibrosa amb superfície interna necrohemorrágica i purulenta. Gran reacció fibroblástica i esclerosi associada. Millora de la situació clínica i afebril però en els ecocardiogramas seriats augment del vessament pericardíac en la cara lateral augment progressiu pel que es realitza cirurgia cardíaca i s'extirpa el pericardi mitjançant pericardiectomía interfrènica i drenatge d'abscés epicárdico en cara lateral de ventricle esquerre i en aurícula dreta.
+Conreo càpsula pericardíaca negatiu. Quantiferon negatiu, resultat que indica mínima probabilitat d'infecció per M. Tuberculosi.
+
+El pacient va completar diverses setmanes de tractament antibiòtic intravenós (inicialment: meropenem 1 g/8h, 3 setmanes + vancomicina 1 dia i posteriorment: imipenem 0,5 g/8h + amikacina 800 mg/24h, 2 setmanes). Bona evolució i millora progressiva posterior. En total va estar ingressat més de dos mesos. En l'actualitat el pacient es troba asimptomàtic i realitzant vida activa. En els ecocardiogramas de control ha desaparegut completament el vessament pericardíac.
+
+DIAGNÒSTIC
+Recidiva hèrnia paraesofágica intervinguda amb cirurgia tipus Nissen.
+Pericarditis aguda purulenta, vessament pericardíac greu i tamponament cardíac.
+Pericarditis efusiu-constrictiva.
+Pericardiocentesis evacuadora i diagnòstica.
+Pericardiotomía subxifoidea.
+Pericardiectomía i drenatge d'abscés pericardíac.

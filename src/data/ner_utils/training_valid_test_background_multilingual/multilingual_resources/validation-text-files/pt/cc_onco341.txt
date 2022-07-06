@@ -1,0 +1,56 @@
+Anamnese
+Fêmea 52 anos de idade
+História pessoal:
+- Nenhuma alergia a drogas conhecida
+- Sem hábitos tóxicos.
+- Menarca aos 12 anos de idade. G2P2A0. FUR : Setembro de 2015
+- Nenhum historial médico de interesse
+- Sem intervenções cirúrgicas
+História da Família:
+- Mãe Ca Breast aos 58 anos de idade
+- Padre Ca Prostate aos 60 anos de idade
+- Primo materno com peito Ca aos 40 anos de idade.
+- Primo materno com peito Ca e útero Ca aos 42 e 45 anos respectivamente.
+
+Consultou o departamento de emergência em Outubro de 2015 para dores lombares baixas de meses de evolução, com dor em toda a coluna vertebral, principalmente na zona lombar superior, baça, contínua, com características mecânicas (VAS 6), com picos de exacerbação (VAS 10) em relação aos movimentos e nenhuma melhoria com repouso ou AINE, interferindo com a sua actividade diária nas últimas semanas. Também se apresenta com dispneia em esforço moderado e dor pleurítica no lado esquerdo.
+
+Exame físico
+O exame físico revelou uma massa de 8 cm, de cerca de 6 meses de evolução, ulcerada, ao nível do CSD do peito esquerdo, sem sinais de infecção, sem linfadenopatia axilar palpável, nem em outras cadeias de gânglios linfáticos. Também houve dor na palpação do processo espinhoso ao nível de D12, L1 e L2; o resto do exame foi inalterado.
+
+Testes complementares
+Os testes complementares seguintes foram realizados no departamento de emergência:
+- Raio-X ao tórax: nódulo espiculado de aproximadamente 1,5 cm em LII.
+- Raio-x da coluna vertebral: lesões blásticas em L1 e L2.
+- Testes laboratoriais: Hb 8.6: Hb 8.6; GPT 89; LDH 620; Fosfatase alcalina 160.
+
+Tendo em conta estes resultados, a paciente foi internada no hospital e foi solicitada uma ressonância magnética urgente da coluna vertebral e da mama.
+A RM da coluna vertebral mostrou uma lesão infiltrativa a um nível posterior no corpo vertebral D12 com extensão ao pedículo, tanto processos transversais como processos espinhosos com expansão óssea. Maior envolvimento do corpo vertebral L1 com sinais de expansão óssea e envolvimento de todos os elementos posteriores. Estenose conjuntival de foramina sendo grave em D12-L1, moderada em L1-L2 e moderada em D11-D12, e envolvimento radicular de D12 e L1. Envolvimento do processo espinhoso de L2 e dois focos nodulares em D11 sugestivo de metástase.
+A RM ao seio mostrou uma massa 8x8x5 na CSE do seio esquerdo, com crescimento exófito, contornos mal definidos e sinais de envolvimento da pele.
+
+BAG foi realizado, o que foi positivo para o Carcinoma Ductal Infiltrante de Nottingham Grau II, ER 100%, RP 90%, Her 2 +++, Ki 67 60%. Luminal B Her 2+.
+No estudo de extensão o TAC também mostrou um conglomerado adenopático paratraqueal direito de 3,5 cm e nódulos pulmonares, o maior de 15 mm no segmento apical da LII e no LSI de 5 mm.
+O GGO mostrou lesões múltiplas com predominância lítica na junção condro-estética do 3º arco costeiro direito, em segmentos posteriores do 5º arco costeiro direito e fractura do 2º arco costeiro esquerdo.
+
+Diagnóstico
+Finalmente, com o diagnóstico de Carcinoma Ductal Infiltrante da mama cT4NxM1 luminal B Seus 2 positivos, ela teve alta do hospital em 10/10/2015 e o caso foi avaliado no Comité Multidisciplinar, propondo um tratamento sistémico.
+
+Tratamento
+Após ter sido avaliado em consultas médicas oncológicas, foi decidido iniciar uma RT antialgésica na coluna vertebral, devido a um controlo analgésico deficiente.
+Posteriormente, iniciou o tratamento quimioterápico de primeira linha com Pertuzumab-Trastuzumab-Docetaxel, sem toxicidade notável.
+Quando a paciente assistiu à consulta do 2º ciclo, continuou com dores lombares com limitação funcional apesar da analgesia da terceira etapa e até relatou uma maior fraqueza nos membros inferiores, embora sem perda de força ao exame.
+
+Evolução
+Dada a suspeita de compressão da medula espinal, foi decidido o internamento hospitalar, iniciou-se o tratamento com altas doses de esteróides e realizou-se uma ressonância magnética da coluna vertebral que, em comparação com a anterior, mostrou o envolvimento da medula espinal ao nível do corpo vertebral T12 e do planalto vertebral superior de L1 em relação à cifose secundária à fractura/esmagamento, sem demonstrar mielopatia.
+Foi indicado repouso relativo, sem sintomas neurológicos no momento da avaliação, e foram avaliadas opções de apoio ortopédico e, após consulta com o Serviço de Reabilitação, foi realizada a órtese dorsolombar.
+
+Com boa evolução inicial, em 16/12/2915 foi prescrito um segundo ciclo de QMT Pertuzumab-Trastuzumab- Docetaxel com a adição de ácido zolendrónico. Quarenta e oito horas após o ciclo apresentou febre sem foco aparente (excepto para lesão tumoral no peito), para a qual iniciou terapia empírica com Augmentina (mais tarde a cultura foi positiva para Staphylococcus aureus sensível à amoxicilina). Aureus sensível à amoxicilina).
+Boa evolução inicial, pelo que recebeu o 3º ciclo de QMT em 7/1/2016. No entanto, apresentou picos febris, pelo que, na ausência de um foco claro, foi solicitado um TAC para reavaliar o tumor e estudar a síndrome febril persistente.
+O TAC mostrou uma clara resposta tumoral, mas foi observada uma lesão abdominal sugestiva de abcesso secundário à perfuração intestinal encoberta ao nível do sigma.
+Foi submetida a uma cirurgia de emergência em 8/1/16 e ressecção do tipo Hartmann com uma evolução torpídea (íleo paralítico que necessita de NGUS e sintomas febris no contexto de neutropenia pós-hemoterapia e superinfecção por E. Coli, Eneterococcus faecalis e Klebsiella produzindo BLEAs).
+No estudo anatomopatológico da cirurgia abdominal, foram relatados implantes peritoneais que não eram consistentes com um tumor mamário primário conhecido. Após um extenso estudo imuno-histoquímico (positividade celular para CK-AE1-AE3 , receptores de estrogénio, WT1 e PAX8, negatividade para GATA3, HER-2, GCDFP15 e progesterona) concluiu-se que a origem mais provável era o carcinoma seroso papilar de origem ovárica.
+A revisão retrospectiva do TAC revelou uma massa ad anexa direita de cerca de 6 cm e múltiplos implantes peritoneais.
+O caso foi reavaliado na Sessão Clínica e com o diagnóstico de cancro nos ovários, o tratamento quimioterápico foi modificado com a intenção de manter a resposta obtida no cancro da mama com cobertura adequada da segunda neoplasia dos ovários.
+A quimioterapia com Carboplatin-Paclitaxel e a manutenção do bloqueio Her-2 foi portanto indicada e, após a resolução das complicações pós-operatórias e a retirada do isolamento, ela teve alta.
+
+Recebido a 11/2/2016, 1º ciclo (a 80% da dose), sem toxicidade notável, recebeu os seguintes ciclos com 100% da dose com PR por TC ao fim de 4 ciclos, aguardando avaliação ao fim de 6 ciclos.
+Foi encaminhada para a consulta de aconselhamento genético com resultados moleculares 5382insC em BRCA1, confirmando que a paciente é portanto portadora desta mutação, indicando o seguimento para ela e para os seus descendentes nesta unidade de aconselhamento genético.

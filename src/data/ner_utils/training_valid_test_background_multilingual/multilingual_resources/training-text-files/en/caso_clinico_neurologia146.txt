@@ -1,0 +1,27 @@
+Anamnesis
+31-year-old woman, with no toxic habits (sporadic alcohol consumption), with mild hypertriglyceridaemia and hypercholesterolaemia. She has 4 dogs, 2 cats and is a florist. Three months earlier she presented a fever (up to 40oC) and vomiting, for which she took antibiotic and antiemetic treatment, which resolved in 3 days. After 2 weeks she presented with a new emetic syndrome and pathological urinary sediment, receiving a new round of antibiotics. She was seen by a gastroenterologist for a new 3-day episode of vomiting of food accompanied by cramps in the upper limbs, without fever. Abdominal ultrasound with no pathological findings. The cramps were attributed to electrolyte disturbance due to vomiting and treatment was prescribed with domperidone and pantoprazole. Four days later, she visited the emergency department for distal tingling and persistent cramps. With no neurological focality on examination, she was discharged and referred for further assessment by the Digestive System specialists. The following morning, the patient began to experience generalised weakness, predominantly on the left and below, dragging of the left foot and difficulty urinating, for which reason she returned to the emergency department. She did not report headache, infectious-fever syndrome or recent vaccinations, thrombotic phenomena, photosensitivity, oral/genital aphthae, arthritis/arthralgias, serositis, visual, cutaneous or behavioural alterations or convulsions.
+
+Physical examination
+Afebrile, haemodynamically stable. Normal level of consciousness, nuchal rigidity without other meningeal signs. Cranial nerves normal. Mild tetraparesis IV/V in the right extremities and III/V in the left extremities, without amyotrophy or fasciculations. Exalted osteotendinous, cutaneous-abdominal reflexes and signs of Hoffman and Babinsky present bilaterally. Hypoaesthesia tactoalgesia in the right upper limb (MSD) and level from D8 predominantly left. Vibratory and arthrokinetic sensibility preserved. Finger-nose inaccuracy with MSD. Negative Romberg and paretic gait with left leg. Rest of neurological and general examination with no pathological findings.
+
+Complementary tests
+- Blood count, basic coagulation, biochemistry, vitamin B12, folate and thyroid hormones: normal.
+- Infectious blood serologies (HIV, HCV, HBV, Herpesvirus, Mycoplasma, Borrellia, Brucella), PCR for HSV, enterovirus and tuberculosis: negative.
+- Anti-AQP4: negative.
+- Serum ACE: normal levels.
+- Cerebrospinal fluid (CSF): clear, 17 cm H2O pressure, no blockages. Biochemistry: red blood cells 10/mm3, leukocytes 155/mm3 (neutrophils 15%, lymphocytes 85%), proteins 125 mg/dl, glucose 49 mg/dl, lactic acid 2.3 mmol/l. Serology VDRL, FTA, Mycoplasma, Borrellia, HSV 1 and 2, CMV, EBV and VZV: negative. Culture, Gram stain, agglutinations and India ink: negative or without microorganisms. BOC: negative.
+- Immunological study: ANA positive, homogeneous pattern 1/160; anti-DNA 181 U/ml; antihistone positive; anti-cardiolipin IgG and anti-beta-2-glycoprotein IgG positive (IgM negative); ANCA, anti-gliadin, anti-phospholipid, Russell: negative.
+- Electrocardiogram (ECG) and chest X-ray: normal.
+- Magnetic resonance imaging (MRI) of the brain with gadolinium: small right frontal venous angioma.
+- Spinal MRI. Hypersignal from the pontine junction to D6 in the sagittal MRI T2 sequence, with patchy areas of gadolinium uptake in T1.
+- Neurophysiological study: somatosensory evoked potentials: delayed medullary conduction from the left posterior tibial nerve; normal visual and brainstem evoked potentials.
+
+Diagnosis
+Longitudinally extensive cervical-dorsal cervical myelitis secondary to undifferentiated autoimmune disease: probable systemic lupus erythematosus.
+
+Treatment
+Given the rapid and significant clinical involvement and the CSF and MRI findings, he was admitted to the ICU for monitoring, with no clinical progression in the following hours. Antibiotic and antiviral treatment was started until an infectious aetiology was ruled out, which was suspended after the CSF results and due to the absence of other signs of infection. The immunological profile suggested an inflammatory-myelinating origin and daily boluses of megadoses of corticosteroids were administered for 5 days. In conjunction with Rheumatology, treatment was continued with prednisone tappering up to maintenance doses. Sensory disturbances were treated with gabapentin and later oxcarbazepine due to lack of efficacy.
+
+Evolution
+The patient improved rapidly after starting treatment. At discharge, she showed no motor impairment and a clear sensory improvement. She continued to be monitored by Neurology and Rheumatology. At 3 months she showed distal dysaesthesias (upper limbs and "belt" at multiple levels) and flexor dystonic episodes in the hands, in the context of remyelination, which have improved with antiepileptic drugs.
+Currently, spinal MRI shows persistent hypersignal at the bulbomedullary junction, C6 and C7. Brain MRI shows no changes. After 20 months of treatment with prednisone and antiepileptic drugs. There were no new neurological or systemic symptoms, with persistent dysaesthesia in the left upper limb and pectoral area. In addition to the altered immunological parameters, there was a decrease in the complement level, with no other analytical alterations.

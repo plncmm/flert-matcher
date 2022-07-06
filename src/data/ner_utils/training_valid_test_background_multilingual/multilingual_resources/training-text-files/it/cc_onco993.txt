@@ -1,0 +1,36 @@
+Anamnesi
+Donna di 68 anni, allergica alle tetracicline. Sposato con 3 figlie. Nessuna storia familiare di interesse. Storia personale di ipertensione, dislipidemia, obesità e sindrome da apnea del sonno. Ha un pacemaker permanente per il blocco atrioventricolare di tipo Mobitz II da giugno 2014.
+In trattamento con enalapril/idroclorotiazide 20 mg/12,5 mg (1-0-0), simvastatina 20 mg (0-0-1), omeprazolo 20 mg (1-0-0).
+La sua storia oncologica è iniziata nel settembre 2014, quando le è stato diagnosticato un adenocarcinoma del colon (epatico) al IV stadio, KRAS mutato (G12A). Il paziente è stato incluso in uno studio clinico randomizzato in doppio cieco FOLFOX + bevacizumab vs. FOLFOX + RO5520985.
+Ha ricevuto 11 cicli (C) fino ad aprile 2015, con risposta parziale (PR) come migliore risposta, e ha subito un'epatectomia destra nel giugno 2015.
+La sua prima TAC dopo l'intervento ha mostrato un difetto di riempimento suggestivo di un trombo nella vena succlavia destra adiacente al catetere, così come un aumento del numero e delle dimensioni delle lesioni micronodulari polmonari bilaterali suggestive di metastasi.
+Si è deciso di iniziare la seconda linea con FOLFIRI senza agenti antiangiogenici o 5-FU in bolo a causa della trombosi associata al catetere, così come l'anticoagulazione con eparine a basso peso molecolare. Dopo il C3, e una volta raggiunto il controllo della trombosi e con un buon controllo della pressione sanguigna, è stato aggiunto l'aflibercept. La tossicità più notevole è stata la diarrea G3, che ha richiesto l'ospedalizzazione, e la migliore risposta è stata la malattia stabile (SS).
+Dopo C25, il fegato ha avuto una ricaduta, quindi il trattamento è stato proposto come parte del CD RE-ARRANGE. La paziente ha accettato e, dopo la randomizzazione, è stata inclusa nel braccio di trattamento C (regorafenib 160 mg/die 1 settimana on/1 settimana off, primo ciclo, secondo ciclo 160 mg/die 3 settimane on/ 1 settimana off). Progressione epatica nella prima TAC di controllo nel novembre 2016.
+Fu deciso il ritiro con FOLFOX, di cui ricevette 3 cicli, ricoverata in due occasioni per polmonite e dolore lombare legato al coinvolgimento osseo lombare metastatico. Nel marzo 2017, il paziente ha ricevuto la prima somministrazione di acido zoledronico e la radioterapia palliativa lombare (22Gy su L2-L3 e una singola dose di 8Gy su L4). Inoltre, un tutore è stato prescritto da traumatologia.
+Nell'aprile 2017, il paziente è stato ricoverato al dipartimento di emergenza per un mal di testa di 48 ore senza risposta all'analgesia di terzo stadio. Una TAC cranica è stata eseguita senza alterazioni e la perfusione endovenosa con oppioidi è stata iniziata a dosi equivalenti a quelle che il paziente aveva per via transdermica per il controllo del dolore. Il paziente ha sperimentato un progressivo deterioramento del livello di coscienza con la comparsa di febbre, così come l'agitazione che ha richiesto antipsicotici per controllare. La cateterizzazione della vescica è stata eseguita senza urine patologiche, sono state fatte colture del sangue e delle urine, è stato iniziato l'isolamento e la terapia antibiotica empirica.
+
+Esame fisico
+Alla nostra prima valutazione in reparto, il paziente era costretto a letto e in cattive condizioni generali. Modello respiratorio eupneico a riposo con ossigeno in occhiali nasali. Pallore della pelle. Scarsa perfusione. Punteggio di Glasgow 8 (apertura degli occhi alla chiamata, ritiro al dolore, nessuna risposta verbale).
+Movimenti scoordinati degli arti superiori. Non obbedisce agli ordini. Assenza di riflesso cutaneo-plantare bilaterale. Pupille in posizione media reattiva. Il cartello di Brudzinski è presente. Rigidità cervicale. Rumori di secrezione.
+
+Test complementari
+"TAC della colonna vertebrale lombare (febbraio 2017): perdita di altezza dei corpi vertebrali di L2-L5, suggerendo piccole fratture-placche dovute a insufficienza vertebrale, con un'origine metastatica meno probabile. Al contrario, il corpo vertebrale di L4 ha mostrato una maggiore perdita di altezza e una sclerosi globale nella sua densità con aree interne mal definite di aspetto litico che formano un modello a chiazze, suggestivo di un possibile coinvolgimento metastatico.
+"TAC cranica urgente (aprile 2017): assenza di lesioni intra- o extra-assiali occupanti lo spazio, senza segni di sanguinamento o deviazione della linea mediana.
+"Esami di laboratorio il 1° giorno di ammissione (aprile 2017): leucocitosi con deviazione a sinistra. CRP 245 mg/l (nell'ER 100 mg/l). Emoglobina 9.8g/dl. Il resto, senza alterazioni di interesse.
+
+Diagnosi
+"Meningoencefalite acuta dovuta alla listeria monocytogenes.
+"Sepsi e batteriemia dovute a Listeria monocytogenes.
+"Adenocarcinoma del colon al IV stadio (fegato, ossa, polmone).
+
+Trattamento
+Il dipartimento di microbiologia ci ha informato della crescita di Listeria monocytogenes nelle emocolture, quindi, dopo aver discusso il caso con le infezioni e la neurologia, abbiamo deciso di rimandare per il momento la puntura lombare, a causa delle lesioni lombari recentemente irradiate e il deterioramento clinico del paziente, supponendo che questo germe fosse la causa dei sintomi neurologici del paziente.
+Si è deciso di iniziare una terapia antibiotica mirata con ampicillina e gentamicina, nonché una terapia adiuvante con desametasone.
+Quella stessa notte, il paziente cominciò ad avere crisi focali nell'emiblocco destro, per le quali fu prescritto midazolam per controllarle, e fu aggiunto al trattamento il levetiracetam 500 mg ogni 12 ore.
+Nonostante questo, il paziente ha continuato a presentare crisi subintrusiva, quindi è stato deciso, data la disfunzione epatica, di aggiungere lacosamide 50 mg/12 h, che è stato infine aumentato a 100 mg/12 h a causa della persistenza delle crisi.
+
+Evoluzione
+È stata richiesta una nuova TAC cranica urgente, senza cambiamenti rispetto alla precedente. Il paziente ha continuato con un progressivo deterioramento neurologico e, dopo 8 giorni di ricovero senza alcun miglioramento nonostante tutte le misure adottate, abbiamo deciso, in accordo con la famiglia, di limitare lo sforzo terapeutico.
+Il paziente è stato dimesso senza segni di sofferenza dopo 15 giorni di ricovero.
+Quella stessa notte, il paziente cominciò ad avere crisi focali nell'emiblocco destro, per le quali fu prescritto midazolam per controllarle, e fu aggiunto al trattamento il levetiracetam 500 mg ogni 12 ore.
+Nonostante questo, il paziente ha continuato a presentare crisi subintrusiva, quindi è stato deciso, data la disfunzione epatica, di aggiungere lacosamide 50 mg/12 h, che è stato infine aumentato a 100 mg/12 h a causa della persistenza delle crisi.

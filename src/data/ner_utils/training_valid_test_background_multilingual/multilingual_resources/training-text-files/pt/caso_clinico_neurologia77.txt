@@ -1,0 +1,21 @@
+Anamnese
+Um paciente de 66 anos, sem história pessoal de interesse, veio ao Serviço de Urgência com uma imagem de dor de cabeça opressiva, localização frontal e início súbito, não acompanhada de focalização neurológica, náuseas ou vómitos. Também não relatou febre nem sintomas sistémicos.
+
+Exame físico
+À chegada ao Serviço de Urgência, a paciente tinha um bom nível de consciência, era coerente na sua relação com o seu ambiente, obedecia a ordens e a linguagem espontânea era normal. O resto do exame neurológico não mostrou qualquer focalização. Durante a sua estadia no departamento de emergência, a paciente sofreu uma deterioração abrupta do seu nível de consciência, com flutuações no seu nível de consciência. Nessa altura, o exame neurológico mostrou uma tendência para dormir com bradipsicemia, os pares cranianos eram normais incluindo o fundo, ela tinha uma hemiparesia esquerda de predominância braquial com reflexos musculoesqueléticos exaltados na hemibody esquerda e deixou Babinsky. Não houve movimentos espontâneos dos membros.
+
+Testes complementares
+- Teste laboratorial geral, sem resultados. Estudo da urina sem resultados.
+- Raio-X ao tórax: sem resultados.
+- Tomografia computadorizada craniana (TC): hematoma intraparenquimatoso na região posterior do lobo parietal direito, medindo 54 x 27 x 50 mm, nos seus eixos anteroposterior, transversal e craniocaudal, respectivamente, com edema periférico. Na região posterior do lobo parietal esquerdo há outro hematoma intraparenquimatoso medindo 30 x 24 x 27 mm. Adjacente à foice cerebral do lado esquerdo há outro hematoma medindo 36 x 16 x 20 mm. Efacêutica generalizada de suturas e falta de diferenciação entre o branco e a cinza, relacionada com edema cerebral difuso. Hematoma subdural na linha mediana, no tendaorium esquerdo.
+- Ressonância magnética craniana (RM): hematomas lobulares superficiais com extensão à matéria branca e/ou subaracnoideo, múltiplos em ambos os lóbulos parietais, região parasagital, circunvolução occipital do hemisfério cerebral esquerdo. Hemorragia intraventricular tanto nos ventrículos laterais como na hemorragia subaracnoídea.
+- Serologia do HIV, vírus hepatotrópicos: negativo. Serologia neurotrópica: negativa. Factor reumatóide: negativo. C3 e C4 normal. Estudo de auto-imunidade: negativo. Líquido cerebrospinal: citoquímica normal. Sem síntese intratecal de imunoglobulina G. Bandas oligoclonais no soro e líquido cefalorraquidiano: negativo. Cultura de fluido cerebroespinhal: negativo.
+- Arteriografia do cérebro: irregularidade e dissecção de um segmento curto de C1 da artéria carótida interna direita, e estenose do segmento C1 da artéria carótida interna esquerda, com artérias renais normais. Desbaste generalizado dos vasos intracranianos com áreas alternadas de ligeira redução do calibre, que podem estar relacionadas com a vasculite cerebral.
+- Biópsia meníngea: sem alterações.
+- Biópsia do parênquima cerebral: secções de vários fragmentos de tecido cerebral com envolvimento marcado de pequenos vasos sanguíneos à custa da presença de leucócitos neutrofílicos, a nível peri e intraparietal, alternando com fenómenos ocasionais de tromboembolismo fibrinohaemático e destruição parietovascular. Perifericamente, os elementos linfocíticos e histiocíticos são vistos tanto adventícia como ao nível do parênquima cerebral, alternando neste último com degeneração vacuolar e pequenos focos hemorrágicos frequentes, bem como gliose reactiva. Não há provas de agentes patogénicos ou formações granulomatosas. Compatível com a vasculite.
+
+Diagnóstico
+Como diagnóstico sindrómico, o paciente apresentou um quadro encefalopático juntamente com uma síndrome hemisférica direita, causada por múltiplas hemorragias intracranianas secundárias a uma vasculite primária do sistema nervoso central.  O tratamento foi iniciado com bolos de metilprednisolona na dose de 1 g por dia durante 3 dias e depois 0,5 g durante mais 2 dias, com a intenção de adicionar ciclofosfamida se não houvesse melhoria.
+
+Evolução
+Apesar do tratamento, o paciente mostrou uma evolução torpida, com hipertensão intracraniana progressiva, e o TAC de controlo mostrou novos focos hemorrágicos nos lobos occipitais e um aumento do edema cerebral. A hipertensão intracraniana tornou-se refratária ao tratamento, conduzindo definitivamente à morte do paciente.

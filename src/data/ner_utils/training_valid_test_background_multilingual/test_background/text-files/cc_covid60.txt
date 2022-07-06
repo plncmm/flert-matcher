@@ -1,0 +1,15 @@
+Paciente sexo masculino de 57 años de edad, oriundo del interior de Córdoba, sin antecedentes personales patológicos, seis días posteriores al regreso de viaje por Italia (Milán, Roma, Venecia y Bolonia) comienza con fiebre, tos y rinorrea por lo que decide consultar.
+
+Al ingreso se constató tos seca con rinorrea acuosa. Negaba otra sintomatología.
+
+Su temperatura era de 39°C, con una saturación de oxigeno aire ambiente del 98%, normotenso, en buen estado general. Al examen físico presentaba como único dato positivo crepitos húmedos en ambas bases pulmonares.
+
+En el laboratorio presentaba leucocitosis (17.500 Glóbulos blancos) con neutrofilia (Valor absoluto 15.925 neutrófilos segmentados) y linfopenia (Valor absoluto 900 linfocitos), PCR 8mg/dl (valor normal de hasta 0.6 mg/dl) y aumento de enzimas hepáticas (GOT 46 con valor normal hasta 37, GPT 69 con valor normal hasta 41 y GGT 110 con valor normal hasta 49). Procalcitonina 0.03 ng/ml (Valor normal menor de 0.5 ng/ml).
+
+En la tomografía de tórax se observó un infiltrado en vidrio esmerilado bilateral, a predomino subpleural, con compromiso multilobar. Tomografía axial computada de tórax con ventana pulmonar en cortes coronal y axial mostrando múltiples infiltrados pulmonares intersticiales bilaterales de tipo "vidrio esmerilado", con afección predominante de zonas subpleurales
+
+Se realizó hisopado naso y orofaringeo con filmarray panel respiratorio (PCR para adenovirus, metaneumovirus, rinovirus, coronavirus 2293, HKU1, NL63 Y OC43, virus influenza A y B, virus parainfluenza 1-4, Virus respiratorio Sincitial, Bordetella pertussis, clamidia y micoplasma neumoniae), hemocultivo para gérmenes comunes, antígenos urinarios de legionella y neumococo y serología para VIH los cuales resultaron negativos.
+
+Ante la presencia de cuadro febril con clínica respiratoria en contexto de epidemiología positiva para enfermedad COVID-19, se decide realizar hisopado nasofaríngeo con PCR-RT para SARS-CoV-2, enviando las muestras al instituto Malbrán con resultado positivo.
+
+El paciente tras 48 hs. de internación en sala común con medidas de aislamiento por contacto y gotas, fue dado de alta con autoaislamiento domiciliario y control diario con servicio de Infectología mediante telemedicina. En controles no volvió a presentar síntomas con PCR-RT de control negativa. Sus familiares cercanos fueron negativos para las pruebas realizadas.

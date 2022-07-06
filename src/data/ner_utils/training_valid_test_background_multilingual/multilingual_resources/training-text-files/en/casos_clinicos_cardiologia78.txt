@@ -1,0 +1,24 @@
+HISTORY, CURRENT ILLNESS AND PHYSICAL EXAMINATION
+A 31-year-old male patient from Spain, with a history of anxiety disorder, no other pathological history of interest, no known allergies. No current treatment. He came for consultation due to exertional dyspnoea, presyncopal episodes and anxiety symptoms. She was referred to haematology due to an increase in eosinophils in the haemogram.
+
+Examination revealed:
+Conscious, oriented, alert. Normal language. Normal cranial nerves.
+Rhythmic heart sounds without murmurs.
+Bladder murmur preserved without aggregate noises.
+With palpable splenomegaly 6 centimetres below the left costal ridge.
+No oedema in the lower limbs. Normal peripheral pulses.
+
+COMPLEMENTARY TESTS
+In the analysis, there was an increase in eosinophil values. With suspicion of hypereosinophilic syndrome, a new blood test and extension study were requested. Absence of parasitic infection, allergy or pulmonary disease justifying the eosinophilia.
+Laboratory tests: leucocytes 3.8x10e3/uL (3.5-12), haemoglobin 11.9 g/dl (13.5-17.2), platelets 196x10e3/uL. Creatinine 1.32 mg/dl. Peripheral eosinophilia of 5000 elements/mmc. Troponin 0.020 ng/ml (0-0.056). Genetic study: 4q12 deletion associated with FIP1L1-PDFGFRA rearrangement. Echocardiogram: with signs of endomyocardial infiltration. ECG: sinus rhythm at 56 bpm, narrow QRS of normal configuration, 60o axis and transition in V3. Universal negative T waves.
+Abdominal ultrasound: homogeneous splenomegaly of 17.5 cm. Thoracic CT scan: no pulmonary infiltrates. Cardiac magnetic resonance imaging 1 (MRI 1): restrictive pattern in right cavities (small ventricle, preserved ejection fraction, atrial dilatation) with apical myocardial fibrosis. Transmural fibrosis in the mid-apical inferolateral wall of the left ventricle.
+Cardiac magnetic resonance imaging 2 (MRI 2): two hypointense images of crescentic morphology are observed in the apex that could correspond to thrombi. Late enhancement with areas of signal hyperintensity of the RV apex and inferior aspect of the LV apex that have not changed with respect to the previous description. Findings of hypereosinophilia with biventricular restrictive cardiomyopathy. Cardiac magnetic resonance imaging 3 (MRI 3): control. Morphological abnormalities previously described FE 59%, hypointense areas are observed in the apex of both ventricles of linear morphology that probably correspond to fibrosis raising the differential diagnosis with laminar thrombus.
+
+EVOLUTION
+Treatment was started with imatinib at a dose of 400 mg daily, well tolerated and with a rapid haematological response that allowed a dose reduction to 100 mg daily after 2 months. A control ultrasound scan of the abdomen showed the absence of splenomegaly. Symptom improvement. Subsequently, arterial hypertension was diagnosed. We started treatment with bisoprolol 2.5 mg daily, which we had to discontinue due to intense asthenia. We replaced bisoprolol with olmesartan 10 mg daily with good tolerance and good control. Studies for secondary causes were negative. Cardiac MRI was requested where a restrictive pattern was observed as described in the complementary tests (MRI 1). In the control cardiac MRI (MRI 2) performed at 12 months, we detected images of crescentic morphology at the level of the apex. The images offer a reasonable doubt between laminar thrombi at the apical level versus artefacts. In favour of thrombi is the fact that they are located over the areas of fibrosis detected in the MRI and the high thrombogenicity of this disease, although the fact that they appear in both ventricles suggests that it could also be an artefact. Echocardiography showed no evidence of intracavitary thrombus. We explained the situation to the patient and decided to start anticoagulation with sintrom, which we again had to suspend due to intense asthenia and osteomuscular pain. We raised the possibility of starting treatment with rivaroxaban 20 mg daily, for off-label use. After explaining to the patient that this is not an indication studied in clinical trials or approved by the Ministry, we decided to treat the patient jointly, in the controls he presented good tolerance and disappearance of the symptoms attributed to the synthroid. In the control MRI (MRI 3), after 3 months of anticoagulation, the same images continue to appear, which are not present in the echocardiography. However, given that thrombotic phenomena appear in up to 25% of cases and that the current indications for anticoagulation contemplate starting treatment when thrombosis has already occurred, we decided to maintain treatment, even with an off-label drug.
+
+DIAGNOSIS
+Myeloproliferative neoplasm with eosinophilia associated with FIP1L1- PDGFR rearrangement.
+Restrictive cardiomyopathy with apical and inferolateral LV and apical RV myocardial fibrosis.
+Probable LV apex thrombi in hypersosinophilic syndrome.
+Essential hypertension.

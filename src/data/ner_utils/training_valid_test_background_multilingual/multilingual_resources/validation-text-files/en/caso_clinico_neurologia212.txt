@@ -1,0 +1,30 @@
+Anamnesis
+An 80-year-old man came to the emergency department with gait instability and a feeling of nausea for the last 2 days, which had started abruptly while he was walking, with a worsening of the symptoms in the last 24 hours. He also presented oppressive bitemporal oppressive headache of moderate intensity for the last 10 days and asthenia of one month's duration.
+
+Personal history: ex-smoker, dyslipidaemia under dietary treatment, benign prostatic hyperplasia, repeated urinary tract infections. Family history: of no interest. Independent for basic activities of daily living. Barthel scale of 100 points.
+
+Physical examination
+General: good general condition, blood pressure 162/86 mmHg, heart rate 72 bpm, temperature 35.7 oC. Normal mucocutaneous colouring, normal perfusion and hydration, eupneic. Induration of both temporal arteries, more marked on the right side; carotid arteries rhythmic, without murmurs; rhythmic heart tones, without murmurs; preserved vesicular murmur without added noise; abdomen globular, soft and depressible, without masses, megaliths or signs of peritoneal irritation; pulses present, without oedema in the extremities or signs of deep vein thrombosis.
+
+Neurological examination: oriented, normal speech, no apraxia or agnosia. Pupils isochoric and normoreactive, right homonymous haemianopsia in the confrontation campimetry, extrinsic ocular motility without alterations, no facial asymmetry, rest of cranial nerves without alterations; tone, trophism and muscle balance preserved, myotatic reflexes alive in a generalised way, bilateral skin-plantar flexor reflex, bilateral Hoffmann negative; tactile, algesic and vibratory sensitivity preserved; dysdiadochokinesia and dysmetria in bilateral toe-nose and heel-knee tests, predominantly in the left limbs; Romberg and Barany tests negative; unstable gait, without clear lateralisation, with increased base of support. NIHSS: 4 points.
+
+Complementary tests
+- Laboratory data: biochemistry, glucose 158 mg/dl, urea 61 mg/dl, CRP 20.4 mg/l, total cholesterol 229 mg/dl (HDL 57 mg/dl, LDL 151 mg/dl), haemogram 21,900/μl (79.4% neutrophils, 11.8% lymphocytes), platelets 376,000/μl, fibrinogen 638 mg/dl; other values within normal range. ESR 17 mm/h. Venous blood gases without significant alterations. Systematic urine study, normal. Pituitary-thyroid system, no alterations. PSA 21.49 mg/ml, with no alterations in the rest of the tumour markers. Negative serology for lues, HCV, HBV and HIV.
+- ECG: sinus rhythm. QRS 0.13. Right bundle branch block with secondary repolarisation alterations.
+- Chest X-ray: cardiothoracic index within the normal range, without consolidation or effusion.
+- Transcranial Doppler: acceleration of both middle cerebral arteries (MCA), more marked at the level of the right M1, without identifying the left posterior cerebral artery (PCA). Significant reduction of flow in both vertebral arteries (VA), with flow reversal in the basilar artery (BA).
+- Supra-aortic trunks duplex (TSA): normal carotid study. Shock wave pattern in both AV, compatible with distal occlusion of the same.
+- Echo-Doppler of the temporal arteries: hypoechoic halo in both temporal arteries and their branches.
+- Transthoracic echocardiogram: slight dilatation of the left atrium, with no other significant anomalies.
+- Brain CT scan: hypodensities compatible with infarcts in the territory of both posteroinferior cerebellar arteries (PICA) and left PCA.
+- Brain magnetic resonance imaging (MRI): hyperintense lesions in T2 and FLAIR sequences, with mild mass effect on the adjacent parenchyma and with effacement of sulci, compatible with infarcts in the territory of both PICA and left PCA. Brain magnetic resonance images in T2 sequence showing signs of cerebral infarction in the territory of both PICA and left PCA.
+- Cerebral CT angiography and TSA: occlusion of the V2 segment of both VAs. PCA and AB permeable, with persistence of posterior communicating artery. The carotid system showed no alterations. Angio-CT images of the supra-aortic trunks showing occlusion of proximal right V2 and distal left V2. Filiform flow in the left AV at the level of C2.
+
+Diagnosis
+Cerebral infarction in the territory of both PICA and left PCA, of unusual aetiology. Giant cell arteritis.
+
+Treatment
+He was admitted to the Stroke Unit. Following the findings in the brain CT scan and in the neuropsychological study, he received empirical steroid treatment (methylprednisolone 1 g/day, 5 days intravenously) and the care and therapeutic recommendations according to the clinical pathway. The diagnosis was subsequently confirmed. In addition to platelet antiplatelet therapy, she continued on treatment with prednisone in a descending dosage, associated with prophylactic treatment for osteoporosis and statins.
+
+Evolution
+The patient showed progressive improvement during his admission, without further complications, with an mRS score of 3 points at discharge. On subsequent examinations, he reported no new symptoms, acute phase reactants were in the normal range and the halo sign had become negative, although he persisted with an mRS score of 2 at 3 months.

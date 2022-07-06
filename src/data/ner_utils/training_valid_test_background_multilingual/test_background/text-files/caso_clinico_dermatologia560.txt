@@ -1,0 +1,18 @@
+Anamnesis
+Un varón de 55 años fue traído al servicio de Urgencias de nuestro centro por desorientación, agitación psicomotriz e incontinencia urinaria tras vuelo desde Nigeria. Como antecedentes personales destacaban hipertensión arterial y diabetes mellitus tipo dos en tratamiento con enalapril y metformina. El paciente no se encontraba acompañado, no había testimonios de testigos en la nota adjunta de los servicios aeroportuarios y, además, existía una barrera idiomática que dificultaba la anamnesis. Residía en España desde hacía 20 años sin haber realizado viajes a su país natal hasta hacía 1 mes. El servicio de Urgencias solicitó valoración dermatológica de unas lesiones cutáneas de tiempo indeterminado de evolución, y aparentemente asintomáticas, que el paciente exhibía en ambas extremidades inferiores.
+
+Exploración física
+A su llegada a Urgencias el paciente presentó una temperatura de 38,5 oC. Se observaron pústulas de base eritematosa, no foliculares, confluentes en lagos pustulosos, localizadas en ambas piernas hasta rodillas, dorso y caras laterales de pies, y antebrazo derecho. No se evidenciaron otros hallazgos en la exploración dermatológica.
+
+Exploraciones complementarias
+Dado que la anamnesis y la exploración física sugerían un cuadro infeccioso sistémico se realizó una biopsia cutánea. El análisis de sangre mostró elevación de la proteína C reactiva de 77,3 mg/l y de la velocidad de sedimentación globular de 93 mm con función hepática, renal y coagulación en rangos de normalidad. La tinción de Gram y el cultivo del contenido de las pústulas, así como los cultivos de sangre y orina resultaron negativos. Además, se solicitaron la técnica de la gota gruesa para el diagnóstico de malaria, PCR virus de herpes, y serologías para VIH, VHB, VHC, strongyloides, schistosoma, leishmania, toxoplasma, dengue, citomegalovirus y HTLV 1 y 2, siendo todas las pruebas negativas.
+Paralelamente, se inició estudio de autoinmunidad con anticuerpos antinucleares (ANA), anticuerpos anti-DNA, anticuerpos extraíbles del núcleo (ENA), anticuerpos anticitoplasma de neutrófilos (ANCA), factor reumatoide, complemento, anticuerpos antifosfolípidos y crioglobulinas, con todos los resultados también negativos. Asimismo, se realizó un TC craneal que no mostró datos de patología aguda intracraneal; una punción lumbar que presentó en la bioquímica proteinorraquia; un ecocardiograma transesofágico sin observarse vegetaciones; y una radiografía de tórax y ecografía abdominal sin datos patológicos. La biopsia mostró un intenso infiltrado neutrofílico salpicado en la dermis con imágenes de vasculitis necrotizante en vasos capilares y de mediano calibre. El estudio con inmunofluorescencia directa resultó negativo para todos los antisueros.
+
+Diagnóstico
+Poliarteritis nodosa con afectación cutánea y del sistema nervioso central.
+
+Tratamiento
+En un primer momento, se inició tratamiento empírico intravenoso con piperacilina/tazobactam, levofloxacino y aciclovir. Dada la mala evolución del paciente, quien desarrolló una disminución del nivel de consciencia y evolución al estado de coma, se pautó ciclofosfamida a dosis de 2 mg/ kg/día y pulsos de 1 g metilprednisolona durante 3 días con profilaxis para Pneumocystis. A medida que fueron llegando los resultados microbiológicos negativos se retiró la antibioterapia.
+
+Evolución
+A nivel neurológico, el paciente presentó un daño cerebral severo irreversible pese al tratamiento oportuno. Se realizó una resonancia magnética cerebral que objetivó aparición de lesiones isquémicas lacunares agudas supra e infratentoriales. A nivel dermatológico no aparecieron otras lesiones activas de vasculitis.

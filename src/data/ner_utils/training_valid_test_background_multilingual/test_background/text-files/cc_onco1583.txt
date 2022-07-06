@@ -1,0 +1,36 @@
+Anamnesis
+Mujer de 62 años de edad en la actualidad. Fumadora de 20 cigarrillos al día hasta hace siete meses durante 40 años. La paciente padeció poliomielitis en la juventud con secuelas, necesitando muleta para caminar.
+La paciente es diagnosticada en abril de 1997 de un carcinoma ductal infiltrante de mama derecha de 2,5 cm, ganglios negativos, receptores de estrógenos y progesterona moderadamente positivos, Ki-67 bajo, p53 negativo y ganglios negativos. Se trató mediante mastectomía + linfadenectomía y posteriormente recibió tratamiento de quimioterapia adyuvante esquema CMF x ocho ciclos y tamoxifeno por cinco años que termina en enero de 2003.
+En febrero de 2009, la paciente se palpa un nódulo de 2,2 cm duro y móvil en la axila derecha.
+Es intervenida quirúrgicamente, siendo la anatomía patológica de carcinoma ductal infiltrante, grado II, que infiltra el borde de resección quirúrgico lateral.
+Receptores de estrógeno 80%, receptores de progesterona 50%. MIBI menor del 15%. P53 negativo, Her-2 negativo. Se decide tratamiento adyuvante con radioterapia sobre pared torácica y áreas ganglionares (50 Gy) y sobredosificación del lecho tumoral con 16 Gy adicionales Asimismo, se inicia tratamiento con letrozol adyuvante.
+La paciente continua revisiones normales trimestrales hasta febrero del 2010 en el que se detecta un CEA de 36,5 ng/mL; un CA-15,3 de 39,9 U/mL. Se solicita una TC toracoabdominopélvica en el que se evidencia únicamente un nódulo subpleural de 1 cm.
+Ecografía de mama y gammagrafía ósea normales.
+Por tanto, se solicita una PET-TAC en el que se evidencian adenopatías en mediastino e hilio pulmonar izquierdo de 1,5 y 1,1 sugestivo de metástasis. Nódulo milimétrico en la base pulmonar izquierda no valorable.
+Dado que se trataba de una mujer con un cáncer de mama en 1997 y una recidiva locorregional en febrero de 2009, que un año después presenta una elevación de los marcadores y una recaída ganglionar, se supone como una progresión ganglionar del cáncer de mama. La paciente en estos momentos rechaza tratamiento con quimioterapia dado que refiere que por sus antecedentes personales (poliomielitis) presenta empeoramiento de la neuropatía con la misma. Por tanto, se propone ensayo clínico 2006-11: fulvestrant bevacizumab que acepta y comienza con tratamiento de fulvestrant en marzo de 2010. Tras el primer ciclo se evidencia en la nueva elevación de los marcadores tumorales (CEA 115 ng/mL; CA-15,3 53 UI/mL). Se continua con dicho tratamiento hasta abril del 2010 en que se realiza nueva TC en el que se evidencia una adenopatía paramediastínica y por detrás de arteria subpulmonar de 22 mm de diámetro y adenopatías en hilio izquierdo y mediastino adyacente de 32,5 x 18,3 mm. Pulmones con enfisema panacinar que afecta tanto los lóbulos superiores como los lóbulos inferiores muy extenso, pero sin evidencia de nódulos.
+Dudosa imagen blástica en tercera costilla derecha.
+Debido a una progresión radiológica y bioquímica, se suspende tratamiento con fulvestrant y se propone tratamiento con quimioterapia que la paciente no acepta por el mismo motivo que la vez anterior.
+Por dicho motivo se remite a otro hospital para entrar dentro del ensayo clínico Bolero3 de exemestano versus exemestano más everolimus, correspondiéndole la rama de exemestano + everolimus. Segun los informes de dicho hospital, en enero de 2011 hay una remisión parcial radiológica aunque se suspendió el Everolimus por toxicidad grado III y se mantuvo el tratamiento con exemestano. En noviembre de 2011 hay una progresión ganglionar a nivel mediastínico, pautándose tratamiento con tamoxifeno, que se mantiene hasta marzo de 2012, en el cual hay un nuevo aumento de marcadores tumorales (CA-15,3 103 U/ mL; CEA 86 mg/L) y en la TC también se evidencia progresión, por lo que es de nuevo remitida a nuestro hospital para inicio de tratamiento con capecitabina.
+
+Exploración física
+ECOG 1. Delgada. No se palpan adenopatías cervicales, axilares o supraclaviculares. Auscultación cardiopulmonar sin alteraciones. Abdomen sin alteraciones.
+Se palpa nódulo pétreo inguinal derecho de 3,5 cm. Asimetría de extremidades inferiores (secuela de poliomielitis).
+
+Pruebas complementarias
+En este momento se decide la realización de pruebas complementarias previo al inicio de nueva línea de tratamiento:
+• Gammagrafía ósea: reacción osteogénica en décimo arco costal posterior derecho que no se ha modificado respecto a las previas
+• TC body: voluminosa masa espiculada en el segmento apicoposterior del lóbulo superior izquierdo, con signos radiológicos de infiltración mediastínica, compatible con un carcinoma broncogénico. Existe una infiltración tumoral del origen del bronquio lobar superior izquierdo (TC Signos radiológicos de infiltración mediastínica. Existe una infiltración tumoral del origen del bronquio lobar superior izquierdo).
+Biopsia de nódulo inguinal: el resultado anatomopatológico es de un adenocarcinoma bien diferenciado, mucosecretor de probable origen pulmonar receptores hormonales negativos, Her-2 negativo, TTF-1 positivo. EGFR no mutado. No reordenamiento de ALK.
+Con estos resultados, se presenta el caso en el Comité Multidisciplinario de Tumores Torácicos, decidiéndose ampliación de estudio con broncoscopia, PAAF pulmonar guiada por TC y PET-TC para valorar extensión de enfermedad por si fuera probable plantear resección del periné y tratamiento locorregional a nivel pulmonar.
+• TC con PAAF de la lesión pulmonar y citología por broncoaspirado: confirman resultados anatomopatológicos de la biopsia del nódulo inguinal
+• PET-TC: captación en masa de lóbulo superior izquierdo, paramediastino y de cayado aórtico en contigüidad.
+Masa paravertebral dorsal que no infiltra la vértebra.
+Afectación de hilio izquierdo. Captación en suprarrenal derecha. Lesión sólida en el pliegue inguinal derecho.
+
+Diagnóstico
+Carcinoma ductal infiltrante de mama derecha T2N0M0 en 1997. Recaída locorregional axilar en febrero 2009 y adenocarcinoma de pulmón bien diferenciado estadio IV.
+
+Tratamiento y evolución
+Con estos resultados se descarta la posibilidad de realizar tratamiento locorregional a nivel del pulmón y cirugía de la metástasis del periné.
+La paciente no presenta en la anatomía patológica EGFR mutado y reordenamiento de ALK por lo que no existe posibilidad de tratamiento de primera línea para un adenocarcinoma de pulmón estadio IV con fármacos orales tal y como solicita la paciente.
+Tras explicarle las opciones, se decide iniciar primera línea de quimioterapia con pemetrexed y carboplatino, este último en vez de cisplatino para intentar disminuir los efectos secundarios de neuropatía.

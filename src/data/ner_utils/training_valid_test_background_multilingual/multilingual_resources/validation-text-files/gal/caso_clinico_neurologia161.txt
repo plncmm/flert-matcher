@@ -1,0 +1,29 @@
+Anamnesis
+Varón de 33 anos, fumador, exbebedor severo, consumidor ocasional de cocaína, con antecedentes de fígado graso, ginecomastia asociada ao fígado graso, herpes zóster oftálmico, candidiasis oral e genital en tratamento con itraconazol. Acudiu a consultas externas de Neurología aquejando un cadro progresivo de 2 semanas de evolución de debilidade proximal nos membros superiores, parestesias e dor nos membros inferiores, disfonía e disfagia para líquidos. Non referiu febre, nin cefalea, nin perda de peso, nin picaduras de insectos, nin inflamación articular, nin alteración de esfínteres.
+
+Exame físico
+As constantes vitais estaban dentro dos límites da normalidad, a exploración física xeral foi normal, exceptuando unhas lesións esbrancuxadas na mucosa oral. Na exploración neurológica as funcións superiores estaban conservadas. A fala era disfónica. Campimetría por confrontación normal. Pupilas isocóricas e normorreactivas á luz. Motilidad ocular extrínseca conservada, sen nistagmo, con dubidosa ptosis esquerda. Á exploración o resto dos pares craneales eran normais. Sistema muscular: a nivel do membro superior dereito presentaba unha paresia marcada (3/5) asociada a atrofia do ombreiro ipsilateral, unha mínima debilidade no bíceps e na musculatura extensora dos dedos terceiro e cuarto (4+/5). A nivel do membro superior esquerdo destacaba unha paresia (4+/5) no ombreiro, e unha paresia (4/5) para a flexión do pulgar con atrofia evidente da eminencia tenar desa man. Nos membros inferiores se objetivó unha paresia (4/5) para psoas e cuádriceps. Os reflexos osteotendinosos tricipitales e nos membros inferiores estaban abolidos. Reflexo cutáneo-plantar flexor bilateral. Fasciculaciones no ombreiro dereito. Hipoestesia a nivel da cara lateral da coxa esquerda, brazo dereito e ambos pés. Coordinación e marcha sen alteracións.
+
+Probas complementarias
+• Hemograma e coagulación normais. Bioquímica normal salvo GOT 113 UI/l, GPT 770 UI/l, GGT 97 UI/l. Hormonas tiroideas normais. VSG 67 mm/h. Análise de ouriña: leucocituria e nitritos negativos.
+• Anticorpos anti-nDNA, antimitocondriales, antimúsculo liso, anti-LKM1, ANCA e ANA negativos. Proteinograma e complemento normais.
+• Líquido cefalorraquídeo (LCR): 2 leucocitos, 0 hematíes, proteínas, glucosa e ADA sen alteracións. Citología, cultivo ordinario de LCR e B-K Lowestein sen alteracións.
+• Serologías: VIH positivo, citomegalovirus (CMV) IgG (+) IgM (–), virus de Epstein-Barr IgG (+) IgM (–), virus varicela zóster IgG (+) IgM (–), virus herpes simple IgG (+), Brucella (–), Borrelia burgdorferi (–), Mycoplasma pneumoniae IgG (+) IgM (–). Serologías VHC e VHB negativas.
+• PCR para CMV positivo en sangue e en LCR. Enterovirus, VHS 1 e 2, virus varicela zoster, DM negativos. Carga viral VIH en soro 1.840 copias/ml.
+• Inmunidad celular: CD4 92,8/mm3, CD8 284,2/mm3.
+• Resonancia magnética (RM) cerebral e medular completa: sen achados significativos.
+• Electroneurografía: achados compatibles con mononeuropatía múltiple, observándose unha neuropatía cubital esquerda motora e sensitiva con datos de bloqueo no antebrazo. Disminución de amplitudes motoras de máis dun 50% dos nervios mediano esquerdo con respecto ao dereito e dos nervios tibial posterior e peroneal dereitos con respecto aos esquerdos, con indemnidad sensitiva.
+• Electromiografía: datos de denervación activa recente en todos os músculos explorados (gastrocnemio esquerdo e dereito, tibial anterior dereito e vasto lateral).
+
+Diagnóstico
+Mononeuritis múltiple. Infección por VIH estadio B3.
+
+Tratamento
+Ganciclovir a dose de 5 mg/kg/12 horas intravenoso durante 3 semanas. Tras unha disminución da carga viral de CMV se pautó tratamento de mantemento con valganciclovir 900 mg/12 h por vía oral. Iniciouse tratamento específico para o VIH con emtricitabina 200 mg/24 h, tenofovir 245 mg/24 h, durunavir 800 mg/24 h e ritonavir 100 mg/24 h.
+
+Evolución
+Tralo inicio do tratamento antirretroviral, o paciente sufriu unha síndrome de reconstitución inmune, así como unha neumonía atípica, o cal motivou a súa reingreso aos poucos días de ser dado de alta. Por outra banda, durante o estudo do cadro clínico presentou un deterioro clínico progresivo e rápido en poucos días, experimentando unha progresión marcada da debilidade e da sensibilidade nas catro extremidades.
+
+A evolución tras 6 meses foi de recuperación parcial. A nivel proximal dos membros inferiores e distal nos superiores, permanecía unha paresia de 4/5 e imposibilidad para a flexión ou abducción do ombreiro dereito. O estudo de control neurofisiológico mostrou unha lesión parcial moderada dos nervios axilar dereito, mediano esquerdo, cubital esquerdo, radial esquerdo, tibial e peroneal dereitos, así como normalidad ou lesión parcial leve no resto dos nervios explorados.
+
+A nivel funcional, tras 6 meses de rehabilitación, o paciente seguía precisando axuda para vestirse a parte superior do corpo, era capaz para comer sen axuda, non presentaba limitacións na marcha, nin problemas na deglución ou de esfínteres.

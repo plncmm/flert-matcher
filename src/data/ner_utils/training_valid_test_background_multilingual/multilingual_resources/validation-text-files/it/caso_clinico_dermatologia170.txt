@@ -1,0 +1,18 @@
+Anamnesi
+Un uomo di 57 anni, precedentemente sano, è venuto per una consultazione urgente a causa di una lesione dolorosa sul dorso del naso di cinque giorni di evoluzione. Ha negato traumi o morsi nella zona. La lesione iniziale era una placca rosa, infiammatoria e dolorosa che in seguito ha sviluppato piccole pustole, alcune delle quali con essudazione biancastra. Ha anche riportato una cefalea frontotemporale bilaterale. Ha mantenuto una buona condizione generale senza febbre in ogni momento.
+
+Esame fisico
+Buone condizioni generali, afebrile e normoteso. L'esame della lesione ha mostrato una placca eritematosa edematosa con l'aspetto di buccia d'arancia che occupa estesamente il dorso nasale, e sopra di essa pustole multiple monomorfe di 1 mm non raggruppate e un'area irregolare di 10 mm erosa con crosta nerastra aderente. Non c'erano lesioni simili sul resto del viso e nessuna linfoadenopatia locoregionale era palpabile.
+
+Esami complementari
+Gli esami del sangue hanno mostrato emogramma, biochimica, coagulazione e reagenti di fase acuta normali e anticorpi antinucleari negativi. La coltura batterica e la microscopia dello striscio di una biopsia cutanea erano negative. L'esame istopatologico ha mostrato un infiltrato infiammatorio interstiziale e follicolare dermico misto diffuso (A) con massiccia esocitosi dell'epitelio follicolare (C) ed estensione nel tessuto cellulare sottocutaneo, necrosi della massa di cheratinociti e vasculite dei piccoli vasi con leucocitoclasia e necrosi fibrinoide. Cambiamenti citopatici simili all'herpes virus sono stati osservati nei cheratinociti dell'epitelio follicolare (B, D) con estensione nelle ghiandole sebacee (B). I cambiamenti citopatici consistevano in inclusioni intranucleari eosinofile, cheratinociti multinucleati, citoplasma smerigliato e resti necrotici di cheratinociti.
+Infine, la PCR per il virus dell'herpes era positiva per il virus Varicella-Zoster (VZV). Inoltre, la sierologia del sangue era positiva per il VZV compatibile con l'infezione in corso e negativa per HSV, HIV, virus epatotropo e sifilide.
+
+Diagnosi
+Follicolite erpetica necrotizzante dovuta a VZV.
+
+Trattamento
+Inizialmente, il trattamento empirico con mupirocina topica insieme a cefazolina e ceftriaxone per via endovenosa è stato eseguito con una leggera diminuzione dell'infiammazione. Una volta confermata la diagnosi, il trattamento è stato iniziato con aciclovir orale 800 mg 5 volte al giorno a intervalli di 4 ore, omettendo la dose notturna, per 7 giorni.
+
+Evoluzione
+Il paziente ha mostrato un'evoluzione eccellente con una risoluzione completa delle lesioni cutanee dopo due settimane di follow-up. Tuttavia, il paziente ha riferito un mal di testa più o meno persistente, a volte pulsante, senza dati di allarme e con scarsa risposta al paracetamolo e ai farmaci antinfiammatori non steroidei. Attualmente è monitorata dal dipartimento di neurologia con una diagnosi di nevralgia craniale postherpetica. È migliorata con la somministrazione di amitriptilina 10-20 mg al giorno di notte e di eslicarbamacepina 200 mg al giorno al mattino. Inoltre, una scoperta curiosa è stata che la sua figlia adolescente ha sviluppato la classica varicella una settimana dopo la diagnosi di follicolite erpetica, probabilmente a causa della trasmissione paterna.

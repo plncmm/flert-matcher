@@ -1,0 +1,30 @@
+Anamnesis
+Antecedentes: varón de 66 años de edad fumador e hipertenso que es diagnosticado, a raíz de un episodio de hematuria macroscópica, de neoplasia vesical no músculo-invasiva de alto riesgo. Un mes después de la resección transuretral se inicia BCG terapia de inducción. La tercera semana tras el inicio de la primera sesión ingresa en nuestro centro por fiebre. Se realiza una tomografía computarizada (TC), que revela una masa en el polo inferior renal derecho, planteando un diagnóstico diferencial entre tumor y proceso infeccioso. La punción aspirativa de la masa informa de nefritis intersticial granulomatosa secundaria a infección por Mycobacterium bovis. Tras la terapia tuberculostática el paciente evoluciona favorablemente.
+Cinco meses más tarde, con el fin de eliminar el foco de pielonefritis tuberculosa, se plantea cirugía exerética del riñón derecho, llevándose a cabo mediante nefroureterectomía retroperitoneoscópica y desinserción endoscópica del rodete vesical.
+Enfermedad actual: en el curso postoperatorio de dicha intervención, el paciente presenta fiebre persistente, severo y brusco deterioro cognitivo e importante síndrome tóxico, con cuadro de diarrea asociado.
+
+Examen físico
+Al examen físico destaca estado febril con tendencia a la hipotensión y deshidratación cutánea. Llama la atención, tanto de la familia del paciente como del personal sanitario, el brusco deterioro de las funciones superiores que presenta el paciente, con desorientación témporo-espacial, estado de estupor y somnolencia permanente, alteraciones de la percepción y lenguaje incoherente. Presenta, además, síndrome tóxico con pérdida de peso, anorexia, fatiga y laxitud.
+
+Pruebas complementarias
+• Analítica: destaca hiponatremia (129 mEq/l) e hipoglucemia (68 mg/dl).
+• Radiografía simple de tórax: no imágenes sugestivas de infiltrado alveolar ni otras alteraciones.
+• Hemocultivos seriados: negativos.
+• Cultivo de vía periférica y de catéter de nutrición parenteral: negativos.
+• Urocultivo: Tetradymia glabrata y Candida tropicalis en orina.
+• Coprocultivos: negativos.
+• Cultivos herida quirúrgica: T. glabrata y Enterococcus faecium.
+• Cultivos por lavado bronquial y broncoaspirado: negativos.
+• TC abdómino-pélvica: pequeña colección no drenable en el lecho quirúrgico.
+• TC craneal: no lesiones ocupantes de espacio ni encefalitis ni otras alteraciones.
+• Test de estimulación de ACTH: cortisol ausente tanto en sangre como en orina.
+• Examen anatomopatológico del espécimen de nefroureterectomía y suprarrenalectomía derecha: afectación capsular y medular en forma de células epitelioides, células de Langhans y de acúmulos cálcicos y caseum. Tinción Ziehl-Neelsen y Kinyoun positiva para M. bovis. Conclusión: nefritis y adrenalitis crónica necrotizante con afectación del tejido adiposo perirrenal secundaria a infección por M. bovis.
+
+Diagnóstico
+Síndrome de Addison o insuficiencia suprarrenal primaria de etiología infecciosa (M. bovis) en un paciente tratado con BCG-terapia intravesical.
+
+Tratamiento
+Inicialmente, se trata la fiebre postoperatoria persistente con antifúngicos, ajustados según el urocultivo. También se añaden antituberculostáticos (rifampicina). La fiebre remite a las 48 horas, sin embargo, persiste tanto el síndrome tóxico como el severo deterioro cognitivo. Tras confirmar la sospecha clínico-analítica de insuficiencia suprarrenal primaria, se inicia tratamiento con hidrocortisona, fármaco de elección para el tratamiento sustitutivo del déficit de glucocorticoides y mineralocorticoides, dado su efecto dual. Su administración se realiza de manera fraccionada, con el fin de imitar el ritmo circadiano de secreción de dichas hormonas. Se reduce de manera paulatina la dosis a la mínima capaz de mantener al paciente asintomático y así evitar los efectos adversos originados por el uso de corticoides.
+
+Evolución
+A las 24 horas del inicio de la terapia hormonal tiene lugar la remisión completa de todo el cuadro clínico previamente descrito; el paciente recupera ad integrum sus funciones superiores y evoluciona favorablemente, siendo dado de alta a las 72 horas. Actualmente, realiza controles de su neoplasia vesical no músculo-invasiva de alto riesgo, sin evidencia de recidiva ni progresión y se halla en tratamiento sustitutivo con hidrocortisona a baja dosis.

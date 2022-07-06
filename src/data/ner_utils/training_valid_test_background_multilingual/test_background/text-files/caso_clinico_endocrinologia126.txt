@@ -1,0 +1,32 @@
+Presentamos el caso de un varón de 48 años que comenzó con síntomas de frontalización y trastorno de la marcha, siendo derivado al servicio de Neurología, con empeoramiento progresivo precisando silla de ruedas, y alteración del comportamiento consistente en desinhibición, irritabilidad, pérdida de control de esfínteres, indiferencia afectiva y apatía.
+
+Se realizó analítica sanguínea general, estudio serológico, Anticuerpos Antinucleares (ANA) y Anticitoplasma de Neutrófilos (ANCA) y una punción lumbar, sin anormalidades.
+Se solicitó una Resonancia Magnética Nuclear (RMN) cervical y craneal, reflejando a nivel medular atrofia difusa sin significación patológica y a nivel craneal numerosas lesiones hipointensas en T1 e hiperintensas en T2, que afectaban a ambos tractos córtico-espinales, núcleos dentados cerebelosos y pedúnculos cerebelosos superiores, junto a rotura de la Barrera Hematoencefálica (BHE).
+
+Se realizó Electromiografía (EMG), evidenciando signos de polineuropatía mixta en miembros inferiores, con datos de baja amplitud sensitiva y reducción de las velocidades motoras.
+
+Dada la afectación simétrica de sustancia blanca, se sospechó un trastorno metabólico, solicitando pruebas, sin objetivar alteraciones en la cuantificación de aminoácidos ni acilcarnitinas, pero sí elevación de Ácidos Grasos de Cadena Muy Larga (AGCML) en sangre, concretamente del ácido hexacosanoico (C26:0), con un resultado de 2,18 micromol/litro (μmol/l) tenido como límite superior el laboratorio de referencia 0,17 μmol/l, y del ácido tetracosanoico (C24:0), con niveles de 47 μmol/l siendo el límite de 14 μmol/l.
+Además, existía inversión del cociente de dichos AGCML con el ácido behénico C22:0 (C26:0/C22:0 de 0,071 y de C24:0/C22:0 de 1,54, siendo los límites para el laboratorio de 0,77±0,12 y de 0,012±0,004 respectivamente), permitiendo establecer el diagnóstico de X-ALD.
+Para confirmarlo, se realizó estudio genético de ABCD1, observando delección en hemocigosis en posición c.1415_1416delAG dando un codón prematuro p.GLn472ArgfsX83 y conllevando una proteína truncada con pérdida del 26% de sus aminoácidos, compatible con el diagnóstico establecido.
+Al paciente se le educó dietéticamente y se determinaron niveles de testosterona y cortisol en sangre, siendo normales.
+La gravedad de esta entidad es más intensa en varones hemocigotos y menor en mujeres heterocigotas. Existe déficit de beta oxidación perixisomal de los AGCML, llevando secundariamente a la acumulación de éstos (especialmente C26:0 y C24:0)
+
+en el sistema nervioso central, médula espinal, corteza suprarrenal y tejido testicular fundamentalmente. Este déficit obedece a mutaciones del gen ABCD1 (xq28) del cromosoma X, que provocan la disfunción de la proteína ALDp (lignoceril-CoA sintetasa), fundamental en el trasporte de los AGCML desde el citoplasma al lumen del peroxisoma.
+Aparece variabilidad fenotípica, según la afectación neurológica y edad de aparición:
+
+- Cerebral: la más rápidamente progresiva. Afecta entre los 2,5 y 12 años, siendo rara en adolescentes (<7%) o adultos (<5%). Aparece déficit cognitivo moderado, sordera neurosensorial, ataxia cerebelosa, hemiplejía, insuficiencia suprarrenal primaria subclínica, convulsiones y demencia.
+
+- Adrenomieloneuropatía (AMN): segunda y cuarta década. Existe paraparesia espástica con alteraciones de la marcha, disfunción sexual e insuficiencia suprarrenal en 2/3 de los pacientes.
+
+- Addison: en torno al 10% de los pacientes padecen insuficiencia suprarrenal, sin afectación cerebral, aunque existe riesgo de desarrollarla4.
+- Mujeres heterocigotas: El 50% presenta afectación neurológica lentamente progresiva. La insuficiencia suprarrenal es rara.
+
+El diagnóstico se sustenta en la clínica, RMN, la demostración de acúmulo de los AGCML en suero, concretamente de C26:0 y C24:0, y la inversión del cociente con C22:0.
+La prueba de imagen más sensible es la RMN, que evidencia afectación bilateral y simétrica de la sustancia blanca a nivel central. Se objetiva hiperintensidad en T2, especialmente en la región témporo-occipital y cuerpos callosos. Según la localización de la lesión, se clasifica en:
+
+1. Lóbulo parietooccipital y esplenio del cuerpo calloso. 2. Lóbulo frontal y rodilla del cuerpo calloso.
+3. Frontopontina y corticoespinal.
+4. Cerebelosa.
+5. Combinación lóbulo frontal y parietooccipital.
+
+El único tratamiento útil en la prevención de la progresión neurológica es el trasplante de progenitores hematopoyéticos (TPH) alogénico a partir de médula ósea, sangre de cordón o sangre periférica. El principal inconveniente radica en la morbi-mortalidad del procedimiento. Por eso, se ha propuesto la terapia génica, transfiriendo el gen ABCD1 en fibroblastos y células hematopoyéticas mediante un vector lentiviral derivado del virus VIH, aunque son necesarios más estudios para difundir su aplicación. El TPH está indicado ante la aparición de lesiones nuevas, aumento de las ya existentes en la RMN, o aparición de nuevos síntomas neurológicos.

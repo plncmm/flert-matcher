@@ -1,0 +1,22 @@
+Anamneză
+Pacientul se plânge de un disconfort abdominal generalizat legat de distensie abdominală, cu un sindrom general important (astenie, pierderea poftei de mâncare și scădere progresivă în greutate). Dispnee la efort moderat. Nu există simptome infecțioase în prezent.
+
+Examinarea fizică
+ECOG 2. Stabil hemodinamic și afebril. Icter la nivelul pielii, mucoaselor și conjunctivelor. Auscultația cardiacă: tonuri ritmice, fără murmure audibile. Auscultația pulmonară: hipoventilație globală. Abdomen: foarte distensat, incomod la palpare, hepatomegalie mare până la 15 cm sub marginea costală dreaptă. Extremitățile inferioare: fără edem.
+
+Teste complementare
+Analize de sânge înainte de începerea tratamentului citostatic: Hb 7,8 g/dl, leucocite 36.800 mmc, trombocite 547.000 mmc, creatinină 0,71 mg/dl, bilirubină totală 4,7 mg/dl, sodiu 127 mEq/l, potasiu 4,9 mEq/l, calciu 9 mg/dl. În zilele precedente, nivelul acidului uric a fost de 10,4 mg/dl. În ceea ce privește markerii tumorilor neuroendocrine, acesta avea enolază neuronală specifică 309,3 ng/ml și cromogranină A 914,4 ng/ml.
+
+Diagnostic
+Cu diagnosticul de CNE G3 (ki-67: 90 %) în stadiul IV cardiac, cu afectare multisistemică, pacientul a fost internat la Oncologie Medicală și a început prima linie de tratament citostatic pentru boala avansată cu carboplatin AUC-4 (ziua 1) + etopozid 80 mg/m2 (zilele 1, 2, 3) la fiecare 21 de zile, cu reducerea dozei în funcție de ECOG și afectarea hepatică. De asemenea, s-a efectuat o transfuzie de 2 concentrate de globule roșii.
+În ziua următoare, pacientul a prezentat o deteriorare clinică semnificativă, cu dispnee în repaus și saturație a oxigenului sub 90%, necesitând oxigenoterapie cu rezervor. Au fost efectuate analize de laborator, care au arătat: acid uric 15,4 mg/dl, creatinină 1,02 mg/dl, fosfor 4,1 mg/dl, colesterol total 577 mg/dl, LDL 522 mg/dl, sodiu 125 mEq/l, potasiu 5,7 mEq/l, calciu 8,6 mg/dl. Gazele din sângele arterial au indicat pH 7,31, pCO2 25 mm Hg, pO2 56 mm Hg, bicarbonat 12,6 mmol/l, exces de baze 12,1 mmol/l și saturație de oxigen 86 % (cu MKV la 50 %).
+Tratamentul a fost inițiat cu alopurinol 100 mg/8 h pe cale orală, rasburicază 0,2 mg/kg/zi pe cale intravenoasă în doze unice, furosemid 20 mg/8 h pe cale intravenoasă și seroterapie intensivă, menținându-se tratamentul antifungic cu fluconazol, care a fost inițiat datorită izolării Candida albicans în periajul esofagian efectuat în timpul gastroscopiei.
+Analizele de sânge și gazele sanguine venoase: acid uric 4,7 mg/dl, creatinină 1,61 mg/dl, calciu 8,2 mg/dl, sodiu 132 mEq/l, potasiu 6 mEq/l, fosfor 8,1 mg/dl, pH 7,28, bicarbonat 16,9 mmol/l, pCO2 36 mm Hg, exces de baze-9,1 mmol/l.
+Având în vedere deteriorarea clinică progresivă, a fost anunțată Medicina Intensivă, iar pacientul a fost transferat în departamentul lor cu diagnosticul de insuficiență respiratorie acută și sindrom de liză tumorală cu insuficiență renală acută și acidoză metabolică.
+
+Tratament
+A continuat suportul în terapie intensivă, necesitând ventilație mecanică neinvazivă continuă, seroterapie intensivă cu substituție ionică, precum și antibioterapie empirică cu piperacilină-tazobactam, menținând tratamentul antifungic cu fluconazol.
+Pe radiografia toracică portabilă a fost observată prezența infiltratelor pulmonare bilaterale difuze, stabilindu-se diagnosticul diferențial de sindrom de detresă respiratorie acută, hemoragie pulmonară și complicație infecțioasă.
+
+Evoluție
+Pacientul a evoluat favorabil, suportul ventilator a fost retras, iar nivelul creatininei, acidului uric, fosforului, calciului și potasiului a fost în limite normale. După 8 zile la terapie intensivă, a fost transferat înapoi la Oncologie Medicală. Am efectuat o nouă radiografie toracică de control cu o mare îmbunătățire față de cea anterioară. Ea a prezentat o recuperare progresivă a stării generale și s-a decis să fie externată acasă în zilele următoare.

@@ -1,0 +1,25 @@
+Anamnesis
+Varón de 74 anos, fumador desde a súa mocidade, con antecedentes de HTA, DL e hiperuricemia, para o que tomaba enalapril 10 mg/12 h, manidipino 10 mg/24 h, colchicina 1 comp./24 h, alopurinol 100 mg/24 h e atorvastatina 40 mg/24 h. Sen cirugías previas e cunha situación basal excelente. É traído ao Servizo de Urxencias pola súa filla, que refire que desde facía 3-4 semanas presenta alteracións conductuales (irritabilidad, ánimo depresivo, labilidad emocional, así como disminución da súa actividade habitual), hiporexia, empobrecimiento da linguaxe e falta de espontaneidade, preguntas repetitivas sobre accións cotiás e "esquecemento" do seu hábito tabáquico. Ademais, desorientación no tempo, de predominio vespertino, e dificultade para recoñecer aos seus familiares. comezara tamén tremor intencional na man dereita xunto con postura de flexión do cóbado e de devandita man, inicialmente intermitente, posteriormente fixa, asociándose movementos clónicos arrítmicos. Ademais, inestabilidade da marcha con tendencia á latero e retropulsión, pasos curtos, bloqueos frecuentes e rixidez do tronco que progresara ata que esa mesma mañá quedou completamente bloqueado mentres ía ao baño. Nas últimas 48 horas presentara tres episodios de incontinencia urinaria. A familia relacionaba o inicio da sintomatología trala noticia dunha enfermidade importante dun irmán. Ningún familiar presentara un cadro similar.
+
+Exame físico
+Exploración xeral: tensión arterial 154/90 mmHg, frecuencia cardiaca 61 lpm, temperatura 37,1 oC. Regular estado xeral. Eupneico. Normocoloreado e normoperfundido. Ben hidratado e nutrido. Sen alteracións na exploración xeral.
+Exploración neurológica: consciente, inatento de forma, distraibilidad intensa, parcialmente colaborador. Inadecuado conductualmente: risas inmotivadas. Linguaxe escasa e repetitivo, contido coherente a maior parte do tempo. Bloqueos na linguaxe, disnomia moderada, repite adecuadamente, obedece parcialmente ordes sinxelas, non obedece ordes complexas. Orientado en persoa, desorientado en tempo e espazo. Memoria anterógrada e capacidade de aprendizaxe alteradas. Memoria retrógrada conservada. Reflexo palmomentoniano ou grasping non presentes. Pares craneales: normal salvo mioclonías mandibulares . Motor: mioclonías desencadeadas co movemento e coa estimulación táctil en MMSS e MMII de predominio no MSD, arrítmicas. Ton aumentado no MSD sen clara paresia nas extremidades, dubidosa roda dentada. MID en posición distónica con flexión dorsal e infraversión de pé. ROT presentes, simétricos ++/++++, RCP flexor bilateral. Sensibilidade: non alteracións groseiras. Cerebelo: ataxia trunca severa. Marcha: aumento de base de sustentación, incapacidade para a deambulación autónoma con tendencia á retropulsión.
+
+Probas complementarias
+• Bioquímica, hemograma sen alteracións relevantes salvo PCR 15 mg/dl sen leucocitosis e VSG 120 mm. Hormonas tiroideas, vitamina B12, homocisteína e acedo fólico normais.
+• Marcadores tumorales: PSA 7,83 ng/ml (PSA libre 1,76), Ca19.9, CEA, Ca 125 e enolasa normais.
+• LCR: presión de apertura 17 cm H2Ou. Leucocitos e hematíes 0 céls./mm3, glucosa 103 mg/dl, proteínas 0,31 g/l. Cultivo estéril, gram e VDRL e citología negativos. Proteína 14.3.3: positiva.
+• Radiografía de tórax sen alteracións.
+• ECG: sinusal a 90 lpm.
+• TC: enfermidade de pequeno vaso e cambios involutivos idade-dependente.
+• RM craneal: en difusión existe restricción cortical do hemisferio esquerdo, de predomino occipital, insular e frontal superior; e frontal cortical dereita e na cabeza do caudado e porción anterior do putamen esquerdos. Sen correlato en T1 e T2. Enfermidade isquémica crónica de pequeno vaso II. Atrofia global de predominio supratentorial.
+• EEG: enlentecimiento difuso da actividade, aínda que modificable con estimulación, e intercalado, ondas agudas de morfología trifásica e distribución xeneralizada, sen clara periodicidad.
+
+Diagnóstico
+Enfermidade de Creutzfeldt-Jakob esporádica.
+
+Tratamento
+Sintomático para mioclonías con clonazepam.
+
+Evolución
+Ás 48 horas, a exploración modificouse sustancialmente, con somnolencia marcada, que responde á chamada coa apertura ocular, pero non responde a ordes sinxelas nin complexas. Linguaxe moi escasa, empobrecido e repetitivo, emitindo só monosílabos. Sen cambios no resto. Repetiuse entón o EEG, que demostraba ademais do enlentecimiento de base, a aparición de actividade trifásica periódica xeneralizada. Nas seguintes 3 semanas o paciente deteriorouse progresivamente, ao que se engadiu febre que non respondía a tratamento antibiótico, xunto con deterioro da función renal e diversas alteracións analíticas. A súa familia decidiu limitar o esforzo terapéutico, dado o pronóstico do paciente, e leste faleceu aos 3 meses do inicio do cadro.

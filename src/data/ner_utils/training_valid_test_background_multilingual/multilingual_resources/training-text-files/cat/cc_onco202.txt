@@ -1,0 +1,33 @@
+Anamnesi
+Home de 21 anys amb antecedents deatresia de jejú-ili congènita intervinguda i nevus melanocítico lentiginoso a l'esquena als 16 anys. Hidrocele esquerre en la infància, que es va resoldre sense tractament. No al·lèrgies medicamentoses ni altres antecedents d'interès. No té antecedents familiars oncològics.
+Història oncològica: inicialment, el pacient consulta en Urologia poruna massa en el testicle esquerre de 2 anys d'evolució amb creixement lent.
+
+Exploració física
+L'exploració física en aquest moment denotava massa en el pol anterosuperior del testicle esquerre. ECOG 0. Resta sense alteracions d'interès.
+
+Proves complementàries
+» Es va sol·licitar una ecografia testicular, que va objectivar dues zones, una més perifèrica en el pol superior, que era la més gran, amb uns 2 cm de diàmetre mig, al costat d'una altra en la zona més pròxima al centre del testicle que mesurava uns 8 mm de diàmetre.
+» En l'analítica completa destaca: hemoglobina 20,3 g/dl, hematòcrit 59,9%, hematies 6.550.000. Alfa-fetoproteína 77,2 ng/ml, beta-HCG 100,4 mU/ml, LDH 392 UI/l.
+» Es remet al pacient a Hematologia per a l'estudi de la poliglobulia i es programa per a orquiectomia radical, prèvia criopreservació de semen.
+» Es realitza una TC toracoabdominopélvica, no detectant-se afectació ganglionar ni metàstasi (N0M0).
+
+Diagnòstic
+Carcinoma germinal de testicle no seminomatoso pT1N0M0, S0, estadi IA, subgrup de bon pronòstic.
+
+Tractament
+Es realitza una orquiectomia radical per via inguinal; l'anatomia patològica s'informa com a teratoma maligne mixt amb àrees de carcinoma embrionari, yolk-sac , coriocarcinoma i neoplàsia germinal intratubular pT1.
+
+Evolució
+Inicialment, a l'ésser de bon pronòstic, es va proposar el seu seguiment.
+En l'analítica postoperatòria destaca hemoglobina 18 g/dl, amb negativización de marcadors tumorals, sent doncs S0.
+Als 14 mesos, s'observen en la TC de control almenys dues adenopaties retroperitoneales d'entre 2 i 3 cm.Beta-HCG 16 mUI/ml i alfa-fetoproteína 8 ng/ml. Davant la sospita de recidiva, es planteja tractament amb quatre cicles d'esquema BEP (bleomicina, etopósido i cisplatí). Rep els quatre cicles de tractament, presentant molt bona tolerància (nàusees grau I, astènia grau II, neutropènia grau II i trombopenia grau II).
+Dues setmanes després de rebre elúltimo cicle, ingressa en la Unitat de Vigilància intensiva (UCI) després d'un episodi de crisi comicial i parada cardiorespiratòria. Es va realitzar una TC urgent, que va mostrar una lesió aparentment única en la fossa posterior, molt vascularizada, suggestiva de metàstasi. No es va poder descartar altres possibilitats. A més d'hidrocefàlia tetraventicular. Es va realitzar una punció lumbar, en la bioquímica del LCR destacava elevació de les proteïnes 118 mg/dl i de la glucèmia 154 mg/dl, encontrándoseel resta de paràmetres dins de la normalitat. Es va remetre mostra d'LCR per a citologia, amb resultat negatiu. Es va plantejar diagnòstic diferencial amb metàstasi enfront de segon tumor primari. Comentat amb Oncologia Radioteràpica i Neurocirurgia, es decideix esperar al resultat de la RM per a decidir l'actitud terapèutica. La RM mostrava una lesió heterogènia d'aproximadament 28 x 32 x 37 mm en els eixos AP, T i CC, respectivament, situada en la línia mitjana, inferior al quart ventricle, amb aspecte similar als tumors d'estirp germinal mixtos (considerar la possibilitat de metàstasi del tumor testicular, o d'un segon tumor primari d'origen germinal en aquesta situació). No existint altres imatges suggeridores de metàstasis en la resta de l'estudi.
+A més, presenta edema de tronc, hidrocefàlia tetraventricular i siringomielia cervical, secundàries a la lesió per efecte massa.
+L'analítica i els marcadors tumorals a l'ingrés eren normals. Es realitza una primera intervenció, quefue incompleta, segons la RM, deixant restostumorales, amb focus hemàtics en el seu interior. Es decideix realitzar una segona intervenció una setmana després, després de la qual millora la hidrocefàlia però en el vessant més inferior del quart ventricle es observapersistencia pseudonodular que realça intensament després de l'administració de contrast intravenós, mesurant 6 x 11 x 10 mm de diàmetres AP, TR i Cc, respectivament, suggestiu d'una altra resta tumoral.
+Al dia + 10 de la primera cirurgia reingressa en l'UCI en coma amb una puntuació en l'escala de Glasgow de 4, en la TC de crani urgent es identificahidrocefalia i signes d'herniació transtentorial, per hemorràgia tumoral, per la qual cosa es realizauna intervenció quirúrgica urgent mitjançant una derivació ventricle-peritoneal (Mitronic de pressió variable).
+
+Després d'un mes en l'UCI, el pacient puja a planta estabilitzat amb un Glasgow de 15/15. Com a complicacions durant la seva estada en l'UCI presenta colonització per Acinetobacter baumanii i disfàgia secundària a paràlisi completa de la corda vocal dreta que obliga a la col·locació de sonda nasogàstrica.
+L'anatomia patològica definitiva és de: teixit d'aspecte mesenquimal amb vascularització prominent compatible amb hemangioblastoma cerebel·lós.
+Durant els mesos següents el pacient millora progressivament, deambula amb caminador i s'ha pogut retirar la sonda nasogàstrica, podent alimentar-se per si mateix.
+Es manté a l'encalç del tumor testicular, presentant en l'última TC un growing teratoma (25 mesos després de l'orquiectomia) que es remetrà per a intervenció quirúrgica.
+Es va remetre a consulta de consell genètic per sospita de síndrome de Von Hippel-Lindau, el resultat de la qual està pendent.

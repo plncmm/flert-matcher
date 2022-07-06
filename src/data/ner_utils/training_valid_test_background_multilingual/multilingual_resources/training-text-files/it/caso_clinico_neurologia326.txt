@@ -1,0 +1,23 @@
+Anamnesi
+Un paziente di 44 anni ha consultato il Dipartimento di Emergenza per debolezza degli arti sinistri di circa due settimane di evoluzione. È semi-indipendente per le attività della vita quotidiana. La sua storia passata include l'essere un consumatore di droghe parenterali fino all'età di 30 anni e un fumatore fino a un anno fa. Ha una malattia epatica cronica da virus dell'epatite C con ipertensione portale. Nel 2011 ha subito una tracheostomia d'urgenza e una successiva laringectomia totale per un carcinoma a cellule squamose moderatamente differenziato della laringe, accompagnata dalla rimozione dei linfonodi cervicali e dalla radioterapia, che è stata completata circa un mese fa. Era complicato da un ascesso cervicale sinistro e da un herpes zoster craniale. Da allora ha un sondino nasogastrico. L'ultima tomografia computerizzata (CT) toraco-addominale ha mostrato un nodulo polmonare sinistro e adenopatie mediastiniche, e un nodulo epatico suggestivo di epatocarcinoma. È stato trattato con spironolattone e cerotti di fentanyl.
+
+Esame fisico
+Pressione sanguigna 126/78 mmHg e temperatura 37,2 oC. C'è un evidente deterioramento delle condizioni generali e segni cutanei di radiazione nella zona cervicale. Il linguaggio non è valutabile a causa della laringectomia, capisce i comandi complessi. C'è effacement della piega nasolabiale sinistra, una preferenza oculocefalica a destra e un'emianopsia sinistra nell'esame del campo visivo per confronto. Emiparesi sinistra di predominanza brachiale e distale. Emiipoesia sinistra. Risposta bilaterale dei flessori plantari. Il resto dell'esame neurologico è normale.
+
+Test complementari
+- Emocromo e studio della coagulazione di base: normale.
+- Elettrocardiogramma: ritmo sinusale a 80 bpm.
+- Radiografia del torace: malattia diffusa con un aspetto reticolare bilaterale.
+- TAC cerebrale: ipodensità nella materia bianca sottocorticale nelle regioni parietale bilaterale e occipitale sinistra, senza miglioramenti patologici osservati nello studio postcontrasto. TAC: ipodensità bilaterali nella materia bianca parietooccipitale.
+- Risonanza magnetica cerebrale (MRI): lesione iperintensa nelle sequenze T2 e FLAIR senza effetto massa che colpisce la materia bianca subcorticale parietooccipitale bilaterale, prevalentemente a destra, e ipointensa nella sequenza T1 con minimo miglioramento dopo somministrazione di contrasto endovenoso. Risonanza magnetica del cervello. Ipersegnale nella sequenza FLAIR. Miglioramento minimo dopo la somministrazione di contrasto nella sequenza T1.
+- Studio duplex del tronco sovra-aortico: nessuna evidenza di stenosi emodinamicamente significativa. Immagini oftalmiche ortodromiche.
+- Studio delle sottopopolazioni linfocitarie: linfociti totali 500 cellule/uL; CD 4 4 cellule/uL (500-2.500); rapporto CD 4/CD 8 0,01 (0,85-3,5).
+- Carico virale HIV: 123.705 cp/ml.
+- Studio del liquido cerebrospinale (CSF): 1 cellula/uL; 45 mg/dl di glucosio; 0,3 g/dl di proteine totali. 
+- Reazione a catena della polimerasi (PCR) per il virus JC nel CSF: negativo.
+
+Diagnosi
+Leucoencefalopatia multifocale progressiva (PML) in un paziente HIV-positivo.
+
+Evoluzione
+Dopo aver iniziato la tripla terapia antiretrovirale, le condizioni generali del paziente sono migliorate, anche se i sintomi neurologici persistevano al momento della dimissione. È stato rivisto un mese dopo dall'Unità di Malattie Infettive, con un miglioramento dei livelli di CD 4 e della carica virale.

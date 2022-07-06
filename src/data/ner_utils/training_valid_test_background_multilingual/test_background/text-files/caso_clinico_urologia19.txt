@@ -1,0 +1,29 @@
+Anamnesis
+Paciente mujer de 63 años de edad con antecedente personales de alergia al omeprazol. No hábito tabáquico ni enólico. Enfermedades médicas: insuficiencia renal (en seguimiento por el Servicio de Nefrología), cáncer de cérvix diagnosticado en el año 2003 tratado con radioterapia, quimioterapia y braquiterapia. Buen control oncológico en las revisiones. Intervenciones quirúrgicas: artrodesis lumbar, reimplante ureteral derecho tipo Leadbetter- Politano en el año 2006 por estenosis ureteral pélvica derecha postradioterapia. No seguía ningún tratamiento habitual.
+La paciente acude al Servicio de Urgencias por un cuadro clínico de una semana de evolución de dolor lumbar izquierdo persistente de intensidad moderada, no irradiado, y molestias suprapúbicas, acompañado de síntomas de incontinencia urinaria de esfuerzo y uso de prensa abdominal. Refiere desde hace 2 meses la aparición de hipertensión arterial, malestar general y astenia. No presenta fiebre, clínica miccional ni otra sintomatología asociada.
+
+Examen físico
+La paciente se encuentra con aceptable estado general, estable hemodinámicamente, bien hidratada y perfundida. Eupneica en reposo. Afebril. Cabeza y cuello: no ingurgitación yugular. Pulsos carotídeos presentes y simétricos. Auscultación cardiaca: tonos rítmicos y regulares a 86 lpm, sin soplos ni extratonos. Auscultación pulmonar: murmullo vesicular conservado, sin ruidos patológicos. Abdomen: blando y depresible, con molestias a la palpación en el hipogastrio. Sin signos de irritación peritoneal. No se palpan masas ni megalias. Ruidos hidroaéreos presentes. Puñopercusión renal bilateral negativa. Se aprecia cicatriz de laparotomía. Miembros inferiores: no edemas ni signos de trombosis venosa profunda. Pulsos pedios presentes. Tras la realización de pruebas (analítica sanguínea y ecografía abdominal) en Urgencias se decide su ingreso para control del cuadro clínico y completar el estudio. Ante los hallazgos, se coloca una nefrostomía percutánea bilateral.
+
+Pruebas complementarias
+A lo largo del ingreso en planta se realizan las siguientes pruebas:
+• Analítica sanguínea: hemoglobina 10,1 g/dl; leucocitos 5.610; plaquetas 251.000, TP 88,5%; INR 1,07; creatinina 10,14 mg/dl; urea 150 mg/dl; Na+ 144 UI/l; K+ 4,88 UI/l.
+• Analítica de orina. Sistemático: hemoglobina 3+, leucos negativos, nitritos negativos. Bioquímica: creatinina 76,5 mg/dl.
+• Ecografía abdominal: se evidencia una ectasia pielocalicial de grado IV/IV en el riñón derecho y de grado II/IV en el riñón izquierdo.
+• Ureteropielografía anterógrada:
+− PPT derecha: se aprecia dilatación de todo el sistema excretor hasta el teórico trayecto del reimplante ureteral, sin paso de contraste a la vejiga.
+− PPT izquierda: se aprecia dilatación de todo el sistema excretor hasta el uréter pelviano izquierdo, con trayecto terminal afilado del mismo, pero que se vence con presión pasando el contraste a la vejiga con buen flujo.
+• Renograma de perfusión: ambos riñones muestran una acumulación progresiva del trazador, iniciando la fase excretora tras la administración del diurético. Se evidencia retención pielocalicial leve-moderada en el riñón derecho, que persiste parcialmente al final del estudio, y retención pielocalicial importante en el riñón izquierdo, que se vacía casi en su totalidad al final del estudio.
+• Gammagrafía renal: ambos riñones presentan una disminución de captación del trazador y distribución irregular, correspondiente a la dilatación pielocalicial. El riñón derecho tiene un tamaño disminuido con ligero deterioro funcional (riñón derecho 41,72%, riñón izquierdo 58,28%).
+
+
+Diagnóstico
+Uropatía obstructiva bilateral postradioterapia en una paciente oncológica.
+
+Tratamiento
+Dados los hallazgos, en un primer tiempo se propone realizar una ureterorrenoscopia con dilatación endoscópica bilateral, sin éxito por la imposibilidad de identificar los meatos ureterales. Estos se evidencian posteriormente tras la infusión de contraste y azul de metileno por las nefrostomías.
+Finalmente, se lleva a cabo en el mismo acto quirúrgico una resección endoscópica de ambos orificios ureterales bajo control radiológico, hasta visualizar una luz ureteral de buen calibre, seguido de la colocación de doble J bilateral.
+
+Evolución
+Tras la colocación de los dos catéteres doble J, se retiran ambos catéteres de nefrostomía en quirófano. Durante su estancia en la planta la paciente presenta una evolución favorable, con mejoría de la función renal, derivándose al alta con cifras de creatinina de 2,46 mg/dl.
+A las 4 semanas se procede a la retirada de los catéteres doble J, objetivándose una mejoría de la uropatía obstructiva y de la función renal, con persistencia de ectasia residual grado II-III/IV en el riñón derecho y grado I/IV en el riñón izquierdo en la ecografía.

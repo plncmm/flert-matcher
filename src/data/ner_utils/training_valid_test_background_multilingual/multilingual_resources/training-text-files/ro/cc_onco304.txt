@@ -1,0 +1,27 @@
+Anamneză
+Un bărbat în vârstă de 47 de ani, fără antecedente de interes, a fost adus la serviciul de urgență pentru un traumatism abdominal contondent în urma unui accident rutier. La sosire, s-a observat un abdomen acut și a fost supus laparotomiei exploratorii care a evidențiat o cantitate mare de sânge liber în cavitatea peritoneală, secundară unei rupturi a arterei splenice polare inferioare. În timpul intervenției chirurgicale, a fost observat un conglomerat adenopatic retroperitoneal și au fost prelevate biopsii. Anatomia patologică a evidențiat un limfom folicular de gradul 1. A fost efectuată o scanare PET-CT care a arătat focare hipermetabolice în ganglionii limfatici axilari, mediastinali și iliaci bilaterali și un conglomerat retroperitoneal mare compatibil cu un limfom. Biopsia măduvei osoase a arătat infiltrarea cu limfom folicular.
+Reluând istoricul pacientului, nu a fost constatată prezența simptomelor B sau a unui sindrom constituțional, referindu-se doar la dureri lombare minore pe care le considera normale în cadrul meseriei sale de șofer de camion.
+A început chimioterapia cu CHOP-Rituximab din care a primit 6 cicluri cu toleranță bună. La o reevaluare PET, răspuns parțial cu persistența bolii la nivel retroperitoneal. A doua linie cu FMD-R (Fludarabină - Mitoxantronă - Dexametazonă - Rituximab) cu răspuns complet prin PET-CT după 4 cicluri, deși cu toxicitate hematologică mare, cu mai multe întârzieri din cauza neutropeniei și trombopeniei. A fost efectuată o biopsie a măduvei osoase, care nu a arătat infiltrare de limfom, astfel că a fost inițiat Rituximab de întreținere. Ameliorare clinică de la sfârșitul chimioterapiei, deși cu neutropenie persistentă și trombopenie de gradul 1. După 19 luni de tratament, pacientul s-a consultat pentru hematurie nedureroasă.
+
+Examinarea fizică
+Pacientul este în stare generală bună, deși oarecum palid. Nu există simptome B.
+Nu sunt palpabili ganglionii limfatici periferici.
+Auscultația cardiorespiratorie: normală.
+Examenul abdominal: normal. Disconfort lombar inferior
+Nu există edem malleolar
+Teste complementare
+Teste de laborator: Profil hepatic și renal normal. Nu există modificări ale electroliților. Hemoglobina 11,2 g/dl,
+Leucocite 2650/μL (Neutrofile 1410/μL), Plachete 123000.
+CT toracic: calcificări în arterele coronare. Ganglionii limfatici paratraheali drepți și para-aortici stângi de dimensiuni nesemnificative. Nu au fost observate adenopatii mediastinale de dimensiuni semnificative. Nu au fost observate modificări pleuropulmonare de interes.
+Tomografie computerizată a abdomenului și pelvisului: Hepatomegalie cu steatoză moderată, fără semne de leziuni focale.
+Splenomegalie omogenă. Nu au fost observate lichid liber sau adenopatii intraabdominale de dimensiuni semnificative. Pancreas și rinichi drept fără modificări de interes. Ocuparea pelvisului renal stâng de către o masă de densitate de țesut moale, de aprox. 40x44x51 mm (apxtxl) cu captare de contrast, nelipsită de la tomografiile anterioare. Aceasta a provocat dilatarea calicilor, în special în grupul superior, fără dilatare ureterală compatibilă cu tumora urotelială.
+Constatările au fost prezentate Comitetului de Urologie și s-a efectuat o nefrectomie, care a evidențiat infiltrarea pelvisului renal de către un neoplasm cu celule mici cu morfologie regulată. Imunohistochimia a arătat pozitivitate pentru CD 45, CD 20, CD 10, Bcl 2, Bcl 6 și negativitate pentru CD 138, CD5 și Cyclin D1. Indicele proliferativ prin Ki 67 este de aproximativ 10%.
+
+Diagnostic
+Infiltrarea pelvisului renal de către limfomul folicular ca unic focar de recidivă.
+
+Tratament
+Având în vedere rezultatele, A fost efectuată o scanare PET-CT repetată, confirmând absența altor focare. Tomografia computerizată a confirmat absența altor focare și a fost efectuată o nouă biopsie de măduvă osoasă care nu a evidențiat infiltrarea limfomului, dar a arătat o măduvă hipocelulară cu hiperplazie marcată a seriei eritroide cu caracteristici displazice accentuate (tendința de grupare în cuiburi și prezența de Seriile rămase au fost slab reprezentate, cu o predominanță a formelor mieloide imature, cu 3% de forme blastice și prezența plasmocitelor politipice care sugerează un sindrom mielodisplastic de tip citopenie refractară cu displazie multilineală. Având în vedere aceste constatări, cazul a fost prezentat comitetului de hematologie și s-a luat decizia de a efectua un mini-transplant de la un donator neînrudit, deoarece nu existau frați compatibili.
+
+Evoluție
+În timpul condiționării, pacientul a suferit un debut diabetic cu o glicemie de peste 1000 mg/dL. După condiționare, a fost internat în secția de terapie intensivă pentru diaree severă cu insuficiență renală prerenală și microangiopatie trombotică suspectată, probabil legată de Tacrolimus utilizat ca profilaxie pentru boala grefă contra gazdă. Evoluția slabă a stării cu scăderea nivelului de conștiență, apariția flutterului atrial de novo cu răspuns ventricular rapid la 150 de bătăi pe minut și starea febrilă cu izolarea în hemocultură a Escherichia coli multirezistentă împreună cu recuperarea slabă a parametrilor hematologici, ducând la insuficiență multiorganică în ziua + 16 de la transplant, ceea ce a dus la ieșirea pacientului.

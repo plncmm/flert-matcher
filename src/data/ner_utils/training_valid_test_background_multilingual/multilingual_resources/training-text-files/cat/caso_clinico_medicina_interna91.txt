@@ -1,0 +1,36 @@
+Anamnesi
+Pacient home de 41 anys. Director de banca.
+
+Antecedents personals
+· Dislipèmia, hiperuricemia asimptomàtica i alteració de glucosa en dejú.
+· Probable NASH (2006). Serologies per a virus B i C negatives.
+· Dolor toràcic atípic estudiat en 2006 amb ecocardiograma (hipertròfia ventricular esquerra amb funció sistòlica normal (FE= 0,72), disfunció diastòlica) i prova d'esforç negatives.
+· Síndrome ansiosa des de 1998.
+
+Antecedents familiars
+No hi ha antecedents familiars rellevants. Hàbit tòxics: Fumador de 10 cigarrets/dia (consum acumulat de 20 paquets-any). Consum esporàdic moderat d'alcohol. Tractament: Escitalopram 20 mg (1-0-0). Lorazepam 2,5 mg (1-0-2). Bisoprolol 5 mg (1- 0-0). Gemfibrozilo 600 mg (0-0-1).
+
+Història actual
+Pacient que acudeix al Servei d'Urgències del nostre centre en presentar de manera brusca dolor muscular intens al braç dret de 4 hores d'evolució, sense desencadenants aparents. Associa gran preocupació i ansietat pel possible origen cardiològic dels símptomes. No refereix dispnea, ortopnea ni dispnea paroxismal nocturna. No ha presentat episodis presincopales ni síncopes prèviament ni una altra simptomatologia respiratòria acompanyant. Encara que comenta que el dolor és de característiques diferents, el pacient havia estat estudiat prèviament per Cardiologia en 2006 en presentar un episodi de dolor toràcic de característiques atípiques aparentment relacionat amb un consum excessiu d'alcohol. En l'estudi realitzat es van objectivar nivells elevats de CPK, amb un ecocardiograma i una prova d'esforç sense anomalies, descartant un origen cardiològic tant dels símptomes com de les alteracions analítiques (no adjunta informe de les proves realitzades). Sobre la base d'aquestes dades es realitza en Urgències ECG (no signes d'isquèmia aguda) i analítica bàsica on destaca augment de GOT/GPT 31/71 UI/L (n: 0-37/0-41) amb resta de proves hepàtiques normals, CPK de 252 UI/L (n: 0-170UI/L) i aldolasa de 7.9 UI/L (n: 0-7,6 UI/L). Paràmetres inflamatoris (VSG i PCR) dins de la normalitat, amb normofunción renal sense alteració hidroelectrolítica, Hb 15.4 g/dl, Plaquetes 263 10E9/L, Leucòcits 6,2 10E9/L. Coagulació normal. Anormals i Sediment sense alteració. Davant aquests resultats s'atribueix el dolor a un probable origen osteo-muscular i es deriva al pacient a consulta de Medicina Interna per a veure evolució i completar estudi d'alteració analítica lleu. En consulta de Medicina Interna, es rehistoria al pacient que descriu des de la infància intolerància a l'exercici manifestada en forma d'astènia i miàlgies generalitzades, tant a nivell proximal com distal d'extremitats, sense artritis, ni lesions cutani-mucoses de nova aparició.
+
+Anamnesi per aparells
+No ha presentat febre ni enrampades. No pèrdua de massa muscular. No fasciculaciones ni símptomes sensitius. Porta una vida relativament normal, amb la limitació descrita per a la pràctica d'algun esport i que li condiciona portar una vida relativament sedentària. No tos ni flegmes. No quadres infecciosos recents. No dolor abdominal. Hàbit intestinal conservat amb 1 deposició al dia sense productes patològics. El pacient aporta analítiques prèvies on s'objectiva variacions significatives en les xifres de CPK en els últims anys coincidents aparentment amb la presa de estatinas i un consum moderat d'alcohol concomitant. Addicionalment presenta una hipertransaminasemia crònica i fluctuant sense episodis d'icterícia ni altres signes suggestius de descompensació hepàtica que s'atribueixen a possible esteatohepatitis no alcohòlica amb serologies virals negatives. Prèviament s'havien realitzat diferents proves (RM de cos sencer, estudi electrofisiológico, biòpsia hepàtica) sense trobar alteracions.
+
+Exploració física
+T.A.: 110/70 mmHg. FC: 79/minut. Afebril. Sat.02: 96%. IMC: 28 Kg/m². Bon estat general. Bona coloració de pell i mucoses. Faringe: normal. Auscultació cardíaca: sense alteracions. Auscultació pulmonar: normal. Abdomen: tou, depresible, sense dolor ni megalias. Extremitats: polsos perifèrics, no edemes. No dolor a la palpació. No signes d'artritis. Exploració neurològica anodina.
+
+Evolució i discussió del cas clínic
+Després de revisar les proves ja disponibles i rehistoriar al pacient orientem els estudis cap a un quadre d'intolerància a l'exercici en forma d'astènia i miàlgies acompanyats de nivells oscil·lants de CPK i lleu hipertransaminasemia, sense elevació de paràmetres inflamatoris ni signes suggestius de malaltia de primera o segona motoneurona. Així mateix, davant l'absència de lesions cutànies compatibles i de feblesa muscular característiques, descartem raonablement els diagnòstics de polimiositis i/o dermatomiositis. L'abordatge diagnòstic que seguim va ser el següent:
+
+1. davant la possibilitat d'una reacció adversa a medicaments revisem i retirem els fàrmacs potencialment implicats (Gemfibrocilo/Benzodiazepinas/Escitalopram).
+2.se van sol·licitar serologies enfront de CMV, Epstein barr, Herpes virus i VIH, negatives i es va completar estudi de hipertransaminasemia mitjançant serologies per a VHA, B i C. Afegim estudi d'autoimmunitat (ANA, MESTRESSA, ASMA i Anti-LKM) obtenint ANA patró nucleolar 1:320 i ASMA 1:80.
+3. completem estudi amb la realització d'ecografia doppler abdominal observant-se esteatosis hepàtica difusa amb una àrea de preservació perivesicular, sense evidenciar-se lesions focals sòlides. Pòlips vesiculars múltiples (probablement de colesterol) amb via biliar de calibre normal.
+Una vegada descartades les possibles etiologies adquirides d'elevació de CPK, orientem el cas cap a una possible miopatia hereditària. Per això, aprofundim en els antecedents familiars i en les característiques de la simptomatologia del pacient. Ningú del seu entorn familiar comptava una clínica semblant i quant a la simptomatologia, el pacient referia fatiga primerenca i miàlgies amb millora de la tolerància a l'exercici després de diversos minuts des del seu inici. Es va realitzar una revisió de la literatura i trobem tres grans grups dins de les miopaties hereditàries:
+· Les glucogenosis,
+· Les alteracions del metabolisme lipídic
+· Les malalties mitocondrials.
+Per ordre de freqüència, englobant els tres grups, destaquen tres entitats:
+· El dèficit de Carnitina palmitoil transferasa II (CPT II),
+· El dèficit de miofosforilasa (Malaltia de McArdle (V))
+· El dèficit de Fosforilasa cinasa (VIII).
+Segons l'algorisme diagnòstic ----, l'elevació de xifres de CPK juntament amb una intolerància severa a l'exercici (en forma d'astènia i miàlgies) des de l'inici del mateix però que millora significativament als 5-10 minuts, resulten altament suggestius de la Malaltia de McArdle. Per això, realitzem un test d'isquèmia on es va confirmar una discreta elevació de làctic compatible amb dificultat per al metabolisme del glucogen. Es va realitzar biòpsia muscular que constatava la presència de teixit muscular esquelètic estriat amb conservació estructural i un relatiu increment de la quantitat de glucogen de les fibres musculars. En l'estudi immunohistoquímic realitzat destacava l'absència de historreacción enfront de miofosforilasa, amb normalitat de la resta de patrons historreactivos, confirmant l'existència d'una miopatia per dèficit de miofosforilasa corresponent a malaltia de McArdle.

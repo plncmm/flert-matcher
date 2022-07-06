@@ -1,0 +1,44 @@
+Niña de dos años que es trasladada al Hospital Virgen de la Salud de Toledo por neumonía en lóbulo superior derecho (LSD) con derrame pleural asociado para drenaje del mismo. Trasladada en ambulancia no medicalizada con oxígeno en gafas nasales a 3 lpm. En tratamiento antibiótico intravenoso con ampicilina a 200 mg/kg/día durante 48 horas al que se añade cefotaxima las últimas 24 horas. Las constantes de la paciente son frecuencia cardiaca (FC): 160 lpm, tensión arterial (TA): 100/50 mmHg, SatO2 99% con gafas nasales a 3 lpm, temperatura (Ta) de 38,6°C, frecuencia respiratoria (FR) 40 rpm. A su llegada se encuentra con regular estado general, palidez intensa de piel y mucosas, gradiente térmico de 3°C en rodillas y codos, relleno capilar de 5 s. Dificultad respiratoria con tiraje sub e intercostal moderado. Auscultación cardiaca rítmica sin soplos y pulmonar con marcada hipoventilación en campo pulmonar derecho. El abdomen es blando y depresible, hepatomegalia de 2 cm de reborde costal, exploración neurológica consciente y orientada, meníngeos negativos. Inicialmente se expande a 20 ml/kg, mejorando la perfusión y desapareciendo el gradiente térmico pero persiste la taquicardia.
+
+Ante estos hallazgos debemos sospechar:
+a. Síndrome de respuesta inflamatoria sistémica (SRIS).
+b. Sepsis.
+c. Sepsis grave.
+d. Shock séptico.
+e. Neumonía en LSD aislada.
+
+En nuestro caso existen criterios de sepsis con disfunción de dos o más órganos pero sin llegar a cumplir criterios de shock séptico.
+
+Llegan los resultados del control analítico:
+• Hemograma: hemoglobina 6,9 g/dl, hematocrito 19,2%, plaquetas 18.000x106/L, leucocitos 15.500x106/L.
+• Bioquímica: glucosa 91 mg/dl, urea 105 mg/dl, creatinina (Cr) 1,29 mg/dl, GOT 227 U/L, GPT 55 U/L.
+• Gasometría venosa: pH 7,31, pCO2 45 mmHg, pO2 134 mmHg, HCO3 – 22,7 mmol/L, exceso de bases -3,3.
+Coagulación: T. protrombina 83%, INR 1,1, T. cefalina 54,4 s, fibrinógeno 954 mg/dl.
+
+Se transfunde un concentrado de plaquetas a 20 ml/ kg y se canaliza vena femoral derecha. Comienza con mayor trabajo respiratorio, y epistaxis importante difícil de controlar. Se decide avisar a otorrinolaringología, que coloca taponamiento anterior. A pesar del taponamiento persiste sangrado y comienza con obnubilación y disminución del nivel de conciencia. Ante el bajo nivel de conciencia y el sangrado importante se procede a sedoanalgesiar a la paciente y asegurar la vía aérea con intubación. Posteriormente, una vez estabilizada, se comprueba la presencia de derrame pleural con ecografía, evidenciando derrame pleural encapsulado de 3 cm desde escápula hasta diafragma. Se coloca tubo de drenaje pleural en zona de mayor acúmulo; 5o espacio intercostal y línea axilar posterior. Tras la intubación se hipotensa presentando signos de gradiente térmico, frialdad distal y mala perfusión, por lo que se inicia dopamina a 5 μg/kg/min Se amplia la analítica que presenta LDH elevada, bilirrubina elevada, aumento de los reticulocitos y descenso de haptoglobina.
+
+Nos planteamos como posible etiologia del cuadro:
+a. Síndrome hemolítico urémico (SHU) secundario a neumococo.
+b. Shock séptico secundario a neumonía complicada.
+c. Anemia hemolítica autoinmune (AHAI).
+d. Púrpura trombocitopénicatrombótica (PTT).
+e. Glomerulonefritis aguda postinfecciosa (GNAPI).
+
+Pensaríamos en primer lugar en el SHU ya que el shock séptico cursa con coagulopatía que no hay en nuestro caso. El SHU secundario a neumococo causa el 40% de los SHU no E. coli. En su patogenia la neuraminidasa del neumococo degrada el ácido siálico que cubre el Ag T en las membranas de hematíes, plaquetas y endotelio glomerular que queda expuesto. El reconocimiento de Ag T por AutoAc (IgM): causa hemólisis, agregación plaquetar y daño endotelial: Cooms directo +.
+
+Ante nuestra sospecha probablemente sera positivo:
+a. Cooms directo y Ag neumococo en líquido pleural.
+b. Coprocultivo para E. coli.
+c. Actividad ADAMTS 13 < 5%.
+d. Estudio genético con mutación del factor H.
+e. Test rápido para H1N1 positivo.
+
+El diagnóstico etiológico del SHU debe incluir estudio de:
+• E. coli: test rápido (ELISA) de detección de STx en heces, coprocultivo, cultivo en agar sorbitol Mac Conkey, PCR, serologías, hemocultivo.
+• Neumococo: Test rápido de detección de Ag de neumococo en líquido pleural, Coombs directo positivo, cultivos (sangre, esputo, LCR...), test de Coombs.
+• VIH, H1N1: serologías.
+• MUY IMPORTANTE ANTE SOSPECHA DE SHU tomar muestra de plasma previa a transfusiones para SOLICITAR: actividad ADAMTS 13 y estudio del complemento C3, C4, CH50, FH, FI, FB, por si se presenta un caso de SHU atípico.
+
+Nuestra paciente elevó las cifras de urea hasta 114 y de creatinina hasta 1,33 a pesar de tratamiento diurético, con hiperfosforemia e hiperpotasemia refractaria, con balance de +1.000 ml y diuresis de 0,7 cc/kg/h.
+
+La paciente se conectó a HDFVVC durante 72 horas, retirándose tras descenso de Cr a 0,97 y Urea a 91, y recuperar una diuresis de 3 cc/kg/h con furosemida. Para el tratamiento de la neumonía se mantiene inicialmente con cefotaxima y vancomicina. Al 5o día de ingreso tras empeoramiento con elevación de RFA se pasa a meropenem y linezolid. Se añade amikacina 4 días más tarde (8o día VM). Mantiene amikacina 4 días (hasta 48 horas tras extubación), linezolid durante 10 días y meropenem 13 días. Ante sospecha de neumonía tabicada se administran tres dosis de urokinasa. Como complicación secundaria al 4o día de VM realiza atelectasia masiva de pulmón izquierdo y neumotórax derecho que precisa VAFO durante 5 días, y posteriormente continuar con VMC durante 48 horas más. La TA se mantuvo en valores altos de la normalidad du rante 48 horas, sin llegar a precisar tratamiento antihipertensivo. Se retira tratamiento diurético al 18o día de ingreso, con normalización de la función renal Dada la persistencia del neumotórax se mantiene el tubo de drenaje hasta el 28o día de ingreso. Revisada en consultas de neumología con persistencia de 2 burbujas de neumotórax en campos anteriores derechos, con persistencia de paquipleuritis. Función renal normalizada.

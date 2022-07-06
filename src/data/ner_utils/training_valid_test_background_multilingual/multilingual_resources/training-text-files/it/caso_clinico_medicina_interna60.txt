@@ -1,0 +1,30 @@
+Anamnesi
+Un uomo di 61 anni, fumatore di 1 pacchetto al giorno (ha fumato fino a 3 pacchetti al giorno) per più di 40 anni e bevitore occasionale, con una storia di: dislipidemia, glaucoma negli ultimi due anni seguito da Oftalmologia, ed ernie cervicali e lombari trattate in modo conservativo, con dimissione da Neurochirurgia. È stato ricoverato d'urgenza per dare priorità agli studi dell'ambulatorio di medicina interna dopo la diagnosi di una probabile sindrome da maschera in oftalmologia, dovendo escludere, come prima opzione, che si trattasse di una manifestazione neoplastica di un tumore primario. Nel giugno 2013, il paziente ha perso parte della vista nell'occhio destro, senza essere valutato fino a gennaio 2014, momento in cui è stato indirizzato allo specialista della retina, che gli ha diagnosticato una probabile sindrome mascherata nel febbraio dell'anno in corso con VA dell'OD di 0,7 su 1. Durante tutto questo periodo di tempo, la sua visione non è cambiata rispetto alla perdita nel mese di giugno. È da notare che il paziente è totalmente asintomatico da qualsiasi punto di vista. Nessuna astenia, ipossia o perdita di peso negli ultimi mesi. Nessun sintomo di B. Non segnala viaggi all'estero, nuove assunzioni di droghe, contatti con animali o relazioni sessuali a rischio.
+
+Esame fisico
+Buone condizioni generali. Vigile, orientato e cooperativo. Eupneico a riposo. Tollera il decubito. Colore della pelle marrone. Normoidratato e normoperfuso. PRESSIONE 120/70. FC 60 bpm. Saturazione basale di O2 98%. Afebrile. Peso 73,4 kg. Altezza 1,83 m (BMI 25,86). CYC e orofaringe senza risultati. Auscultazione cardiopolmonare: normale. Addome: nessun risultato. Arti inferiori: nessun risultato. Esame neurologico: nessuna focalità o altri risultati patologici. In conclusione: esame nella norma.
+
+Test complementari
+Lo studio è iniziato con i seguenti test:
+- Emocromo: normale. VES normale. CRP 7,8 mg/l (normale tra 0-5).
+- Striscio di sangue: nessuna alterazione morfologica significativa.
+- Coagulazione: nei limiti della norma.
+- Biochimica: creatinina 1,62 mg/dl (normale tra 0,6-1,4); filtrazione 46 ml/min (normale sup 60); resto del profilo epatorenale nella norma. Cortisolo normale. PSA normale. ACE 60 IU/l (0-50 normale).
+- Immunoglobuline: Ig A 78,4 mg/dl (normale tra 90-410) e Ig M 717 mg/dl (normale tra 55-350). Ig G normale. Proteinogramma: normale.
+- Sierologia: RPR negativo. Toxoplasma gondii Ig G 32,8 IU/ml (positivo sup 9,9) e IgM negativo. HIV, virus B e C negativi. EBV Ig G 232 U/ml (positivo sup 20) e Ig M negativo. CMV IgG positive 47,8 U/ml (positive sup 14) e Ig M negative.
+- Autoimmunità: ANA, antiDNA, antiSm, antiRo e antiLa negativi. Fattore reumatoide: normale.
+- Urine 24 ore: clearance della creatinina 54,75 ml/min. Calcio 29,90 mg/24h. Calcio/creatinina 24,47 mgCa/gCre (entrambi bassi). Coltura delle urine e coltura fungina delle urine: negativo.
+- Radiografia del torace: torace enfisematoso. Indice cardiotoracico normale. Illazioni normali. Seni costofrenici liberi. Nessuna immagine parenchimale patologica evidente.
+- Mantoux: negativo.
+- TAC addominale: massa-conglomerato di adenomegalia nella regione subcarinica - recesso pleuroacico esofageo, adenomegalia ilare e nella piramide basale destra. Nodulo solido spicolato nel lobo medio destro. Diametro maggiore 21 mm. Ipodensità epatiche bilaterali punteggiate. Possibili cisti millimetriche. Immagine compatibile con un angioma di 10 mm nel segmento sette. Immagini di adenomi in entrambe le surrenali. Rene destro normale. Idronefrosi renale sinistra con corteccia molto assottigliata prodotta da una massa intraureterale di 6 cm di lunghezza.
+
+ Una neoplasia polmonare con adenomegalia mediastinica e/o metastasi di un tumore del dotto dovrebbe essere esclusa.
+- Ecografia addominale: rene sinistro con idronefrosi di alto grado, con grande dilatazione dell'uretere prossimale, sfere idronefrotiche calcifiche e atrofia parenchimale.
+Nessun fluido libero. Resto delle strutture nella normalità.
+- Risonanza magnetica cranica: linea mediana conservata. Si può vedere una moltitudine di lesioni arrotondate di alta intensità T2 e bassa T1. Il più grande di essi ha un diametro di 9 mm. Si trovano in entrambi gli emisferi cerebrali, nel vermis cerebellare, nell'emisfero cerebellare destro e nel tronco cerebrale. Molti di loro mostrano un minimo edema perilesionale nella sequenza FLAIR. Notevole ispessimento (3,8 mm) del polo posteriore del bulbo oculare destro in probabile relazione con la corio-retinite menzionata. Ritrovamenti suggestivi di metastasi cerebrali multiple, specialmente dopo la TAC toraco-addominale.
+
+Diagnosi
+Sindrome di Mascarada (coroidite diffusa + papillite) come prima manifestazione di un tumore del tratto urinario sinistro con metastasi polmonari e del SNC.
+
+Trattamento ed evoluzione
+Dopo più di 10 giorni in Medicina Interna, con l'idronefrosi causata dalla lesione ureterale visualizzata dall'ecografia e visto il deterioramento della funzione renale, si è deciso di trasferirlo in Urologia. L'urologia ha eseguito l'ureteroscopia e le biopsie. È stata dimessa una settimana dopo essere stata affidata all'Urologia, con un catetere nefrostomico permeabile, con persistenza e persino un leggero peggioramento dell'insufficienza renale (Cr 1,86 e FG 39), essendo emodinamicamente stabile, afebrile e con urine chiare. Dieci giorni dopo la dimissione, sono stati ottenuti i risultati dell'anatomia patologica, che hanno segnalato la compatibilità dei campioni con un tumore di origine uroteliale attraverso il lavaggio ureterale. Un mese dopo il paziente è stato indirizzato all'oncologia medica, dove è stata prescritta una chemioterapia palliativa con Carboplatino e Gemcitabina, data l'estensione della malattia e la sua prognosi infausta.

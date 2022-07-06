@@ -1,0 +1,32 @@
+Motivo da consulta
+Gestão de um membro da família com dependência total.
+
+Abordagem individual (anamnese, exame, testes complementares).
+Um paciente do sexo masculino de 51 anos sem historial patológico de interesse veio à clínica para renovar a medicação da sua esposa. Revimos as análises anteriores do paciente e verificámos que ele tinha leucocitose com um turno esquerdo em duas análises anteriores e indicámos que ele deveria repetir as análises. O paciente está completamente assintomático no momento presente. Não há sintomas B presentes. No último ano, teve dois episódios de artrite gotosa na primeira falange do pé direito que se resolveram com AINE e colchicina.
+Em Setembro de 2015 tinha uma hemograma com 16650/μL leucócitos à custa dos neutrófilos (13020/μL), em Março de 2016 caíram para 12160/μL (neutrófilos 8950/μL).
+
+Exame físico: BP 120/80 sat 98% aa HR 70 FR 16 Cavidade oral normal. Nenhuma linfadenopatia submandibular ou supraclavicular palpável, nem na região axilar nem na região inguinal. Auscultação cardiopulmonar: tons rítmicos sem murmúrios, murmúrio vesicular preservado sem ruídos acrescentados. Abdómen: suave, depressivo, não doloroso à palpação, sem massas ou visceromegalia. Extremidades normais, sem edema.
+
+Testes complementares (Junho 2017):
+- CBC: leucócitos 15555/μL (neutrófilos 11150/μL e basófilos 3600/μL), resto da fórmula normal.
+- Bioquímica: ácido úrico 8, LDH 450. Repouso dentro dos parâmetros normais.
+- Esfregaço de sangue periférico: leucocitose com desvio para a esquerda: mielócitos 3% metamielócitos 5% chaves 8% basofilia comprovada 4%.
+- Serologia HCV negativo, CMV negativo, HIV negativo, Parvovírus B19 IgG positivo, IgM negativo, HBsAg negativo, anti-HBsAg negativo.
+- Anticorpos antinucleares negativos
+- Anticorpo nuclear antigénio extraível positivo
+- Proteinograma: dentro dos valores normais
+
+Abordagem Familiar e Comunitária
+M é o marido e cuidador primário de outro paciente com 49 anos de idade que se encontra num estado vegetativo após ter sofrido uma hemorragia subaracnóidea grave há 10 anos. M está completamente envolvido nos cuidados da sua esposa e vem sempre ao nosso consultório para os arranjos de cuidados. O meu tutor e eu vimos regularmente avaliar a sua esposa em casa. M não é consultor e, apesar das numerosas ocasiões em que o temos visto para consultas relativas à sua esposa, dificilmente tem folhas de consulta abertas. A sua preocupação e esforço diários estão no cuidado impecável da sua esposa. Ele subestima o seu estado de saúde e os seus próprios problemas. M é um paciente colaborador e cooperante, mas por vezes falta a colheitas de sangue ou consultas porque põe os cuidados da sua esposa à frente da sua própria saúde. É extremamente difícil lidar com questões psicológicas relativas ao recente diagnóstico da sua doença porque para ele não é um problema, para ele só seria um problema se algo acontecesse à sua esposa, mesmo que ela tenha estado desligada do ambiente durante anos.
+
+Julgamento clínico (lista de problemas, diagnóstico referencial)
+Leucocitose com neutrofilia sustentada em estudo.
+Problemas psicossociais do cuidador principal de um paciente altamente dependente.
+
+Plano de acção
+Dados os resultados obtidos no esfregaço de sangue periférico e na leucocitose sustentada, o paciente foi encaminhado para o departamento de hematologia e hemoterapia.
+
+Evolução
+A consulta de hematologia e hemoterapia completou o estudo e foi-lhe diagnosticada leucemia mielóide crónica positiva de Filadélfia.
+Em Novembro de 2017, foi iniciado o tratamento com quimioterapia, prescrevendo Hidreia numa dose de 1000 mg alternada com 500 mg, pois, embora assintomática, a contagem de leucócitos tinha aumentado para 46480/μL com uma neutrofilia de 84000/μL, e trombocitose de 404000/μL. Além disso, foi prescrito alopurinol 300 mg ao pequeno-almoço e hidratação abundante devido à hiperuricemia causada por lise celular (ácido úrico 8). Na consulta de revisão, a fórmula leucocitária permaneceu a níveis semelhantes, pelo que modificaram o tratamento e iniciaram o nilotinib 300 mg de 12 em 12 horas.
+Este último tratamento foi bem tolerado e eficaz. O doente está actualmente assintomático e tem uma contagem normal de leucócitos: leucócitos 8700/μL neutrófilos 6500/μL e plaquetas 300000/μL.

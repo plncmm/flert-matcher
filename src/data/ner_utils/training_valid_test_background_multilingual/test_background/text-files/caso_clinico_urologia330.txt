@@ -1,0 +1,31 @@
+Anamnesis
+Mujer de 30 años de edad con antecedente de cólico renal derecho no complicado 5 años antes. No refería otros antecedentes médicos ni quirúrgicos. Alérgica a ciprofloxacino.
+Es derivada a nuestra consulta para el estudio de episodios recurrentes de síndrome miccional durante los últimos 6 meses. La paciente describe los síntomas como polaquiuria, disuria y tenesmo que, en ocasiones, se acompañan de fiebre y dolor en la fosa renal derecha. La clínica mejora, solo parcialmente, con tratamiento antiinflamatorio. Aporta varios urocultivos, todos ellos negativos. Cinco años antes se había realizado una urografía intravenosa en el contexto de un cólico renal derecho, sin hallazgos.
+
+Exploración física
+Buen estado general. Afebril. Tensión arterial 128/85 mmHg. Abdomen blando y depresible, sin masas ni megalias. Índice de masa corporal 26. Algo molesta a la puñopercusión renal derecha. Resto de la exploración sin hallazgos.
+
+Pruebas complementarias
+• Hemograma y bioquímica: sin alteraciones.
+• Sedimento de orina: pH: 6. Leucocituria aislada sin hematuria ni bacteriuria.
+• Urocultivos seriados: negativos.
+• Baciloscopia con tinción BAAR: negativa.
+• Radiografía de tórax-abdomen: sin hallazgos.
+• Ecografía urológica: ureterohidronefrosis grado I en la vía urinaria derecha. La situación, tamaño y ecoestructura de ambos riñones son normales. No se observan lesiones ocupantes de espacio. Vejiga de buena capacidad sin hallazgos. Genitales internos normales.
+• Citología de orina: intensos signos inflamatorios, sin observarse celularidad sugerente de malignidad.
+• Urografía intravenosa: al compararla con la previa, de 5 años antes, llamó la atención la anulación funcional completa del riñón derecho sin objetivar causa. Riñón izquierdo normal.
+• Renograma diurético: ausencia total de función renal derecha y normalidad de la función renal izquierda.
+• Cistoscopia: mucosa vesical normal. No lesiones ocupantes de espacio. Meatos ureterales ortotópicos.
+• Pielografía ascendente derecha: morfología pieloureteral normal sin signos que sugieran obstrucción.
+
+Diagnóstico
+Nos encontramos ante una mujer joven con síndrome miccional crónico, urocultivos negativos y anulación funcional del riñón derecho sin objetivar causa. Ante los hallazgos del sedimento (piuria estéril), y a pesar de tinción BAAR negativa, se solicitó urocultivo específico para micobacterias en medio de Lowestein-Jensen. A las 6 semanas, se nos informó del crecimiento de Micobacterium tuberculosis.
+Aunque más sensible que la baciloscopia, el cultivo en medio específico del bacilo tuberculoso tiene el inconveniente de tener un crecimiento muy lento (entre 6 y 8 semanas).
+
+Tratamiento
+El esquema terapéutico para la tuberculosis respiratoria es superponible para la enfermedad genitourinaria. No existe un esquema de tratamiento ideal y según la clínica, la comorbilidad y la adhesión terapéutica del paciente se puede optar por un régimen de tratamiento u otro1. Atendiendo a las bases bacteriológicas, para obtener la curación de la tuberculosis, el régimen terapéutico recomendable en España es el de 6 meses, con cuatro fármacos de primera línea durante los 2 primeros meses (isoniacida, rifampicina, piracinamida y etambutol) y dos fármacos (isoniacida y rifampicina) durante los 4 restantes (2HRZE/4HR). La indicación de añadir etambutol a todos los pacientes se establece para cubrir posibles resistencias. No obstante, el mismo esquema sin etambutol continúa siendo válido para la mayoría de los pacientes con TBC nacidos en España1. Por ello, y por su potencial nefrotoxicidad, se decidió pautar el esquema sin etambutol en nuestra paciente, comenzando con un preparado combinado de isoniacida 120 mg, pirazinamida 300 mg y rifampicina 50 mg repartido en tres tomas diarias (2-2- 1) durante 2 meses (fase de inducción 2HRZ). Transcurrido este período, se continuó con la fase de mantenimiento durante 4 meses con monodosis diaria de otro combinado de isoniacida 300 mg, rifampicina 600 mg (4HR) y vitamina B6 50 mg (esta última se incluye en el mismo preparado como profilaxis de la potencial neurotoxicidad de la isoniacida).
+
+Evolución
+Durante el tratamiento antituberculoso es imprescindible establecer controles periódicos con un triple objetivo: comprobar la eficacia de la medicación, estimular el correcto cumplimiento y descubrir precozmente la toxicidad de los fármacos. El más frecuente y peligroso de los efectos secundarios del tratamiento es la toxicidad hepática. En nuestro caso, programamos controles cada 2 meses, que incluían análisis de enzimas hepáticas y de función renal, y toma de dos muestras de orina de la primera micción de la mañana (para baciloscopia y cultivo respectivamente). El control microbiológico se continuó hasta completar un año de seguimiento. El resultado de todos los controles fue negativo y la tolerancia y adhesión terapéutica fueron óptimas.
+A pesar de la adecuada respuesta al tratamiento médico, el dolor en la fosa renal derecha persistía de forma recurrente con intensidad moderada. Por ello, y ante la ausencia de funcionalidad de esa unidad renal, se propuso nefrectomía laparoscópica. La exéresis ureteral no es obligada y se acepta que la terapia médica es capaz de esterilizar el uréter residual. Durante la intervención llamaron la atención las acusadas adherencias de los tejidos perirrenales, frecuentemente descritas en estos casos, aunque no supusieron grandes problemas quirúrgicos. El estudio anatomopatológico de la pieza confirmó la atrofia renal compatible con infección tuberculosa previa.
+Transcurridos cuatro años desde la nefrectomía, la paciente está asintomática, mantiene buena función renal con cifras de creatinina de 0,9 mg/dl y ha tenido un embarazo a término sin problemas.

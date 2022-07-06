@@ -1,0 +1,55 @@
+Mujer de 23 años que ingresó por cuadro de artromialgias de intensidad progresiva referidas como sensación de agujetas con debilidad muscular de predominio proximal de unos 6 meses de evolución. Como antecedentes destacaban hipotiroidismo en tratamiento sustitutivo y síndrome del ovario poliquístico. En la anamnesis por aparatos refería sequedad cutánea, pérdida de unos 6 kg de peso, febrícula, sequedad ocular y oral y disnea de esfuerzo. Contaba además artritis previas en carpos, tarsos y articulaciones interfalángicas sin Raynaud. Las 24 horas previas al ingreso fiebre termometrada de 39oC.
+En la exploración física presentaba: tensión Arterial 120/70, To 37, Fc 100 lpm, Fr 12 rpm, saturación basal del 95%. Consciente, orientada, colaboradora, eupneica en reposo, bien hidratada y perfundida, postrada, no adenopatías periféricas significativas, mamas simétricas y sin lesiones palpables, tonos rítmicos y sin soplos, crepitantes secos bibasales, abdomen blando, depresible, sin masas ni megalias, hiperqueratosis en zonas extensoras de las articulaciones metacarpo falángica sin esclerodactilia, sinovitis pequeñas articulaciones, debilidad en cintura escapular y en menor proporción en cintura pelviana.
+
+PRUEBAS COMPLEMENTARIAS
+— Hemograma: normal.
+— Coagulación TP 85%.
+— Bioquimica: glucosa 76 mg/dL, urea 30 mg/dL, creatinina 0.81 mg/dL, Na 141 mEq/L, Potasio 4,2 mEq/L, calcio 8.9 mg/dL, Creatinquinasa 1420 U/L, LDH 609 U/L, GOT 83 U/L, GPT 58 U/L, GGT 13 U/L, FA 61 U/L.
+— Hierro 38 μg/dL y ferritina 48 ng/mL.
+— Vitamina D 30 nmol/L.
+— Inmunoglobulina A122 mg/dL, Ig G 110 mg/dL, IgM 138 mg/dL.
+— C3 90 mg/dL, C4 20 mg/dL.
+— PCR 8.9 mg/L.
+— TSH 5 μUI/mL, cortisol 15 mcg/ dL.
+— ANA nucleolar >1/320 ENA negativo. Anticuerpo anti PM-Scl positivo.
+— Orina: RAC 3.50 mg/gr. Sistematico de orina normal.
+— Hemocultivos seriados negativos.
+— Urocultivo negativo.
+— Serología virus hepatotropos y VIH negativo. VEB, CMV IgG positivo con IgM negativo.
+— Quantiferón negativo.
+— Electromíograma (EMG): en reposo se aprecia escasa actividad espontánea en forma de fibrilaciones y ondas positivas en todos los músculos explorados así mismo se aprecian escasas fasciculaciones de muy escasa amplitud, todo ello compatible con signos de afectación miopática aguda.
+— Pruebas de función respiratoria: CVF 2170 ml (54.9%), FEV1 1920 ml (55.6%) IT 88.5% CPT 3790 ml (70,6%) VR 1690 ml (116%) DLCO (41%) DLCO/VA (47%); patrón restrictivo moderado- severo con afectación severa de la difusión.
+— TC torácico: leve infiltrado intersticial periférico y en ambas bases pulmonares.
+— Capilaroscopia: capilares dilatados con algunos megacapilares. Hemorragias con zonas avasculares alternantes y zonas hemorrágicas.
+— Ecocardiograma transtorácico: sin alteraciones destacables.
+
+DIAGNÓSTICO DIFERENCIAL
+Si tomamos como síntoma guía las mialgias hay múltiples causas que pueden darlas:
+— Infección sistémica. Parece poco probable dada la negatividad de los hemocultivos seriados, el urocultivo y la serología anodina así como la escasa elevación de los reactantes de fase aguda y el curso larvado del cuadro.
+— Enfermedades autoinmunes. Es lo más probable debido a la clínica, la autoinmunidad positiva, la edad y género de la paciente y la elevación de enzimas musculares sostenida.
+— Fibromialgia y síndrome de fatiga crónica. La paciente presenta datos de enfermedad miopática tanto analítica como electrofisiológicamente y se trata de diagnósticos de exclusión, por lo que queda excluido.
+— Medicamentos como estatinas, quinolonas, bifosfonatos... la paciente no había tomado ninguno de ellos.
+— Miopatías mitocondriales, deficiencia de vitamina D y escorbuto. Las deficiencias vitamínicas se descartaron por la analítica y las miopatías mitocondriales son causas muy raras.
+— Enfermedades hepáticas: Quedaron descartadas por la serología, la imagen y las enzimas hepáticas mínimamente elevadas.
+— Enfermedades endocrinas como trastornos tiroideos e insuficiencia suprarrenal. Descartadas analítica y clínicamente.
+— Paraneoplásico: no presentaba claro cuadro constitucional, en las pruebas de imagen solo se objetivó una lesión pancreática de naturaleza probable quística.
+Acotamos por tanto el diagnóstico diferencial entre las miopatías inflamatorias. En los últimos años y en función de las características clínico-sero-patológicas se ha propuesto un nuevo sistema de clasificación en cuatro subgrupos: dermatomiositis (DM), miopatia necrotizante inmunomediada (MNIM), síndrome antisintetasa (SAS) y miositis por cuerpos de inclusión (MCI).
+
+
+PRUEBAS DIAGNÓSTICAS
+— Biopsia muscular del deltoides derecho, donde encontramos fibras de aspecto necrótico con miofagia y fibras regenerativas sin fenómenos de fibrosis ni infiltrados inflamatorios significativos compatible con patrón necrotizante inmunomediado con sobreexpresión del MHC-I con distribución difusa en las fibras musculares. Este patrón puede observarse en relación a un origen tóxico, paraneoplásico o por autoanticuerpos específicos. En el contexto clínico de la paciente habría que tener en cuenta una miopatía asociada a un componente autoinmune de base (tipo síndrome de solapamiento u overlap).
+— RM páncreas: para mejor caracterización de la lesión pancreática y descartar de forma más fidedigna, un cuadro paraneoplásico se realizó una resonancia magnética pancreática, que mostró una lesión compatible con quiste pancreático vs tumor seroso microquístico de páncreas. Se decidió seguimiento de imagen semestral no presentando criterios de malignidad.
+
+DIAGNÓSTICO DEFINITIVO
+— Miopatía inflamatoria idiopática
+
+La paciente presenta criterios para ser diagnosticada de miopatía inflamatoria idiopática definida según los criterios diagnósticos para esta enfermedad.
+
+Dada la presencia de los anticuerpos asociados a miositis (PM-Scl), la neumopatía intersticial y la aparición de raynaud con esclerodactilia a lo largo de la evolución, parece lógico comprobar también los criterios clasificatorios de esclerosis sistémica, que dan como conclusión que la paciente padece una esclerosis sistémica definida.
+
+En conclusión, la paciente se ha diagnosticado de síndrome overlap: miopatía necrotizante inmunomediada asociada a esclerosis sistémica y lesión pancreática sin criterios de malignidad.
+
+TRATAMIENTO Y EVOLUCIÓN
+Se inició tratamiento con azatioprina 50 mg y prednisona 60mg diarios (1mg/kg/día) que fue reduciéndose progresivamente. Con este tratamiento mejoraron las mialgias y la disnea, apareciendo un Raynaud trifásico y tumefacción de las manos. Dado que la actividad de la tiopurina metil transferasa fue baja, se decidió cambio a micofenolato de mofetilo 500mg cada 12h en lugar de la azatioprina por el elevado riesgo de reacciones adversas que se fue aumentando progresivamente hasta llegar a la dosis de 2gr/dia. A esta dosis, mala tolerancia digestiva con dolor abdominal hipogástrico tipo retortijón intenso con diarrea en torno a 5-6 deposiciones diaria. Se suspendió el micofenolato por 4 días y se tomó muestra para cultivo de heces que fue negativa, por lo que se trataba de un efecto adverso. A pesar de reiniciarlo a dosis más bajas (1000mg diarios) la diarrea siguió y aparecieron sinovitis en muñecas y aftas orales. Por ello se cambió micofenolato por ácido micofenólico hasta dosis de 720mg cada 12h junto con los corticoides de mantenimiento que tiene actualmente (5 mg/dia) que tolera correctamente.
+
+Tras completar 6 meses de tratamiento inmunosupresor se reevaluó con pruebas de función respiratoria con normalización de la difusión. Por la clínica más persistente de Raynaud y artralgias sin clara sinovitis, se decidió inicio de Pentoxifilina 600mg cada 12h e Hidroxicloroquina (tras valoración previa por Oftalmología) a dosis de 200mg diarios. Tras añadirle este último tratamiento, se encuentra mejor del dolor articular y no ha vuelto a empeorar de la disnea, además de presentar resolución progresiva de los infiltrados pulmonares intersticiales.

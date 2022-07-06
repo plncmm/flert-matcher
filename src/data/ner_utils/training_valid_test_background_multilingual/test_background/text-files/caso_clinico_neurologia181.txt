@@ -1,0 +1,35 @@
+Anamnesis
+Varón de 54 años, exfumador, hipertenso y dislipémico, sin otros antecedentes relevantes, que presenta un cuadro brusco de diplopía binocular y días más tarde comienza con dolor lumbar intenso irradiado a los miembros inferiores (MMII) y sensación de acorchamiento en la cara posterior de los muslos y las plantas. Posteriormente, asocia pérdida de fuerza en los MMII que progresa en un mes hasta impedir la deambulación. Ingresa en el hospital y a las 48 horas presenta parálisis de la musculatura hemifacial derecha. El paciente refiere aumento progresivo del hemiescroto derecho en las últimas semanas. No alteración de esfínteres. No refiere síndrome constitucional ni otra sintomatología.
+
+Examen físico
+Exploración sistémica: aumento de tamaño y consistencia del testículo derecho, con enrojecimiento y dolor a la palpación.
+
+Exploración neurológica: ptosis izquierda. Pupilas simétricas y normorreactivas. Paresia del recto medial e inferior del ojo izquierdo. Compatible con paresia incompleta del III nervio craneal izquierdo. Paresia facial derecha periférica. Paresia de los MMII, con balance 3-4/5 tanto a nivel proximal como distal, con mayor debilidad de el miembro inferior derecho. Hipotonía y arreflexia de los MMII. Reflejo cutáneo-plantar flexor bilateral. Hipoestesia tactoalgésica en la cara posterior del muslo, la pierna y la planta derechos. Disminución de la sensibilidad posicional y vibratoria en los MMII, esta última con nivel L2. Resto normal.
+
+Pruebas complementarias
+• Analítica: PCR 1,58, LDH 690 UI/l, GGT 96 U/l. Gonadotropina coriónica subunidad beta- 2, alfa-fetoproteína, CEA, PSA y examen de orina normales. Resto normal.
+• Estudio de líquido cefalorraquídeo (LCR): hematíes 1/mcl; leucocitos 10/mcl; proteínas 160 mg/dl; glucosa 55 mg/dl; LDH 50 UI/l; ADA 4,8 UI/l. Citología primera punción negativa. Segunda punción: leucocitos 52/mcl (7,2% de linfocitos B lambda +).
+• Estudio inmunológico (incluyendo antionconeuronales): negativo.
+• Estudio microbiológico: VIH, sífilis, virus hepatotropos, Brucella negativos.
+• Mantoux positivo (18 mm).
+• EMG: polirradiculoneuropatía axonal motora leve en los miembros superiores y moderada- grave en los miembros inferiores, con mayor afectación y signos neurofisiológicos de evolutividad en niveles L5-S1, bilaterales de predominio izquierdo. Afectación de pares craneales.
+• RM de cerebro y columna completa con gadolinio: engrosamiento y realce de raíces nerviosas, de predominio sacro; lesiones en los cuerpos vertebrales D10, D11 y S2. Realce de nervio facial derecho.
+• Ecografía testicular: aumento de tamaño y ecogenicidad heterogénea difusa de ambos testículos y epidídimos, más marcado en el lado derecho.
+• Biopsia testicular: proliferación neoplásica linfoide compuesta por células de gran tamaño con atipia cariocitoplasmática y frecuentes mitosis. IHQ: CD20 +, CD10 –, MUM1 +, BCL2 +, BCL6 +, CD30 –. Índice proliferativo (Ki-67) 98%. Estudio molecular: reordenamiento clonal del gen IgH.
+• PET/TC: lesiones hipercaptantes en la raíz de la arteria pulmonar, riñones, suprarrenales, testículos, vértebras D11 y S2 y raíces sacras de la cola de caballo.
+
+Diagnóstico
+Varón de 54 años con cuadro de lumbalgia y paraparesia subaguda progresiva, afectación secuencial de varios nervios craneales y aumento del hemiescroto derecho. La distribución topográfica de la paresia y el protagonismo del dolor sugieren una polirradiculoneuropatía lumbosacra subaguda como diagnóstico sindrómico. Como diagnóstico etiológico se contemplan las siguientes opciones:
+1) Infiltración tumoral por neoplasia hematológica (por ejemplo, linfoma) o menos probablemente, de tumor sólido;
+2) infiltración granulomatosa (tuberculosis o sarcoidosis);
+3) vasculitis, fundamentalmente panarteritis nodosa, y
+4) síndrome de Guillain-Barré y variantes (por ejemplo, neuropatía axonal sensitivo-motora aguda).
+La RM de columna mostró un llamativo engrosamiento y realce de las raíces medulares sacras sugerente de patología infiltrativa. Corte coronal de la resonancia magnética de columna tras gadolinio. Engrosamiento y realce difuso de las raíces lumbosacras. Corte axial de la resonancia magnética de columna tras gadolinio. Engrosamiento y realce difuso de las raíces lumbosacras. La ecografía testicular mostró infiltración difusa de ambos testículos, predominantemente el derecho. La biopsia testicular confirmó la existencia de un linfoma no Hodgkin (LNH) B de células grandes testicular primario. A pesar de la negatividad de la primera citología, una segunda punción lumbar objetivó presencia de linfocitos B neoplásicos en LCR. El PET/TC mostró extensión renal, suprarrenal y ósea e hipercaptación de raíces sacras y ambos testes. diagnósticos:
+1) polirradiculoneuropatía lumbosacra y multineuropatía craneal por invasión linfomatosa (neurolinfomatosis). 
+2) Linfoma no Hodgkin B de células grandes estadio IV A.
+
+Tratamiento
+Se inició poliquimioterapia con ciclofosfamida, adriamicina, vincristina, prednisona y rituximab (CHOP-R) intravenosos y quimioterapia intratecal (arabinósido de citosina y corticoides).
+
+Evolución
+Recibió 6 ciclos CHOP-R, con disminución del volumen testicular, negativización de las citologías de LCR y mejoría de la fuerza de los MMII. Posteriormente, recibió ciclos adicionales, autotrasplante de médula ósea y radioterapia testicular. En la actualidad, permanece clínicamente estable y sin evidencia de enfermedad leptomeníngea.

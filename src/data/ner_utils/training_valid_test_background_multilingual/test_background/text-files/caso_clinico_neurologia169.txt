@@ -1,0 +1,31 @@
+Anamnesis
+Paciente de 44 años con antecedentes de hipertensión arterial, endometriomas e hipotiroidismo subclínico en tratamiento con losartán/tiazida y levonorgestrel vaginal. La paciente presenta en marzo de 2012 cefalea hemicraneal derecha opresiva, de moderada intensidad de varios días de evolución. Asocia al cuadro diplopía binocular con la mirada forzada hacia la derecha, visión borrosa con dicho ojo y alteraciones en la sensibilidad en la hemicara derecha. Las pruebas complementarias (analítica completa, líquido cefalorraquídeo, cultivos, serología, TC craneal, RM craneal con contraste) objetivan únicamente macroadenoma hipofisario no funcionante y mínima elevación de los anticuerpos anti SS-A (Ro). Por sospecha de patología inflamatoria que afecta a los pares craneales V y VI derechos, se trata a la paciente con dexametasona 1 g intravenoso/día durante 5 días, con resolución completa del cuadro.
+
+Vuelve a presentar en julio de 2012 cefalea de similares características y limitación a la abducción del ojo izquierdo, sin otra clínica asociada. En este ingreso se repiten las pruebas complementarias, que no aportan nuevos datos (estabilidad analítica y disminución de 1 mm del macroadenoma hipofisario en la RM craneal con contraste), por lo que ante la sospecha de multineuritis se realiza una arteriografía, con resultado de dudosa vasculitis. Se trata con corticoides orales, con progresiva mejoría del cuadro. En octubre de 2012 presenta de nuevo cefalea hemicraneal derecha con limitación para la abducción del ojo derecho asociada a dolor con la movilización y visión borrosa en dicho ojo, alteración en la sensibilidad en la hemicara derecha y malestar general. En ningún momento la paciente ha presentado fiebre, sudoración profusa ni poliartralgias. No hay datos que hicieran sospechar patología infecciosa sistémica. Resto de anamnesis sin datos de interés.  
+
+Examen físico
+Exploración general: rigurosamente normal. Exploración neurológica: en el examen de los pares craneales destaca restricción a la dextroversión del ojo derecho, sin diplopía pero con dolor con la movilización e hipoestesia facial derecha (ramas V1 y V2). Resto de la exploración neurológica normal.
+
+Pruebas complementarias
+• Analítica sanguínea: hemograma, coagulación, autoinmunidad, inmunomicrobiología (Brucella, VEB, VVZ, Mycoplasma, Borrelia burgdorferi, etc.), frotis, proteinograma, marcadores tumorales negativos, salvo anticuerpos anti-SS-A (Ro) elevados (8,5).
+• LCR: citobioquímica, microbiología, anatomía patológica, inmunofenotipo y ADA sin alteraciones.
+• Radiografía de tórax: normal.
+• ECG: ritmo sinusal a 75 lpm.
+• TC craneal (marzo 2012): normal.
+• RM craneal sin/con contraste (marzo 2012): macroadenoma hipofisario. Resonancia magnética, secuencia T1 axial con contraste (octubre 2012): evidencia de infiltrado inespecífico en el seno cavernoso derecho.
+• Valoración por Oftalmología (marzo 2012): parálisis del VI par craneal derecho sin afectación de la visión central ni periférica ni signos inflamatorios oculares.
+• RM craneal sin/con contraste (julio 2012): mejoría de 1 mm de macroadenoma hipofisario.
+• Arteriografía (julio 2012): signos muy leves de patología de pequeño vaso, como algún vaso cortado, suspendido y con irregularidades en su trayecto.
+• TC tóraco-abdómino-pélvica (julio 2012): se observan lesiones polilobuladas de predominio quístico en ambas regiones anexiales, con calcificación en el lado izquierdo.
+• EMG (julio 2012): no muestra signos de polineuropatía en el momento actual.
+• RM craneal sin/con contraste (octubre 2012): se aprecia proceso inflamatorio en el seno cavernoso derecho y engrosamiento dural adyacente de la cisterna prepontina.
+• Potenciales evocados visuales (octubre 2012): se observa lesión axonal y desmielinizante del nervio óptico derecho (en marzo y julio eran normales).
+
+Diagnóstico
+Pseudotumor orbitario crónico bilateral (síndrome Tolosa-Hunt), con afectación de los pares craneales V y VI derechos en marzo de 2012, del VI par craneal izquierdo en julio de 2012, y de los pares craneales II, V y VI derechos en octubre de 2012.
+
+Tratamiento
+Prednisona oral 60 mg/día. Omeprazol 20 mg/día. Paracetamol 1 g cada 8 horas si cefalea. Cozaar plus 50/12,5 mg/día. Posteriormente se añade azatioprina 50 mg al día, retirando progresivamente los corticoides.  
+
+Evolución
+La paciente ha seguido una buena evolución con la terapia corticoidea, pero la necesidad del tratamiento de manera prolongada y los efectos secundarios de dichos fármacos (hipertensión arterial/ganancia de peso) ha precisado el inicio de tratamiento inmunomodulador con azatioprina, con buena tolerancia. Desde octubre de 2012, la paciente ha sido reevaluada repetidas veces desde las consultas de Neurología, con progresiva recuperación de los déficits neurológicos, persistiendo en el momento actual visión borrosa (en franca mejoría con respecto al último ingreso) y cefalea leve que calma con tratamiento analgésico. En la RM craneal con contraste en mayo de 2013, no se evidencia afectación de ningún seno cavernoso ni otra alteración intracraneal. Resonancia magnética, secuencia T1 axial (mayo 2013) con contraste: resolución del cuadro inflamatorio en el seno cavernoso derecho.

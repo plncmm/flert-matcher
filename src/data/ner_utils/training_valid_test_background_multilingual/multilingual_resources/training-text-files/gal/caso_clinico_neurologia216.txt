@@ -1,0 +1,28 @@
+Anamnesis
+Varón de 58 anos, sen alergias medicamentosas coñecidas, nin consumo de tóxicos referidos. Como factores de risco cardiovascular destacan: HTA, dislipemia e obesidad tipo I. Entre os antecedentes médico-quirúrgicos cabo sinalar: HBP, ERGE, migrañas sen aura, faquectomía bilateral, septoplastia por desviación do tabique nasal e cirugía endoscópica nasosinusal con polipectomía por poliposis resistente a tratamento tópico. Segue tratamento habitual con enalapril/hidroclorotiazida, simvastatina e dutasterida/ tamsulosina.
+
+Acode ao Servizo de Urxencias por un cadro de inicio brusco de cefalea, acompañado de náuseas e vómitos, febre termometrada de ata 38 oC, malestar xeral marcado, con alteración da linguaxe concomitante, en forma de bloqueos e parafasias, con progresiva disminución do nivel de consciencia. Na entrevista coa familia, repasando os antecedentes médico-quirúrgicos, relátannos o feito incidental dun goteo nasal esporádico de líquido cristalino pola fosa nasal esquerda, desde fai máis de 3 anos, tras un procedemento quirúrgico ORL.
+
+Exame físico
+Hemodinámicamente estable, eupneico, febril, ben hidratado, normoperfundido, normocoloreado. Auscultación cardiopulmonar normal. Abdomen sen alteracións. Extremidades inferiores normais.
+Exploración neurológica: consciente, con marcada somnolencia, requirindo de estímulos vigorosos para manter o nivel de alerta, inatento, desorientado parcialmente en tempo e espazo, orientado en persoa. Obedece ordes sinxelas, responde preguntas, nomea, pero en linguaxe espontánea emite algunhas parafasias fonémicas e semánticas. Pares craneales: AV normal, FO e campimetría por confrontación normais. MOI e MOE sen alteracións, non ptosis nin nistagmo. V motor e sensitivo conservados. Non asimetrías faciales. Pares baixos normais. Forza con balance muscular 5/5 nas catro extremidades, con REMs ++ globais sen asimetrías, RCPF bilateral. Sensibilidade conservada a todos os niveis e en todas as modalidades. Non dismetría, nin disdiadococinesia. Marcha e estática non valoradas ao momento. Extrapiramidal sen achados. Leve rixidez de caluga, signo de Kernig positivo.
+
+Probas complementarias
+• Hemograma: leucocitosis 27 x 1.000/mm3 (neutrófilos 25,1 x 1.000/l).
+• Coagulación: normal.
+• Bioquímica: perfil renal e perfil hepático sen alteracións. PCR 1,8 mg/dl.
+• Radiografía de tórax e ECG sen achados significativos.
+• Punción lumbar: líquido cefalorraquídeo de aspecto turbio, con presión de 29 cm H2Ou, coa seguinte citobioquímica: 1.620 células/mm3 (78% PMN, 21% MN), 478 hematíes/ mm3, glucosa 19 mg/dl, proteínas 4,22 g/l. • Gram (LCR): cocos G+, en racimos, como resultado preliminar, cultivándose en menos de 24 horas, Streptococcus grupo Viridans, sen resistencias significativas no antibiograma.
+• PCR neumococo negativa. PCR para VHS e VVZ negativos.
+• Serologías: VHA, anticorpos IgG positivo (13,62). VHB: Ag-HBs negativo. Anti-HBc: IgG negativo. VHC: anticorpos negativo. VIH: VIH (1,2): Ac. e Ag. negativo.
+• TC craneal: estudo sen achados significativos, salvo a presenza de ocupación parcial do seo esfenoidal esquerdo e ambos seos maxilares (no lado dereito con formacións polipoideas).
+• RM craneal: fístula LCR a través da lámina cribosa e cara ás celas etmoidales. Resonancia magnética craneal: secuencia FLAIR coronal, onde se obxectiva fístula de LCR a través da lámina cribosa e cara ás celas etmoidales. Non se detectan alteracións inflamatorias meníngeas.
+
+Diagnóstico
+Meningoencefalitis bacteriana con cultivo positivo para Streptococcus viridans, en posible relación con fístula de LCR postcirugía ORL.
+
+Tratamento
+Baixo a sospeita de cadro clínico compatible con meningoencefalitis, e á espera dos resultados microbiológicos, iníciase tratamento antibiótico con vancomicina e cefotaxima, así como aciclovir, ingresando en planta de Neurología, onde tras coñecer o microorganismo responsable e o antibiograma, mantense tratamento con cefotaxima durante 10 días.
+
+Evolución
+O paciente evoluciona de xeito moi satisfactorio, atopándose antes das 48 horas de inicio da clínica asintomático, afebril e cunha exploración neurológica rigurosamente normal. Ante a historia de goteo nasal crónico tras septoplastia/polipectomía en 2009, con sospeita de fistula de LCR, se interconsultó con Otorrinolaringología, que mediante fibroscopia logrou evidenciar saída de líquido claro pola fosa nasal esquerda, sen conseguir definir o sitio de saída. Cítase ao paciente para cirugía ORL, solicitando uso compasivo de fluoresceína para o diagnóstico e tratamento, con pechadura endoscópico da mesma.

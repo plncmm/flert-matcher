@@ -1,0 +1,29 @@
+Storia personale
+Uomo di 30 anni, di Cadice, fumatore di venti sigarette al giorno, senza criteri di bronchite cronica e bevitore sociale. Ha fatto un viaggio di 40 giorni con lo zaino in spalla con la sua compagna nell'Africa nord-occidentale, visitando sia zone rurali che urbane: Marocco, Sahara occidentale, Mauritania, Mali e Guinea Equatoriale. Ha ricevuto consigli di viaggio all'International Health Centre, con una chemioprofilassi ben completata con clorochina. Ha ricevuto vaccinazioni tetravalenti contro il meningococco, la febbre gialla e il tifo orale. Non ha riferito alcun comportamento a rischio specifico durante il viaggio, tranne che per il bagno in acqua dolce a Bamako.
+
+Malattia attuale
+Ventiquattro ore dopo il suo ritorno, si è presentato al Dipartimento di Emergenza con febbre alta, brividi, sintomi catarrali e mal di testa olocranico. Dopo una valutazione iniziale di base e senza alcun focolaio apparente, è stato dimesso con un trattamento con amoxicillina/acido clavulanico.
+Ha consultato di nuovo 24 ore dopo a causa di sintomi febbrili persistenti, mal di testa olocranico, sudorazione profusa, rinocongiuntivite e tosse non produttiva.  Esame fisico Il paziente aveva pressione sanguigna 100/60; frequenza cardiaca 110 bpm; temperatura 37.8oC; saturazione O2 basale 98%; punteggio di Glasgow 15/15. Era cosciente e orientato, eupneico e ben perfuso, con piccole ed elastiche linfoadenopatie laterocervicali e nessun punto doloroso craniofacciale. L'auscultazione cardiopolmonare e l'esame addominale erano normali. La pelle mostrava un'eruzione eritematosa maculare discreta sul tronco e sul collo, senza lesioni petecchiali (compreso il test del laccio emostatico). L'esame neurologico non ha mostrato segni meningei o focali.
+
+Esami complementari
+L'emogramma ha mostrato un conteggio del sangue rosso normale, leucociti di 3.360/μL con neutrofilia relativa, piastrine di 58.000/μL. I tempi di coagulazione erano: tempo di protrombina 76%; tempo di tromboplastina parziale attivato normale; fibrinogeno 450 mg/dL. La biochimica ha mostrato livelli normali di glucosio, ioni, CPK, urea e creatinina. GOT/GPT 140/176 U/L; LDH 691 U/L; CRP 12,24 mg/dL. L'analisi dei gas del sangue venoso ha mostrato pH 7.41; pCO2 34 mmHg; HCO3 16 mEq/dL. Il sedimento delle urine mostrava segni di proteinuria. La radiografia del torace e l'ecografia addominale erano normali. Lo striscio di sangue spesso e lo striscio di sangue periferico erano negativi, così come le emocolture seriali. La sierologia per i virus dell'epatite A, B e C, Coxiella, Borrellia, Rickettsia, dengue e HIV era negativa.
+
+Test diagnostico
+Il Plasmodium falciparum è stato osservato nel secondo striscio di sangue spesso (otto ore dopo il primo, al culmine della febbre), con un indice di parassitismo dell'1%.
+
+Giudizio clinico
+Malaria grave complicata da Plasmodium falciparum.
+
+Evoluzione
+È stata eseguita una copertura antibiotica empirica iniziale con ceftriaxone 2 g/24 h e doxiciclina 100 mg/12 h. Una volta confermata l'infezione da Plasmodium falciparum, l'inizio del trattamento specifico con chinino è stato ritardato di 29 ore per la via orale e di 48 ore per la via endovenosa a causa della mancanza di scorte nel nostro ospedale e in tutti gli ospedali della regione (Cádiz, Jerez, Algeciras e Sanlúcar). Una volta ottenuto il farmaco, il trattamento è stato iniziato prima per via orale e poi per via endovenosa con una lenta infusione di chinino (10 mg/kg/8 ore) più doxiciclina 100 mg/12 ore per via orale, completando sette giorni di trattamento. Durante le prime 36 ore in reparto, ha avuto una cattiva evoluzione clinica, con lo sviluppo di complicazioni successive che hanno richiesto il ricovero in terapia intensiva il secondo giorno:
+- Ipoglicemia refrattaria nonostante la somministrazione di una soluzione salina di glucosio al 20%.
+- Parassitizzazione del 12% il terzo-quarto giorno, che, insieme al resto delle complicazioni, ha reso necessario considerare una trasfusione di scambio.
+- I primi dati analitici dell'insufficienza epatica acuta: tempo di protrombina 45%; bilirubina fino a 6 mg/dL; GOT/GPT con cifre di circa 1200 U/L e diminuzione del fattore V.
+- Anemia grave (ematocrito <20% a 72 ore), che richiede la trasfusione di quattro globuli rossi confezionati.
+- Acidosi metabolica (pH 7,31; HCO3 11), che richiede una gestione aggressiva con fluidoterapia sotto controllo della pressione venosa centrale, senza richiedere farmaci vasoattivi.
+- Deterioramento cognitivo con sonnolenza e lentezza ideomotoria, senza altri segni di malaria cerebrale, dal secondo al quinto giorno.
+- Insufficienza renale acuta, con picco di creatinina al quinto giorno di 5,2 mg/dl, con emoglobinuria documentata. Ha mantenuto una diuresi accettabile per tutto il tempo e non ha richiesto una terapia renale sostitutiva.
+- Nausea e vomito incoercibili che richiedono una nutrizione enterale per i primi quattro giorni.
+- Infiltrazione interstiziale nel lobo superiore destro (anche se senza evidenza di insufficienza respiratoria, quindi è stato escluso lo sviluppo tardivo di distress respiratorio) e rimbalzo febbrile intorno al quinto giorno, con risoluzione radiologica dopo copertura antibiotica empirica con ciprofloxacina 200 mg/12 h endovena.
+
+Dopo sette giorni di terapia intensiva, il trattamento si è concluso con una ripresa clinica generale, presentando un'insufficienza renale alla dimissione, con livelli di creatinina di circa 3 mg/dL (MDRD 20 mL/min). Nel successivo follow-up ambulatoriale, la funzione renale si è normalizzata.

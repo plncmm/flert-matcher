@@ -1,0 +1,27 @@
+Anamneză
+Prezentăm cazul unei paciente în vârstă de 40 de ani, care s-a prezentat la clinica de dermatologie pentru leziuni dureroase la primul deget de la piciorul drept, inflamate în mai multe rânduri, de 2 luni. Anamneza sa personală de interes includea lupus eritematos sistemic și anemie feriprivă. Anterior, acesta primise un tratament topic și oral cu mai multe serii de antibiotice, inclusiv Cloxacilină și Levofloxacină, timp de mai puțin de două săptămâni, practic fără nicio ameliorare.
+Ea nu a prezentat febră sau senzație de distres de la debutul simptomelor și a negat orice alte simptome de interes. Pacienta nu a raportat niciun episod anterior similar și și-a legat simptomele de o traumă cu un fier de călcat în timpul șederii sale într-un parc acvatic.
+
+Examinarea fizică
+Pacientul era în stare generală bună, afebril și stabil hemodinamic.
+Examenul fizic a evidențiat mici papule eritemato-violacee pe suprafața superioară și inferioară a primului deget de la piciorul drept, dintre care una era mai mare și drena material purulent la puncție. Nu existau leziuni pe alte degete sau pe piciorul contralateral și nici afectarea unghiilor.
+
+Examinări complementare
+În studiul micologic, examenul direct a fost negativ, iar în cultură au fost izolate 5 colonii de Candida lusitaniae, fără relevanță clinică.
+Cultura microbiologică a frotiului de puroi a fost negativă.
+S-a efectuat o biopsie cutanată a leziunii pentru studiu histologic și microbiologic.
+Histopatologia a evidențiat o hiperplazie discretă în epidermă însoțită de hiperkeratoză și parakeratoză, cu pustule ocazionale în stratul cornos. În dermul superficial, a fost identificat un infiltrat inflamator granulomatos cu celule gigantice multinucleate care formează ocazional granuloame, cu focare izolate de necroză supurativă.
+Cultura microbiologică a biopsiei în mediu lichid (la 37oC) a fost negativă după 45 de zile. Două unități formatoare de colonii (CFU) ale unei micobacterii atipice fotocromogene au fost izolate din cultura în mediu solid (colets) la temperatura camerei. Ulterior, o colonie galbenă cromogenică a fost supusă analizei genetice moleculare prin metoda GenoType Mycobacterium, care include 27 de specii micobacteriene diferite. Procedura este împărțită în trei etape: izolarea ADN din cultură, amplificarea cu amorse marcate cu biotină (fără a include polimeraza ADN termostabilă) și hibridizarea inversă. Sistemul se bazează pe amplificarea unei regiuni genetice specifice și pe hibridizarea ulterioară a produsului de amplificare cu diferite sonde dispuse pe o bandă de nitroceluloză. Un șablon asigură o interpretare simplă și rapidă a schemei de benzi obținute. Conform acestei scheme, în cazul nostru, a fost izolată micobacteria non-tuberculoasă (NTM) Mycobacterium marinum.
+Obținerea unei probe adecvate pentru cultură facilitează izolarea germenilor, deoarece materialul purulent conține cea mai mare concentrație de germeni. Pe de altă parte, temperatura de cultură este de asemenea fundamentală, deoarece Mycobacterium marinum are o temperatură optimă de creștere între 30 și 33oC.
+Pacientul a abandonat tratamentul la 18 zile de la începerea acestuia din cauza diareei secundare antibioticelor, astfel că a fost adăugat un probiotic, iar regimul a fost schimbat cu o capsulă de Doxiciclină 100 mg la fiecare 24 de ore, timp de minimum 4 luni, odată ce diagnosticul a fost confirmat.
+Testarea convențională a sensibilității la medicamente nu este recomandată pentru majoritatea micobacteriilor non-tuberculoase, cu excepția anumitor specii sau în caz de eșec al tratamentului. Astfel de teste nu sunt recomandate la această specie, care este în mod normal sensibilă la claritromicină, rifampicină, etambutol, tetracicline, sulfonamide și co-trimoxazol. Unele izolate sunt rezistente la ciprofloxacină, iar monoterapia cu fluorochinolone poate facilita dezvoltarea rezistenței, astfel încât nu este recomandabilă utilizarea acestor medicamente în monoterapie în tratamentul inițial.
+
+
+Evoluție
+După o lună și jumătate cu probiotice și Doxiciclină 100 mg la 24 de ore, cu o bună toleranță, leziunile au regresat net, prezentând la acel moment leziuni violacee plate, cu aspect rezidual, fără evidență de pustule, dar cu unele cruste mieloide. Tratamentul acestui tip de infecție trebuie menținut timp de cel puțin patru luni.
+
+Diagnostic
+Infecție cu Mycobacterium marinum sau granulom de piscină.
+
+Tratament
+Înainte ca rezultatul culturii să fie disponibil și având în vedere suspiciunea diagnostică ridicată, se începe tratamentul cu un comprimat de Doxiciclină 100 mg la fiecare 12 ore.

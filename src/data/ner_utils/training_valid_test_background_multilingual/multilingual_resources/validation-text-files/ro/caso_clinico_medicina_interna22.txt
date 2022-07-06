@@ -1,0 +1,42 @@
+Motivul consultării
+Durere în hemitoracele stâng și febră. Istoria personală:
+- Alergie la penicilină și derivați
+- Fumător de 20 de țigări/zi timp de 36 de ani. Fost băutor din 1992.
+- Fără hipertensiune arterială sau diabet zaharat cunoscut. DL în tratamentul farmacologic.
+- Magna miopie operată cu laser.
+- Tratament obișnuit: Simvastatin 20 mg (0-0-1), Hemovas (1-0-0).
+- Situația de referință: locuiește cu soția sa, independent pentru activitățile de zi cu zi. Dispnee la efort. Fără ortopnee, fără edem sau DPN. Lucrează într-un birou.
+- Antecedente familiale: tatăl a murit de cancer laringian metastatic la vârsta de 56 de ani, mama a murit de cancer pancreatic la vârsta de 83 de ani. Ea are 3 frați sănătoși.
+
+Boala actuală
+Un pacient în vârstă de 56 de ani s-a prezentat la serviciul de urgență pentru 3 zile de durere în omoplatul stâng care iradia în regiunea precordială, cu caracteristici pleuritice, însoțită de febră până la 37,8oC și senzație de distrofie. Consultat cu MAP care i-a prescris tratament cu Paracetamol fără ameliorare clinică, pacientul a raportat o agravare progresivă cu febră persistentă și dispnee crescută până la efort minim. Fără tuse sau expectorație. Nici o creștere a ortopneei sau a edemului. Nu există alte simptome de interes.
+
+Examinarea fizică
+TA 97/64 mmHg, FC 95 bpm, satO2 bazală 94%, T 37,2oC. Conștient și orientat în toate cele 3 sfere, bine hidratat și perfuzat, transpirat, eupneic, cooperant, cu o bună colorare a pielii și a mucoaselor. Cap și gât: pulsuri carotide +, fără IY sau RHY, fără gușă sau adenopatie. AC: ritmic fără murmur. PA: hipoventilație în 2/3 inferioare ale hemitorace stâng, fără wheezing. Abdomen: fără modificări semnificative. MMII: fără edem, fără semne de flebită sau TVP, pulsuri păstrate.
+
+ Teste complementare la sosire
+Teste de laborator
+- Hemoglobină 14,3 g/dl, hematocrit 40,8%, MCV 95,3 fl, MCH 33,4 pg,
+Leucocite 22530/uL, neutrofile 91%, limfocite 4%, monocite 5,5%, eozinofile 4%, bazofile 1%, trombocite 210.000/mm3.
+- Frotiul de sânge: 73% segmentat, 15% striat și 6% metamiocite.
+- Biochimie: Glucoză 138 mg/dl, Uree 70 mg/dl, Creatinină 1,3 mg/dl, GOT 22 U/I, GPT 20 U/I, Br total 0,66 mg/dl, CPK 36 U/I, Amilază 50 U/I, Calciu 10,6 mg/dl, Sodiu 136 mEq/l, Potasiu 4,4 mEq/l, Mioglobină 29,75 ng/ml, Troponină T US <3 ng/l.
+- Coagulare: INR 1,13, timp de protrombină 73,77 %, timp de tromboplastină activată 28,2 sec, fibrinogen 960 mg/dl, D-Dimer 2,08 mg/L.
+- Gazele sanguine arteriale de bază: pH 7,44, pCO2 29,1 mmHg, pO2 72,1 mmHg, HCO3 real 19,4 mEq/l, satO2 98%.
+- Urină: pH 5,5, Proteine ++ mg/dl, Glucoză negativă, Corpuri cetonice negative, Bilirubină scăzută, Sânge negativ, Nitriți negativi, Urobilinogen normal. Sediment: leucocite izolate.
+- Hemocultura x2: negativă.
+- Cultura de urină: negativă. Antigenul Legionella și pneumococul din urină sunt negative.
+- ECG: ritm sinusal la 90 bpm, axa normală. Nu există modificări semnificative ale repolarizării.
+- Radiografie toracică
+- CT toracic: nu există defecte de repleție în arterele pulmonare principale, lobare și segmentare. Revărsare pleurală bilaterală, minimă pe partea dreaptă și mai mare pe partea stângă. Pneumotorax minim în segmentul anterior al LSI și lingula. Mici buloase subpleurale apicale bilaterale. Modificări apicale pulmonare apicale reziduale bilaterale. Atelectasis de LII cu bronhogramă cu aer sugestiv de atelectasis pasiv datorită prezenței efuziunii și a herniei hiatale mari, fără a putea exclude condensarea pneumonică. Două adenopatii infracarinale, una de 15 mm și cealaltă calcificată. Adenopatie hilară stângă de 10 mm, care se imprimă pe bronhia lingulei. Hernie hiatală voluminoasă.
+
+Evoluție
+În timpul șederii sale în departamentul de urgență, pacientul a rămas hipotensiv, necesitând terapie cu fluide și prostrație fără focalizare neurologică. După stabilizarea hemodinamică, pacientul a fost internat la Medicină Internă cu diagnosticul clinic de sepsis de origine respiratorie și PAC în LII și s-a început tratamentul antibiotic cu levofloxacină, azitromicină și clindamicină, precum și oxigenoterapie și bronhodilatatoare. La 24 de ore de la sosirea în secție, a prezentat dureri toracice accentuate, desaturație bruscă și instabilitate hemodinamică, pentru care au fost solicitate de urgență studii radiologice, care au evidențiat o înrăutățire radiologică la radiografia toracică cu apariția unor noi nivele hidroaeriene. Tomografia computerizată a evidențiat perforarea diverticulului epifrenic stâng cu pleuro-mediastinită asociată și hidrotorax stâng secundar celor de mai sus, astfel încât diverticulectomia a fost efectuată prin toracotomie stângă cu plasarea unui sac de ostomie pentru închiderea ulterioară a fistulei esofagocutanate. Pacientul nu a avut complicații în perioada postoperatorie imediată, deși a avut nevoie de o ședere la terapie intensivă timp de 5 zile și de medicamente vasoactive în primele 24 de ore după operație. El a finalizat terapia antibiotică cu tigeciclină și fluconazol cu rezolvarea simptomelor septice asociate. La externare, pacientul era stabil termodinamic, purtător de PEG, cu o bună toleranță la lichide, cu puține scurgeri de material prin fistulă, așa cum arată imaginile de tranzit gastro-intestinal.
+
+Judecata clinică
+- Diverticul esofagian perforat epifrenic perforat, cu pleuro- mediastinită asociată și șoc septic.
+- Hidropneumotorax stâng secundar la cele de mai sus rezolvate.
+- Efuziune pleurală dreaptă rezolvată
+
+Tratamentul la externare
+Menținerea tratamentului său obișnuit anterior fără modificări -Tratament regulat în cadrul Serviciului de Chirurgie Toracică -Controlul de către MAP-ul său
+

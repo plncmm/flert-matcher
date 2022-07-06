@@ -1,0 +1,28 @@
+Anamnesis
+In this case, we are dealing with a 63-year-old female patient from Badajoz. Her personal history includes a sister who underwent breast cancer surgery at the age of 40 (currently undergoing check-ups) and a sister who died of a brain tumour at the age of 34. As for her personal history, she suffers from chronic bronchitis. She does not have high blood pressure, dyslipidaemia or diabetes mellitus. Finally, she is a smoker with an accumulated rate of 40 packs per year, and does not have an alcohol habit.
+Her oncological symptomatology began with a cough of one month's evolution, associated with intense asthenia and dyspnoea on minimal exertion in the last week, together with progressive oedema in the lower extremities. In the emergency department, she presented progressive arterial hypotension, and severe pericardial effusion was observed, for which she was transferred to the ICU. During her stay in the ICU, emergency pericardiocentesis was performed (> 1l, haemorrhagic, with seropurulent appearance). Empirical antibiotic treatment was started, and she remained respiratory and haemodynamically stable (during admission she presented acute renal failure and community pneumonia which resolved).
+
+Physical examination
+During the physical examination, there were no notable findings.
+
+Complementary tests
+Chest X-ray in the Emergency Department showed an increase in the cardiopericardial silhouette compatible with the pericardial effusion described, as well as findings compatible with bronchopneumonia in LM and LID.
+During his admission to the ICU, in order to identify the cause of the pericardial effusion, tests were carried out to screen for rheumatic diseases, connective tissue diseases and serologies, all of which were normal. A body CT scan was also performed, which revealed stage IV lung neoplasia, the presence of PTE, renal infarcts and bilateral adrenal nodules (CT of the adrenal glands without diagnostic criteria for adenoma).
+Pericardial fluid was analysed, with cytology suggestive of adenocarcinoma, which, being positive for TTF-1, suggested a pulmonary primary.
+
+Diagnosis
+We therefore found stage IV lung adenocarcinoma (positive pericardial effusion and bilateral adrenal nodules), EGFR-native. It was decided to start treatment according to the carboplatin + pemetrexed scheme with the intention of completing 3 cycles and assessing the response by CT scan.
+
+Treatment
+Treatment started on 1/12/16 with carboplatin + pemetrexed, completing 3 cycles, until 16/1/17, with adrenal progression. The study was completed with PDL-1 and ALK samples, and at the end of the study the lung adenocarcinoma was EIV EGF-R and ALK negative and PDL-1 positive. Treatment with nivolumab was started on 27/2/17, of which she received 4 cycles (pending CT scan to assess response after 6 cycles).
+In consultations, urgent brain CT scan was requested due to persistent feeling of asthenia and dizziness, where multiple brain metastases with perilesional oedema were diagnosed on 8/3/17. She received holocranial RT (20 Gy in 5 fractions), which was completed on 29/3/17, with good tolerance and clinical improvement.
+
+Evolution
+On 23 April 2017, she was admitted to the Medical Oncology Department for dysthermic sensation and shivering, with fever of up to 39oC on 21/4/17. He started empirical antibiotic therapy with levofloxacin, with persistent febrile peaks and progressive dyspnoea until minimal effort. She reported no other associated symptoms, with a physical examination with no relevant findings and normal blood tests, with no altered acute phase reactants. The chest X-ray showed a diffuse interstitial pattern, with a differential diagnosis of infectious pathology due to atypical germs vs. pharmacological toxicity (less likely pulmonary oedema or carcinomatous lymphangitis).
+On admission, empirical broad-spectrum treatment was started with ceftriaxone and levofloxacin. A chest CT scan was performed, which showed an image compatible with Pneumocystis jirovecii infection as the first option, bilateral pneumothorax and acute thromboembolism with a low thromboembolic load. Given these findings, cotrimoxazole was associated with levofloxacin treatment and systemic corticotherapy was prescribed due to suspicion of Pneumocystis infection (the patient was kept on anticoagulation due to previous PTE).
+Assessment by the Respiratory Department was requested, which requested bronchoscopy for culture, but this was cancelled due to clinical worsening of the patient, with respiratory failure (chest tube placement was ruled out due to the small amount of bilateral pneumothorax and conservative management was decided). Sputum culture on 5/5/17 showed coagulase-negative Staphylococcus, Candida albicans (few colonies), with Legionella and negative Pneumocystis jirovecii.
+During admission, he presented intolerance to cotrimoxazole, with incoercible vomiting despite antiemetics and metabolic acidosis (later corrected with bicarbonate). It was decided to discontinue treatment with cotrimoxazole and start oral atovaquone, with improved tolerance.
+Despite this, the patient presented progressive worsening from the respiratory point of view, with the need for a progressive increase in O2 supply.
+A control chest X-ray showed pneumomediastinum with subcutaneous emphysema and pneumothorax, so antibiotic treatment was started with Tazocel® and atovaquone, with no clinical improvement.
+It was decided to start morphine chloride to control the sensation of dyspnoea and, given the subsequent poor clinical evolution, it was decided to discontinue support treatment and start sedation for symptom control, with death on 12/5/2017.
+We are awaiting the autopsy.

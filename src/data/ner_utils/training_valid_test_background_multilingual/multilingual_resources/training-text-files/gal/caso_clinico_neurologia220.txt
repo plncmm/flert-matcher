@@ -1,0 +1,26 @@
+Anamnesis
+Muller de 48 anos, sen alergias medicamentosas coñecidas, fumadora de 20 cigarros ao día, consumidora duns 80 g de alcohol ao día e esporádica de cocaína. Diagnosticada de asma extrínseca en tratamento con corticoides inhalados. Independente e activa laboralmente. Presenta no seu domicilio disminución do nivel de consciencia brusco xunto con movementos involuntarios das extremidades dunha hora de duración suxestivos de estatus epiléptico tónico-clónico xeneralizado. Unhas horas antes do cadro referiu abuso de alcohol. Á súa chegada a Urxencias persiste situación de estatus, precisando tratamento intravenoso con benzodiacepinas (10 mg de diazepam) e levetiracetam (1.000 mg), con cese do episodio. A paciente foi ingresada na UCI para estabilización hemodinámica e respiratoria, con intubación orotraqueal.
+
+Exame físico
+Na valoración inicial, a tensión arterial era de 124/80 mmHg, a frecuencia cardiaca de 120 lpm, a glucemia de 90 mg/dl, a saturación de osíxeno de 98% con oxigenoterapia; a paciente non presentaba febre. A exploración xeral era normal. Neurológicamente atopábase en estado postcrítico, cunha puntuación na escala de Glasgow de 8/15 (Ou4V1M3), sen focalidad neurológica nin signos meníngeos.
+
+Probas complementarias
+• Analítica xeral: destacaban anemia macrocítica (hemoglobina 12,2 g/dl, VCM 104 fl), trombopenia (99.000/mm3), fracaso renal agudo (creatinina 1,93 mg/dl), hiponatremia (130 mmol/l), hipertransaminasemia (GOT 310 UI/l, GPT 100 UI/l, GGT 2.123 UI/l e fosfatasa alcalina 230 UI/l), hiperckemia (CPK 901 UI/l, CKMB 64 UI/l) e leve aumento de enzimas cardiacas (troponina T ultrasensible 51,43 ng/l). Colesterol total 218 mg/dl, colesterol LDL 119 mg/dl e colesterol HDL 82 mg/dl.
+• Sistemático de ouriña: sen achados de interese.
+• Serologías: virus de hepatitis B e C e virus da inmunodeficiencia humana negativos.
+• Electrocardiograma: ritmo sinusal a 113 lpm, supradesnivelación do segmento ST en V1 a V3 con investimento da onda T en ditas derivaciones e intervalo QT de 560 ms.
+• Radiografía de tórax: sen alteracións de interese.
+• TC cerebral basal e con contraste: sen achados relevantes nin realces patológicos.
+• O ecocardiograma transtorácico inicial mostraba unha disfunción sistólica severa do ventrículo esquerdo cunha fracción de eyección do 25-30%. A contractilidad estaba conservada a nivel dos segmentos basales con acinesia xeneralizada do resto de segmentos. O ventrículo dereito e as válvulas eran normais. Visualizouse así mesmo un leve derrame pericárdico anterior con contido fibrinoso.
+• Realizouse unha coronariografía, con leve vasoespasmo da arteria coronaria descendente anterior, que cedeu coa infusión intravenosa de nitroglicerina.
+• Electroencefalograma ás 48 horas: trazado dentro dos límites da normalidad. Electrocardiograma que mostra supradesnivelación do segmento ST e investimento de onda T en V1 a V3. Resonancia magnética cardiaca con signos de edema intramiocárdico.
+
+Diagnóstico
+Miocardiopatía por estrés de tako-tsubo secundaria a estatus epiléptico.
+
+Tratamento
+Mantívose tratamento antiepiléptico de mantemento con levetiracetam, con boa resposta, sen presentar a paciente novas crise. Así mesmo, instaurouse tratamento sustitutivo vitamínico B1, B6, B12 e con ácido fólico e iniciouse profilaxis de deprivación alcohólica con tiaprizal e clorazepato dipotásico.
+
+Evolución
+Durante o seu ingreso, a paciente presentou mejoría progresiva do nivel de consciencia nas primeiras 24 horas, atopándose sen focalidad neurológica e hemodinámicamente estable, podendo procederse á súa extubación. A función renal e as alteracións iónicas se normalizaron nas primeiras 48 horas. Persistían hipertransaminasemia, anemia macrocítica e trombocitopenia, moi probablemente de orixe enólico, suxeríndose hepatopatía crónica alcohólica.
+Tanto a elevación das enzimas cardiacas como os cambios electrocardiográficos e ecocardiográficos atopábanse dentro da normalidad nas 72 horas seguintes. Realizouse unha resonancia cardiaca, que mostrou unha función sistólica conservada globalmente e signos de edema intramiocárdico na cara anterior e o septo do ventrículo esquerdo que reforzaron o diagnóstico de síndrome de discinesia apical transitoria. Trala administración de gadolinio non se evidenciaron necrosis nin fibrosis miocárdica macroscópicas. Dada a tendencia ao vasoespamo objetivado na coronariografía, decidiuse engadir tratamento con calcioantagonista ao alta.

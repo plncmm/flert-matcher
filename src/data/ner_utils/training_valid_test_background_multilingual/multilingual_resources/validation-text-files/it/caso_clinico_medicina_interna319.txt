@@ -1,0 +1,16 @@
+Anamnesi
+Una paziente di 33 anni è stata ricoverata nel reparto di medicina interna per tosse, espettorazione muco-purulenta, febbre febbrile e dispnea. Questi sintomi erano presenti da 7 anni, anche se erano peggiorati nell'ultima settimana. Come storia epidemiologica di interesse, ha riportato il contatto con i piccioni.
+
+Esame fisico
+L'esame ha rivelato la presenza di crepitii secchi in entrambe le basi polmonari, con una SatO2 del 96% con occhiali nasali a 2 bpm, BP 120/78 mmHg, HR 72 bpm e Ta37.2oC. Il resto dell'esame di apparati e sistemi è stato anodino.
+
+Test complementari
+Emogramma, biochimica, analisi dell'autoimmunità, enzima di conversione dell'angiotensina nella norma.
+Gli esami di imaging hanno incluso una radiografia del torace, che ha mostrato un infiltrato interstiziale bilaterale prevalentemente nelle basi dei polmoni. La TAC ha mostrato bronchiectasie nel lobo medio destro e nella lingula, associate a un pattern reticolo-nodulare in entrambe le basi (Figura 2). Il test di Mantoux era positivo. Le precipitine contro gli escrementi di piccione erano negative. I test di funzionalità respiratoria hanno mostrato un modello restrittivo (FVC 55%, FEV1/FVC 78%) e la broncoscopia con lavaggio broncoalveolare non ha mostrato alcun reperto patologico. La coltura del lavaggio broncoalveolare per batteri e micobatteri era positiva per il Mycobacterium avium complex (MAC).
+
+Giudizio clinico
+Sindrome di Lady Windermere: infezione respiratoria cronica da MAC che colpisce prevalentemente il lobo medio e la lingula.
+
+Piano d'azione ed evoluzione
+Il trattamento è stato iniziato con Claritromicina, Rifampicina ed Etambutolo per 12 mesi, secondo le linee guida cliniche.
+Dopo un anno e mezzo, il paziente ha mostrato un chiaro miglioramento clinico con espettorato MAC negativo. Tuttavia, data la presenza di bronchiectasie, il paziente continua a soffrire di infezioni ricorrenti da Pseudomona aeruginosa.

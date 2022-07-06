@@ -1,0 +1,16 @@
+HISTÓRIA, DOENÇA ACTUAL E EXAME FÍSICO
+Homem de 56 anos, sem alergias, ex-fumador e esquizofrenia paranóica tratada no passado com ECT e múltiplos antipsicóticos. Foi encontrado inconsciente pelo seu irmão; à chegada da ambulância, apresentou uma tensão arterial de 60/40 mmHg com saturação de O2 de 65%, temperatura de 34,8 °C. Na auscultação tinha crepitações e roncos em ambos os campos pulmonares. Foi realizada intubação orotraqueal e iniciada a perfusão de catecolamina (noradrenalina e adrenalina). À chegada ao serviço de emergência, foi solicitada uma avaliação cardiológica para um electrocardiograma (ECG) sugestivo de infarto inferolateral. O ECG mostrou um ritmo nodal com QRS de 120 ms e morfologia rSR de V2-V6 com o último R ligado ao ST. Ecocardioscopia com função ventricular esquerda (VE) preservada e sem alterações segmentares. Testes laboratoriais descritos em evidência. A radiografia do tórax era compatível com pneumonia multilobar. A cardiologia manteve uma atitude de espera e o paciente foi admitido na unidade de cuidados intensivos para tratamento do processo infeccioso respiratório.  
+
+TESTES COMPLEMENTARES
+ECG de chegada: ritmo nodal com QRS de 120 ms e morfologia rSR de V2-V6 com o último R ligado ao ST.
+ECG após correcção de temperatura: desaparecimento virtual das ondas Osborn, regresso ao ritmo sinusal normal.
+ANÁLISE: hemoglobina 14,4 g/dl, hematócrito 41,6%, leucócitos 1700x10^3/μl, neutrófilos 93,3%, plaquetas 133.000x10^3/μl. Coagulação: INR 1.61, IQ 52%, PT 17.1, APTT 42.9, D-dimer 708 ngr/ml.
+BIOQUEMISTRIA: glicose 163 mg/dl, ureia 57 mg/dl, creatinina 0,39 mg/dl, GFR MDRD4; 60 ml/min/1,73m2, sódio 127 mm/l, potássio 4,4 mm/l, magnésio 2,2 mm/l. Creatine kinase 672 U/L. Lactato 2,37 mm/l. Procalcitonina 0,96 ng/ml. Troponina I < 0.01 ng/dl. CK-MB massa 139,93 ng/ml. Gases sanguíneos arteriais: pH 7,29. pCO2 67 mmHg. pO2 42 mmHg. HCO3 32,2 mm/l. Base com excesso de 3,36 mm/l.
+THORAX RADIOGRAPHY: compatível com pneumonia multilobar (imagem 2).
+ECOCARDIOSCOPIA: ventrículo esquerdo não dilatado com função preservada. Sem alterações segmentares de contractilidade. Nenhuma valvulopatia aórtica. Insuficiência mitral mínima. Câmaras rectas com morfologia e função normais. Sem efusão intracardíaca ou massas.
+
+EVOLUÇÃO CLÍNICA
+A equipa de intensivistas solicitou uma nova avaliação do paciente devido a dúvidas sobre a decisão tomada pela cardiologia. Após a reavaliação dos electrocardiogramas, foi solicitada uma nova temperatura do paciente, que era indetectável na altura. O paciente foi gradualmente aquecido com cobertores térmicos e soro fisiológico quente. A 32 °C é observada uma correcção parcial das ondas, que desaparecem completamente a 36 °C. Foi feito um diagnóstico de ondas Osborn devido a hipotermia e acidose. O paciente morreu finalmente de insuficiência respiratória.
+
+DIAGNÓSTICO
+Pneumonia multiobar adquirida na comunidade. Insuficiência respiratória aguda. Hipotermia e acidose, com ondas Osborn no electrocardiograma. Função ventricular esquerda preservada, sem doença cardíaca estrutural. Morte.

@@ -1,0 +1,16 @@
+Anamnèse
+Une patiente de 33 ans a été admise au service de médecine interne pour une toux, une expectoration muco-purulente, une fièvre fébrile et une dyspnée. Ces symptômes étaient présents depuis 7 ans, mais ils s'étaient aggravés au cours de la dernière semaine. Comme antécédents épidémiologiques intéressants, il a signalé un contact avec des pigeons.
+
+Examen physique
+L'examen a révélé la présence de crépitants secs dans les deux bases pulmonaires, avec une SatO2 de 96% avec des lunettes nasales à 2 bpm, BP 120/78 mmHg, HR 72 bpm et Ta37.2oC. Le reste de l'examen par appareils et systèmes était anodin.
+
+Tests complémentaires
+Hémogramme, biochimie, analyse d'auto-immunité, enzyme de conversion de l'angiotensine dans les limites normales.
+Les examens d'imagerie comprenaient une radiographie pulmonaire, qui a montré un infiltrat interstitiel bilatéral prédominant dans les bases pulmonaires. Le scanner a montré des bronchectasies dans le lobe moyen droit et la lingula, associées à un motif réticulo-nodulaire dans les deux bases (Figure 2). Le test de Mantoux était positif. Les précipitines contre les fientes de pigeon étaient négatives. Les tests de la fonction respiratoire ont montré un schéma restrictif (CVF 55 %, VEMS/CVF 78 %) et la bronchoscopie avec lavage broncho-alvéolaire n'a révélé aucun résultat pathologique. La culture de lavage broncho-alvéolaire pour les bactéries et les mycobactéries était positive pour le complexe Mycobacterium avium (MAC).
+
+Jugement clinique
+Syndrome de Lady Windermere : infection respiratoire chronique par MAC affectant principalement le lobe moyen et la lingula.
+
+Plan d'action et évolution
+Un traitement a été mis en place avec la Clarithromycine, la Rifampicine et l'Ethambutol pendant 12 mois, conformément aux directives cliniques.
+Après un an et demi, le patient a montré une nette amélioration clinique avec une MAC négative dans les crachats. Cependant, étant donné la présence de bronchectasies, le patient continue de souffrir d'infections récurrentes à Pseudomona aeruginosa.

@@ -1,0 +1,30 @@
+Anamnesis
+Varón de 63 años con diagnóstico previo de hipertensión arterial e hipertrofia prostática benigna, remitido a Urgencias como código ictus. A las 5:30 horas de la madrugada es encontrado en el suelo con dificultad para la movilización y con lenguaje repetitivo e incoherente. La última vez visto asintomático fue a las 00:00 h. El paciente se encuentra disfásico, confuso y desorientado, por lo que no es posible la anamnesis al mismo. La familia no aporta más datos de interés, negando sintomatología los días previos.
+
+Examen físico
+Tensión arterial 141/81 mmHg, frecuencia cardiaca 75 lpm, saturación de O2 99% (FiO2 21%), temperatura 35,8 oC. DTX: 100. Consciente, desorientado, confuso. Alteración fluctuante del lenguaje con rasgos disfásicos mixtos. No trastornos campimétricos, de pares craneales ni alteraciones motoras ni sensitivas.
+
+Pruebas complementarias
+• Se practican de urgencias: analítica sanguínea, radiografía de tórax y ECG, que son normales.
+• Ante la sospecha clínica de ictus en el territorio de la ACM izquierda de tiempo de evolución indeterminado se realizan una TC craneal basal y multimodal con perfusión y una angio-TC donde no se evidencian alteraciones.
+
+Diagnóstico
+Ante el resultado de las pruebas complementarias se desestima tratamiento fibrinolítico y el paciente ingresa en la Unidad de Ictus con orientación diagnóstica de ictus isquémico de la ACM izquierda.
+
+En el momento del ingreso en la Unidad de Ictus se presencia una crisis generalizada de inicio parcial que yugula con diazepam. Se plantea la posibilidad de que la situación inicial del paciente correspondiera a un periodo postcrítico, permaneciendo aun la causa inicial de la crisis no aclarada, sin descartar la causa vascular. Se solicita un electroencefalograma urgente, donde se identifica un patrón de descargas epileptiformes lateralizadas periódicas (PLED) Hemodinámicamente el paciente presenta febrícula, y desde el punto de vista neurológico continúa presentando trastorno del lenguaje, con mejoría respecto a la exploración inicial. Tras 6 horas del ingreso se realiza una punción lumbar para análisis del LCR, solicitando PCR VHS ante la sospecha clínica y apoyada en el EEG de encefalitis herpética.
+
+Tratamiento
+Tras la punción lumbar, cuya bioquímica de urgencias es normal, se inicia tratamiento empírico con aciclovir 750 mg/8 h.
+
+Evolución
+La posterior evolución del paciente a lo largo de los días de ingreso, en espera de la RM y el resultado de la PCR VHS, es favorable, recuperando la normalidad del lenguaje. El paciente refiere dificultad para la evocación de recuerdos y se queja de que ocasionalmente nota olores extraños, siendo la exploración normal en todo momento. A los días obtenemos el resultado negativo del análisis de la PCR VHS y en la RM se muestran hallazgos compatibles con encefalitis límbica izquierda. Se completa el tratamiento con aciclovir (10 dosis) y se inicia el estudio etiológico de la encefalitis límbica, realizándose diagnóstico diferencial con patología autoinmune, inflamatoria y paraneoplásica. Se realiza el estudio de extensión tumoral, que resulta negativo, serologías sanguíneas y marcadores de autoinmunidad en sangre negativas y se realiza estudio en el LCR de anticuerpos onconeuronales, los cuales resultan igualmente negativos.
+
+Se solicita una nueva RM de control, que se realiza a los 5 días de la primera, apreciándose una imagen pseudonodular en la región temporal izquierda que presenta restricción a la difusión, sin objetivarse realces patológicos tras contraste. Se plantea la posibilidad de proceso tumoral infiltrante de bajo grado.
+
+Ante la situación de estabilidad, el paciente es dado de alta a su domicilio con seguimiento ambulatorio en el Servicio de Neurología y Neurocirugía, recibiendo tratamiento con levetirazetam 1.000 mg/12 h, con el diagnóstico de epilepsia del lóbulo temporal sintomática a lesión sugestiva de glioma de bajo grado.
+
+Un mes tras el alta, el paciente ingresa nuevamente por status parcial complejo con necesidad de aumento de la dosis de levetirazetam a 1.500 mg/12 h y añadiéndose lacosamida 200 mg/12 h. Durante el ingreso se realiza una nueva RM, donde se objetiva un aumento relativo de la lesión respecto a la previa, con una zona captante de contraste infracentimétrica. Desde el punto de vista neurológico, el paciente evoluciona hacia su situación previa. El paciente es dado de alta, quedando citado para una nueva RM de control en 2 meses.
+
+En la nueva RM de control se aprecia la lesión previa con áreas de captación en su interior que se acompañan de un aumento de la perfusión, siendo todo ello compatible con progresión tumoral. El paciente es valorado por Neurocirugía y se realiza una biopsia estereotáxica de la lesión. El estudio anatomopatológico dio como resultado el diagnóstico de oligodendroglioma grado III.
+
+Tras continuar el paciente refiriendo quejas de memoria y labilidad emocional, con ocasionales fallos en la nominación a la exploración, es valorado por los Servicios de Oncología Médica y Radioterápica, iniciándose tratamiento con temozolomida y radioterapia.

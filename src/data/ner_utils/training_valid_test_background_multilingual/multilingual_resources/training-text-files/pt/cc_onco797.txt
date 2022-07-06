@@ -1,0 +1,32 @@
+Anamnese
+Apresentamos o caso de um paciente de 60 anos sem alergias medicamentosas conhecidas, cuja história pessoal mais importante foi uma admissão ao Departamento de Pneumologia por empiema pleural esquerdo e insuficiência cardíaca. Como hábitos tóxicos, o paciente era um ex-fumador (IPA = 80 até 12 anos atrás), exenolismo até 12 anos atrás. Era um trabalhador mineiro.
+O estudo começou quando ele veio ao departamento de emergência para dores nas costelas direitas com uma massa pulmonar encontrada na radiografia. O estudo foi completado com uma tomografia computorizada (CT) mostrando uma massa de 60 x 53 x 80 mm infiltrando o brônquio do segmento posterior do lobo superior direito (LSD) e invadindo a fissura menor e estendendo-se ao segmento seis do lobo inferior direito (LID), contactando a pleura póstero-superior direita. Havia também um gânglio linfático extrapleural medindo 9 mm e um nódulo de satélite espiculado no segmento apical do LSD medindo 10 x 6 mm e dois nódulos no segmento 6 do LID medindo 10 mm e 8 mm. Além disso, existiam linfadenopatias na origem do tronco braquiocefálico direito, cadeia paratraqueal superior direita, janela subcarinal e aortopulmonar suspeita de metástases, derrame pericárdico e derrame pleural direito localizado.
+
+Exame físico
+Estado geral relativamente bom, mas funcionalmente limitado por fortes dores lombares (Escala Visual Analógica [VAS] 8-9) com diminuição da força em ambos os membros inferiores (4/5) e com grande dificuldade em manter-se de pé, sem qualquer comprometimento dos reflexos ou sensação.
+
+Testes complementares
+O estudo foi concluído com uma varredura PET-CT mostrando uma massa hipermetabólica medindo 7,8 x 7,7 cm (valor de captação normalizado [SUV] 9,6) no segmento superior da DIL. Adenopatias broncopulmonares direitas (SUV 4.3 e 3.8), e múltiplas erupções ósseas patológicas no 4º arco costeiro posterior direito, 5º anterior esquerdo, 7º direito ao nível do ângulo, corpo vertebral L3, lâmina ilíaca esquerda, articulação sacroilíaca esquerda e ramo ileopubiano esquerdo.
+A fibrobroncoscopia foi realizada e mostrou compressão extrínseca do brônquio do segmento apical do LSD. A patologia anatómica (AP) foi negativa para a malignidade. Portanto, para completar o estudo, o EBUS foi realizado nas adenopatias das estações 2R (direita), 4L (esquerda) e 7 que foram positivas para adenocarcinoma mal diferenciado (2R e 7).
+
+Diagnóstico
+O caso foi apresentado ao comité multidisciplinar e encaminhado para a nossa clínica com o diagnóstico de adenocarcinoma pulmonar T4N2M1b (osso).
+
+Tratamento
+Foi decidido admitir o doente em Oncologia para analgesia e iniciar o tratamento. Dados os sintomas de impotência funcional, foi solicitada uma ressonância magnética (MRI), que mostrou disseminação vertebral metastática com fracturas da maioria dos corpos vertebrais devido à compressão, bem como uma fractura craniocaudal do corpo vertebral L3 com deslocamento da parede posterior causando compressão da cauda equina.
+Iniciou o tratamento com esquema de quimioterapia área carboplatina sob a curva (5-AUC), dose total 700 mg e paclitaxel 175 mg/m2 (287 mg), sendo a pré-medicação habitual constituída por: granisetron 1 mg, dexametasona 12 mg, dexclorfeniramina 5 mg, ranitidina 50 mg, e a antiemese subsequente: dexametasona, granisetron, metoclopramida, que passou sem incidentes. Na alta, o paciente apresentou uma abrasão sacral mínima, que foi atribuída ao repouso na cama.
+
+Evolução
+Veio ao departamento de emergência uma semana após a administração de quimioterapia devido à febre e ao aparecimento de lesões bolhosas nas nádegas, no sacro e no antebraço esquerdo.
+Exame físico
+Hemodinamicamente estável: Pressão arterial 111/60 mm Hg, frequência cardíaca 86 bpm, 36,3 oC, saturação de oxigénio 88 %.
+Lesões erosivas secundárias a bolhas na coxa lateral esquerda, antebraço esquerdo, perna esquerda e nádegas/sacro. As lesões apresentadas com ruptura espontânea e drenagem de conteúdos serosos.
+A análise na admissão mostrou apenas um nível de sódio de 126 e uma leucocitose discreta com deslocamento esquerdo (leucócitos 11.700, neutrófilos 11.500), anemia de grau 1 (hemoglobina 11.7) e uma actividade de protrombina de 74 %.
+Com suspeita de necrólise epidérmica tóxica (TEN)/síndrome de Stevens-Johnson (SJS) com suspeita de toxicidade de drogas, foi admitido na Oncologia para estudo e tratamento.
+Durante a admissão na enfermaria foi avaliado por cirurgia plástica e dermatologia, foram feitas culturas e biópsias de pele positivas para Pseudomonas aeruginosa e Staphylococcus aureus.
+Patologia Anatómica
+"Fragmento de pele com necrose dermoepidérmica, ulceração de toda a epiderme.
+"Discreta dermatite perivascular e intersticial neutrofílica, superficial (predominantemente) e profunda, com ulceração da epiderme e extravasamento hematológico.
+Por suspeita de necrólise epidérmica tóxica secundária à quimioterapia ou aos anti-inflamatórios não esteróides (AINEs), estes últimos foram descontinuados sem melhoria no doente.
+O sujeito apresentou um agravamento progressivo com leucocitose e plaquetopenia e finalmente o paciente necessitou de sedação paliativa devido a um fraco controlo da dor, morrendo apenas duas semanas após o início do tratamento quimioterápico.
+

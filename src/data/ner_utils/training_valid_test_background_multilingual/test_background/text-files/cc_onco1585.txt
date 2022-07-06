@@ -1,0 +1,28 @@
+Anamnesis
+Varón de 74 años de edad, con antecedentes personales de diabetes mellitus tipo 2 en tratamiento con antidiabéticos orales. Exfumador. Faquectomía bilateral con pérdida de visión del ojo izquierdo.
+Acudió a Urgencias por cuadro de tres meses de evolución, consistente en dolor abdominal difuso y posteriormente localizado en epigastrio, continuo, sin clara relación con la ingesta y que variaba con cambios posturales. Asociaba pérdida de apetito con disminución de ingesta y pérdida de 10 kg de peso en tres meses. No presentaba alteraciones del hábito intestinal, hasta una semana previa a su ingreso, cuando presentó deposiciones diarreicas acuosas.
+Refiere, además, cefalea frontal de intensidad moderada continua durante todo el día, asociando de manera ocasional, sensación de mareo, inestabilidad y visión borrosa.
+
+Exploración física
+Estable hemodinámicamente. Afebril. Funciones superiores conservadas. Auscultación cardiorrespiratoria normal. Abdomen blando, depresible, doloroso a la palpación profunda en epigastrio, hipocondrio derecho y vacío derecho, con sensación de tumoración profunda. No hay edemas en los miembros inferiores.
+Exploración neurológica, sin hallazgos relevantes.
+
+Pruebas complementarias
+• Hemograma: hematíes 3,94 millones/mm3; hematocrito 35%; hemoglobina 12,5 g/dL. Leucocitos 3.700/mm3 con fórmula leucocitaria normal. Plaquetas 140.000 /mm3. VSG 9 mm/h.
+• Bioquímica: glucosa, urea, creatinina, proteínas totales, albúmina, GOT, GPT, GGT, LDH, FA, amilasa, potasio, sodio, fósforo y calcio, dentro de la normalidad.
+• Marcadores tumorales: CA-19.9, CA-125, CEA, CA-15.3, AFP y PSA normales. b-2-microglobulina 3,2 μg/L.
+• Perfil tiroideo y orina: dentro de la normalidad.
+• ECG: ritmo sinusal sin signos de isquemia aguda.
+• TC de tórax: no se observan adenopatías significativas. Grandes vasos sin alteraciones. Parénquima pulmonar sin lesiones nodulares ni áreas de consolidación. No presenta derrame pleuropericárdico.
+• TC abdominal: imagen nodular de densidad heterogénea de unos 6 cm de diámetro, en íntima relación con la unión de cabeza y cuerpo pancreático, que sugería masa neoplásica. Múltiples conglomerados adenopáticos de aspecto metastásico en hilio hepático y retroperitoneo superior. En el segmento 4b hepático, se observaba una lesión nodular hipodensa de unos 15 mm, sugestiva de metastásis.
+• TC y RM craneal: sin hallazgos relevantes.
+Ante los hallazgos de las pruebas complementarias, se realizó una biopsia guiada por TC de la masa pancreática con resultado de muestra insatisfactoria (material necrótico) (PAAF guiada por TC: masa pancreática y conglomerado adenopático).
+Se planteó la realización de ecoendoscopia digestiva alta con realización de punción guiada: masa pancreática que se extendía por cabeza y cuerpo pancreático que englobaba a arteria mesentérica superior. Se realizó mediante punción-aspiración con aguja fina (Ecoendoscopia: punción de masa pancreática).
+Estudio anatomopatológico: presencia de infiltración linfoide con áreas de necrosis sugestiva de linfoma no Hodgkin de células B, con expresión de CD 20.
+
+Diagnóstico
+Se realiza un diagnóstico diferencial entre el síndrome constitucional y la neoplasia metastásica de origen pancreático.
+Tras las pruebas posteriores, el diagnóstico final es de Linfoma primario pancreático no hodgkin de células b, cd20 positivo.
+
+Tratamiento
+Se inició tratamiento quimioterápico, con esquema R-CVP (rituximab, ciclofosfamida, vincristina y prednisona) completando un total de ocho ciclos, con muy buena tolerancia. Se realizó posteriormente PETTC, objetivándose resolución de la masa pancreática y lesión ocupante de espacio hepática, mostrando captación sugestiva de malignidad a nivel adenopático en hilio hepático y mediastino (respuesta parcial mayor). Por dicho motivo se consultó con el Servicio de Oncología Radioterápica, que consideró oportuno irradiación a nivel de dichos territorios, tras los que el paciente presenta respuesta completa y está en seguimiento, libre de enfermedad.

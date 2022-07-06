@@ -1,0 +1,45 @@
+Anamnesi
+Dona de 66 anys, sense al·lèrgies a fàrmacs conegudes, sense hàbits tòxics, actualment jubilada, sense antecedents familiars de patologia oncològica, amb antecedent d'hipertensió arterial en tractament amb hidroclorotiazida.
+
+Independent per a activitats de la vida diària, ECOG 0.
+
+La seva història oncològica comença al març de 2015, amb pruïja en una lesió en pell ja coneguda a nivell dorsal alt esquerre (pápula eritematosa perlada amb teleangiectasias, de 4 mil·límetres).
+
+Es realitza biòpsia excisional. L'anatomia patològica informa Melanoma Nodular Breslow 2,5 mm, nivell IV de Clark, absència d'ulceració, no component inflamatori, no regressió, celularidad pleomórfica, 11 mitosi/mm2, no invasió perineural ni vascular, no satelitosis, marges quirúrgics laterals positius. Estudi mutacional BRAF V600E wild type.
+
+En analítica presenta nivells de LDH en rang normal.
+Es realitza PET - TAC que destaca en regió axil·lar esquerra 3 adenopaties de centre necròtic de 21 mm (dos molt pròximes) i una tercera de 7,5 mm, SUV màxim de 10 i 2 respectivament. En regió axil·lar dreta mostra adenopatia necròtica de 15 mm, SUV màxim de 6. Totes compatibles amb origen infiltrativo.
+-Es realitza punció aspiració per agulla fina d'adenopaties axil·lars amb resultat d'anatomia patològica que informa metàstasi de melanoma.
+-Al maig de 2015 es realitza ampliació de marges de 2 cm amb linfadenectomía axil·lar bilateral. No presenta complicacions postquirúrgiques. L'anatomia patològica informa absència de tumor residual en els marges quirúrgics. En relació a la linfadenectomía, informa 4 ganglis positius de 49 ganglis en total (19 ganglis drets, 30 ganglis esquerres, diàmetre màxim 35 mm, sense invasió extracapsular)
+Amb diagnòstic de melanoma Estadi IIIC (pT3a pN3), ressecat, BRAF wild type, inicia al juny de 2015 tractament adjuvant dins d'Assaig Clínic.
+Es tracta d'un estudi fase III, randomizado, doble cec, de tractament amb immunoteràpia adjuvant amb ipilimumab versus Nivolumab, després de la resecció completa de melanoma estadi IIIb/c o IV, en pacients amb elevat risc de recurrència.
+Els pacients es randomizan a:
+- branca A: Ipilimumab 10 mg/kg IV (intravenós) cada 3 setmanes per 4 dosi i després cada 12 setmanes començant la setmana 24 més placebo IV cada 2 setmanes.
+- branca B: Nivolumab 3 mg/kg IV cada 2 setmanes mes placebo IV cada 3 setmanes per 4 dosi i després cada 12 setmanes començant en la setmana 24.
+El tractament es realitza fins a recurrència de malaltia, toxicitat inacceptable o màxim d'1 any.
+
+Malaltia actual:
+A l'agost de 2015 acudeix a hospital de dia per diarrea de 15 dies d'evolució, presentant inicialment 2-3 deposicions al dia, amb augment progressiu en número e intensitat, el quadre s'associa a hematoquecia, rectorragia, dolor abdominal difús tipus còlic, nàusees i vòmits 1-2 episodis al dia. Va presentar també febre en dies previs, cal destacar que la pacient va consultar en un altre centre prèviament i se li va indicar tractament amb ciprofloxacino que realitza al moment de la valoració en hospital de dia.
+
+Exploració física
+ECOG 2. Hemodinamicamente estable i afebril. Abdomen discretament distès, dolorós a la palpació en forma difusa, tant a la palpació superficial com profunda. Peristalsis conservada.
+
+Proves complementàries
+En analítica d'ingrés destaca anèmia amb hemoglobina 10,9 gr/dl, hipopotassèmia de 3,15 meq/litre, elevació de proteïna C reactiva en 100,4 mg/dl
+Es realitza TAC abdominal que informa mínim/lleu engruiximent de paret posterior de cec, inespecífic. No presenta altres alteracions valorables per aquest mètode en la resta del còlon ni signes de sagnat.
+Es realitza colonoscòpia que evidencia a nivell de còlon ascendent i còlon transvers múltiples lesions ulcerades en sacabocado amb vores sobre elevats que es troben recoberts de restes de sang i fibrina, envoltades d'àmplies zones de mucosa sana respectada. Es prenen biòpsies de les vores de l'úlcera i la base d'aquesta. S'informa com a colitis ulcerada d'origen indeterminat.
+L'anatomia patològica informa fragments de mucosa colónica amb ulceració amb teixit de granulació i canvis reparatius en l'epiteli adjacent. Sense canvis suggestius d'infecció infecció viral. Amb resultat de biologia molecular negatiu per a citomegalogivus, virus de l'herpes simple 1 i 2, i virus de Epstein-Barr.
+Es prenen mostres de hemocultivos, coprocultiu i Toxina clostridium difficile, tots negatius.
+Es realitza Quantiferon que és negatiu.
+
+Diagnòstic:
+Es tracta d'una pacient de 66 anys, intervinguda de melanoma estadi IIIC, en curs de tractament adjuvant amb immunoteràpia, dins d'assaig clínic (doble cec, nivolumab versus ipilimumab), que ingressa per diarrea grau 3 i rectorragia, destacant en colonoscòpia lesions ulcerades, amb diagnòstic microbiològic negatiu, i en anatomia patològica mucosa colónica amb ulceració amb teixit de granulació i canvis reparatius en l'epiteli adjacent. Sense canvis suggestius d'infecció infecció viral.
+En aquest context interpretem el quadre com a colitis severa inmunomediada.
+
+Tractament:
+Iniciem tractament amb corticoides a altes dosis i rep una dosi única de infliximab amb millora clínica progressiva, per la qual cosa iniciem el descens de corticoides. També vam suspendre ciprofloxacino i indiquem tractament antibiòtic empíric amb piperacilina-tazobactam. Durant l'ingrés indiquem nutrició parenteral total.
+
+Evolució:
+La pacient evoluciona favorablement, la qual cosa permet iniciar tolerància oral, canviar el tractament progressivament a via oral. Després d'aproximadament 30 dies d'ingrés, indiquem alta hospitalària.
+La pacient surt d'assaig clínic i no rep més tractament adjuvant. En forma ambulatòria contínua amb descens progressiu de corticoides fins a suspendre-ho definitivament.
+Actualment en seguiment, ECOG 0, sense evidència de malaltia oncològica ni seqüeles de toxicitat.

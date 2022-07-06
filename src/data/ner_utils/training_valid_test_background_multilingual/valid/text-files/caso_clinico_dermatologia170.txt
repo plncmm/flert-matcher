@@ -1,0 +1,18 @@
+Anamnesis
+Un varón de 57 años previamente sano acudió a consulta de manera urgente por una lesión dolorosa en dorso nasal de cinco días de evolución. Negó traumatismos o picaduras en la zona. La lesión inicial fue una placa rosada, inflamatoria y dolorosa que posteriormente desarrolló pequeñas pústulas, algunas de ellas con exudación blanquecina. Refirió además cefalea de predominio frontotemporal bilateral. Mantuvo buen estado general sin fiebre en todo momento.
+
+Exploración física
+Buen estado general, afebril y normotenso. La exploración de la lesión mostró una placa eritematoedematosa con aspecto de piel de naranja ocupando extensamente el dorso nasal, y sobre ella múltiples pústulas monomorfas de 1 mm no agrupadas y un área irregular de 10 mm erosionada con costra negruzca adherida. No presentó lesiones similares en el resto de la cara y no se palparon adenopatías locorregionales.
+
+Exploraciones complementarias
+El análisis sanguíneo realizado mostró hemograma, bioquímica, coagulación y reactantes de fase aguda dentro de la normalidad y anticuerpos antinucleares negativos. El cultivo bacteriano y la baciloscopia de una biopsia cutánea resultaron negativos. El examen histopatológico demostró un infiltrado inflamatorio mixto dérmico intersticial difuso y folicular (A) con exocitosis masiva del epitelio folicular (C) y extensión hasta el tejido celular subcutáneo, necrosis en masa de queratinocitos y vasculitis de pequeños vasos con leucocitoclasia y necrosis fibrinoide. Se observaron cambios citopáticos propios de virus herpes en los queratinocitos del epitelio folicular (B, D) con extensión hacia las glándulas sebáceas (B). Los cambios citopáticos consistieron en inclusiones eosinófilas intranucleares, queratinocitos multinucleados, citoplasma en vidrio esmerilado y restos necróticos de queratinocitos.
+Finalmente la PCR para virus herpes fue positiva para Virus Varicela-Zóster (VVZ). Además presentó serología sanguínea positiva para VVZ compatible con infección en curso y negativa para VHS, VIH, virus hepatotropos y lúes.
+
+Diagnóstico
+Foliculitis herpética necrotizante por VVZ.
+
+Tratamiento
+Inicialmente se realizó tratamiento empírico con mupirocina tópica junto con cefazolina y ceftriaxona intravenosas con leve disminución de la inflamación. Una vez realizado el diagnóstico de certeza se inició tratamiento con aciclovir oral 800 mg 5 veces al día a intervalos de 4 horas, omitiendo la dosis nocturna, durante 7 días.
+
+Evolución
+El paciente mostró una excelente evolución con resolución completa de las lesiones cutáneas tras dos semanas de seguimiento. No obstante el paciente refirió cefalea más o menos persistente, en ocasiones pulsátil, sin datos de alarma y con mala respuesta a paracetamol y antiinflamatorios no esteroideos. Actualmente se encuentra en seguimiento por el servicio de Neurología con el diagnóstico de neuralgia craneal postherpética. Ha presentado mejoría con la administración de amitriptilina 10-20 mg diarios por las noches y eslicarbamacepina 200mg diarios por las mañanas. Además, un dato curioso fue descubrir que su hija adolescente desarrolló un cuadro de varicela clásico una semana después del diagnóstico de la foliculitis herpética, probablemente por transmisión paterna.

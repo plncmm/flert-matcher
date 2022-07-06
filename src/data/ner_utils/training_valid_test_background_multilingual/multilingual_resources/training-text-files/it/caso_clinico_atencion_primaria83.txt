@@ -1,0 +1,48 @@
+Motivo della consultazione
+Un paziente maschio di 83 anni si è presentato con febbre di un giorno di evoluzione senza fonte apparente.
+
+Approccio individuale (anamnesi, esame, test complementari).
+Storia personale di: ipertensione arteriosa. Diabete mellito di tipo II. Sindrome da apnea ostruttiva del sonno (OSAS). Ipertrofia prostatica benigna. Malattia renale policistica. Artrite gottosa. Malattia di Alzheimer.
+Il paziente vive a casa con sua moglie e sua figlia. È dipendente per alcune attività della vita quotidiana anche se conduce una vita attiva, e viene sempre al centro di salute accompagnato da una delle sue figlie.
+
+Il paziente viene in clinica con sua figlia a causa di una febbre di un giorno di 38-39°C. Riferiscono di tosse con espettorazione biancastra occasionale. Non c'è nessun altro punto focale apparente nell'anamnesi. L'unica cosa che la figlia, l'assistente principale, dice è che trova che è più smemorato e occasionalmente disorientato (per esempio, dimentica di aver cenato), soprattutto di notte e in coincidenza con la febbre. All'esame, non c'era nulla di notevole e il paziente era in buone condizioni generali, anche se è stato trovato in cattive condizioni di salute. Considerandolo un paziente fragile, abbiamo iniziato a somministrargli amoxicillina 750 mg in modo profilattico.
+Il giorno seguente abbiamo chiamato a casa, su richiesta della famiglia, perché il paziente era ancora febbricitante. Ancora una volta, non è stato trovato alcun punto focale. Il paziente ha continuato ad essere in buone condizioni generali, emodinamicamente stabile e con un esame non rimarchevole. Abbiamo rassicurato la famiglia e spiegato che il processo sarebbe durato diversi giorni con febbre sostenuta, ma che dovevano essere attenti a qualsiasi nuovo sintomo che poteva apparire e guidare la diagnosi. Il paziente ci accompagna fuori di casa per salutarci.
+
+Abbiamo ricevuto una nuova visita a domicilio il giorno dopo, poiché il paziente era peggiorato notevolmente. La famiglia ci ha detto che il paziente si era svegliato bene, ma che si era sentito male ed era andato a riposare nella sua stanza, dove è stato poi trovato disorientato e con rigidità generalizzata.
+
+All'esame, il paziente è disorientato nel tempo e nello spazio, con una tendenza a dormire e risponde in modo inconsistente alle nostre domande.
+
+Esame (difficile a causa della mancanza di cooperazione):
+Vitali: BP 129/73, HR 117lpm, SatO2 90%, T 38.6o, glicemia 137.
+Auscultazione cardiopolmonare: Nessun murmure, ritmico. VCM senza suoni aggiunti.
+Addome globoso, senza masse, non doloroso, nessun peritonismo.
+Arti inferiori: nessun edema o segni di trombosi.
+Neurologico: miosi reattiva bilaterale. Movimenti oculomotori apparentemente conservati. Cancellazione della piega nasolabiale sinistra. Il resto dei nervi cranici non è valutabile. Grande instabilità dell'andatura. Nessuna evidente perdita di sensibilità. Perdita di forza generalizzata. Kernig e Burdzinsky non valutabili a causa della difesa volontaria, anche se c'è una rigidità apparente.
+
+È stato deciso di inviare il paziente al dipartimento di emergenza dell'ospedale per ulteriori test.
+All'arrivo, i test eseguiti includevano i seguenti:
+CBC: CRP 0.9mg/dL, leucociti 10330/μL con 67% neutrofili e 17.9% linfociti. Piastrine 186000/μL. Sistema urinario con proteinuria.
+
+Radiografia del torace: tecnica scadente. Indice cardiotoracico nella norma. Parenchima libero senza congestione o condensazione.
+TC cranica: prominenza di solchi, fessure e cisterne con moderata dilatazione del sistema ventricolare in relazione all'atrofia corticosottocorticale e/o involuzione senile. Adeguata differenziazione della materia bianca e grigia. Fossa posteriore senza reperti. Nessun segno di emorragia intracranica. Nessun effetto di massa. Resto dello studio senza risultati.
+
+Durante la sua permanenza nel dipartimento di emergenza, il paziente ha mostrato un deterioramento neurologico, diventando progressivamente sonnolento, svegliandosi solo con stimoli dolorosi. Si decise quindi di eseguire una puntura lombare, ottenendo un fluido leggermente torbido con la seguente biochimica: leucociti 12/μL (100% mononucleati), glucosio 77mg/dL, proteine 70,9mg/dL.
+La colorazione di Gram è negativa.
+Lo studio PCRs rileva la positività della PCR per il virus dell'herpes simplex di tipo 1 (HSV-1).
+
+Approccio familiare e comunitario
+Struttura familiare nucleare. Il paziente vive con sua moglie e una delle sue due figlie.
+Il suo ciclo di vita familiare, secondo il modello dell'OMS modificato da De la Revilla, è il IV stadio o -contrazione‖ (da quando il primo figlio esce di casa fino all'ultimo).
+La figlia più giovane vive con i suoi genitori, essendo la principale badante di entrambi, specialmente del padre, che ha bisogno di più attenzioni perché è più fragile della moglie.
+
+Giudizio clinico
+Meningoencefalite dovuta a HSV-1. La diagnosi differenziale all'inizio del processo era una sindrome confusionale acuta. Successivamente, bisognava prendere in considerazione altre infezioni del sistema nervoso centrale e, con i valori biochimici del CSF, altre infezioni virali, infezioni batteriche molto precoci, infezioni abortite o meningoencefaliti tubercolari. Altre diagnosi includono l'encefalite autoimmune, metabolica, tossica o ischemica.
+
+Piano d'azione ed evoluzione
+Il paziente viene ricoverato nel reparto di malattie infettive e viene iniziato un trattamento con Acyclovir iv (10mg/kg ogni 8 ore).
+
+Evoluzione
+Il paziente rimane disorientato per tutto il ricovero, con risposte incoerenti alle domande, ma all'inizio comincia a mangiare cibo schiacciato ed è emodinamicamente stabile, senza febbre.
+Il sesto giorno il paziente ha mostrato un deterioramento significativo, non aprendo gli occhi e localizzando solo gli stimoli dolorosi. Oliguria con diuresi di 100cc in 12 ore nonostante la terapia intensiva dei fluidi. Gli esami del sangue urgenti hanno mostrato livelli di creatinina di 5,6mg/dl. Questo era probabilmente dovuto alla necrosi tubulare acuta causata dall'aciclovir, quindi il trattamento è stato riadattato, riducendolo a una dose giornaliera.
+L'amoxicillina 875mg/acido clavulanico 125mg è stato aggiunto in quanto l'aspirazione non poteva essere esclusa, dato che ha iniziato di nuovo con febbre, tosse e aumento delle secrezioni.
+Un deterioramento progressivo che alla fine ha richiesto la sedazione del paziente, che è morto l'undicesimo giorno di ammissione.

@@ -1,0 +1,44 @@
+Motivo de consulta
+Aumento de disnea y tos
+
+Antecedentes personales
+• No alergias conocidas.
+• DM tipo II en tratamiento con antidiabéticos orales.
+• HTA en tratamiento con Telmisartan 40 mg.
+• Fumador activo de 10 cigarrillos/día.
+• Bebedor ocasional.
+• EPOC con FEV1 de 60%.
+• Ha presentado dos agudizaciones en el último año siento la última hace 7 meses.
+• Está en tratamiento con beta 2 de larga duración y anticolinérgicos de larga duración.
+
+HISTORIA ACTUAL
+Consulta porque desde hace 3 días presenta aumento de su disnea habitual con tos y expectoración en mayor cantidad que la habitual y de color verdosa. La situación no ha mejorado a pesar del tratamiento puesto por su médico y en las últimas 12 horas la disnea se ha hecho de mínimos esfuerzos que le impiden el aseo diario por lo que consulta. 
+
+EXPLORACIÓN FÍSICA
+Consciente y orientado en tiempo y espacio. Cianosis central. TA: 185/110, FC de 130 ppm, FR de 28 rpm. Sat de O2 de 89%, To de 36,8oC, Glucemia de 240. Sudoración de piel. • AC: Rítmico no soplos audibles. • AP: Sibilancias espiratorias en ambos campos pulmonares con roncus aislados. • ABD: Blando depresible no visceromegalias ni masas. No doloroso. • EEII: Mínimos edemas pretibiales. Pulsos presentes y simétricos. Se solicitan exploraciones complementarias y se inicia tratamiento con: • Oxigenoterapia: mascarilla Ventimask con una FiO2 de 0.3. • Beta 2 (salbutamol 5 mg) + anticolinérgicos (Ipratropio 0.5 mg) nebulizados y repetir en un principio cada 4 horas. • Corticoides sistémicos (80 mg iv). Se trata de una agudización grave de la EPOC y todas las agudizaciones graves se benefician de tratamiento con corticoides sistémicos. Seguir posteriormente con 40 mg/iv/6 horas. • Antibióticos (moxifloxacino 400 mg IV/24 h).
+
+EXPLORACIONES COMPLEMENTARIAS
+Rx de tórax: Cardiomegalia. Hilios ligeramente congestivos con mínimo patrón intersticial a este nivel. Redistribución vascular con aumento de ésta en bases. No infiltrados. ECG: Ritmo sinusal a 110 ppm. Sin alteraciones de la repolarización.
+BIOQUÍMICA
+GLUCOSA 265 mg/dl [ 70 - 110 ] UREA 26 mg/dl [ 15 - 50 ] CREATININA 1 mg/dl [ 0.6 - 1.3 ] SODIO 142 mmol/L [ 135 - 148 ] POTASIO 3.8 mmol/L [ 3.6 - 5.2 ] HEMATOLOGÍA LEUCOCITOS 10.12 x10^3/uL [ 4.8 - 10.8 ] NEUTRÓFILOS 87.5 % [ 43 - 65 ] LINFOCITOS 5.6 % [ 20.5 - 45.5 ] MONOCITOS 6.8 % [ 5.5 - 11.7 ] EOSINÓFILOS 0 % [ 0.9 - 2.9 ] BASÓFILOS 0.1 % [ 0.2 - 1 ] HEMOGLOBINA 16.6 g/dl [ 14 - 18 ] HEMATOCRITO 49.7 % [ 42 - 52 ] PLAQUETAS 191 x10^3/uL [ 130 - 400 ] GASOMETRÍA ARTERIAL pH 7.3 pCO2 77.3 mmHg pO2 54.5 mmHg cHCO3 37.4 mmol/L Sat de O2 89%
+
+Ante los hallazgos analíticos en que comprobamos una acidosis respiratoria y una placa con semiología que puede sugerir una insuficiencia cardiaca incipiente, junto a los edemas maleolares se decide añadir furosemida al tratamiento y control gasométrico venoso en una hora, por si fuera preciso iniciar ventilación mecánica no invasiva.
+
+EVOLUCIÓN, ESPERA Y OBSERVACIÓN
+Tras 60 minutos con correcto tratamiento se realiza control gasométrico siendo el resultado: Gasometría venosa pH 7.31 pCO2 74.3 mmHg pO2 44.5 mmHg HCO3 36.4 mmol/L Pulsioximetría de 91%
+Ante la escasa mejoría a pesar de un correcto tratamiento se decide iniciar ventilación mecánica no invasiva en modalidad BiPAP con una IPAP de 16 y una EPAP de 6 y una FiO2 de 0,3 Un tiempo después se realiza una nueva gasometría venosa en la que podemos ver: Gasometría venosa pH 7.383 pCO2 59.1 mmHg pO2 27.6 mmHg cHCO3 34.4 mmol/L Saturación de O2 de 95%
+Se decide mantener la VMNI continuando con tratamiento comentado y tras 10 horas el enfermo presentaba la siguiente gasometría: pH 7.467 pCO2 46.1 mmHg pO2 49.3 mmHg HCO3 32.9 mmol/L Sat O2 de 97%
+
+RESOLUCIÓN, ORIENTACIÓN Y TRANSFERENCIA
+Se decidió iniciar la retirada progresiva de la ventilación mecánica no invasiva e ingreso en planta de neumología para su control y tratamiento definitivo. Tratamiento al ingreso • Dieta de diabético sin sal.
+• Oxigenoterapia: mascarilla Ventimask con una FiO2 de 0.28
+• Brocodilatadores: Beta 2 (salbutamol 400 μg) + anticolinérgicos (Ipratropio 120 μg) con cámara espaciadora cada 6 horas.
+• Corticoides sistémicos: metilprednisolona 40 mg/iv/6 horas.
+• Antibióticos: Moxifloxacino 400 mg iv/24 horas.
+• Furosemida 20 mg iv/24 h.
+• Enoxaparina 40 mg sc/24 h.
+• Telmisartan 40 mg vo/24 h.
+• Glucometer antes de desayuno comida y cena con pauta de insulina.
+
+JUICIO CLÍNICO
+EPOC MODERADO CON AGUDIZACIÓN GRAVE POR INFECCION BACTERIANA.

@@ -1,0 +1,26 @@
+Anamnesis
+A 48-year-old non-smoking woman, asthmatic and hypertensive, consulted for pain in the lumbar region radiating to the right hip of 6 months' evolution, with poor response to analgesic treatment and general syndrome of 2 months' evolution. The appropriate studies were performed and a diagnosis was made of adenocarcinoma of the lung with secondary obstructive atelectasis of the right upper lobe and stage IV due to lung, bone and brain involvement. Molecular phenotyping detected the EGFR gene mutation in exon 21 (type L858R). Following the administration of holocranial radiotherapy (10 fr, 300 cGy/fr), gefitinib 250 mg daily was started in July 2014.
+
+Six weeks later, she attended the emergency department with increased dyspnoea, cough and scant whitish expectoration. No fever was reported.
+
+Physical examination
+The patient had an ECOG-PS of 1. Pulmonary auscultation revealed tele-inspiratory crackles in the right base with decreased vesicular murmur in the left hemithorax.
+
+Complementary tests
+"Laboratory tests include non-hypercapnic respiratory failure and mild leukocytosis (12,800 leukocytes/μL) with neutrophilia.
+"Chest X-ray showed resolution of the obstructive atelectasis of the LSD with the appearance of an interstitial pattern in the rest of the right hemithorax.
+"The study was completed with a chest CT scan, confirming resolution of the obstructive atelectasis and a generalised decrease in bilateral multinodular pulmonary metastatic involvement with sclerotic bone remodelling of multiple lytic lesions. However, despite radiological improvement of the tumour, the development of diffuse lung disease (especially right basal), characterised by a diffuse increase in lung radiodensity in ground glass, with thickening of the septal interstitium, suggestive of diffuse interstitial disease of probable toxic origin, was observed.
+"Microbiological studies: sputum cultures, blood cultures and serology for Legionella pneumophila and Streptococcus pneumoniae were negative.
+
+Diagnosis
+Interstitial lung disease secondary to gefitinib.
+
+Treatment
+Given the clinical suspicion of toxic pneumonitis due to gefitinib, administration of the drug was suspended and corticotherapy with methylprednisolone 60 mg/day and empirical antibiotic treatment with levofloxacin was started.
+
+Evolution
+During this admission, the evaluation of the response was completed with brain CT scan, with complete radiological response. The patient showed clinical improvement and after discharge a new chest CT scan was requested 2 weeks after the previous one. This CT scan showed a decrease in the lesions associated with drug toxicity (radiodensity persisting in ground glass) and practically generalised growth of the pulmonary nodules and pleural effusion. At this point it was decided to start treatment with cisplatin and permetrexed at a 75% dose. As toxicity he presented with delayed grade 1 emesis.
+
+The CT scan after the third cycle showed progression, so it was decided to start third line treatment with carboplatin, paclitaxel and bevacizumab. After the start of treatment, he maintained ECOG-PS 2, with symptomatic improvement in dyspnoea. Toxicities included asthenia, grade III afebrile neutropenia, alopecia and peripheral neuropathy, which led to a dose reduction of 30%.
+
+After the sixth cycle, a CT scan showed a partial response with resolution of the pneumonitis, and the patient was switched to maintenance bevacizumab, which was well tolerated.

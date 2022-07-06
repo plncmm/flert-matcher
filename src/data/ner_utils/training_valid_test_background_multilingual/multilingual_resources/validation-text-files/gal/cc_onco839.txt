@@ -1,0 +1,22 @@
+Anamnesis
+O paciente refire molestias abdominales xeneralizadas en relación con distensión abdominal, con síndrome xeral importante (astenia, perda de apetito e perda de peso de forma progresiva). Disnea de moderados esforzos. Sen clínica infecciosa na actualidade.
+
+Exploración física
+ECOG 2. Estable hemodinámicamente e afebril. Ictericia en pel, mucosas e conjuntivas. Auscultación cardiaca: tons rítmicos, sen soplos audibles. Auscultación pulmonar: hipoventilación global. Abdomen: moi distendido, molesto na palpación, gran hepatomegalia de ata 15 cm baixo reborde costal dereito. Extremidades inferiores: sen edemas.
+
+Probas complementarias
+Analítica previa ao comezo de tratamento citostático: Hb 7,8 g/dl, leucocitos 36.800 mmc, plaquetas 547.000 mmc, creatinina 0,71 mg/dl, bilirrubina total 4,7 mg/dl, sodio 127 mEq/l, potasio 4,9 mEq/l, calcio 9 mg/dl. En días previos, a cifra de ácido úrico era 10,4 mg/dl. Respecto de marcadores tumorales neuroendocrinos, presentaba enolasa específica neuronal 309,3 ng/ml e cromogranina A 914,4 ng/ml.
+
+Diagnóstico
+Con diagnóstico de CNE G3 (ki-67: 90 %) de cardias estadio IV, con afectación multisistémica, o paciente ingresa en Oncología Médica e inicia 1a liña de tratamento citostático para enfermidade avanzada con carboplatino AUC-4 (día 1) + etopósido 80 mg/m2 (días 1, 2, 3) cada 21 días, con redución de dose por ECOG e afectación hepática. Realízase tamén transfusión de 2 concentrados de hematíes.
+Ao día seguinte, o paciente presenta deterioro clínico importante, con disnea de repouso e saturación de osíxeno inferior a 90 %, polo que precisa oxigenoterapia con reservorio. Realízase analítica, destacando: ácido úrico 15,4 mg/dl, creatinina 1,02 mg/dl, fósforo 4,1 mg/dl, colesterol total 577 mg/dl, LDL 522 mg/dl, sodio 125 mEq/l, potasio 5,7 mEq/l, calcio 8,6 mg/dl. En gasometría arterial presenta pH 7,31, pCO2 25 mm Hg, pO2 56 mm Hg, bicarbonato 12,6 mmol/l, exceso de bases-12,1 mmol/l e saturación osíxeno 86 % (con VMK ao 50 %).
+Iníciase tratamento con alopurinol 100 mg/8h vía oral, rasburicasa 0,2 mg/kg/día vía intravenosa en dose única, furosemida 20 mg/8 h vía intravenosa e sueroterapia intensiva, mantendo tratamento antifúngico con fluconazol que se iniciou por illamento de Candida albicans en cepillado esofágico realizado en gastroscopia.
+En analítica de control e gasometría venosa: ácido úrico 4,7 mg/dl, creatinina 1,61 mg/dl, calcio 8,2 mg/dl, sodio 132 mEq/l, potasio 6 mEq/l, fósforo 8,1 mg/dl, pH 7,28, bicarbonato 16,9 mmol/l, pCO2 36 mm Hg, exceso de bases-9,1 mmol/l.
+Ante o deterioro clínico progresivo, avísase a Medicina Intensiva e o paciente trasládase ao seu servizo con diagnóstico de insuficiencia respiratoria aguda e síndrome de lisis tumoral con insuficiencia renal aguda e acidosis metabólica.
+
+Tratamento
+Continúa soporte en UCI, precisando ventilación mecánica non invasiva continua, sueroterapia intensiva con reposición de iones, así como antibioterapia empírica con piperacilina-tazobactam, mantendo tratamento antifúngico con fluconazol.
+Destaca a presenza de infiltrados pulmonares bilaterales difusos en radiografía de tórax portátil establecéndose o diagnóstico diferencial entre síndrome de distrés respiratorio agudo, hemorragia pulmonar e complicación infecciosa.
+
+Evolución
+O paciente evoluciona de forma favorable, retirando soporte ventilatorio, con cifras de creatinina, acedo úrico, fósforo, calcio e potasio en rango normal. Tras 8 días en UCI, trasládase de novo a Oncología Médica. Realizamos nova radiografía de tórax de control con gran mejoría respecto de a previa. Presenta recuperación progresiva do estado xeral polo que se decide alta a domicilio en días posteriores.

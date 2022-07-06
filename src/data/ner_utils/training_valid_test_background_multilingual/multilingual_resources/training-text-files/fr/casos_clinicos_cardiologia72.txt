@@ -1,0 +1,34 @@
+ANTÉCÉDENTS, MALADIE ACTUELLE ET EXAMEN PHYSIQUE
+Objectif : l'interprétation de l'ECG et du contexte clinique est essentielle au diagnostic et au traitement ultérieur.
+Une femme de 31 ans, primigeste et âgée de 33 semaines, a été transférée au service de cardiologie de l'hôpital central des Asturies en raison de vertiges, de palpitations et d'altérations électrocardiographiques.
+AP : Allergie au diclofénac et au naproxène. Elle travaille dans un supermarché.
+Facteurs de risque cardiovasculaire
+Pas d'habitudes toxiques.
+Pas d'hypertension, dyslipidémie mixte (actuellement prise en charge par un endocrinologue, traitée par simvastatine et fénofibrate, pas de suivi).
+Diabète gestationnel traité par insuline Lispro 25/75 : 12 unités le matin, 10 unités le soir.
+Pas d'antécédents cardiologiques.
+Stéatose hépatique. Hernie discale.
+Chirurgie de réduction mammaire.
+
+Maladie actuelle
+La patiente s'est rendue à l'hôpital de référence en raison de vertiges d'une durée de 24 heures liés à la position debout. Les symptômes s'améliorent avec le décubitus. Pas de douleur thoracique ni de dyspnée. Des épisodes occasionnels de palpitations. Le patient a signalé des symptômes catarrhaux quelques jours auparavant. Un ECG a été réalisé et décrit comme une tachycardie à large QRS à 180 bpm. Des manœuvres vagales ont été effectuées mais étaient inefficaces et 6 et 12 mg d'adénosine ont été prescrits sans réponse, il a donc été adressé à notre centre. Nous n'avons pas l'ECG de base du patient. A son arrivée dans notre centre, le patient était asymptomatique et hémodynamiquement stable.
+
+Examen physique
+Tension : 110/75 mmHg.
+HR : 188 bpm.
+Sat d'O2 : 98 % sans oxygénothérapie. Conscient, orienté, coopératif. Pas hydraté et couleur normale.
+AP : murmure vésiculaire préservé, sans autres bruits superposés.
+AC : bruits cardiaques rythmiques avec SS III/IV mitral avec S2 normal.
+Abdomen : 33 semaines de grossesse. Cicatrice sur les seins.
+MMII : pas d'œdème, pas de signe de TVP.
+
+
+TESTS COMPLÉMENTAIRES
+Numération sanguine : Hb 12,5g/dl, MCV 82,6 fL, leucocytes12500 uL (formule normale), plaquettes 239000 uL. Biochimie : glucose 125mg/dl, urée 17 mg/dl, créatinine 0,61 mg/dl, sodium 135 mg/dl, CK 56 U/L, troponine T 33 ng/L. Coagulation : TP 87 %, INR 1,09, fibrinogène 686, D-dimère 1187 ng/ml. ECG Echocardiographie transthoracique : étude réalisée à 160 bpm. LV non dilaté, non hypertrophique, hypercontractile, sans altération de la contractilité régionale. FEVG préservée, pas de dilatation des cavités droites. Insuffisance mitrale modérée.
+
+EVOLUTION
+Admission dans l'unité de soins cardiaques avancés pour la surveillance et le traitement. Les manœuvres vagales et l'adénosine à 6 et 12 mg ont été répétées, toutes deux sans succès. On a prescrit de l'aténolol IV à 4 mg, sans réponse, et on a donc décidé de procéder à une cardioversion électrique (ECV). Le cas a été discuté avec les services de gynécologie et d'anesthésiologie et deux ECV (100 et 200J) ont été réalisées sous sédation maternelle au propofol et sous surveillance fœtale, les deux ayant échoué. Aucune détresse fœtale n'a été observée à aucun moment. Le patient est resté asymptomatique à tout moment et stable sur le plan hémodynamique. Le monitoring a montré une tachycardie persistante à large QRS (même morphologie que sur l'ECG d'arrivée) à des fréquences similaires (170-190 bpm). Devant la persistance de l'arythmie, il a été décidé de commencer le traitement par une perfusion de bêta-bloquants (labétalol à 20 ml/h) et une ampoule de 0,5 mg de digoxine intraveineuse. La fréquence de la tachycardie a d'abord été réduite à environ 150 bpm, avec la présence de plus en plus fréquente de battements sinusaux entrecoupant l'arythmie, puis de trigemines (visualisation sur l'enregistrement télémétrique). Quelques heures plus tard, un rythme sinusal a été observé, avec persistance d'extrasystoles ventriculaires isolées. 12 heures après le début de la perfusion, après plusieurs heures en rythme sinusal stable, la perfusion de bêta-bloquants a été interrompue et l'ECG du patient était tel que présenté dans la figure 2. Le patient n'a signalé que des symptômes de reflux gastro-œsophagien, pour lesquels la ranitindine orale a été prescrite si nécessaire. Après 8 heures supplémentaires de surveillance avec un rythme sinusal persistant, elle a été transférée dans le service de cardiologie et l'ETT a été répété.
+La patiente est restée hospitalisée pendant 48 heures supplémentaires et après avoir constaté qu'il n'y avait pas de complications gynécologiques et qu'elle restait asymptomatique avec un enregistrement ECG en rythme sinusal sans altération, la sortie a été décidée avec un traitement prophylactique au metropolol en attendant une consultation ambulatoire avec la section arythmie de notre centre. Le service de gynécologie n'ayant constaté aucune complication liée à la grossesse, il a été décidé de la suivre comme prévu en ambulatoire.
+
+DIAGNOSTIC
+Ce problème doit être résolu par le concurrent au moyen de l'interprétation de l'ECG.

@@ -1,0 +1,35 @@
+Motivo de Consulta
+Malestar xeral, dores xeneralizadas. Revisión.
+
+Enfoque Individual (anamnesis, exploración, probas complementarias)
+Paciente de 18 anos procedente de Guinea Conakry, sen antecedentes patológicos de interese, recentemente chegado en patera a España desde fai un mes e medio. Acode a consulta para facerse unha revisión despois da longa viaxe desde o seu país de orixe en condicións precarias. Refire dor xeneralizada e malestar xeral. Na anamnesis por aparellos e sistemas, separadamente do referido polo paciente, destaca dor abdominal xeneralizado de varias semanas de evolución asociado ocasionalmente a diarrea sanguinolenta autolimitada. Descoñécese calendario vacunal.
+
+Exploración física:
+TA 110/70 sat 98% aa FC 70 IMC 17
+Cavidad oral: normal.
+Non se palpan adenopatías en rexión cervical.
+Auscultación cardiorespiratoria: tons rítmicos a boa frecuencia.
+Abdomen brando, depresible, sen masas nin visceromegalias,
+Extremidades con cicatrices queloides nunha das pernas, sen outras lesións, non edemas.
+
+As probas complementarias solicitadas foron:
+- Hemograma: destaca anemia ferropénica con Hb 11 g/dL, VCM 70, non eosinofilia, non outras alteracións no hemograma.
+- Ferritina < 6 IST 5%.
+- Bioquímica básica, perfil hepático e reactante de fase aguda: dentro da normalidad.
+- Serología VIH, lúes, hepatitis C negativas. Virus hepatitis A IgM negativo, IgG positivo. Anti- HBsAg negativo. Anti-HBeAg positivo, Anti-HBcAg positivo
+- Parásitos en feces (x3): Primeiro negativo. Segundo e terceiro positivo para Schistosoma mansoni.
+- Mantoux negativo. Rx tórax normal.
+
+Enfoque Familiar e Comunitario
+Trátase dun paciente con especial vulnerabilidade xa que é un menor estranxeiro non acompañado (a idade que consta oficialmente sabemos que non é real, pero descoñecemos a verdadeira), que realizou unha viaxe longa en condicións precarias, expoñéndose a varios axentes patógenos debido á escasa higiene dos países que atravesou e tamén a un ambiente onde puido estar en contacto con mafias, ataques por "tuaregs" no deserto (as cicatrices queloides débense a isto segundo refire o paciente), etc.
+Xa que logo, é un individuo con risco de padecer enfermidades que poden ser pouco coñecidas no noso ámbito sanitario e que, ao atoparse en situación precaria ao chegar ao noso país, hai que prestar especial atención pois está nun periodo de susceptibilidad individual e poden manifestarse as enfermidades contraídas no Magreb tanto en África Subsahariana. O risco de movilidad xeográfica tamén vai a dificultar o seguimiento do paciente.
+
+Xuízo Clínico (lista de problemas, diagnóstico referencial)
+- Esquistosomiasis intestinal
+- Hepatitis B crónica a descartar (descoñecemos si é positivo para o HBsAg) - IMC 17, delgadez.
+
+Plan de Acción
+- Remitiuse a consultas externas de Enfermidades Infecciosas, previo contacto directo con eles para evitar demóraa, polo que lle citaron á semana seguinte de coñecer os resultados nas probas complementarias solicitadas. Alí solicitan o tratamento para a esquistomiasis, que é praziquantel 40 mg/kg nunha dose ou repartida en dúas dose. Esta medicación non está dispoñible no noso país, polo que, desde o servizo de infecciosas realizaron a receita e enviárona ao Ministerio de Sanidade, xa que se trata dunha medicación estranxeira. Tamén se remitiu para completar estudo inmunológico de hepatitis B.
+- Remitiuse a consulta de enfermería para iniciar vacunación completa xa que descoñecemos completamente as inmunizaciones previas do paciente (previa realización de serología para hepatitis B).
+- Indicóuselle volver acudir á nosa consulta logo da valoración polo servizo de infecciosas, para seguimiento posterior.
+- Prescribín ferro oral.

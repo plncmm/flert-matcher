@@ -1,0 +1,29 @@
+Anamnesis
+Varón de 80 años de edad en la actualidad, diagnosticado en 2003 (70 años) de adenocarcinoma de próstata Gleason 5 (2 + 3) en el 90% de los cilindros izquierdos de una biopsia octante, con antígeno prostático específico (PSA) al diagnóstico de 5,10 ng/ml; PSA L/T 13,7% y próstata de 43 x 25 cc. Se realiza tratamiento con braquiterapia y posteriormente radioterapia externa sobre volumen prostático con dosis total de 50 Gy, al comprobar en la dosimetría postimplante dosis total insuficiente. Alcanza nadir de PSA de 0,353 ng/ml.
+En 2010, se produce una recidiva bioquímica con PSA de 3.265 ng/ml, realizándose crioterapia de rescate.
+El paciente evoluciona con descenso de PSA hasta 0 ng/ml, presentando múltiples episodios de infección urinaria y uropatía obstructiva por abscesos prostáticos que son tratados con resecciones transuretrales prostáticas y drenajes por punción ecodirigida. En los urocultivos se aísla de forma persistente una Klebsiella pneumoniae multirresistente.
+En septiembre de 2012 acude a Urgencias por fiebre y conglomerado adenopático inguinal, con zona de abscesificación. Se realiza desbridamiento quirúrgico y tratamiento antibiótico con meropenem. Se envían adenopatías sospechosas a Anatomía Patológica. Al mes, reingresa de nuevo por fiebre.
+
+Examen físico
+Al ingreso, paciente febril, con temperatura de 38 oC. Hemodinámicamente estable, y con buen estado general. Abdomen blando y depresible, no doloroso a la palpación superficial ni profunda. No signos de irritación peritoneal. A nivel de la región inguinal derecha, cicatriz de herniorrafia reciente indurada, eritematosa y con supuración purulenta en el tercio inferior. Adenopatías inguinales bilaterales. Cordón testicular derecho engrosado.Tacto rectal: próstata grado II/IV, aumentada de consistencia, sin zonas fluctuantes ni nódulos.
+
+Pruebas complementarias
+• Analítica sanguínea: no se objetiva deterioro de la función renal. Leve neutrofilia sin leucocitosis.
+• Sedimento urinario: piuria masiva que impide diferenciación celular.
+• Urocultivo: Klebsiella pneumoniae multirresistente.
+• Tomografía computarizada (TC): diástasis del pubis con colección de 4 cm que se extiende desde la próstata. Colección inguinal derecha con trayecto fistuloso hacia la superficie cutánea y adenopatías inguinales bilaterales.
+• Resonancia magnética (RM): diástasis del pubis con signos de destrucción de la sínfisis. Colección periprostática que se extiende en sentido anterior ocupando el espacio de la diástasis púbica.
+• Las resecciones uretrales prostáticas previas mostraron cambios atribuibles al tratamiento. Necrosis coagulativa y focal e inflamación mixta, con ausencia de neoplasia residual.
+• Las adenopatías inguinales se correspondieron con linfadenitis reactiva e hiperplasia folicular linfoide. Extensa inflamación aguda y crónica del tejido perinodal, con áreas de abscesificación.
+
+Diagnóstico
+Absceso prostático postcrioterapia de rescate con afectación de partes blandas y diástasis del pubis. Infección crónica por Klebsiella pneumoniae.
+
+Tratamiento
+Informado el paciente de la necesidad de desbridamiento y drenaje quirúrgico, con posibilidad de lesión rectal y vesical, este rechaza cualquier tipo de derivación urinaria con segmento intestinal. Paciente previamente incontinente, acepta la opción de talla vesical permanente.
+Se realiza de forma programada, con la colaboración del Servicio de Traumatología, una exploración quirúrgica, en la que se evidencia rarefacción ósea a nivel del pubis y ramas ilio e isquiopubianas. Fibrosis periprostática y perivesical intensa. Restos prostáticos adheridos a la vejiga, sin plano de clivaje.
+Previa liberación vesical y de la cara posterior del pubis, se procede a realizar osteotomía de los restos de la sínfisis del pubis y ramas ilio e isquiopubianas. Disrupción uretral de tejido friable a nivel del diafragma pélvico que impide la reanastomosis primaria. Sutura de la pared vesical lesionada y cistostomía suprapúbica. Cobertura antibiótica con meropenem y transfusión intraoperatoria de dos concentrados de hematíes.
+
+Evolución
+Como única incidencia postoperatoria, presenta una fístula urinaria con diuresis a través del drenaje pélvico que se resuelve de forma conservadora, manteniendo el mismo hasta la inversión del débito. Deambulación e inicio de fisioterapia y rehabilitación precoz durante el ingreso. Completa el tratamiento antibiótico, permaneciendo afebril en todo momento, y con negativización de los urocultivos. El paciente fue dado de alta a los 24 días de la cirugía, precisando únicamente para la deambulación la ayuda de un bastón. Se realizaron radiografías simples de pelvis y una TC de control, sin persistencia de colecciones residuales. Actualmente, el paciente camina sin ayuda y es independiente para las actividades de la vida diaria, presenta un estado funcional excelente y realiza una vida activa.
+La anatomía patológica del espécimen enviado en la cirugía, correspondiente a los fragmentos óseos, fue informada como fragmentos de tejido osteomuscular con infiltrado inflamatorio crónico aislado y amplias áreas de fibrosis pericortical y medular. Ausencia de infiltración neoplásica.

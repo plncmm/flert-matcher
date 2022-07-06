@@ -1,0 +1,15 @@
+Anamnesis
+Varón de 52 años de edad que acude a consulta por una lesión ulcerada escrotal de forma ovalada de 1,5 cm. Intervenido de vasectomía hace 10 años como único antecedente de interés.
+
+Exploración física
+Masa ulcerada no supurativa que afecta a 1-2 cm de piel escrotal junto a rafe medio. Testículos y cordón espermático de aspecto normal, no dolorosos a la palpación.
+
+Tratamiento
+Se decide realizar la extirpación/biopsia de la lesión bajo anestesia local, con la sospecha de granuloma secundario a vasectomía como primer diagnóstico. Se realiza la exéresis completa, comprobando la ausencia de afectación de planos profundos.
+Anatomía patológica: melanoma maligno con índice de Clark 4 y espesor de Breslow > 7 mm. Bordes quirúrgicos libres. Se puede observar en la zona de la biopsia una zona pigmentada residual donde se había ulcerado el melanoma que confluye con la cicatriz de vasectomía previa en el rafe medio.
+Tras solicitar el estudio de extensión (tomografía computarizada [TC] y gammagrafía ósea), que resultó negativo, se revisa la literatura médica, y en decisión conjunta con los Servicios de Dermatología y Oncología, se opta por realizar la biopsia del ganglio centinela y en función del resultado, mantener actitud expectante o proceder a realizar linfadenectomía inguinal.
+Para la identificación del ganglio centinela se inyectó un radioisótopo, tecnecio 99- sulfuro de antimonio, en los cuatro puntos cardinales de la lesión. Posteriormente se realiza la linfoscintigrafía dinámica y estática, observando aquellos ganglios a los que primero drena el trazador para marcarlos como "puntos calientes". Ya en quirófano, se realiza la detección del ganglio centinela con la ayuda de una sonda de detección gammagráfica y una gammacámara. El resultado intraoperatorio fue negativo, por lo que se decidió no realizar la linfadenectomía.
+La detección del ganglio se llevó a cabo mediante inyección de radiosótopo y ganglio centinela resecado.
+
+Evolución
+El paciente comenzó tratamiento con interferón durante 6 meses, tiempo durante el cual se realizó el seguimiento a cargo de Oncología mediante una TC semestral y una radiografía de tórax. Durante el primer año el paciente se encuentra libre de enfermedad y no ha visto alterada su calidad de vida. A los 18 meses se detectan en la radiografía metástasis pulmonares; el paciente fallece a los 3 meses.

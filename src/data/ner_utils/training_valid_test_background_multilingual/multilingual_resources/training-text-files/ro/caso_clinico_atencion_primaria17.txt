@@ -1,0 +1,35 @@
+Motivul consultării
+Ginerele pacientei a sunat la Centrul de Sănătate pentru a-i cere medicului de familie să vină la ea acasă, deoarece o găsea ciudată. Cu două zile mai devreme, se prezentase la medicul de familie pentru dispnee și febră, unde i s-a pus diagnosticul de bronșită acută prin radiografie toracică și s-a început un tratament cu antibiotice.
+
+Abordare individuală (anamneză, examinare, teste complementare)
+Anamneză: pacienta este o femeie în vârstă de 84 de ani, neagă reacții alergice la medicație, hipertensivă (care a întrerupt din proprie inițiativă medicația antihipertensivă), dislipidemică, anticoagulată în FA cu acenocumarol. Neagă obiceiurile toxice. ABVD independent.
+
+La sosirea la domiciliu, pacientul a fost găsit obnubilat, cu un nivel scăzut de conștiență, în plus față de devierea colțului gurii și pierderea forței în emisfera stângă. Era afebrilă.
+S-a decis transferul pacientei cu o ambulanță cu asistență medicală la Departamentul de Urgențe al spitalului și a fost monitorizată în permanență. Codul de accident vascular cerebral a fost activat.
+La sosirea la spital, starea ei nu se schimbase. Cu toate acestea, în timpul examinării fizice, pacientul a început cu o febră de 38,8oC.
+
+Examinarea fizică:
+- Stare generală normală, paloare a pielii, eupneică în repaus. Febră de 38,8oC de novo. TA 156/94.
+- ACR: Aritmic la o frecvență bună, fără murmure. MVC, fără sunete patologice.
+- ECG: FA la 70 bpm. Axa normală. QRS îngust. Nu există semne de repolarizare.
+- Neurologice: tendință de a dormi, limbaj disarticular, deși dificil de explorat. PINLA. ECMO. Hemianopsie omonimă stângă la amenințare. Tendința neforțată a privirii spre dreapta. Paralizie facială stângă. Slăbiciune la nivelul membrelor stângi cu tonus prezent, deși dificil de explorat din cauza lipsei de colaborare. Brudzinski și Kerning îndoielnici.
+
+Teste complementare:
+- Hemogramă: leucocite 19,19x10e9/L, neutrofile 17,5x 10e9/L, limfocite 0,8x 10e9/L, glucoză 130, sodiu 134, creatinină 0,91, CRP 70, INR 2,08. Urina nu este patologică.
+- CT craniană și angiografie CT: fără modificări patologice.
+- Puncție lombară: 1150 celule cu 84% PMN, 310 proteine, 35,6 glucoză, Gram pozitiv pentru listeria.
+
+Abordarea familială și comunitară
+Pacient în vârstă care trăiește singur, până în acest moment a fost ABVD. Sprijin familial bun. Nivel socio-economic mediu.
+
+Judecata clinică (listă de probleme, diagnostic diferențial).
+
+Diagnostic diferențial:
+- STROKE. Inițial, din cauza antecedentelor de hipertensiune netratată și a examenului neurologic, diagnosticul a fost orientat către un accident vascular cerebral. Apariția febrei și o angiografie CT și CT normală au dus la o schimbare de opinie către o boală infecțioasă.
+- Meningoencefalită bacteriană. Focalizarea neurologică și febra au indicat spre o patologie infecțioasă, care a fost confirmată ulterior prin puncție lombară și testul Gram.
+
+Judecata clinică: meningoencefalită bacteriană.
+
+Planul de acțiune și evoluția
+Pacientul a fost transferat la secția de medicină internă. Acolo a fost monitorizată și s-a început tratamentul empiric cu ceftriaxonă+ampicilină+vancomicină+dexametazonă iv și tratament antipiretic.
+După începerea tratamentului, starea generală a pacientei s-a îmbunătățit treptat, iar în prezent este sănătoasă și fără sechele ale episodului.

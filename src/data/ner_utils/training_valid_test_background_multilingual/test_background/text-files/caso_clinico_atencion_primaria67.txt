@@ -1,0 +1,31 @@
+Motivo de consulta
+Se presenta el caso de un varón de 24 años de edad sin antecedentes personales destacables, que consulta por cuadro de tetraparesia progresiva, precedida una semana antes por cuadro de GEA valorada por su médico de familia, autolimitada tras tratamiento conservador.
+
+Enfoque individual (anamnesis, exploración, pruebas complementarias)
+Se trata de un varón de 24 años con los siguientes antecedentes: Antecedentes familiares: no conocidos.
+
+Antecedentes personales: no RAM conocidas. No fumador. Bebedor ocasional. No otros antecedentes de interés. No tratamiento habitual
+
+Anamnesis: hombre de 24 años consulta por aparición de sensación de calambre o disestesia en pantorrilla derecha en el día anterior, que ha progresado al miembro inferior izquierdo y mano izquierda, convirtiéndose en debilidad muscular que le dificulta la deambulación.
+Destaca cuadro de diarrea y fiebre de dos días de evolución 1 semana antes, autolimitada con tratamiento conservador pautado por su Médico de familia.
+
+Exploración: paciente con buen estado general, consciente, orientado e hidratado.
+Auscultación cardiopulmonar: corazón rítmico y sin soplos. Murmullo vesicular conservado sin ruidos patológicos.
+Exploración neurológica: movimientos oculares extrínsecos conservados con nistagmo horizontal en mirada extrema agotable; pupilas isocóricas normorreactivas; pares craneales conservados. Fuerza en MSD 4/5, MID 4-/5 proximal y 3/5 distal. En MMII 3/5 en flexores de la cadera, 2/5 extensor de la rodilla, 1⁄4 flexión dorsal, 3/5 flexión plantar. Sensibilidad termoalgésica, vibratoria y propioceptiva conservadas. No dismetrías ni disdiadococinesia. ROT conservados y simétricos en MMSS, rotulianos hipoactivos y aquíleos ausentes.
+Ante los hallazgos de la exploración y la sospecha clínica de polineuropatía, tras comprobar que se encontraba estable hemodinámicamente y sin compromiso respiratorio, se deriva a servicio de Urgencias hospitalarias para valoración y estudio.
+
+Pruebas complementarias: a su llegada a urgencias, se realizan:
+TAC craneal: no se aprecian LOES, focos hemorrágicos intraparenquimatosos ni colecciones extraaxiales. No signos de isquemia aguda. Sistema ventricular de calibre normal para la edad del paciente. No desviación de estructuras de la línea media. No se observan otras alteraciones significativas.
+Analítica en urgencias: hemograma normal. Bioquímica normal salvo CPK 269. Coagulación normal. Punción lumbar: LCR con 3 células mononucleares, resto normal. Gram negativo. Cultivo negativo. ENG-EMG: signos compatibles con polirradiculoneuropatía axonal motora pura.
+Serologías negativas para VIH, CMV, borrelia. Inmunizado frente VhB, rubeola y sarampión. Autoinmunidad: Ac antiRo-52 positivo moderado.
+Analítica reglada: hemograma, bioquímica y coagulación normal. Función hepática normal. Función tiroidea, vitamina B12 y fólico normales.
+
+Juicio clínico (listado de problemas, diagnóstico diferencial)
+Según los hallazgos del EMG se concluye Polineuropatía axonal motora pura, compatible con Síndrome de AMAN.
+La evolución clínica del AMAN suele ser más grave ya que en muchas ocasiones los pacientes suelen requerir ventilación mecánica. Sin embargo, no existe déficit sensorial. En la mayoría de casos, la AMAN se produce tras una infección con cepas de C. jejuni que causan enteritis. Se asocia con la presencia de anticuerpos antigangliósidos anti-GM1, que confieren peor pronóstico.
+
+Plan de acción y evolución
+El paciente fue ingresado en planta de Neurología donde se le realizó el estudio y se comenzó tratamiento.
+
+Evolución: durante su estancia comenzó con cervicalgia y lumbalgia de origen neurógeno con respuesta a tratamiento con gabapentina. Se decidió comenzar tratamiento con Inmunoglobulinas durante 5 días, con buena tolerancia.
+Tras el tratamiento presentó una lenta mejoría motora. Ha realizado fisioterapia. No ha presentado disautonomía, disfagia ni disnea. Actualmente en seguimiento por su Médico de Atención Primaria y de baja laboral hasta su completa recuperación, para lo cual asiste a sesiones de Rehabilitación.

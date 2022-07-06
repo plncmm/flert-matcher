@@ -1,0 +1,85 @@
+Anamnesis
+Varón de 59 años de edad que en el año 2007, con 54 años, sufrió un traumatismo lumbar con fractura vertebral y lesión medular a nivel metamérico C3 de grado incompleto (ASIA C).
+Acude al Servicio de Urología de su hospital de referencia para la revisión anual. Al interrogatorio refiere micción involuntaria en colector asociada a nicturia de 2-3 veces al día, polaquiuria y urgencia miccional.
+
+Exploración física
+Sensibilidad perineal disminuida, tono anal normal, reflejo bulbocavernoso presente y control voluntario también presente. El tacto rectal mostró la existencia de una próstata fibroelástica grado II/IV.
+
+Pruebas complementarias
+• La ecografía renal es informada como normal.
+• En la cistouretrografía miccional seriada se observa un eflujo vesicoureteral izquierdo grado I y un residuo postmiccional aumentado. Ante la aparición de un reflujo vesicoureteral se consideró necesario realizar un estudio videourodinámico, cuyos resultados son los que se muestran a continuación:
+• Flujometría:
+– Flujomáximo:9ml/s.
+– Volumenmiccional:113ml.
+– Residuopostmiccional:14ml.
+– Actividad EMG durante la micción: incremento intermitente.
+• Fase de llenado (cistomanometría):
+– Capacidadvesical:376ml.
+– Presióndellenado:1cmH2O.
+– Contracción involuntaria del detrusor a partir de los 360 ml con sensación de urgencia y con incontinencia.
+– Videocistografíadellenado:
+o Vejiga lisa y uniforme.
+o Cuello vesical cerrado.
+o Ausencia de reflujo vesicoureteral.
+• Fase miccional (estudio presión flujo):
+– Tipodemicción: involuntaria.
+– Flujomiccionalmáximo:10ml/s.
+– Volumenmiccional:401ml.
+– Residuopostmiccional:0ml.
+– Presióndetrusormáxima:130cmH2O.
+– Presióndetrusoraflujomáximo:80cmH2O.
+– NúmerodeAbrams&Grififths:34cmH2O.
+– URA:34cmH2O.
+– Wmáx:19,50uW/mm2.
+– ActividadEMG: incrementointermitente.
+– DURR: incrementoinicialyfinal.
+– Videocistografíamiccional:
+o Vejiga con divertículo lateral.
+o Buena apertura del cuello vesical. o Elongación de la uretra prostática. o Reflujo vesicoureteral izquierdo.
+El diagnóstico urodinámico fue:
+• Hiperactividad del detrusor.
+• Micción no coordinada.
+• Micción compensada.
+• Contractilidad normal.
+• Obstrucción orgánica del tracto urinario inferior.
+• Reflujo vesicoureteral activo involuntario.
+
+Tratamiento y evolución
+Ante el diagnóstico de obstrucción orgánica del tracto urinario inferior, y teniendo en cuenta la presencia de un reflujo vesicoureteral izquierdo activo involuntario, se decidió someter al paciente a resección transuretral de próstata. El resultado anatomopatológico fue de hiperplasia nodular adenomatosa, sin datos de malignidad.
+A los tres meses de la cirugía el paciente acude a revisión refiriendo micción voluntaria con episodios de urgencia. Se realiza un nuevo estudio videourodinámico de control, cuyo resultado fue el siguiente:
+• Flujometría:
+– Flujomiccionalmaximo:15ml/min.
+– Volumenmiccional:100ml.
+– Residuopostmiccional:9ml.
+– Actividad EMG durante la micción: incremento intermitente.
+• Fase de llenado (cistomanometría):
+– Capacidadvesical:285ml.
+– Presióndellenado:1cmH2O.
+– Contracción involuntaria del detrusor a partir de los 200 ml con sensación de urgencia y con incontinencia.
+– Videocistografíadellenado:
+o Vejiga lisa y uniforme.
+o Cuello vesical cerrado.
+o Ausencia de reflujo vesicoureteral. • Fase miccional (estudio presión flujo):
+– Tipodemicción: involuntaria.
+– Flujomiccionalmáximo:20ml/s.
+– Volumenmiccional:289ml.
+– Residuopostmiccional:0ml.
+– Presióndetrusormáxima:130cmH2O.
+– Presióndetrusoraflujomáximo:34cmH2O.
+– Número de Abrams & Grififths: 6 cm H2O.
+– URA:12cmH2O.
+– Wmáx:15,90uW/mm2.
+– ActividadEMG: incrementointermitente.
+– DURR: incrementoinicialyfinal.
+– Videocistografíamiccional:
+o Vejiga con divertículo lateral.
+o Buena apertura del cuello vesical. o Uretra normal.
+o Ausencia de reflujo.
+El diagnóstico urodinámico fue:
+• Hiperactividad del detrusor.
+• Micción no coordinada.
+• Micción compensada.
+• Contractilidad normal.
+• Ausencia de obstrucción del tracto urinario inferior.
+• Ausencia de reflujo vesicoureteral.
+Con el diagnóstico urodinámico de hiperactividad del detrusor sin obstrucción urinaria se instaura tratamiento anticolinérgico.

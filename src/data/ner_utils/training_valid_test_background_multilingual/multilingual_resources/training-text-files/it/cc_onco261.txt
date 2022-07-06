@@ -1,0 +1,23 @@
+Storia personale: uomo di 36 anni. Solita buona salute. Nessuna allergia ai farmaci. Nessun trattamento abituale. Fumatore 10 pacchetti/anno. Bevitore leggero. Sposato e un rivenditore di elettronica.
+
+Anamnesi: Nel novembre 2014, ha iniziato con una febbre di 38o, nessuna tosse, nessuna espettorazione, così è andato al Dipartimento di Emergenza ed è stata eseguita una radiografia del torace, che ha rivelato una massa nel lobo superiore destro (LSD) del polmone.
+
+Esame fisico
+ECOG 0. Anodino.
+
+Test complementari
+CBC (15-12-16): CEA 23.1, CA 19.9 199, HIV negativo. CT (tomografia computerizzata) Torace-addome-pelvi (15-12-14): Massa in LSD di 49 mm. Adenopatie mediastiniche paratracheali destre, ilari omolaterali e subcariniche mediastiniche (10mm). Cisti epatiche semplici segmenti V, VI, VII. Broncoscopia (16-12-14): normale. Broncoaspirato e spazzolatura: BAG negativo guidato dalla CT della massa LSD (22-12-14): adenocarcinoma polmonare. EGFR nativo, ALK traslocato da IHC e FISH. PET CT (tomografia a emissione di positroni) (29-12-14): massa in LSD di 3,4x4,6x3,3 cm con SUV 16,32. Adenopatia mediastinica alta destra 8 mm. SUV 5.15 Adenopatia prevascolare 7 mm. SUV 3.05.
+Adenopatia paratracheale destra alta 8 mm SUV 4.86, adenopatia paratracheale destra bassa 10 mm SUV 8.01, adenopatia ilare destra SUV 5.34. Nei segmenti epatici IV-V immagini iperattive con SUV 3.06 e 3.09.
+Ecografia addominale (02-01-15): Cisti epatiche semplici nei segmenti 5 e 6.
+Risonanza magnetica epatica (07-01-15): Cisti epatiche segmenti V, VI, VII, VIII.
+Ecobroncoscopia (12-01-15): adenopatia inferiore a 1 cm nei livelli 2R con puntura negativa, adenopatia 4R positiva per adenocarcinoma.
+TAC cranica (29-01-15): normale.
+
+Diagnosi
+Il 26-01-15 è stato inviato al nostro servizio, con una diagnosi di adenocarcinoma polmonare LSD, T2a-N2-(ilare e mediastinico omolaterale), M0 Stadio III-A. EGFR nativo, ALK traslocato.
+
+Trattamento
+Abbiamo iniziato il trattamento con CRIZOTINIB 250 mg ogni 12 ore continuamente.
+
+Evoluzione
+Dopo 1 mese di trattamento, è stata eseguita una TAC di rivalutazione (04-03-15) che mostra una riduzione della massa LSD nel range di risposta parziale, una risposta completa dell'adenopatia paratracheale destra e una risposta parziale dell'adenopatia ilare e subcarinica destra. Gli effetti collaterali erano disturbi visivi sotto forma di aura, prevalentemente la sera. Dopo 2,5 mesi di trattamento con CRIZOTINIB, è stata eseguita una PET CT (13-04-15): è stata osservata una risposta metabolica completa delle adenopatie mediastiniche e ilari con una risposta parziale del tumore. Alla luce di questa risposta, il paziente è stato indirizzato al reparto di chirurgia toracica di Salamanca per una valutazione chirurgica dopo la mediastinoscopia. Il 28-04-15 è stata eseguita una mediastinoscopia dei livelli 4L, 4R e 7: negativa. Il 19-05-15 lobectomia LSD e linfoadenectomia di 4R e 7 in videotoracoscopia: ypT1a (15 mm)- pN0-M0. Viene somministrata una radioterapia complementare (inizio 25-08-15/// fine 30-09-15) DT 54 Gy in 27 frazioni. Effetti collaterali: emottisi, odinofagia e dermatite G-1. Il 23-02-16 è stata eseguita la TAC TAP: nessuna evidenza di malattia.

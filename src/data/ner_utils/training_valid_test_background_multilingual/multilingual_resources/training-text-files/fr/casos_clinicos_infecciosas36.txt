@@ -1,0 +1,25 @@
+Une femme de 48 ans avec des antécédents personnels de sténose aortique modérée due à une valve bicuspide calcifiée, hypertension traitée par bêta-bloquants, ex-fumeur, dyslipidémie, migraine, hernie hiatale et allergie aux bêta-lactames.
+
+Le patient a été admis au service de chirurgie cardiaque sur une base programmée pour un remplacement de la valve aortique et l'implantation d'une prothèse aortique St. Jude No 21. La procédure chirurgicale a été rapide, avec des temps de circulation extracorporelle et de clampage aortique de 70 et 60 minutes, respectivement, et aucune complication peropératoire. Dans les 24 heures suivant l'opération, le patient a présenté une hypotension due à un dysfonctionnement biventriculaire léger-modéré et une insuffisance rénale aiguë qui a été contrôlée par des médicaments vasoactifs dans l'unité de soins intensifs (USI). Le jour postopératoire +7, il a commencé à avoir de la fièvre jusqu'à 38o C et des frissons sans autre symptôme ; de la Daptomycine empirique à 10 mg/kg/j a été prescrite. Une hémoculture a isolé un Staphylocoque coagulase négatif (SCN) dans un flacon de deux ; une culture d'urine négative et une échographie transthoracique (ETT) normale 72 heures après l'apparition de la fièvre ; les chirurgiens ont orienté le patient vers le service des maladies infectieuses. Au moment de l'évaluation, le patient était afébrile et asymptomatique. L'anamnèse comprenait le phénomène de Raynaud des années d'évolution, un accident vasculaire cérébral dans sa jeunesse, une fausse couche au premier trimestre et un parent au premier degré qui était décédé d'un accident vasculaire cérébral ischémique. L'examen physique a montré un livedo reticularis intense des membres inférieurs ; et dans l'analyse, seulement une CRP de 12,3 mg/dL. À ce moment-là (jour postopératoire + 12), on a ajouté de la Fosfomycine 24 grammes par jour en 3 doses et de l'Ibuprofène 600 mg toutes les 12 heures par voie orale.
+
+Diagnostic différentiel
+Le diagnostic différentiel dans le cas de notre patient serait celui d'une fièvre postopératoire dans la première semaine postopératoire.
+
+Causes infectieuses
+- Infection des voies urinaires associée à une sonde urinaire.
+- Infection de la plaie chirurgicale
+- Associé à un accès vasculaire (périphérique ou central)
+- Associé au matériel prothétique Causes non infectieuses
+- Problèmes thrombotiques : thromboembolie pulmonaire, thrombophlébite.
+- Réaction transfusionnelle
+- Syndrome post-péricardiectomie.
+- Médicaments suspects (inhibiteurs des récepteurs de la sérotonine, héparine de bas poids moléculaire, AINS, diurétiques, bêta-lactamines, fluoroquinolones, vancomycine).
+- Troubles endocriniens tels que l'hyperthyroïdie ou la crise addisonienne.
+
+
+Évolution clinique
+Une ETO a été réalisée au jour + 13 de l'administration d'antibiotiques, qui a montré un bon fonctionnement de la valve prothétique sans aucun signe de végétation. Le HC au jour + 16 était négatif. Le jour + 20, il a présenté un nouveau pic de fièvre de 37"8 oC et une phlébite d'une voie périphérique, isolant à nouveau le SCN dans les cultures sanguines. Pour cette raison, l'ETO a été répétée le jour postopératoire + 23 où l'on a observé une masse vibratile d'aspect filamenteux dépendant de la paroi aortique d'environ 7 mm de diamètre sur une zone anévrismale de 2"4 cm à 3"6 cm dans l'aorte ascendante, compatible avec une endartérite. L'angiographie par tomodensitométrie thoracique au jour + 24 (+ 12 jours de traitement antimicrobien) a permis d'exclure toute complication au niveau de l'aorte ascendante et de détecter des modifications post-sternotomie et une atélectasie laminaire bibasale avec une condensation bilatérale minime. L'hémoculture de contrôle au jour + 25 était négative. Il a été décidé de maintenir le traitement antibiotique jusqu'à ce que 6 semaines se soient écoulées, étant donné le diagnostic d'une possible endartérite infectieuse. Une étude spéciale de la coagulation a été réalisée, révélant une hétérozygotie pour le facteur XII (position 46), un anticoagulant lupique positif, une glycoprotéine bêta2 IgM - IgG négative. Ensuite, un traitement anticoagulant à base de dicoumarine a été instauré avec un INR cible de 2,5 - 3,5.
+Le patient est resté afébrile et n'a pas connu d'autres incidents ; l'ETO à la sortie de l'hôpital n'a rien révélé de nouveau.
+
+Diagnostic final
+Syndrome fébrile post chirurgie cardiaque, masse intra-aortique dans laquelle une endartérite SCN ou un thrombus intra-artériel ne peuvent être exclus dans le cadre d'un syndrome primaire des antiphospholipides en attente de confirmation 2 ou de marqueurs immunologiques à 6 mois.

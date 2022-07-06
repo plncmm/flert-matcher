@@ -1,0 +1,26 @@
+Anamnesis
+Mujer de 56 años sin antecedentes de interés que acude a Urgencias por presentar desde el día anterior fiebre de 39 oC con dificultad y dolor para tragar, a lo que se añade en la madrugada del ingreso cefalea frontal con vómitos alimenticios y malestar general. Estaba en tratamiento desde el inicio de los síntomas con azitromicina 500 mg (había tomado una única dosis). Además, la paciente comenta que había presentado emisión de contenido líquido nasal transparente de forma esporádica en los movimientos de flexión cervical. A las horas de su estancia en Urgencias su nivel de consciencia disminuyó considerablemente.
+
+Examen físico
+En urgencias: temperatura de 38,6 oC, tensión arterial 133/67 mmHg. Frecuencia cardiaca 82 lpm. Auscultación cardiopulmonar normal. Orofaringe: placa pultácea en la amígdala derecha. Examen neurológico: normal excepto tendencia al sueño y discreta rigidez de nuca
+
+Pruebas complementarias
+• Hemograma: leucocitos 10.000/mm3 (neutrófilos 9.930/mm3). Coagulación y bioquímica: sin alteraciones.
+• Líquido cefalorraquídeo (LCR): turbio, presión de apertura 42 cm H2O. Leucocitos 3.521 (mononucleares 5%, polimorfonucleares 95%), hematíes 50 céls./microl, glucorraquia no detectable. Proteinorraquia 354 mg/dl. Gram: cocos gram positivos en cadena. Aglutinaciones: positiva para Streptococcus pneumoniae. Cultivo positivo para Streptococcus pneumoniae.
+• Tomografía computarizada (TC) craneal sin y con contraste: parénquima normal.
+
+Diagnóstico
+Meningitis neumocócica.
+
+Tratamiento
+Cefotaxima 2 g intravenosa durante 14 días y corticoides los 2 primeros días. Quimioterapia y trasplante autólogo de sangre periférica.
+
+Evolución
+Antes de realizar la punción lumbar se pautaron 2 g de cefotaxima endovenosa y corticoides debido a la situación clínica de la paciente, que durante el ingreso prosiguió tratamiento con cefotaxima y paracetamol durante 14 días. Evolucionó favorablemente, siendo dada de alta asintomática, excepto por una leve cefalea holocraneal postural. Posteriormente acudió a revisión en consultas de Neurología a los 3 meses, presentaba leves cefaleas y persistía la licuorrea franca. Se le realizó una TC de la base del cráneo, donde no se observaron defectos en el suelo de la fosa craneal anterior ni media, así como una RM craneal con angio-RM del polígono de Willis, encontrándose un cavernoma incidental en el hemisferio cerebeloso izquierdo, pero ninguna evidencia de origen de fístula de LCR. Seis meses después es estudiada por el Servicio de Nefrología por proteinuria, encontrándose una hipercalcemia (12 mg/dl), paratohormona intacta 23,8 pg/ml y anemia, siendo derivada al Servicio de Hematología, donde se completó el estudio:
+• Analítica: proteínas totales en sangre 11,1 g/dl. Proteínas: inmunoglobulina G 6.450 mg/dl, cadenas ligeras lambda 13 mg/dl, cadenas ligeras kappa 1.690 mg/dl. Proteínas en orina: proteínas totales 279 mg/24 h.
+• Proteinograma en sangre: pico monoclonal en fracción gamma.
+• Proteinograma en orina negativo.
+• Citometría de flujo: células plasmáticas 2,9%. Fenotípicamente patológicas 99%.
+• Aspirado de médula ósea: infiltración de células plasmáticas de un 30% de características aberrante. Serie ósea: negativa.
+
+La paciente fue diagnosticada de un mieloma múltiple IgG Kappa e hipercalcemia secundaria al mieloma.

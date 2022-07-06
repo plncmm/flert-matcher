@@ -1,0 +1,68 @@
+A 42-year-old male with HIV-1 infection in stage C3 due to a prior pneumonia caused by cystis jirovecii, with poor therapeutic compliance.
+She had received several antiretroviral treatment lines: initially efavirenz, emtricitabine and tenofovir disoproxil fumarate, later darunavir, co-administered emtricitabine and tenofovir disoproxil fumarate, and ultimately tenofovir disoproxil fumarate.
+Natural of the Czech Republic, Spain had received uninterrupted recognition in the last 15 years.
+He worked as a caregiver for horses and other domestic animals (dogs).
+He was a smoker of 11 packs/year and a drinker of 40 g of alcohol a day.
+She did not report any drug allergies.
+She came to the emergency department with a one month history of progressive fever of up to 39oC, associated with dyspnea on moderate exertion, chest pain of pleuritic characteristics and brownish sputum.
+Physical examination revealed temperature of 38.2oC, AT 90/50 mmHg, SatO2 92% breathing room air and net feeling of disease, being well perfused and hydrated, and eupneic at rest.
+No cervical, supraclavicular, axillary or inguinal lymphadenopathies were detected.
+He had multiple verrucous lesions in upper and lower limbs, and lesions compatible with muguet in the oropharynx.
+He was conscious, oriented, with normal language and cranial nerves, no meningeal signs and normal muscle balance and osteotendinous reflexes.
+The cardiac tones were rhythmic without murmurs and vesicular murmur was preserved without appreciating overlapping sounds.
+The abdomen was blade, without masses, visceromegaly or signs of peritoneal irritation.
+He had no edema and pulses were symmetrical.
+▁Complementary tests performed in the emergency room showed hemoglobin of 13.6 g/dl, 9.160 leukocytes/mm3 with▁lymphopenia (230 lymphocytes/mm3) and 316,300 platelets/mm3.
+The biochemical study was normal except for C-reactive protein (CRP) of 6.26 mg/dl (normal up to 0.5 mg/dl).
+Urinary sediment showed no abnormalities.
+A chest X-ray showed a cavitary condensating lesion in the right upper lobe (RUL).
+The electrocardiogram showed sinus rhythm at 98 beats per minute with no changes in repolarization.
+Given the complementary tests, the patient was diagnosed with cavitated pneumonia in LSD, with a score of 42 on the FINE scale.
+He was admitted to Internal Medicine ward for treatment and diagnostic study in respiratory isolation.
+A microbiological study was performed, requesting hemorrhaging, Legionella spp antigenuria and pneumococcus, serial sputum smears and sputum culture (conventional bacteria culture and long-standing fluorescence for Pi immunofluorescence).
+The serology of Mycoplasma spp., Chlamydia spp., Brucella spp., Toxoplasma gondii, hepatotropic virus (HAV, HBV and HCV), cytomegalovirus and loes was completed.
+Lymphocyte subpopulations and HIV viral load were also requested.
+Empirical antibiotic treatment was initiated with ceftriaxone 2 g every 24 hours and clindamycin 600 mg every 8 hours, waiting for microbiological results.
+Differential diagnosis In this case, we must take into account some important aspects to establish a correct differential diagnosis.
+Firstly, it is a patient with HIV infection whose immunovirological situation is unknown, since this is a patient with irregular follow-up in consultation and especially close contact with horses who has relevant epidemiological backgrounds (sometimes directed against others).
+The reason for the patient's consultation and the analytical and radiographic findings lead us to orient towards an infectious etiology as the first diagnostic hypothesis.
+There are several pathogens to consider.
+P. jirovecii.
+The clinical presentation is very diverse, from a normal chest X-ray to diffuse, interstitial, asymmetrical and irregular alveolar infiltrates, predominantly in the upper lobes.
+The most important risk factor is immunosuppression with less than 200 CD4/mm3 lymphocytes.
+Bacterial pneumonia.
+There are several microorganisms that could be involved, including Streptococcus pneumoniae, Haemophilus influenzae, Pseudomonas aeruginosa, Rhococcus equi and Haemophilus nonsteroides.
+In relation to cavitated pneumonia, it is important to consider, mainly, R. equi and N. asteroides, especially if the course is subacute or chronic and with a very low level of CD4 lymphocytes extrapulmonary, and especially in patients.
+Cavitated pneumonia due to P. aeruginosa can be fulminant especially if associated with bacteremia.
+Other agents implicated could be Staphylococcus aureus, Moraxella catalysis, Mycoplasma pneumoniae, Chlamydia pneumoniae or Neisseria meningitidis.
+Tuberculosis.
+Mycobacterium tuberculosis remains one of the opportunistic agents that most frequently affect patients with acquired immunodeficiency syndrome (AIDS).
+Apical infiltrates and cavitated disease can be observed, as well as atypical infiltrates, pleural effusions, miliary disease or normal chest X-ray.
+Nontuberculous mycobacterial infections, especially Mycobacterium avium-intracellulare (MAI) and Mycobacterium kansasii.
+Active infection by these pathogens should be suspected when the patient has a severe immunosuppression (less than 50 CD4/mm3 lymphocytes).
+The chest X-ray can show diffuse and local infiltrates, cavitated lesions, nodules, etc.
+Fungal infection
+Among the agents that could cause cavitated pneumonia we consider Cryptococcus neoformas, Histoplasma capsulatum, Coccidioides immitis, Penicillium marneffei, Aspergillus fumigatus and others
+Parasitic infection.
+To highlight T. gondii as an opportunistic agent in patients with less than 100 CD4/mm3 lymphocytes.
+J. E. vestiofluorescence antigenuria of pneumococcus and Legionella were negative, serology was negative for Brucella, T. gondii, HAV, HBV, HCV and loci were negative, and
+Computed tomography (CT) scan revealed a mass compatible with pneumonia that had become manifest in LSD, consistent with the image on the previous chest X-ray.
+In the immunovirological study, 217 total lymphocytes/mm3 were observed, representing 13 CD4/mm3 lymphocytes (6%) and 80 CD8/mm3 lymphocytes, with HIV viral load of 113,526 copies/ml.
+Antibiotic prophylaxis was initiated with trimethoprim/methoprim-methoprim-methoprim-mettoxazol (TMP/SMX) 160/800 mg three times a week.
+After five days of hospitalization, the provisional result of sputum culture was received, showing abundant growth of R. equi.
+Serial bacilliococci were negative.
+Antimicrobial treatment was modified, directed according to the antibiogram, to imipen 500 mg every 6 hours, clarithromycin 500 mg every 12 hours and rifampicin 600 mg every day, leaving the patient at 48 hours suffering from constipation.
+The definitive report of sputum culture revealed the isolation of a parasite from Serratia plymuthica, so clarithromycin was suspected by levofloxacin.
+After this change in antimicrobial therapy, the patient began again with high fever, which disappeared when clarithromycin was restarted.
+After one week of antibiotic treatment, antiretroviral treatment was restarted, which the patient had voluntarily suspended during the previous seven months, with emtricitabine, tenofovir disoproxil fumarate and raltegravir.
+Ten days after starting antibiotic treatment, the patient developed generalized pruritus and redness in the face, neck and lower limbs, as well as worsening of her skin lesions.
+Analytically this progressive disease was eliminated, so imipenem, TMP/SMX and clarithromycin were discontinued, starting antihistamine treatment with 25 mg of hydroxycin daily.
+TMP/SMX and clarithromycin were then reintroduced without incidents, and oral linezolid 600 mg was added every 12 hours.
+The patient had no new rash episodes and the absolute count and percentage of▁eosinophils normalized.
+Biopsy of one of the previously described cutaneous lesions was performed, with negative culture and smear, and anatomopathological diagnosis of psoriasiform dermatitis.
+Pathological diagnosis was made considering lesions compatible with nodular pruritus and topical▁steroids.
+After three weeks of parenteral treatment, the patient showed significant clinical improvement, so he was discharged with clarithromycin and rifampicin until the next visit.
+Final diagnosis▁Right upper lobe cavitated pneumonia caused by Rhococcus equi.
+HIV infection in stage C3.
+Oral candidiasis.
+Pathways to the physique

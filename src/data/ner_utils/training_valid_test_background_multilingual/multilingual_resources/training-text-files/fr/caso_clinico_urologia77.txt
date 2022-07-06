@@ -1,0 +1,29 @@
+Anamnèse
+Un homme de 76 ans avec des antécédents de diabète sucré, d'hypertension artérielle, de fibrillation auriculaire anticoagulé avec de l'acénocoumarol, qui s'est présenté au service d'urologie avec un tableau clinique de 6 mois d'évolution, caractérisé par un nodule sur la tige du pénis.
+
+Examen physique
+La palpation a révélé un nodule de 1 cm entourant une grande partie du corps caverneux. Au toucher rectal, la prostate était palpée avec un lobe droit pierreux et un lobe gauche induré. Les adénopathies locorégionales n'étaient pas palpables.
+Tests complémentaires
+- Hémogramme : leucocytose de 12,81 mil/mm3 avec lymphocytose relative de 31,2%.
+- Biochimie sanguine : glucose 147 mg/dl, créatinine 1,38 mg/dl.
+- Sédiment sanguin et urinaire : leucocytes 20-30/champ. Bactériurie modérée.
+
+- Culture d'urine : > 100 000 UFC/ml de Citrobacter koseri.
+- B-HCG < 1,2 IUI/ml.
+- Antigène carcinoembryonnaire 1,29 ng/ml.
+- Alpha-fœtoprotéine 3,41 ng/ml.
+- Antigène spécifique de la prostate (PSA) : 26,48 ng/ml.
+- CA 19,9 11,95 UI/ml.
+- CA 15,3 7,5 U/ml.
+- Échographie du pénis : dans les corps caverneux droits, il y a un nodule de 1 cm de diamètre, hypoéchogène. A la base du pénis, il y a un autre nodule, situé entre le corps spongieux et le corps caverneux gauche, mesurant 2 cm, bilobé et hypoéchogène. Les deux lésions sont hautement vascularisées.
+- Tomographie thoraco-abdominale (CT) : altérations au niveau du parenchyme pulmonaire, en relation avec des images de bulles et de nodule de caractéristiques indéterminées dans le poumon gauche. Prostate élargie (5 cm), avec des calcifications à l'intérieur.
+- Imagerie par résonance magnétique (IRM) pelvienne : deux nodules de 2 et 3 cm d'axe maximum ont été identifiés sur la face postérieure du pénis, infiltrant les corps caverneux, principalement le gauche et le corps spongieux, avec une intensité de signal légèrement élevée dans toutes les séquences par rapport au signal des corps caverneux, avec un rehaussement intense dès les phases initiales de l'étude dynamique. Dans la prostate, à droite de la région périphérique, au niveau de la base et de la zone moyenne, on identifie une masse qui provoque une altération du signal, s'étendant à la capsule prostatique à cet endroit, affectant également la vésicule séminale du même côté.
+
+Diagnostic
+Adénocarcinome de la prostate avec métastases synchrones au niveau du pénis.
+
+Traitement
+Le traitement a commencé par le bicalutamide en association avec l'acétate de leuproreline.
+
+Evolution
+Une biopsie du nodule pénien a été effectuée. L'étude anatomopathologique a rapporté une biopsie du corps caverneux avec une infiltration de carcinome. L'étude immunohistochimique a montré que le néoplasme était positif pour la vimentine, le CD10, le Cam-5.2 et la racémase ; il était négatif pour les cytokératines (CK7, CK20 et CK5/6), l'uroplakine, la phosphatase alcaline placentaire, le CD117, le PSA et le facteur de transcription thyroïdien 1 (TTF-1). La lésion suggère une origine rénale en raison de la présence de cellules claires (vimentine et CD 10 +) ; en outre, les tumeurs urothéliales et prostatiques avec néoplasie intra-épithéliale prostatique doivent être écartées en raison du marqueur racemase +. L'examen tomodensitométrique n'a montré aucune lésion évocatrice d'une tumeur primaire dans le rein. Une résection transurétrale de la vessie a été effectuée, ainsi qu'une cytologie urétérale et des biopsies de la prostate guidées par échographie transrectale. Pendant la période peropératoire, on a observé une rigidité de l'urètre pénien en relation avec les métastases et un certain priapisme. Il a évolué lentement mais favorablement dans la période postopératoire, avec une hématurie qui s'est résorbée avec les mesures conservatrices habituelles. Un traitement par blocage hormonal (bicalutamide) a été mis en place pendant son séjour. Le rapport d'anatomie pathologique a montré un adénocarcinome de la prostate, score de Gleason 8 (3 + 5). La sonde vésicale a été retirée, et il est sorti en bon état général, après avoir uriné spontanément des urines non hématuriques. Par la suite, un traitement a été mis en place avec de l'acétate de leuproreline. Il présente actuellement une diminution de l'antigène spécifique de la prostate, qui est de 1,17 ng/ml, et le niveau précédent de 26,48 ng/ml.

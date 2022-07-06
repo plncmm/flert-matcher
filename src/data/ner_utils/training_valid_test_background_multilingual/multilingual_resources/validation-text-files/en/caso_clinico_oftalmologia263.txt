@@ -1,0 +1,31 @@
+Anamnesis
+This is a 37-year-old woman with a personal history of acute myeloid leukaemia and bone marrow aplasia. She had recently been admitted to the Intensive Care Unit (ICU) for a long period due to sepsis caused by Serratia.
+
+Reason for consultation
+After waking up from the induced coma, she reported a decrease in bilateral visual acuity (VA), more marked in the right eye (OD).
+
+Examination and complementary tests
+The patient's general condition was poor, she was somewhat dazed and did not cooperate very well in the examination.
+The VA in the OD was 0.1 difficult and in the left eye (LA) 0.5-0.6. Ocular pressure was 15 mmHg in both eyes. Biomicroscopy of the anterior segment showed no findings of interest. Anterior chamber cells were absent in both eyes.
+Fundus examination (FO) of the OD showed intense vitritis and a whitish raised macular lesion with 3 papillary areas, surrounded by a haemorrhagic halo. In the FO of the OI, there was scant vitreous cellularity and a macular lesion of similar appearance to that of the OD.
+Optical coherence tomography (OCT) of the FO had a poor quality signal due to vitreous opacity. The OCT of the OI showed an overelevated lesion with medium reflectivity in the inner retina and hyporeflectivity in the outer retina, which we interpreted as a "posterior shadow" phenomenon.
+
+Differential diagnosis and procedures
+Given these findings in a patient with a history of severe haematological disease, sepsis and a long stay in the ICU, we considered the following differential diagnosis:
+- It could be a recurrence of acute myeloid leukaemia with bilateral macular involvement and vitreous infiltration.
+- Or there could have been a bilateral macular haemorrhage and vitreous haemorrhage (somewhat haemolysed), associated with bone marrow aplasia.
+- Finally, we considered the possibility of endogenous endophthalmitis with bilateral macular involvement, possibly due to Serratia, which was the causative agent of the sepsis he suffered, or perhaps due to Candida, due to the long period in which he had carried an intravenous catheter, all associated with his state of immunosuppression due to medullary aplasia.
+
+At that time, we ordered blood tests and magnetic resonance imaging (MRI) with gadolinium of the brain and orbits, and performed a diagnostic pars plana vitrectomy (PPV) 23 G of the OD.
+
+We consulted the haematology department, which ruled out the possibility of performing a bone marrow biopsy due to the patient's poor general condition. However, a lumbar puncture was performed.
+
+RESULTS
+Culture of the vitreous specimen was negative for bacteria and fungi. Pathology, cytology and immunohistochemistry were negative for malignancy. Only the presence of red blood cells could be detected.
+The results of the blood test were of no interest. The presence of pancytopenia was detected, which was already known. Lumbar puncture did not support a recurrence of acute myeloid leukaemia. MRI of the brain and orbits showed no significant findings.
+
+EVOLUTION
+Given the results, we decided to maintain a wait-and-see attitude and observe the evolution, which was favourable. After several weeks, we were able to appreciate the bilateral spontaneous resolution of the picture. In the OCT scan of the O.D., thickening of the detached internal limiting membrane in the foveal area was observed.
+
+CLINICAL JUDGEMENT
+We consider this to be a case of bilateral macular haemorrhage associated with vitreous haemorrhage in a critically ill patient with pancytopenia.

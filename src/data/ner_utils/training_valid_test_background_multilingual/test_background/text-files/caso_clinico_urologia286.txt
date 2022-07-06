@@ -1,0 +1,27 @@
+Anamnesis
+Paciente varón de 27 años de edad, sin antecedentes médicos ni quirúrgicos de interés, acude al Servicio ce Urgencias por dolor abdominal difuso, vómitos ocasionales y fiebre intermitente de hasta 38 oC, de predominio vespertino, desde hace 2 meses aproximadamente. Hasta ahora la clínica mejoraba con paracetamol, pero desde hace unos días ha notado un importante empeoramiento. Además, refiere dolor leve en el testículo izquierdo y hematospermia desde hace 6 meses aproximadamente.
+
+Exploración física
+A su llegada a Urgencias el paciente se encuentra apirético y normotenso. Auscultación cardíaca sin alteraciones. A la auscultación respiratoria destaca la presencia de crepitantes en ambas bases pulmonares. El abdomen es blando y depresible, doloroso a la palpación en el epigastrio y la fosa ilíaca izquierda, sin palpar masas ni organomegalias. Exploración genital: teste izquierdo intraescrotal, no doloroso a la palpación, de tamaño y consistencia dentro de la normalidad; teste derecho intraescrotal, no doloroso a la palpación, destaca un aumento de consistencia respecto al teste contralateral, sin alteraciones en la forma; ambos epidídimos sin alteraciones palpables, no dolorosos a la exploración.
+
+Pruebas complementarias
+• Analítica sanguínea urgente: bioquímica, proteína C reactiva (PCR) 9,54 mg/dl, resto sin alteraciones.
+• Hemograma: 12.940 leucocitos/mm3 (80% neutrófilos, 8,8% linfocitos), hemoglobina 11,2 g/dl, hematocrito 32%, 197.000 plaquetas/mm3. Resto de parámetros dentro de la normalidad.
+• Coagulación sin alteraciones.
+• Analítica de orina sin alteraciones.
+• Radiografía de tórax: múltiples nódulos pulmonares bilaterales, imagen en suelta de globos.
+• Ecografía testicular: lesión intratesticular derecha de márgenes bien definidos, de 3,2 x 2,8 cm de diámetro máximo de patrón mixto con calcificaciones excéntricas y vascularización de predominio periférico. Teste izquierdo sin alteraciones.
+• Ante la sospecha de un tumor testicular metastásico, el paciente ingresa para completar el estudio.
+• Tomografía computarizada (TC) tóraco-abdómino-pélvica: afectación pulmonar metastásica con múltiples nódulos pulmonares bilaterales. Lesiones hipodensas hepáticas sugestivas de metástasis. Se observan dos grandes masas retroperitoneales infrarrenales, la derecha colapsa posteriormente la cava y comprime el uréter, ocasionando leve dilatación ureteropielocalicial proximal. La masa izquierda es heterogénea, de aspecto infiltrante, atrapando el uréter ipsilateral, condicionando dilatación ureteropielocalicial. No lesiones óseas sospechosas.
+• TC craneal: en el lóbulo temporal izquierdo se aprecia un nódulo de 0,8 cm que podría corresponder a metástasis.
+• Marcadores tumorales iniciales: alfafetoproteína 5,3 ng/ml; beta-gonadotropina coriónica humana (b-HCG) 400.068 mUI/ml.
+
+Diagnóstico
+Tumor testicular de células germinales metastásico.
+
+Tratamiento
+Con los datos de los que disponemos podemos clasificar este tumor como Tx N3M1b, estadio IIIC, categoría S31. Ante estos hallazgos, y dado lo avanzado de la enfermedad, se inicia tratamiento con quimioterapia (bleomicina, etopósido y cisplatino) y se realiza una orquiectomía inguinal derecha.
+
+Evolución
+El estudio anatomopatológico del teste extirpado revela que se trata de un teratoma inmaduro limitado al testículo sin invasión vascular que afecta a la túnica albugínea pero no a la vaginal, sin invasión de rete testis de 2,5 cm de diámetro, por tanto se trata de un tumor testicular de células germinales no seminomatoso pT1N3M1b según la clasificación TNM, estadio IIIC, categoría S3. El paciente evoluciona satisfactoriamente, aunque desarrolla algunas complicaciones secundarias a la quimioterapia. En los análisis de sangre de control se objetiva un marcado descenso de la b-HCG hasta llegar a niveles de 0,5 mUI/ml a los 6 meses de tratamiento. La TC de control que se realiza a los 3 meses objetiva la desaparición de la lesión endocraneal y la reducción del número y tamaño de las metástasis pulmonares, pero confirma la persistencia de las adenopatías retroperitoneales, por lo que se decide la exéresis quirúrgica de dichas lesiones2. Esta cirugía se lleva a cabo pasados cuatro meses del inicio de la quimioterapia, siendo imposible la resección completa, ya que la masa izquierda engloba e infiltra los grandes vasos. El análisis histopatológico confirma que se trata de metástasis de teratoma inmaduro con zonas de necrosis masiva.
+Actualmente, un año después del inicio del cuadro clínico, el paciente se encuentra estable y es controlado trimestralmente con marcadores tumorales, radiografía de tórax y TC abdómino-pélvica.

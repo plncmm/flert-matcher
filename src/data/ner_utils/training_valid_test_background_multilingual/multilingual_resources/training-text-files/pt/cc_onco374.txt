@@ -1,0 +1,32 @@
+Anamnese
+Os inibidores da tirosina quinase (TKIs) têm sido uma revolução no tratamento de doentes com cancro do pulmão não-mutado por EGFR. No entanto, a sua utilização não está isenta de riscos, alguns deles ameaçadores de vida.
+Apresentamos aqui o caso de uma mulher de 64 anos com síndrome depressiva a ser tratada com venlafaxina, mirtazapina e diazepam como a única história pessoal de interesse. Não tem hábitos tóxicos e é independente nas actividades básicas da vida diária, vive com o seu marido e leva uma vida activa. Ela não tem qualquer história familiar de interesse.
+O paciente consultou o departamento de gastroenterologia em Outubro de 2007 para dores epigástricas não específicas. Ela nega sintomas respiratórios, síndrome constitucional ou quaisquer outros sintomas adicionais.
+
+Exame físico
+O exame físico revelou apenas dor ligeira à palpação no epigástrio, sem outras descobertas significativas.
+
+Testes complementares
+- Análise e gastroscopia completa do sangue (Outubro de 2007): sem alterações.
+- Radiografia ao tórax (Outubro de 2007): nódulo pulmonar solitário no lobo inferior esquerdo.
+Com esta descoberta, ela foi encaminhada para Pneumologia, onde o estudo foi completado:
+- Thoracoabdominal CT scan (Novembro de 2007): nódulo patológico no segmento 6 do lobo inferior esquerdo, medindo 2,8 x 3,2 cm, associado a gânglios linfáticos hilares ipsilaterais, sem outras alterações relevantes.
+- Testes de função respiratória (Novembro de 2007): pequeno padrão de obstrução das vias aéreas.
+- Broncoscopia (Janeiro de 2008): compressão extrínseca no segmento 6 esquerdo.
+- Citologia e biópsia transbrônquica (Janeiro de 2008): nenhuma evidência de infiltração tumoral.
+- Cultura micobacteriana (Janeiro de 2008): negativa.
+Foi decidido um seguimento próximo e foi realizado um novo TAC ao tórax no início de Abril de 2008, onde o nódulo no lobo inferior esquerdo permaneceu estável, mas foi observada uma ligeira progressão adenopática hilar esquerda, bem como o aparecimento de uma adenopatia paraesofágica esquerda. A 18 de Abril de 2008, uma lobectomia inferior esquerda e uma linfadenectomia por videotoracoscopia foram realizadas sem complicações pós-operatórias.
+A anatomia patológica foi relatada como adenocarcinoma mal diferenciado de origem pulmonar de 1,6 cm, com infiltração de pleura visceral e invasão vascular como factores de mau prognóstico.
+
+Diagnóstico
+Adenocarcinoma de origem pulmonar no lóbulo inferior esquerdo estágio UICC pT2aN0M0 (IB).
+
+Tratamento
+Após a cirurgia, foi encaminhada para o Departamento de Oncologia Médica. Como esta era uma fase localizada, o tratamento adjuvante foi rejeitado, uma vez que não houve benefício para o doente.
+
+Evolução
+Na primeira reavaliação do TAC toracoabdominal (Setembro de 2008), observou-se o envolvimento de gânglios linfáticos mediastinais e pleurais (implantes pleurais esquerdos e efusão pleural). A recidiva foi confirmada pela citologia do líquido pleural, que foi positivo para adenocarcinoma de origem pulmonar, e estamos actualmente na fase cTxcN2pM1 (fase IV) da UICC. A pleurodese foi realizada e o tratamento sistémico foi iniciado com cisplatina intravenosa 75 mg/m2 no dia 1 e gemcitabina intravenosa 1250 mg/m2 nos dias 1 e 8 a cada 21 dias, recebendo 6 ciclos entre Setembro de 2008 e Janeiro de 2009. Os efeitos adversos incluíram náuseas e vómitos de grau 3, diarreia de grau 2 e astenia de grau 1 (para a qual a dose foi reduzida para 80% a partir do 2º ciclo) e neutropenia febril de grau 2 (forçando um atraso de uma semana na administração do 6º ciclo). Foi alcançada uma resposta quase completa, excepto no que diz respeito aos implantes pleurais residuais, pelo que começou a dar seguimento com check-ups. Uma TAC toracoabdominal em Junho de 2009 mostrou a progressão do tumor no mediastino, cadeias linfonodais pleurais e infradiafragmáticas no abdómen superior (ligamento retrocrural e gastro-hepático). Foi decidido iniciar o tratamento no âmbito do ensaio clínico SCAT, recebendo 3 ciclos de trabecção em 1,5 mg/m2 dia 1 cada 21 dias entre Julho de 2009 e Agosto de 2009. O único efeito adverso foi a astenia grau 1. Deixou o ensaio devido à progressão adenopática a nível mediastinal, axilar e retroperitoneal superior, bem como implantes no peitoral esquerdo, pleura, adrenal esquerda, musculatura paravertebral esquerda e osso ilíaco direito.
+O estudo EGFR foi solicitado, com o resultado do EGFR mutado, pelo que em Setembro de 2009 iniciou o tratamento com erlotinib 150 mg por dia. A toxicidade era diarreia e erupção cutânea de grau 2, mucosite nasal e ligeiras alterações nas unhas. Na primeira reavaliação CAT scan após 3 meses, foi observada uma resposta radiológica completa, que foi mantida nos check-ups subsequentes.
+A 14 de Abril de 2012, o paciente assistiu ao departamento de urgências por dispneia, dor pleurítica no hemitórax esquerdo, tosse seca e febre de até 38oC durante uma semana. A angiografia excluiu o tromboembolismo pulmonar agudo. Os testes de imagem mostraram extensas áreas irregulares de vidro moído com áreas de fibrose predominantemente nos lobos inferiores, não visíveis em tomografias anteriores. Apesar das nebulizações com brometo de ipratrópio e salbutamol, oxigenoterapia e corticoterapia de alta dose (sob suspeita de que os sintomas eram um efeito secundário do tratamento), piperacilina-tazobactam e voriconazol (devido à possibilidade de os infiltrados serem de origem fúngica), a paciente progrediu desfavoravelmente, com um aumento progressivo do envolvimento respiratório até à sua morte a 28 de Abril de 2012.
+O exame post mortem revelou alterações morfológicas graves nos pulmões compatíveis com danos alveolares difusos evoluídos juntamente com focos com um padrão de bronquiolite obliterante/pneumonia organizada na ausência de sinais específicos de infecção, linfangite carcinomatosa ou edema pulmonar cardiogénico. As alterações pulmonares referidas foram descritas na literatura em associação com o tratamento com erlotinibe e são consideradas, neste caso, como a causa fundamental da morte.
+

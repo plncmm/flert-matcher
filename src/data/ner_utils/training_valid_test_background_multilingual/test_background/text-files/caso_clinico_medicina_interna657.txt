@@ -1,0 +1,19 @@
+Varón de 56 años con antecedentes a destacar de diabetes mellitus tipo 2 con lesión de órgano diana (retinopatía, pie diabético y enfermedad renal crónica estadio V en hemodiálisis con catéter tunelizado), hipertensión, dislipemia, hiperuricemia y arteriopatía periférica. El paciente había sido sometido a tres desbridamientos quirúrgicos del pie izquierdo (el último 10 días previo al ingreso, por lo que se encontraba en tratamiento con Levofloxacino).También recibe Ácido fólico, AAS, Bisoprolol, Omeprazol, Furosemida, Amitriptilina, Hidroxicina, Deflazacort 15mg, Nitroglicerina transdérmica e Insulina bolo-basal.
+El paciente ingresa en planta de Medicina Interna por fiebre con tiritona asociada de tres días de evolución, que comenzó tras la última sesión de diálisis. A su ingreso se evidencia leucopenia de 1220 células/ml, anemia de 9.7g/dl y trombopenia de 67.000 células/ml. Estas alteraciones se atribuyen inicialmente a cuadro séptico, comenzando tratamiento empírico con Vancomicina+Ceftazidima.
+El pie no mostraba signos de infección aguda. La radiografía de tórax y sedimento urinario resultaron normales. Se extrajeron hemocultivos diferenciales del catéter tunelizado así como muestras del pie, sin obtener aislamiento. Ante la ausencia de foco, se realiza punción lumbar, previo TAC de cráneo normal, obteniendo LCR sin alteración alguna. Se realiza ecocardiografía transesofágica sin signos de endocarditis. Se solicitaron serologías para VIH, sífilis, VHA, VHB, VEB, CMV, Fiebre Q, Leishmania, VHS, VVZ, Parvovirus B19, pendientes de resultado.
+
+Diagnóstico Diferencial
+- Virasis
+- Zoonosis
+- Alteraciones hematológicas
+- Neoplasia
+- Enfermedades infiltrativas
+- Enfermedades autoinmunes
+- Hemocromatosis
+- Síndrome hemofagocítico
+- Toxicidad farmacológica
+Se obtienen resultados de bioquímica con hipertrigliceridemia (403mg/dl), fibrinógeno bajo (135mg/dl), ferritina de 17.162 μg/dl y se realiza ecografía abdominal objetivando hepatoesplenomegalia. Ante la alta sospecha de SHF se solicita aspirado de médula ósea (MO), que muestra hipocelularidad con alteraciones morfológicas eritroides inespecíficas. Actividad hemofagocítica en la mitad de los macrógafos. La citometría de flujo mostró eritroblastopenia sin alteraciones inmunofenotípicas.
+Iniciamos tratamiento con bolos de Dexametasona 10mg/m2 con muy buena respuesta inicial. Reaparece fiebre y citopenias a los 4 días. Finalmente nos informan de cultivo positivo para Leishmania en MO y serología positiva, resto negativas. Se suma al tratamiento Anfotericina B Liposomal con respuesta lenta pero favorable.
+
+Diagnóstico Final
+Síndrome Hemofagocítico Secundario a Leishmaniasis Visceral

@@ -1,0 +1,27 @@
+Anamnesis
+Mujer de 46 años con antecedente de cáncer de mama erbB2+ estadio IV por metástasis óseas en columna dorsolumbar en tratamiento con anastrozol y trastuzumab desde abril de 2007. Sin otras enfermedades ni tratamientos crónicos. No antecedentes oncológicos familiares.
+En febrero de 2008 comienza con sensación de plenitud precoz pospandrial, hiporexia, pérdida de 6 kg de peso en los últimos tres meses y vómitos con intolerancia a la alimentación oral.
+
+Pruebas complementarias
+• Hemograma y bioquímica de sangre: normal; a excepción de anemia ferropénica (hemoglobina 9,9 g/dL; ferritina 6 ng/mL).
+• Gastroscopia: presencia de lesión estenosante y ulcerada en antro gástrico. Histología: adenocarcinoma gástrico tipo difuso de Lauren, poco diferenciado y con células en anillo de sello.
+• TC toracoabdominopélvica: presencia de dos metástasis hepáticas (2,1 y 0,7 cm, respectivamente), ovario derecho patológico con aumento de su diámetro sin poder descartarse un cáncer sincrónico y persistencia de las metástasis óseas del cáncer de mama en columna dorso-lumbar ya conocidas y sin evidencias de progresión.
+• Marcadores tumorales: CEA 21 UI/mL (normal <5); CA-19.9 472 UI/mL (normal <37); CA-72.4 146 UI/mL (normal<4); CA-15.3 normal.
+
+Diagnóstico
+En abril de 2008, se decidió resección quirúrgica dado que el tumor causaba una obstrucción casi completa con imposibilidad para la ingesta oral. En el mismo acto quirúrgico, se realizó una biopsia de las lesiones hepáticas, confirmándose que se trataba de metástasis del cáncer gástrico.
+Asimismo, fue necesario realizar anexectomía y ooforectomía derechas y resección de un implante peritoneal, dejando enfermedad tumoral peritoneal subcentimétrica.
+El estadio patológico fue IV [pT4 pN2 (cinco ganglios afectos de 29 analizados) M1 (extensión hepática, ovárica y peritoneal)].
+Se trata, por tanto, de un cáncer tipo Krukenberg (metástasis en ovario de cáncer de estómago).
+
+Tratamiento
+En mayo de 2008 acude a consulta al Servicio de Oncología Médica para valorar tratamiento quimioterápico.
+Dado que el cáncer de mama de la paciente presentaba sobreexpresión de erbB2, se decidió estudiar esta en el cáncer de estómago para valorar la conveniencia de un abordaje terapéutico útil para ambos tumores. Se confirmó una sobreexpresión de erbB2 en el cáncer gástrico resecado, Hercep Test Kit aprobado por la FDA positivo intenso, 3+, por lo que se pautó trastuzumab 6 mg/kg peso trisemanal (dosis carga 8 mg/kg peso) asociado con el esquema de quimioterapia estándar en primera línea en nuestro servicio cisplatino 70 mg/m2 iv día 1 + capecitabina 850 mg/m2/12 horas vo días 1-14 cada 21 días, basado en los resultados del estudio fase III de Kang, et al., que mostró la no inferioridad de capecitabinacisplatino respecto a 5-FU-cisplatino1.
+
+Evolución
+Tras seis ciclos de quimioterapia, en septiembre de 2008, tomográficamente mostró una respuesta mínima de las metástasis hepáticas sin visualizar enfermedad peritoneal (hallazgo quirúrgico). Los marcadores se normalizaron. La paciente mantenía una vida activa e independiente, pero con toxicidad hematológica y emesis grado 2.
+Desde el séptimo al decimoséptimo ciclo continuó con capecitabina y trastuzumab, suspendiéndose el cisplatino por mala tolerancia y toxicidad acumulativa en forma de neuropatía. Tras el decimoséptimo ciclo, se confirmó una respuesta completa por criterios RECIST de las metástasis hepáticas, persistiendo las metástasis óseas del cáncer de mama. En este momento se decide continuar con trastuzumab y anastrozol sin quimioterapia hasta el vigesimotercer ciclo dado que el síndrome palmo-plantar y la toxicidad cutánea eran grado 2 a pesar de la intensa hidratación y la toma de levadura de cerveza enriquecida en vitamina A y E 1 comprimido al día.
+En octubre de 2009, a los 17 meses desde el inicio de la quimioterapia y a los cinco meses de suspender la capecitabina se constató una progresión peritoneal con atrapamiento del uréter izquierdo e infiltración de útero y ovario homolateral. A pesar de persistir la respuesta completa de las metástasis hepáticas se consideró irresecable, por lo que se inició oxaliplatino 120 mg/m2 iv día 1 + capecitabina 1.000 mg/m2/12 horas vo días 1-14 + trastuzumab 6 mg/kg peso iv día 1 cada 21 días. Dada la buena respuesta previa a cisplatino y capecitabina se reinició el mismo esquema sustituyendo el cisplatino por oxaliplatino por el riesgo de toxicidad renal agravado por la lesión tumoral de la vía renoureteral izquierda.
+El oxaliplatino había demostrado la no inferioridad respecto a cisplatino en los estudios fase III REAL3 y Esta pauta se administró durante 5 ciclos hasta progresión –entre diciembre de 2009 y marzo de 2010–. En ese momento, se confirmó la aparición de nuevas metástasis óseas en columna dorsal, aumento del marcador Ca-15.3 y la progresión peritoneal.
+La paciente mantenía un buen estado general por lo que se decidió administrar un esquema activo en ambos tumores, mama y estómago, con paclitaxel 80 mg/m2 iv semanal y lapatinib 1.250 mg/24 horas vo, que recibió entre mayo y agosto de 2010, estabilizándose inicialmente la enfermedad con mejoría clínica hasta progresión a nivel hepático y peritoneal.
+En septiembre de 2010 la paciente falleció, siendo la supervivencia global de su cáncer gástrico estadio IV y de su cáncer de mama estadio IV de 28 y 41 meses, respectivamente.

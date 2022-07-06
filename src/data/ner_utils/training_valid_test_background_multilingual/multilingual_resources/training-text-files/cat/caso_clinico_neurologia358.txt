@@ -1,0 +1,24 @@
+Anamnesi
+Home de 28 anys d'edat, ballarí natural d'Israel, amb antecedents personals d'infecció per virus de la immunodeficiència humana (VIH) en el 2008 sense tractament actual, consumidor ocasional de cocaïna i alcohol. Va ingressar en Medicina Interna per un quadre clínic de parestèsies en el hemicuerpo dret al costat d'alteració visual després de previ consum d'1 g de cocaïna. Es van realitzar una tomografia computada (TC) cranial i una ressonància magnètica (RM) cerebral, que van mostrar una lesió isquèmica aguda en el territori posterior (tàlem esquerre). Es va completar l'estudi amb una angio-RM cerebral, que no va mostrar troballes. Es va objectivar càrrega viral de 200.000 còpies i CD 4 647 cèl·lules. Va ser donat d'alta amb una cuadrantanopsia superior dreta com a seqüela i tractament amb estatina. Dues setmanes després acudeix al Servei d'Urgències per presentar un nou episodi de hemihipoestesia facial i hemicorporal dretes.
+
+Exploració física
+A la seva arribada a Urgències s'objectiva tensió arterial 120/80mmHg, freqüència cardíaca 80 lpm, afebril. L'exploració general per aparells va resultar normal. L'exploració neurològica va demostrar la presència d'una cuadrantanopsia superior dreta (secuelar), hipoestesia algésica hemifacial dreta en la segona i la terecera branques del trigemin i en el hemicuerpo dret, i dismetría en la prova dit-nas en l'extremitat superior dreta. La resta de l'exploració va ser normal.
+
+Proves complementàries
+• Hemograma: normal amb fórmula leucocitària adequada, velocitat de sedimentació globular 46 mm/h.
+• Bioquímica: lactat deshidrogenasa 722 UI/l (230-460), descens de transferrina, hormones tiroidals alterades (TSH 5,36 μUI (0,5-4,7), T3l 2,73 pg/ml (2,77-5,27). Proteinograma: pic monoclonal feble en la zona gamma.
+• Estudi de coagulació i trombofilia: mínima elevació de fibrinogen i dèficit de proteïna S lliure, sent la resta normal (incloent proteïna C, anticoagulant lúpic, factor V de Leyden i antitrombina).
+• autoimmunitat: anticossos anticardiolipina IgG feblement positius (22,6 UGPL/ml), IgM negatiu ANCA, factor reumatoide, inmunocomplejos circulants, ANA, anti- DNA, anti-B2 glicoproteïna negatius. 
+• Serologies: VEB IgG positiu, hepatitis A IgG positiu; Treponema, toxoplasma, citomegalovirus, hepatitis B i C negatius. Càrrega viral VIH-1: 177.930 còpies; CD 4 432 cèl·lules/μl, no resistència genotípica a antiretrovirals.
+• Electrocardiograma i monitoratge 48 hores: ritme sinusal, bloqueig de branca dreta ja conegut.
+• Radiografia de tòrax i ecocardiograma transtorácico normals.
+• La TC cranial objectiva lesions hipodensas irregulars a la regió parasagital occipital esquerra i en la substància blanca del lòbul temporal esquerre, compatibles amb lesions isquèmiques subagudes-cròniques.
+• La nova RM cerebral mostra l'aparició d'una nova lesió focal en el tàlem esquerre hiperintensa en TR llarg i marcada restricció en difusió, la qual cosa suggereix isquèmia aguda- subaguda. Ressonància magnètica cerebral, seqüència potenciada en difusió: lesió isquèmica aguda en el tàlem esquerre.
+• Es va repetir una angio-RM intracranial, que va determinar absència de visualització de la ACP esquerra des del seu origen, sent la dreta permeable. Angio-RM: absència de visualització de la ACP-esquerra des del seu inici. ACP-dreta permeable.
+• Punció lumbar: glucosa 49 mg/dl, proteïnes 66 mg/dl, 40 leucòcits/mm3 (80% mononuclears) i 90 hematies /mm3. Cultiu: negatiu per a bacteris i micobacterias, reacció en cadena de la polimerasa de enterovirus i d'herpes simple 1 i 2 negatives; VDRL negatiu; citologia: mostra acel·lular.
+
+Diagnòstic
+Isquèmia cerebral de repetició en probable relació amb vasculopatia associada a VIH. Hipergammaglobulinemia, dèficit de proteïna S, anticossos anticardiolipina IgG feblement positius.
+
+Tractament i evolució
+Es va iniciar teràpia antiretroviral amb darunavir, ritonavir i tenofovir més emtricitabina i antiagregació amb àcid acetilsalicílic 100 mg, després de la qual cosa no ha tornat a sofrir nous episodis, persistint lleu atàxia del membre superior dret.

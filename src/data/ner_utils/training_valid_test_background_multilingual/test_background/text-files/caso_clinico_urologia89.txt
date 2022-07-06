@@ -1,0 +1,23 @@
+Anamnesis
+Paciente de 56 años de edad sin antecedentes de interés, que consulta en Urología por síntomas irritativos miccionales sin hematuria. En el estudio se observaron citologías con células displásicas, realizándose biopsias vesicales con resultado de carcinoma vesical in situ (Cis) difuso, por lo que se inició tratamiento con instilaciones con bacilo Calmette-Guerin (BCG) endovesical.
+Unas horas tras la tercera instilación acude a Urgencias por presentar intensa sintomatología miccional, con afectación del estado general, sensación distérmica, sudoración profusa y fiebre de hasta 38,5 oC, que cede con antitérmicos.
+
+Examen físico
+A la exploración física en Urgencias presentaba una frecuencia cardiaca de 116 lpm, tensión arterial 86/44 mmHg y temperatura de 38,5 oC. Abdomen blando y depresible, doloroso a la palpación en el hipogastrio, sin signos de irritación peritoneal ni defensa. Puñopercusión renal bilateral negativa. Tacto rectal con próstata dolorosa a la palpación, sin irregularidades. Testes normales.
+En la analítica se aprecia leucocitosis importante (20.000 μl), desviación izquierda, coagulopatía, fallo renal (creatinina de 3,49 mg/dl) y elevación de la proteína C (90 mg/l). La ecografía abdominal y la radiografía de tórax eran normales.
+
+Pruebas complementarias
+• Debido a la inestabilidad hemodinámica, y ante la sospecha de sepsis de origen urológico, ingresa en la Unidad de Cuidados Intensivos (UCI) para inicio de tratamiento antibiótico, previa solicitud de hemocultivo, urocultivo y cultivo de Lowestein en sangre y orina, que a posteriori fueron negativos.
+• A la semana, y tras la buena evolución inicial, aunque con persistencia de picos febriles, comenzó con expectoración hemoptoica, sin dolor torácico y desaturaciones nocturnas (saturación de oxígeno ambiental de 85-87%). A la auscultación presentaba hipoventilación generalizada con crepitantes bibasales. En una nueva radiografía de tórax se observó condensación mal definida bibasal y patrón intersticial en vidrio deslustrado.
+• Por ese motivo se solicita una tomografía computarizada (TC) torácica, en la que se observa afectación intersticio-alveolar del parénquima pulmonar.
+• Se solicita valoración por el Servicio de Neumología, quienes solicitan citologías por lavado broncoalveolar, con resultado de linfocitosis y cultivo de micobacterias de esputo, que fueron negativas.
+• También se realizó una broncoscopia con biopsia, la cual correspondía a una neumonitis intersticial celular con granulomas por hipersensibilidad secundaria a BCG (similares a los existentes en la tuberculosis pulmonar clásica).
+
+Diagnóstico
+Ante los hallazgos se realiza el diagnóstico de neumonitis intersticial secundaria a BCG.
+
+Tratamiento
+Se inicia tratamiento con triple terapia antituberculosa: isoniazida, rifampicina, etambutol y corticoterapia.
+
+Evolución
+El paciente presenta buena evolución, encontrándose asintomático al término de la terapia.

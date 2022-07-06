@@ -1,0 +1,56 @@
+We report the case of a 40-year-old male, born in Romania, who suffered a psychiatric disorder in Spain for three months, without known drug allergies.
+He was a smoker, with an accumulated consumption of 20 packs/year and habitual drinker of alcohol.
+She did not take medication, nor did she mention any other relevant personal or family history.
+She was brought to the Emergency Department due to vomiting, first with food content and later somewhat darker, along with marked general▁malaise and abdominal pain.
+On physical examination, the patient showed regular general health status, hypotension (TA: 97/56 mmHg), a frequency of 107 beats per minute, SatO2 with no supplementary oxygen supply of 98% and a temperature of 36.2 oC.
+The patient presented mild tachypnea, cutaneous dryness and conjunctival ignition, without the objective of asterixis.
+Cardiopulmonary auscultation revealed rhythmic, tachycardic tone without murmurs and a vesicular murmur preserved.
+The patient complained of widespread pain with abdominal palpation, without showing any masses or enlargement and without signs of peritoneal irritation.
+The rest of the examination showed no other abnormalities, including rectal examination, which was negative.
+Emergency blood count revealed a leukocytosis of 22,140 cells/μL (93.5% neutrophils and 4.5% lymphocytes), platelet count 84,000/μL and hemoglobin within normal range (16 g/dL).
+Urgent biochemistry showed renal failure (Cr 3.32 mg/dL), with normal urea and creatinine, total bilirubin 7.7, dL, ALT 2125.5 U/L45, lactate 572 mg/mLn/LDH, 1dL
+Arterial gas showed pH 7.16, HCO3- 8 mmol/L, base excess -19.3 mmol/L and pCO2 21 mmHg.
+It also showed coagulopathy data (PT INR 8.1 and TTPA 58.7 seconds).
+The chest X-ray was normal and the abdominal ultrasound showed an enlarged liver with smooth contours and homogeneous echogenicity, without lesions.
+He was finally admitted with the suspicion of acute liver failure in the Intensive Care Unit.
+Serology was performed for HIV, HAV and HBV, including HBV DNA, which were negative.
+Also, HCV antibodies and RNA were also negative.
+In the following days, the patient had an episode of melena, as manifestation digestive hemorrhage.
+Differential diagnosis The aetiology of acute liver failure is diverse.
+Infectious, drug-related, ischemic, metabolic, malignant or autoimmune diseases should be considered as the main possibilities.
+Our patient and his family denied taking medication, including paracetamol, or herbal products in the last time.
+She also consumed mushrooms recently.
+Therefore, we could exclude almost completely the etiology of the aetiological diagnosis, mainly Amanita phalloides, from the pharmacological etiology and diagnosis.
+Our patient had a history of alcohol intake, which makes us think of alcoholic hepatitis as a probable cause of the condition.
+In contrast, hepatomegaly and ascites, which are usually present in hepatitis of enolic etiology, and which were absent in the examination of our patient, would be present.
+In addition, in our case, very high ALT levels were present, when ALT does not usually increase more than 500 U/L in alcoholic hepatitis.
+Therefore, it does not seem to be the most probable cause, although we cannot rule out it altogether.
+Our patient shows hypotension, which can lead to hypoperfusion, ischemic hepatitis and acute liver failure.
+However, no other pathology other than liver damage that would have triggered ischemic hepatitis, such as heart failure, infectious focus originating from sepsis, was observed.
+The patient presents abdominal pain, although without ascites or hepatomegaly, being therefore the Budd Chiari syndrome a cause that must be taken into account, although not probable.
+Copper-deposit disease ( Wilson's disease), is usually diagnosed at younger ages than our patient and it is characteristic that is accompanied by hemolytic anemia, which does not present, and alkaline decreased levels.
+Therefore, it does not seem to be the most probable etiology.
+Another cause is Reye's syndrome, which usually occurs in the pediatric population with a viral process and taking a medication, which can rule out this possibility almost completely.
+Our patient has no history, lymphadenopathy, or other exploratory data suggestive of malignant neoplasm.
+In cases of liver failure, the most common primary tumors in which we should consider are metastatic breast cancer, very rare in men, and lymphoma.
+All this makes these two entities, unlikely causes.
+Autoimmune hepatitis is also included in the etiologic diagnosis of our case.
+However, this disease usually has a more chronic-subacute course, and presentation as fulminant hepatitis is rare.
+Usually, they are accompanied by other autoimmune disorders extrahepatitis, which our patient does not present.
+Therefore, it is not a probable option.
+Among viral infections other than HAV, HBV and HCV, we should consider HEV, which has an increasing seroprevalence in developed countries.
+In Spain, the prevalence of antibodies is around 10%.
+Therefore, we must take it into account in cases of unrelated hepatitis, such as our patient, regardless of the history of travel.
+Other viruses and infectious agents that cause hepatitis, but which have been very occasionally associated with liver failure, burnt virus (cytomegalovirus), Epsteinella virus CoxVie type 5HVetti virus, are described as herpesvirus (B),
+Our patient had an episode of upper gastrointestinal bleeding in the context of liver failure.
+ESR is associated with involvement of the digestive mucosa, which could be related to the origin of the melenas presented by our patient.
+However, ESR is a very rare cause of fulminant hepatitis in immunocompetent patients and neither did our patient present mucocutaneous rash. However, ESR should be considered as a probable cause in our differential diagnosis.
+Ev seated on an urgent oral endoscopy showed an erythematous mucous, very friable on the cheek, with some milimetric ulcers.
+At the distal esophagus level, extensive and deep ulcerations of geographical aspect and fibrin were observed, with involvement of cardia.
+These findings were interpreted as severe colitis with dubious etiology, the viral cause being the most probable option.
+Serology was also extended with HDV, HEV, ESR, CMV, EBV positive toxoplasma gondii, Rimetsia spp, and Coxiella burnetti, all negative, IgG and IgM.
+Autoimmunity was negative.
+Treatment with intravenous antibiotics was started at a dose of 750 mg every 8 hours, with our patient showing an evident improvement since its introduction and maintaining a satisfactory evolution until complete resolution of the disease.
+Finally, the study based on hematoxylin-eosin and immunohistochemistry of the esophageal biopsy confirmed the herpetic etiology of meningitis, showing intense and extensive immunostaining for ESR.
+Final diagnosis HSV-1 infection with colitis and acute hepatitis.
+Fulminant liver failure in this context.

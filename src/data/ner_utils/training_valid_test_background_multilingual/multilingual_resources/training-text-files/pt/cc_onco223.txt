@@ -1,0 +1,30 @@
+Anamnese
+Mulher de 65 anos com intolerância ao tramadol e admissão na UCI em Agosto de 2007 devido a sepse urinária causada por Escherichia coli. Intervenções cirúrgicas anteriores: fixação da coluna dorsal devido a cifoscoliose.
+Diagnosticado em Janeiro de 2008 por TAC torácica, PET, broncoscopia e subsequente lobectomia superior esquerda com linfadenectomia de adenocarcinoma pulmonar pT2pN0 (0/8) M0.
+Seguimento, sem evidência de doença, até 11 de Setembro, quando a recorrência foi documentada por PET/CT sob a forma de dois nódulos pulmonares em que o FNA foi realizado com um relatório anatomopatológico de adenocarcinoma. Em vista disto, uma pneumonectomia esquerda mais linfadenectomia foi realizada com um relatório anatomopatológico de 2,4 cm de adenocarcinoma bem diferenciado que respeita a pleura visceral e os bordos cirúrgicos, sem envolvimento de gânglios linfáticos e EGFR mutante.
+Em 13 de Fevereiro foi observada uma recorrência sob a forma de um nódulo pulmonar no LSD juntamente com a adenopatia paratraqueal inferior direita. Dado o risco de complicações, foi excluída uma nova biópsia e o Gefitinib foi indicado nas doses habituais, 250 mg diários, com uma resposta radiológica completa, tanto por TC como por PET, e com excelente tolerância.
+Durante o seguimento, e sendo totalmente assintomática, a absorção patológica nos gânglios linfáticos mediastinais foi detectada pela PET em 15 de Dezembro.
+
+Exame físico
+-Pressão de insuflação 125/75 mm Hg, ritmo cardíaco 90 batimentos/min, temperatura 37o C, saturação de oxigénio 97%.
+-Consciente e orientada em 3 esferas. Não hidratado, normoperfused e cor normo. Eupneic em repouso. IK 80
+-Cabeça e pescoço: pressão venosa jugular normal, sem adenopatia.
+-Cesto: auscultação cardíaca: rítmica sem murmúrios. Auscultação pulmonar: hipoventilação hemifield esquerdo. Cicatrizes de intervenções anteriores correctas
+-Abdomen: Suave, não doloroso. Sons hidroaéreos positivos.
+-Extremidades inferiores: Sem edema. Sons paediais positivos.
+
+Testes complementares
+-PET(Dezembro-2015): hipermetabolismo em adenopatias localizadas na região paratraqueal direita alta e baixa (Suv 8.14), prevascular (Suv 3.45), janela aortopulmonar (Suv 7.99) e hilo direito (Suv 7.46), sugerindo recidiva da doença.
+-EBUS 4R e 4L: esfregaço negativo para células malignas. Nódulo linfático com estruturas granulomatosas sem necrose.
+-Mediastinoscopia 4R, 4L e 2L: linfadenite epitelióidea granulomatosa compatível com sarcoidose.
+
+Diagnóstico
+-Sarccoidose mediastinal
+-Adenocarcinoma pulmonar de pulmão com mutação do gânglio linfático EGFR em resposta completa ao Gefitinib
+
+Tratamento
+Dado o diagnóstico de sarcoidose e a ausência de envolvimento sistémico e o facto de o paciente estar completamente assintomático, foi adoptada uma abordagem de espera e de acompanhamento e foi decidido um seguimento.
+No que respeita ao tratamento da neoplasia, foi decidido manter o tratamento com Gefitinib, dada a excelente resposta e tolerância.
+
+Evolução
+Tendo em conta os resultados do PET, e sendo o paciente completamente assintomático, foi decidido completar o estudo por EBUS e posteriormente por mediastinoscopia, a fim de determinar se havia ou não uma recorrência. Curiosamente, o estudo anatomopatológico não mostrou a presença de células malignas, mas sim o contrário, um processo inflamatório, como a sarcoidose. Isto permitiu-nos manter o tratamento com Gefitinib para o nosso paciente, que ainda mantém uma resposta completa até hoje.

@@ -1,0 +1,39 @@
+Reason for consultation
+
+Individual approach (anamnesis, examination, complementary tests)
+Anamnesis: 15-year-old male, with the following history:
+No family history of interest.
+No known drug allergies.
+No cardiovascular risk factors: No HBP, no DM, no DLP.
+No other diseases of interest. No surgical interventions. No active treatment.
+
+The patient came accompanied by his mother to the emergency department of the Hospital Juan Ramón Jiménez (Huelva), referred from his health centre, reporting orange-coloured urine for 3-4 days. He also mentioned pain in the left hypochondrium in the previous days, not present at the time of consultation. Asthenia of two weeks' evolution associated with a fever that had not been measured in previous days. No micturition symptoms. No diarrhoea or constipation. No acholia. She reported isolated vomiting the previous night. No fever. No consumption of risky foods. No consumption of toxic substances or medication.
+
+Physical examination: good general condition, conscious, oriented and cooperative. Non-hydrated and normoperfused. Slight cutaneous-mucosal and conjunctival jaundice. Eupneic at rest.
+BP: 135/73
+SO2: 99%.
+Ta: 38.2oC
+HR: 102 bpm
+- ACP: Rhythmic tones at a good frequency, without murmurs, friction rubs or extratones. VCM without pathological sounds.
+- Abdomen soft, depressible, slightly painful on palpation in the left hypochondrium, with no signs of abdominal defence or peritoneal irritation. Murphy's sign and Blumberg's sign negative. Bilateral percussion fist negative. No hernias, masses or megaliths were palpable. Hydro-aerial sounds present.
+- Neurological: PINLA. ECMO. Cranial nerves preserved. Strength and sensitivity preserved. No gait alterations. No meningeal signs. No signs of neurological focality. Complementary tests
+- Abdominal X-ray: visible psoas lines. Stool and gas in colic frame. Gas in rectal ampulla. No radiological image suggestive of hydro-aerial levels.
+- CBC: Leukocytosis of 17,730 with lymphocytosis of 73.1% and monocytosis of 11.9%; total bilirubin of 3.26 (direct bb 2.52, indirect bb 0.74); LDH of 717; AST 309; ALT 377; in urine, bilirubin and uribilinogen +.
+
+Family and community approach
+15-year-old male, with no personal or family history of interest. He lives with his parents in a poor area of the city of Huelva. His mother works in a company as a cleaner and his father is a day labourer. He has no siblings. Good family support. Medium-low socio-cultural level. Due to the absence of clinical situations of interest so far, she does not undergo active medical follow-up.
+
+Action plan and evolution
+Given the clinical and analytical data previously mentioned, it was decided to extend the analysis by requesting AF, CRP, HCV, HBV, HIV, GGT and an ultrasound scan of the abdomen was requested.
+Of the expanded parameters, the only one of note was a GGT of 250. The serology for the viruses requested was negative. The only significant finding in the abdominal ultrasound was a mild and homogeneous splenomegaly (135mm).
+In this context, and analysing the data obtained in the tests requested, it is important to make a differential diagnosis between several pathological entities.
+Firstly, fever, pain in the right hypochondrium, jaundice, leukocytosis and hyperbilirubinaemia at the expense of direct bilirubin could lead us to suspect a biliary condition, such as cholecystitis. However, in the context of such a picture, an image compatible with biliary lithiasis and positive ultrasound Murphy would most likely have been found on ultrasound.
+On the other hand, the same analytical findings mentioned above, together with the choluria and the increase in GGT could point to a picture of choledocholithiasis/cholangitis. However, in this context, it would be logical to have also found analytical data such as elevated AF (cholestasis enzyme) and ultrasound images of dilatation of the extrahepatic bile duct or image of a stone at the level of the common bile duct.
+Finally, and taking into account the physical examination with pain in the left and right hypochondrium, fever, jaundice, leukocytosis with lymphomonocytosis in requested analyses, together with hyperbilirubinaemia and mild splenomegaly without biliary tract involvement as observed by ultrasound, the most likely diagnosis is Infectious Mononucleosis (although signs and symptoms such as pharyngitis and lymphadenopathy typical of this disease are absent).
+Thus, in view of the clinical and analytical findings and the imaging tests requested, it was finally decided to expand the heterophile antibodies in the analysis, which turned out to be positive.
+
+Clinical judgement (list of problems, differential diagnosis)
+Infectious mononucleosis due to Epstein Barr virus with atypical presentation.
+
+Action plan and evolution in the ED
+During his stay in the Emergency Department, the patient was asymptomatic, accompanied by his mother at all times and presented no adverse events of interest. He was discharged with home treatment of paracetamol 650mg every 8 hours if fever and relative rest for at least one month, with clinical and analytical control by his primary care physician to monitor subsequent analytical normalisation, in addition to abundant hydration and indications for which the ED should be consulted again.

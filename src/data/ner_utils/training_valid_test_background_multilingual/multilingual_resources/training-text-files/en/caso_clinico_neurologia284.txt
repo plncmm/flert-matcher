@@ -1,0 +1,31 @@
+Anamnesis
+A 50-year-old woman with a personal history of herniated discs, one at cervical level, doubly operated on with good evolution, and others at lumbar level L4-L5 and L5-S1 involving the left foraminal recess, under symptomatic treatment.
+
+The patient came to the emergency department three days after having been treated by the Pain Unit with lumbar epidural infiltration of bupivacaine and triamcinolone because she presented postural headache with clear worsening with standing and improvement with decubitus since the treatment was carried out. She was seen by Internal Medicine and discharged with a diagnosis of post-epidural infiltration headache and analgesic treatment and oral caffeine. Five days after visiting the emergency department, the patient was referred back to the hospital by SUMMA for having presented two generalised tonic-clonic seizures, without recovery of the level of consciousness. Given the suspicion of status epilepticus, it was decided to admit her to the Intensive Care Unit. Her family reported that between the two visits to the ED the headache had persisted despite the prescribed treatment, with no change in its intensity or characteristics. The patient had a family history of stroke on the part of her father and two paternal aunts under the age of 60.
+
+Physical examination
+Blood pressure 120/60 mmHg, heart rate 120 bpm, saturation 97% with nose glasses at 5 bpm. Cardiac auscultation rhythmic and without murmurs, pulmonary auscultation with preserved vesicular murmur without other added noises, abdominal and lower limb examination without pathological alterations. Glasgow Coma Scale score 9/15 (eye opening on command 3; no speech 1, and localisation of painful stimuli 5). Pupils were bilaterally and symmetrically mydriatic and reactive to light. Trunk reflexes were preserved. He had paresis of the left upper limb, with preserved spontaneous mobility of the rest of the limb, localising painful stimuli appropriately. No abnormal movements were observed. The respiratory pattern was normal.
+
+Complementary tests
+- Emergency laboratory tests: 15,670 leukocytes with 68.3% neutrophils. D-dimer 3.10 μg/l (0.1-0.5). Rest of haemogram, biochemistry and coagulation normal.
+- Microbiological study: core syphilis, Brucella, agglutinations, Mycoplasma pneumoniae IgM and Borrelia burgdorferi (G + M): negative.
+- Immunological study: normal.
+- Thrombophilia study (factor VIII, protein C, functional protein S, antigenic protein S (total and free), functional plasminogen 119% (75-120), active protein C resist. negative. Lupus anticoagulant: normal.
+- Cerebrospinal fluid (CSF) analysis (haemorrhagic fluid): leucocyte count 20 cells/mm3; glucose 73 mg/dl, protein 89 mg/dl, A adenosine deaminase 7.16 IU/l, lactate 3.7 mmol/l.
+- CSF microbiology: negative Ziehl-Nielsen stain. No microorganisms were observed in the gram stain. Culture of mycobacteria, aerobes and anaerobes negative.
+- Urine toxins: negative.
+- Chest X-ray: no images of infiltrates.
+- Electrocardiogram: sinus rhythm at 100 bpm.
+- Emergency computed tomography (CT) of the skull: hyperdensity was observed in the interhemispheric frontal sulci, up to the level of the third ventricle, in relation to subarachnoid haemorrhage.
+- Magnetic resonance imaging (MRI) of the brain: thrombosis of the superior longitudinal sinus. Complete occlusion of the anterior half of the superior longitudinal sinus and partial occlusion of the first half of the posterior half, so that only the posterior quarter was clearly patent. Parenchymal lesions in the right frontal lobe. These appeared to correspond to vasogenic oedema with some areas of cytotoxic oedema mainly at the cortical level in the convexity. Rare haemorrhagic components. High interhemispheric subarachnoid haemorrhage. Small intraventricular haemorrhage. No hydrocephalus. Brain MRI: parenchymal lesions in the right frontal lobe. They appear to correspond to vasogenic oedema with some areas of cytotoxic oedema, especially at the cortical level in the convexity. Few haemorrhagic components. High interhemispheric subarachnoid haemorrhage. Small intraventricular haemorrhage. No hydrocephalus.
+- Control CT scan (ten days after admission): good radiological evolution with resolution of the right frontal haematoma and practically no subarachnoid haemorrhage. Decrease in the mass effect of the parenchymal lesion.
+- Video-electroencephalogram of wakefulness control in which, on an adequate background activity, very slight signs of cerebral involvement were recorded in the left temporal region. No epileptiform abnormalities or epileptic seizures were recorded.
+
+Diagnosis
+- CSF hypotension syndrome after epidural infiltration.
+- Venous thrombosis at the level of the sagittal sinus.
+- Right frontal ischaemic infarction and subarachnoid haemorrhage.
+- Convulsive status.
+
+Treatment and evolution
+The patient was admitted to the Intensive Care Unit (ICU) with a diagnosis of status convulsus, starting antiepileptic treatment with levetiracetam; an urgent cranial CT scan was performed, which revealed a subarachnoid haemorrhage, followed by a lumbar puncture that ruled out infection of the central nervous system. Subsequently, MRI and cerebral MRI angiography led to a diagnosis of cerebral venous thrombosis and it was decided to start anticoagulant treatment with low molecular weight heparin, with a subsequent change to acenocoumarol. Cerebral MRI angiography: thrombosis of the superior longitudinal sinus: complete occlusion of the anterior half of the superior longitudinal sinus and partial occlusion of the first half of the posterior half, so that only the posterior quarter is clearly permeable. The patient remained in the ICU for five days and, given the good evolution, was transferred to the Neurology ward, where the study was completed. At discharge she was neurologically asymptomatic. She remained anticoagulated for three months with acenocoumarol and then changed to antiplatelet therapy. After the acute episode, she did not present new epileptic seizures, so after one year, and after a control EEG, which was normal, the antiepileptic drug was withdrawn. The immunological and thrombophilia tests were negative. To date, the patient has remained asymptomatic, with no new neurological episodes or thrombosis at any other level.

@@ -1,0 +1,29 @@
+Anamnesis
+A 38-year-old man from Peru, with no known drug allergies, toxic habits or vascular risk factors, attended the emergency department for right frontotemporal headache, pulsating and strictly unilateral, which worsened with head movements and associated photophobia. He denied cognitive, visual or sensory alterations prior to the episode. The headache was of moderate-severe intensity and had begun abruptly on the afternoon of the day before consulting the emergency department while at rest. In the anamnesis she denied any history of previous headache, dysthermic sensation or fever. She also had no family history of headache or other diseases of interest. At the time of consultation he was unemployed (he had worked as a waiter) and had been living in Spain with his partner for more than 10 years. Although the patient was not being treated with any drugs, he had taken a single tablet of paracetamol 1 g orally as symptomatic treatment, with slight improvement. During his stay in the ED, the pain improved slightly after administration of 25 mg intravenous dexketoprofen.
+
+Physical examination
+General: blood pressure 125/80 mmHg, heart rate 70 bpm, oxygen saturation 99%. Afebrile. Good general appearance, well hydrated, nourished and perfused. No skin rashes were observed. Carotid rhythmic with no audible murmurs. Cardiac and respiratory auscultation without alterations. Abdomen soft and depressible, without masses or organomegaly. Lower extremities without oedema or signs of deep vein thrombosis. Neurological examination: patient alert. Oriented in person, time and space. No aphasia. No apraxias. Fluent, non-dysarthric speech. Campimetry by ocular confrontation without alterations. Ophthalmological examination in the emergency department with normal fundus, papilla with clear edges and normal colour. Pupils are isochoric and normally reactive to light and accommodation. Tracking eye movements without restrictions or other alterations (no nystagmus evoked). Preserved saccadic eye movements. Cranial nerves V, VIII, IX, X, XI and XII without alterations. Muscle balance 5/5 in the four extremities. Normal muscle tone and trophism. No alterations in coordination in finger-nose and heel-knee manoeuvres. No dysdiadochokinesia. Generalised osteotendinous reflexes ++/++. Tactile, algesic, vibratory and proprioceptive sensitivity without alterations. Tandem gait without alterations. Romberg negative. No meningeal signs.
+
+Complementary tests
+- Urgent laboratory data: haemogram, coagulation and biochemistry without alterations. Urine: no alterations.
+- Deferred laboratory data: haemoglobin 16.3 g/dl, MCV 94.8 fl, MCH 30.6 pg, leukocytes 6.48 x 103/microl, platelets 380 x 103/microl, CRP 1.4 mg/dl, LDH 148 IU/l (< 247), FA 148 IU/l (30-120), total cholesterol 182 mg/dl. Coagulation in normal range. Iron metabolism without alterations. Immunology: ANA, ANCA, anti-Ro and anti-La antibodies negative. C3 and C4 in normal range. Rheumatoid factor and anti-citrullinated peptide antibodies negative. Proteinogram and serum immunoglobulins without alterations. Angiotensin converting enzyme 39.4 IU (20-60).
+- Tumour markers (Ca 15.3, Ca 19.9, AFP, PSA) in normal ranges.
+- Chest X-ray: normal cardiothoracic index. Free costophrenic sinuses. No mediastinal thickening or parenchymal infiltrates.
+- Computed tomography (CT) scan of the brain with and without contrast: right temporal hypodensity without mass effect that respects the cerebral cortex and that does not capture contrast.
+- Brain magnetic resonance imaging (MRI) with and without contrast: right hemispheric pachymeningeal enhancement, with areas of associated focal pseudonodular thickening of temporal location. Alteration of the underlying right temporal cortico-subcortical signal, suggestive of reactive oedema.
+- MRI angiography: hypoplasia of the left transverse sinus with no evidence of cerebral venous thrombosis.
+- Lumbar puncture: opening pressure 12 mm H2O. 20 cells (100% lymphocytes). Proteins 387 mg/dl, glucose 50 mg/dl (serum 70 mg/dl), ADA 3.3 (0.5-3), Tibbling index 0.62 (0.3-0.7). No tumour cells were observed.
+- PCR for tuberculosis (TB) was negative. Cultures were negative for usual bacteria and fungi. Fungal antigens (cryptococcus, Blastomyces, Coccidioides imitis, Histoplasma capsulatum, Paracoccidioides brasilensis) were negative.
+- Negative TB blood and urine cultures.
+- Serologies in serum and cerebrospinal fluid negative for syphilis, Brucella, Rickettsia conorii, Borrelia burgdorferi, HIV, HBV, HCV, toxoplasmosis, rubella, CMV. PCR for HSV 1, HSV 2, Epstein-Barr virus and cytoemgalovirus.
+- Thoracic-abdominal CT scan: no mediastinal adenopathy, pleural effusion or infiltrates in the lung parenchyma.
+CT scan of the brain with contrast showing right temporal hypodensity without contrast uptake. Brain MRI in T1 sequence with gadolinium showing meningeal thickening with surrounding oedema.
+
+Diagnosis
+Headache secondary to idiopathic hypertrophic pachymeningitis.
+
+Treatment
+The patient remained in hospital with good control of the headache with ibuprofen 600 mg orally every 8 hours.
+
+Evolution
+After completing the study and in view of the improvement of the headache, a control MRI was requested, which showed an improvement in the lesions.

@@ -1,0 +1,20 @@
+A 19-year-old woman presented to the emergency department with a 4-day history of fever (38.5°C), followed by chest pain and skin rash.
+He had tachycardia (120 l.p.m.)
+oxygen saturation was 97% in room air.
+The thoracic and abdominal examination was normal.
+Skin examination revealed a rash consisting of slightly erythematous confluent macules affecting the trunk and extremities.
+In palms and soles, macules are clearly defined areas of erythema, and skin islands are not affected.
+Chest radiography and chest CT did not show relevant results.
+An electrocardiogram revealed sinus tachycardia and diffuse ST-segment elevation; troponin T value was 367 ng/L.
+The electrocardiogram showed normal ventricular activity, with no signs of pericardial effusion.
+Acute myopericarditis was diagnosed.
+Laboratory tests showed leukocytosis (18.2 x 10 9/L) with 6% lymphocytes and normal values of hemoglobin, thrombocytes and lactate dehydrogenase.
+The values of C-reactive protein (23.10 mg/L), dementia (10.95-0 ng/mL) and fibrinogen (974 mg/dL) were high.
+Tests for autoimmune diseases were negative.
+Serological tests ruled out infections with Mycoplasma pneumoniae, Epstein-associated cytomegalovirus, Coxsackie virus, parvovirus B19, hepatitis A-B-Cum virus, Treponema.
+Blood cultures were negative.
+A PCR test from a sample of nasopharyngeal swabs was positive for COVID-19, while negative for adenovirus, other coronaviruses, human enterovirus, influenza virus and paragripal virus.
+Treatment was initiated with ceftriaxone, low molecular weight heparin,▁acetylsalicylic acid, pantoprazole, hydroxychloroquine and lopinavir/ritonavir.
+Antiviral therapy and hydroxychloroquine were discontinued after 2 days due to nausea, diarrhoea and anaemia.
+The patient was started on colchicine (0.5 mg twice daily), with complete resolution of the skin lesions, normalization of the ECG and progressive apyrexia.
+On day 8, a nasopharyngeal smear was negative for COVID-19 and the patient was discharged.

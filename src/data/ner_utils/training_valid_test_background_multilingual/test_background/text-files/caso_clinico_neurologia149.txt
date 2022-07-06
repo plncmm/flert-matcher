@@ -1,0 +1,30 @@
+Anamnesis
+Paciente varón de 76 años de edad que es traído a Urgencias por presentar 40 minutos antes disminución brusca del nivel de consciencia mientras estaba cenando, con empeoramiento progresivo hasta ser atendido. No había aquejado de cefalea previa, ni había presentado focalidad neurológica definida previamente. Inicialmente, el personal de ambulancia sospecha broncoaspiración (saturación de O2 89% en una ocasión), por lo que se realiza una laringoscopia indirecta que descarta cuerpos extraños en la laringe. El paciente tenía antecedentes personales de hipertensión, dislipemia, accidente cerebrovascular isquémico (LACI motor derecho) 6 años atrás con secuela de leve hemiparesia izquierda y disartria. No presentaba hábitos tóxicos actuales. Tomaba como tratamiento habitual hidroclorotiazida/telmisartán, atorvastatina, clopidogrel, lorazepam (ocasional) y paroxetina.
+
+Examen físico
+Tensión arterial: 122/84 mmHg. Temperatura: afebril. Frecuencia cardiaca: 64 lpm. Saturación de O2 (gafas nasales) 100% (retirándolas no disminuía por debajo de 96%). Inconsciente, con ojos cerrados. No responde a órdenes verbales. Bien nutrido e hidratado. Normocoloreado, sin alteraciones cutáneas y bien perfundido. Respiración regular, pero hipotonía lingual que amenaza la vía aérea, por lo que precisa cánula de Guedel. Auscultación cardiaca rítmica. Auscultación pulmonar con normoventilación en ambos campos. Abdomen: globuloso, blando y depresible, no doloroso. Peristaltismo presente. No edemas en las extremidades inferiores.
+Escala de Glasgow = O1-V1-M4. No emite lenguaje. No realiza parpadeo ante la amenaza. Pupilas mióticas, reactivas a la luz. No alteración en posición primaria de la mirada. Reflejos óculo-vestibulares presentes bilateralmente. Reflejo nauseoso presente (al movilizar Guedel). Moviliza las cuatro extremidades de forma casi simétrica (secuelas), con sacudidas en ambas piernas cuando se estimula con dolor intenso. Reflejos cutáneo-plantares indiferentes. Puntuación en la escala NIHSS de 14.
+
+Pruebas complementarias
+Se realizaron de urgencia las siguientes pruebas:
+• Electrocardiograma (ECG): ritmo sinusal a 75 lpm.
+• Analítica sanguínea: bioquímica (incluyendo iones, creatinina, hepático y tiroideas), hemograma y coagulación dentro de la normalidad. Gasometría arterial basal sin cumplir criterios de insuficiencia respiratoria.
+• Radiología de tórax: no se aprecian alteraciones en el parénquima ni silueta cardiaca.
+• Tomografía computarizada (TC) cerebral urgente: infarto lacunar en el pálido derecho y pequeño infarto cerebeloso derecho crónicos. No se evidencian alteraciones agudas.
+
+Diagnóstico
+Entre las causas más frecuentes de coma agudo no traumático están, por orden de frecuencia, las intoxicaciones, los accidentes cerebrovasculares, la epilepsia (estatus no convulsivos), las alteraciones cardiocirculatorias, las infecciones y las alteraciones metabólicas1. Mediante los antecedentes médicos del paciente, la forma de presentación, la exploración física y los análisis de laboratorio podemos orientar la causa hacia estructural o metabólica. En nuestro paciente, las analíticas y el resto de las pruebas complementarias no ofrecían pistas para determinar la causa del coma. La exploración era anodina. Sin embargo, la presentación brusca, la falta de respuesta al flumazenilo, la ausencia de consumo de tóxicos y los antecedentes de factores de riesgo vascular llevaron a pensar en una causa estructural isquémica. Finalmente, se orientó como posible causa del estado del paciente la isquemia ponto-mesencefálica versus talámica bilateral aguda.
+
+Tratamiento
+Fibrinólisis intravenosa.
+
+Evolución
+Se decidió solicitar una angio-tomografía computarizada (TC) cerebral y de troncos supraaórticos (TSA) urgente para objetivar una posible alteración de la circulación cerebral, pero no se pudo realizar por complicaciones técnicas. Habiendo pasado 2:30 horas desde el inicio del cuadro clínico, valorando el riesgo/beneficio y explicando la situación a los familiares, se decidió realizar fibrinólisis intravenosa ante la fuerte sospecha de cuadro vascular cerebral y el tiempo transcurrido. Aproximadamente unas 8 horas más tarde, el paciente presentaba mejoría del nivel de consciencia, aunque fluctuante, siendo capaz de responder a preguntas complejas, con una puntuación de 3 en la NIHSS. Se realizó una TC de control de 24 horas postfibrinólisis, objetivándose hipodensidades bilaterales en el tálamo sugestivas de infarto agudo por afectación de la arteria talámica paramediana única, sin apreciarse signos de hemorragia.
+
+Tomografía computarizada craneal: hipodensidades bilaterales en el tálamo sugestivas de infarto agudo con afectación de una arteria talámica paramediana única. No se aprecian signos de hemorragia. Infarto lacunar antiguo derecho. Signos de atrofia subcortical con ampliación secundaria del sistema ventricular.
+
+En la monitorización no se encontraron arritmias potencialmente embolígenas, y el ecocardiograma y el Doppler de los TSA fueron irrelevantes. Se realizaron una resonancia magnética (RM) cerebral a los 12 días, sin datos de interés adicionales, y una angio-RM cerebral, cuya resolución fue incapaz de identificar un vaso del reducido calibre de la arteria talámica paramediana.
+
+Resonancia magnética craneoencefálica (12 días): pequeña zona hiperintensa en los núcleos izquierdos del tálamo (infarto subagudo) y en el núcleo lenticular derecho (secuela de un infarto antiguo). Atrofia encefálica difusa, con dilatación secundaria de los ventrículos laterales.
+
+ El diagnóstico final principal fue ACV talámico bilateral aterotrombótico por oclusión de la arteria paramediana talámica (o de Percherón) con variante anatómica tipo 2B.

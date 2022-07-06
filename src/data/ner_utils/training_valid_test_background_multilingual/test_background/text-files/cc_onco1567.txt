@@ -1,0 +1,34 @@
+Anamnesis
+Mujer de 37 años de edad, sin antecedentes personales de interés ni alergias medicamentosas conocidas con fórmula ginecológica G2P2A0.
+Comienza con clínica de lumbalgia durante el tercer trimestre de embarazo. Tras un parto eutócico y por persistencia de la sintomatología, se inicia estudio, detectándose una lesión a nivel de sacro sugerente de metástasis ósea de primario desconocido.
+Acude a Urgencias por dolor no controlado (EVA 8) localizado en la región sacra con irradiación al miembro inferior derecho. Se acompaña de debilidad en los miembros inferiores que le impide la deambulación e incluso la bipedestación, así como incontinencia fecal y dificultad para orinar.
+Ingresa en Neurocirugía y, tras completar estudio de extensión y llegar al diagnóstico anatomopatológico, se traslada a nuestro Servicio para control analgésico y valoración del tratamiento oncológico.
+
+Exploración física
+Destaca paraparesia de predominio derecho con fuerza 4/5 derecha y 4/5 izquierda. Hipoestesia perineal.
+
+Pruebas complementarias
+• En la analítica general, se objetiva discreta anemia normocítica normocroma (en el hemograma) con estudio de la coagulación y función hepatorrenal normal.
+• RM de columna lumbar: masa sacra de 70 x 82 x 71 mm de ejes máximos (anteroposterior x transversal x craneocaudal) que invade la articulación sacroilíaca derecha y el canal medular.
+Se visualiza parcialmente la vejiga que impresiona de tener un globo vesical, probablemente por afectación secundaria de raíces nerviosas. Fractura patológica de L3 con hundimiento de ambos platillos aunque con conservación del muro posterior.
+• Gammagrafía ósea (rastreo óseo tras la administración de una dosis trazadora de 99m-Tc-HDP): refuerzos de captación en sacro y articulaciones sacroilíacas.
+Focos en calota de dudosa etiología.
+• TC toracoabdominal: gran conglomerado adenopático hipervascular en axila derecha, de 82 x 40 mm. Se aprecian al menos dos lesiones focales intrahepáticas, localizadas en lóbulo hepático derecho, de 23 mm y la mayor en lóbulo hepático izquierdo, de 56 mm, con área de necrosis central, sugestivas de lesiones metastásicas. Asimetría en la densidad de ambas mamas, con lesión espiculada en cuadrantes superiores. Aconsejan completar estudio con mamografía.
+Lesión expansiva en sacro que sugiere metástasis ósea. Resto del estudio sin alteraciones reseñables.
+• Mamografía: asimetría focal bilateral, una en OML derecha y otra en zona interna de CC izquierda. Sin traducción ecográfica.
+• Ecografía mamaria: se aprecia en la cola de Spencer una tumoración lobulada, de ecoestructura heterogénea, de 4,2 cm de diámetro, a la que se realiza PAG sin complicaciones inmediatas.
+• Anatomía patológica de punción-biopsia lesión mamaria derecha: carcinoma infiltrante en el 75% de la muestra remitida. Ki-67 25%, receptores de estrógeno 90%; receptores de progesterona negativos; e-caderina positivo; CK-19 positivo; Her-2 negativo.
+• TC craneal: múltiples lesiones osteolíticas en la calota craneal, de predominio izquierdo.
+
+Diagnóstico
+Cáncer de mama estadio IV (metástasis óseas, ganglionares y hepáticas). Dolor mixto no controlado secundario a metástasis ósea sacra con invasión del canal medular.
+
+Evolución y tratamiento
+Ingresada en Oncología Médica comienza perfusión de morfina para control del dolor referido en región sacra y miembro inferior derecho. Precisa de dosis crecientes llegando a alcanzar 240 mg de morfina en perfusión de 24 horas. Se añade tratamiento coadyuvante, también con dosis crecientes de pregabalina (300 mg/12 horas), amitriptilina (50 mg/24 horas) y lacosamida (100 mg/12 horas), además de dexametasona. Ante la falta de respuesta se realiza rotación a oxicodona en perfusión con mejoría clínica inicial, aunque manteniendo necesidad de altas dosis de opiode, y con reaparición del dolor cuando se intenta su reducción.
+Es valorada por la Unidad del Dolor que decide colocación de bomba intratecal para control analgésico.
+Realiza radioterapia paliativa antiálgica con diez ciclos x 300 cGy y dos ciclos de quimioterapia con esquema doxorrubicina-docetaxel (doxorrubicina 50 mg/m2 y docetaxel 75 mg/m2) con soporte de G-CSF (factor estimulador de colonias de granulocitos).
+Tras cada ciclo de quimioterapia sufre un episodio de neutropenia febril grado 4 según la OMS. En la primera ocasión de origen urinario con urocultivo positivo a estirpe de Escherichia coli y en la segunda ocasión con hemocultivos positivos a Klebsiella pneumoniae. En ambos casos recibe tratamiento antibiótico según antibiograma y se extraen cultivos de control negativos.
+Tras superar trombocitopenia (grado 4 de OMS) secundaria a quimioterapia, se coloca bomba de infusión modelo tricumed con reservorio de 20 mL y flujo fijo de 0,51 mL, logrando buen control analgésico con 2 mg de morfina y 2 mg de bupivacaína cada 24 horas; punta de catéter en D12.
+Completa de forma ambulatoria tercer y cuarto ciclo de quimioterapia con esquema ya citado, con buena tolerancia y soporte de G-CSF, estando pendiente de realizarse TC de control para valorar respuesta al tratamiento.
+Continúa en seguimiento por la Unidad del Dolor para revisión y recarga del dispositivo intratecal.
+Actualmente, mantiene control analgésico y consigue caminar distancias cortas.

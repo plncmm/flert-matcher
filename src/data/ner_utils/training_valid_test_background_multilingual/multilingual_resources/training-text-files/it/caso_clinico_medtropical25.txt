@@ -1,0 +1,43 @@
+ID: ALA.
+Data di ammissione al servizio:20/08/10.
+Età: 61 anni.
+Sesso maschile.
+Mezzi epidemiologici per la malattia di Chagas. Sierologia 3/3 +, PCR per Chagas +. Cardiomiopatia dilatata chagasica.
+Insufficienza cardiaca congestizia diagnosticata nel 2007.
+Ricovero per VTMS sintomatica con scompenso emodinamico nel 2008.
+ICD impiantato nel 2008.
+
+Ecocardiografia Doppler cardiaca 04-06-09
+DDVI: 81mm PAPS:40mmhg DSVI:62mm SIV:11mm PPVI:9mm DSAUI:46mm RAO:35mm Fac:23% Fey:40% da Simpson. Ipocinesia globale con LVEF gravemente depressa, cavità destra normale, RVSF conservata, pattern pseudonormale, MI moderato, TR lieve.
+
+Perfusione miocardica in R e E.
+Sforzo 23%.
+Resto 21%.
+Capacità funzionale da 2 a 450 kgm. Test interrotto a causa della dispnea.
+
+Esame fisico
+Classe funzionale NYHA 2.
+Pressione: 90-50 mmhg, asintomatico.
+Fc:59 x ́.
+2R in 4f, R3 + (D)IT 2/3,RHY +.
+Epatomegalia non dolorosa.
+Lieve edema bimalleolare.
+Nessuna ascite.
+CVM.
+
+Trattamento
+Enalapril 5 mg c/12 ore.
+Spironolattone 25 mg/d.
+Furosemide 40 mg c/12 ore.
+Carvedilol 12,5 mg c/12 ore. 
+Amiodarone 200 mg/d.
+Omeprazolo 20 mg/d.
+Si inizia il trattamento con benznidazolo 300 mg/die. Diviso in 2 dosi. Ha completato il trattamento completo senza complicazioni.
+
+Nuova ammissione
+Il 19/02/13 è stato ricoverato all'Htal. Xenón Mansilla de Santiago del Ester0 per deterioramento del sensorio. 360 joule cardiovertiti con 3 shock, il 3° riuscito.
+Il paziente ha continuato ad avere la febbre con colture + per klebsiella pneumoniae e il trattamento ATB è stato iniziato. Presenta tempesta elettrica con più di 20 shock appropriati e 3 senza successo. Ecocardiografia Doppler cardiaca senza vegetazioni, Fey 30%. L'elettrofisiologia ha richiesto l'ablazione del substrato a radiofrequenza con mappatura 3D.
+Il 08/01/15 è stato ricoverato per la sostituzione dell'ICD a causa dell'esaurimento del generatore. Il trattamento medico è modificato:
+Carvedilolo da bisoprololo 2,5 mg per l'ipotensione arteriosa resto non è modificato.
+Ha continuato con vertigini e stati pre-sincopali isolati. Si è presentato al nostro reparto l'11/04/16 per uno shock ICD.
+Più di 10 episodi di VT con shock appropriati. Le cause metaboliche scompensanti sono escluse. Il trattamento medico ottimizzato è ruotato a sotalolo 80 mg/d resto lo stesso. 

@@ -1,0 +1,40 @@
+Anamnese
+A piometria é uma patologia rara definida como a presença de material purulento na cavidade uterina secundária a uma dificuldade na sua drenagem, o que levaria a um aumento do volume da cavidade uterina, desbaste da sua parede e mesmo ruptura da parede com o material purulento a escapar para a cavidade abdominal, provocando a peritonite.
+Apresentamos o caso de uma paciente feminina de 58 anos sem historial médico de interesse, independente para actividades básicas da vida diária, que compareceu várias vezes no departamento de urgência em Março de 2016 com sintomas de dor no hipogastrio juntamente com disúria, tenesmus e pollakiuria. Foi tratada com antibióticos e cateterização da bexiga para retenção urinária em ambas as ocasiões, em regime ambulatório. Como não houve qualquer melhoria, o paciente foi uma terceira vez ao departamento de urgências pelos mesmos sintomas que reapareceram quando o cateter da bexiga foi removido.
+
+Exame físico
+A piometria é uma patologia rara que é definida como a presença de material purulento na cavidade uterina secundária a uma dificuldade na sua drenagem, o que levaria a um aumento do volume da cavidade uterina, ao desbaste da sua parede e até à ruptura da parede com o material purulento a vazar para a cavidade abdominal, provocando a peritonite.
+Apresentamos o caso de uma paciente feminina de 58 anos sem historial médico de interesse, independente para actividades básicas da vida diária, que compareceu várias vezes no departamento de urgência em Março de 2016 com sintomas de dor no hipogastrio juntamente com disúria, tenesmus e pollakiuria. Foi tratada com antibióticos e cateterização da bexiga para retenção urinária em ambas as ocasiões, em regime ambulatório. Como não houve qualquer melhoria, o paciente foi uma terceira vez ao departamento de urgências pelos mesmos sintomas que reapareceram quando o cateter da bexiga foi removido.
+"Normonutrition, normo-hydrated, normo-coloured, conscious and oriented in time, space and person. Eupneic.
+"AC: rítmico, sem murmúrios.
+"AP: murmúrio vesicular preservado, sem sons extra.
+"Abdómen: doloroso à palpação no hipogástrio, com defesa à palpação. Não são palpáveis massas ou megalitismo.
+"Membros inferiores: sem edema ou sinais de trombose venosa profunda.
+"Neurológico: Glasgow 15/15. Pupilas isocóricas e normoreactivas. Nervos cranianos preservados.
+Sem sinais de focalização neurológica. Sem rigidez nucal. A avaliação por ginecologia também é solicitada:
+"Exame especular: nenhuma visualização do colo do útero ou hemorragia vaginal.
+"Exame bimanual: cérvix apagado em anteversão forçada, paramétrio direito livre, paramétrio esquerdo parece engrossado.
+
+Testes complementares
+No departamento de emergência:
+"CBC e bioquímica básica sem alterações, excepto para reagentes elevados.
+"O sedimento da urina não era patológico.
+"Radiografia abdominal simples: massa pélvica aparente com o resto do estudo normal. Tendo em conta os resultados acima descritos, foi solicitada uma ecografia abdominal.
+"Ecografia abdominal complementada por TAC abdominopelvica: fluido livre na cavidade abdominal juntamente com uma massa heterogénea que parece corresponder ao crescimento uterino com espessamento mural e um centro cístico/necrótico, com uma espessura de parede de aproximadamente 12 mm, e vascularização da parede. Tem 100 x 100 x 90 cm de tamanho e desloca estruturas adjacentes, com uma bexiga anterolateral. Dada a idade do doente e a presença de líquido ascítico, a lesão neoformativa endometrial é considerada a primeira opção, mas outras entidades não podem ser excluídas, e o estudo deve ser completado com ultra-sons ginecológicos e ressonância magnética.
+"Ultra-som ginecológico: útero de 10 cm, com imagem intra-cavitária de eco-espessuras mistas, cerca de 45 mm de espessura endometrial. Miométrio homogéneo, apêndices atróficos, fluido livre.
+O doente foi admitido na enfermaria de ginecologia:
+Dados os resultados anteriormente descritos, solicita-se uma RM da pélvis: neoplasia endometrial de 35 mm que se situa no fundo do útero, onde existe uma descontinuidade miométrica que está relacionada com o tumor ser claramente visível no plano sagital. O colo do útero parece normal. Há também distensão da cavidade endometrial devido à presença de fluido que pode ser hematológico. Ascite provavelmente carcinomatosa.
+Foi realizada uma biopsia uterina por histeroscopia, e a anatomia patológica revelou epitélio endocervical com a presença de uma lesão intra-epitelial do tipo CIN-3, com extensão intraglandular. A expressão intensa e difusa da p16 sugere origem cervical, e o diagnóstico foi, portanto, carcinoma do colo do útero.
+O paciente teve uma evolução tortuosa durante a admissão, e foi solicitada uma nova TAC para avaliação, que revelou colecções de líquidos intraperitoneais localizados suspeitos de envolvimento inflamatório/infeccioso, e foi decidido realizar uma punção guiada por ultra-sons da colecção abdominal para estudo microbiológico, bioquímico e anatomopatológico.
+A cultura do fluido abdominal mostrou a presença de Trichosporon jirovecii.
+
+Diagnóstico
+A perfuração uterina secundária à piometria foi diagnosticada como uma fase FIGO IIB mínima de carcinoma cervical, CT2B CN0 CMX, com peritonite secundária à evacuação do conteúdo uterino infectado para a cavidade abdominal.
+
+Tratamento
+Por suspeita de fluido compatível com infecção, foi realizada laparotomia exploratória com lavagem e colocação de drenos, com melhoria dos reagentes de fase aguda nos dias seguintes, e foi tratada com antibioterapia intravenosa empírica e voriconazol, dados os resultados da cultura do fluido abdominal.
+Uma vez resolvido o processo infeccioso, ela foi encaminhada para o departamento de oncologia médica. Foi proposto e aceite o tratamento com radioterapia e quimioterapia concomitante (cisplatina semanal 40 mg/m2), seguido de braquiterapia ginecológica.
+
+Evolução
+O paciente apresentou boa tolerância ao tratamento, sem toxicidade significativa. A avaliação da resposta tumoral por tomografia computorizada mostrou uma remissão tumoral completa, e uma distensão persistente da cavidade abdominal com conteúdo hipodenso no interior, em relação à mucometra secundária conhecida. Para evitar possíveis complicações futuras, o comité do tumor ginecológico decidiu realizar uma histerectomia total + dupla adexectomia + eventroplastia, que foi realizada sem incidente imediato.
+Três semanas após a cirurgia, a paciente veio ao departamento de emergência de ginecologia queixando-se de borborigmo intestinal e de episódios ocasionais de dor, juntamente com hemorragia vaginal. Uma tomografia de seguimento mostrou uma recolha hidro-aérea sugestiva de abscesso pélvico pós-cirúrgico, juntamente com uma dilatação significativa do intestino delgado com trânsito retardado sugestivo de oclusão intestinal. Ela requereu várias intervenções devido à síndrome adesiva, e está actualmente hospitalizada para a síndrome de adhesiólise.

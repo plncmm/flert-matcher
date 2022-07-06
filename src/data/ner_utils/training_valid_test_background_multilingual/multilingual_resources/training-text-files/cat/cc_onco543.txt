@@ -1,0 +1,26 @@
+Anamnesi
+» Pacient home de 68 anys, els antecedents d'interès dels quals són la hipertensió arterial, hiperplàsia benigna de pròstata, i tabaquisme actiu de 63 paquets-any.
+» Bon cumplimentador del tractament (olmesartán 20 mg 1c/d, hidroclorotiazida 12,5 mg 1c/d,
+» tamsulosina 0,4mg 1c/d).
+» No té antecedents familiars d'interès.
+» Diagnosticat de adenocarcinoma de pulmó estadi IV, T2 (atelectasia), N0, M1c (metàstasis cerebrals, pulmonars bilaterals, vessament pleural), EGFR negatiu, no translocació de ALK, ROS-1 negatiu i PD-L1 positiu en 90% de les cèl·lules tumorals.
+» Bon suport social i independent per a les activitats bàsiques de la vida diària.
+Es va realitzar radioteràpia holocraneal de les metàstasis cerebrals, que va finalitzar el 03/11/2018, sent tractat amb corticoides en pauta descendent per clínica neurològica durant les setmanes posteriors. Va iniciar tractament de primera línia amb pembrolizumab el 23/11/2018.
+» » Va acudir a Urgències el 2/12/2018, presentant dispnea de 4 dies d'evolució, d'inici brusc, amb evolució ràpida fins a mínims esforços, amb augment de tos sense expectoració: afebril; no referia clínica d'insuficiència cardíaca, ni una altra simptomatologia per aparells o sistemes. Vacunat de la grip.
+
+Exploració física
+A la seva arribada a triatge, es va presentar amb una tensió arterial de 113/77 mm Hg, amb una freqüència cardíaca de 97 lpm i una saturació d'oxigen de 93% amb FiO2 de 35%. Temperatura de 36,5 oc i un Glasgow de 15 punts.
+En l'exploració va destacar un regular estat general, es va mostrar conscient i orientat, encara que amb deshidratació moderada i taquipnea de 37 respiracions per minut.
+En l'auscultació cardíaca els tons eren rítmics, sense soplos, mentre que en l'auscultació pulmonar eren molt cridaners els abundants roncus i sibilants bilaterals. L'exploració abdominal, sense troballes patològiques, així com sense signes d'edemes o signes de trombosi venosa en membres inferiors.
+
+Proves complementàries
+En l'analítica, no va presentar alteracions en la sèrie vermella ni blanca. La gasometria arterial va mantenir un ph de 7,48, amb una insuficiència respiratòria parcial (PO2 de 53 mm Hg i pCO2 de 30 mm Hg). No té alteracions iòniques, amb una funció renal i hepàtica normal. Va destacar una proteïna C reactiva de 13,2 mg/dl i un dímer D de 975 ng/ml (valor normal < 100). Es va realitzar una radiografia de tòrax que mostrava infiltrats alveolars bilaterals amb predomini d'afectació intersticial bilateral, així com possible vessament i/o atelectasia en pulmó dret. En la angio-TC no es van observar defectes de repleció en les artèries pulmonars, destacant mínim vessament pleural bilateral i aparició d'opacitats en vidre desllustrat en totes dues bases pulmonars, no presentis en la TC prèvia d'octubre de 2018. Els antígens de pneumococ, Legionel·la i PCR de grip van ser negatius.
+
+Diagnòstic
+Donats les troballes en aquest moment, es va plantejar el diagnòstic diferencial entre una neumonitis per pembrolizumab grau 3 (símptomes severs, que posen en perill la vida del pacient, amb hipòxia i dificultat respiratòria), i una neumonitis infecciosa (fonamentalment bacteriana, amb cobertura de Pneumocystis jirovecii).
+
+Tractament
+Es va interrompre el tractament amb pembrolizumab i es va administrar metilprednisolona a dosi de 2-3 mg/kg/dia. Es va afegir antibioterapia amb levofloxacino i trimetoprima-sulfametoxazol, així com teràpia de suport.
+
+Evolució
+El pacient va presentar millora parcial de la seva simptomatologia. No obstant això, durant els dies posteriors va reaparèixer la clínica amb augment de la tos amb expectoració, amb requeriments d'oxigen cada vegada majors i empitjorament de l'estat general. Es va realitzar TC-AR de control, fibrobroncoscopia i rentada broncoalveolar. La tinció de Gram va observar llevats, amb cultiu positiu per a Aspergillus fumigatus, així com serologia positiva per a citomegalovirus i Aspergillus, i RT-PCR positiva per a Pneumocystis jirovecii. Es va afegir voriconazol (dosi de càrrega de 400 mg cada 12 hores i posteriorment 200 mg cada 12 hores) i ganciclovir (10 mg/kg/dia). Malgrat això, va persistir evolució desfavorable, morint el pacient sis dies després.

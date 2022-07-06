@@ -1,0 +1,21 @@
+Anamnesis
+Se presenta un varón de 76 años sin alergias medicamentosas y con antecedentes personales de hipertensión arterial en tratamiento médico, dislipemia, reflujo gastroesofágico y anemia macrocítica. Bebedor de cuatro vasos de vino al día y ex fumador desde hace un año. Ateromatosis carotídea, de aorta torácica y coronarias sin estenosis significativa. Paresia del sexto par izquierdo secundaria a enfermedad cerebral de pequeño vaso. Estenosis del canal vertebral cervical degenerativo.
+Historia Oncológica: en octubre de 2009, durante un ingreso para el estudio del vértigo y la diplopía en el Servicio de Neurología, se objetivó anemia macrocítica y un nódulo en la radiografía de tórax. Se completó el estudio con una tomografía computarizada (TC), una tomografía por emisión de positrones (PET-TC) y una CT-PAAF, siendo diagnosticado de carcinoma no microcítico de pulmón cT1cN3M1 (afectación ganglionar en el retroperitoneo, por la que se desestimó la mediastinoscopia). En enero de 2010 inició quimioterapia según esquema carboplatino AUC 5-paclitaxel 175 mg/m2 cada tres semanas. El quinto día postquimioterapia del primer ciclo acudió al Servicio de Urgencias por un cuadro clínico de dolor abdominal inespecífico de 48 horas de evolución, y posteriormente asoció deposición abundante semilíquida sin productos patológicos (no sangre, moco o pus). No había presentado fiebre, náuseas o vómitos.
+
+Exploración física
+A su llegada al hospital, presentaba una tensión arterial de 95/41 mmHg, la frecuencia cardiaca era de 148 lpm y la temperatura de 37,8 oC. Estaba consciente y orientado. Presentaba sequedad de mucosas, leve taquipnea, ruidos respiratorios normales y auscultación cardiaca arrítmica a 150 lpm. El abdomen estaba distendido, doloroso a la palpación, sin focalidad ni puntos de irritación peritoneal.
+
+Pruebas complementarias
+• El electrocardiograma mostraba fibrilación auricular a 140 lpm.
+• El análisis de sangre y evolutivo presentaba un leve deterioro de la función renal, sin otros hallazgos significativos.
+• En la radiografía de tórax no existían hallazgos significativos.
+• Se procedió a la estabilización hemodinámica: digitalización rápida y reposición de volemia para control de la fibrilación auricular. Se instauró tratamiento antibiótico empírico de amplio espectro con meropenem y amikacina. Se necesitaron 100 mg de digoxina para el control de la frecuencia cardiaca, pero a las seis horas a pesar de correcta reposición hidrosalina el paciente persistía en anuria e hipotenso. Sorprendentemente, el paciente mantenía buen aspecto general, consciente y oligosintomático.
+• Se realizó un escáner abdominal, que reveló una severa proctitis inespecífica: marcado engrosamiento de la pared del recto concéntrico y uniforme (de hasta 17 mm) en toda su extensión desde el ano hasta la unión recto-sigmoidea, donde se producía un cambio abrupto de lo patológico a una pared sigmoidea normal. Aumento de densidad de la grasa perirrectal, engrosamiento y empastamiento del espacio presaco y aumento de la vascularización, todo ello en relación con cambios inflamatorios. Pequeños ganglios pararrectales izquierdos menores de 7 mm.
+• Dada la inestabilidad hemodinámica, se avisó a la Unidad de Cuidados Intensivos, desestimando el ingreso por el estado de la enfermedad y la pluripatología previa del paciente. Además, fue valorado en dos ocasiones por el Servicio de Cirugía, que descartó la intervención.
+
+Tratamiento y evolución
+El paciente ingresó en planta de Oncología en situación de gravedad, con hipotensión refractaria a sueroterapia intravenosa, oligoanuria, insuficiencia respiratoria que requirió ventilación con reservorio, insuficiencia renal aguda prerrenal secundaria a situación de shock y necesidad de dosis altas de drogas vasoactivas para el control de la tensión arterial. A las 24 horas desde el ingreso, el Servicio de Microbiología informó del crecimiento en hemocultivos de Streptococcus pyogenes, por lo que se optimizó la antibioterapia añadiendo clindamicina y administrando flebogamma 5% intravenosa para tratar el síndrome de shock tóxico estreptocócico. A pesar de todas estas medidas, a las 72 horas del ingreso en Urgencias el paciente sufrió un rápido deterioro y falleció.
+
+Diagnóstico
+• Proctitis secundaria a paclitaxel.
+• Síndrome tóxico estreptocócico secundario.

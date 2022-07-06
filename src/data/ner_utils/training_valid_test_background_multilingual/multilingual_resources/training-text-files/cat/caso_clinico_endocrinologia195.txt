@@ -1,0 +1,32 @@
+Dona de 39 anys, sense antecedents d'interès, derivada a consulta d'Endocrinologia per a descartar feocromocitoma, en presentar crisi hipertensiva durant la gestació (part preterme mitjançant cesària urgent a les 33 setmanes per preeclampsia) i elevació de metanefrinas fraccionades en orina. Refereix com a única simptomatologia, crisi de cefalea brusca, d'aparició i desaparició espontànies d'aproximadament un any d'evolució. Tractament domiciliari: Doxazosina 4 mg/24 h.
+
+ANTECEDENTS FAMILIARS
+Mare amb HTA. Àvia materna morta de crisi hipertensiva als 51 anys.
+
+EXPLORACIÓ FÍSICA
+Pes 64.6 kg, talla 165 cm, IMC 23.7 kg/m². TA 117/81 mmHg. FC 70 lpm. No goll ni adenopaties en la palpació cervical.
+
+PROVES COMPLEMENTÀRIES QUE APORTA
+- Analítica orina 24h (durant preeclampsia):
+• Catecolaminas fraccionades: Adrenalina i dopamina normals. Noradrenalina 1436.76 nmol/24h (Normal: 0-504).
+• Metanefrinas fraccionades: Normetanefrina 14121.17 nmol/24h (Normal: 400-2424). Metanefrinas: normals.
+• Altres amines: Àcids vanilmandélico, 5-hidroxiindolacético i homovalínico normals.
+- RM abdomino-pelviana: sense troballes.
+
+PROVES COMPLEMENTÀRIES SOL·LICITADES SEQÜENCIALMENT
+- Analítica: Glucosa, creatinina, ions, magnesi, calci, fosfat, PTH, hormones hipofisarias, renina i aldosterona normals. Metanefrina en plasma: 12 pg/ml (Normal <90 pg/ml) i normetanefrina 253 pg/ml (Normal <180 pg/ml).
+- Gammagrafia de cos sencer (simpaticoadrenal, I123-MIBG): Distribució del radiotrazador fisiològica.
+- Analítica orina 24h:
+• Catecolaminas fraccionades: Adrenalina i dopamina normals. Noradrenalina 2920.5 nmol/24h.
+• Metanefrinas fraccionades: Normetanefrina 7068.65 nmol/24h. Metanefrinas: normals.
+• Altres amines: normals.
+- RM amb contrast iv corporal total: Lesió de morfologia lobulada i 35 mm, localitzada en regió superior d'espai carotídeo dret, amb intens realç rere contrast, compatible amb paraganglioma del vague.
+- TC amb contrast iv de coll: Tumoració heterogènia, densa, amb zones de necrosis i aspecte de vascularització important, localitzada entre caròtide i jugular dretes, d'uns 38 mm. Compatible amb paraganglioma.
+
+JUDICI CLÍNIC
+Paraganglioma del vague dret productor de noradrenalina i normetanefrinas.
+
+EVOLUCIÓ
+Interconsulta al servei d'Otorrinolaringologia, que va derivar al servei d'Otorrinolaringologia de referència, intervenint-se la pacient després de embolización del paraganglioma el dia previ. Normalitat en valors de tensió arterial i de catecolaminas/metanefrinas després de la cirurgia. Disfàgia lleu i disfonia en rehabilitació rere cirurgia.
+
+- Estudi genètic negatiu, descartant-se seqüencialment mutacions puntuals, delecions o duplicacions dels gens: SDHB, SDHC, SDHD, SDHAF1 i SDHAF2. Tampoc s'identifica cap variant susceptible de ser considerada com a patogènica o de significat incert a les regions analitzades dels gens: EPAS1, KIF1B, MAX, MDH2, RET, TMEM127 i VHL.

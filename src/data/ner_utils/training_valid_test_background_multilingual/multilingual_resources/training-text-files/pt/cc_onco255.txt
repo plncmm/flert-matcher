@@ -1,0 +1,28 @@
+Anamnese
+Mulher de 66 anos, com história de hipertensão e hipercolesterolemia, operada para a lumpectomia da mama direita em 1975 para patologia benigna, incontinência urinária, varizes, meniscopatia e miopia, em tratamento regular com losartan e atorvastatina. Diagnosticado em Dezembro de 2015 com carcinoma ductal infiltrante localmente avançado da mama direita E-IIB (T2N1M0) fenótipo positivo HER2. ER++++. PR +. Ki 67 15%. A quimioterapia neoadjuvante (QT) foi decidida com um esquema de Doxorubicina lipossomal 50 mg/m2 (dia 1) + Paclitaxel 80 mg/m2 (dia 1,8,15) + Trastuzumab 4 mg/kg (dia 1) e 2 mg (dia 8,15), com uma dose de carga no ciclo 1. Após receber 2 ciclos completos de tratamento, foi ao departamento de emergência para uma febre de 3 dias até 39oC, com ligeiro desconforto na deglutição e artromialgia generalizada, sem tosse ou expectoração ou outra semiologia infecciosa, com raio-X torácico normal, e teve alta com diagnóstico de faringite aguda, com tratamento antibiótico. Quatro dias depois, assistiu novamente com agravamento do estado geral e febre de 39oC, acompanhada de tosse, dores no peito com características pleuríticas, com início recente de dispneia com esforço mínimo, com ortopneia e oligúria. Dada a gravidade da situação, com sinais de insuficiência respiratória grave, ele foi transferido para a UCI. Durante a sua estadia na UCI, foi iniciada a antibioticoterapia de largo espectro, e o tratamento com ventilação não invasiva foi mantido durante várias horas, requerendo mais tarde entubação e drogas vasoativas. Dada a falta de melhoria clínica ao longo dos dias, o tratamento antiviral (oseltamivir), antifúngico (voriconazol) e cotrimoxazol foi associado à imunossupressão, enquanto se aguardavam os resultados dos testes complementares.
+
+Exame físico
+À chegada ao departamento de emergência, mau estado geral, palidez mucocutânea, taquipneia a 36 rpm, com tracção intercostal. Discurso arrastado. BP 115/70. HR 110. SATO2 84% ar ambiente. SATO2 90% com reservatório a 100%. ACP: sons cardíacos rítmicos, sem murmúrios. O murmúrio vesicular diminuiu globalmente, com rales crepitantes, rhonchi e chiado em ambos os campos pulmonares. Abdómen: Sons hidro-aéreos presentes. Suave, depressável, não doloroso à palpação. Sem reacção peritoneal. Sem edema nos membros inferiores. Pulsos fracos mas simétricos.
+
+Testes complementares
+. Análise sanguínea: Hb 8.9. Leucócitos 12,100. Função normal do fígado e dos rins.
+. Gases sanguíneos arteriais: pO2 57 mmHg com máscara de ventimask a 50%. SATO2 82%.
+. ECG: taquicardia sinusal a 110 batimentos por minuto.
+. Radiografia do tórax: infiltrações bilaterais de algodão tanto nos lobos superiores como na DIL.
+. CT do tórax: Padrão de vidro fosco, com áreas de consolidação peribronquial, subpleural bilateral.
+. Antigénios negativos para Legionella e pneumococcus.
+. PCR para influenza A, influenza B, RSV A e B, TB, galactomannan, Pneumocystis jirovecii, CMV, Epstein Barr Virus, Mycoplasma, Coxiella burnetii, clamídia, Herpes vírus 1 e 2 negativos.
+. Culturas de sangue, culturas de urina negativas.
+. Ecocardiografia: Fração de ejeção preservada. Sem alterações.
+. Fibrobroncoscopia: tubos bronquiais permeáveis, calibre normal, com mucosa eritematosa e secreção serosa escassa. Citometria de fluxo BAL: 84% linfocitose (linfócitos T 98%, B 0,5%, e NK 1,5%). AP: ausência de células malignas.
+
+Diagnóstico
+Pneumonite intersticial induzida por quimioterapia, complicada pela síndrome do desconforto respiratório agudo.
+
+Tratamento
+Tendo em conta os resultados do diagnóstico, foi decidido suspender todo o tratamento anti-infeccioso, e a metilprednisolona intravenosa foi iniciada com uma dose de 1 mg/kg/dia.
+
+Evolução
+Após iniciar o tratamento com corticosteróides, a paciente mostrou uma melhoria clínica, analítica e radiológica, que posteriormente permitiu a extubação, mantendo uma ventilação mecânica não invasiva com uma diminuição gradual do fluxo e estabilidade clínica, pelo que foi transferida para a enfermaria do hospital, onde o tratamento com corticosteróides foi continuado e o fluxo de oxigénio foi progressivamente reduzido, atingindo a sua retirada com tolerância adequada, e teve alta do hospital com corticosteróides orais num padrão descendente.
+
+Dada a toxicidade pulmonar de grau 4 induzida pelos medicamentos QT, foi apresentada ao comité do tumor mamário, onde foi decidido suspender o tratamento neoadjuvante e o estudo de reavaliação, encontrando RP, o que levou à quadrantectomia e radioterapia adjuvante. Ela é actualmente ECOG 0, em tratamento com letrozol e sem evidência de doença tumoral.

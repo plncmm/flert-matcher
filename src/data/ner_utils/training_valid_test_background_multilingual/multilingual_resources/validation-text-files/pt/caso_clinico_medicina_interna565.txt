@@ -1,0 +1,28 @@
+Anamnese
+Homem de 17 anos com um historial de dores de cabeça de tensão. Era estudante, de origem Maghrebi e não tinha viajado para fora de Espanha durante anos; negou relações sexuais ou outros dados epidemiológicos de interesse.
+Ela relatou uma dor lombar esquerda que irradiava para o aspecto anterior da coxa que se encontrava em repouso, de duas semanas de evolução.
+Consultou para um agravamento súbito da dor, fraqueza dos membros inferiores e uma temperatura de 39oC. Dor de cabeça não específica; sem hipoestesia genital, glútea ou dos membros inferiores. Nenhuma alteração de esfíncteres ou quaisquer outras manifestações clínicas.
+
+Exame físico
+Auscultação cardiorespiratória normal e palpação abdominal. Duas unhas dos pés encarnadas de anos de evolução com eritema e dor adjacentes, sem supuração.
+Exame neurológico com fraqueza motora de contra-resistência no membro inferior esquerdo devido a dor no movimento; marcha com alargamento da base. Sem alterações sensoriais. Positivo Lásegue e Bragard manobram homolateralmente. Reflexo patelar esquerdo ligeiramente hiperexaltado, reflexo cutâneo flexor-plantar. Sem sinais meníngeos, nervos cranianos normais. Resto do exame neurológico sem resultados.
+
+Evolução do Departamento de Emergência
+Os testes laboratoriais mostraram uma proteína C-reactiva do sangue periférico (CRP) de 311 mg/l, procalcitonina (PCT) de 0,13 ng/ml e 26.000 leucócitos à custa de células polimorfonucleares neutrofílicas (PMN). O raio-x do tórax era normal.
+A ressonância magnética da coluna lombossacral excluiu espondilodiscite, abcesso epidural e compressão do canal raquidiano por outra causa; foi observado edema da articulação sacroilíaca esquerda com envolvimento de tecido mole compatível com extensa sacroiliíte esquerda.
+A antibioticoterapia empírica foi portanto iniciada com Linezolid e Ceftriaxona.
+
+Diagnóstico diferencial
+Sacroiliitis.
+- As bactérias são a causa mais frequente (Brucella, Staphylococcus Aureus, Pseudomona Aeruginosa, Streptococci, Salmonella, Klebsiella spp).
+- Espondilite anquilosante, artrite reactiva, artropatia psoriásica, artrite microcristalina, febre mediterrânica familiar, Behcet's.
+- Sindromes paraneoplásticas.
+- Isotretinoína.
+
+Evolução Hospitalização
+Crescimento de Staphylococcus Aureus resistente à meticilina (MRSA) em duas séries de culturas de sangue, substituindo a antibioterapia por Daptomicina. Teste IGRA negativo para tuberculose e Rosa Bengala. Ecocardiograma transtorácico sem sinais de endocardite.
+Ao rever o caso, parecia provável que a origem dos sintomas fosse uma superinfecção devido à má higiene das unhas encarnadas.
+A evolução clínica, analítica e radiológica do paciente foi favorável.
+
+Julgamento Clínico
+Sacroiliíte esquerda devido a Staphylococcus aureus resistente à meticilina de origem cutânea.

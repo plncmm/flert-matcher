@@ -1,0 +1,41 @@
+Anamnesis
+Male, 52 years old, no known drug allergies, computer scientist. Ex-smoker (IPA: 30). Personal history: bilateral tinnitus. No regular medication. Family history: mother diagnosed with colon neoplasia and glioblastoma multiforme.
+
+Oncological history
+In February 2019, due to coughing and a feeling of cervical oppression, a thoracic CT scan was performed showing a large anterior polylobulated mediastinal mass measuring 12 x 14 x 15 cm with extensive contact with the ascending aorta and superior vena cava. A PET-CT scan was performed which confirmed these findings and showed metabolic activity of the lesion (SUV 8.3), with no evidence of adenopathy or visceral involvement at any other level. A biopsy was performed, with a pathology report of CKAE1/3, keratin, p63 and PAX8 positive epithelial cells with a CD45 and TdT positive lymphoid component and negative synaptophysin, compatible with thymic carcinoma.
+Given the diagnosis of thymic carcinoma with extensive contact with large vessels, the case was presented to the multidisciplinary tumour committee and treatment with induction chemotherapy was decided.
+On 11/03/2019 she started treatment with carboplatin-etoposide, administering 2 cycles (last received on 03/04/2019), with regular tolerance, presenting grade 2 nausea and grade 4 thrombopenia and neutropenia as side effects.
+
+Current illness
+She attended the emergency department on 18/04/2019 due to pain in the left calf for 5 days and fever with shivering for 1 hour, with no other accompanying symptoms.
+
+Physical examination
+Haemodynamically stable. To 37.7oC, O2 saturation breathing ambient air 98%. Conscious and oriented in the three spheres, Glasgow 15. Upper functions preserved, isochoric and normoreactive pupils, without alteration of cranial nerves and with osteotendinous reflexes, symmetrical and preserved strength and sensitivity.
+Normal cardiopulmonary auscultation and abdomen without masses or visceromegaly or signs of peritonism.
+Lower extremities without oedema, highlighting in IBD twin level erythema with palpation of the venous cord, without temperature increase and with negative Homans sign.
+
+Complementary tests
+"Blood tests: leukocytes 1,600, neutrophils 310, haemoglobin 8.8, platelets 14,000, D-dimers 576, CRP 224.4, procalcitonin 0.17. Other biochemistry and coagulation normal.
+"Venous Doppler ultrasound of the lower extremities: no signs of superficial or deep vein thrombosis in DID or IBD.
+"Urine culture: Escherichia coli pansensible.
+"Blood cultures: negative.
+
+Diagnosis
+"Masaoka stage III thymic carcinoma.
+"Febrile neutropenia.
+"Unrelated left twin pain.
+
+Treatment
+In view of the febrile pancytopenia, cultures were requested, empirical antibiotherapy was started with piperacillin-tazobactam, G-CSF was administered and it was decided to admit the patient to the Medical Oncology ward. As for the pain in IBD, deep vein thrombosis was ruled out and intravenous analgesia was started with paracetamol and dexketoprofen.
+
+Evolution
+The pain in the left calf disappeared completely after 48 hours with the prescribed analgesia. During admission, the patient recovered from the pancytopenia, but persisted with febrile peaks, so the antibiotic spectrum was extended.
+On the 7th day of admission, the patient suffered respiratory arrest due to hypercapnic respiratory failure, so intubation was performed and the patient was subsequently admitted to the Intensive Care Unit.
+Extubation was attempted on two occasions, requiring reintubation, due to respiratory acidosis and decreased level of consciousness (Glasgow 3). Dysautonomia with hypersweating and haemodynamic instability with rapid atrial fibrillation was also observed. Subsequently, motor limitation of predominantly proximal and upper limbs was observed.
+In view of the suspicion of neuromuscular disease, the following complementary tests were performed:
+"Lumbar puncture: no pleocytosis or albumin-cytological dissociation.
+"EMG: signs of denervation of bulbofacial, proximal cervical and lumbar musculature with peripheral involvement of cranial nerves (absence of R1 in the blink reflex), absence of bilateral phrenic nerve responses, motor conduction with reduced amplitudes, and normal sensory neurography.
+"Autoimmunity: positive anti-acetylcholine receptor antibodies (titres of 2.64 nmol/l) and antititin. All other anti-neuronal, anti-MAG, anti-MUSH, anti-MAG, anti-nuclear, anti-Ro, anti-ganglioside and anti-sodium and potassium channel antibodies were negative.
+"A thoracoabdominal-pelvic CT scan was performed to rule out progression and/or complications, visualising the anterior mediastinal mass of about 8 cm in diameter, with ample contact with the superior vena cava and ascending aorta, with no evident signs of mediastinal infiltration.
+With these findings, the case is classified as paraneoplastic myasthenia gravis in a patient with thymic carcinoma. The Tensilon test (edrophonium test) could not be performed due to the patient's dysautonomia.
+On 30/04/2019 treatment was started with immunoglobulins and, given the lack of response after five days, treatment was started with bolus methylprednisolone. Subsequently, pyridostigmine was added, but despite all this, the patient evolved unfavourably, with no evidence of improvement, so the withdrawal of mechanical ventilation and the start of palliative sedoanalgesia were agreed with the family, and the patient finally died on 21 May 2019.

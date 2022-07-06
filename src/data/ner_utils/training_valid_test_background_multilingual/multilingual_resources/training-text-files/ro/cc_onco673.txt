@@ -1,0 +1,27 @@
+Anamneză
+Femeie în vârstă de 65 de ani, alergică la derivați de colchicină și diclofenac. Fără factori de risc cardiovascular sau medicație cronică. Singurul ei istoric era o cifoscolioză severă și suferise o histerectomie cu dublă anexectomie și îndepărtarea unui neurofibrom.
+Anamneza oncologică: în iulie 2017, a fost diagnosticată cu carcinom cu celule renale cu celule clare în stadiul IV la stânga, cu afectare pulmonară și ganglionară. În luna august a aceluiași an, a început tratamentul cu sunitinib 50 mg/24 h (program 4/6) ca primă linie pentru boala metastatică.
+La o lună de la începerea tratamentului, s-a prezentat la serviciul de urgență în ultimele patru zile cu hematurie francă. Ea nu a raportat sindrom de golire sau febră. Ea a asociat doar episoade izolate de vărsături cu conținutul alimentar, fără dureri abdominale sau alterarea tranzitului gastrointestinal.
+
+Examinarea fizică
+Afebril și stabil din punct de vedere hemodinamic. Indicele Karnofsky 70 %. Paloare mucocutanată. Nu au fost observate hematoame sau adenopatii palpabile. Examinarea cardiopulmonară și abdominală a fost normală.
+
+Teste complementare
+Testele de laborator la internare au arătat leucocite 3.400/mcl, hemoglobină 10,9 g/dl, cu volum corpuscular mediu și hemoglobină corpusculară medie normale, trombocite 31.000/mcl, uree 43,6 mg/dl, creatinină 0,89 mg/dl și proteină C reactivă 77 mg/l.
+La internare, sistemul urinar a arătat nitriți negativi, iar în sediment 25-50 de globule roșii/câmp și 2-5 leucocite.
+Radiografia toracică a arătat noduli pulmonari cunoscuți, fără alte constatări relevante.
+
+Diagnostic
+"Carcinom renal în stadiul IV tratat cu sunitinib.
+"Trombocitopenie de gradul 4 secundară terapiei antiangiogenice.
+"Hematurie secundară trombocitopeniei.
+
+Tratament
+Având în vedere hematuria francă, a fost plasat un cateter vezical pentru spălare continuă a vezicii urinare, a fost prescris acid tranexamic 0,5g/8 h și a fost transfuzat un concentrat de trombocite, cu o ușoară ameliorare clinică și de laborator.
+În timpul internării, s-au efectuat hemoleucograme zilnice, care au arătat o scădere progresivă a numărului de trombocite, motiv pentru care s-a adăugat corticoterapie în doze mici (metilprednisolon 20 mg/12 h), fără a se obține o creștere a acestui parametru analitic.
+În ciuda tratamentului prescris, pacientul a continuat să aibă hematurie și un număr de trombocite de 6.000/mcl, astfel că s-a solicitat un frotiu periferic; această cifră a fost confirmată și au fost excluse schistocitele sau alte modificări morfologice.
+În acord cu hematologia, corticosteroizii au fost crescuți la o doză de 1 mg/kg/zi și s-a prescris imunoglobulină intravenoasă (1 g/kg timp de 48 de ore). După acest tratament, numărul de trombocite a crescut progresiv până când pacientul a fost externat cu 41.000/mcl.
+De-a lungul spitalizării, au trebuit să fie transfuzate șase concentrate de trombocite. În plus, printre complicații s-au numărat epistaxisul bilateral, care a necesitat o obturație nazală de către Otorinolaringologie, și o infecție a tractului urinar secundară cateterizării vezicii urinare. Cultura de urină a izolat mai mult de 100.000 UFC/ml de Enterococcus faecalis și Escherichia coli sensibile la nitrofurantoină, astfel că s-a efectuat tratament cu acest antibiotic și înlocuirea cateterului vezical.
+
+Evoluție
+La externarea din spital, s-a decis retragerea definitivă a Sunitinibului și s-a început tratamentul cu nivolumab 3 mg/kg/la fiecare 15 zile, ca a doua linie pentru boala metastatică. În prezent este în răspuns parțial (PR) după 13 cicluri de anti PD-1.

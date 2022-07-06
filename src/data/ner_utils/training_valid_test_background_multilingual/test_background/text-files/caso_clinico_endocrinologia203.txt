@@ -1,0 +1,28 @@
+Mujer de 53 años diagnosticada de DM1 remitida desde Medicina Interna para estudio ante hallazgo analítico de niveles de ACTH y GH elevados.
+
+Antecedentes familiares: Tres hermanas con DM1; tres hijos, dos de ellos con DM1.
+
+Antecedentes personales: Amaurosis fugax, retinopatía multifactorial, cataratas y miopía intervenidas, osteoporosis postmenopáusica (menopausia a los 48 años), hipertransaminasemia en estudio. No hábitos tóxicos. Alérgica a sales de cromo y cloruro de cobalto (presentes en productos de limpieza).
+
+Tratamiento habitual: AAS 100 mg/día, suplementos de calcio y colecalciferol, alendronato semanal, timolol oftálmico.
+
+Anamnesis: Se trata de una paciente de 53 años con Distrofia Muscular de Steinert, con afectación leve únicamente facial, en la que se detectan casualmente niveles de ACTH y GH elevados en analítica completa solicitada por Medicina Interna durante estudio de hipertransaminasemia. Clínicamente asintomática y sin semiología sugerente de disfunción de ejes suprarrenal y somatotropo en la anamnesis dirigida, ni cambios fenotípicos sugerentes.
+
+Exploración física: TA 131/75 mmHg; Peso 67.5 kg; Talla 160 cm; IMC 26.4 kg/m2. No alopecia. Rasgos faciales algo "toscos" (nariz y mandíbula prominente). No bocio ni nódulos tiroideos palpables. No hiperpigmentación. No signos de hipercortisolismo. Resto de exploración anodina.
+
+Pruebas complementarias: En el momento de la valoración inicial los datos analíticos a destacar eran: Glucemia basal 92 mg/dl; Sodio 142 mEq/l; Potasio 4.5 mEq/l; TSH 6.88* μUI/ml (VN: 0.38-5.33) con T4L 0.76 ng/dl (VN: 0.38-1.5); ACTH basal 148* pg/ml y 79.6* pg/ml (VN: 10-60) con cortisol basal 22.6 μg/ dl y 17.5 μg/dl (VN: 6.7-22.6), respectivamente; GH 7.85* ng/ml (VN: 0-7 ng/ ml). También disponíamos de imágenes de RM de cráneo (2016) sin datos patológicos.
+
+Solicitamos estudio funcional hormonal complementario a fin de descartar/ confirmar la significación patológica de los hallazgos:
+
+1o Estudio bioquímico y hormonal basal: Función renal y electrolitos normales; Metabolismo Calcio-Fósforo sin alteraciones (marcadores de remodelado óseo suprimidos en respuesta al tratamiento antirresortivo); Función Tiroidea normal con TSH 3.84 μUI/ml y autoinmunidad positiva (anticuerpos anti- tiroglobulina); se confirma ACTH elevada (91.5* pg/ml) con Cortisol Basal (17 mcg/dl), Cortisol Libre Urinario (20 mcg/24h) y Cortisol Salival Nocturno (0.1 mcg/dl) normales; IGF-1 normal para su rango de edad (114 ng/ml); Prolactina normal y Eje Gonadal en rango de menopausia.
+
+2o Test de supresión tras 1 mg de Dexametasona (Test de Nuggent): 1 mcg/dl (normal <1.8 mcg/dl); junto con los datos de CLU y cortisol salival nocturno, descarta Hipercortisolismo.
+
+3o Test de Synacthen: A pesar de que los niveles basales de cortisol (>18 mcg/dl en algunas determinaciones) prácticamente podrían excluir el Hipocortisolismo, quisimos evaluar la respuesta de cortisol tras estímulo con 250 mcg de 1-24 ACTH iv, con resultado normal que descarta Insuficiencia Suprarrenal.
+
+4o Test de supresión de GH tras SOG 75 g: Los niveles circulantes de IGF-1 normales, en ausencia de ciertas circunstancias que pueden disminuirlos falsamente (como en caso de enfermedades sistémicas, insuficiencia renal o hepática, malnutrición o diabetes mal controlada) descartarían la Hipersecreción de GH, sin embargo quisimos completar el estudio con la determinación de GH tras sobrecarga oral del glucosa, y acompañamos con estudio de metabolismo hidrocarbonado
+
+Los resultados muestran una adecuada supresión de GH (<1 ng/ml) que descarta definitivamente la Hipersecreción de GH. Observamos además cierto grado de hiperinsulinismo en respuesta a la SOG.
+
+JUICIO CLÍNICO
+Hallazgos sin significación patológica. Se descarta disfunción de los ejes hipotálamo-hipofisario-adrenal y somatotropo.

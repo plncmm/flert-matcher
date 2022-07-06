@@ -1,0 +1,81 @@
+Describimos el caso de una mujer de 65 años que consulta en Puerta de Urgencias de nuestro hospital por edemas en miembros inferiores de tres meses de evolución que se han hecho más acusados en las últimas dos semanas. Estos se acompañan de dolor lumbar de carácter mecánico de 15 días de evolución.
+Entre sus antecedentes personales destaca:
+– DM etiquetada como tipo 2 y diagnosticada 15 días antes de la consulta por cifras de glucemia capilar de 500 mg/dl, sin acidosis, cetonuria ni síntomas cardinales. Actualmente en tratamiento con glibenclamida (15 mg/día) y metformina (1700 mg/día).
+– No hipertensión arterial ni dislipemias conocidas.
+– Apendicectomizada en la infancia
+– Menarquia a los 11 años, menopausia a los 40 años. Ciclos menstruales normales. G0A0V0.
+
+El cuadro clínico que describe la paciente se caracteriza por los siguientes componentes:
+– Edemas bilaterales y simétricos en extremidades inferiores, progresivamente crecientes, que en los últimos días tienden a generalizarse.
+– Dolor lumbar mecánico, no irradiado, que no cede con analgesia habitual y que dificulta la deambulación.
+– Progresivo engrosamiento de cara y cuello.
+– Astenia marcada.
+
+En la exploración física destaca:
+– Datos antropométricos: Peso 68,5 kg, talla 143 cm, IMC 33,5.
+– TA: 190/100 (TAS/D elevada en repetidas tomas a lo largo de los días).
+– Facies redondeada, con marcado edema palpebral. Hirsutismo facial.
+– Giba de búfalo.
+– Distribución troncular de la grasa.
+– Aumento generalizado de la pigmentación cutánea.
+– Edemas bilaterales y simétricos, con fóvea, en extremidades inferiores hasta raíz de muslos.
+– Múltiples hematomas en extremidades (que la paciente achacaba a pequeños traumatismos).
+
+Datos analíticos:
+– Bioquímica: Glucemia 350 mg/dl, urea 26 mg/dl, creatinina 0,7 mg/dl, albúmina 2,8 g/dl, calcio 8 mg/dl, fósforo 2,4 mg/dl, GOT 59 U/L, GPT 122 U/L, GGT 1177 U/L, LDH 1014 U/L, FA 648 U/L, amilasemia 84 U/L, Na 143 mEq/L, K 2,4 mEq/L, Cl 91 mEq/L.
+– Gasometría venosa: pH 7,51, HCO3 40.
+– Hemograma: Hemoglobina 12,6 g/dl, hematocrito 37 %, plaquetas 116.000, leucocitos 11.100 (10.000 neutrófilos, 500 linfocitos).
+– Coagulación: normal.
+
+
+Sospecha diagnóstica:
+Analizadas todas las características del caso se llegó a la sospecha diagnóstica de Síndrome de Cushing por:
+– Cambios morfotípicos: cara de luna llena, giba de búfalo, obesidad troncular, fragilidad cutánea, hirsutismo...
+– Cambios hidroelectrolíticos: retención hídrica, alcalosis hipopotasémica.
+– Neutrofilia con lifopenia
+
+Destacó, por otra parte, la presencia de datos sugerentes de Sdme. De Cushing por secreción ectópica de ACTH (hiperpigmentación cutánea, alteraciones electrolíticas, hipertensión arterial).
+
+Diagnóstico de Síndrome de Cushing:
+Para llegar al diagnóstico del cuadro se realizaron determinaciones basales de ACTH y cortisol, así como un test de frenado débil y fuerte con dexametasona. 
+
+Con los resultados obtenidos se confirmó el diagnóstico de Sdme. De Cushing que parecía, por la ausencia de frenado de secreción de cortisol con altas dosis de dexametasona, secundario a producción ectópica de ACTH.
+Se realizaron otras determinaciones analíticas para completar el estudio:
+√ T4L 0.8 ng/dl, TSH 1.47 uUI/ml.
+√ FSH 1.5 mUI/ml (25-139), LH <0.1 mUI/ml (7-65), estradiol 28 pg/ml (<46), progesterona 2.5 ng/ml (<0.8), PRL 326 mUL/ml, testosterona 1.3 pg/ml.
+√ GH basal 0.1 ng/ml (0-10), IGF-1 34 ng/ml (131-198).
+√ 5OHIndolacético urinario: 31.1mg/24h (normal<7).
+√ Calcitonina: 2900 pg/ml.
+√ PTH 165 pg/ml.
+√ Catecolaminas urinarias normales.
+√ Gastrina, insulina y péptido C normales.
+√ Ca 19.9: 131 (n<37).
+
+Pruebas de imagen:
+Rx tórax: Patrón intersticial en bases.
+Rx abdomen: Normal.
+Rx columna dorsolumbar: Aplastamiento de D10 y D8. Marcada osteoporosis.
+RNM hipofisaria: Silla turca parcialmente vacía.
+Eco abdominal: Hepatomegalia de ecogenicidad aumentada y múltiples lesiones focales en su interior que impresionan de metástasis.
+Eco tiroidea: Tamaño y ecoestructura normales.
+TC torácico: Pequeño nódulo en región posterior de LS de pulmón izquierdo, lateral al cayado aórtico.
+TC abdominal:
+➢ Imágenes hipodensas en segmentos II y VIII hepáticos (1 y 1.5 cm respectivamente).
+➢ Hiperplasia suprarrenal izquierda. Suprarrenal derecha hiperplásica/adenomatosa (3 × 1.5cm).
+➢ Cabeza de páncreas aumentada de tamaño.
+
+PAAF hepática: No se obtienen células neoplásicas.
+Gammagrafía con Octreótido-In111: Ausencia de captación.
+Arteriografía pancreática: Normal.
+Estudio del tubo digestivo: Normal.
+Gammagrafía con SESTAMIBI: Ausencia de focos de captación patológicos.
+
+Hipótesis diagnósticas:
+Estudiando en conjunto todos los hallazgos obtenidos en las pruebas complementarias, la paciente fue diagnosticada de Síndrome de Cushing secundario a tumor carcinoide plurisecretor (ACTH, PRL, calcitonina) con metástasis hepáticas. El origen de este podría ser:
+– Tumor carcinoide bronquial (causa más frecuente en la actualidad de producción ectópica de ACTH).
+– Tumor carcinoide digestivo (incluido páncreas), con la posibilidad de formar parte de un Síndrome de Neoplasia Endocrina Múltiple tipo 1.
+
+Actitud terapéutica:
+Ante la imposibilidad de localización del tumor primario y la presencia de metástasis hepáticas, se intentó tratamiento con ketoconazol a dosis crecientes, que tuvo que ser suspendido por empeoramiento de la función hepática.
+Finalmente se decidió realizar una suprarrenalectomía bilateral con biopsia hepática intraoperatoria. El análisis anatomopatológico de las piezas confirmó el diagnóstico, siendo positivo el estudio inmuno-histológico de ACTH. El estudio genético de MEN 1 fue negativo.
+La paciente falleció en el postoperatorio tardío como consecuencia de una bronconeumonía bilateral, no siendo posible la realización de necropsia.

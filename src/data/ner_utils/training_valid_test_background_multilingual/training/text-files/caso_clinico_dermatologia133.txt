@@ -1,0 +1,22 @@
+Anamnesis
+Mujer de 81 años que acude a urgencias por lesiones cutáneas diseminadas de 2 semanas de evolución. Estas lesiones, habían ido apareciendo de forma progresiva y evolucionaban a la ulceración y supuración. Refería dolor local asociado como única sintomatología; no presentaba quebrantamiento del estado general; no había presentado fiebre ni tiritona franca asociada, ni ninguna sintomatología a otros niveles. Como antecedentes médicos destacaban: alergia al ácido clavulánico, hipotiroidismo en tratamiento sustitutivo con levotiroxina, dislipemia en tratamiento con estatina, hipertensión arterial en tratamiento con indapamida y osteoporosis tratada con ácido risendrónico. En la historia clínica reciente, destacaba fractura rotuliana tratada de forma conservadora que había obligado a la paciente a permanecer durante 3 meses en una residencia de media estancia para tratamiento rehabilitador; había recibido el alta a domicilio hacía 3 semanas
+
+Exploración física
+Presentaba múltiples lesiones nodulares de 1-4 cm de diámetro, localizadas en abdomen y miembros, en diferentes estadios evolutivos: algunas de aspecto muy inflamatorio con importante celulitis perilesional, y otras con abertura al exterior, que con la mínima compresión drenaban contenido purulento. En alguna de las lesiones se podían apreciar varios orificios de drenaje. Además, en la zona del vello púbico, se observaban pústulas centradas por folículos pilosos.
+
+
+Exploraciones complementarias
+Se realizó cultivo de las lesiones y biopsia en ojal, de la cual se mandó una parte para estudio microbiológico, y otra para estudio anatomopatológico. En las dos tomas directas mediante torunda y en el cultivo de la biopsia, creció Staphylococcus aureus resistente a meticilina (SARM).
+La biopsia cutánea mostraba densos infiltrados de leucocitos polimorfonucleares, con microabcesificación y algunos focos de necrosis. No se apreciaban granulomas ni se observaban signos de vasculitis.
+Durante el ingreso hospitalario, la paciente sufrió un pico febril, por lo que se tomaron hemocultivos que resultaron negativos.
+Con el aislamiento microbiológico, y el antecedente de episodio febril, se decidió descartar afectación a otros niveles por Staphylococcus aureus: realizando ecocardiograma, radiografía de tórax y estudio del fondo de ojo por parte de oftalmología; todos sin hallazgos de metástasis sépticas.
+
+Diagnóstico
+Abscesos múltiples por SARM.
+
+Tratamiento
+Se decidió ingreso con tratamiento antibiótico empírico mediante piperacilina-tazobactam 4 g/500 mg cada 8 horas asociado a linezolid 600 mg cada 12 horas, con la intención de cubrir gérmenes multiresistentes tanto gram positivos como negativos.
+El antecedente de institucionalización reciente de larga duración fue el motivo de la elección de esta combinación. Se realizaron curas diarias con ácido fusídico en pomada, apósitos de silicona y vendaje no compresivo. Una vez se confirmó el aislamiento de SARM se decidió retirar la peracilina-tazobactam y mantener únicamente tratamiento con linezolid, el cual se mantuvo hasta completar dos semanas.
+
+Evolución
+Con la antibioterapia las lesiones se resolvieron por completo. Durante el ingreso, la paciente fue asilada por medicina preventiva y realizó tratamiento descolonizador específico.

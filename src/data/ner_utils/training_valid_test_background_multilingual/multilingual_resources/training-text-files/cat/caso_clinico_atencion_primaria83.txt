@@ -1,0 +1,48 @@
+Motiu de consulta
+Pacient home de 83 anys que acudeix per febre d'un dia d'evolució sense focus aparent.
+
+Enfocament individual (anamnesi, exploració, proves complementàries)
+Antecedents personals de: hipertensió arterial. Diabetis mellitus tipus II. Síndrome d'apnea obstructiva del somni (SAOS). Hipertròfia benigna de pròstata. Poliquistosis renal. Artritis gotosa. Malaltia d'Alzheimer.
+El pacient viu en domicili amb la seva dona i una filla. És dependent per a algunes activitats de vida diària encara que porta una vida activa, acudeix sempre ell al centre de salut acompanyat d'alguna de les seves filles.
+
+El pacient ve a consulta amb la seva filla per presentar febre d'un dia d'evolució de 38- 39o. Refereixen tos amb expectoració blanquinosa ocasional. No hi ha una altra focalidad aparent en l'anamnesi. L'única cosa que ens comenta la filla, cuidadora principal, és que ho troba amb més oblits i desorientació ocasional (per exemple, oblida que ha sopat) especialment a la nit i coincidint amb la febre. A l'exploració no hi ha res cridaner i el pacient presenta bon estat general, encara que ho trobem decaigut. En considerar-ho un pacient fràgil, iniciem amoxicilina 750mg de manera profilàctica.
+L'endemà realitzem avís domiciliari, demandat per la família perquè el pacient roman amb febre. De nou no trobem focalidad. El pacient segueix amb bon estat general, estable hemodinámicamente i amb una exploració anodina. Tranquil·litzem a la família i expliquem que el procés durarà diversos dies amb febre mantinguda, però que han d'estar atents a nous símptomes que puguin aparèixer i orientar al diagnòstic. El pacient ens acompanya fins a la sortida del seu domicili per a acomiadar-nos.
+
+Rebem nova demanda a domicili un dia després ja que el pacient presenta un gran empitjorament. La família ens compta que el pacient s'havia despertat bé, però que estava decaigut i va anar a descansar a la seva habitació, trobant-s'ho posteriorment desorientat i amb rigidesa generalitzada.
+
+A l'exploració el pacient es troba desorientat en temps i espai, amb tendència al somni i respon de manera incongruent a les nostres preguntes.
+
+Exploració (difícil per falta de col·laboració):
+Constants: TA 129/73, FC 117lpm, SatO2 90%, T 38.6o, glucèmia 137.
+Auscultació cardiopulmonar: Sense soplos, rítmic. MVC sense sorolls afegits.
+Abdomen globulós, no masses, no dolorós, no peritonismo.
+Membres inferiors: sense edemes ni signes de trombosis.
+Neurològic: Miosis bilateral reactiva. Aparentment moviments oculomotores conservats. Borramiento solc nasogeniano esquerre. Resta de parells cranials no valorables. Gran inestabilitat en la marxa. No pèrdua de sensibilitat cridanera. Pèrdua de força generalitzada. Kernig i Burdzinsky no valorables per defensa voluntària, encara que hi ha aparent rigidesa.
+
+Es decideix enviar al pacient a Urgències hospitalàries per a realitzar proves complementàries.
+A la seva arribada, entre les proves realitzades destaca:
+Analítica: PCR 0.9mg/dl, leucòcits 10330/μL amb 67% neutròfils i 17.9% de limfòcits. Plaquetes 186000/μL. Sistemàtic d'orina amb proteïnúria.
+
+Radiografia tòrax: mala tècnica. Índex cardiotorácico dins dels límits de la normalitat. Parènquima lliure sense congestió ni condensacions.
+TAC crani: prominència de solcs, cissures i cisternes amb moderada dilatació del sistema ventricular en relació amb atròfia corticosubcortical i/o involució senil. Adequada diferenciació de substància grisa-blanca. Fossa posterior sense troballes. No signes d'hemorràgia intracranial. No efecte massa. Resta d'estudi sense troballes.
+
+Durant la seva estada en Urgències el pacient presenta deterioració neurològica, mostrant-se progressivament somnolent, despertant només amb estímuls dolorosos. Es decideix realitzar per tant una punció lumbar, obtenint un líquid lleugerament tèrbol i la bioquímica del qual és: leucòcits 12/μL (100% mononuclears), glucosa 77mg/dl, proteïnes 70.9mg/dl.
+La tinció de Gram és negativa.
+L'estudi de PCRs detecta PCR positiva per a virus d'herpes simple tipus-1 (VHS-1).
+
+Enfocament familiar i comunitari
+Estructura familiar nuclear. El pacient conviu amb la seva dona i una de les seves dues filles.
+El seu cicle vital familiar, considerant el model de l'OMS modificat per De la Revilla, s'enquadra en l'etapa IV o ―contracció‖ (des que el primer fill abandona la llar fins que el fa l'últim).
+La filla menor viu amb els seus pares, sent la cuidadora principal de tots dos, especialment del pare, que precisa més atenció en ser més fràgil que la seva dona.
+
+Judici Clínic
+Meningoencefalitis per VHS-1. El diagnòstic diferencial que ens plantegem al començament del procés va ser una síndrome confusional agut. Posteriorment cal tenir en compte principalment altres infeccions del sistema nerviós central i, amb els valors bioquímics del LCR, cal pensar en altres infeccions virals, bacterianes molt precoces, avortades o meningoencefalitis tuberculosa. Altres diagnòstics serien encefalitis autoimmunes, metabòliques, tòxiques o isquèmiques.
+
+Pla d'acció i evolució
+El pacient ingressa a càrrec de Malalties Infeccioses i comença tractament amb Aciclovir iv (10mg/kg cada 8 hores).
+
+Evolució
+El pacient roman al llarg de l'ingrés desorientat, amb respostes incoherents a les preguntes realitzades, però al principi comença a menjar aliments triturats i està estable hemodinámicamente, sense febre.
+Al sisè dia el pacient presenta important deterioració, no obrint els ulls i només localitzant estímuls dolorosos. Oligúria amb diüresi de 100cc en 12 hores malgrat fluidoterapia intensiva. Es realitza analítica urgent on s'observa creatinina de 5.6mg/dl. Es deu possiblement a una necrosi tubular aguda per Aciclovir, per la qual cosa es reajusta tractament disminuint-ho a una dosi diària.
+S'afegeix amoxicilina 875mg/clavulánico 125mg al no poder descartar aspiració, ja que comença de nou amb febrícula, tos i augment de secrecions.
+Deterioració progressiva que requereix finalment la sedació del pacient que mor a l'onzè dia de l'ingrés.

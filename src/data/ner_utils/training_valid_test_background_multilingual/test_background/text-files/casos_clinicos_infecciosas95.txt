@@ -1,0 +1,37 @@
+Presentamos el caso de una paciente de sexo femenino de 83 años de edad, con alergia medicamentosa a sulfamidas, sin hábitos tóxicos, con antecedentes de hipertensión arterial, diabetes mellitus tipo 2 en tratamiento con insulina y buen control metabólico, cardiopatía hipertensiva severa con fracción de eyección del ventrículo izquierdo preservada, enfermedad renal crónica moderada (creatinina en torno a 1,2-1,3 mg/dl), y dermatomiositis en remisión desde hace más de 20 años.
+
+Acude al Servicio de Urgencias por cuadro de 24 horas de evolución de dolor, induración e impotencia funcional de miembro inferior derecho. La paciente refería el antecedente epidemiológico de mordedura superficial y arañazo en cara interna de tobillo derecho por su gato. Rápidamente comienza con fiebre de 38oC, intensificación del dolor y mayor extensión de zona afecta.
+
+En la exploración física, se encontraba afebril y estable hemodinámicamente TA 153/63 mmHg, FC 70 latidos por minuto, SatO2 98% con suplementación de oxígeno a 2 litros por minuto. Presentaba signos flogóticos en cara interna del tercio inferior de miembro inferior derecho, donde se objetivaban dos heridas incisas puntiformes de 0,3 x 0,2 cm de longitud cada una de ellas, a través de las cuales no se objetivaba salida de material purulento, con una zona central fluctuante. La placa celulítica se extendía hasta la cara interna del muslo ipsilateral. No se palpaban adenopatías locales ni regionales. El resto de la exploración fue completamente anodina. En los estudios complementarios destacaban una creatinina de 1,66 mg/dl (filtrado glomerular 31 ml/min) y proteína C reactiva de 117 mg/dl. El recuento de leucocitos fue normal (10390 células/μL con 50% de segmentados). El resto de parámetros bioquímicos carecían de relevancia. No se realizaron hemocultivos desde urgencias. La radiografía de tórax de ingreso mostraba marcada cardiomegalia global, elongación aórtica y sin evidencia de consolidación ni infiltrados en parénquimas pulmonares. Se realizó una prueba diagnóstica a su llegada a planta.
+
+Diagnóstico diferencial
+Los principales microorganismos que podrían estar implicados en el desarrollo de un proceso infeccioso tras una mordedura de gato son (microorganismos asociados a cavidad oral gatos y flora humana saprófita):
+
+Cavidad oral normal:
+- Pasteurella multocida
+- Bartonella henselae
+- Moraxella spp.
+- Staphylococcus y Streptococcus
+- Anaerobios
+Adquiridos:
+- Leptospira spp.
+- Listeria spp.
+- Nocardia spp.
+- Francisella tularensis
+Flora humana cutánea:
+- Staphylococcus spp.
+- Streptococcus spp.
+- Corynebacterias y Diphteroides
+- Anaerobios
+
+Como se puede observar vamos a diferenciar por un lado los microorganismos que forman parte de la flora habitual de la cavidad oral de los gatos (Pasteurella multocida, Bartonella henselae, Moraxella, Staphylococcus y Streptococcus, además de gérmenes anaerobios) y microorganismos adquiridos por contacto con otros animales o con el medio (Leptospira, Listeria, Nocardia, Francisella tularensis). Es importante no olvidar la flora habitual saprófita humana de la piel, dado que también puede verse implicada en este cuadro clínico. La celulitis por Bacteroides fragilis es la que más frecuentemente causa afectación sistémica dentro del grupo de los anaerobios. Su cápsula polisacárida promueve la formación de abscesos, siendo esta una característica fundamental del cuadro clínico, en nuestro caso no se llegó a formar abscesos.
+
+Los microorganismos del género de Streptococcus y Staphylococcus presentan un periodo de incubación de al menos 24- 48 horas antes de comenzar con síntomas evidentes (en nuestro caso el cuadro clínico se desarrolló en menos de de 6 horas) además se suelen asociar a la presencia de formación de abscesos y linfangitis localizada por lo que el diagnóstico por dicho germen es improbable. Bartonella henselae presenta ubicuidad en la cavidad oral de gatos y suele producir la enfermedad por arañazo de gato, se transmite mediante la saliva tras mordedura del animal, las personas afectas suelen presentar signos de infección cutánea en la zona cercana al punto de inoculación junto a la presencia de linfadenitis. La lesión cutánea suele ser la primera manifestación y aparece entre el tercer y décimo día tras mordedura, desapareciendo posteriormente tras 1 a 3 semanas. La linfadenopatía es el síntoma más específico de esta entidad y suele aparecer en torno a la segunda semana tras mordedura, resolviéndose posteriormente en un período de 1 a 4 meses. Más raramente se produce la bacteriemia y su diseminación visceral (hígado, bazo, sistema nervioso central u ojo). En nuestro caso, la rápida aparición de los síntomas y la ausencia de linfadenopatía nos hacían descartar dicho cuadro.
+
+En el mordisco de gato, tenemos que tener en gran consideración el microorganismo Pasteurella multocida. Dicho microorganismo, se encuentra tanto en la flora cutánea saprófita como en la flora de la cavidad oral del gato y es el microorganismo que más frecuentemente produce infección tras la mordedura de gato. El período de incubación es prácticamente inexistente dado que suelen presentar síntomas durante las primeras 6-12 horas tras la inoculación. La clínica consiste en la aparición de eritema, inflamación, dolor y emisión de alguna secreción en la zona de punción. La tendencia es que estén localizadas. Sin embargo, existe el riesgo de que se extiendan a tejidos próximos, produciendo fiebre, linfangitis y adenopatía regional. Si se produce una bacteriemia podríamos encontrar infección diseminada e incluso osteomielitis, artritis, tenosinovitis, meningitis, absceso cerebral, neumonía y endocarditis. Como anteriormente se ha expuesto, la sintomatología en nuestra paciente fue prácticamente de inmediato pero afectación exclusivamente local, no obstante es uno de los microorganismos a considerar como posible agente causal.
+
+Evolución
+En planta, se tomó muestra mediante la realización de punción-aspiración con aguja fina (PAAF) de la zona lesionada obteniendo exudado seroso y muestra con torunda de la piel afecta. Se inició tratamiento empírico con amoxicilina-clavulánico a dosis de 1 gr cada 8 horas por vía endovenosa (iv) a la espera de los resultados del cultivo. A las 24 horas del inicio de antibioterapia, comienza con cuadro de diarrea que nos obliga a reemplazar el esquema a clindamicina (600 mg cada 6 horas iv) más ceftriaxona (2 gr cada 24 horas iv), solicitándose toxina de Clostridium difficile y coprocultivo, que resultaron negativos. En los cultivos se aisla Pasteurella multocida sensible a quinolonas, simplificando antibioterapia según antibiograma a ciprofloxacino a dosis de 400 mg iv cada 12 horas. Durante su estancia hospitalaria la paciente se mantuvo afebril, pero con evolución lenta del proceso infeccioso, persistiendo signos inflamatorios importantes, ante la posibilidad de complicación local, se realiza una ecografía doppler del miembro inferior derecho descartándose la presencia de trombosis venosa profunda, sin embargo analíticamente se normalizaron los parámetros de reactantes de fase aguda. Finalmente, se completaron 14 días de ciclo antibiótico, siendo los últimos 4 días administrado por vía oral.
+
+Diagnóstico final
+Celulitis por Pasteurella multocida en paciente diabética tras mordedura y arañazo de gato.

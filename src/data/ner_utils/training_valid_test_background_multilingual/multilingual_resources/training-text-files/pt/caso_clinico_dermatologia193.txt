@@ -1,0 +1,26 @@
+Anamnese
+Uma mulher de 72 anos de idade veio à clínica de dermatologia para uma lesão de seis dias de evolução no cotovelo esquerdo, associada a febre nos dias anteriores à consulta, caso contrário sem outros sintomas. Ela tinha sofrido um trauma na área com uma planta duas semanas antes, embora esta história só tenha sido relatada vários dias após o primeiro contacto com o nosso departamento. A paciente não tinha antecedentes familiares de interesse e sofria de diabetes mellitus tipo II em tratamento com antidiabéticos orais, hipotiroidismo em tratamento de substituição com levothyroxina e cancro da mama em remissão desde 2009. Não tinha hábitos tóxicos, alterações recentes na sua medicação habitual ou contacto com o campo e/ou animais.
+
+Exame físico
+No cotovelo esquerdo havia uma placa eritematosa e violácea de aproximadamente 2x2,5 cm, circular, com uma superfície pseudovesicular e pustulosa que mais tarde se ulcerou e mostrou um exsudado hemorrágico-purulento e uma auréola eritematosa perilesional. Além disso, havia gânglios linfáticos móveis de aproximadamente 1 cm de tamanho e dolorosos a nível axilar e medialmente à fossa antecubital.
+
+Exames complementares
+Foram realizados os seguintes testes complementares:
+1. Iconografia. Fotografia da lesão primária da pele e das adenopatias em trânsito após o paciente ter assinado um termo de consentimento informado.
+Biopsia. Após assinatura do termo de consentimento informado e sob anestesia local com 2% de mepivacaína, foram recolhidas amostras com um punção de 4 mm a partir da periferia da lesão e do centro. Estas amostras foram enviadas para patologia anatómica e microbiologia, respectivamente. Anatomia patológica: a biópsia revelou uma epiderme inalterada e um infiltrado histiocitário na hipoderme (detectado pela coloração CD68), microabcessos e necrose. Não havia indícios de infecção fúngica na coloração com prata. Microbiologia: culturas foram cultivadas no meio Sabouraud dextrose Agar, entre outros, e obtiveram-se colónias de laranjas que emitiam um odor húmido de terra, as quais foram identificadas como Nocardia brasiliensis. Um antibiograma mostrou sensibilidade a: trimethoprim sulfametoxazol, linezolida, cefotaxima, amoxicilina/clavulanato e tigeciclina; e resistência a: amikacina, ciprofloxacina, levofloxacina, imipenem.
+Cultura e Gram. As amostras foram obtidas com uma zaragatoa para cultura e coloração de Gram. A cultura e a mancha de grama do exsudado mostraram uma flora de contaminação externa.
+3. Testes laboratoriais
+- Hemoglobina: hemoglobina: 10,6 g/dl, leucócitos: 5550 com fórmula normal, plaquetas 291000, V.S.G.: 26 mm/hora.
+- Bioquímica: perfis hepáticos e renais normais com níveis de proteína C-reactiva de 28,5 mg/L.
+- Proteinograma: rastreio compatível com síndrome inflamatória moderada e hipogamaglobulinemia moderada.
+- Coagulação normal.
+4. A serologia para rickettsiae e borrelia foi negativa.
+
+Diagnóstico
+Linfangite nodular devido à nocardia brasiliensis.
+
+Tratamento
+Inicialmente, foi estabelecido um diagnóstico clínico de possível picada de artrópodes e tratamento empírico com cefotaxima 1g/8 h IV, metronidazol 500 mg/8 h IV e ciprofloxacina 250mg/12 h PO, para além do tratamento local com ácido fusídico e betametasona. Após diagnóstico microbiológico, o tratamento de escolha foi estabelecido com trimetoprim sulfametoxazol 169mg/800mg de 12 em 12 horas durante três meses.
+
+Evolução
+A evolução do paciente foi favorável, com cura completa da lesão primária três semanas após o tratamento de escolha e desaparecimento da linfadenopatia em trânsito após um mês. Não houve evidência de citopênias durante todo o tratamento e o doente está actualmente assintomático.

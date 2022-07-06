@@ -1,0 +1,36 @@
+Anamnesis
+Varón de 48 anos.
+
+ANTECEDENTES PERSOAIS: Alergia a Cefuroxima e Septrim (reacción cutánea). Fumador de 15 paquete/ano e bebedor de 2 viños á semana. VIH + desde 1992 en control por Unidade de Enfermidades Infecciosas (UEI) con estadio C3 do CDC; en 1994 varios ingresos por neumonías de repetición (bacterianas e por Pneumocystis carinii), tuberculosis pulmonar e ganglionar. Tratamento habitual: Raltegravir 400 1/12h, Maraviroc 150 1/12h, Ritonavir 100 1/24h, Darunavir 400 2/24h, Ferro oral antes do almorzo, Omeprazol 40 mg/24 h.
+
+ENFERMIDADE ACTUAL:
+En febreiro de 2011, acode a revisión en consultas de UEI e comenta a aparición de certo grado de astenia progresiva con epigastralgia desde fai varios meses, acompañado desde o último mes de deposiciones melénicas, polo que lle realizan unha análise objetivando unha hemoglobina (Hb) de 4.7, polo que deciden ingreso para estudo.
+
+Exploración física
+Estable hemodinámicamente, afebril. Consciente, orientado, ben hidratado e perfundido, eupneico. Palidez cutaneo-mucosa. AC: Rítmica. AP: Murmullo vesicular conservado. Abdomen: Brando, depresible, leve dor en rexión epigástrico á palpación profunda con sensación de masa a devandito nivel. Non signos de irritación peritoneal. Peristaltismo presente. Extremidades inferiores: Non edemas nin signos de trombosis venosa profunda.
+
+Probas complementarias
+- ANÁLISES (07/02/2011): Albúmina 31.2, PCR 14.4, Hb 4.7, Plaquetas 418000, Leucocitos 9380, Neutrófilos 5720. Coagulación normal.
+- MARCADORES TUMORALES: Antígeno Carcinoembrionario (CEA); CA 125 e Ca 19.9: Negativos.
+- GASTROSCOPIA: Gran masa ulcerada na curvadura menor de aspecto neoplásico, con toma de biopsias da zona sospeitosa.
+- ANATOMÍA PATOLÓGICA: Biopsia gástrica positiva para Adenocarcinoma.
+- TAC ABDOMINO-PÉLVICO: Masa a nivel de curvadura menor do estómago, con adenopatías en ligamento gastrohepático, tronco celíaco e espazo portocava.
+- ECOGRAFÍA ABADOMINAL: Hemangioma hepático en segmento V.
+- TAC TORÁCICO: Sen evidencia de patología.
+
+Diagnóstico
+Adenocarcinoma gástrico localmente avanzado cT2 (dubidosa M1 por adenopatías retroperitoneales por TAC).
+
+Tratamento
+No Comité de tumores Gastroesofágicos decidiuse que ante a presenza de masa voluminosa e das adenopatías, pedísese un PET-TAC para ver o comportamento das adenopatías, si captaban comezaríase con Quimioterapia paliativa por considerarse estas como metástasis; si non captaban comezaríase con QT neoadyuvante e tras revalorar o caso suscitaríase intervención quirúrgica.
+- PET-TAC (02/03/2011): Obsérvase captación a nivel gástrico sen que capten as adenopatías retroperitoneales.
+O 28/02/2011 comenza tratamento co primeiro ciclo de QT Neoadyuvante con Cisplatino (75 mg/m2), Docetaxel (75 mg/m2) e 5-Fluorouracilo (750 mg/m2).
+
+Evolución
+Aos 5 días do primeiro ciclo de QT presentou unha importante toxicidade, con enteritis e insuficiencia renal prerrenal, anemia que precisou trasfusión e mucositis. Realizouse unha análise xenética para as mutaciones das enzimas que catabolizan o 5-Fluorouracilo (5-FU), obtendo como resultado heterocigoto para MTHFR C677T o que lle produce unha intolerancia á administracion de 5-FU.
+Ante a toxicidade cámbiase o esquema a CPT-11 (Irinotecan 125 mg/m2) semanal administrando 4 dose do 1 de abril ao 22 de Abril, con moderada tolerancia xa que durante a administración comeza con hiperbilirrubinemia e aumento das enzimas hepáticas sen atopar outra etiología que o tratamento quimioterápico.
+Ao mes de finalizar a QT volve a consultas de Oncología Médica con Análise onde só se observa leve anemia con Hb de 11.1, mejoría da función hepática e marcadores tumorales negativos, cun TAC onde se observa a masa no estómago e as adenopatías retroperitoneales sen cambios; e o PET-TAC onde capta a masa no estómago e non captan as adenopatías.
+Por todo isto defínese como Enfermidade Estable, relacionando as adenopatías á súa antecedente de enfermidade polo VIH e non á enfermidade tumoral, polo que se decide intervención quirúrgica.
+O 13/06/2011 realízanlle gastrectomía parcial do 70%, linfadenectomía D2 e omentectomia. Con resultado de anatomía patológica de Adenocarcinoma pobremente diferenciado e áreas de moderadamente diferenciado, afectando á capa muscular, con bordos de resección libres e con 47 ganglios libres de metástasis. Estadiaje definitivo ypT2 ypN0. Estadio IB.
+Ante a mala tolerancia ao tratamento quimioterápico decídese non dar quimioterapia adyuvante, e desde entón pasa a controis.
+Actualmente sen evidencia de enfermidade a 5 anos da cirugía, en control anual con TAC, análise e marcadores tumorales.

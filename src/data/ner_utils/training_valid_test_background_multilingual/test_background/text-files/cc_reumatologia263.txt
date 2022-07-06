@@ -1,0 +1,28 @@
+Lactante sin antecedentes personales de interés salvo nacimiento a las 35 semanas de gestación, sin incidencias reseñables en periodo neonatal, bien vacunado (incluida vacuna de rotavirus y meningococo B) que ingresa con historia de fiebre de 8 días de evolución con picos de hasta 38.7oC cada 6-8 horas, rinorrea clara, tos esporádica e hiperemia conjuntival desde el inicio, así como deposiciones más frecuentes y algo menos consistentes 5-6/día escasas. En el 3a día de fiebre presenta lesiones maculares hiperémicas, generalizadas, que desaparecen en menos de 24 horas y que reaparecen hace 24 horas en miembros inferiores. Llama la atención la gran irritabilidad, llanto frecuente que no calma en brazos de los padres. Se encuentra en tratamiento con cefixima oral desde hace 3 días tras consultar en otro hospital, donde tras analítica de sangre (leucocitos 16600/ mm3, PMN 12440/uL, Hb 10.6 g/dL, plaquetas 351000/uL, PCR 320 mg/L, ALT 28 U/L) y orina (leucocituria), diagnostican de posible infección del tracto urinario (urocultivo recogido hoy negativo).
+En la exploración presentaba: peso 8.5 Kg. Buen estado general. Buena nutrición e hidratación. Bien perfundido Exantema macular hiperémico de predominio en extremidades, no petequias. Hiperemia conjuntival bilateral sin secreción. Ausencia de adenopatías groseras. Labios hiperémicos y agrietados.
+Orofaringe: normal. Otoscopia: discreta hiperemia timpánica. Ap. Cardiorespiratorio: Buena ventilación, no estertores, tonos rítmicos sin soplos. Abdomen: Blando, no doloroso, no masas ni visceromegalias.
+S. Nervioso: Normal, irritabilidad. No signos meníngeos. Locomotor: Moderado edema e hiperemia de dorso de manos y pies.
+
+PRUEBAS COMPLEMENTARIAS
+— Hemograma: hematíes 4600000 /mm3, hemoglobina 11.6 g/dl, hematocrito 35 %, VCM: 77 μ3, HCM: 25 g/dl, leucocitos 17490 /mm3, neutrófilos 56 %, linfocitos 27%, monocitos 13 %, plaquetas: 273000 /mm3.
+— Coagulación: fibrinógeno 550 mg/dL, resto normal. DD 1950 ug/L (<500).
+— VSG 26 mm, PCR 189 mg/L. PCT 0.49 ng/mL. Ferritina 123 ng/mL
+— Bioquímica básica, hepática y cardiaca normal. Colesterol 84 mg/dL, TG 367 mg/dL
+— IgA 105 mg/dL, IgG 513 mg/dL, IgM 114 mg/dL, IgE 64 kU/L
+— Serología EBV, CMV, Rickettsia, parvovirus negativa.
+— Rx de tórax: normal
+— Ecocardiografía: ordenación segmentaria normal. Derrame pericárdico pequeño. No dilatación de cavidades con buena contractilidad ventricular. DDVI: 26 mms. Septo y p.p. 4 mms. FEVI: 68%. No dilatación ni hiperrefringencia de coronarias. No insuficiencias valvulares.
+
+DIAGNÓSTICO DIFERENCIAL
+Con los datos clínicos y analíticos de que disponíamos, diagnosticamos a nuestro paciente de Enfermedad de Kawasaki (EK) incompleta con afectación cardiaca.
+
+EVOLUCIÓN Y TRATAMIENTO
+Al tratarse de un niño menor de 12 meses, con moderada- importante respuesta inflamatoria e hiponatremia (2 factores de riesgo para desarrollar aneurismas coronarios además de la edad) se decide instaurar tratamiento con gammglobulina iv (IgIV) 2 gr/Kg en infusión lenta + ácido acetilsalicílico (ASS) 50 mg/Kg/ día y corticoides en bolos de 30 mg/Kg/día (2 días). Queda afebril durante la infusión de gammaglobulinas, se normaliza la exploración y los reactantes de fase aguda (PCR, DD) manteniendo leucocitosis y apareciendo trombocitosis (683000/mm3).
+En ecocardiograma de control en su 3o día de ingreso, se observa un derrame pericárdico pequeño posterolateral (5 mms en sístole, 2 mms en diástole), VI de tamaño normal (28 mms) con buena contractilidad, sin insuficiencias valvulares, ligera ectasia de la arteria coronaria izquierda (ACI) 3 mms, z-score 2, y de la arteria descendente anterior (ADA), 2 mms, z-score 2.
+Se da alta hospitalaria con tratamiento con prednisolona 1 mg/Kg/día (pauta descendente) y ASS a dosis antiagregante. Se objetiva descamación de piel de dedos de las manos a los pocos días del alta.
+A los 4 días de suspender corticoides (2 semanas tras el alta), reaparece fiebre en bajo grado (máxima 38oC), hiperemia conjuntival, lesiones cutáneas e irritabilidad, síntomas catarrales en los días previos. Se decide nuevo ingreso.
+— Hemograma: hematíes 4400000 /mm3, hemoglobina 10.9 g/dl, hematocrito 33 %, VCM 74 μ3, HCM 25 g/dl, leucocitos 10340 /mm3, neutrófilos 26 %, Linfocitos 62%, Monocitos11 %, Eosinófilos1 %, plaquetas 295000/mm3.
+— Bioquímica normal.
+— PCR 62 mg/L, PCT 0.29 ng/mL, Ferritina 112 ng/mL. TG 160 mg/dL
+— Ecocardiograma: No derrame pericárdico. Buena contractilidad biventricular. No insuficiencias valvulares. Ectasia ligera de 3 mm de ACI y ADA de 2,5 mms, similar a control previo. En ADA se detecta dudoso trombo intraluminal de menos del 50% del tamaño intraluminal.
+Se decide hacer nuevo pase de gammaglobulina y metilprednisolona iv (2 mg/Kg/día). Presenta una respuesta adecuada que permite el alta hospitalaria a las 72 horas con tratamiento con corticoides orales, manteniendo ASS a 5 mg/Kg/día. Tras la suspensión de corticoides, el paciente continúa asintomático. En último control ecográfico (4 meses después del primer ingreso) se ha normalizado el tamaño de las coronarias afectadas, por lo que se suspende el tratamiento con ASS.

@@ -1,0 +1,44 @@
+A 17-year-old man from Romania with no previous history or usual treatment who had been living in Spain for 1 year with his family, who were healthy. He did not report any toxic habits. He consulted the emergency department for a 7-day history of continuous frontal headache radiating to the occipital region, which in the last 48 hours had been accompanied by a fever of up to 39°C and several episodes of vomiting in shotgun fashion. In the rest of the anamnesis, the patient presented no other clinical manifestations by organs and apparatus. He was being treated with amoxicillin and ibuprofen prescribed by his primary care physician, with little response.
+
+On physical examination he was in good general condition, although febrile at 38.8o, haemodynamically and ventilatorily stable, with a Glasgow Coma Scale score of 15 and no neurological focality except for moderate nuchal rigidity.
+
+The haemogram showed a leukocytosis of 15,600 per mm3 with 86% neutrophils and a C-reactive protein of 26.5 mg/dl; the rest of the haemogram, biochemistry and coagulation were normal. The chest X-ray did not show any condensation, hilar adenopathies or signs of pleural effusion. A lumbar puncture was performed, after fundus examination, which ruled out the presence of papillitis, and a clear cerebrospinal fluid (CSF) with slightly increased outflow pressure was obtained. The CSF Gram stain was negative with biochemistry showing 21 leukocytes (83% lymphocytes), glycosuria of 54 mg/dl, proteinuria of 90 mg/dl and an adenosine deaminase of 15 U/l. The patient was admitted to the Infectious Diseases Unit with a syndromic diagnosis of lymphocytic meningitis of possible tuberculous aetiology with antibiotic coverage (ceftriaxone and vancomycin) and acyclovir while awaiting the results of the aetiological study (DNA hybridisation by polymerase chain reaction-PCR- and CSF cultures, serology and blood cultures).
+
+Differential diagnosis
+With the syndromic diagnosis of lymphocytic meningitis, the differential diagnosis was considered as follows:
+
+Bacterial meningitis:
+- Partially treated meningitis.
+- Listeria monocytogenes meningitis.
+- Meningitis due to spirochetes (Treponema spp. Borrelia spp.).
+- Bacterial infective endocarditis.
+- Suppurative pictures due to parameningeal foci.
+- Meningitis due to intracellular microorganisms (Rickettsia spp., Coxiella burnetti).
+
+Viral meningitis:
+- Enterovirus meningitis.
+- Herpesvirus meningitis.
+- Human immunodeficiency virus (HIV) meningitis.
+- adenovirus meningitis
+- lymphocytic choriomeningitis virus meningitis.
+- influenzavirus meningitis
+- mumps meningitis
+- arbovirus meningitis tuberculous meningitis fungal meningitis
+
+non-infectious meningitis
+- Neoplastic meningitis.
+- Neurosarcoidosis.
+- Chemical meningitis (non-steroidal anti-inflammatory drugs, cotrimoxazole...).
+
+Evolution
+CSF PCR for enterovirus, herpesvirus, mumps, Toscana virus and Mycobacterium tuberculosis were negative, as well as CSF reagin test, serology for HIV, Borrelia, Treponema pallidum, Rickettsia spp and Coxiella burnetti. Clinically, the patient was still febrile after 72 hours, and the headache and vomiting had worsened, so an urgent cranial computed tomography (CT) scan was requested. The CT scan showed a bifrontal fluid collection extending over almost the entire surface of both lobes with moderate mass effect and signs of cerebritis, with pathological uptake of the dura mater. 
+Cranial CT scan (axial section and sagittal reconstruction): hypodense collection corresponding to epidural empyema with contrast uptake of the dura mater was observed.
+In addition, there was lysis of the posterior wall of the left frontal sinus, which was confirmed by three-dimensional bone reconstruction as the probable parameningeal origin of the collection. 
+Cranial CT scan (axial section in bone window and three-dimensional bone reconstruction): a solution of continuity of the posterior wall of the left frontal sinus was observed.
+With the radiological diagnosis of epidural empyema, the neurosurgery department was contacted and decided to intervene urgently on the patient after a cranial magnetic resonance imaging (MRI) scan to complete the study. This confirmed epidural involvement as well as a subdural and parietal component of the empyema measuring up to 16 mm. 
+Cranial MRI scan (sagittal T1 and axial T2 before craniotomy): a subdural component of the empyema and parietal involvement of the empyema were observed.
+Together with pansinusitis of both maxillary, frontal and left ethmoid sinuses. In the water diffusion sequence there was water restriction, which strongly supported the purulent origin of the collection. A bifrontal craniotomy and a right parietal trephine were performed with evacuation of the purulent contents and cranialisation of the frontal sinus together with a galea flap to seal the fistula. Intraoperative findings were an epidural plastron with a thickened and yellowish dura mater. Concurrent blood cultures and CSF cultures, including long incubation cultures for mycobacteria and fungi, were negative, but the intraoperative sample was negative for Streptococcus constellatus and Prevotella oris, the latter resistant to penicillin G.
+Intravenous antibiotic coverage consisting of cefotaxime 2 grams every 4 hours and metronidazole 500 milligrams every 6 hours was chosen and continued for 6 weeks. The patient's evolution was very favourable, remaining afebrile at all times and presenting no neurological symptoms of any kind, although in the control MRI a certain 5 mm component of the empyema persisted (T1 sagittal and T2 axial MRI of the skull after the craniotomy, showing practically complete evacuation of the empyema with a small residual component of about 5 mm) which it was decided not to evacuate, nor the rest of the paranasal sinuses. Subsequent examinations confirmed the complete resolution of the empyema and pansinusitis, and the patient was asymptomatic with no recurrence of the process at the present time.
+
+Final diagnosis
+The final diagnosis was polymicrobial epidural and subdural empyema secondary to sinusitis with fistula of the posterior wall of the left frontal sinus.

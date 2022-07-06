@@ -1,0 +1,44 @@
+Motivo della consultazione
+Aumento della dispnea e della tosse
+
+Storia personale
+- Nessuna allergia nota.
+- DM di tipo II in trattamento con antidiabetici orali.
+- HT in trattamento con Telmisartan 40 mg.
+- Fumatore attivo di 10 sigarette al giorno.
+- Bevitore occasionale.
+- BPCO con FEV1 del 60%.
+- Ha avuto due esacerbazioni nell'ultimo anno, l'ultima 7 mesi fa.
+- Viene trattato con beta-2 a lunga durata d'azione e anticolinergici a lunga durata d'azione.
+
+STORIA ATTUALE
+Si consulta perché negli ultimi 3 giorni ha avuto un aumento della sua dispnea abituale con tosse ed espettorazione in quantità maggiore del solito e di colore verdastro. La situazione non è migliorata nonostante il trattamento dato dal suo medico e nelle ultime 12 ore la dispnea è diventata uno sforzo minimo che gli impedisce di lavarsi ogni giorno, per il quale si consulta. 
+
+ESAME FISICO
+Consapevole e orientato nel tempo e nello spazio. Cianosi centrale. Pressione: 185/110, FC di 130 bpm, RR di 28 rpm. O2 Sat dell'89%, To di 36.8oC, glicemia di 240. - AC: Ritmico, nessun mormorio udibile. - AP: affanno espiratorio in entrambi i campi polmonari con ronchi isolati. - ABD: Morbido depressibile, nessuna visceromegalia o massa. Non doloroso. - EEII: Edema pretibiale minimo. Impulsi presenti e simmetrici. Sono state richieste esplorazioni complementari e il trattamento è stato iniziato con: - Ossigenoterapia: maschera Ventimask con una FiO2 di 0,3. - Beta 2 (salbutamolo 5 mg) + anticolinergici (Ipratropium 0,5 mg) nebulizzati e ripetuti inizialmente ogni 4 ore. - Corticosteroidi sistemici (80 mg iv). Questa è una grave esacerbazione della BPCO e tutte le esacerbazioni gravi beneficiano del trattamento con corticosteroidi sistemici. Seguire con 40 mg/iv/6 ore dopo. - Antibiotici (moxifloxacina 400 mg IV/24 h).
+
+ESPLORAZIONI COMPLEMENTARI
+Radiografia del torace: cardiomegalia. Ilarità leggermente congestizia con un minimo schema interstiziale a questo livello. Ridistribuzione vascolare con aumento della distribuzione vascolare alle basi. Nessuna infiltrazione. ECG: ritmo sinusale a 110 bpm. Nessuna alterazione della ripolarizzazione.
+BIOCHIMICA
+GLUCOSIO 265 mg/dl [ 70 - 110 ] UREA 26 mg/dl [ 15 - 50 ] CREATININA 1 mg/dl [ 0.6 - 1.3 ] SODIO 142 mmol/L [ 135 - 148 ] POTASSIO 3. 8 mmol/L [ 3.6 - 5.2 ] EMATOLOGIA LEUCOCITI 10.12 x10^3/uL [ 4.8 - 10.8 ] NEUTROFILI 87.5 % [ 43 - 65 ] LINMPOCITI 5.6 % [ 20.5 - 45. 5 ] MONOCITI 6.8 % [ 5.5 - 11.7 ] EOSINOPHILES 0 % [ 0.9 - 2.9 ] BASOPHILES 0.1 % [ 0.2 - 1 ] EMOGLOBINA 16.6 g/dl [ 14 - 18 ] EMATOCRITA 49. 7 % [ 42 - 52 ] PLAKETS 191 x10^3/uL [ 130 - 400 ] GASOMETRIA ARTERIALE pH 7.3 pCO2 77.3 mmHg pO2 54.5 mmHg cHCO3 37.4 mmol/L O2 Sat 89%.
+
+Dati i risultati analitici di acidosi respiratoria e una radiografia con una semiologia che può suggerire un'insufficienza cardiaca incipiente, insieme all'edema malleolare, si è deciso di aggiungere la furosemide al trattamento e il controllo gasometrico venoso in un'ora, nel caso fosse necessario iniziare la ventilazione meccanica non invasiva.
+
+EVOLUZIONE, ATTESA E OSSERVAZIONE
+Dopo 60 minuti di trattamento corretto, è stato effettuato un controllo gasometrico con i seguenti risultati: Gasometria venosa pH 7,31 pCO2 74,3 mmHg pO2 44,5 mmHg HCO3 36,4 mmol/L Pulsossimetria 91%.
+Visto lo scarso miglioramento nonostante il trattamento corretto, si è deciso di iniziare la ventilazione meccanica non invasiva in modalità BiPAP con una IPAP di 16 e una EPAP di 6 e una FiO2 di 0,3 Qualche tempo dopo è stata eseguita una nuova analisi dei gas sanguigni venosi in cui si può vedere: Gas sanguigni venosi pH 7,383 pCO2 59,1 mmHg pO2 27,6 mmHg cHCO3 34,4 mmol/L saturazione di O2 del 95%.
+Si decise di mantenere la NIV, continuando il trattamento di cui sopra e dopo 10 ore il paziente presentò i seguenti gas sanguigni: pH 7,467 pCO2 46,1 mmHg pO2 49,3 mmHg HCO3 32,9 mmol/L saturazione di O2 del 97%.
+
+RISOLUZIONE, ORIENTAMENTO E TRASFERIMENTO
+Si è deciso di iniziare il ritiro progressivo della ventilazione meccanica non invasiva e il ricovero nel reparto di pneumologia per il monitoraggio e il trattamento definitivo. Trattamento all'ammissione - dieta diabetica senza sale.
+- Ossigenoterapia: maschera Ventimask con una FiO2 di 0,28
+- Brocodilatatori: Beta 2 (salbutamolo 400 μg) + anticolinergici (Ipratropium 120 μg) con camera spaziatrice ogni 6 ore.
+- Corticosteroidi sistemici: metilprednisolone 40 mg/iv/6 ore.
+- Antibiotici: Moxifloxacina 400 mg iv/24 ore.
+- Furosemide 20 mg iv/24 ore.
+- Enoxaparina 40 mg sc/24 h.
+- Telmisartan 40 mg iv/24h.
+- Glucometro prima di colazione, pranzo e cena con regime di insulina.
+
+SPERIMENTAZIONE CLINICA
+COPD MODERATO CON ESACERBAZIONE GRAVE A CAUSA DI UN'INFEZIONE BATTERICA.

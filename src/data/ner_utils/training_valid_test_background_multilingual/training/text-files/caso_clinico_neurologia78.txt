@@ -1,0 +1,32 @@
+Anamnesis
+Paciente de 66 años con los siguientes antecedentes personales: no alergias conocidas. Hábitos tóxicos: exfumador hasta hace 14 años, IPA 30, exbebedor importante desde hace más de 20 años, actualmente bebedor de un vaso de vino al día; no viajes, actualmente no contacto con animales, cazador, que comía lo cazado pero bajo control, hipertensión arterial, hipercolesterolemia, hipergammaglobulinemia policlonal, osteoartrosis, artritis gotosa, episodios de lumbociatalgia, intervención quirúrgica osteosíntesis del miembro inferior izquierdo (accidente laboral). Tratamiento habitual: fluvastatina, diacereína, omeprazol, enalapril + hidroclorotiazida. Situación basal: IAVD. No deterioro cognitivo. Deambulación autónoma. Jubilado, empleado en una granja de pollos. Antecedentes familiares: sin interés. El paciente es traído al Servicio de Urgencias por una clínica objetivada por la familia, el mismo día por la mañana, consistente en alteración para la emisión del lenguaje, con lenguaje incoherente y alteración en la comprensión. Además, presentaba desorientación témporo-espacial, desviación de la comisura bucal hacia la izquierda y alteración para la marcha con latero-desviación no sistematizada. En la noche previa había presentado varios vómitos alimentarios y deposiciones blandas sin productos patológicos. No fiebre. No otra focalidad neurológica en la anamnesis.
+El mismo día había sido valorado por su médico de Atención Primaria, que describe en el informe que el paciente presentaba una marcha atáxica y una desviación de la comisura bucal hacia la izquierda, sin signos meníngeos, por lo que le deriva a Urgencias para su estudio.
+
+Examen físico
+Exploración neurológica en Urgencias: consciente, desorientado en tiempo. Pupilas isocóricas y normorreactivas. Nistagmus horizontal. No rigidez de nuca, no signos meníngeos, ataxia de la marcha con lateropulsión sobre todo a la derecha. Romberg positivo. Resto de la exploración sin hallazgos.
+A su ingreso en planta de Neurología al día siguiente: alerta. Consciente. Obedece órdenes axiales. Lenguaje con poca fluidez y palabras aisladas. Se intoxica fácilmente con la orden previa y con órdenes de dos pasos. Nomina 1/3. No repite. Obedece órdenes por imitación después de repetirle varias veces. Desorientado en tiempo y espacio. Perseverante. No defectos campimétricos por el reflejo de amenaza. FO: no colabora, se objetiva movimiento continuo compatible con nistagmo. Pupilas isocóricas y normorreactivas. MOE: no colabora adecuadamente, no se objetivan oftalmoparesias. Leve paresia facial central izquierda. No claudica en Barré, ni en Mingazzini. Sensibilidad tactoalgésica: retira ante estímulo nociceptivo. REM +/++++ y simétricos. RCP: flexor bilateral. Imposibilidad para mantener la sedestación y la bipedestación. Coordinación: no dismetría dedo-nariz. No signos meníngeos. Tensión arterial 160/90 mmHg, frecuencia cardiaca 82 lpm, saturación de O2 basal 90%, eupneico, afebril.
+Exploración somática: no lesiones cutáneas. Cabeza y cuello: sin hallazgos. Auscultación cardiaca: rítmica, no soplos. Auscultación pulmonar: murmullo vesicular conservado, crepitantes bibasales más intensos en la base derecha, roncus de forma diseminada. Abdomen: sin hallazgos. Extremidades: desviación ósea a nivel supramaleolar externo izquierdo postquirúrgica. Resto normal.
+
+Pruebas complementarias
+• Analítica: normal. Coagulación: déficit de ATIII (68%). Proteinograma normal. IgG 2211 e IgA 533. Beta-2-microglobulina: 1559. Marcadores tumorales negativos. Estudio de autoinmunidad normal. Hemocultivo y urocultivo: negativos. Serología en sangre: Brucela, VIH hepatitis B y C y lúes negativas. LCR: cél.: 5 hematíes: 1 glucosa: 84 proteínas: 183 ácido láctico: 2,8 alb: 102,8 adal: 4 gram.
+• LCR: no se observan microorganismos. Cultivo: estéril hongos y micobacterias. PCR virus herpes: no se detecta VHS ni VVZ.
+• Electrocardiograma (ECG): ritmo sinusal a 67 lpm, eje eléctrico normal, sin alteraciones de la repolarización.
+• Radiografía de tórax posteroanterior: rotada, aumento del ICT, no se visualiza el seno costofrénico izquierdo, con infiltrado basal izquierdo.
+• Ecocardiografía: cavidades cardiacas de tamaño normal. Función biventricular conservada. No valvulopatías significativas. Sin imágenes anómalas.
+• Ecografía de abdomen completo: normal.
+• Gastroscopia: linfangiectasia. Cavidad gástrica parcialmente valorable por contenido alimentario.
+• Electroencefalograma (EEG): actividad cerebral enlentecida para la edad del paciente.
+• Tomografía computarizada (TC) cerebral urgente: no se observa sangrado agudo intra o extraaxial en el momento actual. Línea media conservada. Surcos, cisternas y ventrículos simétricos. No alteraciones parenquimatosas valorables.
+• RM cerebroal: en FLAIR y T2 se observan extensas áreas de alteración en la señal a nivel del troncoencéfalo, circunvoluciones subcallosas y regiones hipocámpicas de forma bilateral, periféricamente a ambos núcleos lenticulares y de forma muy discreta en el tálamo izquierdo. Resonancia magnética cerebral en FLAIR corte axial, que muestra hiperintensidad periféricamente a ambos núcleos lenticulares.
+
+Diagnóstico
+• Encefalopatia de Wernicke- Korsakoff.
+• Infección respiratoria de vías bajas.
+• Déficit de antitrombina III.
+• Hipergammaglobulinemia policlonal.
+
+Tratamiento
+Tiamina 300 mg/8 h intravenosa.
+
+Evolución
+Además del tratamiento con tiamina intravenosa, al principio se inició tratamiento con aciclovir y ampicilina para cubrirle frente a una probable neuroinfección por herpes virus y Listeria. Tras realizar la RM cerebral que era compatible con el diagnóstico de encefalopatía de Wernicke, y ante la negatividad de los cultivos y PCR de virus neurotropos, se continúa el tratamiento solo con tiamina intravenosa y posteriormente por vía oral. Como complicación durante el ingreso presentó una infección respiratoria de vías bajas que remitió tras recibir tratamiento con antibiótico, broncodilatadores y mucolíticos. La RM cerebral de control 8 días más tarde refleja una clara mejoría radiológica, con persistencia tan solo del leve aumento de señal en FLAIR en los hipocampos. La exploración neurológica al alta objetiva solo un tándem inestable, siendo el resto de la exploración normal. Revisado a los 3 meses, el paciente sigue asintomático, con exploración neurológica normal.

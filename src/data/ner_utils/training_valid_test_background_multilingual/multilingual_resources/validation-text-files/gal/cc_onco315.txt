@@ -1,0 +1,40 @@
+Anamnesis
+Varón de 68 anos de idade, natural de Estremadura pero vivindo en Mallorca, casado e cunha filla.
+Como único antecedente patológico de interese presenta diabetes mellitus (DM) tipo 2 desde 2010 en tratamento con metformina con bo control glucémico e sen complicaciones.
+
+Diagnosticado en marzo de 2014 de cancro de sigma estadio IV cT3N1bM1 (metástasis hepáticas e dubidosos implantes peritoneales) con debut suboclusivo polo que en abril de 2014 realízase sigmoidectomía laparoscópica e metastasectomía do segmento III. Con anatomía patológica de: adenocarcinoma de sigma pT3N2b (7/20) M1 (enfermidade hepática bilobar) de baixo grado, marxes quirúrgicos libres e sen objetivar enfermidade peritoneal. Estudo molecular: KRAS WT, PI3K WT, BRAF WT, NRAS WT.
+
+En xuño de 2014 foi incluído no ensaio clínico VISNU-1 sendo randomizado á rama de FOLFOX-6+BVZ con boa tolerancia ao mesmo presentando en setembro de 2014 resposta parcial radiológica polo que se decide rescate quirúrgico das metástasis hepáticas. En outubro de 2014 realízase embolización portal e en segundo tempo (Novembro de 2014) realízase hepatectomía dereita.
+
+Como complicación presentou descompensación ascítico edematosa e deterioro do estado xeral que motivou non continuar tratamento con QT complementaria. Saíu do ensaio clínico e iniciou controis.
+
+En abril de 2015 presenta progresión hepática e probable pulmonar 5 meses trala cirugía e 6 meses tralo fin da QT, polo que habendo recuperado o estado xeral (performance status de 1) iniciou nuevamente QT segundo esquema FOLFIRI con boa tolerancia clínica.
+
+En agosto de 2015 presenta resposta paradoxal, con progresión ósea (lesión en pala ilíaca esquerda) con masa de partes brandas pero resposta parcial de enfermidade hepática polo que se engade ao tratamento cetuximab. Ademais realiza radioterapia (RT) antiálgica (20Gy, 5f entre o 7 e o 11 de Setembro). A última QT administrada foi o 7 de Outubro de 2015.
+
+Tras 2 ciclos de tratamento, ingresa no hospital en outubro de 2015 por unha úlcera necrótica cutánea rápidamente progresiva na rexión tibial anterior dereita malia tratamento local e sistémico con levofloxacino durante 7 días (a úlcera iniciouse como unha erosión cutánea 10 días antes). O paciente non refire febre nin outros síntomas, tampouco presentara traumatismo nin picadura de insecto.
+
+Exploración física
+Á exploración física destaca unha úlcera necrótica cutánea na rexión tibial anterior dereita que inicialmente presenta bordos eritematosos e fondo con detritus celulares e fibrina pero sen signos de sobreinfección. Resto da exploración física anodina, sen outras lesións cutáneas visibles.
+
+Probas complementarias
+Na analítica de sangue non presentaba elevación de reactantes de fase aguda e solicitouse hemoglobina glicada para descartar complicaciones derivadas da súa DM, sendo a mesma normal (6.5%).
+Realizouse unha ecografía onde se objetivó celulitis, miositis probablemente infecciosa/inflamatoria.
+Tamén se realizou ecografía doppler arterial que resultou normal.
+Na evolución do cadro clínico solicitouse ecografía de control onde se evidenció celulitis inespecífica con miositis e fascitis superficial e profunda.
+Realizáronse diferentes biopsias con resultado de inflamación aguda inespecífica abscesificada (nunha ocasión cunha estrutura fúngica PAS + sen repercusión clínica) con cultivo positivo para múltiples microorganismos orientado como contaminantes.
+Para completar o estudo, solicitouse unha tomografía axial computerizada (TAC) toraco-abdomino-pélvica de reestadiaje onde se objetivó aparición dun nódulo pulmonar no LSI e estabilidade dos outros dous nódulos descritos en estudos previos con mínima lengüeta de derrame pleural dereito así como crecemento de metástasis ósea ilíaca esquerda e crecemento de metástasis hepáticas (tamaño e número).
+
+Diagnóstico
+Pioderma gangrenoso como síndrome paraneoplásico de carcinoma colorrectal metastásico.
+Progresión hepática e ósea de adenocarcinoma colorrectal metastásico.
+
+Tratamento
+Dada a complejidad do cadro clínico requiriu valoración multidisciplinar (Dermatoloxía, Unidade de Sepsis, Microbiología, Anatomía Patológica, Cirugía Xeral, Traumatología e Oncología). 
+
+Iniciouse tratamento con antibioterapia así como prednisona a dose de 1mg/kg/día ademais de realizarse desbridamiento quirúrgico para evitar sobreinfección da mesma.
+Con estas medidas conseguiuse como máxima resposta, estabilización da enfermidade.
+Dada a estabilidade do cadro e coa sospeita de pioderma gangrenoso asociado á progresión de carcinoma colorrectal, decidiuse iniciar ciclosporina Á dose de 5mg/kg/día con monitorización de función renal, iones e tensión arterial (polos efectos secundarios da mesma) presentando excelente resposta clínica con reepitelización progresiva da úlcera cutánea tralo inicio da mesma.
+
+Evolución
+Malia a mejoría progresiva da úlcera cutánea necrótica, o paciente presentou deterioro do estado xeral con performance status de 3 que fixo desestimar tratamento oncoespecífico dirixido á causa da síndrome paraneoplásico (progresión da enfermidade tumoral de base).

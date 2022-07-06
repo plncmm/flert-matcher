@@ -1,0 +1,27 @@
+Anamnesi
+Dona de 65 anys, al·lèrgica a derivats de la colchicina i diclofenaco. Sense factors de risc cardiovascular ni medicació crònica. Com a únic antecedent presentava cifoescoliosis greu i havia estat intervinguda d'histerectomia amb doble anexectomía i extirpació d'un neurofibroma.
+Història oncològica: al juliol de 2017 va ser diagnosticada de carcinoma renal de cèl·lules clares esquerre, estadi IV, amb afectació pulmonar i ganglionar. A l'agost d'aquest mateix any, va començar tractament amb sunitinib 50 mg/24 h (esquema 4/6) com primera línia de malaltia metastásica.
+Després d'un mes de l'inici del tractament, va acudir al Servei d'Urgències per presentar durant els últims quatre dies hematúria franca. No referia síndrome miccional ni febre. Únicament associava episodis aïllats de vòmits amb contingut alimentós, sense abdominalgia ni alteració del trànsit gastrointestinal.
+
+Exploració física
+Afebril i hemodinámicamente estable. Índex de Karnofsky 70%. Pal·lidesa mucocutánea. No es van observar hematomes ni es van palpar adenopaties. L'exploració cardiopulmonar i abdominal va resultar normal.
+
+Proves complementàries
+L'analítica a l'ingrés va presentar, com a paràmetres a destacar, leucòcits 3.400/mcl, hemoglobina 10,9 g/dl, amb el volum corpuscular mitjà i l'hemoglobina corpuscular mitjana normals, plaquetes 31.000/mcl, urea 43,6 mg/dl, creatinina 0,89 mg/dl i proteïna C reactiva 77 mg/l.
+El sistemàtic d'orina a l'ingrés va presentar nitrits negatius i en el sediment 25-50 hematies/camp i 2-5 leucòcits.
+En la radiografia de tòrax es van observar els nòduls pulmonars ja coneguts sense objectivar-se altres troballes rellevants.
+
+Diagnòstic
+» Carcinoma renal estadi IV en tractament amb sunitinib.
+» Trombocitopenia grau 4 secundària a tractament antiangiogénico.
+» Hematúria secundària a trombocitopenia.
+
+Tractament
+Davant l'hematúria franca es va col·locar sonda vesical per a la realització de rentada vesical contínua, es pautó àcid tranexámico 0,5g/8 h i es trasfundió un concentrat de plaquetes, presentant lleu millora clínica i analítica.
+Durant l'ingrés es van realitzar hemogrames diaris, objectivant-se disminució progressiva de la xifra de plaquetes, per la qual cosa es va afegir corticoterapia a dosis baixes (metilprednisolona 20 mg/12 h), sense aconseguir augmentar aquest paràmetre analític.
+Pesi al tractament pautat, la pacient va continuar amb hematúria, i un recompte plaquetari de 6.000/mcl, per la qual cosa es va sol·licitar la realització d'un frotis perifèric; es va comprovar aquesta xifra i es van descartar esquistocitos o altres alteracions morfològiques.
+D'acord amb Hematologia, es van augmentar els corticoides a dosis d'1 mg/kg/dia i es pautó immunoglobulina intravenosa (1 g/kg durant 48 hores). A partir d'aquest tractament, van anar ascendint les xifres de plaquetes progressivament, fins a presentar a l'alta 41.000/mcl.
+Al llarg de l'ingrés, va ser precisa la trasfusión de sis concentrats de plaquetes. A més, com a complicacions, va presentar epistaxis bilateral que va requerir tamponament nasal per Otorrinolaringologia, i infecció del tracte urinari secundari al sondatge vesical. En l'urinocultiu es van aïllar més de 100.000 UFC/ml de Enterococcus faecalis i d'Escherichia coli sensibles a nitrofurantoína, per la qual cosa es va realitzar tractament amb aquest antibiòtic i recanvi de sonda vesical.
+
+Evolució
+En el moment de l'alta hospitalària, es va decidir retirar definitivament sunitinib i es va iniciar tractament amb nivolumab 3 mg/kg/cada 15 dies, com a segona línia de malaltia metastásica. En l'actualitat, es troba en resposta parcial (RP) després de 13 cicles de dita anti PD-1.

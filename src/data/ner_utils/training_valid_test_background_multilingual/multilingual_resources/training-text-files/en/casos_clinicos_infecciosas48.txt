@@ -1,0 +1,48 @@
+Personal history:
+Male, 29 years old, native of Mali, residing in Spain for 4.5 years. He has not returned to his country of origin. His migratory route was: Ivory Coast, Libya, Mali, Algeria, Morocco and Fuerteventura. He works in greenhouses. Lives with 8 people in a house with good hygienic conditions. Repeated history of malaria. No toxic habits or other history of interest. No regular treatment. No known drug allergies.
+
+Current illness: he was referred from Primary Care to the Tropical Medicine (UMT) clinic for a study of hypertransaminasemia. The patient went to his GP for abdominal pain related to food intake, with normal stools, which subsided with treatment that he did not provide. During this visit, the initial care protocol for immigrants was applied, which included a complete blood count, biochemistry with hepatorenal profile, serology for HBV, HCV, HIV and syphilis, as well as a study of parasites in faeces and urine (in subjects from regions endemic for schistosomiasis). He also reported non-specific pruritus, unrelated to the shower. He has a history of haematuria in childhood for which he received treatment that he does not remember, and since then he has been asymptomatic.
+
+
+Physical examination:
+BP: 145/90, Weight: 60 kg. Good general condition, well nourished. Head and neck: no adenopathy, no thrush. ACR: rhythmic tones without murmurs; preserved vesicular murmur without pathological sounds. Abdomen soft, depressible, non-painful, no megaliths or masses palpable. MMII: no evidence of filariasis; minimal interdigital mycosis between the 4th-5th toes of both feet.
+
+Initial complementary tests:
+- CBC: leukocytes 9120/microL (57.9% neutrophils, 33.6% lymphocytes, 8.5% eosinophils; 775 eosinophils/ mm3). Hb 15.7 mg/dl, Ht 46.5%, MCV 89.1; MCH 30.1; Platelets 279,000/microL.
+- Biochemistry: AST 93 IU/L, ALT 184 IU/L, GGT 125 IU/L, FA 91 IU/L, rest normal.
+- Serology: HIV, HCV and lues negative. HBV: AgHBs -, AcHBs -, AcHBc +.
+- Parasites in stool with concentration technique (Ritchie) 3 samples (x3): Blastocystis hominis.  
+
+Differential diagnosis
+The differential diagnosis is based on eosinophilia on the one hand and hypertransaminasemia on the other. Eosinophilia is one of the most frequent syndromes encountered by the clinician in patients with imported tropical pathology. Although allergic and hypersensitivity processes, systemic inflammatory diseases and neoplasms (haematological and solid organ) should be considered as possible causes, the most frequent aetiology in patients from tropical regions (our patient comes from Mali) are parasitosis, mainly those caused by helminths. The absence of specific symptoms of the first causes makes the parasitic origin more likely. Already in the anamnesis, the patient refers to episodes of haematuria in childhood, possibly due to urinary schistosomiasis, a disease endemic to West African countries. Among the possibilities to be considered are: Nematodes, including:
+1. geohelminths (uncinaria, Trichuris trichuria, Ascaris lumbricoides, Strongyloides stercoralis).
+2. Filariasis (onchocerciasis, lymphatic filariasis, Mansonella genus, Loa loa).
+3. And others less frequent such as Toxocara or Anisakis. Cestodes: Taenia solium, Taenia saginata, Hymenolepis nana, Echinococcus granulosus. Trematodes: Schistosoma haematobium, Schistosoma intercalatum and Schistosoma mansoni, Fasciola hepatica.
+
+In relation to liver involvement, the possible causes to consider in this patient are:
+- Viral hepatitis. Chronic hepatitis due to HBV affects more than 350 million people in the world, and the prevalence in most Sub-Saharan African countries is more than 8%. In our case, HBsAg is negative, but the possibility of occult hepatitis B (HBcAb+, HBsAg, positive viral load) should be considered. Chronic hepatitis due to HCV should also be considered, although the prevalence of the disease is lower in patients from this area. The other aetiologies (HAV, HEV) are manifested by acute hepatitis, which seems reasonable to rule out.
+- Parasitosis. Parasitoses that can cause liver involvement include Fasciola hepatica, Ascaris lumbricoides (more associated with cholangitis, cholecystitis, cholestasis), and schistosomiasis. Schistosomiasis, especially caused by S. mansoni, can lead to presinusoidal portal hypertension, characterised by intense periportal fibrosis, hypersplenism and oesophageal varices, while hepatocellular function is preserved until the final stages of the disease.
+- Tumour lesions: hepatocellular carcinoma is a very prevalent entity among patients from HBV-endemic areas, where the acquisition of the disease in childhood allows the appearance of this type of tumour in young patients.
+- Other possibilities to consider are hepatitis of autoimmune, drug, alcohol, metabolic, granulomatous or idiopathic origin.
+
+Evolution
+Topical treatment with ciclopiroxolamine was prescribed and a study was requested in accordance with the UMT protocol for the study and treatment of eosinophilia, as well as abdominal and bladder ultrasound and HBV viral load to rule out occult hepatitis B. The results are shown below. The results are shown below:
+- CBC: leukocytes 5,430/microL (4.2% eosinophils; 230 eosinophils/mm3). Hb 14.4 mg/dl. Platelets 189,000/microL.
+- Sickle cell trait (heterozygous for HbS; HbS 37%).
+- Biochemistry: AST 48 IU/L, ALT 74 IU/L, GGT 81 IU/L, FA 119 IU/L, rest normal, including iron metabolism, renal and lipid profile. IgE: 243 IU/mL.
+- Urine: sediment normal.
+- Coagulation: PT 74%, INR: 1.2, TTPa 27.8 sg.
+- Serology: Strongyloides (ELISA): NEGATIVE; Schistosoma (ELISA): VERY POSITIVE. HBV: AgHBs -,
+- HBV PCR: POSITIVE; HBV DNA quantification: 1,000 IU/mL.
+- Parasitological studies: 1. Parasites in faeces with concentration technique (x3): NEGATIVE. 2. Study of microfilariae in blood (Knott test): NEGATIVE. 3.
+- Alpha-fetoprotein: 1.4 ng/mL.
+- Chest and abdominal X-ray: no alterations.
+- Mantoux: 10 mm.
+- Abdominal and bladder ultrasound: liver of normal size with altered echostructure. Hyperechogenicity of periportal tissue with intense fibrosis. Enlarged portal vein (15 mm) and 12 cm spleen. Normal bladder walls.
+
+Given the diagnosis of occult hepatitis B and signs of chronic liver disease, with data highly suggestive of parasitism by Schistosoma, a rectal biopsy was requested, which showed mucosa with the presence of schistosome eggs. Subsequently, a liver biopsy was performed to assess the degree of activity of the disease, with the following result: "Liver parenchyma replaced by small nodules with thick fibrous connective tracts, with lymphohistiocytic inflammatory infiltrate, erosive parcellular necrosis and accumulations of eosinophils. Regenerative changes in hepatocytes. Final diagnosis compatible with chronic liver disease of viral origin (grade 2 activity, grade 3 fibrosis), and possibly secondary to schistosomiasis although no parasites were visualised.
+
+Serology for VHDelta (AcVHD POSITIVE, VHD PCR: NEGATIVE) and gastroscopy were requested, which the patient refused. In view of the findings described above, treatment was started with praziquantel (40 mg/kg body weight, 1 day) and tenofovir 300mg/day, with good adherence to treatment, the last HBV viral load being negative.
+
+Final diagnosis
+Chronic liver disease secondary to schistosomiasis and occult hepatitis B.

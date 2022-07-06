@@ -1,0 +1,21 @@
+Pacient que és derivat a consultes de Cardiologia des de Neurologia per a valoració. 
+
+Antecedents, malaltia actual i exploració física
+
+Antecedents familiars: Mare amb llengua plicata sense paràlisi facial. Dos germans i dos nebots amb síndrome de Steinert. Dos fills sans.
+
+Història actual: El pacient presenta noves alteracions en l'electrocardiograma (ECG) consistents en PR de 280 mil·lisegons (msg), QRS de 150 msg, amb imatge de bloqueig complet de branca esquerra (BCRI).
+Electrocardiograma dos anys abans sense alteracions de la conducció. És valorat ambulatòriament en consultes de Cardiologia, se sol·licita implant de marcapassos. El pacient nega síncope, presíncope, palpitacions o una altra simptomatologia.
+
+Proves complementàries
+• ECG al seu ingrés: Ritme sinusal a 75 lpm. PR 240-280 msg. QRS de 150 msg. BCRI.
+• ECG en consultes de Neurologia de l'any 2010: Ritme sinusal a 70 lpm. PR 180-200 msg. QRS de 80 msg. No alteracions de la conducció intraventricular.
+• Analítica: Glucosa, ions i funció renal normal. No anèmia ni leucopènia. Plaquetopenia de 84.000 plaquetes mm3.
+• Ecocardiografía transtorácica: Ventricle esquerre no dilatat ni hipertròfic. Aurícula esquerra no dilatada. Vàlvula mitral de vels fins no engrossits amb jet d'insuficiència lleugera central. Patró d'ompliment mitral amb ona E>A. Vàlvula aòrtica trivalva amb adequada obertura i tancament. Arrel aòrtica i aorta ascendent de grandària normal. Fracció d'ejecció de ventricle esquerre conservada sense defectes segmentaris de la contractilitat. Cavitats dretes normals en grandària i funció. Insuficiència tricuspídea lleugera dirigida a nivell medial amb gradient auriculoventricular de 17 mmHg, que permet estimar una pressió arterial pulmonar de 30 mmHg. Insuficiència pulmonar trivial. Vena cava no dilatada que no col·lapsa. No vessi pericardíac.
+• Rx de tòrax: Silueta cardíaca en el límit de la normalitat sense alteracions a nivell de parènquima pulmonar. No vessi pleural.
+
+Evolució clínica
+El pacient ingressa de forma programada per a implant de marcapassos per aparició en el ECG d'alteracions de la conducció que prèviament no eren presents sense associar-se aquestes a cardiopatia estructural.
+
+Diagnòstic
+Malaltia de Steinert amb alteracions de la conducció, subsidiàries d'estimulació definitiva.

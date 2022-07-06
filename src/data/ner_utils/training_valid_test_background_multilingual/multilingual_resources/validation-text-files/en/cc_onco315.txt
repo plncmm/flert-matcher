@@ -1,0 +1,40 @@
+Anamnesis
+A 68-year-old man, born in Extremadura but living in Mallorca, married with a daughter.
+The only pathological history of interest is diabetes mellitus (DM) type 2 since 2010, treated with metformin with good glycaemic control and no complications.
+
+Diagnosed in March 2014 with stage IV sigmoid cancer cT3N1bM1 (liver metastases and doubtful peritoneal implants) with subocclusive debut, so in April 2014 he underwent laparoscopic sigmoidectomy and metastasectomy of segment III. Pathological anatomy showed: pT3N2b (7/20) M1 (bilobar liver disease) low-grade adenocarcinoma of the sigma, free surgical margins and no peritoneal disease. Molecular study: KRAS WT, PI3K WT, BRAF WT, NRAS WT.
+
+In June 2014, he was included in the VISNU-1 clinical trial and was randomised to the FOLFOX-6+BVZ arm with good tolerance to it, presenting a partial radiological response in September 2014, so it was decided to surgically rescue the liver metastases. In October 2014 portal embolisation was performed and in the second stage (November 2014) a right hepatectomy was performed.
+
+As a complication, he presented oedematous ascitic decompensation and deterioration of general condition, which led to not continuing treatment with complementary QT. He left the clinical trial and started follow-up.
+
+In April 2015, he presented hepatic and probable pulmonary progression 5 months after surgery and 6 months after the end of QT, so having recovered his general condition (performance status of 1), he started QT again according to the FOLFIRI scheme with good clinical tolerance.
+
+In August 2015 he presented a paradoxical response, with bone progression (lesion in left iliac blade) with soft tissue mass but partial response of liver disease, so cetuximab was added to the treatment. He also underwent antalgic radiotherapy (RT) (20Gy, 5f between 7 and 11 September). The last QT administered was on 7 October 2015.
+
+After 2 cycles of treatment, he was admitted to hospital in October 2015 for a rapidly progressive necrotic skin ulcer in the right anterior tibial region despite local and systemic treatment with levofloxacin for 7 days (the ulcer had started as a skin erosion 10 days earlier). The patient reported no fever or other symptoms, nor had he presented trauma or insect bites.
+
+Physical examination
+Physical examination revealed a necrotic skin ulcer in the right anterior tibial region, initially with erythematous borders and a background of cellular debris and fibrin, but with no signs of superinfection. The rest of the physical examination was unremarkable, with no other visible skin lesions.
+
+Complementary tests
+Blood tests showed no elevation of acute phase reactants and glycated haemoglobin was requested to rule out complications derived from DM, and was normal (6.5%).
+An ultrasound scan showed cellulitis, probably infectious/inflammatory myositis.
+Arterial Doppler ultrasound was also performed and found to be normal.
+In the evolution of the clinical picture, a control ultrasound was requested, which showed non-specific cellulitis with myositis and superficial and deep fasciitis.
+Different biopsies were performed with the result of acute non-specific abscessed inflammation (on one occasion with a PAS+ fungal structure with no clinical repercussions) with positive culture for multiple microorganisms oriented as contaminants.
+To complete the study, a re-staging thoraco-abdomino-pelvic computerised axial tomography (CAT) scan was requested, showing the appearance of a pulmonary nodule in the LSI and stability of the other two nodules described in previous studies with minimal right pleural effusion, as well as growth of left iliac bone metastases and growth of liver metastases (size and number).
+
+Diagnosis
+Pyoderma gangrenosum as a paraneoplastic syndrome of metastatic colorectal carcinoma.
+Liver and bone progression of metastatic colorectal adenocarcinoma.
+
+Treatment
+Given the complexity of the clinical picture, multidisciplinary assessment was required (Dermatology, Sepsis Unit, Microbiology, Pathological Anatomy, General Surgery, Traumatology and Oncology). 
+
+Treatment was started with antibiotherapy and prednisone at a dose of 1mg/kg/day, in addition to surgical debridement to prevent superinfection.
+With these measures, the maximum response was stabilisation of the disease.
+Given the stability of the condition and the suspicion of pyoderma gangrenosum associated with the progression of colorectal carcinoma, it was decided to start cyclosporin A at a dose of 5mg/kg/day with monitoring of renal function, ions and blood pressure (due to its side effects), presenting an excellent clinical response with progressive re-epithelialisation of the skin ulcer after the start of the treatment.
+
+Evolution
+Despite the progressive improvement of the necrotic skin ulcer, the patient presented deterioration of the general condition with performance status of 3 which led to the rejection of oncospecific treatment aimed at the cause of the paraneoplastic syndrome (progression of the underlying tumour disease).

@@ -1,0 +1,40 @@
+Anamnesis
+The patient is a 78-year-old married man with four children. He has a medical history of type II diabetes mellitus which he controls with diet. He underwent surgery for bilateral inguinal hernia in 2005. He is a non-smoker and non-drinker. He has no history of previous transfusions. He has no family history of interest. He does not take regular medication.
+Following diffuse abdominal discomfort and constitutional syndrome with weight loss (12-14 kg in 3-4 months), with hyporexia and asthenia of three months' evolution, he came to the emergency department referred by his primary care physician.
+
+An abdominal ultrasound scan showed space-occupying lesions in the liver parenchyma, with bilobar distribution, compatible with metastasis, and it was decided to admit him for further study. A thoracoabdominal computed tomography (CT) scan was performed, showing, in addition to the hepatic lesions, a stenosis in the splenic angle of the colon. The study was completed with colonoscopy, where a vegetative, stenotic, impassable lesion was visualised 40 cm from the anal margin, and a metallic prosthesis was placed in this location. The tumour lesion was biopsied, with histology of well-differentiated adenocarcinoma, with normal microsatellite instability proteins, native RAS/BRAF.
+Tumour markers were Ca 19.9 4,740 U/ml (normal value [VN] 0-37), carcinoembryonic antigen (CEA) 9,375 ng/ml (VN 0-5).
+The patient was evaluated by Medical Oncology and started systemic treatment with XELOX (capecitabine 1,000 mg/m2/12 h days 1-14, oxaliplatin 130 mg/m2 d1, every 21 days). Tolerance to treatment is acceptable, with grade 1 asthenia during the first two days, grade 1 diarrhoea controlled with loperamide, and grade 1 neurotoxicity in the fingers.
+After receiving a total of 4 cycles of treatment, pending a new CT scan for re-evaluation, the patient came to the emergency department because he reported an increase in abdominal perimeter and the appearance of oedema in the lower limbs, which had been evolving for 15 days.
+
+Physical examination
+During the physical examination, the increase in abdominal perimeter, changeable dullness compatible with the presence of ascites, and the presence of ascitic swelling are noteworthy. She also presented oedema with fovea in the ankles down to the roots of the lower limbs.
+There was no evidence of jugular ingurgitation, cardiopulmonary auscultation was normal, no collateral circulation was observed in the abdomen and there were no cutaneous stigmata of chronic liver disease.
+With the clinical orientation of ascites to be studied, the patient was admitted to Medical Oncology.
+
+Complementary tests
+Laboratory tests showed haemoglobin 13.3 g/dl, platelets 89. 000 x 109/l (VN 150-200), total bilirubin 2.3 mg/dl (VN 0.2-1.2), with esterified bilirubin 0.9 mg/dl (VN 0-0.5), aspartate transferase (AST) 63 U/l (VN 5-34), alkaline phosphatase (ALP) 176 U/l (VN 40-150), with normal ALANINE TRANSFERASE (ALT) and gamma glutamyl transferase (GGT).
+Diagnostic paracentesis was performed, with clear fluid output, with protein < 0.8 g/dl, albumin < 0.4 g/dl, with a calculated serum albumin-ascitic albumin gradient (GASA) of 2, and 134/mm3 leukocytes. The fluid was compatible with a transudate, with no evidence of infection, and with GASA > 1.1, orienting the differential diagnosis to processes involving portal hypertension (PHT). In the following days, various tests were performed, which brought the final diagnosis closer:
+"Hepatitis B and C virus serologies, which were negative, ruling out viral liver disease. A complete iron profile and ceruloplasmin measurement were also requested, which were normal, ruling out haemochromatosis and Wilson's disease respectively.
+
+Hepatic Doppler ultrasound: permeability and sharpening of the suprahepatic veins was observed, with a tendency to flattening of the flow wave, and permeability of the portal vein with hepatopetal flow, with flow velocity towards the lower limit of normality, with splenomegaly of 15 cm, all compatible with indirect signs of PHT.
+"Thoracic-abdominal CT scan, which also showed no evidence of thrombosis of the suprahepatic veins, and also showed a significant decrease in the size of the liver lesions compared to the initial CT scan.
+"Echocardiogram: an ejection fraction was found to be within normal range, with no evidence of heart failure, and the venous collectors were not dilated.
+"Measurement of TSH (thyrotropin) and T4 (thyroxine) blood levels to rule out hypothyroidism, which were normal.
+"Measurement of urine proteins, which were normal, so it was not a nephrotic syndrome either.
+"Ascitic fluid cytology was negative for malignant cells.
+"Ascitic fluid culture was also negative.
+From an oncological point of view, the patient showed a decrease in liver lesions and a decrease in tumour markers: Ca 19.9 979 U/ml (previous 4,740) and CEA 3,019 ng/ml (previous 9,375).
+Therefore, with ascites of recent onset, with data of PHT, negative results for the main causes of PHT, and no previous history of alcohol consumption, a toxic origin of the chemotherapy, specifically oxaliplatin, was suspected.
+A liver biopsy of liver parenchyma unaffected by the tumour was performed, highlighting the presence of diffusely distributed sinusoidal dilatation. The Masson technique showed pericellular reticular fibrosis and the reticulin technique showed the presence of some trabeculae of collapsed hepatocytes, with disproportion of the nucleus-cytoplasm that contrasted with hypertrophic hepatocytes located in close proximity, all compatible with SOS and HNR.
+
+Diagnosis
+After excluding other causes of ascites, it was concluded that the patient had presented with edemoascitic decompensation secondary to oxaliplatin toxicity in the form of SOS and HNR, with the consequent development of PHT, splenomegaly and ascites.
+
+Treatment
+An evacuating paracentesis of 8 litres was performed, and in parallel to the diagnostic study, a diet with sodium and water restriction of 1 litre per day and diuretic treatment with oral furosemide 40 mg/24 h and oral spironolactone 100 mg/24 h were prescribed.
+
+Evolution
+The evolution during admission was favourable, with good evolution of the ascites with oral diuretics and saline and water restriction. The patient did not require further evacuation paracentesis and was discharged after 9 days of hospitalisation.
+Given the complication developed by oxaliplatin, and despite the tumour response of the liver lesions, treatment with this drug was suspended, maintaining capecitabine.
+He has not required further admissions, nor has he required other evacuating paracentesis. She has received a total of 8 cycles since the start of treatment, with acceptable tolerance, and is awaiting re-evaluation with CT scan.

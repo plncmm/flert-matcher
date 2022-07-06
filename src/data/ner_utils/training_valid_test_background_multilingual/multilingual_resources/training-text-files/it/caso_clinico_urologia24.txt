@@ -1,0 +1,26 @@
+Anamnesi
+Un paziente maschio di 48 anni con una storia di coliche renali ripetute (con espulsione di litiasi di ossalato di calcio) trattate ambulatorialmente, che è venuto al dipartimento di emergenza con un dolore colico nella fossa renale destra di 24 ore di evoluzione, che si irradia ai genitali, nausea e vomito, trattato con ibuprofene, anche se senza chiaro miglioramento. Non ha riportato febbre termometrica, sindrome da minzione o ematuria. Da notare un significativo habitus astenico, debolezza generalizzata, difficoltà a muoversi da seduti a in piedi, mialgia e artralgia generalizzata.
+Nel febbraio 2013, ha visitato il suo medico di base per sintomi clinici di mal di schiena, ed è stata indirizzata al reparto di traumatologia, senza risultati; all'esame aveva un nodulo di circa 2 cm sulla faccia laterale destra del collo, per il quale è stata richiesta un'ecografia cervicale e tiroidea, che non è stata eseguita a causa dell'attuale episodio intercorrente.
+
+Esame fisico
+Paziente in buone condizioni generali, visibilmente debole, con corretta idratazione della pelle e delle mucose, addome ampio con tessuto adiposo significativo, senza masse palpabili o organomegalia, depressibile e morbido, con dolore al fianco destro, senza segni di reazione irritativa peritoneale. La percussione del pugno renale destro e il segno di Guyon destro erano positivi. Arti inferiori senza edema. Il resto dell'esame non ha mostrato risultati di interesse.
+
+Test complementari
+- Esami del sangue: calcemia 16,5 mg/dl, fosforo 3,8 mg/dl, PTH intatto 2.574 pg/ml, fosfatasi alcalina 222 IU/l, creatinina 3,31 mg/dl con un tasso di filtrazione stimato di 20 ml/min. Riposo senza risultati.
+- Emocromo: emoglobina 9,5 g/dl. Ematocrito 28%.
+- Coagulazione senza alterazioni.
+- Sedimento di urina 1-5 leucociti per campo.
+- Radiografia addominale: nefrocalcinosi, a livello dello scheletro pelvico, irregolarità della superficie iliaca delle articolazioni sacroiliache dovuta a riassorbimento e sclerosi subcondrale e allargamento dello spazio articolare. Riassorbimento subcondrale sul margine destro della sinfisi pubica.
+- Serie ossea: visti i risultati di cui sopra, il servizio di radiodiagnosi ha considerato la possibilità di completare lo studio con radiografie del cranio e delle falangi, le prime mostrando un cranio "sale e pepe" (pattern granulare diffuso di demineralizzazione craniale), mentre le seconde hanno mostrato un riassorbimento subperiosteo del bordo radiale delle falangi medie delle dita e un incipiente riassorbimento dei ciuffi distali del primo, secondo e terzo dito delle mani.
+- Ecografia urologica: nefrocalcinosi renale bilaterale senza ectasia delle vie escretrici; c'è una piccola ciste di 12 mm nella regione polare renale superiore sinistra. Nessun altro risultato di interesse.
+- Ecografia del collo: adiacente al lobo tiroideo destro viene identificata una lesione nodulare ipoecogena con aree cistiche/degenerate, compatibile con un adenoma paratiroideo. Misura circa 39 x 25,2 x 47 mm (T x AP x L). Sul lato sinistro c'è un altro nodulo inferomediale al lobo tiroideo sinistro, ipoecoico, suggestivo di adenoma paratiroideo sinistro, che misura circa 37 x 12,6 x 16,2 mm (L x AP x T). Ghiandola tiroidea di dimensioni e morfologia normali, con ecogenicità conservata. Sono stati identificati almeno due noduli nella LTD che misurano rispettivamente 7,8 e 12 x 7,4 mm. Tutto ciò è compatibile, data la posizione e il contesto, con adenomi paratiroidei destri e sinistri.
+- SPECT/CT cervicomediastinica: l'immagine planare iniziale mostra due focolai di aumentato assorbimento del 99mTc-MIBI: un focus a livello del polo superiore del lobo tiroideo destro e un altro focus nel polo inferiore del lobo tiroideo sinistro, che persistono nell'immagine tardiva una volta che il tessuto tiroideo è stato lavato via. Nell'immagine di fusione SPECT-CT a bassa dose, il fuoco più grande si trova all'esterno dell'osso ioide (lato destro) e il fuoco più piccolo si trova a sinistra paratracheale sotto e posteriore al lobo tiroideo sinistro; queste immagini sono compatibili con un doppio adenoma paratiroideo.
+- Densitometria minerale ossea: collo femorale Z-score -2.1 SD. Z-score lombare -2,9 SD.
+
+Diagnosi
+Iperparatiroidismo primario dovuto ad un doppio adenoma paratiroideo. Insufficienza renale cronica secondaria a nefrocalcinosi.
+
+Trattamento
+Il paziente si è evoluto favorevolmente dalla colica renale con analgesia endovenosa, non richiedendo la diversione urinaria.
+È stata iniziata un'abbondante idratazione per mezzo di una sieroterapia endovenosa, così come la somministrazione di acido zolendronico, cinacalcet, calcio orale e darbepoetina alfa. Dopo la stabilizzazione clinica del paziente, che ha raggiunto una calcemia di 8,3 mg/dl e un PTH intatto di 53,3 pg/ml, è stata programmata la paratiroidectomia, che è stata eseguita senza incidenti, con una rapida diminuzione delle concentrazioni intraoperatorie di PTH nel sangue.
+Attualmente è in attesa di essere dimesso dal Dipartimento di Chirurgia Generale, così come di essere seguito nelle consultazioni di Endocrinologia, dopo la normalizzazione del PTH e del calcio sierico.

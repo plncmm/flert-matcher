@@ -1,0 +1,23 @@
+Anamnesis
+Paciente de 56 años con antecedentes de infección por VIH en tratamiento con Dolutegravir/ Abacavir/Lamivudina (Triumeq®) desde hacía dos meses que refería erupción cutánea pruriginosa y urente de un mes de evolución que le afectaba la cara y el cuello.
+El paciente negaba fiebre o mal estado general no presentando prurito en ninguna otra zona corporal. No relacionaba la aparición de la erupción con ningún precipitante de manera precisa.
+
+Exploración física
+En la exploración el paciente presentaba pápulas y pústulas foliculares, algunas de ellas erosivas, que se distribuían por mentón, ramas manidibulares, áreas malares, pabellones auriculares y cuello, ligeramente infiltradas al tacto, no dolorosas a la palpación.
+No presentaba lesiones en tronco ni extremidades, tampoco lesiones mucosas ni en área genital, no palpándose tampoco adenopatías submandibulares ni periauriculares.
+
+Exploraciones complementarias
+Dadas las diferentes sospechas diagnósticas decidimos solicitar una analítica sanguínea, tomamos un exudado de una de las pústulas para cultivo, se tomó una muestra de una lesión para PCR de virus herpes simple y realizamos una biopsia cutánea para estudio histológico de una de las lesiones.
+En la analítica sanguínea pudimos apreciar una mejoría del recuento de linfocitos CD4+ que habían pasado de un valor de 200/L a 475/L a raíz del comienzo del tratamiento sin que presentase ninguna otra alteración reseñable.
+Por su parte en el exudado de la muestra tomada de una de las pústulas se obtuvo crecimiento de flora mixta cutánea sin que esto tuviera relevancia diagnóstica.
+La PCR para VHS 1 y 2 fue negativa.
+En la biopsia cutánea se apreciaba un infiltrado linfohistiocitario y con abundantes eosinófilos de distribución preferentemente perifolicular, pero también con un componente perivascular superficial acompañado también de eosinofilia intersticial. En la epidermis se observaba una vesícula con material seroso e infiltrado inflamatorio mixto compuesto por polimorfonucleares y eosinófilos. El epitelio del infundíbulo folicular también estaba salpicado de eosinófilos con un patrón de espongiosis eosinófilica.
+
+Diagnóstico
+Con estos hallazgos clínico-patológicos y analíticos se estableció el diagnóstico de foliculitis eosinofílica probablemente dentro del contexto de la reconstitución inmune en paciente VIH tras comenzar con la terapia antiretroviral.
+
+Tratamiento
+Previamente a obtener los resultados de las pruebas complementarias y ante la sospecha clínica de una infección herpética con inicio de diseminación, se inició tratamiento con Valaciclovir 1 g cada 12 horas y se citó para revisión en 9 días. Una vez obtenidos los resultados de las pruebas complementarias y establecido el diagnóstico se instauró tratamiento con Metilprednisolona Aceponato 1 mg/g en emulsión con revisión en un mes.
+
+Evolución
+En la primera revisión nueve días después de la primera consulta el paciente se encontraba estable sin aparición de nuevas lesiones ni tampoco mejoría por lo que se decidió mantener el tratamiento con Valaciclovir una semana más en espera de los resultados de la biopsia y la PCR dejando cita en dos semanas. Dos semanas después ya con un diagnóstico definitivo se comenzó tratamiento con corticoides tópicos con una nueva revisión en un mes. En la última revisión el paciente presentaba una notable mejoría con menor número de lesiones y siendo estas menos pruriginosas coincidiendo tanto con la instauración del tratamiento con Metilprednisolona Aceponato tópica como con una es-tabilización en el recuento de Linfocitos CD4.

@@ -1,0 +1,26 @@
+Motif de la consultation
+La mère du patient s'est présentée au centre de santé avec un récipient fermé contenant des restes de matières fécales, parmi lesquels se trouvait un corps étranger allongé d'environ 21 cm, blanchâtre, non segmenté, avec une surface plate et glissante, ressemblant à un ver. Le corps étranger a été expulsé par le patient pendant la défécation, après un lavement, après l'expulsion préalable d'une sphère composée de corps plus petits, blanchâtres et allongés, que sa mère appelle un "nid de serpent" *sic.+.
+
+Approche individuelle (anamnèse, examen, tests complémentaires)
+Antécédents personnels : infirmité motrice cérébrale depuis l'enfance. Il vit dans un fauteuil roulant, totalement dépendant, et est soigné par sa mère de 88 ans. Approbation de la loi sur les dépendances.
+
+Traitement habituel : clorazépate 5mg/12h, clonazépam 2mg/12h, mirtazapine 15mg/24h, levodopa/carbidopa 25mg/8h.
+Maladie actuelle : homme de 59 ans, qui a consulté son PAM pour des produits pathologiques dans ses selles. Il est constipé et a besoin de lavements réguliers pour se nettoyer.
+
+Examen physique : afébrile. Cliniquement et hémodynamiquement stables. Bonne hydratation et perfusion de la peau et des muqueuses. Eupnéique au repos. Pas d'ingurgitation jugulaire. Impulsions symétriques. Pas d'œdème dans les membres inférieurs. Abdomen mou, dépressible, pas de masses ou de mégalithes palpables. Pas de douleur à la palpation. Aucun signe d'irritation péritonéale. Percussion bilatérale du poing négative.
+NFS : hémoglobine 12,1 g/dL, hématocrite 37,6%, volume corpusculaire moyen 97,7 fL, leucocytes 3960/mm3 (PMN 2360/mm, lymphocytes 970/mm3), plaquettes 153000/mm3 ; biochimie avec glycémie 82 mg/dL, fonction rénale normale avec créatinine 0,6 mg/dL, acide urique 4. 9 mg/dL, albumine 3,1 g/dL, protéines totales 5,5 g/dL, cholestérol dans la fourchette normale, triglycérides dans la fourchette normale, profil abdominal sans données d'intérêt, notamment enzymes hépatiques, bilirubine et enzymes pancréatiques ; protéinogramme sans données d'intérêt ; fonction thyroïdienne normale.
+
+Culture des selles : le parasite suspecté a été envoyé en microbiologie, et finalement filtré comme "débris de muqueuse intestinale associé à des débris végétaux".
+
+Approche familiale et communautaire
+Le mébendazole est administré au patient et aux membres de sa famille en une seule dose de 100 mg, à renouveler au bout de 2 semaines, à titre provisoire et dans l'attente du diagnostic définitif par la microbiologie. Des mesures sont prises pour nettoyer l'environnement et la maison.
+
+Jugement clinique (liste de problèmes, diagnostic différentiel)
+Parasitose (trichuriasis, ténia) vs débris muqueux et végétaux (faux ténia).
+Insuffisance pancréatique ou hépatique : selles stéatorrhéiques avec fibres musculaires intactes. Intolérances alimentaires : gluten, maladie cœliaque.
+Infections digestives non parasitaires.
+
+Plan d'action et évolution
+Le mébendazole 100 mg, en dose unique, a été administré comme traitement empirique, pensant à une trichuriasis, bien que morphologiquement cela puisse être plus proche du ténia. Nous avons attendu un diagnostic microbiologique pour ajouter ou non un traitement éradicateur contre le nématode vs le ver plat, et finalement écarter la parasitose, comme nous avions affaire à un patient au transit intestinal réduit en raison d'une maladie neurologique sous-jacente, il n'était pas nécessaire de l'administrer.
+
+Évolution : le patient a évolué sans incident, sans douleur abdominale ni nouvelles selles signalées.

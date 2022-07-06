@@ -1,0 +1,35 @@
+Anamnèse
+Un homme de 54 ans, ex-fumeur, hypertendu et dyslipidémique, sans autres antécédents pertinents, a présenté une diplopie binoculaire d'apparition brutale et, quelques jours plus tard, une douleur lombaire intense irradiant vers les membres inférieurs (membres inférieurs) et une sensation de bouchon à l'arrière des cuisses et sur la plante des pieds. Par la suite, il y a eu une perte de force dans les membres inférieurs qui a progressé en un mois au point d'empêcher toute déambulation. Il a été admis à l'hôpital et, 48 heures plus tard, a présenté une paralysie des muscles hémifacials droits. Le patient a signalé une hypertrophie progressive des muscles hémiscrotaux droits au cours des dernières semaines. Pas d'altération du sphincter. Pas de syndrome constitutionnel ou d'autres symptômes.
+
+Examen physique
+Examen systémique : augmentation de la taille et de la consistance du testicule droit, avec rougeur et douleur à la palpation.
+
+Examen neurologique : ptose gauche. Pupilles symétriques et normo-actives. Parésie du muscle droit médial et inférieur de l'œil gauche. Compatible avec une parésie incomplète du troisième nerf crânien gauche. Parésie faciale périphérique droite. Parésie des membres inférieurs, avec un équilibre 3-4/5 à la fois proximal et distal, avec une plus grande faiblesse du membre inférieur droit. Hypotonie et aréflexie des membres inférieurs. Réflexe cutanéo-fléchisseur plantaire bilatéral. Hypoesthésie tactoalgésique sur la face postérieure de la cuisse, de la jambe et de la sole droites. Diminution de la sensibilité positionnelle et vibratoire dans le MMII, cette dernière au niveau L2. Reposez-vous normalement.
+
+Tests complémentaires
+- NFS : CRP 1,58, LDH 690 UI/l, GGT 96 U/l. Sous-unité bêta-2 de la gonadotrophine chorionique, alpha-fœtoprotéine, CEA, PSA et test d'urine normaux. Reposez-vous normalement.
+- Étude du liquide céphalo-rachidien (LCR) : globules rouges 1/mcl ; leucocytes 10/mcl ; protéines 160 mg/dl ; glucose 55 mg/dl ; LDH 50 UI/l ; ADA 4,8 UI/l. Cytologie de la première ponction négative. Deuxième ponction : leucocytes 52/mcl (7,2% de lymphocytes B lambda +).
+- Étude immunologique (y compris antionconeuronale) : négative.
+- Étude microbiologique : VIH, syphilis, virus hépatotrope, Brucella négatifs.
+- Mantoux positif (18 mm).
+- EMG : polyradiculoneuropathie motrice axonale légère dans les membres supérieurs et modérée-sévère dans les membres inférieurs, avec une plus grande implication et des signes neurophysiologiques d'évolution aux niveaux L5-S1, bilatérale, prédominant à gauche. Atteinte des nerfs crâniens.
+- IRM du cerveau et du rachis complet avec gadolinium : épaississement et rehaussement des racines nerveuses, principalement sacrées ; lésions dans les corps vertébraux D10, D11 et S2. Amélioration du nerf facial droit.
+- Échographie testiculaire : hypertrophie et échogénicité hétérogène diffuse des deux testicules et des épididymes, plus marquée du côté droit.
+- Biopsie testiculaire : prolifération néoplasique lymphoïde composée de grandes cellules avec des atypies caryocytoplasmiques et des mitoses fréquentes. IHQ : CD20 +, CD10 -, MUM1 +, BCL2 +, BCL6 +, CD30 -. Indice prolifératif (Ki-67) 98%. Étude moléculaire : réarrangement clonal du gène IgH.
+- PET/CT : lésions hypercapillaires dans la racine de l'artère pulmonaire, les reins, les surrénales, les testicules, les vertèbres D11 et S2 et les racines sacrées de la cauda equina.
+
+Diagnostic
+Un homme de 54 ans a présenté une lombalgie et une paraparésie subaiguë progressive, une atteinte séquentielle de plusieurs nerfs crâniens et un élargissement de l'hémiscrotum droit. La distribution topographique de la parésie et la proéminence de la douleur suggèrent une polyradiculoneuropathie lombosacrée subaiguë comme diagnostic syndromique. Les options suivantes sont considérées comme le diagnostic étiologique :
+1) infiltration tumorale par un néoplasme hématologique (par exemple un lymphome) ou, moins probable, par une tumeur solide ;
+2) infiltration granulomateuse (tuberculose ou sarcoïdose) ;
+3) vasculite, principalement panartérite noueuse, et
+4) Syndrome de Guillain-Barré et variantes (par exemple, neuropathie axonale sensori-motrice aiguë).
+L'IRM de la colonne vertébrale a montré un épaississement et un rehaussement frappants des racines spinales sacrées suggérant une pathologie infiltrante. Coupe coronale de l'IRM de la colonne vertébrale après gadolinium. Épaississement diffus et renforcement des racines lombo-sacrées. Coupe axiale de l'IRM de la colonne vertébrale après gadolinium. Épaississement diffus et renforcement des racines lombo-sacrées. L'échographie testiculaire a montré une infiltration diffuse des deux testicules, principalement du droit. Une biopsie du testicule a confirmé la présence d'un lymphome non hodgkinien (LNH) B primaire à grandes cellules. Malgré une première cytologie négative, une deuxième ponction lombaire a montré la présence de lymphocytes B néoplasiques dans le LCR. La TEP/TDM a montré une extension rénale, surrénale et osseuse ainsi qu'un hyperenhancement des racines sacrées et des deux testicules :
+1) polyradiculoneuropathie lombosacrée et multineuropathie crânienne due à une invasion lymphomateuse (neurolymphomatose). 
+2) Lymphome B non hodgkinien à grandes cellules de stade IV A.
+
+Traitement
+Une polychimiothérapie avec cyclophosphamide, adriamycine, vincristine, prednisone et rituximab (CHOP-R) par voie intraveineuse et une chimiothérapie intrathécale (cytosine arabinoside et corticostéroïdes) ont été commencées.
+
+Evolution
+Il a reçu 6 cycles de CHOP-R, avec une diminution du volume testiculaire, une cytologie négative du LCR et une amélioration de la force du MMII. Par la suite, il a reçu des cycles supplémentaires, une autotransplantation de moelle osseuse et une radiothérapie testiculaire. Actuellement, il reste cliniquement stable et ne présente aucun signe de maladie leptoméningée.

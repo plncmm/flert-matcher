@@ -1,0 +1,30 @@
+Anamnesis
+Paciente de 57 años, con antecedentes de espóndilo-artrosis, fumador de 2 paquetes diarios y bebedor de 2 litros de cerveza al día, que ingresa por un cuadro progresivo de 2-3 semanas de evolución consistente en cefalea occípito-nucal progresiva, resistente a analgesia con AINE, exacerbación nocturna y con las maniobras de Valsalva, acompañada de cambios conductuales y fallos cognitivos (desorientación y bradipsiquia, enmascarados por hábito enólico severo) e inestabilidad con dificultad para la marcha autónoma.
+
+Examen físico
+Presentaba tensión arterial de 197/121 mmHg. Aspecto descuidado y caquéctico. Auscultación cardiaca rítmica sin soplos. Auscultación pulmonar con normoventilación. Exploración neurológica: Glasgow de 4-5-6. Hemianopsia homónima derecha. Paresia facial central derecha. Fuerza normal. Reflejo cutáneo-plantar indiferente. Discreta dismetría derecha. Sensibilidad táctil normal con extinción sensitiva derecha. La marcha era inestable, con severa ataxia que permitía la sedestación.
+
+Pruebas complementarias
+• Electrocardiograma (ECG): ritmo sinusal a 85 lpm.
+• Analítica sanguínea: vitamina B12 178 pg/ml (límite bajo), colesterol total 244 mg/dl, LDL 170 UI/l, GGT 260 UI/l, con resto de la bioquímica normal. Hemograma normal. VSG 37 mm. Marcadores tumorales: GI monitor 76,2, NSE 143,8.
+• Radiografía de tórax: cardiomegalia global y elongación aórtica, con elevación del hemidiafragma derecho.
+• Resonancia magnética (RM) cerebral: múltiples lesiones de morfología quística y tamaño variable diseminadas por todo el parénquima encefálico, que brillan intensamente en todas las potenciaciones por su componente proteico sin realzar apenas tras la inyección de contraste, la mayor de ellas a nivel del hemisferio cerebeloso derecho. Además, se observa una masa voluminosa parieto-occipital derecha, con abundante edema vasogénico, focos de sangrado intratumorales y realce irregular después de administrar contraste intravenoso, que no parece tener relación con las anteriormente descritas. Hallazgos compatibles con múltiples metástasis de algún tipo de adenocarcinoma coincidentes con tumoración sugestiva de tumor glial de alto grado.
+Resonancia magnética cerebral donde se muestran múltiples lesiones de morfología quística y tamaño variable diseminadas por todo el parénquima encefálico, y una masa voluminosa parieto-occipital derecha, con edema vasogénico y focos de sangrado intratumorales.
+• Hemocultivos: negativos.
+• Ecografía transtorácica: dentro de la normalidad, sin signos de ecográficos de endocarditis.
+• Serologías: negativas para VIH, lúes, Brucella, Borrelia, hepatitis B, hepatitis C, cisticercosis, Toxoplasma e hidatidosis.
+• Tomografía computarizada (TC) tóraco-abdómino-pélvica: carcinoma broncopulmonar con masa tumoral lobulada de 66 x 80 x 60 mm en el lóbulo inferior del pulmón derecho que infiltra el bronquio intermediario y engloba el bronquio del lóbulo medio y de la pirámide basal, invadiendo el mediastino posterior con infiltración de la aurícula izquierda con impronta sobre la arteria pulmonar derecha. Adenopatías subcarínicas y prevasculares, paratraquales superiores e inferiores derechas. Enfisema bilateral y difuso con bullas paraseptales de predomino en los lóbulos superiores. Hígado con múltiples lesiones hipodensas de aspecto quístico en ambos lóbulos hepáticos. Metástasis suprarrenales bilaterales. Espondilosis bilateral de L5 con discopatía degenerativa L5-S1.
+En la tomografía computarizada torácica se aprecia una masa tumoral lobulada de 66 x 80 x 60 mm en el lóbulo inferior del pulmón derecho que infiltra el bronquio intermediario y engloba el bronquio del lóbulo medio y de la pirámide basal, invadiendo el mediastino posterior con infiltración de la aurícula izquierda con impronta sobre la arteria pulmonar derecha.
+• Fibrobroncoscopia: diagnóstico macroscópico de carcinoma broncogénico con toma de biopsias.
+• Biopsia: carcinoma indiferenciado de célula pequeña. En el estudio inmunohistoquímico las células tumorales expresan Ck AE1/AE3, TTF1 y débilmente cromogranina y sinaptofisina.
+
+Diagnóstico
+Inicialmente, las múltiples imágenes cistiformes diseminadas por el parénquima cerebral plantearon dudas con posible patología infecciosa del SNC, descartada con la negatividad de las serologías, la negatividad del hemocultivo, la normalidad del estudio ecocardiográfico y la permanente ausencia de fiebre. Una vez se estudió con TC la elevación del diafragma derecho y se realizó la anatomía patológica confirmatoria de neoplasia pulmonar, estas lesiones se asumieron como metástasis encefálicas de un carcinoma pulmonar grado IV con metástasis a múltiples niveles. Dados el avanzado estado de la neoplasia pulmonar y la situación paliativa del paciente se desestimó la realización de una biopsia cerebral. Debido a la ausencia de anatomía patológica de la lesión parieto-occipital derecha, solo podemos afirmar en relación con su aspecto morfológico en la RM cerebral que era sugestiva de ser una tumoración primaria glial de alto grado. Así pues, el diagnóstico final fue de dos lesiones neoplásicas sincrónicas:
+• Carcinoma pulmonar indiferenciado de célula pequeña estadio IV, con múltiples metástasis cerebrales.
+• Lesión cerebral sugestiva de glioma de alto grado con síntomas de hipertensión intracraneal.
+
+Tratamiento
+Se instauró tratamiento con dexametasona para disminuir el edema perilesional y, acorde con la decisión tomada por el Comité de Tumores, se obtuvo biopsia confirmatoria del carcinoma pulmonar para poder iniciar radioterapia holocraneal paliativa.
+
+Evolución
+Durante su estancia en planta, los déficits neurológicos del paciente apenas mejoraron. Presentó insomnio y cuadros de agitación en repetidas ocasiones. Tras 2 semanas se procedió al alta a su domicilio bajo observación de sus familiares y apoyo de Cuidados Paliativos.

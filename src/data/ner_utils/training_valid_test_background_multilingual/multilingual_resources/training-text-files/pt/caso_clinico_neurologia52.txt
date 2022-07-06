@@ -1,0 +1,31 @@
+Anamnese
+Uma mulher de 44 anos consultada por dores de cabeça e febre de 2 semanas de evolução. A sua única história pessoal de interesse foi há 5 anos, ela tinha um carcinoma ductal da mama dependente de hormonas, estágio pT2N0M0, que foi tratado por lumpectomia, radioterapia, quimioterapia e terapia hormonal, e que tem estado em completa remissão desde então. Como história familiar relevante, viveu com uma irmã que sofria de tuberculose pulmonar tratada há 26 anos. Mantém tratamento com triptorelina (análogo de GnRH) e isestano (inibidor de aromatase). A história actual começou 2 semanas antes da paciente chegar ao departamento de emergência, quando começou com uma febre baixa que se transformou numa febre de até 39,5oC nos últimos dias, associada a dores de cabeça opressivas, predominantemente nas regiões occipital e cervical, embora com extensão holocraniana, que tem vindo a progredir em intensidade, de modo que na avaliação inicial apresentou uma pontuação VAS de 7/10, e que não melhorou com o tratamento analgésico convencional. Ela também apresentou náuseas e algum vómito de conteúdo alimentar. Ela nega quaisquer sintomas sugestivos de focalização neurológica, bem como quaisquer outros sintomas sistémicos na anamnese por aparelho.
+
+Exame físico
+Exame físico geral: temperatura 38,9 oC, pressão arterial 130/80 mmHg, ritmo cardíaco 120 bpm. Nenhuma outra alteração de interesse. Exame neurológico: ligeira rigidez nucal, com sinais negativos de Kernig e Brudzinski. O resto foi normal.
+
+Testes complementares
+- Na DE, foram realizados estudos analíticos (bioquímica básica, hemograma, estudo de coagulação) que não mostraram alterações excepto para níveis de LDH de 201 UI/l, com CRP < 0,3 mg/dl e procalcitonina 0,069 ng/ml.
+- A tomografia computorizada craniana (TAC) era normal, assim como o raio-X torácico e o exame sistémico da urina.
+- Foi realizada uma punção lombar com uma pressão de abertura de 300 mm H2O, sem bloqueios e líquido cefalorraquidiano claro. O resultado do estudo citoquímico foi 50 leucócitos/mm3 (15% polimorfonucleados, 85% mononucleados), 0 glóbulos vermelhos/mm3, glicose 21 mg/dl (glicemia capilar 133 mg/dl), proteína 1,26 g/l. O restante do estudo foi obtido a partir do sangue.
+- O resto do estudo foi obtido durante toda a admissão do paciente, sendo a mais relevante a cultura positiva de Mycobacterium tuberculosis complex sensível à estreptomicina, ethambutol, pirazinamida, isoniazida e rifampicina.
+- interferão gama CSF: 166 pg/ml.
+- PCR para micobactérias, HSV e enterovírus em CSF: negativo.
+- Cultura de bactérias do QCA: negativa.
+- Citologia do QCA negativa para células malignas.
+- Serologia CSF para lúpus, Borrelia, Brucella e Cryptococcus neoformans: negativa.
+- Manchas de fluorescência e culturas micobacterianas na expectoração e urina: negativo.
+- Serologia em soro/plasma para HIV, HCV, HBV, sífilis, Brucella, Toxoplasma: negativa.
+- Teste Mantoux: negativo.
+- Ressonância magnética craniana (MRI) com contraste intravenoso: captação leptomeníngea ao nível tanto dos hemisférios cerebrais como das estruturas de fossa posterior. Fatia axial da sequência FLAIR com RM de contraste intravenoso mostrando a captação leptomeníngea ao nível do tronco cerebral.
+- TAC tóraco-abdominal-pelvica: sem sinais de recorrência dos gânglios linfáticos ou disseminação distante da sua neoplasia mamária.
+- Marcadores tumorais: normais.
+
+Diagnóstico
+Meningite tuberculosa.
+
+Tratamento
+Inicialmente, dado o quadro de meningite com pleocitose linfocitopredominante, hipoglicorreia e hiperproteinorreia de início subagudo, foi iniciado o tratamento antimicrobiano empírico com ampicilina (2 g/4 h intravenoso), aciclovir 10 mg/kg/8 h intravenoso), ceftriaxona (2 g/12 h intravenoso) e tuberculostáticos orais, bem como dexametasona (8 mg/6 h intravenoso). Após excluir outras etiologias infecciosas (virais e bacterianas), para além de tumor (carcinomatose meníngea) e inflamação não infecciosa, foi mantido apenas no tratamento anti-tuberculose: isoniazida 300 mg/24 h (juntamente com piridoxina 300 mg/semana), rifampicina 600 mg/24 h, pirazinamida 2 g/24 h e levofloxacina 500 mg/12 h.
+
+Evolução
+A paciente mostrou uma melhoria progressiva até ficar assintomática e afebril 10 dias após o início do tratamento. Como efeito secundário farmacológico, apresentou uma hepatopatia progressiva assintomática com perfil citolítico, com valores de GOT e GPT de até 141 e 208 IU/l, respectivamente, 15 dias após o início do tratamento, tornando necessária a substituição da isoniazida, rifampicina e pirazinamida pelo tratamento de antituberculose de segunda linha (linezolida, etambutol e amikacina, para além da levofloxacina). Dada a boa evolução do perfil hepático, o tratamento farmacológico foi progressivamente alterado, de modo que ela teve alta do hospital com isoniazida, rifampicina e levofloxacina por mais 2 meses e depois com isoniazida e rifampicina por mais 9 meses. No seguimento ambulatório subsequente, o paciente permaneceu assintomático e não apresentou quaisquer outras complicações.

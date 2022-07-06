@@ -1,0 +1,29 @@
+Anamnesi
+Pacient home de 76 anys d'edat, amb antecedents de diabetis mellitus, hipertensió arterial, fibril·lació auricular anticoagulada amb acenocumarol, que acudeix al Servei d'Urologia per presentar un quadre clínic de 6 mesos d'evolució, caracteritzat per un nòdul en el cos del penis.
+
+Examen físic
+A la palpació presenta un nòdul d'1 cm de grandària que envolta gran part dels cossos cavernosos. Al tacte rectal, es palpa pròstata amb lòbul dret petri i lòbul esquerre indurado. Adenopaties locorregionales no palpables.
+Proves complementàries
+• Hemograma: destaca leucocitosis de 12,81 mil./mm3 amb linfocitosis relativa de 31,2%.
+• Bioquímica de sang: glucosa 147 mg/dl, creatinina 1,38 mg/dl.
+• Sistemàtic i sediment d'orina: leucòcits 20-30/camp. Bacteriuria moderada.
+
+• Urinocultiu: > 100.000 UFC/ml de Citrobacter koseri.
+• B-HCG < 1,2 uUI/ml.
+• Antigen carcinoembrionario 1,29 ng/ml.
+• Alfa-fetoproteína 3,41 ng/ml.
+• Antigen prostàtic específic (PSA): 26,48 ng/ml.
+• CA 19.9 11,95 UI/ml.
+• CA 15.3 7,5 O/ml.
+• Ecografia peneana: en el cos cavernós dret s'observa un nòdul d'1 cm de diàmetre, hipoecogénico. En la base del penis s'observa un altre nòdul, localitzat entre el cos esponjós i el cos cavernós esquerre, de 2 cm, bilobulat i hipoecogénico. Totes dues lesions es troben molt vascularizadas.
+• Tomografia computada (TC) tóraco-abdominal: alteracions a nivell del parènquima pulmonar, en relació amb imatges de gatzares i nòdul de característiques indeterminades en el pulmó esquerre. Pròstata augmentada de grandària (5 cm), amb calcificacions en el seu interior.
+• Ressonància magnètica (RM) pelviana: en la cara posterior del penis s'identifiquen dos nòduls de 2 i 3 cm d'eix màxim, que infiltren els cossos cavernosos, fonamentalment l'esquerre i el cos esponjós, presenten una intensitat de senyal discretament elevat en totes les seqüències respecte al senyal del cos cavernós, amb un intens realç des de les fases inicials de l'estudi dinàmic. En la glàndula prostàtica, en el costat dret de la regió perifèrica, a nivell de la base i la zona mitjana, s'identifica una massa que produeix alteració del senyal, s'estén fins a la càpsula prostàtica en aquesta localització, afectant també la vesícula seminal del mateix costat.
+
+Diagnòstic
+Adenocarcinoma de pròstata amb metàstasi peneanas sincròniques.
+
+Tractament
+Es va instaurar tractament amb bicalutamida en combinació amb leuprorelina acetat.
+
+Evolució
+Se li realitza biòpsia del nòdul peneano. L'estudi anatomopatològic reporta biòpsia de cos cavernós amb infiltració per carcinoma. L'estudi immunohistoquímic posa de manifest que la neoplàsia és positiva per a vimentina, CD10, Cam-5.2 i racemasa; és negativa per a citoqueratinas (CK7, CK20 i CK5/6), uroplaquina, fosfatasa alcalina placentària, CD117, PSA i factor de transcripció tiroidal 1 (TTF-1). La lesió suggereix origen renal per troballa de cèl·lules clares (vimentina i CD 10 +); a més caldria descartar tumor urotelial i prostàtic amb neoplàsia intraepitelial prostàtica per marcador de racemasa +. La TC no evidencia troballes de lesions que suggereixin tumor primari en el ronyó. Es realitza resecció transuretral de bufeta, així com citologies ureterals i biòpsies prostàtiques transrectales ecodirigidas. Durant l'intraoperatori s'objectiva rigidesa en la uretra peneana en relació amb metàstasi i cert priapismo. Evoluciona lenta però favorablement en el postoperatori, amb hematúria que cedeix amb les mesures conservadores habituals. S'inicia tractament amb bloqueig hormonal (bicalutamida) durant la seva estada. L'informe d'Anatomia Patològica mostra adenocarcinoma de pròstata patró 8 (3 + 5) de Gleason. Es retira la sonda vesical, i és donat d'alta en bon estat general, després de micció espontània d'orina no hematúrica. Posteriorment, s'inicia tractament amb leuprorelina acetat. Actualment presenta disminució de l'antigen prostàtic específic, sent aquest de 1,17 ng/ml, i el previ de 26,48 ng/ml.

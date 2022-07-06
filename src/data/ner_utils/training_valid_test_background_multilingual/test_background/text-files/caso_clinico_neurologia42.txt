@@ -1,0 +1,28 @@
+Anamnesis
+Varón de 61 años con antecedentes personales de hipertensión arterial (HTA) y nefrectomía 3 años antes por carcinoma papilar urotelial. Dos meses antes fue diagnosticado de herpes zóster oftálmico complicado con una intensa neuralgia en el territorio de la primera rama del V (V1) par craneal izquierdo
+
+Acude al Servicio de Urgencias por episodios reversibles de disestesias en la extremidad superior derecha durante los últimos 3 días, que en ese momento afectaban también a la extremidad inferior; el cuadro clínico iba acompañado de leve hemiparesia derecha.
+
+
+Examen físico
+Tensión arterial 198/125 mmHg, frecuencia cardiaca 101 lpm, afebril. Consciente y orientado en tiempo y espacio. Lenguaje disártrico. Paresia del III par izquierdo, con ptosis, limitación de la aducción y la supra e infravergencia y leve midriasis. El paciente refería diplopía a la mirada a la derecha y hacia arriba. Inyección conjuntival izquierda. Lesiones cutáneas subagudas por herpes zóster en el territorio del V1 par. Leve paresia facial central derecha. Hemiparesia derecha a 4/5. Hemihipoestesia derecha. Reflejos osteotendinosos normales. Reflejo cutáneo-plantar flexor bilateral. No signos meníngeos. No se auscultan soplos cardiacos.
+
+Pruebas complementarias
+• Analítica de urgencias: hemograma completo y bioquímica de rutina: sin alteraciones significativas.
+• Tomografía computarizada (TC) craneal: pequeño infarto crónico en el brazo posterior de la cápsula interna.
+• Resonancia magnética (RM) craneal: muestra en secuencias T2 una lesión hiperintensa multifocal, córtico-subcortical, que afecta a la región temporal posterior, corona radiada y, de forma parcheada, a la región cortical frontal y parietal izquierda. Se acompaña de restricción en difusión. Todo ello es compatible con infartos subagudos en el territorio de la arteria cerebral media (ACM) izquierda.
+• La angio-RM no muestra alteraciones. Secuencias FLAIR y difusión que muestran el ictus agudo.
+• Estudio del líquido cefalorraquídeo (LCR): 40 leucocitos/mm3 (100% mononucleares), glucosa 53 mg/dl, proteína 73,16 mg/dl. Reacción en cadena de la polimerasa (PCR) para virus varicela-zóster (VVZ) negativo.
+• Doppler transcraneal: asimetría menor del 30% de la ACM izquierda respecto a la derecha.
+• Dúplex de troncos supraaórticos: ateromatosis carotídea leve sin estenosis. Se exploraron con sonda de dúplex cervical las ramas temporales de la arteria carótida externa de forma bilateral, sin objetivarse alteraciones morfológicas ni aceleraciones.
+• Electroencefalograma (EEG): sin asimetrías ni anomalías focales. No actividad epileptiforme en el sueño superficial ni bajo métodos de activación.
+
+Diagnóstico
+Infarto multifocal en el territorio de la arteria cerebral media izquierda por vasculitis secundaria a infección por VVZ. Meningoencefalitis por VVZ con parálisis del III par craneal izquierdo secundaria.
+
+Tratamiento
+Aciclovir intravenoso, 10 mg/kg cada 8 horas.
+
+Evolución
+A las pocas horas de ser ingresado, el paciente presentó empeoramiento clínico con desorientación y agitación, empeoramiento del lenguaje con disfasia mixta moderada-grave de predominio motor. Por este motivo se realizó una punción lumbar, que mostró un LCR con los hallazgos arriba indicados, y se inició tratamiento con aciclovir intravenoso. Durante el ingreso el paciente presentó una encefalopatía metabólica por fallo renal agudo, que mejoró al corregirse la función renal. Por todo ello, se ajustó la dosis del tratamiento antivírico.
+A los 14 días de iniciado el tratamiento con aciclovir se realizó una nueva punción lumbar, que mostró nuevamente pleocitosis linfocitaria, por lo que prolongó el tratamiento hasta cumplir 21 días. A lo largo del ingreso el paciente presentó una progresiva mejoría. Al alta se encontraba con un buen nivel de consciencia, lenguaje normal, leve tumefacción del párpado izquierdo e inyección conjuntival. No presentaba ptosis ni oftalmoparesia y las pupilas eran isocóricas. También había desaparecido el déficit motor en las extremidades derechas.

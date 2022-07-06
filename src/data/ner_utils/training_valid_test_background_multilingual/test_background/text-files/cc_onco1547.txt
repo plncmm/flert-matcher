@@ -1,0 +1,29 @@
+Anamnesis
+Mujer de 57 años de edad, entre cuyos antecedentes personales destaca una histerectomía y doble anexectomía por miomas a los 48 años. Sus antecedentes fisiológicos son: menarquia a los 13 años, dos embarazos con partos a término y lactancia a sus dos hijos. No ha tomado anticonceptivos hormonales ni terapia hormonal sustitutiva. No presenta antecedentes familiares de interés.
+Comienza en el año 1992 cuando es diagnosticada, en otro centro, de un carcinoma ductal infiltrante de mama izquierda en cuadrante súpero externo. Se realiza, en ese momento, cuadrantectomía y linfadenectomía axilar con resultado anatomopatológico de carcinoma ductal infiltrante pT2N2 (cinco ganglios positivos de 29 aislados) con receptores hormonales negativos y, estudio de extensión negativo.
+Recibió como terapia complementaria, quimioterapia con ciclofosfamida, metrotexate, 5-fluorouracilo por seis ciclos y, posteriormente, radioterapia.
+En el año 2006, también en otro centro, se diagnostica de recidiva tumoral en intercuadrantes externos de mama izquierda, de 3 cm de tamaño, grado histológico 3 y receptores hormonales y Her-2 negativos. Se lleva a cabo una mastectomía y posterior tratamiento con quimioterapia adyuvante, según esquema EC (epirrubicina, ciclofosfamida) por cuatro ciclos, seguido de docetaxel, cuatro ciclos.
+Continuando posteriormente revisiones normales.
+La paciente consulta en enero de 2009 por dolor en la región interescapular de pocos días de evolución, sin otros datos asociados.
+
+Exploración física
+Buen estado general. ECOG 0. Mastectomía izquierda.
+Se palpa a nivel de la región paraesternal superior izquierda una masa dependiente de pared torácica. Resto de exploración física sin hallazgos relevantes.
+
+Pruebas complementarias
+• Marcadores tumorales: CEA y CA-15.3 normales. Resto de parámetros bioquímicos y hematimétricos normales.
+• Gammagrafía ósea: aumento de captación a nivel de manubrio esternal.
+• TC toracoabdominopélvica: lesión nodular de 2,3 cm en la región paraesternal izquierda que afecta a la región mediastínica y extrapleural, sugerente de recidiva. Resto del estudio sin datos patológicos.
+Con el diagnóstico de sospecha de metástasis de cáncer de mama es derivada a nuestro servicio.
+En este momento se solicita biopsia con aguja gruesa de la lesión que confirma la existencia de metástasis de carcinoma ductal infiltrante de mama.
+Pese a estar pendientes del resultado de la inmunohistoquímica del tumor, debido al rápido crecimiento de la masa y los deseos de la paciente de tratarse de forma inmediata, se comienza tratamiento quimioterápico con paclitaxel-bevacizumab, en base a las características del tumor primario (triple negativo).
+Tras el primer ciclo de quimioterapia se objetiva una respuesta parcial clínica y se recibe el perfil inmunohistoquímico de la recidiva, siendo negativo para receptores hormonales y presentando amplificación por FISH de Her-2.
+Nos encontramos, por tanto, ante un cambio en el perfil de expresión inmunohistoquímica de la recidiva del cáncer de mama respecto al tumor primario.
+
+Diagnóstico
+Metástasis de partes blandas de carcinoma ductal infiltrante de mama Her-2 positivo.
+
+Evolución y tratamiento
+Frente a una paciente con cáncer de mama oligometastásico her-2 positivo, se cambia el esquema de tratamiento, incorporando un agente anti-her-2. Recibe ocho ciclos de paclitaxel-carboplatino-trastuzumab objetivándose respuesta completa en la TC tras el tercero, continuando con trastuzumab trisemanal hasta junio de 2010, momento en el que se suspende por descenso de la fracción de eyección ventricular.
+Asimismo, recibe tratamiento local con radioterapia (45 Gy) dado que se trata de una metástasis de localización única.
+Ha continuado revisiones normales hasta la actualidad, permaneciendo asintomática y con recuperación de la fracción de eyección ventricular.

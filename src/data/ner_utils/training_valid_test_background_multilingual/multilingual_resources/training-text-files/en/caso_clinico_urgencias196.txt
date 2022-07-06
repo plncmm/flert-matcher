@@ -1,0 +1,44 @@
+Reason for consultation
+Increased dyspnoea and cough
+
+Personal history
+- No known allergies.
+- Type II DM on treatment with oral antidiabetics.
+- HT in treatment with Telmisartan 40 mg.
+- Active smoker of 10 cigarettes/day.
+- Occasional drinker.
+- COPD with FEV1 of 60%.
+- He has had two exacerbations in the last year, the last one 7 months ago.
+- He is being treated with long-acting beta-2 and long-acting anticholinergics.
+
+CURRENT HISTORY
+He consults because for the last 3 days he has been experiencing an increase in his usual dyspnoea with cough and expectoration in greater quantity than usual and of a greenish colour. The situation has not improved despite the treatment given by his doctor and in the last 12 hours the dyspnoea has become minimal effort which prevents him from washing himself every day, for which he consults. 
+
+PHYSICAL EXAMINATION
+Conscious and oriented in time and space. Central cyanosis. BP: 185/110, HR of 130 bpm, RR of 28 rpm. O2 Sat of 89%, To of 36.8oC, blood glucose of 240. - AC: Rhythmic, no audible murmurs. - AP: Expiratory wheezing in both lung fields with isolated rhonchi. - ABD: Soft depressible, no visceromegaly or masses. Not painful. - EEII: Minimal pretibial oedema. Pulses present and symmetrical. Complementary explorations were requested and treatment was started with: - Oxygen therapy: Ventimask mask with a FiO2 of 0.3. - Beta 2 (salbutamol 5 mg) + anticholinergics (Ipratropium 0.5 mg) nebulised and repeated initially every 4 hours. - Systemic corticosteroids (80 mg iv). This is a severe exacerbation of COPD and all severe exacerbations benefit from treatment with systemic corticosteroids. Follow with 40 mg/iv/6 hours thereafter. - Antibiotics (moxifloxacin 400 mg IV/24 h).
+
+COMPLEMENTARY EXPLORATIONS
+Chest X-ray: Cardiomegaly. Slightly congestive hilarity with minimal interstitial pattern at this level. Vascular redistribution with increased vascular distribution at the bases. No infiltrates. ECG: Sinus rhythm at 110 bpm. No repolarisation alterations.
+BIOCHEMISTRY
+GLUCOSE 265 mg/dl [ 70 - 110 ] UREA 26 mg/dl [ 15 - 50 ] CREATININE 1 mg/dl [ 0.6 - 1.3 ] SODIUM 142 mmol/L [ 135 - 148 ] POTASSIUM 3. 8 mmol/L [ 3.6 - 5.2 ] HEMATOLOGY LEUCOCYTES 10.12 x10^3/uL [ 4.8 - 10.8 ] NEUTROPHILES 87.5 % [ 43 - 65 ] LYMPOCYTES 5.6 % [ 20.5 - 45. 5 ] MONOCYTES 6.8 % [ 5.5 - 11.7 ] EOSINOPHILES 0 % [ 0.9 - 2.9 ] BASOPHILES 0.1 % [ 0.2 - 1 ] HEMOGLOBIN 16.6 g/dL [ 14 - 18 ] HEMATOCRITES 49. 7 % [ 42 - 52 ] PLAKETS 191 x10^3/uL [ 130 - 400 ] ARTERIAL GASOMETRY pH 7.3 pCO2 77.3 mmHg pO2 54.5 mmHg cHCO3 37.4 mmol/L O2 Sat 89%.
+
+Given the analytical findings of respiratory acidosis and an x-ray with a semiology that may suggest incipient heart failure, together with the malleolar oedema, it was decided to add furosemide to the treatment and venous gasometric control in one hour, in case it was necessary to initiate non-invasive mechanical ventilation.
+
+EVOLUTION, WAITING AND OBSERVATION
+After 60 minutes with correct treatment, a gasometric control was carried out with the following results: Venous gasometry pH 7.31 pCO2 74.3 mmHg pO2 44.5 mmHg HCO3 36.4 mmol/L Pulse oximetry 91%.
+In view of the scarce improvement despite correct treatment, it was decided to start non-invasive mechanical ventilation in BiPAP mode with an IPAP of 16 and an EPAP of 6 and a FiO2 of 0.3 Some time later a new venous blood gas analysis was performed in which we can see: Venous blood gas pH 7.383 pCO2 59.1 mmHg pO2 27.6 mmHg cHCO3 34.4 mmol/L O2 saturation of 95% O2 saturation of 95%.
+It was decided to maintain NIV, continuing with the treatment mentioned above and after 10 hours the patient presented the following blood gases: pH 7.467 pCO2 46.1 mmHg pO2 49.3 mmHg HCO3 32.9 mmol/L O2 saturation of 97%.
+
+RESOLUTION, ORIENTATION AND TRANSFER
+It was decided to start progressive withdrawal of non-invasive mechanical ventilation and admission to the pneumology ward for monitoring and definitive treatment. Treatment on admission - Diabetic diet without salt.
+- Oxygen therapy: Ventimask mask with FiO2 of 0.28
+- Brocodilators: Beta 2 (salbutamol 400 μg) + anticholinergics (Ipratropium 120 μg) with spacer chamber every 6 hours.
+- Systemic corticosteroids: methylprednisolone 40 mg/iv/6 hours.
+- Antibiotics: Moxifloxacin 400 mg iv/24 hours.
+- Furosemide 20 mg iv/24 hours.
+- Enoxaparin 40 mg sc/24 h.
+- Telmisartan 40 mg iv/24h.
+- Glucometer before breakfast, lunch and dinner with insulin regimen.
+
+CLINICAL TRIAL
+MODERATE COPD WITH SEVERE EXACERBATION DUE TO BACTERIAL INFECTION.

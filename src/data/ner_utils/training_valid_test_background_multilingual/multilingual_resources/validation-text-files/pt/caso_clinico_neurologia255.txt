@@ -1,0 +1,33 @@
+Anamnese
+Paciente de 58 anos com um historial pessoal de endocardite bacteriana complicada com meningoencefalite bacteriana, discípulo ao nível de D12-L1 e com um AVC parietal isquémico esquerdo em 2006, sem sequelas, ex-fumador (3 maços/dia).
+Em Setembro de 2011, começou a sentir uma dor lombar baixa que irradiava para o aspecto anterior da coxa direita, com pouca resposta ao tratamento analgésico, levando a várias visitas ao departamento de emergência. Desde Janeiro de 2012, tinha experimentado uma fraqueza progressiva na perna direita, necessitando de apoio com muletas para a ambulação, e uma sensação de dormência ipsilateral, especialmente quando estava erguida. No último mês, também relatou uma sensação de dormência e fraqueza na perna esquerda ao caminhar, que melhorou depois de descansar. Não relatou distúrbios de esfíncteres ou outros sintomas. O paciente forneceu um estudo electromiográfico (EMG), que revelou a presença de graves problemas radiculares L4-L5 com evidência de denervação activa; e uma ressonância magnética lombar (RM) realizada em Outubro de 2011, que mostrou ligeiras alterações degenerativas em L4-L5 e L5-S1, com estenose muito discreta dos recessos laterais e foramina sem sinais de envolvimento radicular. RM da coluna dorsal-lombar em sequência T2 sem contraste, na qual se pode ver uma pequena protrusão de disco D12-L1, sem causar alteração do sinal medular. Tendo em conta a dissociação clínico-radiológica e a evolução torpida do quadro clínico, o paciente foi admitido no Departamento de Neurologia para completar o estudo.
+
+Exame físico
+Os sinais vitais eram normais. Cabeça e pescoço normais, sem gânglios linfáticos palpáveis. Auscultação cardíaca rítmica, sem murmúrios. Auscultação pulmonar: murmúrio vesicular preservado. Abdómen: mole, depressável, sem massas ou megalitismo; não havia adenopatias inguinais palpáveis.
+
+Exame neurológico: atrofia da coxa direita. Fraqueza global na extremidade inferior direita, predominantemente distal, com uma queda dos pés. Fraqueza para a flexão dorsal do pé esquerdo. Reflexos musculares abolidos no extremo inferior direito e hipoativos no extremo inferior esquerdo. Reflexo cutâneo-plantar do flexor bilateral. Modalidades sensoriais normais. Sinal Bilateral Lasègue a 45o. Andamento muito difícil, degrau bilateral, predominantemente à direita.
+
+Testes complementares
+- Exames de sangue com hemograma, bioquímica, HbA1, hormonas da tiróide: normal.
+- Coagulação: fibrinogénio 541 mg/dl.
+- Taxa de sedimentação de eritrócitos: 49 mm.
+- Vitamina B12: 4,789 pg/ml. Ácido fólico: 1,9 ng/ml.
+- Antigénio específico da próstata: negativo.
+- Estudo imunológico: anticorpos antinucleares 1/160, repouso negativo.
+- Serologia retrovírus, lúpus, Borrelia, Brucella: negativo. Serologia do vírus Herpes simplex: IgM negativo, IgG positivo.
+- Estudo do líquido cerebrospinal: leucócitos 165 células/ul (mononucleares superiores a 90%), glucose 61 mg/dl, proteína 1,7 g/l.
+- Citologia do fluido cerebroespinhal: pleocitose linfomonocítica. Não há indícios de células atípicas.
+- Electrocardiograma: ritmo sinusal.
+- Raio-X ao tórax: nenhuma evidência de patologia pleuropulmonar.
+- Radiografia da coluna vertebral: evidência da doença do disco D12-L1.
+- Electroneuromiograma (ENMG): evidência de denervação activa em praticamente todos os músculos explorados nos membros inferiores, excepto na L4 esquerda; em parte dos músculos dependentes da C8 direita e nos músculos paravertebrais lombares, com traçados neurogénicos ou ausência de PUM (raiz L5 direita) na contracção voluntária destes músculos.
+- Ressonância magnética (RM) da coluna cervico-dorso-lombar sem e com contraste: lesão focal da medula espinal ao nível do corpo vertebral L1, com cerca de 2 cm de comprimento e 8 mm de espessura, envolvendo a porção anterior e central do conus medullaris e estendendo-se amplamente sobre a superfície pial do aspecto anterior. Após a administração de contraste, mostrou uma melhoria periférica e hipocaptação central. Foi associado a edema centromedular, estendendo-se de D11 ao conus medullaris e ligeira expansão medular, embora parecesse haver depressão da superfície pial na zona central da lesão. Duvidosa lesão intratérmica nodular adjacente à raiz S1 direita. RM da coluna dorsolombar, sequência T2 sem contraste com uma lesão da medula espinal ao nível do corpo vertebral L1 que afecta a porção anterior e central do conus medullaris. Após administração de contraste, mostra realce periférico e hipocaptação central associada a edema da medula espinal.
+- Laminectomia com biópsia da raiz lombossacral: metástase de carcinoma. O estudo imuno-histoquímico mostrou imunopositividade para citoceratina 7 e TTF1, sugerindo a metástase de adenocarcinoma pulmonar como primeira possibilidade.
+- Tomografia computorizada tóraco-abdominal-pelvica (TC): foram observadas linfadenopatias necróticas subcarcinais e hilares direitas. Espessamento pleural basal bilateral crónico. Não foram demonstradas massas parenquimatosas pulmonares. Pequenos quistos bilaterais de corticais renais. Lipomatose perirrenal.
+
+Diagnóstico
+Infiltração das raízes lombossacrais por carcinoma metastático. Carcinomatose meníngea.
+
+Tratamento e evolução
+Com a suspeita de diagnóstico de plexopatia lombossacral, o paciente foi admitido para completar o estudo de diagnóstico, e foi inicialmente administrado tratamento analgésico. Foi realizada uma bateria de testes complementares, incluindo um estudo de RM da coluna vertebral, que mostrou a presença de uma lesão vertebral associada a edema perilesional e absorção de contraste heterogénea compatível com uma lesão neoplásica, razão pela qual doses elevadas de dexametasona foram associadas ao tratamento. O paciente foi submetido a cirurgia para biópsia e excisão da lesão. Durante a operação, foi observada uma raiz lombar espessa, amarelada e granular, que estava a desbastar em L1 e bifurcada em D12, e só foi possível colher uma amostra para estudo histológico. Com o diagnóstico de carcinoma metastático de origem desconhecida (provavelmente adenocarcinoma do pulmão), o caso foi discutido com o Departamento de Oncologia para avaliar o tratamento de radioterapia. Alguns dias mais tarde, sem ter iniciado o tratamento oncológico, o paciente desenvolveu sintomas confusos com deterioração significativa do estado geral, e morreu pouco tempo depois.
+

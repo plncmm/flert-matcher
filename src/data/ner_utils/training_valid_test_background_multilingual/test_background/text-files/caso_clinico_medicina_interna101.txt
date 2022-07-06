@@ -1,0 +1,17 @@
+Antecedentes Personales
+Diabetes mellitus tipo II, hipertensión arterial, osteoporosis, insuficiencia renal crónica estadio 3b. Colecistectomizada. Colostomía por fístula enterocutánea multirecidivada.
+
+Enfermedad Actual
+Cuadro agudo de dolor abdominal difuso de carácter cólico, vómitos de repetición y fiebre termometrada en mujer de 78 años.
+
+Exploración Física
+108/61 mmHg, 104 lpm, 39 grados, palidez cutánea, neurológico normal sin signos meníngeos, corazón rítmico con soplo sistólico aórtico II/VI, pulmones sin ruidos patológicos, abdomen indoloro, colostomía funcionante.
+
+Laboratorio
+HB 7,1 g/dl, Hto 22%, VCM 92 fl, Leucocitos 23420/ul, glucosa 112 mg/dl, creatinina 3,03 mg/dl (FG 15 ml/mto), Na 125 meq/l, K 6,6 meq/l, VSG 45 mm/h, PCR 67 mg/l, Amilasa 1669 U/L, Calcio 8 mg/dl. GOT 36, GPT 58, GGT 730, FA 130 U/L. Hemo y urocultivos, estudio completo anemia, IgG4, serologías y batería autoinmune negativas.
+IMAGEN: Rx tórax, abdomen, gastroscopia y colangioRMN sin hallazgos relevantes. Ecografía abdominal con signos de nefropatía crónica. Vía biliar sin alteraciones. Tac abdomino-pélvico s/c: Hígado sin loes con granuloma calcificado y sin dilatación de vía biliar. Páncreas atrófico. Ecocardiografía con estenosis aórtica leve.
+
+Evolución y Diagnóstico
+El curso evolutivo tórpido y ciertos elementos inespecíficos hicieron sospechar proceso autoinmune con compromiso hepato-pancreático, pautándose corticoides con evidente mejoría. La negatividad de auto-anticuerpos determinó la suspensión, recurriendo las dolencias con astenia, episodios de hipotensión relativa y agravamiento de hiponatremia e hiperpotasemia.
+Posteriormente la opción de hipoaldosteronismo secundario a posible Addison cobró fuerza. Los niveles de cortisol basal resultaron bajos (7,3 ug/dl), gestionándose test de Nuvacthen con hallazgos compatibles con Hiperplasia Suprarrenal Congénita: respuesta elevada de 17 hidroxiprogesterona (basal 0.54 ng/ml; 60 minutos 15,20 ng/ml), ACTH ligeramente elevada y buena respuesta de cortisol.
+En estudio molecular realizado al gen CYP 21A2 se identificó el cambio V281L en heterocigosis, afianzándose así genéticamente el diagnóstico de déficit de 21 hidroxilasa no generador de androgenización en nuestra paciente. Asintomática al alta con hidroaltesona. El cuadro colestásico se aproximaba a la definición de ductopenia idiopática leve del adulto (Moreno A. N Engl J Med 336:835-8, 1997), resolviéndose con ácido ursodesoxicólico y quedando pendiente de biopsia.

@@ -1,0 +1,16 @@
+ANTÉCÉDENTS, MALADIE ACTUELLE ET EXAMEN PHYSIQUE
+Homme de 56 ans, pas d'allergies, ex-fumeur et schizophrénie paranoïde traitée dans le passé par ECT et de multiples antipsychotiques. Il a été trouvé inconscient par son frère ; à l'arrivée de l'ambulance, il présentait une pression sanguine de 60/40 mmHg avec une saturation en O2 de 65 %, une température de 34,8 °C. À l'auscultation, il présentait des crépitants et des rhonchus dans les deux champs pulmonaires. Une intubation orotrachéale a été réalisée et une perfusion de catécholamines (noradrénaline et adrénaline) a été commencée. À l'arrivée aux urgences, un bilan cardiologique a été demandé en raison d'un électrocardiogramme (ECG) évoquant un infarctus inféro-latéral. L'ECG a montré un rythme nodal avec un QRS de 120 ms et une morphologie RSR de V2-V6 avec le dernier R lié au ST. Echocardioscopie avec fonction ventriculaire gauche (VG) préservée et aucune altération segmentaire. Tests de laboratoire décrits dans les preuves. La radiographie pulmonaire était compatible avec une pneumonie multilobaire. La cardiologie a maintenu une attitude attentiste et le patient a été admis dans l'unité de soins intensifs pour le traitement du processus infectieux respiratoire.  
+
+TESTS COMPLÉMENTAIRES
+ECG d'arrivée : rythme nodal avec QRS de 120 ms et morphologie du RSR de V2-V6 avec le dernier R lié au ST.
+ECG après correction de la température : quasi-disparition des ondes d'Osborn, retour à un rythme sinusal normal.
+ANALYSE : hémoglobine 14,4 g/dl, hématocrite 41,6%, leucocytes 1700x10^3/μl, neutrophiles 93,3%, plaquettes 133 000x10^3/μl. Coagulation : INR 1,61, QI 52 %, TP 17,1, TCA 42,9, D-dimère 708 ngr/ml.
+BIOCHEMIE : glucose 163 mg/dl, urée 57 mg/dl, créatinine 0,39 mg/dl, DFG MDRD4 ; 60 ml/min/1,73m2, sodium 127 mm/l, potassium 4,4 mm/l, magnésium 2,2 mm/l. Créatine kinase 672 U/L. Lactate 2.37 mm/l. Procalcitonine 0,96 ng/ml. Troponine I < 0,01 ng/dl. Masse de CK-MB 139,93 ng/ml. Gaz du sang artériel : pH 7,29. pCO2 67 mmHg. pO2 42 mmHg. HCO3 32,2 mm/l. Excès de base 3,36 mm/l.
+RADIOGRAPHIE THORAX : compatible avec une pneumonie multilobaire (image 2).
+ECOCARDIOSCOPIE : ventricule gauche non dilaté avec fonction préservée. Pas d'altération segmentaire de la contractilité. Pas de valvulopathie aortique. Insuffisance mitrale minimale. Chambres droites avec morphologie et fonction normales. Pas d'épanchement ou de masse intracardiaque.
+
+ÉVOLUTION CLINIQUE
+L'équipe d'intensivistes a demandé une nouvelle évaluation du patient en raison de doutes sur la décision prise par la cardiologie. Après avoir réévalué les électrocardiogrammes, on a demandé une nouvelle température du patient, qui était alors indétectable. Le patient a été progressivement réchauffé avec des couvertures thermiques et du sérum physiologique chaud. A 32 °C, on observe une correction partielle des ondes, qui disparaissent complètement à 36 °C. Un diagnostic d'ondes d'Osborn dues à une hypothermie et une acidose a été posé. Le patient est finalement décédé d'une insuffisance respiratoire.
+
+DIAGNOSTIC
+Pneumonie multilobaire acquise dans la communauté. Insuffisance respiratoire aiguë. Hypothermie et acidose, avec ondes d'Osborn sur l'électrocardiogramme. Fonction ventriculaire gauche préservée, pas de maladie cardiaque structurelle. La mort.

@@ -1,0 +1,23 @@
+Anamneză
+Bărbat în vârstă de 23 de ani, cu antecedente personale de orhiectomie radicală stângă în urmă cu 7 luni pentru o tumoră testiculară cu anatomie patologică de tumoră germinală combinată (60% tumoră de sinus endodermal, 20% carcinom embrionar, 20% teratom). Masă retroperitoneală reziduală după tratamentul cu chimioterapie, cu markeri tumorali negativi. Extirparea laparoscopică a unei mase para-aortice stângi în urmă cu o lună, fără incidente notabile (anatomie patologică fără dovezi de malignitate).
+S-a prezentat la Urgențe cu distensie abdominală progresivă de 3 săptămâni de evoluție, asociată cu dureri abdominale difuze și vărsături în ultimele zile. Ortopnee care s-a intensificat și îl obligă să doarmă cu două perne. Nu are febră sau alte simptome.
+
+Examinarea fizică
+Afebril, abdomenul distensat și timpanic, dureros difuz la palpare. Sunete hidroaeriene prezente.
+
+Teste complementare
+Analize de sânge urgente: creatinină 0,8 mg/dl, proteină C reactivă 0,5 mg/dl, leucocite 6,10 x 1.000/l, hemoglobină 14 g/dl.
+Tomografie computerizată (CT) abdominală-pelvină de urgență: ascită abundentă în toate spațiile. Nu există captare peritoneală sau semne de diseminare peritoneală. Modificări post-chirurgicale în regiunea retroperitoneală stângă. Cantitate moderată de revărsare pleurală bilaterală cu atelectasie compresivă a parenchimului adiacent.
+● Paracenteză diagnostică: prelevarea unui lichid lăptos pentru a fi trimis la Microbiologie (steril), citologie (negativ pentru malignitate) și număr de trigliceride (1,525 mg/dl).
+
+Diagnostic
+Ascita chiloasă ca o complicație în urma limfadenectomiei retroperitoneale laparoscopice.
+
+Tratament
+Cu diagnosticul de ascită chiloasă, a fost plasat un cateter de drenaj percutanat și ghidat prin CT, evacuându-se 4.000 cc de lichid ascitic în primele 24 de ore, cu ameliorarea simptomatică a pacientului (scăderea perimetrului abdominal și dispariția ortopneei).
+S-a efectuat un management conservator, lăsând pacientul la o dietă absolută și trecând la o dietă restrictivă de lipide pentru următoarele 3 săptămâni, debitul de drenaj rămânând la zero în această perioadă.
+După reintroducerea grăsimilor în dietă, în a patra săptămână de la internare, debitul de drenaj a început să crească, rămânând la un debit de aproximativ 500 cc pe zi, și s-a decis începerea tratamentului cu octreotidă 100 μg/8 ore timp de 2 săptămâni și restricționarea alimentelor grase.
+
+Evoluție
+După terminarea tratamentului cu octreotidă, debitul de drenaj a rămas aproape de 150 cc/zi, în ciuda restricțiilor alimentare. Pacientul a trebuit să fie internat pentru un episod febril secundar unei colonizări bacteriene a lichidului ascitic (Pseudomonas aeruginosa), cu o rezoluție bună după încheierea unui tratament cu antibioterapie cu spectru larg (piperacilină-tazobactam).
+Din cauza persistenței debitului la 3 luni de la debutul tabloului clinic, a fost începută alimentația parenterală totală timp de 2 săptămâni, cu dispariția limforeei. După confirmarea absenței recidivei după reintroducerea progresivă a alimentației, drenajul a fost îndepărtat, fără un nou episod ascitic în controalele imagistice ulterioare.

@@ -1,0 +1,27 @@
+Anamnesi
+Presentiamo il caso di una paziente di 40 anni che si è presentata alla clinica dermatologica per delle lesioni dolorose sul primo dito del piede destro, che si erano infiammate in diverse occasioni, per 2 mesi. La sua storia personale includeva il lupus eritematoso sistemico e l'anemia da carenza di ferro. In precedenza aveva ricevuto un trattamento topico e orale con diversi cicli di antibiotici, tra cui Cloxacillina e Levofloxacina, per meno di due settimane, con praticamente nessun miglioramento.
+Non aveva presentato febbre o sensazione distermica dall'inizio dei sintomi, e ha negato qualsiasi altro sintomo di interesse. La paziente non ha riferito episodi precedenti simili e ha collegato i suoi sintomi a un trauma con un ferro da stiro durante il suo soggiorno in un parco acquatico.
+
+Esame fisico
+Il paziente era in buone condizioni generali, afebrile ed emodinamicamente stabile.
+L'esame fisico ha rivelato piccole papule eritemato-violacee sulla superficie superiore e inferiore del primo dito del piede destro, una delle quali era più grande e drenava materiale purulento alla puntura. Non c'erano lesioni su altre dita o sul piede controlaterale, e nessun coinvolgimento delle unghie.
+
+Esami complementari
+Nello studio micologico, l'esame diretto era negativo e nella coltura sono state isolate 5 colonie di Candida lusitaniae, senza rilevanza clinica.
+La coltura microbiologica del tampone di pus era negativa.
+Una biopsia cutanea della lesione è stata eseguita per lo studio istologico e microbiologico.
+L'istopatologia ha mostrato un'iperplasia discreta nell'epidermide accompagnata da ipercheratosi e parakeratosi, con pustole occasionali nello strato corneo. Nel derma superficiale, è stato identificato un infiltrato infiammatorio granulomatoso con cellule giganti multinucleate che occasionalmente formano granulomi, con isolati focolai di necrosi suppurativa.
+La coltura microbiologica della biopsia in mezzo liquido (a 37oC) era negativa dopo 45 giorni. Due unità formanti colonie (CFU) di un micobatterio atipico fotocromogeno sono state isolate dalla coltura su terreno solido (colet) a temperatura ambiente. Successivamente, una colonia gialla cromogenica è stata sottoposta ad analisi genetica molecolare utilizzando il metodo GenoType Mycobacterium, che comprende 27 diverse specie di micobatteri. La procedura è divisa in tre fasi: isolamento del DNA dalla coltura, amplificazione con primer marcati con biotina (esclusa la DNA polimerasi termostabile) e ibridazione inversa. Il sistema si basa sull'amplificazione di una regione genetica specifica con successiva ibridazione del prodotto di amplificazione alle diverse sonde disposte su una striscia di nitrocellulosa. Un modello assicura un'interpretazione semplice e veloce dello schema di bande ottenuto. Secondo questo schema, nel nostro caso, è stato isolato il micobatterio non tubercoloso (NTM) Mycobacterium marinum.
+Ottenere un campione adatto alla coltura rende più facile l'isolamento del germe, poiché il materiale purulento contiene la più alta concentrazione del germe. D'altra parte, anche la temperatura della coltura è fondamentale, poiché il Mycobacterium marinum ha una temperatura di crescita ottimale tra 30 e 33oC.
+Il paziente ha abbandonato il trattamento 18 giorni dopo aver iniziato il trattamento a causa della diarrea secondaria agli antibiotici, quindi è stato aggiunto un probiotico e il regime è stato cambiato a una capsula di Doxiciclina 100 mg ogni 24 ore per un minimo di 4 mesi una volta confermata la diagnosi.
+Il test convenzionale di suscettibilità ai farmaci non è raccomandato per la maggior parte dei micobatteri non tubercolari, tranne che in alcune specie o in caso di fallimento del trattamento. Tali test non sono raccomandati in questa specie, che è normalmente sensibile a claritromicina, rifampicina, etambutolo, tetracicline, sulfamidici e co-trimoxazolo. Alcuni isolati sono resistenti alla ciprofloxacina, e la monoterapia con fluorochinoloni può facilitare lo sviluppo della resistenza, quindi non è consigliabile usare questi farmaci in monoterapia nel trattamento iniziale.
+
+
+Evoluzione
+Dopo un mese e mezzo con probiotici e Doxiciclina 100 mg ogni 24 ore con buona tolleranza, le lesioni erano nettamente tornate, presentando in quel momento lesioni piatte violacee di aspetto residuo, senza evidenza di pustole, ma con qualche crosta mielosa. Il trattamento di questo tipo di infezione deve essere mantenuto per un minimo di quattro mesi.
+
+Diagnosi
+Infezione da Mycobacterium marinum o granuloma da piscina.
+
+Trattamento
+Prima che il risultato della coltura sia disponibile e dato l'alto sospetto diagnostico, il trattamento viene iniziato con una compressa di Doxiciclina 100 mg ogni 12 ore.

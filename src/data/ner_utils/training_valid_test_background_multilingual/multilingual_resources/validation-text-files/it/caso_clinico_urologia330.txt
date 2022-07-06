@@ -1,0 +1,31 @@
+Anamnesi
+Una donna di 30 anni con una storia di colica renale destra non complicata 5 anni prima. Non aveva altri precedenti medici o chirurgici. Allergico alla ciprofloxacina.
+È stata indirizzata alla nostra clinica per lo studio di episodi ricorrenti di sindrome da svuotamento negli ultimi 6 mesi. Il paziente descrive i sintomi come pollachiuria, disuria e urgenza, a volte accompagnati da febbre e dolore nella fossa renale destra. I sintomi migliorano solo parzialmente con il trattamento antinfiammatorio. Ha fornito diverse colture di urina, tutte negative. Cinque anni prima, un'urografia endovenosa era stata eseguita nel contesto di una colica renale destra, senza risultati.
+
+Esame fisico
+Buone condizioni generali. Afebrile. Pressione sanguigna 128/85 mmHg. Addome morbido e depressibile, senza masse o megaliti. Indice di massa corporea 26. Qualche fastidio alla percussione del pugno renale destro. Resto dell'esame senza risultati.
+
+Test complementari
+- Emogramma e biochimica: nessuna alterazione.
+- Sedimento urinario: pH: 6. Leucocituria isolata senza ematuria o batteriuria.
+- Colture seriali delle urine: negative.
+- Bacilloscopia con colorazione BAAR: negativa.
+- Radiografia del torace e dell'addome: nessun risultato.
+- Ecografia urologica: ureteroidronefrosi di I grado nel tratto urinario destro. La situazione, le dimensioni e l'ecostruttura di entrambi i reni sono normali. Non sono state osservate lesioni che occupano spazio. La vescica ha una buona capacità e non ci sono reperti. Genitali interni normali.
+- Citologia delle urine: segni infiammatori intensi, senza alcuna cellularità suggestiva di malignità.
+- Urografia endovenosa: rispetto alla precedente, di 5 anni prima, si è osservato l'annullamento funzionale completo del rene destro senza causa oggettiva. Il rene sinistro era normale.
+- Renogramma diuretico: assenza totale di funzione renale destra e funzione renale sinistra normale.
+- Cistoscopia: mucosa vescicale normale. Nessuna lesione occupante spazio. Meato ureterale ortotopico.
+- Pielografia ascendente destra: morfologia pieloureterale normale senza segni di ostruzione.
+
+Diagnosi
+Abbiamo a che fare con una giovane donna con una sindrome da svuotamento cronico, un'urinocoltura negativa e un annullamento funzionale del rene destro senza una causa oggettiva. Visti i risultati del sedimento (piuria sterile), e nonostante la colorazione BAAR negativa, è stata richiesta un'urinocoltura specifica per micobatteri in mezzo Lowestein-Jensen. A 6 settimane, siamo stati informati della crescita del Mycobacterium tuberculosis.
+Anche se più sensibile della microscopia su striscio, la coltura su un terreno specifico per il bacillo tubercolare ha lo svantaggio di una crescita molto lenta (6-8 settimane).
+
+Trattamento
+Il regime di trattamento della tubercolosi respiratoria è sovrapponibile alla malattia genitourinaria. Non esiste un regime di trattamento ideale e, a seconda delle manifestazioni cliniche del paziente, della comorbidità e dell'aderenza al trattamento, si può scegliere un regime di trattamento o un altro1 . Secondo la base batteriologica, il regime di trattamento raccomandato in Spagna è di 6 mesi, con quattro farmaci di prima linea per i primi 2 mesi (isoniazide, rifampicina, pirazinamide ed etambutolo) e due farmaci (isoniazide e rifampicina) per i restanti 4 mesi (2HRZE/4HR). L'indicazione di aggiungere l'etambutolo a tutti i pazienti è stabilita per coprire una possibile resistenza. Tuttavia, lo stesso regime senza etambutolo è ancora valido per la maggior parte dei pazienti di TBC nati in Spagna1 . Per questo motivo, e a causa della sua potenziale nefrotossicità, si è deciso di prescrivere al nostro paziente il regime senza etambutolo, iniziando con una preparazione combinata di isoniazide 120 mg, pirazinamide 300 mg e rifampicina 50 mg divisa in tre dosi giornaliere (2-2-1) per 2 mesi (fase di induzione 2HRZ). Dopo questo periodo, la fase di mantenimento è stata continuata per 4 mesi con dosi singole giornaliere di un'altra combinazione di isoniazide 300 mg, rifampicina 600 mg (4HR) e vitamina B6 50 mg (quest'ultima è inclusa nella stessa preparazione come profilassi contro la potenziale neurotossicità dell'isoniazide).
+
+Evoluzione
+Durante il trattamento antitubercolare, è essenziale stabilire controlli regolari con un triplice obiettivo: verificare l'efficacia del farmaco, stimolare la corretta compliance e scoprire precocemente la tossicità del farmaco. L'effetto collaterale più frequente e pericoloso del trattamento è la tossicità epatica. Nel nostro caso, abbiamo programmato controlli ogni 2 mesi, che includevano test degli enzimi epatici e della funzionalità renale, e la raccolta di due campioni di urina dalla prima minzione del mattino (per la microscopia di striscio e la coltura, rispettivamente). Il monitoraggio microbiologico è stato continuato fino al completamento di un anno di follow-up. Il risultato di tutti i controlli era negativo e la tolleranza e l'aderenza al trattamento erano ottimali.
+Nonostante una risposta adeguata al trattamento medico, il dolore nella fossa renale destra persisteva ricorrentemente con intensità moderata. Pertanto, e data la mancanza di funzionalità di questa unità renale, è stata proposta la nefrectomia laparoscopica. L'exeresi ureterale non è obbligatoria ed è accettato che la terapia medica è in grado di sterilizzare l'uretere residuo. Durante l'operazione, le marcate aderenze dei tessuti perirenali, frequentemente descritte in questi casi, erano evidenti, anche se non ponevano grandi problemi chirurgici. Lo studio anatomopatologico del campione ha confermato un'atrofia renale compatibile con una precedente infezione tubercolare.
+Quattro anni dopo la nefrectomia, la paziente è asintomatica, mantiene una buona funzione renale con livelli di creatinina di 0,9 mg/dl e ha avuto una gravidanza a termine senza problemi.

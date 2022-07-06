@@ -1,0 +1,20 @@
+Anamnesis
+Varón de 31 años, natural de Bulgaria, que reside en España desde hace varios años con una familia adoptiva. No hay datos de la historia clínica antigua, pero la madre refiere que no hubo problemas en la gestación, ni existen antecedentes familiares de interés. El paciente es derivado a la consulta de Neurología (Unidad de Epilepsia) por presentar crisis epilépticas desde los 9 años, del tipo generalizas tónico-clónicas y algunas parciales complejas, con frecuencia diaria y de predominio nocturno. Está en tratamiento con carbamazepina y topiramato.
+
+Examen físico
+Retraso psicomadurativo, con oligofrenia moderada. Presenta rasgos dismórficos con microcefalia e implantación baja de los pabellones auriculares. El balance muscular, al igual que el resto de la exploración neurológica, fue normal.
+
+Pruebas complementarias
+• Analítica sanguínea: hemograma y coagulación normales. Bioquímica: calcio 6,3 mg/ dl (N 8,5-10,10), calcio corregido 6,09 mg/dl, fósforo 6 mg/dl (N 2,7-4,5), parathormona (PTH) 6,45 pg/ml (N 7-74), triglicéridos 293 mg/dl (N 30-20).
+• Electroencefalograma (EEG): actividad cerebral fundamental, bilateral y simétrica, de 8 Hz de frecuencia y 20-40 microV de amplitud, en las regiones posteriores de carácter regular, estable y reactiva, bloqueándose con la apertura ocular. Ritmos rápidos microvoltados en áreas anteriores. Algunos brotes theta en áreas temporales anteriores, de baja amplitud, inespecíficos.
+• Tomografía computarizada (TC) de cráneo: múltiples calcificaciones intracraneales tanto supra como infratentoriales, con localización predominante en los núcleos de la base y ambos hemisferios cerebelosos. Tomografía computarizada de cráneo: las calcificaciones que aparecen en el contexto de hipocalcemia secundaria a alteración paratiroidea suelen ser simétricas y están localizadas en las estructuras (cerebelo, tronco-encéfalo). Tomografía computarizada de cráneo: las calcificaciones que aparecen en el contexto de la hipocalcemia secundaria a alteración paratiroidea suelen ser simétricas y están localizadas en los ganglios basales (núcleo estriado y pálido). Ligera dilatación de los ventrículos laterales.
+• Valoración por Endocrinología: ante los hallazgos analíticos se realiza una interconsulta al Servicio de Endocrinología. Realizan controles analíticos seriados en los que se mantienen las alteraciones (hipocalcemia, hiperfosforemia y descenso de PTH), por lo que establecen el diagnóstico de hipocalcemia secundaria a hipoparatiroidismo primario.
+
+Diagnóstico
+Epilepsia sintomática a hipocalcemia, provocada por hipoparatiroidismo primario.
+
+Tratamiento
+En seguimiento conjunto con el Servicio de Endocrinología, se inició tratamiento con calcio, calcitriol y magnesio, y ajustamos la terapia antiepiléptica, con leve aumento de la dosis de topiramato a 200 mg cada 12 horas y manteniendo la misma dosis de carbamazepina.
+
+Evolución
+Se realizaron controles analíticos seriados, y a medida que los niveles de calcio y fósforo se fueron normalizando, se observó un mejor control de las crisis, tanto en frecuencia como en intensidad. En las sucesivas revisiones, el familiar confirma la buena evolución y control clínico del paciente, con crisis que aparecen de forma muy ocasional, y en la mayoría de los casos en probable relación con olvidos o fallos en la toma de la medicación.

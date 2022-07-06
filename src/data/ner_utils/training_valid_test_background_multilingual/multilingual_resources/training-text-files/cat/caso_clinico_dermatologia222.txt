@@ -1,0 +1,23 @@
+Anamnesi
+Pacient de 56 anys amb antecedents d'infecció per VIH en tractament amb Dolutegravir/ Abacavir/Lamivudina (Triumeq®) des de feia dos mesos que referia erupció cutània pruriginosa i urente d'un mes d'evolució que l'afectava la cara i el coll.
+El pacient negava febre o mal estat general no presentant pruïja en cap altra zona corporal. No relacionava l'aparició de l'erupció amb cap precipitante de manera precisa.
+
+Exploració física
+En l'exploració el pacient presentava pápulas i pústules fol·liculars, algunes d'elles erosives, que es distribuïen per mentó, branques manidibulares, àrees malars, pavellons auriculars i coll, lleugerament infiltrades al tacte, no doloroses a la palpació.
+No presentava lesions en tronc ni extremitats, tampoc lesions mucoses ni en àrea genital, no palpant-se tampoc adenopaties submandibulares ni periauriculares.
+
+Exploracions complementàries
+Donades les diferents sospites diagnòstiques decidim sol·licitar una analítica sanguínia, prenem un exsudat d'una de les pústules per a cultiu, es va prendre una mostra d'una lesió per a PCR de virus herpes simple i realitzem una biòpsia cutània per a estudi histològic d'una de les lesions.
+En l'analítica sanguínia vam poder apreciar una millora del recompte de limfòcits CD4+ que havien passat d'un valor de 200/L a 475/L arran del començament del tractament sense que presentés cap altra alteració ressenyable.
+Per la seva part en l'exsudat de la mostra presa d'una de les pústules es va obtenir creixement de flora mixta cutània sense que això tingués rellevància diagnòstica.
+La PCR per a VHS 1 i 2 va ser negativa.
+En la biòpsia cutània s'apreciava un infiltrat linfohistiocitario i amb abundants eosinòfils de distribució preferentment perifolicular, però també amb un component perivascular superficial acompanyat també d'eosinofília intersticial. En l'epidermis s'observava una vesícula amb material serós i infiltrat inflamatori mixt compost per polimorfonucleares i eosinòfils. L'epiteli del infundíbulo fol·licular també estava esquitxat d'eosinòfils amb un patró de espongiosis eosinófilica.
+
+Diagnòstic
+Amb aquestes troballes clínic-patològiques i analítics es va establir el diagnòstic de foliculitis eosinofílica probablement dins del context de la reconstitució immune en pacient VIH després de començar amb la teràpia antiretroviral.
+
+Tractament
+Prèviament a obtenir els resultats de les proves complementàries i davant la sospita clínica d'una infecció herpètica amb inici de disseminació, es va iniciar tractament amb Valaciclovir 1 g cada 12 hores i es va citar per a revisió en 9 dies. Una vegada obtinguts els resultats de les proves complementàries i establert el diagnòstic es va instaurar tractament amb Metilprednisolona Aceponato 1 mg/g en emulsió amb revisió en un mes.
+
+Evolució
+En la primera revisió nou dies després de la primera consulta el pacient es trobava estable sense aparició de noves lesions ni tampoc millora pel que es va decidir mantenir el tractament amb Valaciclovir una setmana més en espera dels resultats de la biòpsia i la PCR deixant cita en dues setmanes. Dues setmanes després ja amb un diagnòstic definitiu es va començar tractament amb corticoides tòpics amb una nova revisió en un mes. En l'última revisió el pacient presentava una notable millora amb menor nombre de lesions i sent aquestes menys pruriginoses coincidint tant amb la instauració del tractament amb Metilprednisolona Aceponato tòpica com amb una és-tabilización en el recompte de Limfòcits CD4.

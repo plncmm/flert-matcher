@@ -1,0 +1,29 @@
+Antecedentes persoais
+Varón de trinta anos, gaditano, fumador de vinte cigarros ao día, sen criterios de bronquitis crónica e bebedor social. Realizou unha viaxe turística tipo "mochilero" coa súa parella durante corenta días por África noroccidental, visitando tanto zonas rurales como urbanas: Marruecos, Sahara Occidental, Mauritania, Mali e Guinea Ecuatorial. Recibiu consellos ao viaxeiro no Centro de Saúde Internacional, con quimioprofilaxis ben cumprimentada con cloroquina. Recibiu vacunación tetravalente meningocócica, febre amarela e tifoidea oral. Non refería condutas de risco específicas durante a viaxe salva baños en auga doce en Bamako.
+
+Enfermidade actual
+Ás 24 horas tralo regreso, acudiu ao Servizo de Urxencias, aquejado de febre elevada, con calafríos, cadro catarral e cefalea holocraneal. Tras avaliación básica inicial e sen foco aparente, é dado de alta con tratamento con amoxicilina/clavulánico.
+Volveu consultar 24 horas despois, por persistencia da clínica febril, cefalea holocraneal, sudoración profusa, rinoconjuntivitis e tos non produtiva.  Exploración física O paciente presentaba unha tensión arterial 100/60; frecuencia cardíaca 110 lpm; temperatura 37,8oC; saturación Ou2 basal 98%; Glasgow score 15/15. Estaba consciente e orientado, eupneico e ben perfundido, con adenopatías pequenas e elásticas laterocervicales e sen puntos craneofaciales dolorosos. A auscultación cardiopulmonar e a exploración do abdomen foron normais. Na pel apreciábase un discreto exantema macular eritematoso en tronco e pescozo, sen lesións petequiales (incluído test do torniquete). A exploración neurológica non mostrou signos meníngeos nin focalidad.
+
+Exploracións complementarias
+No hemograma presentaba unha serie vermella normal, uns leucocitos de 3.360/ μL con neutrofilia relativa, plaquetas de 58.000/μL. Os tempos de coagulación foron: tempo de protrombina 76%; tempo de tromboplastina parcial activada normal; fibrinógeno 450 mg/dL. Na bioquímica mostrou uns niveis de glucosa, iones, CPK, urea e creatinina normais. GOT/GPT 140/176 Ou/L; LDH 691 Ou/L; PCR 12,24 mg/dL. Na gasometría venosa detectouse un pH 7,41; pCO2 34 mmHg; HCO3 16 mEq/dL. No sedimento de ouriña presentaba indicios de proteinuria. A radiografía de tórax e a ecografía abdominal foron normais. A pinga grosa e o frotis de sangue periférica foron negativos, así como os hemocultivos seriados. A serología fronte aos virus da hepatitis A, B e C, Coxiella, Borrellia, Rickettsia, dengue e VIH foi negativa.
+
+Proba diagnóstica
+Na segunda pinga grosa (tras oito horas da primeira, en pleno pico febril) observouse Plasmodium falciparum, cun índice de parasitación do 1%.
+
+Xuízo clínico
+Paludismo grave e complicado por Plasmodium falciparum.
+
+Evolución
+Realizouse cobertura antibiótica empírica inicial con ceftriaxona 2 g/24 h e doxiciclina 100 mg/12 h. Unha vez confirmada a infección por Plasmodium falciparum, o inicio do tratamento específico con quinina atrasouse 29 horas para a vía oral e 48 para a vía endovenosa ante a falta de existencias no noso hospital e todos os hospitais da comarca (Cádiz, Jerez, Algeciras e Sanlúcar). Unha vez conseguido o fármaco, iniciouse o tratamento por vía oral primeiro e logo por vía intravenosa con infusión lenta de quinina (10 mg/kg/8 horas) máis doxiciclina 100 mg/12 horas vía oral, completándose sete días de tratamento. Durante as primeiras 36 horas en planta, presentou unha mala evolución clínica, con desenvolvemento de complicaciones sucesivas que precisaron o seu ingreso en UCI ao segundo día:
+- Hipoglucemias refractarias pese á administración de soro glucosado ao 20%.
+- Parasitación do 12% ao terceiro-cuarto día, que xunto ao resto de complicaciones fixeron suscitar exanguinotransfusión.
+- Datos analíticos precoces de insuficiencia hepática aguda: tempo de protrombina 45%; bilirrubina de ata 6 mg/dL; GOT/GPT con cifras en torno a 1200 Ou/L e factor V diminuído.
+- Anemia grave (hematocrito <20% ás 72 h), precisando a transfusión de catro concentrados hematíes.
+- Acidosis metabólica (pH 7,31; HCO3 11), precisando manexo agresivo con fluidoterapia baixo control de presión venosa central, sen chegar a precisar fármacos vasoactivos.
+- Deterioro cognitivo con somnolencia e lentitud ideomotora, sen outros datos de malaria cerebral, desde segundo ao quinto día.
+- Fracaso renal agudo, con pico de creatinina ao quinto día de 5,2 mg/dL, con hemoglobinuria documentada. Conservou diuresis aceptables en todo momento e non precisou de técnicas de depuración extrarrenal.
+- Náuseas e vómitos incoercibles que precisaron de nutrición enteral durante os catro primeiros días.
+- Infiltrado intersticial en lóbulo superior dereito (aínda que sen datos de insuficiencia respiratoria, polo que se descartou o desenvolvemento tardío de distrés respiratorio) e repunte febril en torno ao quinto día, con resolución radiológica tras cobertura antibiótica empírica con ciprofloxacino 200 mg/12 h intravenoso.
+
+Tras sete días de estancia en UCI, finalizou o tratamento con recuperación clínica xeral, presentando ao alta insuficiencia renal, con cifras de creatinina en torno a 3 mg/dL (MDRD 20 mL/min). No seu seguimiento posterior en Consultas Externas, a función renal hase normalizado.

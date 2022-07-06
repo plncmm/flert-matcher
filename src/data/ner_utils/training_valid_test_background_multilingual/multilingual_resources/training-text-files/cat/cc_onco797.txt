@@ -1,0 +1,31 @@
+Anamnesi
+Es presenta el cas d'un pacient de 60 anys sense al·lèrgies medicamentoses conegudes que presentava com a antecedents personals més importants un ingrés en Pneumologia per empiema pleural esquerre i insuficiència cardíaca. Com a hàbits tòxics el pacient era exfumador (IPA = 80 fins feia 12 anys), exenolismo fins feia 12 anys. Era un treballador de la mineria.
+L'inici de l'estudi comença quan acudeix a Urgències per dolor costal dret amb troballa en la radiografia d'una massa pulmonar. Es va completar l'estudi amb una tomografia computada (TC) que mostrava una massa de 60 x 53 x 80 mm que infiltra el bronqui del segment posterior del lòbul superior dret (LSD) i que envaeix cissura menor i s'estén fins a segment sis del lòbul inferior dret (LID), contactant amb pleura posterosuperior dreta. Existia a més un gangli extrapleural de 9 mm i un nòdul satèl·lit espiculado en segment apical LSD 10 x 6 mm i dos nòduls en segment 6 del LID de 10 mm i 8 mm. A més, presenta adenopaties en origen de tronc braquiocefàlic dret, cadena paratraqueal superior dreta, subcarinal i finestra aortopulmonar sospitoses de metàstasis, vessament pericardíac i vessament pleural dret loculado.
+
+Exploració física
+Relatiu bon estat general, però limitat funcionalment per lumbàlgia intensa (Escala Visual Analògica [EVA] 8-9) amb disminució de força en totes dues extremitats inferiors (4/5) i amb grans dificultats per a mantenir la bipedestació, sense existència d'afectació dels reflexos ni de la sensibilitat.
+
+Proves complementàries
+Es va completar l'estudi amb una PET-TC en la qual s'objectiva una massa hipermetabólica de 7,8 x 7,7 cm (standardized uptake value [SUV] 9,6) en segment superior de LID. Adenopaties broncopulmonars dretes (SUV 4,3 i 3,8), i múltiples captacions patològiques òssies en 4o arc costal posterior dret, 5o anterior esquerre, 7o dret a nivell de l'angle, cos vertebral L3, pala ilíaca esquerra, articulació sacroiliaca esquerra i branca ileopubiana esquerra.
+Es va realitzar una fibrobroncoscopia en la qual es va demostrar una compressió extrínseca del bronqui del segment apical del LSD. L'Anatomia Patològica (AP) va ser negativa per a malignitat. Pel que, per a completar l'estudi, es va realitzar un EBUS de les adenopaties de les estacions 2R (right), 4L (left) i 7 que van ser positives per a adenocarcinoma poc diferenciat (2R i 7).
+
+Diagnòstic
+Es va presentar el cas en comitè multidisciplinari i es va remetre a les nostres consultes amb el diagnòstic de: adenocarcinoma de pulmó T4N2M1b (òssies).
+
+Tractament
+Es decideix ingrés en Oncologia per a analgèsia i inici de tractament. Donada la clínica d'impotència funcional, es va sol·licitar una ressonància magnètica (RM), on es va objectivar disseminació metastásica vertebral amb fractures de la majoria dels cossos vertebrals per compressió, a més d'una fractura craniocaudal del cos vertebral L3 amb desplaçament del mur posterior que causa compressió de la cua de cavall.
+Va iniciar tractament amb quimioteràpia esquema carboplatí area under the corbi (5-AUC), dosi total 700 mg i paclitaxel 175 mg/m² (287 mg), amb premedicació habitual que consistia en: granisetrón 1 mg, dexametasona 12 mg, dexclorfeniramina 5 mg, ranitidina 50 mg, i la antiemesis posterior: dexametasona, granisetrón, metoclopramida, que va transcórrer sense incidències. Durant l'alta, presentava una mínima excoriació en sacre que es va atribuir a encamamiento.
+
+Evolució
+Acudeix a Urgències a la setmana de l'administració de la quimioteràpia per febrícula i aparició de lesions ampollosas en glutis, sacre i avantbraç esquerre.
+Exploració física
+Estable hemodinámicamente: Tensió arterial 111/60 mm Hg, freqüència cardíaca 86 lpm, 36,3 oc, 88% de saturació d'oxigen.
+Lesions erosives secundàries a butllofes en zona lateral de cuixa esquerra, avantbraç esquerre, cama esquerra i gluti/sacre. Les lesions es presentaven amb trencament espontani i drenatge de contingut serós.
+L'anàlisi a l'ingrés només destacava un sodi de 126 i una discreta leucocitosis amb desviació esquerra (leucòcits 11.700, neutròfils 11.500), anèmia grau 1 (hemoglobina 11,7) i una activitat de protrombina de 74%.
+Amb sospita de necrólisis epidèrmica tòxica (NET)/ síndrome de Stevens-Johnson (SJS) amb sospita de toxicitat farmacològica, ingressa en Oncologia per a estudi i tractament.
+Durant l'ingrés en planta és valorat per cirurgia plàstica i dermatologia, es prenen cultius i biòpsia de la pell que són positives per a Pseudomonas aeruginosa i Staphylococcus aureus.
+Anatomia Patològica
+» Fragment de pell amb necrosi dermoepidérmica, ulceració de tota l'epidermis.
+» Discreta dermatitis perivascular i intersticial neutrofílica, superficial (predominantment) i profunda, amb ulceració de l'epidermis i extravasació hemàtica.
+Davant la sospita de necrólisis epidèrmica tòxica secundària a quimioteràpia o antiinflamatoris no esteroidals (AINE) se suspenen aquests últims sense millora del pacient.
+El subjecte presenta un empitjorament progressiu amb leucocitosis i plaquetopenia i finalment el pacient precisa de sedació pal·liativa per mal control del dolor, morint només dues setmanes després de l'inici del tractament de quimioteràpia.

@@ -1,0 +1,28 @@
+Historia oncológica
+Presento o caso dunha muller de 67 anos, caucásica, directora de banca como profesión, con dúas irmás, casada, que vive co seu marido, e cunha filla en común, independente para as actividades da vida diaria.
+Non presenta alergias nin hábitos tóxicos coñecidos. É hipertensa en tratamento con enalapril/hidroclorotiazida 20/12,5 mg. Non toma outra medicación de forma crónica salvo paracetamol ocasional si precisa por dor. foi intervinda/intervida quirúrgicamente fai máis de 20 anos dun bocio multinodular. Non presenta outros antecedentes patológicos de interese.
+Como antecedentes familiares, o seu pai foi diagnosticado dun cancro gástrico aos 66 anos e a súa nai dun cancro de endometrio aos 48 anos.
+A paciente debutó en xuño de 2013 á idade de 65 anos cunha lesión en cuadrante supero-externo de mama dereita como achado casual en mamografía rutineira, iniciándose estudo con ecografía e biopsia con agulla grosa (BAG) de 2 focos de 17 e 20 mm, compatibles con carcinoma ductal infiltrante (CDI) grado 3, receptores de estrógeno (RE) positivos, receptores de progesterona (RP) negativos, HER-2 positivo por inmunohistoquímica (IHQ) e hibridación in situ fluorescente (FISH), Ki67 30 % nun foco e 10 % no outro. Os marcadores tumorales ao diagnóstico foron CEA 67,2 e Ca 15-3 108,7. Realizouse estudo de extensión, con diversas probas, destacando o PET/TC, con metástasis óseas múltiples blásticas a nivel de D7, D9, apófisis transversa de L4, S1, óso iliaco dereito e cabeza femoral dereita.
+Co diagnóstico de CDI de mama con receptores hormonales positivos e HER-2 positivo estadio IV por metástasis óseas, a paciente iniciou primeira liña de tratamento quimioterápico dentro do ensaio clínico PERUSE con paclitaxel, pertuzumab e trastuzumab en outubro de 2013, con adecuada tolerancia. A paciente tamén recibiu radioterapia sobre as metástasis ósea iliaca e cabeza femoral dereita (30 Gy cada) en novembro de 2013, malia o cal presentou fractura patológica de cadeira dereita en decembro 2013 que se tratou mediante artroplastia parcial cementada. Recibiu 6 ciclos ata febreiro de 2014, alcanzando resposta parcial, tras o cal suspendeuse paclitaxel e continuou letrozol, pertuzumab e trastuzumab, ata outubro de 2014, finalizando por progresión ósea costal e en fémur esquerdo.
+Ante a progresión ósea radiológica, a paciente inicia segunda liña de tratamento con TDM1 3,6 mg/kg cada 21 días que mantén ata a actualidade.
+
+Anamnesis
+A paciente acode a segunda opinión en consultas externas de Oncología Médica o 29 de xullo 2016 por febrícula de predominio vespertino asociada a dor en columna dorso-lumbar irradiado a cadeira dereita, que ha ir aumentando de forma progresiva, sen perdas funcionales, dun mes e medio de evolución.
+Na entrevista, refire 2 ingresos previos en hospitais diferentes. Un deles, do 30 de maio ao 6 de xuño, sendo diagnosticada de infección do reservorio por Staphylococcus epidermidis (SE), tratándose con vancomicina e retirada do mesmo e ao alta con ciprofloxacino durante 4 días. Por persistencia da febre, consultou o 11 de xuño noutro centro hospitalario, pautándose cefixima durante 7 días.
+Dada a sospeita clínica de OV, decídese solicitar analítica, hemocultivos (HC) e resonancia magnética nuclear (RMN) urxente, a cal mostraba fractura en D9 e D10 con abundante edema en ambos corpos vertebrales e no disco intervertebral, así como abombamiento do muro posterior de D9 cara ao espazo subaracnoideo e pontes óusevos. Dada a gravidade da situación, o 8 de agosto de 2016 decídese ingreso para inicio de antibioterapia empírica intravenosa e completar o estudo.
+
+Exploración física
+Na súa chegada a planta de hospitalización, atópase estable hemodinámicamente e afebril, cunha exploración física sen achados salvo dor selectivo á palpación de D9 e D10.
+
+Probas complementarias
+Na analítica do ingreso presenta unha bioquímica con función renal e hepática normais, destacando unha elevación da proteína C reactiva (PCR) a 98,6 mg/l (normal: inferior a 1 mg/l) con procalcitonina (PCT) normal (0,05 ng/ml). No hemograma se obxectiva anemia normocítica con hemoglobina de 10,9 g/dl, xa coñecida, con valores de leucocitos e plaquetas en rango de normalidad, sendo os leucocitos de 8.910 (valores normais entre 4.500 a 11.000). Durante o seu ingreso, atopábanse pendentes os resultados dos HC.
+Ademais da RMN xa comentada, tamén se realizou unha radiografía de tórax que non mostrou alteracións de interese, así como unha ecografía Doppler de troncos supraaórticos e unha ecografía transtorácica, destinadas a realizar cribado de endocarditis, sen achados patológicos.
+
+Diagnóstico
+A paciente foi diagnosticada de osteomielitis vertebral D9-D10 por Staphylococcus epidermidis.
+
+Tratamento
+Ante os datos clínicos e de imaxe, iniciouse tratamento empírico con vancomicina e ciprofloxacino baseándose nos illamentos previos de SE. Os HC seriados que se realizaron no noso centro confirmaron a positividad deste microorganismo, oxacilina-resistente, manténdose a vancomicina durante 15 días, con mejoría da sintomatología e dos reactantes de fase aguda, con descenso da PCR a 31,7 mg/l na analítica ao alta, continuando posteriormente con cotrimoxazol vía oral durante 4 semanas máis.
+
+Evolución
+O 13 de novembro de 2016, a paciente consulta por novos picos febriles de ata 38,5oC, motivo polo que se realiza nova RMN, que mostra achados suxestivos de persistencia de OV, decidíndose realizar toma quirúrgica de biopsia en xaneiro de 2017, con illamento de SE co mesmo patrón de sensibilidade, e biopsia compatible con proceso crónico inflamatorio en evolución, pautándose ciprofloxacino oral, continuando en seguimiento na actualidade por este motivo.

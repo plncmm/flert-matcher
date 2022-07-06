@@ -1,0 +1,46 @@
+Um paciente do sexo masculino de 75 anos foi encaminhado para o serviço de urgência do departamento de cardiologia ambulatória por apresentar uma deterioração clínica significativa, com dispneia ao mínimo esforço, ortopneia, dispneia nocturna paroxística e palpitações.
+
+História, doença actual e exame físico
+
+História
+Nenhuma alergia a drogas conhecida.
+Factores de risco: diabetes mellitus 2, hipertensão, dislipidemia. Ex-fumador durante 7 anos de 50 embalagens/ano.
+História médica: COPD. Acidente vascular cerebral isquémico da artéria cerebral média em Março de 2008. Intervenções cirúrgicas: hemorróidas, hérnia epigástrica, polipectomia colónica. Tumor da bexiga tratado com TUR em 2011 e 2013.
+Doença cardíaca anterior: cardiomiopatia dilatada diagnosticada em 2002 com função sistólica gravemente deprimida (FEVE 20%), e artérias coronárias normais no cateterismo cardíaco. Acompanhamento em ambulatórios de cardiologia, com melhoria significativa da função ventricular com tratamento médico (FEVE 50% em ecocardiogramas em 2008, 2010 e 2012). Em Novembro de 2013, apresentou fibrilação atrial com resposta ventricular rápida, foi realizada uma cardioversão eléctrica no departamento de emergência, que foi eficaz e teve alta. Uma semana mais tarde, regressou ao departamento de emergência para fibrilação atrial, onde foi novamente realizada cardioversão eléctrica, e foi descarregado ao ritmo sinusal. Em análise na clínica ambulatorial em Janeiro de 2014, o paciente encontrava-se novamente em fibrilação atrial.
+
+Tratamento habitual: dabigatran 110 mg/12h, bisoprolol 10 mg/24h, ramipril 2,5 mg/24h, rosuvastatina 20 mg/24h, omeprazol 40 mg/24h, furosemida 20 mg/12h (gestão conforme necessário), brometo de tiotrópio inalado, repaglinida 0,5 mg, fluoxetina 20 mg, alprazolam 0,5 mg/24h. 
+
+Doença actual: Paciente do sexo masculino com 75 anos de idade encaminhado para o departamento de urgências do departamento de cardiologia ambulatorial por apresentar deterioração clínica significativa nas últimas semanas, com dispneia ao mínimo esforço, ortopneia, dispneia nocturna paroxística, e palpitações nos últimos dias. Não relatou qualquer infecção respiratória ou outros sintomas que a acompanhassem. Na admissão apresentou fibrilação atrial com resposta ventricular a 130-150 bpm apesar do tratamento com doses máximas de beta-bloqueadores, pelo que foi encaminhado para admissão em cardiologia para tentar controlar a taxa ou cardioversão.
+
+Exame físico
+BP 120/65 mmHg. HR 155 bpm, Ta 36.5 oC. O2 Sat. O2 96% com FiO2 de 0,21.
+Consciente do paciente, cor normal e normohidratada.
+Auscultação cardíaca: tons cardíacos arrítmicos, sem murmúrios.
+Auscultação pulmonar: diminuição generalizada do murmúrio vesicular, com crepitações bibásicas. Membros inferiores: sem edema, sem sinais de trombose venosa profunda.
+Abdómen: macio, não doloroso à palpação.
+
+Testes adicionais
+ECG: fibrilação atrial com resposta ventricular rápida, QRS estreito, sem distúrbios de condução intraventricular. Sinais de sobrecarga ventricular esquerda em V5-V6 e DI e aVL.
+Radiografia do tórax: infiltrados intersticiais alveolares biberais sugestivos de insuficiência cardíaca. Seios costofrénicos livres. Índice cardiotorácico inferior a 0,5.
+Testes laboratoriais realizados na ala de cardiologia: ʟʟ Leucócitos: 12,4x10e9/L, Hb17,5 g/dl, plaquetas 262x10e9/L.
+Coagulação: PTT 15s, QI: 76%, APTTT 35.3s.
+Glucose: 140 mg/dl, ureia 64 mg/dl, creatinina 1,21 mg/dl, K 5 MM/L, Na 143 MM/L, AST 31 U/L, ALT 41 MM/L, LDH 244 U/L, CRP 0,2 mg/dl, pro-BNP 16727 pg/ml.
+Hemoglobina glicosilada: 6,9%.
+
+Ecocardiograma:
+Pobre janela ecocardiográfica.
+Ventrículo esquerdo ligeiramente dilatado, não hipertrófico, com contracção global gravemente deprimida (20-25%), hipocinesia de ápice grave.
+Átrio esquerdo moderadamente dilatado.
+Válvula mitral espessada, com insuficiência ligeira.
+Válvula aórtica esclerosada, com boa abertura, sem insuficiência.
+Cavidade atrial direita com átrio moderadamente dilatado. RVEF em conserva.
+Veia cava inferior não dilatada, com bom colapso inspiratório.
+Sem derrame pericárdico.
+
+Evolução clínica
+O paciente foi admitido na enfermaria de cardiologia com fibrilação atrial com resposta ventricular a 140-150 bpm sem ser capaz de o controlar apesar de aumentar o bisoprolol para uma dose de 15 mg/24h e adicionar digoxina e amiodarona, permanecendo com uma taxa ventricular de 130-140 bpm durante os 3 dias seguintes. Dado o fracasso do controlo do ritmo em episódios anteriores e o difícil controlo do ritmo cardíaco, a equipa clínica, os electrofisiologistas e a família decidiram em conjunto abater o nó atrioventricular e colocar um pacemaker. Foi colocado um pacemaker permanente, com a intenção de colocar também um chumbo LV para terapia de ressincronização cardíaca (CRT), mas isto não foi possível devido à dissecção do seio coronário. Finalmente, foi colocado um pacemaker DDD. Cinco dias mais tarde, a ablação do nó atrioventricular foi realizada sem incidentes. O paciente recebeu alta com melhor controlo clínico, mantendo o mesmo tratamento anticoagulante, retirando a digoxina, amiodarona e as doses muito elevadas de bisoprolol com as quais tinha tentado reduzir o ritmo cardíaco. A medicação para a gestão da insuficiência cardíaca foi mantida.
+
+Diagnóstico
+Fibrilação atrial com resposta ventricular rápida e difícil de controlar.
+Estratégia de controlo da taxa por ablação do nó AV e implante de marcapasso. 
+Taquicardiomiopatia com disfunção ventricular grave.

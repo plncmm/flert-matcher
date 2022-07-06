@@ -1,0 +1,28 @@
+Anamnesis
+Paciente mujer de 27 años de edad, con los siguientes antecedentes personales: no alergias medicamentosas conocidas, no diabetes mellitus, no hipertensión arterial, no otras enfermedades de interés. Amigdalectomizada hace 15 años. Fumadora esporádica. Tratamiento: anticonceptivos orales indicados por el Ginecología por dismenorrea.
+La paciente acude al Servicio de Urgencias por un cuadro clínico de dolor en la fosa renal derecha irradiado hacia los genitales, de dos semanas de evolución, acompañado de febrícula en los últimos días. No hematuria, no sintomatología del tracto urinario inferior.
+
+Exploración física
+Buen estado general. Consciente y orientada, buena coloración de piel y mucosas. Eupneica en reposo. Tensión arterial 143/72 mmHg, frecuencia cardíaca 108 lpm. Auscultación cardíaca: tonos rítmicos taquicárdicos, sin soplos, roces ni extratonos. Auscultación respiratoria: murmullo vesicular conservado en todos los campos, sin ruidos sobreañadidos. Abdomen: blando, depresible, no doloroso a la palpación en ningún punto; no masas ni visceromegalias; no irritación peritoneal; puñopercusión renal derecha positiva, sin evidenciar masas. Extremidades inferiores: no edemas ni signos de trombosis venosa profunda.
+
+Pruebas complementarias
+• Analítica al ingreso. Hematimetría: hemoglobina 9,2 g/dl, hematocrito 26,3%, volumen corpuscular medio 74,1 fl, 6.460 leucocitos/mm3, con fórmula normal, 270.000 plaquetas/mm3.
+• Bioquímica: glucosa 96 mg/dl, urea 61 mg/dl, creatinina 0,81 mg/dl, bilirrubina 0,2 mg/dl, sodio 137 mEq/l, potasio 5 mEq/l, cloruro 103 mEq/l. AST 42 UI/l, ALT 43 UI/l, GGT 210 UI/l, fosfatasa alcalina 221 mg/dl, lactato deshidrogenasa 498 UI/l, colesterol total 127 mg/dl, HDLc 20 mg/dl, LDL 49 mg/dl, triglicéridos 290 mg/dl, proteínas 6,1 g/dl, albúmina 1,80 g/dl, PCR 35,2 mg/l, cortisol 6,90 μg/dl, tirotropina 0,00 mUI/ml, tiroxina 2,42 μg/dl.
+• Electrocardiograma: taquicardia sinusal a 115 lpm, sin alteraciones de la repolarización.
+• Radiografía de tórax: no cardiomegalia, no imágenes de condensación ni signos de redistribución vascular.
+• Sistemático de orina: pH 6,0, proteínas > 300 mg, índice de Cr/proteínas en orina 0,22, esterasa leucocitaria 70, hemoglobina 200 g/dl, metilcetona > 80, nitritos negativos.
+• Ecografía abdominal: riñón derecho con aumento focal de la ecogenicidad cortical del tercio medio. No aumento del tamaño del riñón derecho. No litiasis ni colecciones perirrenales, no dilatación de la vía excretora. Riñón izquierdo sin alteraciones.
+
+Diagnóstico
+Pielonefritis aguda derecha. Foco de nefritis focal derecha.
+
+Tratamiento y evolución
+Tratamiento: tras los hallazgos se decide su ingreso a cargo del Servicio de Urología para tratamiento médico conservador y vigilancia.
+Pasadas 24 horas la paciente sufre una reagudización importante del dolor renal, sin acompañarse de fiebre. En la exploración abdominal la puñopercusión renal derecha es positiva, muy dolorosa, evidenciando mediante palpación bimanual la aparición de una masa en el hipocondrio derecho y la fosa renal derecha ausente el día anterior. Sospechando una mala evolución del cuadro de infección renal, se solicita una ecografía renal urgente, que evidencia un aumento importante del tamaño renal, con discreta ectasia pielocalicial y contenido hipoecoico. En la ecografía doppler se evidencia trombosis de la vena renal derecha, que se extiende hacia arriba a la cava inferior.
+Se realiza urgentemente una tomografía computarizada (TC) abdómino-pélvica, con contraste oral e i.v. En esta se aprecia aumento de tamaño del riñón derecho, con ausencia de captación de contraste en los estadios iniciales y muy discreta en cortes tardíos. En la ecografía se observa una discreta ectasia pielocalicial, con contenido hipoecoico.
+El diagnóstico definitivo es trombosis de la vena renal derecha, que se extiende hacia arriba a la cava inferior, venas suprahepáticas, sin llegar a introducirse en la aurícula. Conclusión: nefritis aguda derecha, con trombosis de la vena renal que se extiende a la vena cava inferior.
+Valoramos como primera opción de tratamiento la colocación de un filtro de vena cava y trombólisis local. Ambas opciones se desestimaron debido a que no hay espacio entre el trombo y la aurícula y no se pudo colocar el filtro de cava; debido al alto riesgo de sangrado debido a la trombosis aguda y el aumento del tamaño renal, que además se aumentarían si se realizara una trombólisis local, y dado que podía llevar unas 24 horas de evolución y en la TC había una escasa captación, se desestima dicha maniobra.
+Como tratamiento, por tanto, para evitar el riesgo de sangrado y disminuir la clínica de dolor, se decide la embolización de la arteria renal derecha. Tras la embolización, la paciente ingresa en la Unidad de Cuidados Intensivos (UCI) para tratamiento con heparina sódica en perfusión continua y monitorización permanente.
+Evolución postratamiento: a las 72 horas de iniciado el tratamiento se realiza una ecografía doppler renal, donde se objetiva la evolución favorable del riñón derecho, que muestra vascularización venosa y arterial, tanto hiliar como en su interior. Los IR arteriales son de baja resistencia, lo que indica que no existe compromiso de drenaje venoso. Trombo no oclusivo en la vena cava inferior que no muestra grandes cambios; se encuentra a 7,5-8 cm de la aurícula derecha.
+Durante su ingreso, se inicia estudio por hipertiroidismo, con diagnóstico posterior de enfermedad de Graves. Se inicia tratamiento con carbimazol y prednisona.
+Tras la mejoría se decide darle el alta manteniendo tratamiento con enoxaparina 60 mg subcutánea cada 12 horas.

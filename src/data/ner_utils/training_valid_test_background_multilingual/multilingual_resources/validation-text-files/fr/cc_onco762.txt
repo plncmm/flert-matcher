@@ -1,0 +1,27 @@
+Anamnèse
+Homme, 57 ans, sans allergies médicamenteuses connues. Antécédents médicaux et chirurgicaux pertinents : hypertension, insuffisance cardiaque congestive avec plusieurs admissions à l'hôpital pour décompensation et dépression. Suivi en médecine interne en raison d'une PAN avec mononévrite multiplex idiopathique. Il a été opéré d'une fistule périanale il y a des années. Sous traitement chronique de bêta-bloquants, antidépresseurs et corticostéroïdes oraux.
+Le patient a consulté les soins primaires en juin 2013 en raison d'une asthénie d'une évolution de plusieurs semaines, ainsi qu'une dyspepsie occasionnelle, sans autres symptômes d'accompagnement.
+
+Examen physique
+L'examen physique général n'a rien révélé d'intéressant : bon état général, couleur normale, hydraté et perfusé. Les signes vitaux étaient dans la gamme et afébrile. Aucun ganglion lymphatique périphérique n'était palpable. L'auscultation cardio-pulmonaire sans altération, l'examen abdominal était sans particularité. Membres inférieurs sans œdème.
+
+Tests complémentaires
+Les analyses sanguines (10/06/2013) ont montré une anémie (Hb 9,5 mg/dl) avec un profil de carence en fer, sans autre altération significative. La gastroscopie (26/06/2013) a révélé une lésion végétative ulcérée de 3-4 cm au niveau cardial, et des prélèvements ont été effectués pour une analyse anatomopathologique.
+Compte tenu des résultats ci-dessus, un scanner abdominal a été réalisé (08/07/2013) qui a confirmé une masse sous-cardiale d'environ 4 cm en rapport avec une probable néoplasie gastrique sans extension à la graisse et au moins une adénopathie au niveau du ligament gastro-hépatique.
+
+Diagnostic
+La biopsie révèle un adénocarcinome gastrique modérément différencié de type intestinal.
+
+Traitement
+Les analyses sanguines (10/06/2013) ont montré une anémie (Hb 9,5 mg/dl) avec un profil de carence en fer, sans autre altération significative, une gastroscopie a donc été réalisée (26/06/2013), qui a révélé une lésion végétante ulcérée de 3-4 cm au niveau cardial, sur laquelle des prélèvements ont été effectués. Compte tenu du constat précédent, un scanner abdominal a été réalisé (08/07/2013) qui a confirmé une masse sous-cardiale d'environ 4 cm en rapport avec une probable néoplasie gastrique sans extension à la graisse et au moins une adénopathie au niveau du ligament gastro-hépatique.
+
+Evolution
+En décembre 2013, une élévation asymptomatique des marqueurs tumoraux Ca 19,9 et Ca 72,4 a été détectée et une TEP a été réalisée (02/01/2014), révélant une lésion hypermétabolique dans le dôme du foie, segment VIII, d'environ 2,4 cm, suspecte d'étiologie tumorale vs infectieuse. L'IRM (24/01/2014) confirme la présence d'une lésion nodulaire dans le segment VIII, avec un rehaussement annulaire, suggérant une métastase nécrotique/abcédée.
+Compte tenu de la difficulté anatomique à réaliser un FNA, le patient a été évalué par un comité multidisciplinaire et, vu la nécessité d'un diagnostic histologique, une chirurgie hépatique a été réalisée (révélant finalement 3 lésions) avec des biopsies qui ont montré une infiltration hépatique par un adénocarcinome dans 2/3 des lésions. Compte tenu de la progression à ce niveau, le HER-2 a été demandé afin de planifier un traitement oncospécifique, qui s'est avéré positif (+++).
+L'étude a été complétée par un échocardiogramme qui était normal et un scanner abdominal (27/03/2018) qui a montré les 3 LOE hépatiques précédemment décrits. La première ligne avec cisplatine-capecitabine-trastuzumab a été commencée en avril 2018 avec une réponse supérieure à 50% après 4 cycles, avec des toxicités pertinentes telles qu'une infection à CMV nécessitant une hospitalisation et des troubles hydriques et électrolytiques réfractaires à une prise en charge ambulatoire. Compte tenu de la persistance de ces altérations, il a été décidé de poursuivre la monothérapie par trastuzumab à partir du 5e cycle.
+Après 7 cycles, le patient a continué à répondre aux examens tomodensitométriques, seule une lésion hépatique de 1 cm persistant.
+Le cas a été réévalué par le comité et un PET-CT scan a été demandé pour évaluer le sauvetage chirurgical, qui a finalement été rejeté car le PET-CT scan a révélé un implant péritonéal dans le mésogastre, ainsi que deux adénopathies dans le hile pulmonaire d'étiologie douteuse. La monothérapie par trastuzumab a été poursuivie en cas de maladie stable après 12 et 18 cycles. Après 22 cycles, il y avait des preuves de réponse complète par PET-CT et une normalisation des marqueurs tumoraux, le traitement a donc été arrêté en juillet 2015.
+En mai 2016 (ILP de 10 mois), les analyses sanguines ont montré une élévation du Ca 19,9, sans données de la maladie au scanner, mais avec des preuves au PET-CT d'une lésion au niveau du dôme hépatique. Une deuxième ligne avec 5-FU + trastuzumab a été commencée, avec une bonne tolérance et une nouvelle réponse radiologique complète après 8 cycles. Cependant, le PET scan continuait à montrer un foyer d'hypermétabolisme (avec toutefois une diminution de l'activité du glucose par rapport au précédent) au niveau du dôme hépatique, le cas a donc été à nouveau soumis au comité multidisciplinaire et une chirurgie à visée curative a été décidée.
+Le 01/03/2017, une mastectomie hépatique de segment VIII a été réalisée.
+Le patient subit actuellement des contrôles dans des cliniques externes, sans données sur la récurrence.
+

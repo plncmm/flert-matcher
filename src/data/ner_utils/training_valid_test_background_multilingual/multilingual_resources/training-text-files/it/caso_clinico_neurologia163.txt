@@ -1,0 +1,32 @@
+Anamnesi
+Una paziente di 20 anni senza allergie note ai farmaci, fumatrice di 10 sigarette al giorno, con una storia di asma allergica estrinseca, emicrania con aura, infezioni ricorrenti del tratto urinario e costipazione cronica. È stata trasferita da un altro centro per lo studio e il trattamento della tetraparesi nel contesto del dolore addominale con iponatremia (fino a 105 mEq/l), bilirubinuria e coluria, così come sintomi disautonomici e iporeflessia.
+
+Esame fisico
+Il paziente era tachicardico (frequenza cardiaca 120 bpm), febbrile (temperatura 37 oC), flusso di picco di 150 cc e l'esame cardiovascolare, respiratorio e addominale era irrilevante. L'esame neurologico ha rivelato una paresi facciale periferica con il segno di Bell, disfagia, areflessia generalizzata ad eccezione della presenza dei riflessi di Achille, riflesso cutaneo-plantare bilaterale, piloerezione significativa e sudorazione. Ha anche una tetraparesi con equilibrio muscolare (destra/sinistra): deltoide 0/0, tricipite 0/1, bicipite 1/1, flessore carpale 0/2+, interosseo 1⁄2, estensore carpale 0/0, flessore digitorum 2/2, estensore digitorum 2/2, psoas 3-/4+, quadricipite 1/0, hamstrings 3/4-, tricipite surale 3/3 e tibiale anteriore 3+/4.
+
+Test complementari
+- Esami del sangue all'ammissione. Emocromo: emoglobina 8,9 g/dl, ematocrito 27%, MCV 77,1 fl, MCH 25 pg, piastrine 260 K/mcl, leucociti 9,1 K/mcl. Biochimica: glucosio 88 g/dl, urea 53 mg/dl, creatinina 0,50 mg/dl, sodio 134 mEq/l, potassio 4,6 mEq/l. Analisi delle urine: positivo per leucociti e nitriti. Coltura delle urine positiva per Escherichia coli.
+- Esami di laboratorio di controllo: VES 114 mm; folati 7,88, cobalamine 1002.
+- Emogramma: nessun cambiamento.
+- Biochimica: proteine totali 6,9 mg/dl, GOT 70 IU/l, GPT 73 IU/l, GGT 45 IU/l, FA 128 IU/l. Ionogramma: nessuna alterazione.
+- Proteinogramma: albumina 39,9%, alfa-1 globulina 6%, alfa-2 globulina 14%, beta globulina 15%, gamma globulina 25,1%.
+- Studio dell'autoimmunità: negativo.
+- Tossicità delle urine: negativo.
+- Marcatori tumorali: alfa-fetoproteina e Ag CA-125: negativi.
+- Sierologia: negativo per Treponema, HCV e HIV.
+- Studio delle urine di 24 ore: coproporfirine urinarie 1.771 mg/24 h, porfirine urinarie totali 11.552 mg/24 h, porfobilinogeno urinario 13,9 mg/24 h, uroporfirine urinarie 9.781 mg/24 h.
+- Studio genetico: eterozigosi per la mutazione c.835_837delACTinsG nell'esone 14 del gene HMBS.
+- Esami del sangue alla dimissione: - CBC: eritrociti 3,63 M/mcl, emoglobina 10,4 g/dl, ematocrito 31%, volume corpuscolare medio 84,7 fl, emoglobina corpuscolare media 29 pg, piastrine 340 K/mcl, leucociti 7,7 K/mcl. - Biochimica: creatinina 0,36 mg/dl, colesterolo 224 mg/dl, trigliceridi 212 mg/dl, tasso di filtrazione glomerulare (MDRD) > 60 ml/min. - Ionogramma: normale.
+- Analisi del CSF: glucosio 74 mg/dl; leucociti 40/mm3 (60% mononucleari), proteine 17 mg/dl.
+- Elettromiogramma (EMG) (iniziale): risultati suggestivi di una poliradicoloneuropatia generalizzata, grave, a predominanza assonale.
+- EMG (controllo): risultati compatibili con una neuropatia assonale, acuta, molto grave, che coinvolge tutti e quattro gli arti ma con un maggiore coinvolgimento degli arti superiori. L'esame attuale suggerisce una neuropatia assonale motoria acuta.
+- Potenziali evocati somatosensoriali senza segni di coinvolgimento delle vie cordali posteriori.
+
+Diagnosi
+Il paziente è stato ammesso da un altro centro con sospetta sindrome di Guillain-Barré, avendo iniziato il trattamento con immunoglobuline, con scarsa risposta clinica. Dato il quadro di dolore addominale con le alterazioni analitiche sopra menzionate, l'ipercellularità nel CSF e i risultati dell'EMG, lo studio del quadro è stato esteso considerando le possibili diagnosi differenziali della sindrome di Guillain-Barré. Gli studi di autoimmunità e sierologia erano negativi, ma in presenza di uroporfirine nelle urine e con un quadro clinico compatibile, il paziente è stato diagnosticato con porfiria intermittente acuta (AIP). Successivamente, lo studio della porfiria viene completato secondo le raccomandazioni dell'Unità di Porfiria del centro di riferimento, e alla fine viene determinata una mutazione compatibile con la PAI, confermando così la diagnosi.
+
+Trattamento
+Il trattamento viene iniziato con supplementi di emina e vitamine (acido folico e vitamina B12), i livelli di glucosio, sodio e potassio vengono strettamente controllati e i farmaci che peggiorano la malattia vengono studiati per evitarli.
+
+Evoluzione
+Con la somministrazione di emina, il paziente mostra un progressivo miglioramento sintomatico. L'equilibrio muscolare 53 giorni dopo l'ammissione era (destra/sinistra): flessore del collo 3/3, estensore del collo 3/3, deltoide 3/3, bicipite 2+/2+, tricipite 2-/2-, estensore carpale 3/3, flessore carpale 3/3, interosseo 2/2, psoas 4/4, quadricipite 3+/4, tricipite surale 3/3, tibiale anteriore 4+/4 e flessione plantare 4/3+. Data la buona evoluzione della paziente al trattamento specifico della malattia diagnosticata, si è deciso di trasferirla in un centro di riabilitazione per continuare il trattamento intensivo.

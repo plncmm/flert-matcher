@@ -1,0 +1,28 @@
+Histoire personnelle
+DMNIR, psoriasis traité par corticostéroïdes et méthotrexate, épisode d'uropathie obstructive droite lithiasique compliquée d'un abcès rénal dû à Candida albicans et Pseudomona MR avec fongémie, après une TUR 8 mois auparavant (funduscopie, échocardiographie transthoracique et culture urinaire négative ultérieure).
+
+Maladie actuelle
+Un homme de 71 ans a été admis pour une fièvre de 4 jours, une toux et une douleur dorsolombaire sévère.
+Après 48 heures, il a présenté une douleur et une sensation de froid dans le MID.
+
+Examen
+Fébrile, état général correct. TA : 90/60mmHg. Auscultation cardio-pulmonaire : rythmique, pas de murmure ni de ronchonnement.
+Douleur à la palpation dorsale. MID : froideur distale, cyanose fixe dans le compartiment latéral, pâleur et rigidité tibio-péroné-astragalin.
+Seulement des pouls palpables au niveau de la fémorale droite et de la pédale gauche.
+
+Tests complémentaires
+À noter : des réactifs de phase aiguë élevés et une insuffisance rénale pré-rénale (radiographie pulmonaire et ECG normaux).
+- 1er : Qu'est-ce qui se cache derrière cette ischémie aiguë ?
+Sur le plan étiologique, elle peut être due à une embolie artérielle (FA, infarctus du myocarde ou dysfonctionnement du ventricule gauche, endocardite, valvulopathie ou prothèse, myxome, anévrisme, plaque d'athérome ou embolie paradoxale), à une thrombose artérielle (greffe, athérosclérose, thrombose anévrismale, syndrome de piégeage, hypercoagulabilité ou faible débit) ou à une dissection ou un traumatisme direct.
+L'échographie transthoracique a montré une image compatible avec une endocardite aortique. En parallèle, la microbiologie a isolé des Candida albicans résistants au fluconazole dans les cultures sanguines. Pas d'embolisation de la rétine. CT thoracico-abdominal : spondylodiscite D7-D8.
+- 2ème : Endocardite sur valve aortique native due à un Candida albicans résistant aux azoles,
+critères ? traitement ?
+Selon les critères modifiés de Duke, il s'agissait d'une endocardite infectieuse certaine (1 critère clinique majeur et 4 critères mineurs).
+L'échinocandine ou l'amphotéricine B +/- Flucytosine à fortes doses est recommandée. Après le traitement initial par voie iv, réduire à un azole oral pendant encore au moins 6 semaines après la chirurgie, sauf en cas de résistance au fluconazole, où le voriconazole ou le posaconazole est recommandé en cas de sensibilité. Si la résection n'est pas possible, prolongez le traitement.
+Notre cas a été traité par caspofungine, résection de la valve et amputation supracondylienne. - 3ème : Avait-il une endocardite lors de sa 1ère admission ?
+Il est certain qu'il n'y avait pas de critères et que l'on pouvait raisonnablement l'exclure. Mais la récurrence de la fongémie sans nouvelles complications urologiques nous amène à suspecter qu'un foyer a persisté dans le temps et l'endocardite serait le premier candidat.
+
+Diagnostic final
+- Endocardite sur valve aortique native due à un Candida albicans résistant aux azoles.
+- Ischémie aiguë de grade iii au niveau du milieu et spondylodiscite d7-d8, probablement secondaire à des embolies septiques.
+

@@ -1,0 +1,33 @@
+Anamnèse
+Patient âgé de 36 ans, sans allergies médicamenteuses. Antécédents chirurgicaux : résection d'un polype des cordes vocales, salpinguectomie droite laparoscopique pour grossesse extra-utérine en 2013.
+
+Depuis 25 semaines de grossesse, elle a consulté le service des urgences à plusieurs reprises pour des symptômes compatibles avec une infection des voies urinaires (IVU), nécessitant un changement d'antibiotique à quatre reprises pour obtenir un contrôle des symptômes. Les cultures urinaires étaient positives pour Escherichia coli.
+
+La livraison s'est déroulée sans incident le 16 août 2014. Six jours plus tard, le patient a consulté pour une fièvre et de fortes douleurs abdominales. Une échographie transvaginale et abdominale a été demandée, montrant un liquide intrapéritonéal libre. Le cathétérisme vésical a révélé une urine purulente. Au vu de ces résultats, il a été décidé de compléter l'étude par une tomodensitométrie (TDM) abdominale urgente et une admission à l'hôpital dans le service d'urologie.
+
+Examen physique
+Patient en bon état général. Conscient et orienté. Eupnéique au repos. Auscultation cardiaque et pulmonaire sans altération. Abdomen : tympanisme diffus à la percussion, avec douleur généralisée à la palpation. Il n'y avait aucun signe d'irritation péritonéale. L'aspiration rénale était négative bilatéralement. L'examen gynécologique était normal, à l'exception d'une douleur à la palpation de la paroi antéro-supérieure de la vessie.
+
+Tests complémentaires
+"Sédiment urinaire : négatif.
+" Exsudat vaginal : E. coli produisant une β-lactamase à spectre étendu et Candida glabrata ".
+" NFS : leucocytose (27 000 leucocytes/mm3) avec 93 % de neutrophiles. Le reste était normal.
+" Scanner abdominal : liquide intrapéritonéal abondant, principalement dans le bassin inférieur. Iléus réflexe.
+Tumeur étendue de la paroi de la vessie gauche avec prise de contraste. Pas d'adénopathie. Aucun autre résultat.
+"Laparotomie exploratoire : abondant liquide péritonéal libre secondaire à une perforation de la face postérieure de la vessie. La fermeture de la paroi a été effectuée avec une biopsie peropératoire de la paroi.
+"Résultats pathologiques de la pièce peropératoire : carcinome épidermoïde".
+
+Diagnostic
+Afin d'obtenir un diagnostic complet, une cystectomie radicale avec dérivation de Bricker et une hystérectomie ont été réalisées à un stade ultérieur.
+" Diagnostic pathologique : modèle histologique mixte, avec des zones de carcinome urothélial conventionnel (15 %), des zones de différenciation malpighienne (20 %) et des zones sarcomatoïdes (65 %).
+" PET-CT : deux lésions hépatiques de 11 et 18 mm avec SUV maximum de 3,4 et 5,7 respectivement.
+"Le patient a été diagnostiqué avec un carcinome sarcomatoïde de la vessie pT3aN0M1.
+
+Traitement
+Il a été décidé de commencer un traitement de chimiothérapie palliative le 9/12/2014 avec adriamycine 75 mg/m2 jour 1 + ifosfamide 3 g/m2 jours 1-3 + MESNA IV jours 1-3.
+
+Evolution
+Après l'administration du deuxième cycle, une neutropénie fébrile de grade 2 est apparue avec une infection urinaire due à Pseudomonas aeruginosa, qui a nécessité un traitement antibiotique intraveineux pour sa résolution.
+La TEP de réévaluation après trois cycles a montré une augmentation de la taille et de l'activité métabolique des lésions hépatiques (50 et 51 mm avec SUV max 4,9 et 5,8). En outre, plusieurs implants péritonéaux infiltrant sigma et les muscles adjacents sont détectés.
+Compte tenu de la progression, le 2/3/2015, il a commencé un traitement par cisplatine 80 mg/m2 jour 1 + gemcitabine 1 250 mg/m2 jours 1 et 8. Il a reçu trois cycles, avec des effets secondaires qui ont nécessité de réduire la dose de 20% au deuxième cycle.
+Elle attend actuellement un nouveau PET-CT scan pour évaluer la réponse.

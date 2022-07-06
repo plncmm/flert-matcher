@@ -1,0 +1,30 @@
+Anamnesi
+Donna di 65 anni con intolleranza al tramadolo e ricovero in terapia intensiva nell'agosto 2007 a causa di una sepsi urinaria causata da Escherichia coli. Precedenti interventi chirurgici: fissazione della colonna vertebrale dorsale a causa della cifoscoliosi.
+Diagnosticato nel gennaio 2008 tramite TAC toracica, PET scan, broncoscopia e successiva lobectomia superiore sinistra con linfoadenectomia di adenocarcinoma polmonare pT2pN0 (0/8) M0.
+Follow-up, senza evidenza di malattia, fino all'11 settembre, quando la recidiva è stata documentata dalla PET/CT sotto forma di due noduli polmonari sui quali è stato eseguito un FNA con un referto anatomopatologico di adenocarcinoma. In considerazione di ciò, è stata eseguita una pneumonectomia sinistra più linfoadenectomia con un referto anatomopatologico di 2,4 cm di adenocarcinoma ben differenziato che rispetta la pleura viscerale e i bordi chirurgici, senza coinvolgimento linfonodale e EGFR mutato.
+Nel febbraio 13, la recidiva è stata osservata sotto forma di un nodulo polmonare nel LSD insieme a un'adenopatia paratracheale inferiore destra. Dato il rischio di complicazioni, una nuova biopsia è stata esclusa e Gefitinib è stato indicato alle dosi abituali, 250 mg al giorno, con una risposta radiologica completa, sia dalla TAC che dalla PET, e con un'ottima tolleranza.
+Durante il follow-up, ed essendo totalmente asintomatico, l'uptake patologico nei linfonodi mediastinici è stato rilevato dalla PET nel dicembre 15.
+
+Esame fisico
+-Pressione sanguigna 125/75 mm Hg, frequenza cardiaca 90 battiti/min, temperatura 37o C, saturazione di ossigeno 97%.
+-Consapevole e orientato in 3 sfere. Non idratato, normoperfuso e normo colorato. Eupneico a riposo. IK 80
+-Testa e collo: pressione venosa giugulare normale, nessuna adenopatia.
+-Torace: auscultazione cardiaca: ritmica senza mormorii. Auscultazione polmonare: ipoventilazione emisfero sinistro. Cicatrici di interventi precedenti corrette
+-Addome: morbido, non doloroso. Suoni idroaerei positivi.
+-Estremità inferiori: nessun edema. Suoni pediatrici positivi.
+
+Test complementari
+-PET(dicembre-2015): ipermetabolismo nelle adenopatie situate nella regione paratracheale destra alta e bassa (Suv 8.14), prevascolare (Suv 3.45), finestra aortopolmonare (Suv 7.99) e ilo destro (Suv 7.46), suggerendo una recidiva della malattia.
+-EBUS 4R e 4L: striscio negativo per le cellule maligne. Linfonodo con strutture granulomatose senza necrosi.
+-Mediastinoscopia 4R, 4L e 2L: linfoadenite granulomatosa epitelioide compatibile con la sarcoidosi.
+
+Diagnosi
+-Sarcoidosi mediastinica
+-Adenocarcinoma polmonare con recidiva linfonodale EGFR mutato in risposta completa a Gefitinib
+
+Trattamento
+Data la diagnosi di sarcoidosi e l'assenza di coinvolgimento sistemico e il fatto che il paziente era completamente asintomatico, è stato adottato un approccio di attesa per il trattamento e si è deciso il follow-up.
+Per quanto riguarda il trattamento della neoplasia, è stato deciso di mantenere il trattamento con Gefitinib data l'eccellente risposta e tolleranza.
+
+Evoluzione
+Alla luce dei risultati della PET e del fatto che il paziente era completamente asintomatico, si è deciso di completare lo studio con l'EBUS e successivamente con la mediastinoscopia, per determinare se ci fosse o meno una recidiva. Curiosamente, lo studio anatomopatologico non ha mostrato la presenza di cellule maligne, ma piuttosto il contrario, un processo infiammatorio, come la sarcoidosi. Questo ci ha permesso di mantenere il trattamento con Gefitinib per il nostro paziente, che ancora oggi mantiene una risposta completa.

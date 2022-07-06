@@ -1,0 +1,49 @@
+Motivo de consulta
+Hematoma y bultoma en mama izquierda desde hace cinco meses.
+
+Enfoque individual (anamnesis, exploración, pruebas complementarias)
+Anamnesis: mujer de 76 años que acude a la consulta de Atención Primaria porque desde hace cinco meses presenta un hematoma y bultoma en mama izquierda que no se resuelve. Lo relaciona con una caída desde su propia altura con golpe en hemitórax izquierdo que fue valorada en urgencias sin hallarse fracturas. Comprobamos que en el informe de urgencias se describe el hematoma mamario.
+Niega secreción por el pezón. Niega fiebre.
+
+Entre sus antecedentes personales encontramos: intolerancia a codeína, ibuprofeno, simvastatina y amoxicilina-clavulánico. Hipertensión arterial bien controlada. Síndrome ansioso-depresivo en tratamiento. Intervenciones quirúrgicas: una cesárea y amidalectomía.
+Menopausia a los 50 años. G3P2C1A0.
+Niega antecedentes familiares oncológicos.
+Tratamiento crónico: Enalapril 20mg/Hidroclorotiazida 12,5mg cada 24 horas; Sertralina 100mg cada 24 horas; Clorazepato dipotásico 5mg si crisis de ansiedad; Zolpidem 10mg medio comprimido por la noche; Pidolato deanol 250mg/Heptaminol clorhidrato 180mg una ampolla al día.
+
+Exploración: buen estado general. Consciente, orientada y colaboradora. Bien hidratada y perfundida. Normocoloreada. Eupneica en reposo y al habla. Afebril. Hemodinámicamente estable. Mamas hipotróficas. En mama izquierda se palpa en cuadrante superointerno un bultoma regular, duro, de unos 8cm de diámetro mayor, no adherido a planos profundos y no doloroso, sin signos infecciosos locales. Compatible con hematoma organizado debido al tiempo de evolución y el tamaño.
+No se palpan adenopatías axilares.
+ACR: Buen murmullo vesicular sin ruidos sobreañadidos. Tonos rítmicos a buena frecuencia, sin soplos.
+Balance motor de miembro superior izquierdo sin limitación e indoloro.
+
+Pruebas complementarias: decidimos solicitar ecografía de mama.
+Ecografía de ambas mamas: Mamas con áreas de densidad fibroglandular dispersas. En cuadrante superointerno de mama izquierda se observa una gran masa quística compleja de unos 6,5cm x 4cm con ecos difusos internos y formaciones papilares vascularizadas en su pared con extensión más allá de la pared quística en la zona más superior. Se recomienda biopsia.
+Mama derecha sin hallazgos.
+Impresión diagnóstica: Masa quística compleja en mama izquierda a descartar lesión papilar vs carcinoma intraquístico. Categoría BIRADS 4C.
+Ecografía de axila homolateral sin hallazgos patológicos.
+Biopsia con aguja gruesa: LESIÓN PAPILAR COMPLEJA CON ATIPIA. Podría corresponder a un carcinoma papilar encapsulado.
+Receptores de estrógenos: expresión intensa en el 90-100% de las células neoplásicas.
+Receptores de progesterona: expresión ligera en el 10-20% de células neoplásicas.
+CK19: positivo.
+
+Enfoque familiar y comunitario
+Mujer de 76 años independiente para las actividades básicas e instrumentales de la vida diaria. Es viuda, tiene dos hijas. Buen soporte familiar, vive con una hija y su nieto. Nivel socio-cultural medio. Va todos los días a un colegio para personas mayores.
+
+Plan de acción
+Se decide intervención quirúrgica para obtener el diagnóstico definitivo y como medida terapéutica.
+Se realiza segmentectomía y se envía la pieza de resección para ampliar estudio.
+Anatomía patológica: Carcinoma papilar encapsulado de 5,5cm que respeta márgenes de resección.
+Estudio inmunohistoquímico:
+Ausencia de expresión de p63.
+Receptores de estrógenos: expresión intensa en el 60-70% de células neoplásicas.
+Receptores de progesterona: ausencia de expresión nuclear en las células neoplásicas. HER2: negativo.
+Ki67: índice de proliferación celular 20-30%.
+CK19: positivo.
+No se describe componente infiltrante de la tumoración.
+
+Juicio clínico (listado de problemas, diagnóstico diferencial)
+Carcinoma papilar encapsulado de cuadrante superointerno de mama izquierda, no infiltrante. luminal B.
+En un principio, se planteó como posibilidad diagnóstica un hematoma organizado. Tras la ecografía, se planteaba el diagnóstico diferencial entre tumoración benigna o maligna y dentro de las malignas, entre diferentes tumores.
+
+Plan de acción y evolución
+Tras la cirugía, la paciente se encuentra clínicamente estable, sin complicaciones de la herida quirúrgica y continua seguimiento con Oncología. Está pendiente de iniciar la Radioterapia. PS 1. Marcadores tumorales normales.
+Inició tratamiento con anastrozol 1mg al día y tras varios meses tomándolo se encuentra bien y no han aparecido efectos secundarios.

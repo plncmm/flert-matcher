@@ -1,0 +1,30 @@
+Anamnesis
+Mujer de 28 años, fumadora de 20 cigarrillos al día. De su historia ginecológica destaca únicamente un embarazo con parto vaginal sin complicaciones en 2007 y un aborto espontáneo. El 11 de abril presenta parto por vía vaginal sin complicaciones tras embarazo en el que se le había diagnosticado una diabetes gestacional. Se le administró cabergolina por deseo de la paciente de no realizar lactancia materna. Cuatro días más tarde presenta cefalea holocraneal pulsátil intensa junto con tensiones arteriales altas, y es tratada con analgesia convencional. Al día siguiente persiste la cefalea, añadiéndose de forma súbita una impotencia funcional del hemicuerpo izquierdo, motivo por el que es trasladada a Urgencias.
+
+
+Examen físico
+Presenta leve somnolencia sin preferencia cefálica, orientada en las tres esferas, pupilas isocóricas y normorreactivas, motilidad ocular extrínseca conservada, campimetría por confrontación normal, paresia facial central izquierda, plejia braquial y paresia crural izquierdas junto con hemianestesia ipsilateral sin alteración del lenguaje, reflejo cutáneoplantar flexor derecho y Babinski izquierdo, sin anosognosia ni asomatognosia (NIHSS: 10000/10402/02000 = 10). Auscultación cardiaca y respiratoria normales. Tensión arterial 171/97 mm Hg, con frecuencia cardiaca de 67 lpm y temperatura 36,7 oC.
+
+Pruebas complementarias
+• Analítica sanguínea: hemoglobina 13,2 g/dl, leucocitosis de 11.100/mcl. Glucosa 99 mg/ dl, fosfatasa alcalina 167 UI/l, GOT 93 UI/l, GPT 271 UI/l. Resto de analítica completa sin alteraciones.
+• Analítica de orina: proteínas 25 mg/dl.
+• Tóxicos en orina y hemocultivos negativos.
+• Magnesio en suero: 9,9 mg/dl (1,7-2,55).
+• Magnesio en suero (control a las 48 horas): 3,8 mg/dl (1,7-2,55).
+• Radiografía de tórax: normal.
+• Electrocardiograma (ECG): normal.
+• Tomografía computarizada (TC) craneal (en Urgencias, 8 h): hematoma cápsulo-ganglionar derecho agudo con volumen de 11 cc.
+• Angio-TC: muestra la presencia de extravasación de contraste periférico, sin objetivarse malformaciones vasculares asociadas.
+• Resonancia magnética (RM) cerebral (en urgencias, 12 h): hematoma hiperagudo cápsulo- ganglionar derecho. Múltiples lesiones edematosas cerebrales y cerebelosas sugestivas de leucoencefalopatía posterior reversible (PRES). Extravasación de contraste periférico en el hematoma cápsulo-ganglionar derecho y a nivel del núcleo lenticular izquierdo sin presencia de otras lesiones hemorrágicas. Resonancia magnética de cráneo que muestra extravasación de contraste en el núcleo lenticular izquierdo en secuencia T1 postgadolinio e imágenes hiperintensas en ambos hemisferios cerebelosos compatibles con PRES.
+• TC de cráneo (18/4/2013): aumento del tamaño del hematoma cápsulo-ganglionar derecho con volumen de 24 cc, asociado a leve efecto masa con desviación de la línea media de 4 mm. Nuevo pequeño foco hemorrágico intraparenquimatoso lenticular izquierdo no visualizado en el estudio previo con un volumen aproximado de 1,4 cc. Tomografía computarizada de cráneo que muestra la presencia de un hematoma cápsulo-ganglionar derecho y control a las 24 horas con aparición de una nueva lesión hemorrágica en el núcleo lenticular izquierdo.
+• RM de cráneo (20/4/2013): estabilidad radiológica de ambos hematomas, con aumento del edema vasogénico circundante y un leve aumento del efecto masa. Resolución del PRES.
+• Electroencefalograma (EEG) (24/4/2013): moderada disfunción neuronal difusa con características de encefalopatía metabólica. Leves signos de afectación neuronal sobreañadida en las regiones frontales inferiores del hemisferio derecho. No se registran paroxismos sugestivos de comicialidad.
+
+Diagnóstico
+Hematoma cerebral intraparenquimatoso cápsulo-ganglionar derecho y lenticular izquierdo secundario a eclampsia postparto.
+
+Tratamiento
+Se inicia medicación hipotensora con hidralazina y sulfato de magnesio por la presencia de crisis epilépticas. Ante el mal control tensional y el posterior desarrollo de vasoespasmo intracraneal se añade perfusión de labetalol, parche de nitroglicerina y perfusión de nimodipino. Tras la segunda crisis tónico-clónica generalizada (CTCG) se inicia levetiracetam (LEV) y ácido valproico (VPA).
+
+Evolución
+La paciente ingresa en la Unidad de Ictus y a las 2 horas de su ingreso presenta una CTCG. Se pauta sulfato de magnesio e hidralazina. Tras una nueva CTCG se inicia tratamiento con LEV y posteriormente con VPA, dada la ausencia de respuesta a estímulos externos, con apertura ocular espontánea y movimientos estereotipados orales. Además, este cuadro se acompaña de hipertensión arterial mantenida con tensiones diastólicas superiores a 105 mmHg, por lo que se añade tratamiento con labetalol en perfusión, dosis máximas de hidralazina y parche de nitroglicerina. Se realiza un EEG, que descarta la presencia de foco epileptógeno, por lo que se orienta el cuadro clínico como posible encefalopatía hipertensiva. Se realiza dúplex transcraneal, que muestra un aumento de las velocidades de forma global en el hemisferio izquierdo (no presentes previamente) con índices de pulsatilidad conservados, sugestivo todo ello de fracaso de la autorregulación cerebral y vasoespasmo incipiente, por todo esto, se decide iniciar tratamiento con nimodipino intravenoso durante 7 días hasta la normalización de los hallazgos ecográficos. Posteriormente, presenta mejoría de la clínica, con normalización de las cifras tensionales. La paciente es valorada por Ginecología, que descarta complicaciones mediante ecografía vaginal. En la exploración neurológica se mantiene con hemiparesia izquierda y anestesia ipsilateral.

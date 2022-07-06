@@ -1,0 +1,33 @@
+Anamnesi
+Maschio di 21 anni con una storia di atresia congenita del digiuno-ileo e nevo melanocitico lentigginoso sulla schiena all'età di 16 anni. Idrocele sinistro nell'infanzia, che si è risolto senza trattamento. Nessuna allergia ai farmaci o altra storia di interesse. Nessuna storia familiare di cancro.
+Anamnesi oncologica: inizialmente, il paziente ha consultato il reparto di urologia per una massa in lenta crescita nel testicolo sinistro che si era sviluppata nel corso di 2 anni.
+
+Esame fisico
+L'esame fisico ha rivelato una massa nel polo anterosuperiore del testicolo sinistro. ECOG 0. Riposo senza alterazioni di interesse.
+
+Test complementari
+"Fu richiesta un'ecografia testicolare che mostrò due aree, una più periferica nel polo superiore, che era la più grande, con un diametro medio di circa 2 cm, insieme a un'altra nella zona più vicina al centro del testicolo che misurava circa 8 mm di diametro.
+"Un esame completo del sangue ha mostrato: emoglobina 20,3 g/dl, ematocrito 59,9%, globuli rossi 6.550.000. Alfa-fetoproteina 77,2 ng/ml, beta-HCG 100,4 mU/ml, LDH 392 IU/l.
+"Il paziente è stato indirizzato all'ematologia per poliglobulia e programmato per un'orchiectomia radicale, dopo la crioconservazione dello sperma.
+"È stata eseguita una TAC toracoaddominale-pelvica e non è stato rilevato alcun coinvolgimento linfonodale o metastasi (N0M0).
+
+Diagnosi
+Carcinoma testicolare germinale non seminomatoso pT1N0M0, S0, stadio IA, sottogruppo a buona prognosi.
+
+Trattamento
+Viene eseguita un'orchiectomia radicale per via inguinale; la patologia è riportata come teratoma maligno misto con aree di carcinoma embrionale, yolk-sac, coriocarcinoma e neoplasia germinale intratubulare pT1.
+
+Evoluzione
+Inizialmente, poiché la prognosi era buona, è stato proposto un follow-up.
+Gli esami del sangue postoperatori hanno mostrato un'emoglobina di 18 g/dl, con marcatori tumorali negativi, quindi il paziente era S0.
+A 14 mesi, una TAC di follow-up ha mostrato almeno due linfoadenopatie retroperitoneali che misuravano tra 2 e 3 cm. Beta-HCG 16 mIU/ml e alfa-fetoproteina 8 ng/ml. Dato il sospetto di recidiva, è stato proposto un trattamento con quattro cicli di BEP (bleomicina, etoposide e cisplatino). Ha ricevuto i quattro cicli di trattamento, presentando una tolleranza molto buona (nausea di grado I, astenia di grado II, neutropenia di grado II e trombopenia di grado II).
+Due settimane dopo aver ricevuto l'ultimo ciclo, è stato ricoverato nell'unità di terapia intensiva (ICU) dopo un episodio di coma e di arresto cardiorespiratorio. È stata eseguita una TAC urgente, che ha mostrato una lesione apparentemente singola nella fossa posteriore, altamente vascolarizzata, suggestiva di metastasi. Altre possibilità non potevano essere escluse. Oltre all'idrocefalo tetraventicolare. Una puntura lombare è stata eseguita e la biochimica del CSF ha mostrato proteine elevate 118 mg/dl e glicemia 154 mg/dl, il resto dei parametri essendo nei limiti normali. Un campione di CSF è stato inviato per la citologia, con risultati negativi. È stata suggerita una diagnosi differenziale di metastasi contro un secondo tumore primario. Dopo averne discusso con la radio-oncologia e la neurochirurgia, si è deciso di aspettare i risultati della risonanza magnetica per decidere l'approccio terapeutico. La risonanza magnetica ha mostrato una lesione eterogenea che misura circa 28 x 32 x 37 mm negli assi AP, T e CC, rispettivamente, situata nella linea mediana, inferiore al quarto ventricolo, con un aspetto simile ai tumori misti del lignaggio germinale (considerare la possibilità di metastasi del tumore testicolare, o di un secondo tumore primario di origine germinale in questa situazione). Non c'erano altre immagini suggestive di metastasi nel resto dello studio.
+Inoltre, c'era edema troncale, idrocefalo tetraventricolare e siringomielia cervicale, secondaria alla lesione da effetto massa.
+Gli esami di laboratorio e i marcatori tumorali all'ammissione erano normali. Una prima operazione è stata eseguita, che era incompleta, secondo la risonanza magnetica, lasciando resti di tumore, con focolai ematici all'interno. Si decise di eseguire un secondo intervento una settimana dopo, dopo il quale l'idrocefalo migliorò, ma fu osservata una persistenza pseudonodulare sul versante inferiore del quarto ventricolo, che aumentò intensamente dopo la somministrazione di contrasto endovenoso, misurando 6 x 11 x 10 mm nei diametri AP, TR e Cc, rispettivamente, suggestivi di un altro resto tumorale.
+Il giorno + 10 del primo intervento, è stato riammesso in terapia intensiva in coma con un punteggio della scala di Glasgow di 4. Una TAC cranica urgente ha identificato un idrocefalo e segni di ernia trans-stentoriale, dovuti a un'emorragia tumorale, per cui è stato eseguito un intervento urgente mediante uno shunt ventricolo-peritoneale (Mitronic a pressione variabile).
+
+Dopo un mese in terapia intensiva, il paziente è stato portato in reparto stabilizzato con una GCS di 15/15. Le complicazioni durante la sua permanenza in ICU hanno incluso la colonizzazione da Acinetobacter baumanii e la disfagia secondaria alla paralisi completa della corda vocale destra, che ha richiesto il posizionamento di un tubo nasogastrico.
+L'anatomia patologica definitiva era: tessuto mesenchimale con vascolarizzazione prominente compatibile con l'emangioblastoma cerebellare.
+Durante i mesi successivi il paziente migliorò progressivamente, camminò con un deambulatore e il tubo nasogastrico fu rimosso e fu in grado di alimentarsi da solo.
+Il tumore testicolare continua ad essere monitorato, e l'ultima TAC ha mostrato un teratoma in crescita (25 mesi dopo l'orchiectomia), che sarà sottoposto ad intervento chirurgico.
+È stato indirizzato a una consulenza genetica per una sospetta sindrome di Von Hippel-Lindau, i cui risultati sono in sospeso.

@@ -1,0 +1,24 @@
+Anamnesis
+Mujer de 67 años de edad con antecedentes médicos de hipertensión arterial, diabetes mellitus no insulino-dependiente, hipotiroidismo y gastritis crónica, y antecedentes quirúrgicos de histerectomía vaginal.
+La paciente refiere dolor epigástrico de 4 meses de evolución junto con síndrome general, con adelgazamiento de 5 kg en los últimos 3 meses.
+
+Exploración física
+La exploración física resulta anodina.
+
+Pruebas complementarias
+• Es estudiada por su médico de cabecera, solicitándole analítica de control, en la que como datos de interés aparecen: proteína C reactiva 80 mg/l, hemoglobina 9,6 g/dl, hematocrito 29%, ferritina 419 ng/ml y velocidad de sedimentación globular 62 mm/h. Con estos datos, y ante la persistencia del dolor epigástrico, se remite a la paciente al Servicio de Aparato Digestivo para completar el estudio.
+• Se solicita una gastroscopia, que resulta anodina.
+• Se realiza una tomografía computarizada (TC) abdómino-pélvica, en la que se visualiza una extensa neoplasia renal izquierda (18,5 x 9,5 x 11,3 cm [cc x tr x ap]) bilobulada que parece originarse en el polo superior renal, sólida, heterogénea, con áreas necróticas-quísticas en su interior. Se aprecian signos de infiltración del músculo psoas ipsilateral, una posible infiltración de la glándula suprarrenal izquierda, contactando con el margen medial del bazo y desplazando en sentido anterior al páncreas. El pedículo vascular se encuentra permeable y sin claros signos de infiltración. No se observan adenopatías ni datos de metástasis a distancia.
+
+Diagnóstico
+Según la TC estaríamos ante una neoplasia renal estadio IV (T4 N0 M0).
+
+Tratamiento y evolución
+Dado que no existen adenopatías ni metástasis, se decide abordaje quirúrgico, realizando una nefrectomía radical izquierda junto con esplenectomía y pancreatectomía caudal de la masa renal izquierda que infiltra el bazo y la cabeza del páncreas.
+Durante el postoperatorio inmediato presenta una fístula pancreática hasta la zona de drenaje, que se soluciona de forma espontánea.
+La anatomía patológica demuestra que se trata de una gran masa tumoral de 23 cm de diámetro máximo, compatible con un leiomiosarcoma que engloba el riñón y la grasa perirrenal de probable origen renal. Por tanto, el diagnóstico más preciso sería el de leiomiosarcoma de origen renal. Se observan dos imágenes del análisis anatomopatológico de la pieza quirúrgica. A la izquierda en tinción de hematoxilina-eosina (x 10) y a la derecha de calponina (x 20). Se muestra una masa de crecimiento sólido con amplias áreas de necrosis, patrón fasciculado y apariencia sarcomatosa, con áreas de pleomorfismo y abundantes mitosis. Expresa positividad para actina, calponina y caldesmón. CD 34 negativo.
+A pesar de la recuperación clínica, en el control de imagen rutinario, 6 meses después, y estando la paciente asintomática, se aprecia en la resonancia magnética (RM) una masa renal derecha de 9,5 cm con áreas de necrosis y sangrado, que afecta a los dos tercios inferiores del riñón, sin poder descartar infiltración de la grasa perirrenal, sugestiva de leiomiosarcoma contralateral.
+Se contacta con el Servicio de Nefrología para la realización de una fístula arterio- venosa de cara a un posterior hemodiálisis y, de forma programada, se realiza una nefrectomía radical derecha.
+El examen anatomopatológico de la muestra describe una tumoración fusocelular, sólida, de patrón fasciculado con núcleos pleomórficos y alto índice mitótico. La lesión muestra contornos lobulados y parece asentar sobre la cápsula renal con extensión al parénquima renal a modo de crecimiento expansivo. Presenta positividad para actina y calponina y caldesmón y negatividad para AE1/AE3 y CD34.
+A pesar de un primer control radiológico postquirúrgico sin datos de extensión y de la mejoría clínica de la paciente, la enfermedad avanza ferozmente y 5 meses después de la última intervención consulta por la aparición de una masa mamaria. A la exploración se palpan múltiples nódulos subcutáneos distribuidos por la cabeza y el tronco. Se realiza un nuevo estudio de extensión, descubriendo en la TC múltiples nódulos metastásicos subcutáneos, metástasis pulmonares y hallazgo de una masa heterogénea de 20 mm en la cabeza del páncreas sugestiva de metástasis con dilatación de la vía biliar intra y extrahepática, de manera que los niveles de bilirrubina y transaminasas se elevan de forma progresiva durante las siguientes semanas.
+El caso se consulta con los Servicios de Oncología Médica y Aparato Digestivo, considerándose que la realización de una colangiopancreatografía retrógrada por vía endoscópica (CPRE) para poder instaurar tratamiento quimioterápico no aporta ningún beneficio a la paciente, motivo por el cual se instaura tratamiento paliativo, evolucionando la paciente de forma tórpida y falleciendo 2 meses después.

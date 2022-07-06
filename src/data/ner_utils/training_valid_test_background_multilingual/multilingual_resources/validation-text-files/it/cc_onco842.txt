@@ -1,0 +1,34 @@
+Anamnesi
+Un paziente diabetico di 81 anni con una storia di tromboembolia polmonare (PTE) e un fumatore attivo, che ha iniziato ad avvertire dolore ed edema all'arto inferiore sinistro e si è recato al pronto soccorso, dove è stato eseguito un eco-Doppler ed è stata fatta una diagnosi di trombosi venosa profonda sinistra (DVT), iniziando il trattamento con rivaroxaban.
+Alcuni giorni dopo, è tornata in clinica per una dispnea di diversi giorni, associata a tosse senza espettorazione e senza dolore al petto. Un'angiografia CT è stata eseguita nel dipartimento di emergenza per sospetto PTE, che è stato confermato, mostrando un difetto di riempimento nell'arteria lingulare compatibile con PTE. Inoltre, la scansione angio-CT ha mostrato adenopatie ascellari/retropettorali sinistre di dimensioni significative (18 e 20 mm) sospette di malignità, adenomegalia prevascolare nella finestra aortopolmonare e ilare con un asse corto inferiore a 10 mm, non significative, così come un micronodulo di 4 mm nel segmento mediale del lobo medio (LM).
+A causa di questi risultati, è stato ricoverato in Medicina Interna per ulteriori indagini.
+Durante l'ammissione, l'evoluzione era favorevole, rimanendo asintomatico dal punto di vista respiratorio. Una batteria di test complementari è stata eseguita per identificare le linfoadenopatie osservate nella TAC, compresa un'analisi generale con marcatori tumorali, senza alterazioni rilevanti tranne un CEA (antigene carcinoembrionale) di 327 e una PET-CT che mostra un focus ipermetabolico ilare polmonare sinistro (SUVmax 11, 4) che sembra corrispondere alla linfoadenopatia nella finestra aortopolmonare, menzionata nella scansione angio-CT, diversi focolai ipermetabolici ascellari sinistri (SUVmax 14,11), coincidenti con linfoadenopatia di dimensioni significative nella scansione angio-CT. Un piccolo focus ipermetabolico (SUVmax 3.9) nella zona retroparotidea sinistra potrebbe corrispondere a un'altra linfoadenopatia subcentimetrica.
+Alla luce di questi risultati PET/CT, si è deciso di consultare la Chirurgia Generale per effettuare una biopsia della linfoadenopatia ascellare.
+I risultati anatomo-patologici della biopsia ascellare corrispondono a metastasi linfonodali di carcinoma scarsamente differenziato con comedonecrosi. Lo studio immunoistochimico delle cellule tumorali ha mostrato negatività per CK20, TTF1, PSA, GATA3, S100 e p40, e non è stato possibile stabilire l'origine del tumore primario.
+Alla luce di questi risultati, il paziente è stato inviato in Oncologia per una valutazione.
+
+Esame fisico
+Paziente con un performance status (PS) di 1, con auscultazione cardiorespiratoria normale, toni ritmici senza murmure udibili, murmure vescicolare conservato senza rumori sovrapposti; addome morbido, depressibile, non doloroso alla palpazione, senza masse o megaliti. Nessun linfonodo sopraclavicolare o ascellare è stato palpato. All'ispezione, sono stati osservati segni di DVT nell'arto inferiore sinistro.
+
+Test complementari
+Marcatori tumorali: alfa-fetoproteina, CA 15.3, CA 19.9, CA 72.4, enolasi specifica neuronale e PSA. Tutti senza alterazioni rilevanti tranne il CEA, che ha mostrato una chiara diminuzione dalla diagnosi.
+"CEA: 327,5 (eseguito il 5/06/2017) >> 132,8 (eseguito il 7/08/2017) >> 59,7 (eseguito il 19/02/2018).
+PET-CT eseguita durante il follow-up.
+"Scansione PET-CT iniziale, eseguita nel giugno 2017, già descritta nell'anamnesi.
+"PET-CT scan nel novembre 2017: metastasi linfatiche stabili, tranne la citoriduzione nell'ascella sinistra. Non sono stati identificati altri focolai.
+"PET-CT scan a febbraio 2018: linfoadenopatie suggestive di metastasi linfatiche in remissione. Non sono stati identificati nuovi focolai sospetti di attività tumorale.
+Immunodiagnosi infettiva
+"Sierologia eseguita nel mese di agosto/2017: virus dell'epatite negativo tranne IgG e IgM per il virus dell'epatite A positivo.
+"Sierologia eseguita a febbraio/2018: negativa per i virus dell'epatite tranne le IgG e le IgM per il virus dell'epatite A ed E positive.
+
+Diagnosi
+Metastasi linfonodali (retroparotide sinistra, mediastino sinistro e ascellare sinistro) di carcinoma scarsamente differenziato di origine sconosciuta.
+
+Trattamento
+Dati questi risultati, al paziente è stata offerta la possibilità di iniziare un trattamento chemioterapico con carbo-paclitaxel, la prima linea di trattamento per i tumori di origine sconosciuta, ma il paziente ha rifiutato il trattamento e voleva solo il follow-up.
+
+Evoluzione
+Durante il follow-up il paziente rimane asintomatico. Si rifiuta di cambiare il suo stile di vita o la sua dieta.
+I test complementari mostrano una chiara regressione spontanea del tumore. Questo si vede nelle immagini PET-CT e nella marcata diminuzione dei marcatori tumorali.
+Una sieroconversione del virus dell'epatite A ed E è stata osservata per caso, senza ripercussioni cliniche (nessuna sindrome febbrile o sintomi associati) o test di laboratorio (nessun aumento dei reagenti di fase acuta o elevazione delle transaminasi).
+A causa dei risultati dei test e delle condizioni cliniche del paziente, è stato proposto di continuare il follow-up. Una visita è prevista tra due mesi con un'analisi di controllo e dei marcatori tumorali.

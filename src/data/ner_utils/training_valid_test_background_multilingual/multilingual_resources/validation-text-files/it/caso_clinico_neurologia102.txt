@@ -1,0 +1,30 @@
+Anamnesi
+Un uomo di 63 anni con una precedente diagnosi di ipertensione arteriosa e ipertrofia prostatica benigna si è presentato al dipartimento di emergenza con un codice ictus. Alle 5:30 del mattino è stato trovato sul pavimento con difficoltà a muoversi e con discorsi ripetitivi e incoerenti. L'ultima volta è stato visto asintomatico alle 00:00h. Il paziente è disfasico, confuso e disorientato, quindi non è possibile prendere l'anamnesi del paziente. La famiglia non ha fornito altri dati di interesse, negando qualsiasi sintomo nei giorni precedenti.
+
+Esame fisico
+Pressione sanguigna 141/81 mmHg, frequenza cardiaca 75 bpm, saturazione O2 99% (FiO2 21%), temperatura 35,8°C. DTX: 100. DTX: 100. Cosciente, disorientato, confuso. Disturbo fluttuante del linguaggio con caratteristiche disfasiche miste. Nessun disturbo campimetrico o dei nervi cranici, nessun disturbo motorio o sensoriale.
+
+Test complementari
+- I seguenti test sono stati eseguiti nel dipartimento di emergenza: esami del sangue, radiografia del torace ed ECG, che erano normali.
+- Dato il sospetto clinico di ictus nel territorio della MCA sinistra con tempo indeterminato di evoluzione, sono stati eseguiti una TAC cranica basale e multimodale con perfusione e una TAC angiografica, che non ha mostrato alterazioni.
+
+Diagnosi
+Alla luce dei risultati degli esami complementari, il trattamento fibrinolitico è stato rifiutato e il paziente è stato ricoverato nella Stroke Unit con una diagnosi di ictus ischemico del MCA sinistro.
+
+All'ammissione alla Stroke Unit, il paziente ha avuto una crisi generalizzata a insorgenza parziale ed è stato trattato con diazepam. È stata sollevata la possibilità che la situazione iniziale del paziente corrispondesse a un periodo post-critico, anche se la causa iniziale della crisi è rimasta poco chiara, senza escludere una causa vascolare. È stato richiesto un elettroencefalogramma urgente, dove è stato identificato un pattern di scariche epilettiformi periodiche lateralizzate (PLED). Dal punto di vista emodinamico, il paziente presentava febbre febbrile, e dal punto di vista neurologico continuava a presentare un disturbo del linguaggio, con miglioramento rispetto all'esame iniziale. Sei ore dopo l'ammissione, è stata eseguita una puntura lombare per l'analisi del CSF, richiedendo la VHS PCR a causa del sospetto clinico e supportato dall'EEG di encefalite erpetica.
+
+Trattamento
+Dopo la puntura lombare, la cui biochimica di emergenza era normale, è stato iniziato un trattamento empirico con acyclovir 750 mg/8 h.
+
+Evoluzione
+L'evoluzione successiva del paziente durante i giorni del ricovero, in attesa della risonanza magnetica e del risultato della VHS PCR, è stata favorevole, recuperando un linguaggio normale. Il paziente ha riferito difficoltà nel richiamare i ricordi e si è lamentato di notare occasionalmente strani odori, mentre l'esame è stato sempre normale. Pochi giorni dopo abbiamo ottenuto un risultato negativo dall'analisi PCR VHS e la risonanza magnetica ha mostrato risultati compatibili con l'encefalite limbica sinistra. Il trattamento è stato completato con aciclovir (10 dosi) ed è stato avviato uno studio eziologico dell'encefalite limbica, con una diagnosi differenziale di patologia autoimmune, infiammatoria e paraneoplastica. È stato eseguito uno studio di estensione del tumore, che era negativo, la sierologia del sangue e i marcatori di autoimmunità nel sangue erano negativi e uno studio CSF è stato eseguito per gli anticorpi onconeuronali, anch'essi negativi.
+
+Fu richiesta una nuova risonanza di controllo, che fu eseguita 5 giorni dopo la prima, mostrando un'immagine pseudonodulare nella regione temporale sinistra con restrizione della diffusione, senza miglioramenti patologici dopo il contrasto. È stata sollevata la possibilità di un processo tumorale infiltrativo di basso grado.
+
+Data la situazione stabile, il paziente è stato dimesso a casa con follow-up ambulatoriale nel Dipartimento di Neurologia e Neurochirurgia, ricevendo un trattamento con levetirazetam 1.000 mg/12 h, con la diagnosi di epilessia sintomatica del lobo temporale con una lesione suggestiva di glioma a basso grado.
+
+Un mese dopo la dimissione, il paziente è stato nuovamente ricoverato per stato parziale complesso con la necessità di aumentare la dose di levetirazetam a 1.500 mg/12 h, con l'aggiunta di lacosamide 200 mg/12 h. Durante questo periodo, è stata eseguita una nuova risonanza magnetica e il paziente è stato ricoverato. Durante il ricovero, è stata eseguita una nuova risonanza magnetica, che ha mostrato un aumento relativo della lesione rispetto alla precedente, con un'area infracentimetrica contrast-enhancing. Dal punto di vista neurologico, il paziente si è evoluto verso la sua situazione precedente. Il paziente è stato dimesso e programmato per una nuova risonanza magnetica di follow-up tra 2 mesi.
+
+La nuova risonanza magnetica di controllo ha mostrato la lesione precedente con aree di uptake al suo interno accompagnate da un aumento della perfusione, tutto ciò era compatibile con la progressione del tumore. Il paziente è stato valutato dalla neurochirurgia ed è stata eseguita una biopsia stereotassica della lesione. Lo studio anatomopatologico ha portato a una diagnosi di oligodendroglioma di grado III.
+
+Dopo che il paziente ha continuato a riferire reclami di memoria e labilità emotiva, con occasionali fallimenti nella nomina all'esame, è stato valutato dai Dipartimenti di Oncologia Medica e Radioterapia, e il trattamento è stato iniziato con temozolomide e radioterapia.

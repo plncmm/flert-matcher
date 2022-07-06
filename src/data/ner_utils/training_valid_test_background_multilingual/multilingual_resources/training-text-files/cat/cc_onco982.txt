@@ -1,0 +1,27 @@
+Anamnesi
+Nen home de 8 anys, sense al·lèrgies a medicaments, sense antecedents personals ni intervencions quirúrgiques d'interès, excepte sibilancias recurrents en primera infància. No té antecedents familiars de malaltia oncològica. És fill únic, tots dos pares estan sans i conviuen amb un gos. No pren medicació habitualment.
+A l'agost de 2016, el nen sofreix un traumatisme banal en zona dorsolumbar. A partir de llavors, presenta dolor localitzat en regió lumbosacra que 2 mesos més tard, s'irradia a cama esquerra, augmenta amb la sedestació i li limita la flexió de l'esquelet axial. També associa dolor en escàpula i zona subcostal dreta, així com pèrdua de pes no quantificada, hiporexia i astènia. A l'octubre de 2016, s'afegeixen deposicions de consistència més dura amb contingut mucós i brins de sang vermella. No té febre ni consum de productes no pasteuritzats en tot el procés, així com altres símptomes per aparells.
+Des de consultes externes de Pediatria, li sol·liciten ressonància magnètica de columna lumbosacra el 06/10/16 que mostra infiltració generalitzada de la medul·la òssia en esquelet axial i apendicular, i massa de parts toves epidural anterior en relació a L3-L5 i T12, així com empremta de sac tecal anterolateral en T3, sense compromís significatiu del canal raquidi; gammagrafia òssia (GGO) el 14/10/16 que mostra afectació en esquelet axial, pelvis, escàpules i graella costal; i biòpsia i aspirat de medul·la òssia (AMO/BMO) el 10/10/16 en la qual es confirma invasió per cèl·lules d'origen no hematopoètic, amb celularidad predominant en anell de segell i positivitat per a CDX2 (tub digestiu) EMA +, pancitoqueratina +, S100 +, enolasa i vimentina negatives.
+Davant la sorprenent troballa de sospita de neoplàsia digestiva amb les proves realitzades, es deriva al servei d'Oncologia Pediàtrica, per a completar estudi.
+
+Exploració física
+Pes: 26 kg, talla: 126 cm. Pal·lidesa de pell i mucoses. Sense adenopaties. Suós. Auscultació cardiopulmonar normal. Abdomen tou, no dolorós durant la palpació, sense masses ni megalias. Dolor en articulació sacroiliaca dreta i a la rotació de maluc esquerre. Limitació de flexió a nivell lumbar. Dolor intens en baixar de la llitera. Postura de envaramiento amb impossibilitat de bipedestació, feblesa de membres inferiors i dolor greu durant la bipedestació.
+
+Proves complementàries
+Després de la visita a la Consulta d'Oncologia Pediàtrica, s'obtenen les següents proves:
+» Analítica (16/10/16): bioquímica, hemograma i coagulació sense alteracions rellevants.
+» Proteinograma: normal. Metabolisme del ferro: ferritina 1.416 μg/l (30-400), resta normal.
+» Endoscòpia alta (19/10/16): esòfag, estómac i duodè normals.
+» Colonoscòpia (19/10/16): massa ulcerada d'uns 3 cm de longitud des de 2 cm de marge anal a 5cm en marge rectal dret que es biòpsia amb límits ben definits. Resta de còlon en ili sense lesions.
+» Anatomia Patològica de biòpsia rectal (19/10/16): adenocarcinoma de colón-recte amb cèl·lules en anell de segell amb aparent pèrdua d'expressió de PMS2 i estabilitat de microsatèl·lits. Mutació en l'exó 4 del gen KRAS (25/11/16).
+» Tomografia computada (TC) de tòrax (21/10/16): vessament pleural esquerre sense criteris d'evacuació amb implant pleural a nivell de 4a costella de 10 mm, metàstasi en costelles ja evidenciades en gammagrafia. No hi ha metàstasis pulmonars parenquimàtiques.
+» RNM abdominopélvica (24/10/16): tumor en el recte inferior i mig a 15 mm del marge anal que contacta amb esfínter anal intern, de morfologia anular, excèntrica i ulcerada, que afecta la paret dreta amb extensió extramural i infiltra la fàscia mesorrectal i vascular aconseguint una longitud de 50 mm. S'acompanyada de múltiples adenopaties cadenes mesorrectal (5 mm) i ilíaques internes bilaterals (9 mm). Heterogeneïtat de la medul·la òssia suggestiu de disseminació metastásica òssia i petita quantitat de líquid lliure peritoneal (T3dN2M1).
+
+Diagnòstic
+Adenocarcinoma de recte de cèl·lules en anell de segell KRAS mutat (exó 4), en estadi IV amb afectació ganglionar, òssia, pleural i de medul·la òssia. Síndrome de compressió medul·lar en aquest context, amb dolor neuropàtic associat.
+
+Tractament
+Després de confirmar-se l'existència de adenocarcinoma de recte metastásico, s'inicia tractament amb quimioteràpia (QT) el 21/10/2017 segons esquema FOLFOXIRI (àcid folínic, 5-FU,oxaliplatino i irinotecán) + bevacizumab quinzenal, rebent un total de 12 cicles fins al 30/03/17, amb bona tolerància, obtenint en TC abdominopélvica (03/04/17) resposta parcial de la malaltia a nivell local i ganglionar segons RECIST 1.1, amb absència de malaltia en medul·la òssia confirmada mitjançant AMO/BMO (09/01/17), normalització de marcadors tumorals (CEA 64,3 ng/ml el 09/01/17 a 5,9 ng/ml el 10/04/17), deambulació sense suports ni corticoides després de tercer cicle i cessament de la rectorragia, però amb progressió de metàstasis òssies. Com a toxicitat, només destacar diarrea G1 i neurotoxicidad en punta de dits de les mans G1.
+
+Evolució
+Davant la persistència de malaltia metastásica òssia i la toxicitat probable en cas de tractament amb RT, es va determinar continuació amb QT basada en FOLF (àcid folínic, 5-FU) + bevacizumab quinzenal que inicia el 10/04/17, rebent fins a aquest moment 6 cicles amb excel·lent tolerància; i ampliació d'estudi de PMS2 per a valorar posterior tractament amb pembrolizumab de manera experimental.

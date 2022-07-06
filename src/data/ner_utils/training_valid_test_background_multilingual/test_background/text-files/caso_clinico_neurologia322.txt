@@ -1,0 +1,27 @@
+Anamnesis
+Mujer de 31 años, sin alergias conocidas y sin hábitos tóxicos. Natural de Rusia y residente en España desde hace 10 años. Antecedentes de infección por el virus de la inmunodeficiencia humana (VIH) diagnosticada en su país (más de 10 años de evolución) que no había seguido controles ni tratamiento por voluntad propia. Encontrándose previamente bien, acude al Servicio de Urgencias por un cuadro clínico consistente en crisis focal (versión cefálica a la izquierda con movimientos clónicos de la extremidad superior derecha) y alteración de la marcha.
+
+Exploración física
+Consciente y orientada, normohidratada y normocoloreada. No se palpan adenopatías, no bocio, no ingurgitación yugular.Auscultación cardiaca y pulmonar sin alteraciones. Abdomen sin anomalías. Extremidades inferiores sin edemas ni signos de trombosis venosa profunda. Exploración neurológica: pupilas isocóricas y normorreactivas. No déficit campimétrico. Paresia facial central derecha con disartria. Paresia braquiocrural derecha, balances musculares 4 sobre 5, Babinski derecho, reflejo cutáneo-plantar izquierdo flexor. Dismetría en el hemicuerpo izquierdo. Abasia. Marcha atáxica con maniobra en tándem imposible.
+
+Pruebas complementarias
+• Bioquímica y hemograma: sin alteraciones significativas.
+• Serologías: VIH positivo (carga viral 3,94 x 105). Serologías para citomegalovirus, virus herpes simple y virus varicela- zóster negativas.
+• Estudio de inmunidad: 86,26 linfocitos T CD4+/mm3 (5%), 897 linfocitos T CD8+/mm3 (52%), cociente CD4/CD8 0,1.
+• Líquido cefalorraquídeo (LCR): aspecto cristalino, 0 hematíes/mm3, 5 leucocitos/ mm3, glucosa 51 mg/dl (glucosa en suero 78 mg/dl), proteínas totales 0,23 g/l. Positivo para VIH. Virus JC detectable por reacción en cadena de la
+polimerasa. No se detectan bandas oligoclonales.
+• Tomografía computarizada (TC) cerebral urgente: área de hipodensidad parietooccipital izquierda que requiere seguimiento y valoración con historia clínica del paciente.
+• Resonancia magnética (RM) craneoencefálica: múltiples lesiones hiperintensas en ponderación T2 que afectan a la sustancia blanca silviana profunda bilateral, así como una extensa lesión hiperintensa corticosubcortical parietal izquierda que afecta también al esplenio del cuerpo calloso, demostrándose además una afectación hemisférica cerebelosa izquierda con participación del pedúnculo cerebeloso medio izquierdo y hemiprotuberancia izquierda. Las lesiones citadas no provocan efectos de masa. Lesión en el hemisferio cerebeloso y hemiprotuberancia izquierda. Lesión hiperintensa parietal izquierda.
+• Electroencefalograma de vigilia: sin alteraciones.
+• Doppler de los troncos supraaórticos y transcraneal: sin alteraciones.
+
+Diagnóstico
+• Fallecimiento por leucoencefalopatía multifocal progresiva.
+• Infección VIH categoría C3.
+
+Tratamiento
+Durante el ingreso se comienza tratamiento con terapia antirretroviral (tenofovir, emtricitabina, darunovir y ritonavir), tras el cual presenta síndrome de reconstitución autoinmunitaria, por lo que es necesario corticoterapia con metilprednisolona, sin respuesta. Se comienza a su vez tratamiento con trimetoprim-sulfametoxazol como prevención de la neumonía por Pneumocystis carinii.
+
+Evolución
+Durante el ingreso la paciente presenta una evolución progresiva hacia el empeoramiento clínico. Debido a que el diagnóstico de VIH se había realizado hacía más de 10
+años en su país de origen, sabiendo que durante ese tiempo no había llevado en ningún momento terapia antirretroviral y tras las imágenes en la RM, que sugerían patología desmielinizante, se decide el comienzo con tratamiento antirretroviral.Alos dos días del comienzo del tratamiento, presenta empeoramiento clínico neurológico, precisando tratamiento corticoideo con metilprednisolona, por alta sospecha de síndrome inflamatorio de reconstitución inmunológica, presentando discreta mejoría de la sintomatología. Se decide su traslado al Servicio de Infecciosos, con la siguiente exploración: paresia facial central derecha, paresia 2/5 braquiocrural derecha, hemidismetría izquierda, nistagmo horizonto-rotatorio e imposibilidad para la bipedestación. La paciente fallece a los cinco días del traslado.

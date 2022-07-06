@@ -1,0 +1,19 @@
+A 16-year-old boy was admitted to our emergency department at Lombardy, complaining of severe chest pain radiating to his left arm, which had begun one hour earlier.
+The day before, she had had a fever of 38.3 °C, with fever of 100 mg nimesulide.
+He did not report other symptoms, had no history and had no contact with confirmed cases of COVID-19.
+His vital signs were normal, except for his temperature, which was 38.5 °C.
+On chest auscultation, the heart sounds were normal, there was no pericardial friction and no▁anomalous respiratory signs.
+No lymphadenopathy, rashes or areas of chest wall pain associated with anaphylaxis were found.
+An electrocardiogram (ECG) showed inferolateral ST-segment elevation and transthoracic echocardiography showed hypokinesia of the inferior and lateral segments of the left ventricle, with a fraction observed pericardial effusion infer 52%.
+Analyses showed an increase in cardiac troponin I ultrasensitive (9449 ng/L), creatine phosphokinase (671.0 U/L), C-reactive protein (32.5 mg/L) and lactate (276.0 mg/L).
+Leukocytes were 12.75 × 109 per L, neutrophils 10.04 × 109 per L and lymphocytes 0.78 × 109 per L. Acute aspirin was administered for diagnosis of myo pain and coronary ICU with stenosis.
+The pain gradually subsided, and after 2 h, it had become complete.
+However, during the first night, the patient complained of chest pain; the ECG was repeated, but no relevant changes were observed.
+Ibuprofen treatment was started.
+600 mg three times daily and both symptoms and fever resolved.
+Autoantibody and cardiotropic virus tests were negative.
+On day 3, a nasopharyngeal swab test for acute respiratory distress syndrome 2 (SARS-CoV-2) was positive, so treatment with hydroxychloroquine and antivirals was started.
+Repeated measurements of the patient's troponin concentration showed a gradual reduction from a maximum of 16,862 ng/L on day 1 to 39 ng/L on day 8.
+Inflammation markers also returned to normal values and ST-segment elevation was detected on ECG.
+On day 11, after two nasopharyngeal swabs obtained on consecutive days were negative, the T2-weighted MRI T2-weighted STIR sequence showed consistent changes with the diagnosis of acute myopathic colitis.
+On day 12, the patient was in good condition and asymptomatic and was discharged.

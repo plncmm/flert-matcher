@@ -1,0 +1,22 @@
+Anamnesis
+Varón de 62 años con antecedentes de hipertensión arterial, hiperplasia benigna de próstata e intervenido de melanoma a nivel de la espalda hace dos años. Tras aparición de un nódulo en axila derecha, se solicitó un PET que informó de adenopatía metastásica en axila derecha, nódulo dudoso a nivel paraesternal derecho y micronódulos pulmonares. Se realizó biopsia del ganglio axilar con estudio anatomopatológico positivo para metástasis de melanoma, decidiéndose linfadenectomía axilar. La anatomía patológica informó de metástasis de melanoma en uno de los doce ganglios extirpados, siendo éste de 4 centímetros de diámetro mayor, con extensión extracapsular y BRAF mutado. En el PET de control dos meses después se informaba de crecimiento del nódulo paraesternal derecho y de la aparición de nódulos metastáticos en pared costal, glándula suprarrenal y nuevos micromódulos pulmonares. Con el diagnóstico de melanoma metastático, BRAF mutado, se decidió iniciar tratamiento con doble bloqueo BRAF: vemurafenib + cobimetinib. Días después comienza con una erupción cutánea en cara, tronco y extremidades, ligeramente pruriginosa y con sensación de quemazón en región facial. No presenta fiebre ni otra sintomatología asociada.
+
+Exploración física
+Consciente, orientado, reactivo y perceptivo, eupneico en reposo. Auscultación pulmonar: normoventilación. Auscultación cardíaca: ritmos cardíacos rítmicos a 70 latidos por minuto. Cavidad oral: lengua saburral, no edema de úvula. Piel: rash maculopapular eritematoso en cara, tronco y extremidades que blanquea a la digitopresión. Además lesiones papilomatosas hiperqueratósicas en cara y brazos.
+
+Exploraciones complementarias
+• Bioquímica: creatinina1.31mg/dL,restonormal. • Hemograma: hemoglobina 16.9 g/dL, leucocitos 4.7 mil/mm3 con ligera linfopenia, plaquetas normales.
+• Gasometría venosa: pH 7.44, pO2 59 mmHg, pCO2 34 mmHg, HCO3 22 mmol/L, lactato 1.9 mmol/L.
+• Radiografía de tórax: no se observan alteraciones pleuroparenquimatosas de evolución aguda.
+
+Diagnóstico
+• Rash maculopapular secundario a vemurafenib. Toxicidad dermatológica grado 2-3.
+• Queratosis verrucosas en relación con vemurafenib.
+
+Tratamiento
+• Interrumpir temporalmente el tratamiento con vemurafenib hasta alcanzar el grado 0-1 y valorar reanudar a dosis inferiores.
+• Tratamiento sintomático con corticoides tópicos y antihistamínicos si prurito.
+• Tratamiento de las queratosis verrucosas.
+
+Evolución
+El rash remitió completamente al retirar el tratamiento, por lo que se pudo reintroducir el vemurafenib al 75% de la dosis inicial, con buena tolerancia.

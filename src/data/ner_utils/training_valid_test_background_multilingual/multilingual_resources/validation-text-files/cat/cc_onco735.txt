@@ -1,0 +1,28 @@
+Història oncològica
+Home amb antecedents personals en el moment del diagnòstic oncològic de dislipèmia en tractament amb atorvastatina 40 mg. diaris, tabaquisme actiu amb un consum acumulat de 30 paquets-anys, infecció per virus de l'hepatitis B en 1998 sense dades de reactivació posterior, úlcera gàstrica secundària a antiinflamatoris no esteroidals i resecció quirúrgica d'un sinus pilonidal.
+Com a antecedents familiars destaca mare amb càncer de mama.
+És diagnosticat a l'octubre de 2013 amb 51 anys, arran d'episodis repetits consistents en cefalea, mareig i bloquejos del llenguatge, d'una lesió cerebral parietotemporal esquerra amb efecte de massa. Es va realitzar biòpsia de la mateixa obtenint un diagnòstic anatomopatològic de astrocitoma grau II amb component de oligodendroglioma grau II, negatiu per a deleció 1p/19q, la qual cosa, atesa l'última classificació de tumors primaris del sistema nerviós central de l'OMS (2016), es considera actualment un astrocitoma grau II. Es va desestimar extirpació quirúrgica de la lesió per localitzar-se en zona eloqüent i va rebre tractament amb radioteràpia que va finalitzar al gener de 2014, aconseguint millora clínica i estabilitat radiològica de la malaltia, mantinguda en controls successius amb ressonància magnètica (RM) cerebral fins a juny de 2017.
+En aquesta data, trobant-se el pacient asimptomàtic, es va realitzar nou control amb RM cerebral que va mostrar progressió tumoral a nivell de lòbul frontal esquerre, amb dades radiològiques suggeridores d'augment de grau. Es va presentar el cas en el comitè de tumors neurològics i es va programar realització de biòpsia per a confirmació de grau i posterior administració de quimioteràpia sistèmica.
+
+Anamnesi
+Home de 55 anys amb els antecedents prèviament descrits que acudeix a Urgències el 30 de juliol de 2017 per quadre d'alteració del llenguatge d'aproximadament tres dies d'evolució, juntament amb desviació de la comissura bucal dreta d'aparició en les últimes 24 hores.
+
+Exploració física
+El pacient es troba hemodinámicamente estable. No presenta ingurgitació jugular. L'auscultació cardiopulmonar no mostra alteracions. L'exploració abdominal és normal. No existeixen edemes en extremitats inferiors ni signes de trombosi venosa profunda.
+En l'exploració neurològica, s'objectiva una afàsia motora i una paresia facial central dreta, sense altres alteracions.
+
+Proves complementàries
+Es realitza TC cranial urgent sense contrast que mostra gran edema vasogénico frontal esquerre en probable relació a progressió de la lesió ja coneguda, sense altres complicacions aparents.
+
+Diagnòstic
+Progressió clínica i radiològica, amb gran edema cerebral vasogénico esquerre, de astrocitoma cerebral grau II.
+
+Tractament
+Davant la repercussió clínica de la progressió tumoral, amb presència d'important edema vasogénico, s'instaura tractament corticoide intravenós amb dexametasona a dosi de 4 mg cada 6 hores.
+
+Evolució
+Es decideix ingrés a càrrec del Servei de Neurocirurgia per a vigilància clínica estreta i realització de nova RM cerebral, la qual mostra progressió tumoral a nivell subcortical frontal esquerre, amb dades radiològiques d'alt grau i s'acompanya de significatiu edema vasogénico i efecte de massa sobre els solcs de la convexitat i la línia mitjana.
+Durant l'ingrés, el pacient presenta favorable evolució clínica, iniciant-se disminució gradual de la dosi de corticoides. En el moment de l'alta, presenta bon estat funcional, amb una puntuació en l'escala ECOG de 0.
+Des del punt de vista oncològic, davant les troballes radiològiques de progressió amb augment de grau i l'empitjorament neurològic d'interval curt, es decideix desestimar la realització de biòpsia cerebral per a iniciar tractament quimioteràpic amb temozolamida a dosi de 150 mg/m² via oral durant 5 dies (dosi total: 280 mg) cada 28 dies. Amb data 07/08/2017 s'inicia el primer cicle amb bona tolerància.
+Es reavalua la malaltia després de quatre cicles de tractament, evidenciant-se en RM cerebral la resolució de pràcticament tot l'edema vasogénico i desaparició de les lesions frontals presents en la RM prèvia. Davant la favorable resposta radiològica es continua tractament amb temozolamida a la mateixa dosi, rebent un total de set cicles, l'últim el 07/03/2018. Durant aquest període de temps, el pacient es troba clínicament asimptomàtic a excepció d'algun episodi lleu de mareig i no presenta reaccions adverses a la temozolamida.
+No obstant això, des de l'administració de l'últim cicle de temozolamida, el pacient presenta una deterioració clínica significativa, amb alteracions de la parla i l'escriptura. S'instaura tractament amb dexametasona 2 mg cada 12 hores via oral i se sol·licita nova RM (09/04/2018) que mostra extensa progressió tumoral, fonamentalment a nivell de la convexitat inferior i de les estructures operculars silvianas. Confirmada la progressió, s'inicia segona línia de tractament amb fotemustina, rebent el primer cicle el 10/04/2018. En el moment actual, el pacient es troba asimptomàtic i està pendent d'acudir a consulta per a control clínic i de toxicitat.

@@ -1,0 +1,33 @@
+Anamnesi
+Home, 57 anys, fumador de 20 cigarrets al dia des de fa més de 40 anys, bevedor moderat i amb antecedent d'infeccions dentàries de repetició sense altres malalties mèdic-quirúrgiques d'interès. Presenta quadre ràpidament progressiu, no brusc, d'aproximadament 72 hores d'evolució, consistent en feblesa cada vegada més intensa en l'extremitat superior esquerra, sense dolor ni símptomes sensitius. El pacient negava cefalea i/o cervicalgia. Uns 20 dies abans referia haver presentat un episodi autolimitat en 48 hores de dolor punxant de característiques pleurítiques a la regió costal esquerra que irradiava a l'espatlla i a l'arrel de l'extremitat superior ipsilaterales. Des d'aquest episodi manifestava tos productiva ocasional amb esput groguenc i brins de sang, acompanyada de febre en pics de fins a 38 oc. Així mateix, relatava pèrdua ponderal d'uns 8 kg en els últims 4 mesos associat a astènia, sense hiporexia.
+Com a antecedent previ a la síndrome constitucional havia sofert un flegmó dentari amb abundant supuración, tractat amb amoxicilina i antiinflamatoris.
+
+Examen físic
+Exploració general: temperatura 36 oc, tensió arterial 174/96 mmHg, freqüència cardíaca 99 lpm. Saturació d'O2 basal 99%. Glucèmia capil·lar: 250 mg/dl. Pell i mucoses: no estigmes cutanis de endocarditis ni de venopunción. Cap i coll: no adenopaties palpables. Càries dentals. Tòrax, abdomen i extremitats: normals. Exploració neurològica: funcions corticals normals. Parells cranials normals. Sistema motor: hemiparèsia braquio-crural esquerra desproporcionada (0/5 ESI amb afectació global de la musculatura distal i proximal; 4+/5 EII). REM simètrics, presents en les quatre extremitats, vius (+++/++++). RCP flexor bilateral. Sistema sensitiu: normal. Funció extrapiramidal i cerebel·losa: normals. Marxa i bipedestació: lleu paresia amb EII. Signes meningis: absents.
+
+
+Proves complementàries
+• Bioquímica: destacava glucèmia de 266 mg/dl, hemoglobina glicada de 11,3% i elevació de reactants de fase aguda (RFA) com PCR (3,94 mg/dl); resta de paràmetres dins de la normalitat.
+• Hemograma: destacava leucocitosis (14.100/μl) amb neutrofilia (74,9% neutròfils), macrocitosis (VCM 102,6 fl) sense anèmia i sèrie plaquetària normal.
+• Coagulació: normal.
+• Estudi microbiològic en sèrum: negatiu per a VIH, sífilis, VHC i VHB.
+• Sistemàtic d'orina i sediment: normals. Estudi pulmonar:
+• Radiografia de tòrax posteroanterior i lateral: imatge ben delimitada de consolidació en el lòbul inferior esquerre (LII).
+• Tomografia computada (TC) toràcica amb CIV: lesió de 5,3 x 3,4 cm localitzada en la base pulmonar esquerra, de paret gruixuda i contingut hidroaéreo suggestiva d'abscés pulmonar. Radiografia de tòrax posteroanterior que mostra una imatge consolidante ben delimitada en el lòbul inferior esquerre. Imatge de la tomografia computada toràcica amb visualització de l'abscés pulmonar en el LII.
+• Espirometría: normal.
+• Estudi microbiològic de l'esput i LBA per fibrobroncoscopia: tincions per a bacteris, micobacterias (BAAR) i fongs negatives. Cultius (x2) negatius.
+• Biòpsia transbronquial per fibrobroncoscopia: biòpsia del segment 9 del LII negativa per a neoplàsia, compatible amb procés inflamatori abscesificado.
+• PAAF guiada per TC toràcica: punció de la massa pulmonar en el segment 9 del LII amb estudi citològic compatible amb material purulent i cultiu bacterià positiu per a Streptococcus intermedius (membre del grup Streptococcus anginosus). Estudi cardiològic:
+• Electrocardiograma basal: ritme sinusal a 90 lpm, ona P mitral, amb interval P-R i QRS normals, sense alteracions en la repolarització.
+• Ecocardiograma transtorácico: sense evidència de endocarditis ni cardiopatia estructural. Funció biventricular normal. Estudi cerebral:
+• TC cranial amb CIV: es visualitzen dos lesionis ocupants d'espai cerebrals frontals dretes (una cortical i una altra subcortical) amb captació de contrast en anell i edema perilesional.
+• RM cerebral amb administració de contrast: lesió subcortical en el centre semioval i lesió satèl·lit cortical frontals dretes, amb captació de contrast en anell i edema vasogénico perilesional. La lesió subcortical presenta intensa restricció en seqüències de difusió. Ressonància magnètica cerebral. A. S'observa cort axial de seqüència T1w amb contrast que mostra una lesió frontal dreta subcortical amb captació en anell i edema perilesional. B. Es visualitza seqüència de difusió que mostra una marcada restricció de la mateixa lesió.
+
+Diagnòstic
+Abscessos piógenos pulmonar i cerebrals per Streptococcus intermedius, amb focus odontógeno.
+
+
+Tractament Es va iniciar tractament antibiòtic empíric amb meropenem i metronidazol, substituït per ceftriaxona i metronidazol després d'obtenir els resultats del antibiograma. No obstant això, a causa de l'aparició d'un rash cutani amb eosinofília, es va tornar a modificar la antibioterapia a linezolid 600 mg/12 h (3 setmanes de tractament) i moxifloxacino 400 mg/24 h (90 dies de tractament). Durant els primers dies va ser necessari associar corticoterapia (dexametasona) per a disminuir l'edema vasogénico cerebral. Per a l'adequat control glucèmic el pacient va requerir tractament amb insulinoterapia (insulina lispro i insulina glargina).
+
+Evolució
+El pacient va presentar una molt bona evolució clínica, amb resolució completa de la focalidad neurològica després d'iniciar tractament antibiòtic i corticoideo. En els estudis posteriors de seguiment amb RM cerebral es va objectivar una progressiva disminució de la grandària dels abscessos cerebrals fins a la seva desaparició, així com de l'edema cerebral vasogénico i de l'abscés pulmonar.

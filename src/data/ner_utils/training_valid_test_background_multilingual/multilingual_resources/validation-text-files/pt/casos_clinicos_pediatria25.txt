@@ -1,0 +1,51 @@
+MOTIVO DE CONSULTA
+- Um rapaz de 6 anos de idade consultado em 13-03-20 no serviço de urgência do hospital para uma tosse contínua de 3 dias de evolução e a descoberta de um infiltrado no raio-X torácico solicitado pelo seu pediatra particular.
+- Tinha sido tratado com salbutamol durante 24 horas, sem qualquer melhoria.
+- Sem febre ou outros sintomas acompanhantes.
+- Nenhum historial de contacto com casos da COVID-19 ou ambiente epidémico em casa.
+
+HISTÓRIA PESSOAL
+- Recém-nascido a termo. Período neonatal normal.
+- Detecção fetal de ectasia pielíaca direita. Seguimento pela nefrologia pediátrica com diagnóstico de megaureter direito.
+- Asma induzida por vírus a ser tratada com salbutamol a pedido.
+
+EXAME FÍSICO
+Ta: 37oC Sat.O2: 98% FR: 24 r.p.m FC:90 l.p.m
+- Bom estado geral. Coloração normal da pele e das mucosas. Sem exantema. Não há sinais de problemas respiratórios.
+- ACR: Normal. Boa ventilação bilateral. Sem sons patológicos.
+- Abdómen: Normal.
+- OTORRINOLARINGOLOGIA: Orofaringe eritematosa sem exsudados.
+
+EXPLORAÇÕES COMPLEMENTARES
+Radiografia do tórax (relatada por radiologista):
+Infiltração retrocardíaca esquerda com aumento de broncograma de ar. Padrão intersticial hilar bilateral associado. Seios nasais livres.
+
+ANALÍTICOS:
+EXPLORAÇÕES COMPLEMENTARES
+ - Hemograma: Hb 13.8, leucócitos 9880 (N 4841, L 3062).
+- Bioquímica: Glucose 101, GPT 11, CK 103, - CRP:14,7mg/L
+- Gás de sangue venoso: PH 7,35, PCO2 36,5
+Tendo em conta a radiologia compatível com um possível caso COVID-19, foi decidido solicitar o seguinte ao ED:
+PCR SARS-CoV-2: POSITIVO
+
+EVOLUÇÃO
+- Permaneceu afebril e assintomático, mantendo uma saturação adequada de O2 sem necessidade de oxigenoterapia.
+- Após um resultado positivo para a PCR SRA-CoV-2, e dada a escassa sintomatologia, a alta foi decidida no mesmo dia de admissão.
+- Depois de explicar as medidas de isolamento, foi efectuada uma monitorização domiciliária.
+
+DIAGNÓSTICO
+- Infecção respiratória pela SRA-CoV-2 com sintomas ligeiros.
+- Tosse, equivalente asmático.
+
+TRATAMENTO
+- Salbutamol com câmara espaçadora a pedido.
+- Paracetamol, se febre.
+- São dadas directrizes de alarme e ficha de informação com recomendações.
+- Insistir no isolamento doméstico.
+- Acompanhamento telefónico da evolução da doença pelo pediatra de cuidados primários.
+
+FOLLOW-UP
+- Foi realizado um acompanhamento telefónico pelo seu pediatra de cuidados primários, e não foi necessária qualquer consulta presencial ou testes complementares, dada a boa evolução do processo.
+- Ela não apresentou febre ou outros sintomas nas semanas seguintes.
+- Não houve casos de COVID-19 no resto dos membros da família, nem antes nem depois deste caso.
+- A criança foi questionada sobre um possível contacto com um caso mas não foi identificada, sendo a escola atribuída como o local mais provável de infecção.

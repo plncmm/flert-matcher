@@ -1,0 +1,30 @@
+Anamneză
+Un bărbat în vârstă de 59 de ani, fără alergii la medicamente. Fost fumător, cu un indice de 15 ani-mpachet (PPI) și etilism activ. Obezitatea morbidă și hipertensiunea arterială. Antecedente de transplant hepatic în 2014 pentru ciroză alcoolică, în prezent sub tratament imunosupresor cu everolimus.
+
+Antecedente oncologice
+Pacientul a debutat în 2014 cu o leziune hepatică în segmentul V-VIII sugestivă de hepatocarcinom. A fost supus unei intervenții chirurgicale, iar studiul anatomopatologic a sugerat metastaze de adenocarcinom, cu citokeratină 7 pozitivă și negativă pentru CD10 și hepatocit. Apoi a fost urmărit cu tomografii computerizate (CT) la șase luni. La CT toraco-abdominal (mai/2017): doi noduli pulmonari, unul în lobul superior stâng (LSI) și unul în lobul superior drept (LSD), care au crescut față de CT-ul anterior. În noiembrie/2017, biopsia nodulului LSI a fost frustrată din cauza dimensiunilor mici și a accesibilității reduse.
+În septembrie 2018, ambele leziuni au fost biopsiate cu succes. Nodulul LSI a prezentat metastaze de colangiocarcinom, în timp ce nodulul LSD a prezentat o atipie celulară de semnificație incertă.
+Odată cu diagnosticul de metastaze pulmonare din colangiocarcinom, pacientului i s-au explicat alternativele, chimioterapie versus cele mai bune îngrijiri de susținere, precum și oportunitatea retragerii alcoolului și ajustarea terapiei imunosupresoare. După ce și-a exprimat dorința de a urma un tratament oncologic activ și ținând cont de faptul că este un pacient imunosupresat din cauza unui transplant, gemcitabina a fost începută în februarie/2019 în doză de 1.000 mg/m2 bisăptămânal, cu intenția de a asocia cisplatin dacă există o toleranță bună. A prezentat trombopenie și neutropenie de gradul 3 după primul ciclu, astfel că nu s-a administrat niciun tratament în ziua 15 și nu s-a luat în considerare platina. Ea a continuat de la al 2-lea ciclu cu doze reduse cu 20% și a primit al 4-lea ciclu în mai 2019.
+Patru zile mai târziu, a prezentat diaree asociată cu insuficiență renală prerenală și a necesitat internare în spital la 09/05/2019. În timpul spitalizării, s-a obținut rezultatul culturii de scaun: Campylobacter jejuni, pentru care a fost menținut sub tratament antibiotic timp de 10 zile, cu care diareea s-a rezolvat, prezentând ameliorare clinică și a fost externat.
+
+Istoria curentă
+A venit la serviciul de urgență pe 24/05/2019, trimis de la spitalul său local, cu un diagnostic suspect de compresie medulară versus metastază cerebrală. Pacientul a început să acuze o pierdere progresivă a forței, mai ales la nivelul membrelor inferioare (MMII), în 4 zile de evoluție, ceea ce l-a împiedicat să meargă și chiar să stea în picioare, extinzându-se la nivelul membrelor superioare (MMSS). Ea nu a prezentat niciun deficit senzorial. Având în vedere această stare, i s-a administrat o doză de corticosteroid (8 mg dexametazonă IV) și a fost transferat la spitalul nostru.
+
+Examinarea fizică
+ECOG 2. Orientarea în cele trei sfere. Nivel bun de conștiință. Păstrarea funcțiilor superioare. Strabism divergent cunoscut încă din copilărie (neagă diplopia), mișcări oculare normale, fără defecte campimetrice prin confruntare. Față centrată, perechi inferioare normale (pilieri palatini simetrici, uvula centrată, perechea XII fără alterări). Tetrapareză simetrică cu predominanță distală, cu implicare mai mare a MMII. Echilibrul muscular, în MMSS: 4/5 proximal și 2/5 distal; MMII: 1/5 proximal și 1/5 distal. Lassegue pozitiv și bilateral. Nu există implicare senzorială. Reflexia universală. Reflexul cutanat plantar indiferentă (CPR). Nu există durere dorsolombară.
+
+Teste complementare
+"CBC: hemogramă, biochimie și coagulare normale (cu excepția fibrinogenului 887).
+"Radiografie toracică: noduli pulmonari deja descriși în rapoartele anterioare.
+"Tomografie cranioencefalică de urgență: fără descoperiri patologice.
+
+Diagnostic
+Poliradiculopatie acută demielinizantă sau sindrom Guillain-Barré (GBS) la un pacient imunodeprimat cu antecedente de infecție cu Campylobacter jejuni. El a fost clasificat în subtipul de SGB: neuropatie motorie axonală acută (AMAN).
+
+Tratament
+A fost internat pentru tratament cu imunoglobuline IV și a fost supravegheat îndeaproape din cauza posibilității de progresie a bolii și de afectare a mușchilor respiratori.
+
+Evoluție
+S-a efectuat puncție lombară, obținându-se un lichid cefalorahidian (LCR) cu caracteristici anodine (fără disociere albumină-citologie). Cu toate acestea, tabloul este foarte sugestiv pentru o poliradiculopatie demielinizantă (tetrapareză cu areflexie universală, precedată de o infecție cu Campylobacter jejuni), și fără date care să sugereze o leziune medulară, deoarece nu există un nivel senzitiv.
+Studiile neurofiziologice au fost completate (29/05/2019) cu electromiografie (EMG) și electroneurografie (ENG), care au fost compatibile cu o poliradiculonevrită axonală acută cu o predominanță motorie clară.
+Pacientul a fost tratat timp de 5 zile cu imunoglobuline IV, evoluția a fost lentă, dar favorabilă, cu creșterea progresivă a forței musculare.

@@ -1,0 +1,28 @@
+Un uomo di 53 anni è stato ricoverato nell'Unità di terapia intensiva cardiaca (CICU) dopo essersi ripreso da un arresto cardiorespiratorio in strada.
+
+Storia personale
+Ipertensione arteriosa in trattamento con enalapril 20 mg. Diabete mellito di tipo 2 in trattamento con metformina. Iperuricemia con diversi episodi di artrite gottosa. Al trattamento con allopurinolo.
+
+Malattia attuale
+I testimoni riferiscono che, mentre lavorava (cuoco) e senza riferire alcun sintomo precedente, è svenuto con perdita di coscienza. Dopo l'approccio iniziale dei testimoni, è stato contattato il 112, è stata rilevata l'assenza di respirazione o di segni di vita e sono state avviate le manovre di rianimazione cardiopolmonare di base. Dopo 7 minuti, dopo l'arrivo del Basic Life Support (112), un ritmo defibrillabile viene rilevato dal DAE. Sono stati applicati fino a 4 shock con i corrispondenti cicli 30:2 insieme a 2 boli di adrenalina e 300 mg di amiodarone. Dopo il quarto shock il paziente ha recuperato il ritmo sinusale a 92 bpm ed è stato trasferito al CICU sedato, intubato e collegato alla ventilazione meccanica.
+
+Esame fisico
+Sedoanalgesia. RASS -4. Pupille isocoriche, miotiche e reattive. Pressione 95/45; HR 125 bpm; saturazione periferica di O2 100% con FiO2 del 100%. Suoni cardiaci ritmici e tachicardici senza mormorii. Murmure vescicale conservato bilateralmente. Addome leggermente disteso e timpanico. Suoni intestinali presenti. Arti inferiori senza edema e pulsazioni bilaterali presenti e simmetriche.
+
+TEST COMPLEMENTARI
+CBC: emoglobina 14,5 g/dl; leucociti 12.900 (36 % N); piastrine 191. 000; attività protrombinica 100%; creatinina 1,2 mg/dl; GFR (MDRD-4) 67 ml/min; glucosio 293 mg/dl; BUN 17 U/L; sodio 142 mee/l; potassio 3,9 meq/l; GOT 197 U/l; GPT 159 U/L; troponina I 0,045 ng/ml; NT-proBNP 636 pg/ml; CRP < 5 mg/l. Picco di troponina I: 3 ng/ml.
+Tossicità delle urine: cocaina, anfetamine, cannabis negativo.
+Radiografia del torace: leggero aumento dell'indice cardiotoracico. Nessuna prova di infiltrazioni. Il tubo endotracheale è centrato e posizionato normalmente.
+Bilancio A-B all'arrivo: pH 7,34; pO2 427; pCO2 48; HCO3 25,9; lattico 7,6 mmol/l. 
+Ecocardiografia transtoracica: ventricolo sinistro leggermente ipertrofico con alterazioni segmentali della contrattilità. Funzione sistolica ventricolare sinistra moderatamente ridotta. Rilassamento prolungato del ventricolo normale con funzione sistolica normale.
+TAC cranica: nessuna alterazione significativa della densità parenchimale del cervello. Sistema ventricolare di dimensioni e morfologia normali, senza spostamenti rispetto alla linea mediana. Non sono stati osservati segni di emorragia intracranica.
+Risonanza magnetica cardiaca: ventricolo sinistro non dilatato con moderata disfunzione ventricolare sinistra. Aumento intramiocardico patchy intramiocardico nella faccia anteriore e posteriore medio-apicale. Risultati compatibili con una miocardite acuta.
+
+EVOLUZIONE
+Il paziente è stato ricoverato in CICU e gli è stato incanalato un accesso venoso femorale per l'ipotermia indotta per le prime 24 ore a 33°C. È stato tenuto sedato e anestetizzato. È rimasto sedato e rilassato, con una tendenza alla bradicardia e all'ipotensione arteriosa. L'ambiente interno viene corretto, ottenendo la normalizzazione della lattacidemia e del pH. Dopo 24 ore di ipotermia, è stato iniziato il riscaldamento progressivo, il ritiro del rilassamento e la sospensione graduale della sedazione. Settantadue ore dopo l'ammissione, il paziente ha presentato movimenti anormali, come i brividi, in coincidenza con un aumento della temperatura (38°C), per cui è stato richiesto un EEG, che ha escluso la presenza di uno stato convulsivo. La terapia antibiotica è stata intensificata (ceftriaxone + clindamicina) dopo aver trovato un infiltrato basale destro sulla radiografia, probabilmente legato all'aspirazione durante l'intubazione. Lo svezzamento è progredito fino all'estubazione il 5° giorno. La TAC cranica dopo l'estubazione non ha mostrato alterazioni di interesse.
+Il monitoraggio in CICU ha rilevato la presenza di extrasistoli ventricolari senza aritmie sostenute. L'angiografia coronarica ha mostrato arterie coronarie prive di lesioni ostruttive significative. Una volta nel reparto ospedaliero, è rimasto in riabilitazione asintomatica. La risonanza magnetica cardiaca ha mostrato un assorbimento intramiocardico frammentario compatibile con la miocardite e la funzione ventricolare sinistra era moderatamente depressa (38%). Due settimane dopo l'ammissione, un ICD monocamerale è stato impiantato, senza incidenti, per la prevenzione secondaria della morte improvvisa secondaria alla cardiomiopatia dovuta alla miocardite.
+
+DIAGNOSI
+Arresto cardiorespiratorio recuperato.
+Polmonite aspirativa.
+Cardiomiopatia secondaria a miocardite.

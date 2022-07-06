@@ -1,0 +1,44 @@
+Uma menina de dois anos foi transferida para o Hospital Virgen de la Salud em Toledo por pneumonia do lobo superior direito (RUP) com efusão pleural associada para drenagem. Foi transferida numa ambulância não medicalizada com oxigénio em óculos nasais às 3 bpm. Tratamento antibiótico intravenoso com ampicilina a 200 mg/kg/dia durante 48 horas com a adição de cefotaxima durante as últimas 24 horas. Os sinais vitais do doente são frequência cardíaca (HR): 160 bpm, pressão arterial (BP): 100/50 mmHg, SatO2 99% com óculos nasais a 3 bpm, temperatura (Ta) 38,6°C, frequência respiratória (RF) 40 rpm. À chegada estava em bom estado geral, palidez intensa da pele e das mucosas, gradiente térmico de 3°C nos joelhos e cotovelos, reenchimento capilar de 5 s. Perturbação respiratória com rebocos sub e intercostais moderados. Auscultação cardíaca rítmica sem murmúrios e auscultação pulmonar com hipoventilação marcada no campo pulmonar direito. O abdómen é mole e depressável, hepatomegalia de 2 cm de margem costal, exame neurológico consciente e orientado, meníngeo negativo. O paciente expandiu-se inicialmente para 20 ml/kg, a perfusão melhorou e o gradiente térmico desapareceu, mas a taquicardia persistiu.
+
+Dadas estas descobertas, devemos suspeitar:
+a. Síndrome da resposta inflamatória sistémica (SIRS).
+b. Sepsis.
+c. Sépsis severa.
+d. Choque séptico.
+e. Pneumonia Isolada por LSD.
+
+No nosso caso existem critérios para a sepsis com disfunção de dois ou mais órgãos mas sem satisfazer os critérios para o choque séptico.
+
+Os resultados do controlo analítico estão dentro:
+- Hemograma: hemoglobina 6,9 g/dl, hematócrito 19,2%, plaquetas 18.000x106/L, leucócitos 15.500x106/L.
+- Bioquímica: glicose 91 mg/dl, ureia 105 mg/dl, creatinina (Cr) 1,29 mg/dl, GOT 227 U/L, GPT 55 U/L.
+- Gases sanguíneos venosos: pH 7,31, pCO2 45 mmHg, pO2 134 mmHg, HCO3 - 22,7 mmol/L, excesso de base -3,3.
+Coagulação: T. protrombina 83%, INR 1.1, T. cefalina 54,4 s, fibrinogénio 954 mg/dl.
+
+Um concentrado de plaquetas foi transfundido a 20 ml/kg e uma veia femoral direita foi canulada. Começou com o aumento do desconforto respiratório e epistaxe grave, que era difícil de controlar. Foi decidido notificar a ORL, que colocou um tamponamento anterior. Apesar do tamponamento, a hemorragia persistiu e ele começou a ficar sonolento e o seu nível de consciência diminuiu. Dado o baixo nível de consciência e hemorragia significativa, o paciente foi sedoanalgesiado e as vias respiratórias foram fixadas com intubação. Subsequentemente, uma vez estabilizada, a presença de derrame pleural foi verificada por ultra-sons, mostrando evidência de derrame pleural encapsulado medindo 3 cm desde a omoplata até ao diafragma. Foi colocado um tubo de drenagem pleural na área de maior acumulação; 5º espaço intercostal e linha axilar posterior. Após entubação, o paciente estava hipotenso, mostrando sinais de gradiente térmico, frio distal e má perfusão, pelo que a dopamina foi iniciada a 5 μg/kg/min. A análise ao sangue foi prolongada e mostrou LDH elevado, bilirrubina elevada, reticulócitos aumentados e haptoglobina diminuída.
+
+A possível etiologia da condição era a seguinte:
+a. Síndrome hemolítica uraémica (HUS) secundária a pneumococo.
+b. Choque séptico secundário a uma pneumonia complicada.
+c. Anemia hemolítica auto-imune (AHAI).
+d. Púrpura trombocitopénica-trombótica (TTP).
+e. Glomerulonefrite pós-infecciosa aguda (APGN).
+
+Pensaríamos antes de mais em HUS uma vez que o choque séptico está associado à coagulopatia, que não está presente no nosso caso. HUS secundária a pneumococo causa 40% de HUS não-E. coli. Na sua patogénese, a neuraminidase pneumocócica degrada o ácido siálico que cobre o Ag T nas membranas dos glóbulos vermelhos, plaquetas e endotélio glomerular, o qual é exposto. Reconhecimento de Ag T por AutoAc (IgM): causa hemólise, agregação plaquetária e dano endotelial: Cooms directo +.
+
+Na nossa suspeita, será provavelmente positivo:
+a. Cooms directos e Ag pneumocócica em fluido pleural.
+b. Cultura de fezes para E. coli.
+c. Actividade ADAMTS 13 < 5%.
+d. Estudo genético com mutação do factor H.
+e. Teste rápido positivo para H1N1.
+
+O diagnóstico etiológico das HUS deve incluir o estudo de:
+- E. coli: teste rápido (ELISA) para detecção de STx em fezes, cultura de fezes, cultura em ágar Mac Conkey sorbitol, PCR, serologia, hemocultura.
+- Pneumococo: teste rápido para detecção de Ag pneumocócica em líquido pleural, teste directo positivo de Coombs, culturas (sangue, expectoração, LCR...), teste de Coombs.
+- HIV, H1N1: serologia.
+- MUITO IMPORTANTE NO EVENTO DAS CASAS SUSPECTADAS, recolher uma amostra de plasma antes das transfusões para PEDIR: ADAMTS 13 actividade e estudo do complemento C3, C4, CH50, FH, FI, FB, em caso de CASAS Atípicas.
+
+Os níveis de ureia do nosso paciente subiram para 114 e creatinina para 1,33 apesar do tratamento diurético, com hiperfosfatemia e hiperkalaemia refratária, com um balanço de +1.000 ml e diurese de 0,7 cc/kg/h.
+
+O paciente foi ligado ao HDFVVC durante 72 horas, retirando-se após o Cr ter diminuído para 0,97 e a Ureia para 91, e recuperando uma diurese de 3 cc/kg/h com furosemida. A pneumonia foi inicialmente tratada com cefotaxima e vancomicina. No 5º dia de admissão, após ter piorado com AFR elevado, foi mudado para meropenem e linezolida. Amikacin foi acrescentado 4 dias mais tarde (8º dia de MV). Amikacin foi mantido por 4 dias (até 48 horas após a extubação), linezolida por 10 dias e meropenem por 13 dias. Por suspeita de pneumonia séptica, foram administradas três doses de uroquinase. Como complicação secundária no 4º dia de VM, a atelectasia massiva do pulmão esquerdo e do pneumotórax direito requereu VAFO durante 5 dias, e depois continuou com CMV por mais 48 horas. A PA permaneceu em valores normais elevados durante 48 horas, sem necessitar de tratamento anti-hipertensivo. O tratamento diurético foi retirado no 18º dia de admissão, com normalização da função renal. Dada a persistência do pneumotórax, o tubo de drenagem foi mantido até ao 28º dia de admissão. Ela foi revista no departamento de pneumologia com persistência de 2 bolhas de pneumotórax nos campos anteriores direitos, com persistência de paquipleurite. Função renal normalizada.

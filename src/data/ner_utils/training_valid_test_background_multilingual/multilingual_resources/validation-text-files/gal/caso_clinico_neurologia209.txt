@@ -1,0 +1,27 @@
+Anamnesis
+Varón de 57 anos en seguimiento desde fai un ano por un cadro de hipoestesia en mans e pés, de comezo no ano previo. Dislipémico e exenolismo severo ata fai 5 anos. Na anamnesis negaba antecedentes familiares de interese. O paciente acudiu a consultas por quemaduras indolentes nas mans, con hipoestesia de distribución nos dedos 2 e 3 da man dereita e dedo 5 esquerdo, cun empeoramiento posterior rápidamente progresivo afectando de forma difusa ás mans e os membros inferiores (MMII) ata os xeonllos, seguindo unha distribución en luva e calcetín. Estes síntomas acompañábanse de torpeza motora distal nas mans. Lesionouse a nivel distal nas extremidades sen darse conta, ata lle suturaron sen precisar anestesia. Negaba síntomas sugerentes de disautonomía, así como sintomatología sistémica ou constitucional.
+
+Exame físico
+Exploración sistémica normal. Non existían lesións dérmicas ou nas mucosas. Tampouco tiña deformidades articulares nin se palpaba engrosamiento dos troncos nerviosos. Na exploración neurológica inicial as funcións mentais superiores estaban conservadas. A linguaxe era normal. Os pares craneales non tiñan alteracións. No balance muscular existía unha discreta paresia (4/5) do abductor curto do primeiro dedo da man dereita e do primeiro interóseo dorsal da esquerda, sen atrofia nin fasciculaciones. Na exploración sensitiva presentaba unha hipoestesia nos membros superiores (MMSS), máis marcada a nivel do territorio do nervio mediano na man dereita e cubital na esquerda. Nos MMII afectaba ata os xeonllos con anestesia total distal. Non existía disminución da sensibilidade vibratoria. Presentaba unha anhidrosis marcada distal, con trastornos tróficos como perda do vello. A marcha era normal, Romberg negativo. Reflexos osteotendinosos conservados con reflexo cutáneo-plantar indiferente.
+Unha nova exploración 5 meses despois evidenció unha distribución máis difusa da hipoestesia a nivel distal, así como unha debilidade máis marcada con hipotrofia da musculatura cubital da man esquerda asociada a unha atrofia do abductor curto do primeiro dedo da man dereita. Estes achados eran indicativos dunha multineuritis.
+
+Probas complementarias
+• Analítica sanguínea: hemograma, bioquímica e coagulación normais. HDL e LDL-colesterol normais. Función tiroidea e marcadores tumorales normais. Estudo autoinmune con ANA, C-ANCA, P-ANCA e anti-Ro negativos. Anticorpos antigangliósidos (anti-GM1 e GQ1b IgG) negativos. Crioglobulinas negativas. Inmunoglobulinas e proteinograma normal. Inmunoelectroforesis sen achados de gammapatía. ECA normal.
+• Serología sérica para VIH, VHB, VHC e Borrellia negativa.
+• Tomografía computarizada tóraco-abdómino-pélvica: normal.
+• Resonancia magnética de columna cervical e cráneo: sen achados reseñables.
+• Estudo de líquido cefalorraquídeo (LCR): citoquímica normal, sen disociación albúminocitológica. Citología, cultivo bacterias e PCR virus negativos.
+• Análísis da actividade de alfa-galactosidasa A normal (estudo de enfermidade de Fabry negativo).
+• Electroneurografía e electromiogramas (EMG/ENG) seriados:
+- Achados iniciais compatibles con neuropatía sensitivo-motora, principalmente de carácter desmielinizante severo aínda que tamén axonal. Predomino nos MMSS, asimétrica e con gran cronodispersión, aumento de latencias e velocidades de condución baixas, amplitud dos potenciais motores (CMPA) descendida e sensitivos case inevocables. Electroneurografía con potencial mediano motor con gran cronodispersión, aumento de latencia e disminución de amplitud.
+- Cambio do patrón de afectación en sucesivos EMG/ENG: desaparición de potenciais sensitivos (NR). Baixada severa nas amplitudes de CMPA, persistindo unha gran cronodispersión das respostas con latencias distales alargadas. Afectación parcheada, xa que algúns nervios como o radial dereito ou o peroneo motor esquerdo presentaron valores normais, achado sugerente dunha multineuritis. EMG con patrón neurógeno reducido.
+- Biopsia sural: severa neuropatía evolucionada con perda completa de todas as fibras, inflamación e presenza de bacilos intracelulares con tinción de Fite positiva compatible con lepra lepromatosa. Biopsia de nervio sural: obsérvanse numerosos bacilos Fite positivos.
+
+Diagnóstico
+Multineuritis infecciosa por Mycobacterium leprae.
+
+Tratamento
+Iniciouse tratamento específico con rifampicina, dapsona e clofazimina.
+
+Evolución
+Ante a sospeita inicial dunha neuropatía inmunomediada probáronse varias tandas de Ig i.v. e corticoides orais, sen referir mejoría. A clínica continuou progresando, chegando a desenvolver lesións ulcerosas nos pés.

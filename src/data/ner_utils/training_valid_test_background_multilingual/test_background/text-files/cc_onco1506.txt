@@ -1,0 +1,22 @@
+Anamnesis
+Mujer de 65 años de edad, con antecedentes personales de hipotiroidismo en tratamiento con levotiroxina, apendicentomizada y colecistectomizada.
+Alergia a contrastes iodados. Consulta en múltiples ocasiones durante tres años en Urgencias de centro de especialidades por malestar epigástrico y pirosis, con exacerbación de la clínica con ingesta de ciertos alimentos. Se le realiza una ecografía, localizándose un tumor de 25 x 27 mm, en la curvatura mayor antral en la capa muscular, por lo que se tipifica de tumor estromal, con biopsia sin hallazgos patológicos. Ante hallazgo, se deriva a Servicio de Cirugía General.
+
+Exploración física
+Buen estado general. Tensión arterial 120/80 mm Hg y frecuencia cardíaca 90 lpm. Afebril. Normocoloreada y normohidratada. Eupneica en reposo.
+A la auscultación cardiopulmonar se objetiva tonos cardiacos rítmicos, sin soplos, con murmullo vesicular conservado y sin ruidos patológicos añadidos. A la palpación abdominal, el abdomen es blando y depresible, con dolor a la palpación en zona epigástrica, con leve defensa, sin signos de peritonismo, no se palpan masas ni megalias. Pulsos periféricos presentes y simétricos, sin signos de hipoperfusión periférica.
+
+Pruebas complementarias
+• Analítica: hemoglobina 12,6 g/dL; VCM 91 fL; leucocitos 4.800/mL (neutrófilos 51,9 %; linfocitos 33,2%); plaquetas 213.000/mL; índice de Quick 100%; INR 0,93; glucosa 83 mg/dL; sodio 142 mEq/L; potasio 4,3 mEq/L; creatinina 0,89 mg/dL; urea 36 mg/dL; GOT 25 U/L; GPT 17 U/L; fosfatasa alcalina 67 U/L; GGT 16 U/L; ácido úrico 4 mg/dL; LDH 284 U/L; anticuerpos antinucleares (ANA; DNA; ENA) positivo 1/320; dsDNA anticuerpos negativo; ENA screening negativo; factor reumatoide <14 UI/mL; T4L 1,22 ng/dL; TSH 2,95 mUI/mL; CEA 2,3 mg/L.
+• Gastroscopia esofagoduodenal: se evidencia un defecto de repleción de la curvatura mayor de la luz gástrica, de aspecto extrínseco, compatible con tumor del estroma gastrointestinal.
+• TC de extensión: estudio realizado en vacío dado los antecedentes alérgicos de la paciente al yodo. Nódulo de 27 mm localizado en curvatura mayor gástrica sin apreciar lesiones en el resto del estómago. No se identifican lesiones en las vísceras sólidas abdominales. Colecistectomizada. No hay dilatación de la vía biliar. No hay ganglios significativos.
+No hay líquido libre. No se observan lesiones óseas.
+Conclusión: del estroma gastrointestinal sin presencia de metástasis en estudio sin contraste.
+
+Tratamiento y evolución
+Debido a la alta probabilidad de ser un tumor del estroma gastrointestinal, sin resultado de anatomía patológica, el paciente ingresa a cargo del Servicio de Cirugía general, de forma programada para su resección, realizándose gastrectomía parcial laparoscópica.
+Se toman biopsias durante la intervención, siendo el resultado macroscópico de una lesión nodular de 4 x 3,5 x 2,5 cm, bien delimitada, que ocupa toda la submucosa hasta la serosa y no parece rebasarla, la consistencia es blanda y tiene coloración amarillenta.
+Microscópicamente se describe como lesión presenta un índice mitótico de 0-1/10 campo, sin necrosis ni hemorragia, con inflamación crónica limfocitaria en la periferia con borde libre. El estudio inmunohistoquímico puso de manifiesto que la celularidad tumoral es negativa con CD117, CD34, cromogramina, sinaptofisina, desmina, H-caldesmon y actina muscular lisa.
+Con Ki-67, el índice de proliferación es inferior al 5%. Por contra, la celularidad es positiva con vimentina, ENS, S-100 y proteína gliofibrilar ácida. Histológicamente, se trata de una proliferación fusocelular constituida por áreas Antoni A y B, con empalizada periférica y estroma mixoide, algunos vasos hialinizados y ocasionales células pleomórficas.
+Con la anatomía patológica se confirma la alta sospecha de tumor mesenquimático tipificándose, según hallazgos, de schwanoma gástrico.
+Se cita en consultas externas de Oncología Médica, y tras la resección la paciente refiere mejoría de la sintomatología con la desaparición de clínica de reflujo gastrointestinal, así como de molestias y dolor epigástrico. Debido al bajo índice mitótico, la resección completa del tumor y estudios de extensión negativos, se decide control y seguimiento clínico sin necesidad de tratamiento sistémico o radioterápico adyuvante.

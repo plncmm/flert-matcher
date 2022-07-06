@@ -1,0 +1,17 @@
+Paciente varón de 56 años, fumador de 2 paquetes/día con hábito enólico (consumo>100g etanol/día), sin otros antecedentes clínicos personales o familiares de interés que es ingresa en el servicio de Urgencias por un cuadro de deterioro progresivo del estado general de un mes de evolución con intensa astenia (que llega incluso a imposibilitar la deambulación) y pérdida ponderal. A la exploración encontramos un paciente caquéctico (IMC 13.62Kg/m2) y con boca séptica, lengua depapilada y estomatitis como únicos hallazgos reseñables. Se le realiza una analítica en la que destaca una importante pancitopenia: Hb 3.5g/dL (VCM 101fL), leucopenia de 2080 y plaquetopenia de 42000. Bioquímica básica y estudio de coagulación normales. En el área de urgencias se transfunden tres unidades de concentrados de hematíes y se ingresa para estudio, planteándose el siguiente diagnóstico diferencial:
+- Síndrome mielodisplásico.
+- Síndrome mieloproliferativo (mieloma múltiple).
+- Mieloptisis secundaria a metástasis óseas de neoplasia sólida a filiar.
+- Deprivación nutricional.
+- Infección grave (VIH, tuberculosis, virus de Ebstein-Barr, VHB, VHC, citomegalovirus, etc.).
+- Tóxicos.
+En planta de hospitalización se realizan las siguientes pruebas complementarias:
+- Test de tuberculina (Mantoux): negativo
+- Serología para múltiples virus intracelulares: resultados negativos.
+- TCtórax-abdomen: conhallazgosdepancreatitiscrónica,esteatosishepáticadifusa, signos de tuberculosis residual y alteraciones infiltrativas de médula ósea.
+- Estudio de metabolismo del hierro: Sideremia 236mcg/dL, Transferrina 180mg/dL y ferritina 626mcg/L.
+- Frotis de sangre periférica: Neutrófilos hipersegmentados, anisocitosis y poiquilocitosis, sin formas inmaduras o blásticas.
+- Proteinograma: hipergammaglobulinemia policlonal. Proteínas 6.2g/dL y albúmina 3.1g/dL.
+- Determinación de vitamina B12 (146pg/mL, valores de referencia: [211-946pg/mL]) y de ácido fólico (0.9ng/mL, valores de referencia: [2.9-16.9ng/mL]).
+
+Ante estos hallazgos y teniendo en cuenta la historia del paciente, es diagnosticado de anemia megaloblástica con pancitopenia por déficit severo de ácido fólico e hipovitaminosis de B12 por desnutrición calórico-proteica grave, asociada a un síndrome constitucional y enolismo. Se inicia soporte nutricional mediante nutrición enteral complementaria hiperproteica y tratamiento de la hipovitaminosis con ácido fólico oral y cianocobalamina intramuscular, resolviéndose el cuadro hematológico en 15 días y siendo dado de alta para seguimiento ambulatorio.

@@ -1,0 +1,37 @@
+Motivo de consulta
+Desorientación, alucinaciones visuales y debilidad en MMII.
+
+Enfoque individual (anamnesis, exploración, pruebas complementarias)
+Antecedentes personales: mujer 81 años. RAMs: fosfomicina. FRCV: DM tipo 2, HTA, DLP. Cardiopatía isquémica revascularizada en 2007. Parkinsonismo vascular. Leucoencefalopatía vascular de pequeño vaso. Colecistectomizada.
+Tratamiento habitual: Citalopram, AAS, Atorvastatina, Atenolol, Clorazepato dipotásico, Ranolazina, Sitagliptina, Enalapril, Mononitrato de isosorbide, Lantus.
+Vida basal: parcialmente dependiente para ABVD, requiriendo ayuda para el vestido y aseo. Camina con andador. Funciones superiores conservadas. Vive con su marido.
+Enfermedad actual: derivada desde AP, por presentar desde hace 3 días alucinaciones visuales, confusión y bradipsiquia, junto con debilidad y astenia. El familiar refiere fiebre termometrada con pico de 38oC hace dos días, que cedió sin necesidad de paracetamol. En tratamiento con Nitrofurantoína (3 tomas) por sospecha de foco urológico, ya que, al parecer, había presentado orinas colúricas en últimos días, sin síndrome miccional y sin acolia. No alteración de hábito intestinal. No disnea ni dolor torácico. Sin otra sintomatología.
+Exploración: REG. COC, aunque bradipsíquica. TA: 88/50, SatO2 98% a/a, Temp 36oC, FC 65. Ligero tinte ictérico, sobre todo en MMII, menos evidente en mucosas. Orina colúrica.
+AC: rítmica
+AP: aceptable mv
+Abdomen blando, depresible, no doloroso a la palpación. Sin signos de irritación peritoneal. MMII: ligeros edemas
+Neurológico: no signos de focalidad. No afasia ni disartria.
+
+Pruebas complementarias:
+GSV: pH 7.35, K 4, Na 134, Lac 3.1, Gluc 160
+Analítica: leucocitos 11830 (93,7%S), Hb 10.5, VCM 99.1, plaquetas 106000, TP 1.22, TTPA 1.26, Gluc 155, Cr 2.18 (previa 0.98), BT 1.64, BD 1.49, BI 0.15, AST 113, ALT 222, Lipasa 12, Amilasa 69, Na 133, K 4, PCR 118 TnT 34-27-32-63.6-70
+Sistemático orina: Urobilinógeno 2.
+Eco abdominal: Ligera dilatación de la vía biliar intrahepática. Vía biliar extrahepática levemente dilatada sin visualizar litiasis/detritus en hepatocolédoco, hallazgos dentro de la normalidad en pacientes colecistectomizados.
+ECG: RS a 65 lpm, sin cambios respecto a previos.
+RX TÓRAX: Sin infiltrados parenquimatosos.
+TC abdomen en planta: moderada dilatación global de la vía biliar, con presencia de ligera aerobilia (en el contexto de colangitis). Pequeña coledocolitiasis. Sin evidencia concluyente de lesión obstructiva de la vía biliar.
+ColangioRM: hígado sin lesiones focales. Leve-moderada dilatación de vía biliar intra y extrahepática sin coledocolitiaisis. Disminución progresiva del colédoco a medida que se acerca a la papila, que se encuentra ligeramente engrosada (papilitis aguda/fibrosa, menos probable origen tumoral). Valorar necesidad de CPRE.
+
+Juicio clínico (listado de problemas, diagnóstico diferencial)
+Juicio clínico: Shock séptico. Colangitis aguda, sin confirmación radiológica. IRA en este contexto. Cuadro confusional en este contexto. BCRIHH transitorio ( SCA).
+Diagnóstico diferencial: Otro origen infeccioso. Colangitis supurativa. Hepatitis/cirrosis. Coledocolitiasis. Obstrucción excreción biliar de origen extrahepático.
+
+Plan de acción y evolución
+Tras exploración inicial y resultados de GSV, en la propia consulta, se inicia sueroterapia con SSF 500+500 y Tazocel (por sospecha de shock séptico con foco abdominal), manteniendo dieta absoluta y se procede a sondaje de la paciente. Se pasa a observación a la espera de resultados de pruebas complementarias iniciales y evolución. Tras recibir resultados analíticos, solicito ECO abdominal.
+
+Evolución: en observación sillones la paciente mantiene hipotensión arterial y oliguria (diuresis inferior a 150 cc), a pesar de sueroterapia. Decidimos traslado a observación camas, continuándose con fluidoterapia y monitorización continua. Vuelve a sufrir agudización hipotensiva TA 75/40, iniciándose perfusión de dopamina a 10 ml/h, sin obtener respuesta, por lo que se inicia perfusión con Noradrenalina a 0.1 mcg/kg/min.
+
+La paciente inicia cuadro de dolor torácico opresivo, irradiado hacia ambos hombros, mandíbula y columna cervical, acompañado de náuseas y vómitos. Apareciendo BCRIHH no presente previamente. Se realiza interconsulta a UCI que desestima posible tratamiento invasivo por comorbilidades, edad y basal de la paciente. Se mantiene tratamiento vasoactivo con NA, Solinitrina y antiagregación, quedando asintomática, y ECG normalizado.
+Control en la mañana del 1/1/2020 con mejoría clínica, hemodinámica y analítica, con TA 130/77 y diuresis de 890 cc, permaneciendo afebril. Se decide entonces la retirada de NA y Solinitrina y cursar ingreso en planta de MI para continuación de tratamiento.
+
+Durante estancia en planta de MI, mejoría progresiva. No presenta más episodios de dolor torácico decidiendo manejo conservador de su SCA con buena evolución clínica, alta 10-1-2020.

@@ -1,0 +1,27 @@
+Anamnèse
+Nous présentons le cas d'une patiente de 40 ans qui s'est présentée à la clinique de dermatologie pour des lésions douloureuses sur le premier orteil du pied droit, qui étaient enflammées à plusieurs reprises, depuis 2 mois. Ses antécédents personnels comprenaient un lupus érythémateux systémique et une anémie ferriprive. Il avait auparavant reçu un traitement topique et oral avec plusieurs séries d'antibiotiques, dont la Cloxacilline et la Levofloxacine, pendant moins de deux semaines, sans pratiquement aucune amélioration.
+Elle n'avait pas présenté de fièvre ou de sensation de dysthermie depuis le début des symptômes, et niait tout autre symptôme intéressant. La patiente n'a signalé aucun épisode antérieur similaire et a relié ses symptômes à un traumatisme avec un fer à repasser lors de son séjour dans un parc aquatique.
+
+Examen physique
+Le patient était en bon état général, afébrile et hémodynamiquement stable.
+L'examen physique a révélé de petites papules érythémato-violacées sur la face supérieure et inférieure du premier orteil du pied droit, dont l'une était plus grande et drainait une matière purulente à la ponction. Il n'y avait aucune lésion sur les autres orteils ou sur le pied controlatéral, et aucune atteinte des ongles.
+
+Examens complémentaires
+Dans l'étude mycologique, l'examen direct était négatif et dans la culture 5 colonies de Candida lusitaniae ont été isolées, sans pertinence clinique.
+La culture microbiologique de l'écouvillon de pus était négative.
+Une biopsie cutanée de la lésion a été réalisée pour une étude histologique et microbiologique.
+L'histopathologie a montré une discrète hyperplasie de l'épiderme accompagnée d'hyperkératose et de parakératose, avec des pustules occasionnelles dans la couche cornée. Dans le derme superficiel, un infiltrat inflammatoire granulomateux a été identifié avec des cellules géantes multinucléées formant occasionnellement des granulomes, avec des foyers isolés de nécrose suppurative.
+La culture microbiologique de la biopsie en milieu liquide (à 37oC) était négative après 45 jours. Deux unités formant des colonies (UFC) d'une mycobactérie atypique photochromogène ont été isolées de la culture sur milieu solide (coletus) à température ambiante. Ensuite, une colonie jaune chromogène a été soumise à une analyse génétique moléculaire en utilisant la méthode GenoType Mycobacterium, qui inclut 27 espèces mycobactériennes différentes. La procédure se divise en trois étapes : isolement de l'ADN de la culture, amplification avec des amorces marquées à la biotine (hors ADN polymérase thermostable) et hybridation inverse. Le système est basé sur l'amplification d'une région génétique spécifique et l'hybridation ultérieure du produit d'amplification aux différentes sondes disposées sur une bande de nitrocellulose. Un modèle permet une interprétation simple et rapide du schéma de balisage obtenu. Selon ce schéma, dans notre cas, la mycobactérie non tuberculeuse (MNT) Mycobacterium marinum a été isolée.
+L'obtention d'un échantillon adapté à la culture facilite l'isolement du germe, car le matériel purulent contient la plus forte concentration de germe. D'autre part, la température de la culture est également fondamentale, car Mycobacterium marinum a une température optimale de croissance entre 30 et 33oC.
+Le patient a abandonné le traitement 18 jours après l'avoir commencé en raison d'une diarrhée secondaire aux antibiotiques. Un probiotique a donc été ajouté et le régime a été modifié pour une capsule de Doxycycline 100 mg toutes les 24 heures pendant un minimum de 4 mois une fois le diagnostic confirmé.
+Les tests conventionnels de sensibilité aux médicaments ne sont pas recommandés pour la plupart des mycobactéries non tuberculeuses, sauf pour certaines espèces ou en cas d'échec du traitement. Ces tests ne sont pas recommandés chez cette espèce, qui est normalement sensible à la clarithromycine, à la rifampicine, à l'éthambutol, aux tétracyclines, aux sulfamides et au cotrimoxazole. Certains isolats sont résistants à la ciprofloxacine, et la monothérapie avec les fluoroquinolones peut faciliter le développement de la résistance, il n'est donc pas conseillé d'utiliser ces médicaments en monothérapie dans le traitement initial.
+
+
+Evolution
+Après un mois et demi sous probiotiques et Doxycycline 100 mg toutes les 24 heures avec une bonne tolérance, les lésions avaient nettement régressé, présentant alors des lésions violacées plates d'aspect résiduel, sans trace de pustules, mais quelques croûtes myélique. Le traitement de ce type d'infection doit être maintenu pendant au moins quatre mois.
+
+Diagnostic
+Infection à Mycobacterium marinum ou granulome du bassin.
+
+Traitement
+Avant que le résultat de la culture ne soit disponible et étant donné la forte suspicion diagnostique, le traitement est commencé avec un comprimé de Doxycycline 100 mg toutes les 12 heures.

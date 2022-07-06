@@ -1,0 +1,21 @@
+Le patient est envoyé en cardiologie par la neurologie pour une évaluation. 
+
+Antécédents, maladie actuelle et examen physique
+
+Antécédents familiaux : Mère avec un lien de la langue sans paralysie faciale. Deux frères et deux neveux atteints du syndrome de Steinert. Deux enfants en bonne santé.
+
+Antécédents : Le patient a présenté de nouvelles anomalies à l'électrocardiogramme (ECG) consistant en un PR de 280 millisecondes (msg), un QRS de 150 msg, avec une image de bloc de branche gauche (LBBB) complet.
+Electrocardiogramme deux ans plus tôt sans troubles de la conduction. Il a été évalué en tant que patient externe au service de cardiologie, et l'implantation d'un stimulateur cardiaque a été demandée. Le patient nie toute syncope, présyncope, palpitations ou autres symptômes.
+
+Tests complémentaires
+- ECG à l'admission : rythme sinusal à 75 bpm. PR 240-280 msg. QRS de 150 msg. BCRI.
+- ECG en consultation de neurologie en 2010 : rythme sinusal à 70 bpm. PR 180-200 msg. QRS de 80 msg. Aucune altération de la conduction intraventriculaire.
+- Analyses sanguines : Glucose, ions et fonction rénale normaux. Pas d'anémie ni de leucopénie. Plaquetteopénie de 84 000 plaquettes mm3.
+- Échocardiographie transthoracique : le ventricule gauche n'est ni dilaté ni hypertrophique. L'oreillette gauche n'est pas dilatée. Valve mitrale non épaissie à feuillets minces avec jet d'insuffisance centrale légère. Remplissage mitral avec onde E>A. Valve aortique trivalve avec ouverture et fermeture adéquates. Racine aortique et aorte ascendante de taille normale. Fraction d'éjection du ventricule gauche préservée sans défaut de contractilité segmentaire. Chambres droites normales en taille et en fonction. Légère régurgitation tricuspide orientée médialement avec un gradient atrio-ventriculaire de 17 mmHg, ce qui permet d'estimer une pression de l'artère pulmonaire de 30 mmHg. Insuffisance pulmonaire banale. Veine cave non collapsée, non dilatée. Pas d'épanchement péricardique.
+- Radiographie du thorax : silhouette cardiaque à la limite de la normalité sans altération au niveau du parenchyme pulmonaire. Pas d'épanchement pleural.
+
+Évolution clinique
+Le patient a été admis de manière programmée pour l'implantation d'un stimulateur cardiaque en raison de l'apparition sur l'ECG de troubles de la conduction qui n'étaient pas présents auparavant sans être associés à une cardiopathie structurelle.
+
+Diagnostic
+Maladie de Steinert avec troubles de la conduction nécessitant une stimulation définitive.

@@ -1,0 +1,35 @@
+Motivo della consultazione
+Malessere generale, dolore generalizzato. Recensione.
+
+Approccio individuale (anamnesi, esame, test complementari).
+Un paziente di 18 anni della Guinea Conakry, senza storia patologica di interesse, è arrivato recentemente in Spagna su una nave un mese e mezzo fa. È venuto alla clinica per un controllo dopo un lungo viaggio dal suo paese d'origine in condizioni precarie. Ha riferito un dolore generalizzato e un malessere generale. Nell'anamnesi per apparati e sistemi, oltre a quanto riferito dal paziente, spicca un dolore addominale generalizzato di diverse settimane di evoluzione associato occasionalmente a diarrea sanguinolenta autolimitata. Il programma di vaccinazione è sconosciuto.
+
+Esame fisico:
+Pressione 110/70 sat 98% aa HR 70 BMI 17
+Cavità orale: normale.
+Nessun linfonodo palpabile nella regione cervicale.
+Auscultazione cardiorespiratoria: toni ritmici ad una buona frequenza.
+Addome morbido, depressibile, senza masse o visceromegalia,
+Estremità con cicatrici cheloidi su una gamba, nessun'altra lesione, nessun edema.
+
+I test complementari richiesti erano:
+- Emogramma: anemia da carenza di ferro con Hb 11 g/dl, MCV 70, nessuna eosinofilia, nessun'altra alterazione nell'emogramma.
+- Ferritina < 6 IST 5%.
+- Biochimica di base, profilo epatico e reagente di fase acuta: nella norma.
+- Sierologia HIV, sifilide, epatite C negativa. Virus dell'epatite A IgM negativo, IgG positivo. Anti-HBsAg negativo. Anti-HBeAg positivo, Anti-HBcAg positivo.
+- Parassiti delle feci (x3): primo negativo. Secondo e terzo positivo per Schistosoma mansoni.
+- Mantoux negativo. Radiografia del torace normale.
+
+Approccio familiare e comunitario
+Si tratta di un paziente con una vulnerabilità speciale poiché è un minore straniero non accompagnato (sappiamo che l'età dichiarata ufficialmente non è reale, ma non conosciamo l'età reale), che ha fatto un lungo viaggio in condizioni precarie, essendo esposto a vari agenti patogeni a causa della scarsa igiene dei paesi che ha attraversato e anche a un ambiente in cui può essere stato in contatto con le mafie, gli attacchi dei "Tuareg" nel deserto (le cicatrici cheloidi sono dovute a questo, secondo il paziente), ecc.
+Pertanto, si tratta di un individuo a rischio di soffrire di malattie che possono essere poco conosciute nel nostro sistema sanitario e, dato che si trovano in una situazione precaria quando arrivano nel nostro paese, bisogna prestare particolare attenzione, poiché si trovano in un periodo di suscettibilità individuale e le malattie contratte nel Maghreb e nell'Africa subsahariana possono manifestarsi. Il rischio di mobilità geografica renderà anche difficile il monitoraggio del paziente.
+
+Giudizio clinico (elenco dei problemi, diagnosi di riferimento)
+- Schistosomiasi intestinale
+- Epatite cronica B da escludere (non sappiamo se è HBsAg positivo) - BMI 17, magrezza.
+
+Piano d'azione
+- È stato indirizzato all'ambulatorio di Malattie Infettive, dopo un contatto diretto con loro per evitare ritardi, per cui gli è stato fissato un appuntamento la settimana successiva alla conoscenza dei risultati degli esami complementari richiesti. Lì hanno richiesto il trattamento per la schistosomiasi, che è praziquantel 40 mg/kg in una dose o diviso in due dosi. Questo farmaco non è disponibile nel nostro paese, così il servizio di malattie infettive ha scritto la prescrizione e l'ha inviata al Ministero della Salute, poiché si tratta di un farmaco straniero. Il paziente è stato anche indirizzato a completare lo studio immunologico per l'epatite B.
+- Il paziente è stato indirizzato all'infermeria per una vaccinazione completa, dato che siamo completamente all'oscuro delle precedenti immunizzazioni del paziente (precedente sierologia per l'epatite B).
+- Le è stato chiesto di tornare nella nostra clinica dopo la valutazione da parte del dipartimento di malattie infettive per un ulteriore follow-up.
+- Ho prescritto del ferro per via orale.

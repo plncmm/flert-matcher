@@ -1,0 +1,27 @@
+Patient: HIV/AIDS admitted to the Hospital of the Institute of Tropical Medicine "Pedro Kourí" presenting low respiratory symptoms with liquid interposition.
+Sample and culture conditions: pleural fluid was▁inoculated in blood agar medium (Biocen, Cuba) enriched with 5% sheep blood, MacConkey agar (Biocen).
+Inoculated media were nonadherent at 35 oC for 24-48 h. Subsequently, the agar blood environment was non-adherent at room temperature (AT) for 5 additional d.
+After▁concluding the isolation, the patient was read and then Gram stain, microscopic observation and biochemical tests were performed.
+Biochemical tests: hydrolysis of the ae, cytochrome oxidase, catalase, urease and equi factor was performed, as described by Prescribing in 1991.
+DNA extraction: a spike in the pleural fluid culture from the patient was placed in a sterile 1.5 mL vial, to which 400 mL of sterile distilled water was added.
+Subsequently, the content was incubated at 80oC for 15 min in a thermostable bath.8 The homogenate obtained from cell rupture was used for PCR.
+PCR: a fragment of 439 base pairs (bp) of the gene encoding for the heat shock protein of 65 kDa (HSP) of the genus Mycobacterium amplified in microorganisms of the order DMAG10 μAC DML-1 DNA homogenate obtained was amplified (5
+The amplification profile was carried out as described by Steingrube et al.
+For the detection of amplified products, 12 μL of each resulting mixture were analyzed by electrophoresis in 1.2 % agarose gel with regulatory solution of Tris-Borato-EDTA (89 mM EDTA Bos, 89 mM).
+Electrophoresis was performed at 80 V for 1 h. The results were visualized in a PowerCi ultraviolet (Mhoacnon 2011, LKB, Sweden) transphotograph with a digital camera Japan6.
+DNA extracted from the culture of a strain of M. tuberculosis (H37Rv) and sterile distilled water as negative control were used as positive control for amplification reactions.
+PCR-RFLP: PCR products were installed in the UK 2 aliquots, which were used for analysis of restriction patterns with BstE II enzymes (New England Biolabin England).
+Constraint analysis and the rest of the protocol were performed as described by Steingrube et al.
+After 24 h of inoculating the patient's pleural fluid in MacConkey agar, no bacterial growth was obtained.
+A growth of 1-2 mm diameter colonies was observed in the blood agar medium, which were indistinguishable.
+After 48 hours of noncompliance in the sample, round colonies with irregular appearance, semitransparents, bulging, mucoids, and oneidas were observed.
+After 5 days of noncompliance at room temperature, the colonies were large (2-4 mm diameter) and showed a salmon color pigment.
+When Gram stain was performed, it showed Gram-positive▁cocci and pleomorphic.
+The results of biochemical tests performed on pleural fluid culture are shown in the table.
+The analysis as a whole suggests a possible infection by R. equi in the patient analyzed.
+However, an essential and confirmatory element to demonstrate infection by this microorganism is the presence of equi factor, which was negative in the sample analyzed.
+To demonstrate the presence of R. equi in the material studied, an additional procedure was required, the use of molecular methods.
+The PCR of the 439 bp fragment of the gene encoding the HSP protein was successfully amplified from the culture of the pleural fluid of the patient.
+This result is not conclusive of infection by R. equi, because it only provides information that the microorganism belongs to the Actin Accredittales order.
+However, the results demonstrated the presence of R. equi when enzyme restriction was performed using the enzymes BstE II and Hinf I to the PCR product.
+In the analyzed sample, 1 amplified band of 439 bp was obtained by BstE II and 2 bands 310/70 bp for Hinf I; other stricturing patterns were obtained by using the algorithm described by Sterube.

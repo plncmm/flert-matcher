@@ -1,0 +1,26 @@
+Anamnesi
+Pacient dona que comença als 52 anys d'edat, amb antecedent d'obesitat i, com a antecedents obstètrics, tres gestacions, una d'elles avortament espontani. Sense antecedents familiars d'interès. Com a medicació habitual, únicament pren anticonceptius orals. No ha presentat reaccions al·lèrgiques medicamentoses conegudes.
+Comença a l'agost de 2018 amb dispnea de moderats esforços que va empitjorant progressivament, fins que, a l'octubre de 2018, acudeix a Urgències, on es realitza angio-TC per a descartar tromboembolisme pulmonar, en la qual es detecten àrees de parènquima pulmonar en vidre desllustrat, així com lesions òssies suggestives de dipòsit secundari i nòdul en mama esquerra suggestiu de malignitat.
+Es completa l'estudi de manera ambulatòria amb una TC toracoabdominopélvica que es realitza a l'octubre de 2018, en la qual es detecten addicionalment nòduls espiculados pulmonars suggestius de metàstasis, així com imatges compatibles amb linfangitis carcinomatosa. A continuació, es realitzen mamografia i ecografia de mama i axil·la, detectant-se tres lesions BIRADS5, dues d'elles en mama dreta i una d'elles en mama esquerra, així com ganglis axil·lars bilaterals d'aspecte inespecífic.
+En la biòpsia, totes les lesions presenten histologia de carcinoma ductal infiltrante grau histològic 2, amb receptors hormonals altament positius, HER-2 negatiu i Ki67 del 5%.
+Amb el diagnòstic de carcinoma ductal infiltrante bilateral luminal A estadi IV per malaltia bilateral, òssia i pulmonar es decideix inici de tractament sistèmic de primera línia amb paclitaxel setmanal, que comença el 20 de novembre de 2018.
+El 21 de novembre de 2018 acudeix de nou a Urgències per dispnea de repòs que ha empitjorat en els últims dies, no associada a tos o expectoració, dolor toràcic, febre o sensació distérmica, ni altres símptomes en l'anamnesi per aparells i sistemes.
+
+Exploració física
+En l'exploració física destaca saturació d'oxigen basal del 89%, amb estabilitat hemodinàmica. En l'auscultació pulmonar, destaca hipoventilació bilateral i sibilancias aïllades, sense altres troballes significatives.
+
+Proves complementàries
+Analíticament, mostra leucocitosis amb 12.100 leucòcits amb predomini de neutròfils, sense elevació de reactants de fase aguda, així com insuficiència respiratòria parcial amb pressió parcial d'oxigen de 58 mm Hg, sense altres alteracions associades.
+Es decideix ingrés per a continuar l'estudi, realitzant-se TC de tòrax en la qual s'observa vessament pericardíac de nova aparició, així com augment de vessament pleural d'escassa quantia amb morfologia irregular, que no permet descartar la presència d'implants pleurals. Addicionalment presenta opacitats en vidre desllustrat i opacitats laminars bilaterals, i atelectasia del lòbul mig i la língula.
+Es realitza ecocardiograma transtorácico en el qual s'evidencia vessament pericardíac lleu que no justifica la insuficiència respiratòria, amb fracció d'ejecció normal.
+Donada la persistència de la simptomatologia, es decideix continuar estudi amb fibrobroncoscopia, en la qual s'observen lesions blanquinoses hipervascularizadas en bronqui superior dret i bronqui intermediari, que es biopsian, prenent-se així mateix mostra mitjançant rentada broncoalveolar, que s'envia per a citologia. S'envien mostres a Microbiologia, resultant els cultius d'aerobis, micobacterias i fongs negatius, així com la determinació de Aspergillus i de citomegalovirus.
+En l'Anatomia Patològica es confirma infiltració bronquial per adenocarcinoma amb positivitat per a receptors d'estrògens i HER-2 negatiu. En la citologia també es detecten cèl·lules suggestives de malignitat.
+Diagnòstic
+La biòpsia de mucosa bronquial confirma el diagnòstic de metàstasi endobronquiales d'origen mamari, la qual cosa justifica la clínica de la pacient.
+
+Tractament
+Es decideix continuar amb la pauta de tractament sistèmic administrant la segona dosi del primer cicle de paclitaxel, i s'ajusta tractament simptomàtic amb morfina oral i corticoterapia, pautándose oxigenoteràpia domiciliària, i la pacient pot ser donada d'alta.
+
+Evolució
+La pacient presenta reacció al·lèrgica al paclitaxel, la qual cosa, sumat a l'empitjorament progressiu des del punt de vista respiratori, havent requerit dos ingressos per episodis aguts de broncoespasme amb insuficiència respiratòria, motiva el canvi de tractament a adriamicina a 75 mg/m 2 mensuals dividit en 3 dosi, que inicia el 28 de desembre de 2018 i que rep fins al 8 de febrer de 2019.
+Presenta millora progressiva de la dispnea, podent retirar-se oxigenoteràpia, amb millora radiològica en TC de febrer de 2019, pel que es decideix passo a letrozol associat a palbociclib, tractament que continua en el moment actual.

@@ -1,0 +1,26 @@
+ANTÉCÉDENTS, MALADIE ACTUELLE ET EXAMEN PHYSIQUE
+Un homme de 26 ans a été admis pour des douleurs thoraciques et des marqueurs élevés de lésions myocardiques.
+
+HISTOIRE PERSONNELLE
+Base de référence : natif de Colombie. Résident en Espagne depuis un mois. Travaille comme jardinier. Pas d'allergies connues aux médicaments. Aucun facteur de risque cardiovasculaire. Pas d'habitudes toxiques. Pas d'antécédents cardiologiques personnels ou familiaux. Interventions chirurgicales : splénectomie après un accident de la route. Médicament précédent : aucun.
+
+MALADIE ACTUELLE
+Patient asymptomatique du point de vue cardiovasculaire, qui, deux semaines avant son admission, a commencé à souffrir d'épisodes de douleur thoracique centrale oppressante irradiant vers les deux mâchoires, sans rapport avec l'exercice ou les mouvements respiratoires. Pas de cortex végétatif associé. Arrêt spontané de ces épisodes en quelques minutes. Il a également signalé des vertiges non spécifiques et une sensation dystrophique occasionnelle, sans fièvre thermométrique. Pas de palpitations, de dyspnée ou de symptômes syncopaux. Aucune manifestation clinique infectieuse antérieure.
+
+EXAMEN PHYSIQUE
+Afebrile, pression sanguine 106/62 mmHg, fréquence cardiaque 60 bpm, saturation O2 de base 98%, poids référencé 70 kg. Conscient, orienté et coopératif. Bien hydraté et parfumé. Bon état général. Eupnéique au repos. Pression veineuse jugulaire normale. Pas de ganglions lymphatiques palpables. Auscultation cardiaque : rythmique sans murmure ni frottement.
+Auscultation pulmonaire : les bruits respiratoires ont été préservés, sans surajout. Abdomen : doux, dépressible et non douloureux. Pas de masses ou de mégalithes palpables. Péristaltisme présent. Membres inférieurs : pas d'œdème. Pouls distaux présents et symétriques.
+
+TESTS COMPLÉMENTAIRES
+Electrocardiogramme : bradycardie sinusale à 50 bpm. RP normal. QRS étroit. Onde Q à la limite de la signification pathologique et élévation ST de 0,5 mm à la face inférieure.
+Tests de laboratoire à l'admission : hémoglobine 15 g/dl, plaquettes 350. 000 u/mm3, leucocytes 11,3 x103/mm3 (neutrophiles 33,4%-3790 u/l, lymphocytes 31,4%-3560 u/l, éosinophiles 27,7%-3150 u/l), glucose basal 81 mg/dl, urée 23 mg/dl, créatinine 0,79 mg/dl, sodium 131 mEq/l, potassium 4,2 mEq/l, troponine I conventionnelle 2,7 ng/dl (normale < 0,01).
+Radiographie du thorax : index cardio-thoracique normal. Pas de lésions pleuroparenchymateuses aiguës.
+Échocardiographie transthoracique : ventricule gauche non dilaté, épaisseur normale, pas d'altération de la contractilité segmentaire. Fonction systolique normale (FEVG de Simpson biplan de 65 %). Aspect hyperechogène du myocarde de la paroi inféro-latérale par rapport à l'endocarde. Ventricule droit de taille normale avec fonction systolique préservée. Valve mitrale d'apparence et de fonction normales. Valve aortique trivalve, sans insuffisance ni sténose. Valve tricuspide d'aspect normal, avec une insuffisance minime. Valve pulmonaire fonctionnant normalement. Racine aortique de taille normale, pas de coarctation. Pas d'épanchement péricardique.
+Cardio-IRM : ventricules de taille et de fonction préservées. On observe une hypokinésie, un œdème et un rehaussement intramyocardique tardif à prédominance sous-épicardique dans la face inféro-latérale ; des résultats qui peuvent être liés à une myocardite dans le contexte clinique approprié.
+CT des artères coronaires : score calcique total selon l'indice d'Agatson 0. Artères coronaires sans variantes anatomiques, avec une perméabilité préservée, sans images thrombotiques ou sténotiques.
+
+ÉVOLUTION CLINIQUE
+Le patient a été admis dans l'unité coronaire pour une surveillance et d'autres examens complémentaires. Comme test cardiologique spécifique, une échocardiographie transthoracique a été réalisée, qui était normale, suivie d'une imagerie par résonance magnétique cardiaque (CMR), qui s'est avérée compatible avec une myocardite. Après 48 heures sans développement de complications arythmiques ou d'insuffisance cardiaque, il a été transféré dans le service de l'hôpital pour des soins supplémentaires et pour terminer les études. L'analyse à l'admission a montré une leucocytose due à une éosinophilie marquée qui a persisté dans les analyses ultérieures, de sorte qu'une évaluation a été demandée par la médecine interne, qui a élargi la batterie de tests avec l'auto-immunité, le virus et la sérologie infectieuse, qui était positive pour IgM Toxocara spp. Par la suite, un scanner des artères coronaires a été demandé pour exclure les embolies, qui était également normal. La suspicion d'une myocardite éosinophile secondaire à une infection par le parasite Toxocara a conduit à un traitement par albendazole. Le patient a eu une bonne évolution clinique et est sorti de l'hôpital après 7 jours, asymptomatique, avec une normalisation des marqueurs de dommages myocardiques et une diminution de l'éosinophilie.
+
+DIAGNOSTIC
+Myocardite éosinophile dans le contexte de la toxocarose.

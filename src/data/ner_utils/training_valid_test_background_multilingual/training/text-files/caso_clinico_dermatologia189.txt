@@ -1,0 +1,15 @@
+Anamnesis
+Una neonata de 21 días de vida fue derivada a nuestras consultas por su pediatra, por lesiones anulares diseminadas de 4 días de evolución. La niña fue traída por su madre, inmigrante de Senegal, que nos contó que las lesiones habían comenzado en la frente, y se habían extendido al cuero cabelludo, y posteriormente al tronco. La niña había nacido en España mediante cesárea, debido a una desproporción pélvico-cefálica. Como complicación, la madre presentó fiebre intraparto, por lo que fue tratada con ampicilina, gentamicina y clindamicina. La madre negó aparición de lesiones similares en convivientes, o contacto con animales.
+
+Exploración física
+A la exploración, pudimos objetivar múltiples placas anulares, de entre uno y cinco centímetros de diámetro máximo, todas ellas con un borde sobreelevado eritematodescamativo bien definido, con aclaramiento central y descamación superficial, que se encontraban en la cara, cuero cabelludo y tronco. En total, presentaba diez lesiones en toda la superficie corporal.
+No se objetivaron lesiones en la exploración física de los convivientes.
+
+Exploraciones complementarias
+La presentación clínica de lesiones anulares en el periodo neonatal plantea un diagnóstico diferencial amplio que incluye el lupus neonatal, la dermatitis seborreica, el eritema multiforme, histiocitosis, la sífilis congénita y las dermatofitosis. Sin embargo, a pesar de lo inusual de su presentación en esta edad de la vida, debido a la morfología típica de las lesiones, y a lo accesible del test con hidróxido potásico, decidimos descartar en primer lugar una infección por dermatofitos. De esta forma, en la observación directa se demostró la presencia de numerosas hifas septadas.
+
+Diagnóstico
+A los 2 semanas de la siembra se confirmó en cultivo la presencia de Microsporum canis, confirmando el diagnóstico de tinea capitis y corporis por este dermatofito.
+
+Tratamiento y evolución
+En cuanto al tratamiento, al inicio optamos por antifúngico tópico, con lo que observamos mejoría parcial, pero ante la persistencia de las lesiones, optamos por pautar itraconazol oral (debido al desabastecimiento de griseofulvina) con resolución completa del cuadro en 4 semanas. Asimismo, remitimos a la paciente a consultas de Pediatría, donde se le detectó una neutropenia (de entre 400 y 700 neutrófilos/ųl) mantenida en el tiempo con presencia de anticuerpos antineutrófilo Ig M e Ig G positivos, siendo el resto del estudio (subpoblaciones linfocitarias, autoinmunidad, inmunoglobulinas y complemento) normal. Esto confirmó el diagnóstico de neutropenia neonatal autoinmune. Actualmente la paciente está en seguimiento por el servicio de Hematología Infantil sin haber presentado ninguna infección grave.

@@ -1,0 +1,23 @@
+Anamnese
+Paciente de 71 anos sem alergias a medicamentos, história pessoal de doença pulmonar obstrutiva crónica, tipo enfisematoso, pneumotórax esquerdo em 1994 secundário a bolhas rompidas que exigiam pleurodese, adenoma da próstata e hipertensão arterial no tratamento com beta-bloqueadores. O início clínico teve início em Maio de 2009 quando desenvolveu dispneia com esforço moderado durante 48 horas e expectoração hemoptótica.
+
+Exame físico
+Houve uma diminuição do murmúrio vesicular no lobo superior direito, com roncos isolados associados; sem linfadenopatia palpável ou megalitismo. O resto do exame foi normal.
+
+Testes complementares
+"Foi solicitada uma radiografia inicial do tórax, mostrando uma massa paratraqueal direita.
+"A tomografia computorizada (TAC) de Maio de 2009 mostrou um tumor pulmonar no lobo superior direito (LSD) medindo 88 mm com infiltração mediastinal da artéria pulmonar do lobo superior e adenopatia mediastinal anterior ao brônquio principal direito medindo 20 mm, confirmado pela tomografia por emissão de pósitrons (PET).
+"O estudo foi concluído com uma biópsia com agulha fina, com um resultado anatomopatológico de adenocarcinoma pulmonar, EGFR não mutado.
+
+Diagnóstico
+O caso foi discutido num comité multidisciplinar de patologia pulmonar, e com o julgamento clínico do adenocarcinoma pulmonar cT4 N2 M0, fase IIIB, a radioterapia (RT) foi decidida concomitantemente com a quimioterapia com intenção neoadjuvante, a fim de avaliar subsequentemente a possibilidade de cirurgia.
+
+Tratamento
+O pré-planejamento foi realizado mas o volume 20 de 43%, o padrão de enfisema centrolobulilar bilateral, bem como a perda de volume no hemitórax esquerdo com retracção mediastinal tornaram desaconselhável o início da RT. O paciente iniciou a quimioterapia por indução com carboplatina-emcitabina e foi avaliado após três ciclos em Julho de 2009 para resposta radiológica parcial no pulmão e nos gânglios linfáticos. A lesão no lobo superior direito diminuiu de 88 para 47 mm e a adenopatia mediastinal direita diminuiu de 20 para 14 mm.
+
+O caso foi revisto pelo comité de tumores e o tratamento cirúrgico foi rejeitado, uma vez que a cintilografia de difusão pulmonar mostrou uma distribuição heterogénea com uma função pulmonar direita de 41% e uma função pulmonar esquerda de 59%. O pré-planeamento foi repetido, com um V20 de 28%, e a quimioterapia semanal foi decidida com carboplatina-paclitaxel concomitante com radioterapia utilizando cinco campos de 6 Mev fotões formados com um colimador a uma taxa de 2 Gy/dia, 5 dias por semana até 60 Gy sobre a lesão pulmonar e mediastinal. A tolerância foi boa, com esofagite de grau 2 e dermite de grau 1. No final do tratamento, em Outubro de 2009, mostrou uma resposta radiológica parcial, com uma diminuição de 47 a 35 mm na lesão do lóbulo pulmonar direito e 14 a 9 mm na adenopatia mediastinal direita.
+
+Evolução
+Após um intervalo sem progressão de 30 meses, foi observado um nódulo pulmonar de 11 mm no LSD na tomografia de controlo de Abril de 2012. O caso foi novamente discutido no comité multidisciplinar, e considerou-se que poderia ser tratado com termoablação de radiofrequência pulmonar com um eléctrodo Le Veen com uma abertura máxima de 25 mm, e a remissão foi observada após este procedimento.
+
+Após um segundo intervalo sem progressão de 8 meses, em Dezembro de 2012 houve evidência de progressão na parede anterior do nódulo previamente tratado com radiofrequência, que tinha um diâmetro máximo de 16 mm. O caso foi apresentado ao comité do tumor e uma segunda termoablação do nódulo foi proposta no LSD sobre a área de cavitação com um eléctrodo Le Veen com uma abertura máxima de 30 mm de diâmetro em duas sessões por retirada progressiva do eléctrodo, produzindo um pneumotórax, que foi drenado. Em Março de 2014, um ano e três meses após o procedimento, foi efectuado um controlo radiológico por TC torácica com contraste, que não mostrou sinais de progressão. A doente foi diagnosticada com leucemia mieloblástica aguda associada a pneumonia bilateral por Candida krusei e insuficiência respiratória global, e teve alta em 2/4/2015.

@@ -1,0 +1,74 @@
+Un pacient de sex masculin în vârstă de 70 de ani a venit la serviciul de urgență cu febră de două săptămâni, cu frisoane, frisoane, până la 39oC, predominant seara, care s-a rezolvat bine cu paracetamol, dar a reapărut câteva ore mai târziu. Febra este însoțită de astenie și dureri osteoarticulare generalizate.
+Fără tuse, fără expectorație, fără dispnee, fără durere toracică. Nu există greață sau vărsături. Scaune moi, fără produse patologice în ultimele săptămâni. Nu există simptome de micțiune.
+De la venirea în serviciul de urgență, în tratament cu levofloxacină timp de 5 zile, cu ameliorare clinică, dar recidivă a febrei și a stării generale de rău la 48 de ore de la terminarea antibioticului.
+Fără călătorii în străinătate. Nu există leziuni cutanate sau intervenții dentare. Familia raportează că pacientul a fost mai deprimat în ultimele 6 luni, ceea ce coincide cu ultima înlocuire a stimulatorului cardiac. De atunci, activitatea sa s-a diminuat progresiv, cu apariția unor dureri articulare. Scădere în greutate, dar fără pierderea poftei de mâncare.
+
+
+ANTECEDENTE
+- Reacție adversă: Hipersensibilitate la beta-lactame.
+- Obiceiuri toxice: Nefumător. Consumator a 2 pahare de vin pe zi timp de 3-4 luni.
+- Antecedente personale: HTA, IIDM, dislipidemie, hiperuricemie cu gută, fibrilație atrială permanentă din 2013 (anticoagulat cu Acenocumarol), cardiopatie ischemică cronică din 2004, PROSTEZĂ AOTHETICĂ J-21, hipersensibilitate a sinusului carotidian de etiologie necunoscută. Purtător de stimulator cardiac DDDR din decembrie 2004 și din 2013 în modul VVIR din cauza FA. Ultima înlocuire a stimulatorului cardiac a avut loc în iulie 2016, fără complicații. Hiperostoză anchilozantă vertebrală și gută, văzută la reumatologie în noiembrie 2016 și în urmărire la medicul de familie. Pneumonia dobândită în comunitate în 2015.
+- Anamneză chirurgicală: apendicectomie, prosteisaortică.
+- Pensionar, fost reparator de caroserii auto, locuiește în El Palmar. Lucrează pe cont propriu pentru tot ABVD, conduce mașina sa, are o mică grădină de legume.
+
+
+EXAMINARE FIZICĂ
+- TA: 120/40mmHG HR: 70lpm T: 37"2 oC. Eupneic în repaus
+- Nu există adenopatii în principalele grupuri de ganglioni limfatici.
+- Culoare normală. Nu este hidratat. Fără icter.
+- Gură septică. Faringe normal, fără exudat.
+- Nu există crepitații, nici semne de inflamație pe stiva de pacemaker.
+- AC: Ritmic. Murmur de regurgitare mitrală și clic valvular în murmurul aortic.
+- AP: sunete respiratorii normale.
+- Abdomen: moale, sensibil, nedureros, fără dureri, fără mase palpabile sau visceromegalie.
+- Extremități fără edem, cu pulsuri palpabile, fără semne de TVP.
+- Nu există leziuni cutanate sau pierderi de continuitate a pielii.
+- Conștient, orientat, cooperant, vorbire normală, mobilizează toate cele 4 membre, nervi cranieni normali. Semne meningeale negative.
+
+EXPLORĂRI COMPLEMENTARE
+- ECG: ritm pacemaker la 70lpm, cu stimulare ventriculară, bloc de ramură stângă.
+- Radiografie toracică: cardiomegalie globală, semne de LVI. Pacemaker cu electrozi în AD și VD.
+- Biochimie: glucoză 168 mg/dl Uree: 78 mg/dl Creatinină: 1"65 mg/dl Ck: 48 ui/l
+- Sodiu 131 CRP: 134 FG: 41 Fibrinogen: 667
+- Gazele din sânge
+- Hematologie: Leucocite: 15"2x10e9/lneutrofile 11"9x10e9/l
+- Brucellamelitensisrosa de bengala: negativ
+- Anormal și sediment: normal.
+
+SUSPICIUNE DIAGNOSTICĂ: ENDOCARDITĂ BACTERIANĂ.
+
+PLAN
+- Hemoculturi
+- Test de sânge complet
+- Ecocardiogramă
+- Consultație alergologică
+
+
+EXAMENE DE SÂNGE
+- Balon anaerob -> Enterococcus faecalis
+- Sensibil la penicilină
+- Rezistent la :
+- Quinupristin/dalfopristin
+- Cefuroxime-axetil
+- Cefuroxime
+- Trimetoprim/sulfamethoxazol
+- Clindamicină
+- Eritromicina
+
+ECOCARDIOGRAMĂ
+- Imposibilitatea de a efectua o ecocardiogramă TE din cauza lipsei de colaborare.
+- Efectuarea ecocardiogramei TT -> Ușoară dilatare a atriului stâng, restul camerelor fiind de dimensiuni normale, cu FE păstrată. Prezența hipertrofiei concentrice a LV. Vegetație de 12x7mm la nivelul segmentului atrial al frunzei mitrale posterioare fără repercusiuni hemodinamice. Proteză biologică aortică normofuncțională, fără semne sugestive de afectare endocardică.
+
+CONCLUZII:
+Endocarditismitral. Hemoculturi pozitive + confirmare ecocardiografică.
+
+PET CT SCAN
+- Din cauza numărului limitat de TTE
+- REZULTAT: creșterea focală a activității pe valva mitrală. În timp ce în protezele biologice de valvă aortică nu se observă o absorbție metabolică focală, ceea ce sugerează o infecție în studiul actual.
+
+INTERCONSULTARE ALERGOLOGIE
+- Inițial: alergie la beta-lactame, tratament cu VANCOMICIN/GENTAMICIN După consult: fără alergie -> AMPICYLINE 2G/4H + CEFTRIAXONE 2G/12H
+
+TRATAMENT
+- Infecție pe valva nativă -> 4 săptămâni de tratament
+- Infecție la un pacient complex, cu valvă protetică și stimulator cardiac -> prelungim tratamentul la 6 săptămâni.

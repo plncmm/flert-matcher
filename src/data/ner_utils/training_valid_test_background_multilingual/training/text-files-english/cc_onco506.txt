@@ -1,0 +1,29 @@
+Anamnesis The patient came to the emergency room in August 2018 for persistent fever.
+The relevant symptoms were pharyngeal pruritus, without odynophagia, with increased baseline dyspnea on exertion.
+Denies cough or expectoration.
+Feeling sick, without vomiting or diarrhoea, similar to what you had experienced since the start of treatment.
+She has no urinary symptoms.
+No other symptoms were found by devices and systems.
+Physical emergency room. The patient had stable constants except for significant desaturation: 73 % of basal oxygen (no home oxygen); the rest had constant oxygen saturation, and the rest had constant oxygen saturation.
+Upon examination of the oral cavity, whitish, thickish plaques were observed on the lingual mucosa, which were not adhered to, without objectifying to the pharyngeal or pharyngeal region.
+The rest of the physical examination, including pulmonary auscultation, was anodyne.
+Blood tests were ordered with basal arterial gas.
+An increase of acute phase reactants was observed, with C-reactive protein of 202.5 mg/l, without other relevant alterations.
+Lactate gas showed acute partial respiratory failure with lactate in normal gases (pH: 7.48, pCO2: 35 mm Hg, pO2: 35 mm Hg, HCO3: 25.3 mM/l).
+A chest X-ray showed bilateral interstitial pattern.
+CTA of the pulmonary arteries was requested, given the increased thromboembolic risk in cancer patients, despite being anticoagulated at therapeutic doses.
+Pulmonary thromboembolism was ruled out, but extensive interstitial lung opacities were observed, with thickening of the interlobular septa and of the peribronchovascular interstitium with diffuse ground-glass opacities.
+In the case of our patient, given the clinical context and history, the images were compatible with drug-induced pulmonary toxicity.
+She was admitted to the Medical Doctor's office.
+Serology was negative, highlighting cytomegalovirus, aspergillus fumigatus, Legionella, acute Q fever, Mycoplasma pneumoniae, Chlamydia pneumoniae, etc.
+Diagnostic fiberoptic▁bronchoscopy was requested with bronchoalveolar lavage and alveolar bronchoaspirate, whose cultures were also negative.
+Flow cytometry of the bronchoalveolar lavage fluid was performed with finding of lymphocytosis (28% [normal range: 1%-10 %], and inversion of CD4/CD8 ratio (CD4/CD8 ratio: 1.74 macrophages: 3.5%]) with normal range: 1.57 %.
+Although the increase in lymphocytes is usually even greater than that recorded, these results are compatible with drug-induced hypersensitivity pneumonitis/alveolitis.
+Diagnosis Hypersensitivity pneumonitis and/or alveolitis induced by gemcitabine and/or nab-paclitaxel together with acute partial respiratory failure secondary to the previous one.
+Treatment Interruption of compatible cytologic medicaments (gemcitabine-paclitaxel), empirical antibiotic therapy (in this case imipenoxtrivofloxacin in combination with prednisone, aviazole in 40 mg/day)
+The patient was admitted to the emergency room with empirical antibiotic treatment with imipenem, cotrimoxazole and acetazolamide/trimethoprim, and continued diagnostic study.
+During the hospitalization, microbiological and negative results were received, as well as the result of flow cytometry that confirmed the diagnosis of hypersensitivity pneumonitis/drug-induced alveolitis with oral prednisone 40 mg scale.
+She presented significant clinical and radiological improvement, so she was discharged with progressive reduction of corticoid therapy, as well as oral levofloxacin therapy to comply with the antibiotic cycle.
+That same month of August, in addition to the pneumonitis presented, a clear hepatic progression was observed, starting second line with FOLFOX.
+In February 2019 new liver progression was observed, which was initiated in March 2019 third line with 5-fluorouracil with pegylated liposomal irinotecan, having received two cycles to date.
+Due to the clinical worsening, it has been decided to interrupt the active oncological treatment and the patient is being followed up by the home care support team.

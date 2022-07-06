@@ -1,0 +1,46 @@
+Anamnesis
+Se trata de un varón de 36 años, que ocho años antes había sido diagnosticado de un linfoma de Hodgkin estadio IVB. Había recibido siete líneas de quimioterapia y dos ciclos de radioterapia en dos localizaciones diferentes. En marzo de 2013, se le realizó un trasplante de precursores hematopoyéticos haploidéntico (madre). El día +1 postrasplante tuvo un pico febril aislado (38.4oC) y vómitos. El día +18 se cursó una interconsulta a Dermatología por lesiones cutáneas de cuatro días de evolución. Habían comenzado en miembros inferiores y se acompañaban de diarrea y vómitos, con sensación distérmica pero sin objetivarse fiebre.
+
+Exploración física
+Se trataba de numerosas máculas eritematosas de entre 3 y 10 mm, no confluyentes, distribuidas en cuero cabelludo, cara, tronco brazos y muslos. En antebrazos y piernas eran menos numerosas y no afectaba a palmas, plantas ni a mucosas, si bien el paciente presentaba mucositis en cavidad oral explicable por el acondicionamiento pretrasplante.
+
+Exploraciones complementarias
+Figura 1 Máculas eritematosas de entre 3 y 10 mm, no confluyentes en tronco y brazos
+En la analítica sanguínea del día + 18 destacaban: Hb 8.8 g/dL, 15000 plaquetas (tras trasfusiones de hematíes y plaquetas), 100/μL (0 neutrófilos), GGT 269 UI/L (N 36), FA 319 UI/L (N 105), PCR 11. En la del + 23 se objetivó: creatinina 1 g/dL, GGT 425 UI/L, FA 342 UI/L y bilirrubina 1.2 mg/dL. El día + 24 se alcanzaron los 700/ μL neutrófilos y la bilirrubina fue de 3.4 mg/dL.
+
+Se realizaron hemocultivos, urocultivo y coprocultivo, que fueron negativos. Las pruebas de imagen realizadas (ecografía abdominal y TC toracoabdominopélvico), también fueron normales.
+El peso corporal del paciente había aumentado un 6% y sufrió un fracaso renal oligoanúrico.
+
+Diagnóstico
+Se realizó una biopsia cutánea en la que se observaron queratinocitos necróticos en el estrato basal de la epidermis y el folículo piloso, asociados a linfocitos maduros (satelitosis). En la dermis se apreciaba un leve infiltrado inflamatorio perivascular de linfocitos típicos. Considerando la clínica y la histología compatible, se llegó al diagnóstico de enfermedad injerto contra huésped aguda (EICH a).
+
+El diagnóstico clínico de la enfermedad injerto contra huésped aguda se basa en los siguientes puntos:
+
+1. Clínica cutánea: exantema morbiliforme con afectación inicial de partes acras (dorso de manos y pies, palmas y plantas, orejas). Estadios:
+1. <25% superficie corporal total
+2. 25-50% superficie corporal total
+3. >50% superficie corporal total
+4. Eritrodermia con formación de ampollas
+
+2. Síntomas digestivos. Diarrea secretora 1. Náuseas o diarrea 500-1000 mL
+2. 1000-1500 mL
+3. >1500 mL
+4. Dolor abdominal severo con o sin íleo
+
+3. Disfunción hepática. Patrón colestásico ± citolítico 1. Bilirrubina 2-3 mg/dL
+2. Bilirrubina 3-6 mg/dL
+3. Bilirrubina 6-15 mg/dL
+4. Bilirrubina >15 mg/dL
+
+4. Otros:
+1. Fiebre ≥38.3 sin causa identificable clínica, microbiológica ni radiológicamente.
+2. Deterioro de la función renal: creatinina >2.5 límite superior de la normalidad.
+3. Ganancia de peso ≥10 %
+
+Los principales diagnósticos diferenciales son: infección viral (diagnóstico microbiológico; el HHV6 puede dar un cuadro clínico similar), erupciones medicamentosas y la erupción por recuperación linfocitaria. En esta última (más frecuente en trasplante autólogo) se han establecido una serie de criterios que se solapan con los utilizados en el EICH agudo, si bien la recuperación linfocitaria tiene que darse en las 96 horas próximas al cuadro clínico y un criterio mayor es el edema pulmonar no cardiogénico.
+
+Tratamiento
+Se inició tratamiento con prednisona oral a dosis de 1mg/kg/día y emolientes.
+
+Evolución
+Las lesiones cutáneas se extendieron y confluyeron, afectando también a palmas y plantas, con resolución completa a las dos semanas. La función hepática y la diarrea se normalizaron en pocas semanas.

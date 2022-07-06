@@ -1,0 +1,37 @@
+ANTECEDENTES, ENFERMEDAD ACTUAL Y EXPLORACIÓN FÍSICA
+Mujer de 29 años.
+
+ANTECEDENTES:
+Sin alergias medicamentosas conocidas.
+No hábitos tóxicos. Dislipemia en tratamiento dietético.
+Rinoconjuntivitis alérgica estacional. Asma leve.
+Anemia microcítica.
+Amigdalitis de repetición.
+Tratamiento habitual: ninguno.
+Situación funcional basal: clase funcional I de la New York Heart Association (NYHA).
+Enfermedad actual: remitida a consulta de cardiología por hallazgo de un soplo en la revisión rutinaria de su empresa. Refiere disnea de grandes esfuerzos, sin palpitaciones ni síncopes ni edemas. Niega otros síntomas.
+Exploración física: presión arterial (PA) 140/78 mmHg, saturación de oxígeno 99%. Consciente y orientada. Buen aspecto general, bien hidratada y perfundida. Eupneica en reposo. Auscultación cardiaca: rítmica, a unos 70 lpm, soplo pansistólico, especialmente en focos pulmonar y tricuspídeo. Auscultación pulmonar: murmullo vesicular fisiológico. Exploración abdominal normal. No presenta edemas ni signos de trombosis venosa profunda en extremidades inferiores.
+
+PRUEBAS COMPLEMENTARIAS
+ELECTROCARDIOGRAMA (ECG): ritmo sinusal a 75 latidos por minuto. PR normal. Eje QRS a +120°. Bloqueo incompleto de rama derecha del haz de His, con onda S profunda en V5-V6.
+ANALÍTICA: destacan anemia microcítica leve (hemoglobina [HB] 11,9 mg/dl, volumen corpuscular medio [VCM] 77 fl) y leve hiperbilirrubinemia (bilirrubina total 1,4 mg/dl).
+ANALÍTICA en el momento del diagnóstico: Hb 10,9 mg/dl, VCM 71 fl, proteínas 5,4 g/dl, albúmina 2,89 g/dl, marcador tumoral antígeno carbohidrato 125 (CA125) 63,09 (VN 0-35).
+Resto en rango de normalidad.
+ECOCARDIOGRAMA TRANSTORÁCICO: ventrículo izquierdo (VI) no dilatado ni hipertrófico con función conservada (FE 60%). Válvula mitral morfologicamente normal. Sin insuficiencia mitral. Patrón de llenado E>A. Aurícula izquierda normal (28 mm). Raíz aórtica normal (22 mm). Válvula aórtica bicúspide sin datos degenerativos, sin insuficiencia aórtica.
+Cavidades derechas con dilatación moderada de aurícula derecha (AD). Válvula tricúspide con discreta apertura en tenting y flujo anterógrado con gradiente máximo de 12 mmHg y medio de 4 mmHg. Insuficiencia tricúspide ligera-moderada con gradiente máximo de 32 mmHg. Flujo en aorta descendente ligeramente aumentado (25 mmHg). Mala visualización de arteria pulmonar.
+Sin datos de shunt I-D. Se recomienda estudio transesofágico.
+ECOCARDIOGRAMA TRANSESOFÁGICO: VI no dilatado con contractilidad normal. Ventrículo derecho (VD) ligeramente dilatado con contractilidad normal. AD ligeramente dilatada. Aurícula izquierda (AI) normal. Válvula mitral morfológica y funcionalmente normal. Válvula aórtica bicúspide de velos finos, no calcificada, normofuncionante. Válvula tricúspide ligeramente engrosada con apertura en domo, aunque la presencia de otras valvulopatías congénitas sugiere que la alteración tricuspídea sea del mismo origen. Apertura moderadamente limitada con gradiente máximo de 11 mmHg y medio de 4 mmHg. Área por THP 1,3 cm2 (estenosis moderada). Regurgitación leve-moderada con gradiente pico de 40 mmHg. Válvula pulmonar ligeramente engrosada, con gradiente que parece situado a nivel de la válvula de 43 mmHg.
+Insuficiencia pulmonar leve. El tronco de la arteria pulmonar y la porción más proximal de las ramas es de tamaño normal, no parece hipoplásico. Raíz aórtica no dilatada. No se detecta comunicación interauricular ni interventricular.
+Con el resultado de los ecocardiogramas, se decide solicitar resonancia magnética (RM) cardiaca y angio-TC para descartar cardiopatías congénicas con shunt I-D.
+RESONANCIA MAGNÉTICA (RM) CARDIACA: hallazgo de estenosis pulmonar leve, estenosis tricúspide leve y dilatación de aurícula derecha.
+ANGIO-TC de aorta torácica: dilatación de aorta torácica ascendente (diámetro máximo 38,6mm), probable válvula aórtica bicúspide. Nacimiento independiente de arteria vertebral izquierda desde el cayado de la aorta. Imágenes pseudonodulares múltiples de hipercaptación de contraste en parénquima hepático en fase arterial.
+
+EVOLUCIÓN CLÍNICA
+Con estos hallazgos, se deriva a la paciente a consulta de medicina interna para estudio. Acude 4 meses más tarde con náuseas persistentes y cuadro rápido y progresivo de pérdida de peso, astenia e hiperperistaltismo intestinal con diarreas frecuentes. Interrogando en profundidad, la paciente cuenta clínica de alrededor de dos años de evolución de náuseas y vómitos autolimitados que se repiten en momentos de estrés. Además en los últimos 5-6 meses crisis de sofocos y eritema malar que se están haciendo cada vez más evidentes. En los dos años previos, crisis similares que se habían etiquetado como crisis de ansiedad en contexto de enfermedad materna grave que ha llevado a fallecimiento recientemente. Además, crisis de broncoespasmo y disnea autolimitados que se han etiquetado de asma leve. En las últimas dos semanas aparición de edemas en pies, cara y manos.
+En la exploración destaca eritema malar, hepatomegalia dura y edemas maleolares bilaterales.
+Se ingresa a la paciente para estudio completo con TC y RM abdomina y con biopsia de lesiones hepáticas, que llevan al diagnóstico de tumor carcinoide.
+Se inicia tratamiento médico con octreótide subcutáneo, furosemida hasta 160 mg/día y espironolactona hasta 100 mg/día. Tras 4 meses con tratamiento médico, la paciente evoluciona desfavorablemente y acude a consulta en situación NYHA III-IV. Se realizan nuevo ecocardiograma con importantes progresión de la enfermedad cardiaca con estenosis tricúspidea crítica e insuficiencia grave, estenosis pulmonar grave e insuficiencia moderada. Se comenta el caso con oncología médica que estima un prónóstico vital de unos 5 años, por lo que se decide recambio quirúrgico de válvulas tricúspide y pulmonar. La cirugía transcurre sin incidencias, con un posoperatorio inmediato complicado por múltiples crisis carcinoides. Se consigue extubar a la paciente al cuarto día del posoperatorio, complicándose el quinto día del posoperatorio con una grave crisis carcinoide que finalmente lleva al fallecimiento de la paciente.
+
+DIAGNÓSTICO
+Tumor neuroendocrino de grado intermedio estadio IV.
+Cardiopatía carcinoide. Insuficiencia cardiaca. Estenosis tricuspídea crítica. Insuficiencia tricuspídea grave. Estenosis pulmonar grave. Insuficiencia pulmonar moderada. Recambio quirúrgico de válvulas tricúspide y pulmonar. Posoperatorio complicado con crisis carcinoide. Muerte.

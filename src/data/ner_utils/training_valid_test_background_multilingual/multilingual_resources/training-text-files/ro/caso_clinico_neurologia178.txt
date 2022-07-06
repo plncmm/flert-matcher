@@ -1,0 +1,31 @@
+Anamneză
+Femeie în vârstă de 74 de ani, cu antecedente personale de mielom multiplu, care primise un transplant alogenic de măduvă osoasă cu 10 luni înainte și care fusese tratată cu imunosupresoare (tacrolimus, micofenolat și steroizi) de aproximativ 15 zile pentru boala grefă contra gazdă.
+
+Pacienta a fost internată în Secția de Hematologie pentru o evoluție de 24-48 de ore a unui sindrom general, oboseală, dureri musculare generalizate, greață și vărsături care erau legate de o infecție a căilor respiratorii superioare pentru care primise deja tratament antibiotic cu azitromicină timp de 7 zile. La 24 de ore de la internare, a fost făcută o cerere de evaluare la Departamentul de Neurologie din cauza unei slăbiciuni la nivelul membrului superior drept, care a evoluat în câteva ore spre apariția unei diplegii brahiale.
+
+Examinarea fizică
+Eupneic, saturație O2 97%. Tensiunea arterială 125/89 mmHg. Ritmul cardiac 111 bpm. Auscultație pulmonară patologică cu prezența de rezonanțe și wheezing împrăștiat bilateral, restul examenului sistemic fiind anodin. Examenul neurologic a relevat un pacient conștient, cu funcțiile superioare conservate. Vorbirea este normală. Fără disartrie. Motilitatea oculară și campimetria de confruntare sunt normale și nu există asimetrie facială. Există o slăbiciune la 1/5 la nivelul flexiei cervicale. La nivelul membrelor superioare există plegie a MSD și pareză la 0/5 distal și 2/5 proximal al MSI. Echilibrul muscular la MMII este normal. Nu au existat modificări semnificative în diferitele modalități senzoriale (algebică, vibratorie, artrocinetică sau tactilă fină). Există o reflexie în MMSS cu reflexe osteotendinoase prezente și simetrice în MMII. Reflexul cutanat-plantar este flexor bilateral.
+
+Teste complementare
+- Biochimie, hemoleucograma și coagularea: nu au fost descoperiri de interes.
+- Puncție lombară: 21 leucocite/mm3 (7% limfocite, 93% polimorfonucleare), proteinorrafie 42,6 mg/dl, glicemie normală.
+- Cultura LCR și Gram: negative.
+- Hemoculturi: negative.
+- Culturi urinare: negative.
+- Serologie infecțioasă serică: EBV, CMV, HSV, Mycoplasma IgG pozitiv și IgM negativ. Borrelia leptospira, lupus, rujeolă, cryptococcus, adenovirus, Coxiella, Chlamydophila pneumoniae, gripă, Legionella, RSV negativ.
+- Virusologia LCR: detectarea ARN-ului Enterovirus 68 prin PCR pozitiv. Detectarea prin PCR a CMV, HSV-1, HSV-2, VZV, EBV, HHV6, HHV7 este negativă.
+- Virologia serică: detectarea PCR a Enterovirusului pozitiv. Detectarea CMV, EBV, adenovirus, Rhinovirus, RSV, Influenza A și B, Parainfluenza, Metapneumovirus, Bocavirus negativ.
+- Tomografie craniană: fără constatări semnificative.
+- RMN al coloanei cervicale (15 noiembrie): nu există semne de compresie sau invazie a canalului spinal. La nivelul măduvei spinării cervicale și toracice, se identifică o leziune hiperintensă liniară în secvențele ponderate în T2 care afectează bilateral cornul anterior al măduvei spinării. Nu se identifică nicio captare patologică.
+- RMN cranian (19 decembrie): există un hipersemnal slab definit pe marginea stângă a ponsului, fără alte dovezi de implicare parenchimatoasă sau de intensificare patologică a contrastului.
+- RMN cervical (19 decembrie): s-a observat o ameliorare a leziunilor în ceea ce privește extensia, care a fost delimitată între C3-C7. La acest nivel, leziunile sunt observate pe fața anterioară a măduvei spinării, afectând bilateral cornul anterior. RMN cervical în secvență STIR, secțiuni axiale și sagitale: hiperintensitate care afectează cornul anterior al măduvei.
+- PESS: conducere centrală și medulară normală pentru aferențele somestezice ale ambilor nervi mediani cu latență periferică crescută.
+
+Diagnostic
+Mielită infecțioasă secundară infecției cu Enterovirus 68.
+
+Tratament
+Tratamentul imunosupresor a fost inițiat cu steroizi în doză de 1 g/kg de greutate corporală și imunoglobuline, precum și cu antibiotice antivirale și cu spectru larg, la suspiciunea inițială a unei afecțiuni infecțioase sau parainfecțioase. Deși etiologia vasculară reprezenta o posibilitate etiopatogenică mai puțin probabilă, a fost inițiat un tratament cu medicamente antiplachetare.
+
+Evoluție
+Pacientul a continuat să se deterioreze din punct de vedere clinic, prezentând disfagie și disfonie și necesitând transferul la secția de terapie intensivă pentru intubație orotraheală din cauza insuficienței respiratorii. În timpul șederii sale în secția de terapie intensivă, deficitul neurologic a progresat până la tetraplegie flască areflexică și a decedat o lună mai târziu în urma unor complicații sistemice multiple.

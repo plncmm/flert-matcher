@@ -1,0 +1,36 @@
+Anamnesi
+Questa è una donna di 55 anni a cui è stato diagnosticato 5 mesi prima del ricovero in Neurologia un adenocarcinoma mucinoso dell'endocervice intestinale con cellule ad anello di sigillo, stadio T2bN2M0. Lo studio di estensione ha escluso metastasi polmonari e ossee e la diffusione peritoneale. È stata sottoposta a un intervento chirurgico con linfoadenectomia pelvica e para-aortica, lasciando un residuo non resecabile attaccato alla vena iliaca esterna sinistra. Successivamente ha ricevuto un trattamento radioterapico di 46 Gy, una chemioterapia concomitante con cisplatino settimanale e un successivo impianto di brachiterapia endocavitaria. Venti giorni dopo l'impianto della brachiterapia, il paziente si è presentato al dipartimento di emergenza per una grave cefalea pulsante nella regione fronto-occipitale accompagnata da nausea e vomito. Il dolore si è presentato progressivamente e si è evoluto fino a un'intensità di 8/10. La svegliava nelle prime ore del mattino e aumentava con la manovra di Valsalva. La paziente era in trattamento con un regime di desametasone discendente dalla radioterapia, levofloxacina 500 mg al giorno per cistite emorragica secondaria al trattamento, tapentadol 150 mg al giorno, omeprazolo 20 mg ogni 24 ore e diazepam 5 mg la notte.
+
+Esame fisico
+Segni vitali entro i limiti normali. Afebrile. Esame generale: condizioni generali, paziente affetto da dolore. L'auscultazione cardiopolmonare era normale. Non c'era alcuna prova di infezione attiva.  Esame neurologico: buon livello di coscienza. Nessuna rigidità nucale è stata osservata (manovre di Kernig e Brudzinski negative). Gli alunni erano isocorici e normoreattivi. L'esame dei nervi cranici era normale. La forza degli arti, la coordinazione e la sensazione erano normali. I riflessi osteotendinei e cutaneo-plantare erano normali. L'esame del fondo era normale.
+
+Test aggiuntivi
+- Tomografia computerizzata (TC) d'urgenza: non c'era evidenza di emorragia intracranica o di lesioni metastatiche, né di dilatazione ventricolare.
+- Esami del sangue: anemia microcitica da carenza di ferro. Lieve ipercolesterolemia, lieve ipoalbuminemia. Funzione renale, epatica e ionografica normale, compresi fosfato e magnesio. Funzione tiroidea normale.
+- Marcatori tumorali: Ag-Ac Ca125 161,5 IU/ml, elevato rispetto all'ultimo controllo (84,6 IU/ml).
+- Sierologia per il virus herpes simplex e varicella zoster: positivo per le IgG. Sierologia della malattia di Lyme: negativa.
+- Puntura lombare (LP) (nel dipartimento di emergenza): pressione di deflusso del liquido cerebrospinale (CSF): 40 cm H2O. Leucociti al limite della normalità (5/mm3). Glucosio e proteine nella norma.
+- Seconda puntura lombare (6° giorno): pressione del liquor 39 cm H2O.
+- Terza puntura lombare (18° giorno): pressione del liquor 28 cm H2O.
+- Analisi del CSF: leucociti 5/mm3. Riposo normale.
+- Colture CSF: negative. VDRL e sierologie della malattia di Lyme negative.
+- Citologia del CSF (3): negativo per le cellule neoplastiche.
+- Risonanza magnetica (MRI) del cervello: piccolo focus di miglioramento dopo la somministrazione di contrasto endovenoso a livello del talamo sinistro, non specifico.
+- Risonanza magnetica spinale: alterazioni ossee a livello sacrale, legate alla radioterapia ipogastrica, che non ha coinvolto il midollo spinale. Il midollo spinale e le radici della cauda equina erano di normale morfologia e intensità di segnale e non hanno mostrato un miglioramento dopo la somministrazione di contrasto per via endovenosa.
+- Angiografia MRI cerebrale: non sono state rilevate malformazioni artero-venose.
+- TAC toraco-addominale: non ha mostrato alcun nuovo coinvolgimento metastatico.
+
+In seguito al peggioramento del mal di testa e alla comparsa di ipoacusia e paresi facciale, sono stati effettuati i seguenti test:
+- Esame del sangue: nessun nuovo risultato. Ag-Ac Ca125 189,1 IU/l.
+- Quarta puntura lombare: pressione del liquor 33 cm H2O. Iperproteinorrache (73,76 mg/dl) e ipoglicemia (32 mg/dl).
+- Citologia del CSF: negativa.
+- Risonanza magnetica spinale: debole enhancement lineare nel margine anteriore del conus medullaris e nelle radici della cauda equina, dopo somministrazione di gadolinio, compatibile con la disseminazione tumorale meningea. RM lombare con contrasto endovenoso (gadolinio): miglioramento lineare anteriore a livello del cono midollare e della cauda equina compatibile con una carcinomatosi meningea.
+
+Diagnosi
+Carcinomatosi meningea secondaria all'adenocarcinoma uterino.
+
+Trattamento
+Inizialmente, alla paziente è stata diagnosticata un'ipertensione intracranica di possibile origine farmacologica (corticosteroidi e chinoloni), per la quale ha ricevuto un trattamento con acetazolamide 250 mg ogni 8 ore, analgesia con farmaci antinfiammatori non steroidei e oppioidi e trattamento antiemetico con metoclopramide e ondansetron. Il ciclo discendente di corticosteroidi è stato continuato e il trattamento antibiotico con levofloxacina è stato ritirato.  
+
+Evoluzione
+Dopo 3 settimane di trattamento, la pressione intracranica e il dolore sono diminuiti, ma il paziente ha cominciato a presentare progressivamente paresi facciale, perdita dell'udito e diminuzione dell'acuità visiva. Sono stati eseguiti nuovi esami del sangue e del liquor e una nuova risonanza magnetica spinale, che sono risultati compatibili con una carcinomatosi meningea. La citologia del CSF per le cellule neoplastiche era di nuovo negativa. Dopo la diagnosi, il paziente è stato trattato con radioterapia olocranica e lombosacrale, ma la risposta non era buona e il paziente è morto 20 giorni dopo.

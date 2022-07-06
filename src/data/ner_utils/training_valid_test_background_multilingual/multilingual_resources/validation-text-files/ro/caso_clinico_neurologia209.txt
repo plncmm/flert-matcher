@@ -1,0 +1,27 @@
+Anamneză
+Un bărbat în vârstă de 57 de ani a fost urmărit timp de un an pentru hipoestezie la nivelul mâinilor și picioarelor, care începuse în anul precedent. Dislipidemie și exenolism sever până acum 5 ani. În anamneză a negat orice antecedente familiale de interes. Pacientul a consultat pentru arsuri indolente la nivelul mâinilor, cu hipoestezie de distribuție la nivelul degetelor 2 și 3 de la mâna dreaptă și a degetului 5 de la mâna stângă, cu o agravare ulterioară rapid progresivă care a afectat mâinile și membrele inferioare (MMII) până la genunchi în mod difuz, după o distribuție de mănuși și șosete. Aceste simptome au fost însoțite de stângăcii motorii distale la nivelul mâinilor. Se rănise la extremitățile distale fără să-și dea seama și chiar i se făcuseră suturi fără anestezie. El a negat simptome sugestive de disautonomie, precum și simptome sistemice sau constituționale.
+
+Examinarea fizică
+Examen sistemic normal. Nu au existat leziuni cutanate sau mucoase. Nu au existat deformări articulare și nici îngroșări palpabile ale trunchiurilor nervoase. La examinarea neurologică inițială, funcțiile mentale superioare au fost păstrate. Limbajul era normal. Nervii cranieni nu au fost modificați. Bilanțul muscular a arătat o ușoară pareză (4/5) a abductorului digitorum brevis al primului deget al mâinii drepte și a primului interosos dorsal al mâinii stângi, fără atrofie sau fasciculații. Examenul senzitiv a evidențiat hipoestezie la nivelul membrelor superioare (MMSS), mai accentuată la nivelul teritoriului nervului median la mâna dreaptă și cubital la mâna stângă. MMII au fost afectate până la genunchi cu anestezie totală distală. Nu a existat nicio scădere a sensibilității vibratorii. A existat o anhidroză distală marcată, cu tulburări trofice, cum ar fi căderea părului. Mersul era normal, Romberg negativ. Reflexele osteotendinoase au fost păstrate cu reflexe cutanate-plantare indiferente.
+O nouă examinare 5 luni mai târziu a relevat o distribuție mai difuză a hipoesteziei la nivel distal, precum și o slăbiciune mai accentuată cu hipotrofie a mușchilor ulnari ai mâinii stângi asociată cu atrofia abductorului digitorum brevis al primului deget al mâinii drepte. Aceste constatări au fost indicative pentru mulinevrită.
+
+Teste complementare
+- Analize de sânge: hemoleucograma, biochimie și coagulare normale. HDL și LDL-colesterol normal. Funcția tiroidiană normală și markerii tumorali. Studiu autoimunitar cu ANA, C-ANCA, P-ANCA și anti-Ro negative. Anticorpii anti-ganglioside (anti-GM1 și GQ1b IgG) sunt negativi. Crioglobuline negative. Imunoglobuline normale și proteinograma. Imunoelectroforeză fără descoperiri de gammopatie. ACE normal.
+- Serologia serică pentru HIV, VHB, VHC și Borrellia este negativă.
+- CT toracic-abdominal-pelvic: normal.
+- Imagistica prin rezonanță magnetică a coloanei vertebrale cervicale și a craniului: fără constatări notabile.
+- Studiul lichidului cefalorahidian (LCR): citochimie normală, fără disociere albuminocitologică. Citologia, cultura bacteriană și PCR pentru virus au fost negative.
+- Analiza activității alfa-galactosidazei A este normală (boala Fabry negativă).
+- Electroneurografie și electromiograme seriale (EMG/ENG):
+- Constatări inițiale compatibile cu o neuropatie senzorio-motorie, în principal cu caracter demielinizant sever, dar și axonal. Predominanță în MMSS, asimetrică și cu o mare cronodispersie, latențe crescute și viteze de conducere scăzute, scăderea amplitudinii potențialelor motorii (CMPA) și potențiale senzitive aproape inevitabile. Electroneurografie cu potențial motor median cu cronodispersie mare, latență crescută și amplitudine scăzută.
+- Schimbarea modelului de implicare în EMG/ENG succesive: dispariția potențialelor sensibile (NR). Scădere severă a amplitudinilor CMPA, persistând o cronodispersie mare a răspunsurilor cu latențe distale alungite. Afectarea pe alocuri, deoarece unii nervi, cum ar fi nervul radial drept sau nervul motor peroneal stâng au prezentat valori normale, aspect care sugerează o multinaurită. EMG cu model neurogenic redus.
+- Biopsie surală: neuropatie severă evoluată cu pierderea completă a tuturor fibrelor, inflamație și prezența bacililor intracelulari cu colorație Fite pozitivă, compatibilă cu lepra lepromatoasă. Biopsia nervului sural: se observă numeroși bacili Fite-pozitivi.
+
+Diagnostic
+Multinevrita infecțioasă datorată Mycobacterium leprae.
+
+Tratament
+A fost inițiat un tratament specific cu rifampicină, dapsone și clofazimină.
+
+Evoluție
+Având în vedere suspiciunea inițială de neuropatie imunomediată, au fost încercate mai multe cure de Ig IV și corticosteroizi pe cale orală, fără ameliorare. Evoluția clinică a continuat să progreseze, dezvoltând leziuni ulcerative la nivelul picioarelor.

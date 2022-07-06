@@ -1,0 +1,23 @@
+Motivo de consulta
+Dor de cabeza e mareos.
+
+Enfoque individual (anamnesis, exploración, probas complementarias)
+Varón de 52 anos sen outros antecedentes persoais que infección por VIH de máis de 10 anos de evolución, con bo control inmunovirológico (CD4 950 cél/μl, CD8 853 cél/μl, leucocitos 5.010 x103/μl, carga viral indetectable) que realiza tratamento inhibidores da transcriptasa inversa análogos de nucleósidos, sen sufrir complicaciones definitorias de SIDA; polo tanto nun estadio A1. Consultou por cefalea holocraneal e mareos de 15 días de evolución, asociando ademais somnolencia de predominio diurno, astenia e anorexia en aumento nas últimas semanas e perda de peso de 5 kg ademais de sudoración profusa sen calafrío e afebril. O paciente expresa estar angustiado porque sente que nas últimas semanas esquecer as cousas cotiás e di ter choro inmotivado de forma espontánea.
+
+Á exploración atopábase consciente, orientado e colaborador, eupneico en repouso e hemodinamicamente estable, con auscultación cardiopulmonar e exploración abdominal anodina. A nivel neurológico tan só era rechamante a presenza dun Romberg patológico, e mínima parálisis facial gestual, sen que presentase no momento rixidez nucal, nin outros signos de irritación meníngea, así como tampouco outra focalidad neurológica a nivel dos pares craneales, nin alteracións sensitivo-motoras, presentando o paciente unha marcha normal, non atáxica, sen lateralizaciones, nin dismetría, pero si con certa letargia dos movementos, que resultaba evidente ata para o paciente.
+
+- Analítica: Hemograma: hemoglobina 17,9g/dl, Plaquetas 235x103/μl, Leucocitos 9,76 x103/μl, Linfocitos 3,26 x103/μl, Neutrofilos 5,72 x103/μl.
+Coagulación: Fibrinógeno 511mg/dl, resto normal.
+Bioquímica: Glucosa 86 mg/dl, Albúmina 4,6 g/dl, Urea 7,1mg/dl, Filtrado glomerular 69 mL/min, Creatinina 1,18 mg/dL, perfil hidroelectrolítico e hepático normal.
+PCR: 0.14 mg/L
+Gasometría arterial: Ph 7,469, PaCO2 31,1 mmHg, PaO2 126 mmHg, SaO2 98.3% , HCO3 22,6 mmol/L.
+Ouriña: normal.
+- TAC craneal: LOE cerebral hiperdensa, a nivel do corpo calloso, que cruza a liña media e contacta co epéndimo, con edema perilesional e lixeiro efecto masa sobre as astas posteriores dos ventrículos laterales, altamente suxestivos de Linfoma Cerebral Primario.
+
+Xuízo clínico (listado de problemas, diagnóstico diferencial)
+O primeiro diagnóstico que se deu en Urxencias para, posterior ingreso, foi lesión cerebral compatible con Linfoma Cerebral Primario en paciente VIH estadio A1, que tras este achado pasa a ser clasificado como estadio C1.
+
+Plan de acción e evolución
+Ingresouse en Medicina Interna para ampliar estudo con RNM craneal con contraste, BodyTAC (ambas probas de imaxe sen achados diferentes ás do TC craneal ) e unha analítica con serología IgG CMV positivo con IgM negativo, IgG Toxoplasma positivo IgM negativo, subpoblaciones linfocitarias con CD4 954 cél/μl con carga viral indetectable. Durante o ingreso, refería atoparse bastante mellor referente aos seus cefaleas tralo tratamento con corticoides. Persiste a paralasis facial dereita con Romberg positivo o cal foi negativo tras varios días de tratamento con corticoides.
+Se contactó con Neurocirugía para valoración de tratamento oncológico.
+A nivel ético, suscítallenos o seguinte dilema, posto que os familiares, que descoñecen a inmunodeficiencia asociada á infección por VIH que padece o paciente, solicitan que non se informe ao paciente sobre a súa enfermidade actual ou a gravidade da mesma. Ante este dobre pacto de silencio, o médico de familia que o vai a seguir valorando en sucesivas consultas ten un papel intermediario e comunicativo para dar as explicacións pertinentes ao paciente e familiares sen falar de forma directa da súa patología, polo menos ata o momento que el mesmo nolo refira.

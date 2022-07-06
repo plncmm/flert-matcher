@@ -1,0 +1,30 @@
+ANTECEDENTES, ENFERMEDAD ACTUAL Y EXPLORACIÓN FÍSICA
+Hombre de 68 años de edad, con antecedentes de hipertensión arterial, exfumador, bronquitis crónica y tuberculosis pulmonar en la juventud. Fue intervenido dos años antes de hernia epigástrica y vólvulo gástrico y un año antes de eventración abdominal. Dos meses antes ingresa en Cardiología con el diagnóstico de posible pericarditis aguda idiopática, descubriéndose de forma casual recidiva de hernia pasaesofágica. Como tratamiento habitual toma dutasterida 0,5 mg/24h, tamsulosina 0,4/24h, olmesartan 4/12 h, salmeterol/ fluticasona 50/500 mg/24h, diltiazem, clembuterol y omeprazol.
+Ingresa de forma programada para cirugía correctora de hernia paraesofágica con reducción del estómago herniado, cierre de los pilares diafragmáticos, fundoplicatura tipo Nissen y gastropexia.
+
+En los días siguientes a la cirugía el paciente se queja de dolor torácico irradiado al hombro con disnea y disfagia acompañante, sin objetivarse causa aparente. El octavo día postoperatorio presenta deterioro importante del estado general, con hipotensión marcada, dolor torácico y disnea intensa por lo que se avisa al equipo de Cardiología de guardia.
+
+A la exploración física presenta hipotensión 90/65 mmHg, taquicardia (120 lpm), marcada IY a 45o, tonos cardiacos apagados, crepitantes en bases pulmonares, enfisema subcutáneo costado y hemiabdomen derecho, edema MMII.
+
+PRUEBAS COMPLEMENTARIAS
+ECG: taquicardia sinusal a 120 lpm. Eje -30o, BIRDHH. Elevación del ST difusa con descenso en AVR, descenso del PR con ascenso en AVR (compatible con pericarditis aguda).
+Radiografía de tórax: cardiomegalia importante, congestión pulmonar Analítica: urea 110, Cr 1,78, iones normales, PCR > 9 mg/dl, Hb 10,4, leucocitosis (15300/ul, neutrofilia 88%), plaquetopenia 67 000/ul. Coagulación normal. Marcadores daño miocárdico negativos. Colesterol normal. Hierro normal. Tiroides normal.
+Ecocardiograma urgente: derrame pericárdico circunferencial, 30 mm, colapso de cavidades derechas y tendencia al colapso del ventrículo izquierdo, alternancia de los flujos valvulares con la respiración, compatible con taponamiento ecocardiográfico.
+
+EVOLUCIÓN
+Se traslada a Unidad de Cuidados Intensivos Cardiovasculares donde se realiza pericardiocentesis percutánea con obtención de abundante líquido purulento, enviando las correspondientes muestras para análisis bioquímico y microbiológico e inicio de tratamiento antibiótico empírico de amplio espectro (meropenem + vancomicina). Dado el antecedente reciente de cirugía digestiva se sospecha relación con el proceso actual por lo que se solicita TAC torácico para descartar la presencia de fístula digestivo-pericárdicas.
+TAC: nivel hidroaéreo en derrame pericárdico grave de unos 3 cm circunferencial. Tras administrar contraste oral no se observan datos que sugieran la presencia de fístula digestiva-pericardio. Pericarditis bacteriana, neumoperitoneo, enfisema subcutáneo.
+Cultivo líquido pericárdico: líquido purulento, con abundantes PMN, crecimiento de varios microorganismos: Str beta hemolítico grupo F, Str Viridans, BGP aerobio, BGN. Tinciones y cultivos micobacterias negativas. Antibiograma: sensible a amoxicilina-clavulánico, resistente a vancomicina).
+Ecocardiograma control: datos de constricción pericárdica, movimiento paralelo de ambas hojas pericardio y engrosamiento. Aunque inicialmente tras la pericardiocentesis percutánea mejora significativamente, después se observa que el derrame pericárdico aumenta progresivamente y persisten signos y síntomas de insuficiencia cardiaca, por lo que se realiza pericardiotomía subxifoidea drenando 200 cc de líquido purulento y fibrina.
+Anatomía patológica: pericarditis crónica fibrosa con superficie interna necrohemorrágica y purulenta. Gran reacción fibroblástica y esclerosis asociada. Mejoría de la situación clínica y afebril pero en los ecocardiogramas seriados aumento del derrame pericárdico en la cara lateral aumento progresivo por lo que se realiza cirugía cardiaca y se extirpa el pericardio mediante pericardiectomía interfrénica y drenaje de absceso epicárdico en cara lateral de ventrículo izquierdo y en aurícula derecha.
+Cultivo cápsula pericárdica negativo. Quantiferon negativo, resultado que indica mínima probabilidad de infección por M. Tuberculosis.
+
+El paciente completó varias semanas de tratamiento antibiótico intravenoso (inicialmente: meropenem 1 g/8h, 3 semanas + vancomicina 1 día y posteriormente: imipenem 0,5 g/8h + amikacina 800 mg/24h, 2 semanas). Buena evolución y mejoría progresiva posterior. En total estuvo ingresado más de dos meses. En la actualidad el paciente se encuentra asintomático y realizando vida activa. En los ecocardiogramas de control ha desaparecido completamente el derrame pericárdico.
+
+DIAGNÓSTICO
+Recidiva hernia paraesofágica intervenida con cirugía tipo Nissen.
+Pericarditis aguda purulenta, derrame pericárdico grave y taponamiento cardiaco.
+Pericarditis efusivo-constrictiva.
+Pericardiocentesis evacuadora y diagnóstica.
+Pericardiotomía subxifoidea.
+Pericardiectomía y drenaje de absceso pericárdico.

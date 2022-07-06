@@ -1,0 +1,23 @@
+Motiu de consulta
+Mal de cap i marejos.
+
+Enfocament individual (anamnesi, exploració, proves complementàries)
+Home de 52 anys sense altres antecedents personals que infecció per VIH de més de 10 anys d'evolució, amb bon control inmunovirológico (CD4 950 cél/μl, CD8 853 cél/μl, leucòcits 5.010 x103/μl, càrrega viral indetectable) que realitza tractament inhibidors de la transcriptasa inversa anàlegs de nucleòsids, sense haver sofert complicacions definitòries de SIDA; per tant en un estadi A1. Va consultar per cefalea holocraneal i marejos de 15 dies d'evolució, associant a més somnolència de predomini diürn, astènia i anorèxia en augment en les últimes setmanes i pèrdua de pes de 5 kg a més de sudoració profusa sense esgarrifança i afebril. El pacient expressa estar atabalat perquè sent que en les últimes setmanes se li oblides les coses quotidianes i diu tenir plor immotivat de manera espontània.
+
+A l'exploració es trobava conscient, orientat i col·laborador, eupneico en repòs i hemodinamicamente estable, amb auscultació cardiopulmonar i exploració abdominal anodina. A nivell neurològic tan sols era cridanera la presència d'un Romberg patològic, i mínima paràlisi facial gestual, sense que presentés en el moment rigidesa nucal, ni altres signes d'irritació meníngia, així com tampoc una altra focalidad neurològica a nivell dels parells cranials, ni alteracions sensitiu-motores, presentant el pacient una marxa normal, no atàxica, sense lateralitzacions, ni dismetría, però si amb una certa letargia dels moviments, que resultava evident fins i tot per al pacient.
+
+- Analítica: Hemograma: hemoglobina 17,9g/dl, Plaquetes 235x103/μl, Leucòcits 9,76 x103/μl, Limfòcits 3,26 x103/μl, Neutrofilos 5,72 x103/μl.
+Coagulació: Fibrinogen 511mg/dl, resta normal.
+Bioquímica: Glucosa 86 mg/dl, Albúmina 4,6 g/dl, Urea 7,1mg/dl, Filtrat glomerular 69 ml/min, Creatinina 1,18 mg/dl, perfil hidroelectrolític i hepàtic normal.
+PCR: 0.14 mg/L
+Gasometria arterial: Ph 7,469, PaCO2 31,1 mmHg, PaO2 126 mmHg, SaO2 98.3% , HCO3 22,6 mmol/L.
+Orina: normal.
+- TAC cranial: LOE cerebral hiperdensa, a nivell del cos callós, que travessa la línia mitjana i contacta amb el epéndimo, amb edema perilesional i lleuger efecte massa sobre les astes posteriors dels ventricles laterals, altament suggestius de Limfoma Cerebral Primari.
+
+Judici clínic (llistat de problemes, diagnòstic diferencial)
+El primer diagnòstic que es va donar en Urgències per a, posterior ingrés, va ser lesió cerebral compatible amb Limfoma Cerebral Primari en pacient VIH estadi A1, que després d'aquesta troballa passa a ser classificat com a estadi C1.
+
+Pla d'acció i evolució
+Es va ingressar en Medicina Interna per a ampliar estudi amb RNM cranial amb contrast, BodyTAC (totes dues proves d'imatge sense troballes diferents a les del TC cranial ) i una analítica amb serologia IgG CMV positiu amb IgM negatiu, IgG Toxoplasma positiu IgM negatiu, subpoblaciones limfocitàries amb CD4 954 cél/μl amb càrrega viral indetectable. Durant l'ingrés, referia trobar-se bastant millor referent a les seves cefalees després del tractament amb corticoides. Persisteix la paralasis facial dreta amb Romberg positiu el qual va ser negatiu després de diversos dies de tractament amb corticoides.
+Es va contactar amb Neurocirurgia per a valoració de tractament oncològic.
+A nivell ètic, se'ns planteja el següent dilema, ja que els familiars, que desconeixen la immunodeficiència associada a la infecció per VIH que pateix el pacient, sol·liciten que no s'informi el pacient sobre la seva malaltia actual o la gravetat d'aquesta. Davant aquest doble pacte de silenci, el metge de família que el continuarà valorant en successives consultes té un paper intermediari i comunicatiu per a donar les explicacions pertinents al pacient i familiars sense parlar de manera directa de la seva patologia, almenys fins al moment que ell mateix ens el refereixi.

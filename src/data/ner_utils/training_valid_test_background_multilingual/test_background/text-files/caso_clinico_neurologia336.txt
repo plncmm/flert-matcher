@@ -1,0 +1,25 @@
+Anamnesis
+Paciente mujer, inglesa, de 60 años, con los siguientes antecedentes personales: fumadora de 20 cigarrillos diarios y bebedora ocasional. No otros hábitos tóxicos. Síndrome ansioso-depresivo en seguimiento por su centro de salud mental más próximo. No tratamiento domiciliario actualmente.
+
+Encontrándose previamente bien, consulta a través de urgencias por presentar sobre las 3:30 de la madrugada y de forma brusca déficit completo de agudeza visual, encontrándose desde entonces agitada, nerviosa, con náuseas y vómitos. A las pocas horas, estando esperando en el área de Urgencias, comienza con deterioro brusco del nivel de consciencia, acompañado de crisis tónico-clónica generalizada y depresión respiratoria que requiere intubación e ingreso en la Unidad de Cuidados Intensivos (UCI).
+
+Exploración física
+En el examen general a su llegada, la paciente presentaba fetor etílico, regular estado general con palidez cutáneo mucosa, con una puntuación en la escala de coma de Glasgow de 15. Cifras tensionales 155/100 mmHg, con frecuencia cardiaca de 100 lpm, afebril y eupneica. La auscultación cardiopulmonar era normal y la exploración abdominal anodina. Exploración neurológica a su llegada: alerta, orientada en espacio y tiempo, lenguaje normal. No signos meníngeos. Amaurosis fugax bilateral con estudio de fondo de ojo normal. Agitación psicomotriz. Moviliza los cuatro miembros simétricamente. Sensibilidad normal. Reflejos osteotendinosos bilaterales y simétricos. Coordinación normal. Reflejo cutáneo-plantar flexor bilateral. Tras el empeoramiento clínico durante su espera en el área de Urgencias, la paciente presenta deterioro brusco del nivel de consciencia con una puntuación en la escala de Glasgow de 6/15. Pupilas midriáticas arreactivas.
+
+Pruebas complementarias
+A su llegada a Urgencias se realizaron las siguientes pruebas:
+• Analítica básica con hemograma, coagulación, bioquímica y gasometría venosa, donde destacan: 18.300 leucocitos/ mm3 (62% neutrófilos, 30% linfocitos), hemoglobina 17,3 g/dl. Volumen corpuscular medio 100 fl. Tiempo parcial de tromboplastina activada (TTPA) 44,7 s, TTPA-ratio 1,51, pH venoso 6,93, presión parcial de anhídrido carbónico (PaCO2) 12 mmHg, bicarbonato (HCO3) real 2,5 mmol/l, glucosa 152 mg/dl, sodio 134 mmol/l, lactato deshidrogenasa 207 UI/l.
+• Sistemático de orina negativo.
+• Estudio de drogas de abuso en orina: benzodiacepinas negativo, etanol 0,2 mg/l.
+• Se realizó una radiografía simple de tórax, sin hallazgos significativos.
+• En la tomografía computarizada (TC) de cráneo realizada a su llegada se objetiva un marcado borramiento generalizado de los surcos infra y supratentoriales bilaterales con colapso ventricular y cisternal generalizado. Objetivándose asimismo tejido cerebral hipodenso sugestivo de marcado edema cerebral difuso. Tomografía computarizada sin contraste: se observa marcado borramiento generalizado de los surcos infra y supratentoriales bilaterales con colapso ventricular y cisternal generalizado. Se objetiva asimismo tejido cerebral hipodenso sugestivo de marcado edema cerebral difuso.
+Tras el empeoramiento clínico se repitieron los estudios analíticos y de neuroimagen:
+• Analítica básica, donde destaca: 23.100 leucocitos/mm3 (80% neutrófilos, 14% linfocitos). TTPA 123,5 s, TTPA-ratio 4,17. Gasometría arterial con pH arterial 7,63, PaCO2 34,7 mmHg, PaO2 65,4 mmHg, HCO3 real 35. GAP osmolal 32 mOsm/l. Bioquímica con glucosa 136 mg/dl, fósforo 1,23 mg/dl.
+• TC de cráneo: imagen de necrosis a nivel de los ganglios basales bilaterales (núcleos caudado y putamen) con imágenes hiperdensas en su interior sugestivas de sangrado. Tomografía computarizada sin contraste: imagen de necrosis a nivel de los ganglios basales bilaterales con imágenes hiperdensas en su interior sugestivas de sangrado. Borramiento de surcos cerebrales generalizados. Edema cerebral difuso.
+
+Diagnóstico
+Ceguera completa, encefalopatía y acidosis metabólica grave probablemente secundaria a toxicidad grave por metanol.
+
+Tratamiento y evolución
+Ante la sospecha diagnóstica de intoxicación por metanol y en espera inicialmente del resultado de los niveles plasmáticos de metanol, se inicia tratamiento empírico para la corrección de la acidosis con: etanol intravenoso, hemodiálisis, ácido fólico intravenoso y bicarbonato a altas dosis, al no disponer la farmacia del centro de 4-metilpirazol.
+A pesar del tratamiento, la paciente evoluciona a la muerte encefálica, que se diagnostica con la exploración clínica y el estudio electroencefalográfico. Finalmente, por problemas técnicos no se obtuvo el resultado de los niveles de metanol. No obstante, ante la clínica y la evolución de la paciente, la sospecha diagnóstica siguió siendo la de inicio, tras descartarse razonablemente otras causas.

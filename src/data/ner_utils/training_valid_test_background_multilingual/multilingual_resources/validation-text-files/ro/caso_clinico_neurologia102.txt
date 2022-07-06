@@ -1,0 +1,30 @@
+Anamneză
+Un bărbat în vârstă de 63 de ani cu un diagnostic anterior de hipertensiune arterială și hipertrofie benignă de prostată a fost trimis la serviciul de urgență cu un cod de ictus. La ora 5:30 dimineața a fost găsit pe podea, cu dificultăți de mișcare și cu un discurs repetitiv și incoerent. Ultima dată a fost văzut asimptomatic la ora 00:00. Pacientul este disfazic, confuz și dezorientat, astfel încât nu este posibilă întocmirea istoricului medical al pacientului. Familia nu a furnizat alte date de interes, negând orice simptome în zilele precedente.
+
+Examinarea fizică
+Tensiunea arterială 141/81 mmHg, frecvența cardiacă 75 bpm, saturația O2 99% (FiO2 21%), temperatura 35,8°C. DTX: 100. DTX: 100. Conștient, dezorientat, confuz. Tulburare de vorbire fluctuantă cu caracteristici disfazice mixte. Fără tulburări campimetrice sau ale nervilor cranieni, fără tulburări motorii sau senzoriale.
+
+Teste complementare
+- La urgențe au fost efectuate următoarele teste: analize de sânge, radiografie toracică și ECG, care au fost normale.
+- Având în vedere suspiciunea clinică de accident vascular cerebral în teritoriul MCA stâng, cu timp de evoluție nedeterminat, s-a efectuat o tomografie craniană bazală și multimodală cu perfuzie și o angio-CT, care nu au evidențiat nicio alterare.
+
+Diagnostic
+Având în vedere rezultatele testelor complementare, tratamentul fibrinolitic a fost respins, iar pacientul a fost internat în secția de accident vascular cerebral cu diagnosticul de accident vascular cerebral ischemic al MCA stâng.
+
+La admiterea în Unitatea de Stroke, pacientul a avut o criză generalizată cu debut parțial și a fost tratat cu diazepam. S-a evocat posibilitatea ca situația inițială a pacientului să corespundă unei perioade postcritice, deși cauza inițială a crizei a rămas neclară, fără a se exclude o cauză vasculară. A fost solicitată de urgență o electroencefalogramă, unde a fost identificat un pattern de descărcări epileptiforme periodice lateralizate (PLED). Din punct de vedere hemodinamic, pacientul a prezentat febră febrilă, iar din punct de vedere neurologic, a continuat să prezinte o tulburare de limbaj, cu o ameliorare față de examenul inițial. La șase ore de la internare, s-a efectuat o puncție lombară pentru analiza LCR, solicitând PCR VHS datorită suspiciunii clinice și susținută de EEG de encefalită herpetică.
+
+Tratament
+După puncția lombară, a cărui biochimie de urgență a fost normală, s-a început tratamentul empiric cu aciclovir 750 mg/8 h.
+
+Evoluție
+Evoluția ulterioară a pacientului în zilele de internare, în așteptarea RMN-ului și a rezultatului VHS PCR, a fost favorabilă, recuperând vorbirea normală. Pacientul a raportat dificultăți în rememorarea amintirilor și s-a plâns că, ocazional, simte mirosuri ciudate, examinarea fiind normală în orice moment. Câteva zile mai târziu, am obținut un rezultat negativ la analiza PCR VHS, iar RMN-ul a arătat rezultate compatibile cu encefalita limbică stângă. Tratamentul a fost completat cu aciclovir (10 doze) și a fost inițiat studiul etiologic al encefalitei limbice, cu diagnostic diferențial de patologie autoimună, inflamatorie și paraneoplazică. A fost efectuat un studiu de extensie tumorală, care a fost negativ, serologia sanguină și markerii de autoimunitate din sânge au fost negativi, iar un studiu LCR a fost efectuat pentru anticorpi onconeuronali, care au fost, de asemenea, negativi.
+
+A fost solicitat un nou RMN de control, care a fost efectuat la 5 zile după primul, care a arătat o imagine pseudonodulară în regiunea temporală stângă cu restricție de difuzie, fără îmbunătățiri patologice după contrast. A fost evocată posibilitatea unui proces tumoral infiltrativ de grad scăzut.
+
+Având în vedere situația stabilă, pacientul a fost externat la domiciliu cu urmărire ambulatorie în cadrul Secției de Neurologie și Neurochirurgie, primind tratament cu levetirazetam 1.000 mg/12 h, cu diagnosticul de epilepsie simptomatică de lob temporal cu leziune sugestivă de gliom de grad scăzut.
+
+La o lună de la externare, pacientul a fost internat din nou pentru status parțial complex, cu necesitatea de a crește doza de levetirazetam la 1.500 mg/12 h, la care s-a adăugat lacosamidă 200 mg/12 h. În acest timp, a fost efectuată o nouă scanare RMN și o nouă scanare RMN. În timpul internării, a fost efectuat un nou RMN, care a arătat o creștere relativă a leziunii față de cea anterioară, cu o zonă infracentimetrică de evidențiere a contrastului. Din punct de vedere neurologic, pacientul a evoluat spre situația sa anterioară. Pacientul a fost externat și a fost programat pentru o nouă scanare RMN de control peste 2 luni.
+
+Noul RMN de control a arătat leziunea anterioară cu zone de captare în interiorul acesteia, însoțite de o creștere a perfuziei, toate acestea fiind compatibile cu progresia tumorii. Pacientul a fost evaluat de neurochirurgie și a fost efectuată o biopsie stereotactică a leziunii. Studiul anatomopatologic a dus la diagnosticul de oligodendrogliom de gradul III.
+
+După ce pacientul a continuat să raporteze plângeri de memorie și labilitate emoțională, cu eșecuri ocazionale de nominalizare la examinare, a fost evaluat de către departamentele de Oncologie Medicală și Radioterapie, iar tratamentul a fost început cu temozolomidă și radioterapie.

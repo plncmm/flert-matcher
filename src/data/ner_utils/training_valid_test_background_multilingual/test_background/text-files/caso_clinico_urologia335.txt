@@ -1,0 +1,37 @@
+Anamnesis
+Varón de 16 años de edad con antecedentes personales de asma bronquial, mononucleosis infecciosa y reacción cruzada a citomegalovirus.
+El paciente acude al Servicio de Urgencias por un cuadro febril más odinofagia que condiciona una reagudización de su hematuria, que presenta desde hace un mes, sin otra sintomatología urinaria asociada y que no tiene relación con traumatismos ni con cuadros de deporte intenso, por lo que se decide su ingreso en Medicina Interna.
+El paciente pasa al Servicio de Nefrourología una vez solucionado su síndrome faríngeo para el estudio del origen de su hematuria, por lo que se realizaron las pruebas complementarias que se describirán más adelante.
+
+Exploración física
+Paciente con faringitis importante, prácticamente sin voz al ingreso, con fiebre alta. Cabeza y cuello: dentro de la normalidad; faringe muy enrojecida con adenopatías submandibulares. Auscultación pulmonar dentro de la normalidad. Auscultación cardíaca: ruidos cardíacos rítmicos. Abdomen: blando, depresible, no doloroso, no organomegalias. Puñopercusiones renales negativas. Blumberg: negativo. Testículos, pene y epidídimos: normales.
+
+Pruebas complementarias
+• Analítica: 4.560.000 hematíes/mm3, hemoglobina 13,7 g/dl, hematocrito 41,6%. Valores corpusculares dentro de la normalidad. 8.200 leucocitos/mm3, segmentados 62% (al ingreso tuvo leucocitosis con desviación izquierda), 265.000 plaquetas/mm3, velocidad de sedimentación globular 36 mm, pH 7,38, HCO3 29 mmol/l.
+• Estudio de coagulación: dentro de la normalidad. Sodio 139 mmol/l, potasio 4,1 mmol/l, cloro 102 mmol/l, calcio 9,6 mg/dl, fósforo 4,5 mg/dl, fosfatasa alcalina 285 UI/l, PTH intacta 14,5 pg/ml (VN). Vitamina D3 20 pg/l.
+• Urea 25,1 mg/dl, ácido úrico 6,69 mg/dl, creatinina 0,94 mg/dl. CCr: normalidad. MDR: normal.
+• Proteinograma (albúmina, alfa-1-globulina, alfa-2-globulina, beta-2- globulina y gammaglobulina): normales.
+• C3 y C4: normal. IgA: normal. IgG: normal, IgM: normal.
+• ANA, DsDNa, ANCAS: negativos.
+• Antígenos mononucleosis infecciosa, anticuerpo IgG, citomegalovirus 57. IgM 0,2.
+• Monosticon: mononucleosis tipo Epstein-Barr: negativo y Paul Bulnell: negativos. Antígenos tumorales: CEA, CA 12.5, CA 19.9, alfafetoproteína y PSA total: normales.
+• Orina: volumen 1.200-1.600 ml/24 horas. Densidad 1.014-1.022, pH 6-5-7, siempre ha sido en la tira positivo a hematíes y con indicios de proteínas en orina. Creatinina 77 mg/dl, ácido úrico 30 mg/dl, fósforo 41,4 mg/dl, calcio en orina 4,4 mg/dl, cloro 121 mmol/l, potasio 31 mmol/l, sodio 123 mmol/l, urea 14,4 mg/dl. Proteinuria negativa cuantificada en todas las diuresis, la microalbúmina y microalbúmina/creatinina han sido ligeramente positivas por la presencia en los sedimentos de micro y/o macro hematíes.
+• Incontables eritrocitos en todos los sedimentos realizados4.
+• Con la orina en fresco y orinas normales se ha hecho anatomía en cámara de los hematíes, siendo estos absolutamente normales.
+• Radiografía simple de abdomen: dentro de la normalidad.
+• Ecografía abdominal: ligera esplenomegalia de 12 cm. Riñones de tamaño, morfología y ecogenicidad normales, sin dilatación de la vía excretora. Vejiga de paredes lisas y distendidas sin defectos de repleción. Próstata sin lesiones sospechosas.
+• CUMS: vejiga de forma y tamaño normales. No hay reflujo en placas miccionales. Calibre uretral normal, sin residuo vesical postmiccional.
+• Urografía intravenosa: riñones de forma y tamaño normales. En el tercio superior del uréter izquierdo se observa una imagen de compresión posiblemente por cruce vascular que provoca una discretísima dilatación del uréter proximal.
+• Angio-resonancia sin y con contraste de arterias renales y venas renales: riñones de tamaño, morfología e intensidad de señal normales, sin signos focales sólidos ni quistes. Vía excretora de calibre normal. En el estudio vascular se identifica un pinzamiento de la vena renal izquierda a su paso entre la aorta y la arteria mesentérica superior, identificando un cambio de calibre (filiforme previa a dicha pinza y de 18 mm proximal a la misma). Arterias renales y vena renal derecha dentro de la normalidad, no hay otros hallazgos.
+
+Diagnóstico
+Hematuria secundaria a síndrome de hipertensión de la vena renal izquierda o síndrome del cascanueces o de nutcracker (síndrome de pinzamiento de la arteria mesentérica sobre la vena renal izquierda).
+
+Tratamiento
+Se deriva al Servicio de Cirugía Vascular, donde se le coloca al paciente un stent (16 x 40 mm) sobre la vena renal izquierda.
+
+Evolución
+En el postoperatorio inmediato presentó micción espontánea de orina clara, realizándose las siguientes pruebas de control:
+• Angio-TC: no se identifican fístulas, comprobándose que el stent sigue colocado en la vena renal izquierda y es permeable.
+• Arteriografía: que confirma lo visualizado en la angio-TC.
+• Citologías: negativas para células malignas.

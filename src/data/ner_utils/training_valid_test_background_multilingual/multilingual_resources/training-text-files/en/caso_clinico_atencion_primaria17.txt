@@ -1,0 +1,35 @@
+Reason for consultation
+The patient's son-in-law called the Health Centre to ask her family doctor to come to her home, as he found her strange. Two days earlier, she had gone to see her primary care doctor for dyspnoea and fever, where a diagnosis of acute bronchitis was made by chest X-ray and antibiotic treatment was started.
+
+Individual approach (anamnesis, examination, complementary tests)
+Anamnesis: the patient is an 84-year-old woman, denies allergic reactions to medication, hypertensive (who has stopped taking antihypertensive medication of her own accord), dyslipidaemic, AF anticoagulated with acenocoumarol. Denies toxic habits. Independent ABVD.
+
+On arriving at home, the patient was found to be obnubilated, with a low level of consciousness, in addition to deviation of the corner of the mouth and loss of strength in the left hemisphere. She was afebrile.
+It was decided to transfer the patient to the Emergency Department of the Hospital by ambulance with medical assistance and she was monitored at all times. The Stroke Code was activated.
+On arrival at the hospital, her condition had not changed. However, during the physical examination, the patient began with a fever of 38.8oC.
+
+Physical examination:
+- Regular general condition, skin pallor, eupneic at rest. Fever of 38.8oC de novo. BP 156/94.
+- ACR: Arrhythmic at a good frequency, no murmurs. MVC, no pathological sounds.
+- ECG: AF at 70 bpm. Normal axis. Narrow QRS. No signs of repolarisation.
+- Neurological: tendency to sleep, dysarthric language although difficult to explore. PINLA. ECMO. Left homonymous hemianopsia to the threat. Unforced tendency of gaze to the right. Left facial paralysis. Weakness in left limbs with tone present although difficult to explore due to lack of collaboration. Brudzinski and Kerning doubtful.
+
+Complementary tests:
+- CBC: Leukocytes 19.19x10e9/L, Neutrophils 17.5x 10e9/L, Lymphocytes 0.8x 10e9/L, Glucose 130, Sodium 134, Creatinine 0.91, CRP 70, INR 2.08. Urine not pathological.
+- Cranial CT and CT angiography: no pathological alterations.
+- Lumbar puncture: 1150 cells with 84% PMN, 310 proteins, 35.6 glucose, Gram positive for listeria.
+
+Family and community approach
+Elderly patient living alone, up to this point was ABVD. Good family support. Medium socioeconomic level.
+
+Clinical judgement (problem list, differential diagnosis).
+
+Differential diagnosis:
+- STROKE. Initially, due to the history of untreated hypertension and the neurological examination, the diagnosis was oriented towards a stroke. The appearance of fever and normal CT and CT angiography led to a change of opinion towards an infectious disease.
+- Bacterial meningoencephalitis. The neurological focality and the fever pointed towards an infectious pathology, which was later confirmed by lumbar puncture and Gram's test.
+
+Clinical judgement: bacterial meningoencephalitis.
+
+Action plan and evolution
+The patient was transferred to the Internal Medicine ward. There, she was monitored and empirical treatment was started with ceftriaxone+ampicillin+vancomycin+dexamethasone iv and antipyretic treatment.
+After starting treatment, the patient's general condition gradually improved and she is currently healthy and without sequelae of the episode.

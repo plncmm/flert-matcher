@@ -1,0 +1,30 @@
+Anamnesis
+Mujer de 46 años, diestra. Etnia gitana. Sin antecedentes familiares de interés. Sin hábitos tóxicos. Insuficiencia venosa periférica. Cirugías previas: ligadura de trompas hace 15 años. Sigue tratamiento habitual con diosmina 500 mg/24 h. Desde hace unos 30 años presenta episodios de trastorno visual en forma de fotopsias seguido de acorchamiento y pérdida de fuerza hemicorporal derecha de 1 hora de duración que habitualmente se siguen o acompañan a una cefalea intensa hemicraneal y pulsátil con náuseas; la frecuencia aproximada de estos episodios era de uno al año y no había consultado previamente. Desde hace un año presenta cervicalgia, prácticamente diaria, junto con parestesias en ambas manos, dichos síntomas siempre se atribuyeron a un síndrome de latigazo cervical a consecuencia de un accidente de tráfico por alcance.
+Acude al Servicio de Urgencias por presentar desde hace 6 horas pérdida de fuerza y alteración de la sensibilidad en el hemicuerpo derecho, de mayor intensidad que los episodios que sufre habitualmente, refiriendo en esta ocasión cefalea de características distintas y de menor intensidad. Durante su estancia en Urgencias presentó mejoría total de la cefalea y parcial del déficit motor y sensitivo por lo que, tras ser valorada por Neurología de guardia y catalogarse como migraña con aura hemisférica, se remitió para seguimiento ambulatorio. Tres semanas después, acude la paciente a consulta general de Neurología aún con evidente pérdida de fuerza en el hemicuerpo derecho, que le dificulta en gran medida la marcha, aunque en progresiva mejoría desde el inicio. Ante la persistencia del déficit motor y los hallazgos exploratorios se decide su ingreso para completar el estudio.
+
+Examen físico
+General: insuficiencia venosa severa bilateral. El resto de la exploración general resultó sin hallazgos patológicos. Neurológico: consciente, orientada, ánimo deprimido con cierta labilidad emocional. Funciones superiores y habla normales. Sin afectación de pares craneales. Fuerza: hemiparesia derecha global 3/5 en MSD y 4/5 global en MID, sin atrofias musculares a la inspección.
+Sensibilidad: hiperpatía en MID junto con hipoalgesia en ambos MMSS, sensibilidad táctil y propioceptiva conservadas, sin niveles sensitivos, sin afectación esfinteriana, ni fenómeno cortical de extinción sensorial. Reflejos miotáticos: 3/4 en el hemicuerpo izquierdo y 4/4 en el hemicuerpo derecho con clonus aquíleo derecho inagotable. RCP: extensor bilateral. Marcha en segador algo abigarrada, dado que la paciente presentaba ciertos rasgos funcionales que la artefactuaban, pero objetivamente patológica por hemiparesia derecha.
+
+Pruebas complementarias
+• Analíticas: hemograma, bioquímica con iones, perfil renal, hepático y hormonal (TSH, T3, T4, PTH) normales. Coagulación básica y especial normales. Serologías y autoanticuerpos negativos.
+• Radiografía de tórax: sin alteraciones en el parénquima pulmonar. Aumento en la densidad de la parrilla costal y de las cabezas humerales.
+• Electrocardiograma: ritmo sinusal a 60 lpm.
+• Dúplex color de troncos supraaórticos y transcraneal: pequeñas placas de ateroma en ambos ejes carotídeos. Resto normal.
+• Tomografía computarizada (TC) craneal de urgencias: estudio sin hallazgos salvo un llamativo engrosamiento generalizado y aumento de la densidad del diploe.
+• Radiografía de cráneo y cervical: marcado aumento en el grosor del diploe.
+• Resonancia magnética (RM) de cráneo: Pequeña imagen hiperintensa en secuencias T2 y FLAIR en centro semioval derecho, que no restringen en difusión y que puede corresponderse con una lesión isquémica evolucionada. Engrosamiento de la calota ósea que aparece homogénea y marcadamente hipointensa en todas las secuencias. Estrechamiento del agujero magno por el sobrecrecimiento oseo junto con ocupación del mismo por las amígdalas cerebelosas y el bulbo raquídeo que presentan un descenso de 1,5 cm.
+• RM cervical y dorsal: dilatación siringomiélica desde el nivel C1 hasta el cono medular. Signos degenerativos en la columna cervical con presencia de herniación del disco C3-C4 que impronta sobre el saco dural y el cordón medular.
+
+Diagnóstico
+• Migraña con aura.
+• Cavidad siringomiélica medular completa asociada a osteopetrosis y malformación de Arnold-Chiari tipo 1.
+• Hernia discal C3-C4.
+Estudios de radiología simple y tomografía computarizada craneal donde se objetiva un aumento de densidad (esclerosis) de todo el esqueleto, siendo más marcado a nivel craneal.
+Secuencias sagitales de la resonancia magnética craneal y cervicodorsal que muestran la presencia de malformación de Chiari tipo 1 junto con un estrechamiento del foramen magno y una extensa cavidad siringomiélica a partir de C1.
+
+Tratamiento
+Se propuso a la paciente la realización de una craniectomía suboccipital descompresiva de la fosa posterior junto con laminectomía C1, con el objetivo de ampliar el agujero magno, de tal forma que se restituyera la normal fluidodinámica del LCR, intervención que ha demostrado repercutir en el tamaño de las cavidades siringomiélicas reduciendo su volumen considerablemente. No obstante, la paciente no deseó ser intervenida en ese momento, por lo que se derivó para continuar tratamiento rehabilitador.
+
+Evolución
+Durante el ingreso hospitalario la paciente presentó mejoría progresiva del déficit motor, iniciándose de forma precoz tratamiento rehabilitador que permitió la marcha sin necesidad de ayuda. Al alta se decidió realizar un seguimiento ambulatorio conjunto por parte de Neurocirugía, Neurología y Reumatología.

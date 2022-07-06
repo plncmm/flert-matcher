@@ -1,0 +1,25 @@
+Anamnesis
+Varón de 74 años, fumador desde su juventud, con antecedentes de HTA, DL e hiperuricemia, para lo que tomaba enalapril 10 mg/12 h, manidipino 10 mg/24 h, colchicina 1 comp./24 h, alopurinol 100 mg/24 h y atorvastatina 40 mg/24 h. Sin cirugías previas y con una situación basal excelente. Es traído al Servicio de Urgencias por su hija, que refiere que desde hacía 3-4 semanas presenta alteraciones conductuales (irritabilidad, ánimo depresivo, labilidad emocional, así como disminución de su actividad habitual), hiporexia, empobrecimiento del lenguaje y falta de espontaneidad, preguntas repetitivas sobre acciones cotidianas y "olvido" de su hábito tabáquico. Además, desorientación en el tiempo, de predominio vespertino, y dificultad para reconocer a sus familiares. Había comenzado también temblor intencional en la mano derecha junto con postura de flexión del codo y de dicha mano, inicialmente intermitente, posteriormente fija, asociándose movimientos clónicos arrítmicos. Además, inestabilidad de la marcha con tendencia a la latero y retropulsión, pasos cortos, bloqueos frecuentes y rigidez del tronco que había progresado hasta que esa misma mañana quedó completamente bloqueado mientras iba al baño. En las últimas 48 horas había presentado tres episodios de incontinencia urinaria. La familia relacionaba el inicio de la sintomatología tras la noticia de una enfermedad importante de un hermano. Ningún familiar había presentado un cuadro similar.
+
+Examen físico
+Exploración general: tensión arterial 154/90 mmHg, frecuencia cardiaca 61 lpm, temperatura 37,1 oC. Regular estado general. Eupneico. Normocoloreado y normoperfundido. Bien hidratado y nutrido. Sin alteraciones en la exploración general.
+Exploración neurológica: consciente, inatento de forma, distraibilidad intensa, parcialmente colaborador. Inadecuado conductualmente: risas inmotivadas. Lenguaje escaso y repetitivo, contenido coherente la mayor parte del tiempo. Bloqueos en el lenguaje, disnomia moderada, repite adecuadamente, obedece parcialmente órdenes sencillas, no obedece órdenes complejas. Orientado en persona, desorientado en tiempo y espacio. Memoria anterógrada y capacidad de aprendizaje alteradas. Memoria retrógrada conservada. Reflejo palmomentoniano o grasping no presentes. Pares craneales: normal salvo mioclonías mandibulares . Motor: mioclonías desencadenadas con el movimiento y con la estimulación táctil en MMSS y MMII de predominio en el MSD, arrítmicas. Tono aumentado en el MSD sin clara paresia en las extremidades, dudosa rueda dentada. MID en posición distónica con flexión dorsal e infraversión de pie. ROT presentes, simétricos ++/++++, RCP flexor bilateral. Sensibilidad: no alteraciones groseras. Cerebelo: ataxia trunca severa. Marcha: aumento de base de sustentación, incapacidad para la deambulación autónoma con tendencia a la retropulsión.
+
+Pruebas complementarias
+• Bioquímica, hemograma sin alteraciones relevantes salvo PCR 15 mg/dl sin leucocitosis y VSG 120 mm. Hormonas tiroideas, vitamina B12, homocisteína y ácido fólico normales.
+• Marcadores tumorales: PSA 7,83 ng/ml (PSA libre 1,76), Ca19.9, CEA, Ca 125 y enolasa normales.
+• LCR: presión de apertura 17 cm H2O. Leucocitos y hematíes 0 céls./mm3, glucosa 103 mg/dl, proteínas 0,31 g/l. Cultivo estéril, gram y VDRL y citología negativos. Proteína 14.3.3: positiva.
+• Radiografía de tórax sin alteraciones.
+• ECG: sinusal a 90 lpm.
+• TC: enfermedad de pequeño vaso y cambios involutivos edad-dependiente.
+• RM craneal: en difusión existe restricción cortical del hemisferio izquierdo, de predomino occipital, insular y frontal superior; y frontal cortical derecha y en la cabeza del caudado y porción anterior del putamen izquierdos. Sin correlato en T1 y T2. Enfermedad isquémica crónica de pequeño vaso II. Atrofia global de predominio supratentorial.
+• EEG: enlentecimiento difuso de la actividad, aunque modificable con estimulación, e intercalado, ondas agudas de morfología trifásica y distribución generalizada, sin clara periodicidad.
+
+Diagnóstico
+Enfermedad de Creutzfeldt-Jakob esporádica.
+
+Tratamiento
+Sintomático para mioclonías con clonazepam.
+
+Evolución
+A las 48 horas, la exploración se modificó sustancialmente, con somnolencia marcada, que responde a la llamada con la apertura ocular, pero no responde a órdenes sencillas ni complejas. Lenguaje muy escaso, empobrecido y repetitivo, emitiendo solo monosílabos. Sin cambios en el resto. Se repitió entonces el EEG, que demostraba además del enlentecimiento de base, la aparición de actividad trifásica periódica generalizada. En las siguientes 3 semanas el paciente se deterioró progresivamente, a lo que se añadió fiebre que no respondía a tratamiento antibiótico, junto con deterioro de la función renal y diversas alteraciones analíticas. Su familia decidió limitar el esfuerzo terapéutico, dado el pronóstico del paciente, y este falleció a los 3 meses del inicio del cuadro.

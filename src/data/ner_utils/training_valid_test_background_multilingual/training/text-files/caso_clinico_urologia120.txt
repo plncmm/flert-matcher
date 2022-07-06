@@ -1,0 +1,27 @@
+Anamnesis
+Mujer de 81 años de edad, con antecedentes de hiperuricemia, hipertiroidismo, dislipemia, diabetes mellitus-II con afectación orgánica (retinopatía diabética) y cardiopatía isquémica. Como tratamiento médico recibía antiagregante plaquetario, hipolipemiante, hipouricemiante y antidiabético oral.
+Acudió a Urgencias presentando inestabilidad de la marcha tras una caída casual unas horas antes. En las 24 horas siguientes al ingreso en Medicina Interna, sufre una nueva caída, comenzando con hematuria macroscópica.
+
+Examen físico
+Al ingreso presentaba ruidos cardíacos arrítmicos con frecuencia de 100 lpm. Presentaba un abdomen blando, depresible, sin dolor y sin palpación de masas ni megalias. A las 24 horas del ingreso la exploración física se mantuvo sin cambios, salvo hematuria macroscópica.
+
+Pruebas complementarias
+Al ingreso:
+• Bioquímica: glucemia 244 mg/dl, creatinina 0,94 mg/dl, urea 54 mg/dl, ck 5.091 UI/l, PCR 3,30 mg/dl. Hemograma: 11.600 leucocitos/l (82 neutrófilos, 8 linfocitos, 10 monocitos). Coagulación: fibrinógeno 499 mg/dl. Sistemático y sedimento de orina: hematíes +++, glucosuria ++, proteínas +. Hematuria ligera (5-10 H x C).
+• Electrocardiograma: fibrilación auricular, 125 lpm.
+• Tomografía computarizada (TC) cerebral sin contraste: no se aprecian sangrados ni otras imágenes sugestivas de patología intracraneal aguda.
+A las 24 horas del ingreso:
+• Microbiológico: urinocultivo y dos hemocultivos en los que se aisló Escherichia coli multisensible.
+• TC toráco-abdominal: riñones con pelvis extrarrenal. Pequeña cantidad de líquido libre. Engrosamiento de la pared rectal, engrosamiento del espacio presacro. Paredes vesicales engrosadas con gas en su interior.
+
+Diagnóstico
+• Cistitis enfisematosa.
+• Descompensación diabética.
+• Fibrilación auricular con respuesta ventricular rápida.
+• Rabdomiólisis.
+
+Tratamiento
+Tras confirmar la sospecha clínica diagnóstica de cistitis enfisematosa, recibió tratamiento médico conservador consistente en catéter uretral con lavado, terapia antibiótica con piperacilina/tazobactam e insulinoterapia.
+
+Evolución
+La evolución clínica y radiológica fue satisfactoria, con mejoría de las glucemias, que se mantuvieron por debajo de 150 mg/dl y desaparición prácticamente total de imágenes de gas en la pared vesical en la TC de control realizada a los 12 días del ingreso. A pesar de lo cual sufrió una parada cardiorrespiratoria en planta presenciada por personal sanitario, que inició maniobras de reanimación y trasladó a la paciente a la Unidad de Cuidados Intensivos, donde falleció por una parada cardiorrespiratoria secundaria a fibrilación ventricular en probable relación con un evento isquémico dados los antecedentes personales de cardiopatía isquémica tipo infarto.

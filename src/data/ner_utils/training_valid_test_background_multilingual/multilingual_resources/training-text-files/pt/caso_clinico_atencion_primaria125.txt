@@ -1,0 +1,40 @@
+Motivo da consulta
+Um paciente de 19 anos de idade veio à clínica de cuidados primários para uma tosse contínua de três semanas de duração.
+
+Abordagem individual (anamnese, exame, testes complementares).
+Nacional espanhol de 19 anos, professor estudante. História pessoal de bloqueio de ramo direito, rinoconjuntivite alérgica e asma ligeira. Nenhum historial familiar de interesse. Em tratamento com salbutamol a pedido. Sem alergias a drogas. Bebe bebidas alcoólicas ocasionalmente. Não-fumador.
+
+O paciente chega à clínica com uma tosse seca de três semanas de evolução de intensidade crescente que interfere com o repouso nocturno. Aumenta com o exercício. Ligeira rinorreia. Não há dispneia e a auscultação é normal. Melhoria parcial utilizando salbutamol a pedido. Dada a história pessoal, foi decidido iniciar a fumarato de budesonida 160 mcg/formoterol di-hidratado 4,5 mcg 2 inalações de 12 em 12 horas.
+
+Voltou dois meses mais tarde com uma tosse com expectoração esverdeada e febre de dois dias de duração. A auscultação mostrou crepitações na base esquerda, pelo que a Amoxicilina 875mg/ácido clavulânico 125mg a cada 8 horas foi prescrita para 7 dias com melhoria. Apesar disso, regressou três semanas mais tarde porque a tosse persistiu, com maior acesso na última semana e expectoração esbranquiçada. Nessa mesma manhã, a expectoração hemoptótica. Além disso, voltou a apresentar uma febre inconsistente, atingindo 39-40o, predominantemente à noite e com suores nocturnos. Dor pleurítica na parte anterior do hemitórax direito. Sem dispneia. Além disso, após mais anamnese, os pais relataram uma perda de peso de 6-7 kg nos últimos meses. Ela não viajou.
+
+Exame: bom estado geral, normohidratado, normoperfused, eupneic em repouso. Sinais vitais: BP: 114/59, HR 104lpm, SatO2 99%, T 37,8o.
+Auscultação cardiopulmonar: rítmica, sem murmúrios. O murmúrio da bexiga foi preservado sem sons adicionais.
+
+Foi solicitado um raio-x urgente, mostrando:
+Extensa lesão cavitada no lobo superior direito com um nível hidro-aéreo. Outras lesões menores na base. Infiltrado alveolar-intersticial nodular no hemitórax esquerdo, sugestivo de disseminação broncogénica.
+
+O paciente foi encaminhado para o serviço de urgência para mais testes e avaliação por medicina respiratória. Os resultados mais relevantes dos testes realizados foram os seguintes:
+CBC: proteína C-reactiva 142, procalcitonina 0,07, leucócitos 14590/μL com neutrofilia 93%. Hemoglobina 12 g/dL, hematócrito 36%, volume corpuscular médio 76,7fL, plaquetas 430000/μL.
+
+Microscopia de esfregaço: O ADN de Mycobacterium tuberculosis foi detectado com sensibilidade a todas as drogas de primeira linha testadas.
+Durante a sua estadia no serviço de urgência, o paciente permaneceu em bom estado geral, hemodinamicamente estável, com pouca expectoração e uma pequena quantidade de detritos hematológicos.
+O doente tem um bom apoio familiar, com boa compreensão do diagnóstico. A prevenção da transmissão da doença era necessária, pelo que se decidiu pela alta com tratamento domiciliário e isolamento.
+
+Abordagem familiar e comunitária
+Intacta estrutura familiar nuclear, o paciente vive com ambos os pais e o irmão mais velho. Embora o doente estivesse inicialmente ansioso em casa dada a possibilidade de transmissão da doença, havia sempre um bom apoio familiar, o que promovia o tratamento domiciliário.
+
+Julgamento clínico (lista de problemas, diagnóstico diferencial)
+Tuberculose pulmonar cavitária. O caso levantou vários diagnósticos diferenciais: hiper-reactividade brônquica ou infecção do tracto respiratório. Devemos também considerar outras patologias que apresentam hemoptise, tais como o carcinoma broncogénico; ou lesões cavitadas, com causas infecciosas (Klebsiella pneumoniae, Streptococcus pneumoniae, Haemophilus influenzae, Nocardiose, Actinomicose, Aspergilose ou Histoplasmose), neoplásica (cancro bronquioalveolar e carcinoide), reumatológica (granulomatose com poliangite) e outras.
+
+Plano de acção e evolução
+O paciente começou o tratamento em casa com rifampicina 150/isoniazida 75/pirazinamida 400/ethambutol cloridrato 275mg 4 comprimidos/24h durante dois meses com boa tolerância, depois mudou para rifampicina 300/isothiazid 150mg 2 comprimidos/24h, que está actualmente a tomar e continuará a tomar durante 4-7 meses. Passou o primeiro mês em casa devido ao isolamento respiratório.
+Evolução
+O paciente foi visto uma semana mais tarde para um check-up. Continuou com febre e tosse ocasionais. Ele estava ansioso pelo seu estado, especialmente porque a sua mãe e o seu irmão de 22 anos tinham sido testados com IGRA (interferon gamma release assay), e ambos eram positivos, pelo que ele tinha sentimentos de culpa.
+Ele foi visto quatro vezes até agora pela Pneumologia. Boa evolução dos sintomas, actualmente tosse ocasional.
+Foram realizados testes analíticos em todas as consultas, com melhoria nos reagentes de fase aguda, serologia negativa para o VIH e hepatite, e um novo teste de esfregaço de escarro dois meses mais tarde negativo para BAAR.
+Uma radiografia de controlo aos quatro meses e meio mostrou uma melhoria significativa, com desaparecimento de infiltrados no pulmão esquerdo. O pulmão direito está a regredir, com uma aparência cicatricial, e ainda há uma imagem de uma cavidade no lóbulo superior direito.
+Enquanto se aguarda novo exame por parte do departamento de pneumologia.
+Toda a família em coabitação foi submetida ao teste IGRA, que foi positivo para a sua mãe e irmão.
+O pai foi novamente testado oito semanas mais tarde e ainda era negativo.
+A tuberculose activa foi descartada na mãe e no irmão, que foram submetidos a uma radiografia ao peito e a uma cultura de expectoração. Iniciaram o tratamento quimioprofiláctico com isoniazida 300mg/24h durante 9 meses, com tolerância adequada.

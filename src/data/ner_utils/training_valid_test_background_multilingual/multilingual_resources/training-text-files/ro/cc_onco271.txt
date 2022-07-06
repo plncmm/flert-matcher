@@ -1,0 +1,26 @@
+Anamneză
+Pacientul este un bărbat în vârstă de 47 de ani, fără antecedente medicale sau chirurgicale de interes. El nu ia niciun medicament. Este originar din Londra și lucrează ca profesor de limba engleză. Tatăl său a murit de amiloidoză pulmonară la vârsta de 74 de ani, iar tatăl său de cancer renal la vârsta de 70 de ani.
+În 2010, a consultat pentru o creștere progresivă a circumferinței abdominale pe parcursul a 12 luni de evoluție, asociată cu dureri epigastrice și senzație de sațietate precoce după masă. Ea a slăbit 15 kilograme în ultimele 6 luni.
+
+Examinarea fizică
+Examenul fizic a evidențiat un indice Karnosky de 90%, o stare generală bună și o auscultație cardiorespiratorie neremarcabilă. Cea mai notabilă constatare a fost o semiologie de ascită moderată.
+
+Teste suplimentare
+Au fost solicitate apoi o hemoleucogramă, biochimie și hemostază, iar singurele constatări notabile au fost o creștere a lactat dehidrogenazei (600 U/L) și a creatin protein kinazei (280 U/L). De asemenea, s-a efectuat serologia pentru virusurile hepatotrope (B și C) și virusul imunodeficienței umane, ambele fiind negative, iar analiza lichidului ascitic a fost pozitivă pentru celularitate malignă.
+A fost efectuată o tomografie axială computerizată toracică, abdominală și pelviană (CT-PAT), care a arătat o masă chistică mare care acoperea o mare parte din abdomen, precum și o cantitate mare de lichid intraperitoneal care sugera o ascită, pe lângă multiplele implanturi peritoneale. A fost completată tomografia cu emisie de pozitroni, care a arătat masa abdominală mare cunoscută, fără activitate metabolică.
+
+Diagnostic
+În cele din urmă, s-a efectuat o biopsie cu ac fin a leziunii și s-a pus diagnosticul de tumoră cu celule fusiforme. Imunohistochimia a arătat pozitivitate pentru vimentină, actină, CD-117, CD-34 și, izolat, pentru S-100. Negativ pentru desmină. Indicele de proliferare celulară evaluat prin Ki-67 a fost de 5%. Prin urmare, profilul imunohistochimic a sugerat un diagnostic de tumoră stromală gastrointestinală (GIST).
+
+Tratament
+Din cauza volumului mare al tumorii, s-a decis începerea unui tratament neoadjuvant cu imatinib 400 miligrame pe zi și o evaluare ulterioară la 2 luni pentru o posibilă salvare chirurgicală. Toleranța inițială la imatinib a fost adecvată, a prezentat doar un edem ușor al pleoapelor, dar ascita nu a cedat și a necesitat plasarea unui drenaj peritoneal permanent din cauza paracentezelor repetate necesare.
+
+Evoluție
+La două luni de la tratament, pacientul a rămas cu debit abundent de lichid ascitic din drenaj. S-a efectuat o tomografie computerizată abdominală pentru evaluare, unde masa peritoneală mare a persistat, cu o reducere minimă a componentei chistice și o diminuare a afectării peritoneale, ceea ce a însemnat un răspuns slab atât clinic, cât și radiologic. În aceste condiții, comitetul multidisciplinar de Chirurgie Digestivă a decis efectuarea unei laparotomii exploratorii, unde a fost observată o masă mare de 50x30 centimetri (cm), care ocupa întregul abdomen, cu originea în curbura gastrică mare. Rezecția radicală a masei a fost efectuată în timpul aceleiași proceduri chirurgicale.
+Biopsia chirurgicală a evidențiat o tumoare GIST cu risc ridicat, cu un diametru maxim de 21 cm.
+Zonele de necroză au fost de 30%, iar indicele de proliferare celulară cu Ki67 a fost de 3%.
+Scintigrafia CT-CT postoperatorie de urmărire a arătat dispariția masei peritoneale, dar creșterea densității grăsimii intraperitoneale și a picăturilor paracolice în legătură cu carcinomatoza peritoneală.
+Prin urmare, a existat o indicație clară pentru tratamentul cu imatinib pseudoadjuvant, din cauza dimensiunii mari, în ciuda localizării gastrice și a ratei scăzute de mitoză. Având în vedere răspunsul inițial slab și boala persistentă, am decis să începem tratamentul cu imatinib 800 mg.
+După intervenția chirurgicală și odată cu inițierea tratamentului cu doze mari, pacientul a înregistrat o mare îmbunătățire din punct de vedere clinic. Ascita și durerile epigastrice au dispărut complet și a început să ia în greutate progresiv. Toleranța la tratament la doze mai mari a fost, de asemenea, excelentă. Singura incidență notabilă a fost apariția unui edem al pleoapelor. Din punct de vedere analitic, profilul tiroidian a rămas stabil.
+După 16 săptămâni de tratament, scanarea CT-CT a arătat dispariția completă a afectării peritoneale, fără semne de boală în testul imagistic. Am continuat tratamentul cu o toleranță similară cu cea anterioară. Din cauza caracterului atipic al imaginii, am solicitat statutul mutațional. Rezultatele au fost: mutație c-kit negativă și mutație PDGFR-A exon 18 pozitivă, mutația fiind pD842V.
+În prezent, după 54 de săptămâni de imatinib, ea persistă fără semne de boală.

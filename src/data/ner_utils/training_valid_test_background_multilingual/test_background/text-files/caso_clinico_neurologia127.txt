@@ -1,0 +1,24 @@
+Anamnesis
+Paciente varón de 54 años con antecedentes personales de hepatitis B crónica y fístula carótido-cavernosa (FCC) postraumática sintomática intervenida endovascularmente mediante oclusión de la arteria carótida interna izquierda (ACII) con coils 10 años antes del inicio de la clínica.
+
+El paciente consulta por un cuadro de diplopía binocular en el plano horizontal mayor al mirar a la izquierda, que se inició 5 meses antes de manera insidiosa y con curso progresivo. No dolor periorbitario, cefalea, disminución de la agudeza visual, inyección conjuntival, lagrimeo, rinorrea ni otros síntomas acompañantes.
+
+Examen físico
+El paciente presentaba buen estado general, constantes vitales dentro de la normalidad. Exploración física general sin alteraciones. En la exploración neurológica destacaba una endotropía del ojo izquierdo en la posición primaria de la mirada (ppm) de 30 dioptrías prismáticas, con limitación para la abducción del mismo ojo y test de ducción forzada negativo. Resto de pares craneales, fuerza, sensibilidad, coordinación y marcha dentro de la normalidad. No exoftalmos, no soplo periorbitario, ni inyección conjuntival.
+
+Pruebas complementarias
+• Analítica con bioquímica, hemograma y coagulación normal.
+• Arteriografía cerebral: oclusión de la ACII. Seno cavernoso izquierdo no visualizado (oclusión con coils). Vena oftálmica izquierda de llenado lento y aumentada de tamaño con respecto a la contralateral. Se descarta fistula carótido-cavernosa.
+• Resonancia magnética (RM) cerebral con secuencias centradas en el ápex orbitario y el seno cavernoso: se visualizan los coils de embolización en la ACII y el seno cavernoso izquierdo, y un material hipointenso en secuencias T1 e isointenso en T2 que realza de manera tenue tras la administración de gadolinio y se extiende desde el seno cavernoso al ápex orbitario produciendo compresión de la porción fascicular del VI nervio craneal izquierdo, lo que es sugestivo de material fibrótico-cicatricial con componente crónico y subagudo.
+Resonancia magnética cerebral. A. Secuencia axial T1 sin contraste: seno cavernoso izquierdo ocupado por material hipointenso, que se extiende anteriormente al ápex orbitario. B. Secuencia axial T1 con gadolinio:
+ocupación del seno cavernoso izquierdo por material fibrótico-cicatricial que realza tras la administración de contraste y se extiende anteriormente al ápex orbitario.
+
+
+Diagnóstico
+Neuropatía del VI nervio craneal izquierdo compresiva por reacción inflamatoria crónica a material de embolización de fístula carótido-cavernosa.
+
+Tratamiento
+Tras los hallazgos en la RM, decidimos iniciar tratamiento antiinflamatorio con corticoterapia.
+
+Evolución
+Se trata de un paciente con antecedente de FCC postraumática que, aproximadamente 10 años después del procedimiento, presenta un cuadro de diplopía binocular en el plano horizontal de curso lentamente progresivo. En la exploración física se objetiva una paresia del VI nervio craneal izquierdo sin otros hallazgos de interés. Dados los antecedentes del paciente, el primer diagnóstico de sospecha es la recurrencia de la fístula carótido-cavernosa, que se descarta mediante arteriografía cerebral. Posteriormente, se realiza una RM centrada en el seno cavernoso y el ápex orbitario, objetivándose hallazgos que sugieren la presencia de reacción inflamatoria en el seno cavernoso y el ápex orbitario izquierdo con afectación del VI nervio craneal izquierdo. Tras los hallazgos en la RM decidimos iniciar tratamiento antiinflamatorio con corticoterapia, con mejoría parcial tras un mes, persistiendo una endotropía de 22 dioptrías prismáticas en la ppm, por lo que, tras mantenerse estable clínicamente durante un mes, se decide tratamiento local con toxina botulínica en el músculo recto medial, mejorando la clínica del paciente.

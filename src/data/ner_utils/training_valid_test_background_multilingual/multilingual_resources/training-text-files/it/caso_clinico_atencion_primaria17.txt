@@ -1,0 +1,35 @@
+Motivo della consultazione
+Il genero della paziente ha chiamato il Centro di Salute per chiedere al suo medico di famiglia di venire a casa sua, perché la trovava strana. Due giorni prima, era andata dal suo medico di base per dispnea e febbre, dove una diagnosi di bronchite acuta è stata fatta con una radiografia del torace ed è stato iniziato un trattamento antibiotico.
+
+Approccio individuale (anamnesi, esame, test complementari)
+Anamnesi: la paziente è una donna di 84 anni, nega reazioni allergiche ai farmaci, ipertesa (che ha smesso di prendere farmaci antipertensivi di sua iniziativa), dislipidemica, AF anticoagulata con acenocumarolo. Nega le abitudini tossiche. ABVD indipendente.
+
+All'arrivo a casa, il paziente è stato trovato obnubilato, con un basso livello di coscienza, oltre alla deviazione dell'angolo della bocca e alla perdita di forza nell'emisfero sinistro. Era afebrile.
+Si è deciso di trasferire la paziente al Dipartimento di Emergenza dell'Ospedale in ambulanza con assistenza medica ed è stata monitorata in ogni momento. Il Codice Ictus è stato attivato.
+All'arrivo in ospedale, le sue condizioni non erano cambiate. Tuttavia, durante l'esame fisico, il paziente ha iniziato con una febbre di 38,8oC.
+
+Esame fisico:
+- Condizione generale regolare, pallore della pelle, eupnea a riposo. Febbre di 38.8oC de novo. BP 156/94.
+- ACR: aritmico a una buona frequenza, nessun soffio. MVC, nessun suono patologico.
+- ECG: AF a 70 bpm. Asse normale. QRS stretto. Nessun segno di ripolarizzazione.
+- Neurologico: tendenza al sonno, linguaggio disartrico anche se difficile da esplorare. PINLA. ECMO. Emianopsia omonima sinistra alla minaccia. Tendenza non forzata dello sguardo verso destra. Paralisi facciale sinistra. Debolezza degli arti sinistri con tono presente anche se difficile da esplorare per mancanza di collaborazione. Brudzinski e Kerning dubbiosi.
+
+Test complementari:
+- CBC: Leucociti 19.19x10e9/L, Neutrofili 17.5x 10e9/L, Linfociti 0.8x 10e9/L, Glucosio 130, Sodio 134, Creatinina 0.91, CRP 70, INR 2.08. Urine non patologiche.
+- TAC cranica e angiografia TAC: nessuna alterazione patologica.
+- Puntura lombare: 1150 cellule con 84% PMN, 310 proteine, 35,6 glucosio, Gram positivo per la listeria.
+
+Approccio familiare e comunitario
+Paziente anziano che vive da solo, fino a questo punto era ABVD. Un buon supporto familiare. Livello socioeconomico medio.
+
+Giudizio clinico (lista dei problemi, diagnosi differenziale).
+
+Diagnosi differenziale:
+- STROKE. Inizialmente, a causa della storia di ipertensione non trattata e dell'esame neurologico, la diagnosi era orientata verso un ictus. La comparsa di febbre e l'angiografia CT e CT normale hanno portato a un cambiamento di opinione verso una malattia infettiva.
+- Meningoencefalite batterica. La focalità neurologica e la febbre indicavano una patologia infettiva, che fu poi confermata dalla puntura lombare e dal test di Gram.
+
+Giudizio clinico: meningoencefalite batterica.
+
+Piano d'azione ed evoluzione
+Il paziente viene trasferito al reparto di Medicina Interna. Lì, è stata monitorata e il trattamento empirico è stato iniziato con ceftriaxone+ampicillina+vancomicina+dexamethasone iv e trattamento antipiretico.
+Dopo l'inizio del trattamento, le condizioni generali della paziente sono gradualmente migliorate e attualmente è sana e senza sequele dell'episodio.

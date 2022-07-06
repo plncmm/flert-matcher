@@ -1,0 +1,27 @@
+Anamnese
+Uma mulher de 41 anos com alterações nas suas dores de cabeça de tensão habituais durante os últimos 3 meses. O que inicialmente descreveu como holocraniano e suave tornou-se hemicraniano esquerdo, opressivo e de intensidade moderadamente severa. Estavam também associados ao prurido, dor ao menor estímulo táctil e sensação de formigueiro na hemiface esquerda, mais acentuada na zona fronto-orbital, com fotofobia e sonofobia, bem como menos alívio com a analgesia habitual (ibuprofeno e paracetamol) e visão desfocada na hemiface temporal do olho esquerdo. Foi realizada uma tomografia computorizada craniana (TAC) no departamento de emergência, sem alterações, e foi realizada uma ressonância magnética (ressonância magnética) ambulatorial do cérebro noutro centro pouco tempo após o início dos sintomas descritos, o que foi relatado como normal. Dada a frequência das dores de cabeça, o tratamento foi iniciado com amitriptilina com melhoria clínica no mês seguinte, embora a alodinia e o prurido facial tenham persistido.
+
+Ela veio novamente ao departamento de emergência devido a um aumento da intensidade da dor hemicraniana esquerda nas últimas 2 semanas com uma pontuação de 8 na escala visual analógica (VAS). Ela descreve-o como latejante, associado à fotofobia e sonofobia, embora o que mais a incapacita seja o prurido e a hipersensibilidade da área periorbital e frontoparietal esquerda. Ela sente uma intensa sensação de picada a pequenos estímulos tácteis, tornando-lhe impossível descansar a cabeça nesta área. A diminuição da acuidade visual na hemifield temporal esquerda progrediu para a perda absoluta da visão neste olho (ela não conseguia sequer distinguir a luz ou as sombras). Além disso, relatou dificuldades em ver normalmente na hemorragia temporal direita e dor com movimentos oculares. Negou náuseas, vómitos, agravamento da dor de cabeça com manobras de Valsalva ou interferência com o sono. Negou febre ou outros sintomas infecciosos, bem como viagens recentes. Ela negou a alteração do esfíncter. A paciente recordou que, coincidindo com o início da dor de cabeça e sintomas visuais, ela tinha sentido dormência no peito e deixou a região braquial durante várias semanas, que se resolveu espontânea e completamente.
+
+Exame físico
+Amaurose do olho esquerdo. Acuidade visual de 0,8/1 no olho direito com hemianopsia e discromatopsia temporal. Defeito pupilar relativo aferente no olho esquerdo. Pupila do olho direito reactiva. Fundo normal. Movimentos oculares extrínsecos preservados, sem restrições, embora ela tenha relatado dor ao mover o olho esquerdo. Alodinia no território teórico do primeiro ramo do trigémeo esquerdo (V1). Hipoestesia no território C2-C4 esquerdo. Descansar normalmente.
+
+Testes complementares
+- Hemograma, hemostasia, perfil hepático, perfil lipídico, perfil renal, iões, reagentes de fase aguda, hormonas (TSH, T4) e vitaminas (B12, A, E, D, ácido fólico) normais.
+- Imunoquímica: ligeiro aumento em IgM (339 mg/dl, intervalo normal 49-302), repouso normal. Sem bandas oligoclonais no soro.
+- Estudo normal da auto-imunidade.
+- Serologia sérica (HBV, HCV, sífilis, Borrelia, Brucella, HIV, antigénio criptococócico) negativa.
+- Líquido cerebrospinal (LCR): bioquímica com proteína ligeiramente aumentada (37 mg/dl, intervalo normal 10-30) sem células. ADA negativo. Quociente de albumina e índice IgG normal. Não foram detectadas bandas oligoclonais no CSF. Serologia (sífilis, Borrelia, Brucella, cryptococcus) negativa.
+- RM da coluna cervical: alteração do sinal na sequência T2 na coluna cervical a níveis C1-C2 localizados principalmente na região posterior direita da medula e região lateral esquerda compatível com a lesão desmielinizante. Ressonância magnética cervical, sequência T2, secção longitudinal mostrando hiperintensidade ao nível C1-2, compatível com lesão desmielinizante.
+- RM do cérebro: hiperintensidade anómala nas sequências FLAIR que afectam a porção intracanalicular do nervo óptico do lado esquerdo na sua porção posterior e que se estende ao quiasma, com extensão para o lado esquerdo. Ressonância magnética do cérebro Sequência FLAIR, secção coronal. A hiperintensidade no quiasma óptico é visualizada.
+- Potenciais evocados visuais (VEP): sem resposta com estímulo do olho esquerdo. Normal no olho direito.
+- Anticorpos anti-quaporina 4 (anti-NMO) positivos.
+
+Diagnóstico
+Neuromielite óptica auto-imune (doença de Devic).
+
+Tratamento
+Após a administração de 1 g de metilprednisolona diariamente durante 7 dias e seis sessões de plasmaférese, o paciente experimentou uma melhoria completa da acuidade visual no olho direito. No entanto, com o olho esquerdo ela só foi capaz de distinguir luz e sombra. Foi descarregada com azatioprina 50 mg a cada 12 horas e topiramato 50 mg a cada 24 horas.
+
+Evolução
+Nos 6 meses seguintes, exigiu a admissão em duas ocasiões para visão desfocada no olho direito, mais uma vez exigindo vários ciclos de metilprednisolona com resolução completa dos sintomas naquele olho. A visão no olho esquerdo permaneceu semelhante à primeira admissão, apenas com distinção de luz e sombra. A alodinia e as dores de cabeça melhoraram com um aumento da dose de topiramato e a reintrodução da amitriptilina, sem desaparecer completamente, enquanto se aguarda a avaliação pela Unidade de Dor.

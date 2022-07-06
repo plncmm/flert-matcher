@@ -1,0 +1,30 @@
+Anamnesis
+A 63-year-old man with a previous diagnosis of arterial hypertension and benign prostatic hypertrophy was referred to the emergency department with code ictus. At 5:30 am he was found on the floor with difficulty in moving and with repetitive and incoherent speech. He was last seen asymptomatic at 00:00h. The patient is dysphasic, confused and disoriented, so it is not possible to take the patient's medical history. The family did not provide any other data of interest, denying any symptoms in the previous days.
+
+Physical examination
+Blood pressure 141/81 mmHg, heart rate 75 bpm, O2 saturation 99% (FiO2 21%), temperature 35.8°C. DTX: 100. DTX: 100. Conscious, disoriented, confused. Fluctuating speech disturbance with mixed dysphasic features. No campimetric or cranial nerve disorders, no motor or sensory disturbances.
+
+Complementary tests
+- The following tests were performed in the emergency department: blood tests, chest X-ray and ECG, which were normal.
+- Given the clinical suspicion of stroke in the territory of the left MCA with undetermined time of evolution, a basal and multimodal cranial CT scan with perfusion and an angio-CT scan were performed, which showed no alterations.
+
+Diagnosis
+In view of the results of the complementary tests, fibrinolytic treatment was rejected and the patient was admitted to the Stroke Unit with a diagnosis of ischaemic stroke of the left MCA.
+
+On admission to the Stroke Unit, the patient had a generalised seizure of partial onset and was treated with diazepam. The possibility was raised that the patient's initial situation corresponded to a post-critical period, although the initial cause of the seizure remained unclear, without ruling out a vascular cause. An urgent electroencephalogram was requested, where a pattern of periodic lateralised epileptiform discharges (PLED) was identified. Haemodynamically, the patient presented febrile fever, and from a neurological point of view, he continued to present a language disorder, with improvement with respect to the initial examination. Six hours after admission, a lumbar puncture was performed for CSF analysis, requesting VHS PCR due to clinical suspicion and supported by the EEG of herpetic encephalitis.
+
+Treatment
+After the lumbar puncture, whose emergency biochemistry was normal, empirical treatment with acyclovir 750 mg/8 h was started.
+
+Evolution
+The patient's subsequent evolution over the days of admission, while awaiting the MRI and the result of the VHS PCR, was favourable, recovering normal speech. The patient reported difficulty in recalling memories and complained of occasionally noticing strange smells, with the examination being normal at all times. A few days later we obtained a negative result from the PCR VHS analysis and the MRI showed findings compatible with left limbic encephalitis. Treatment was completed with acyclovir (10 doses) and the aetiological study of the limbic encephalitis was initiated, with a differential diagnosis of autoimmune, inflammatory and paraneoplastic pathology. A tumour extension study was performed, which was negative, blood serology and autoimmunity markers in blood were negative and a CSF study was performed for onconeuronal antibodies, which were also negative.
+
+A new control MRI was requested, which was performed 5 days after the first one, showing a pseudonodular image in the left temporal region with diffusion restriction, with no pathological enhancements after contrast. The possibility of a low-grade infiltrative tumour process was raised.
+
+Given the stable situation, the patient was discharged home with outpatient follow-up in the Neurology and Neurosurgery Department, receiving treatment with levetirazetam 1,000 mg/12 h, with the diagnosis of symptomatic temporal lobe epilepsy with a lesion suggestive of low-grade glioma.
+
+One month after discharge, the patient was admitted again for complex partial status with the need to increase the dose of levetirazetam to 1,500 mg/12 h, with the addition of lacosamide 200 mg/12 h. During this time, a new MRI scan was performed and a new MRI scan was performed. During admission, a new MRI was performed, showing a relative increase in the lesion with respect to the previous one, with an infracentimetric contrast-enhancing area. From the neurological point of view, the patient evolved towards his previous situation. The patient was discharged and scheduled for a new follow-up MRI scan in 2 months' time.
+
+The new control MRI showed the previous lesion with areas of uptake in its interior accompanied by an increase in perfusion, all of which was compatible with tumour progression. The patient was assessed by neurosurgery and a stereotactic biopsy of the lesion was performed. The anatomopathological study resulted in a diagnosis of grade III oligodendroglioma.
+
+After the patient continued to report complaints of memory and emotional lability, with occasional failures in nomination on examination, he was assessed by the Medical Oncology and Radiotherapy Departments, and treatment was started with temozolomide and radiotherapy.

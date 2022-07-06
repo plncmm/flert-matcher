@@ -1,0 +1,22 @@
+Historia clínica.
+
+Anamnesis
+Paciente varón de 53 años, diagnosticado de síndrome cerebeloso (disartria, nistagmus y ataxia) en el año 2008 y de hipoacusia neurosensorial en el año 2009. No presenta antecedentes familiares neurológicos ni de sordera. Al inicio del cuadro, se realizó un estudio completo, con un único hallazgo de atrofia cerebelosa en la resonancia magnética nuclear (RMN) cerebral. El estudio genético SCA (ataxias espinocerebelosas) así como el análisis del líquido cefalorraquídeo (LCR) fueron normales. También la analítica, que incluía anticuerpos (antineuronales, antitiroperoxidasa, antinucleares, antimitocondriales, antitransglutaminasa), vitaminas liposolubles (A, D, E, K), ácido láctico y piruvato, fue normal, así como el electrocardiograma.
+A los dos años del diagnóstico de síndrome cerebeloso, presenta empeoramiento de la clínica, con disdiadococinesia, hiporreflexia en las extremidades inferiores y alteración de la sensibilidad profunda de pies, con Babinski bilateral. Debido a los nuevos síntomas, se replantean el diagnóstico de síndrome cerebeloso, se realizan más pruebas complementarias y se sospecha ataxia de Friedrich de inicio en el adulto. Además, el paciente es remitido a oftalmología por referir nictalopía.
+
+Pruebas complementarias
+Esta vez, el LCR presenta leve aumento de lactato y el electromiograma (EMG) es compatible con polineuropatía sensitiva de carácter axonal. No obstante, el estudio genético molecular realizado para descartar la ataxia de Friedrich (gen FXN) resulta negativo. Sin embargo, la biopsia muscular para descartar enfermedad mitocondrial resulta sugestiva de enfermedad mitocondrial.
+
+Exploración oftalmológica
+El paciente presenta una agudeza visual corregida de 0,7 en ambos ojos (AO) y en el fondo de ojo se aprecia alteración del epitelio pigmentario retiniano (EPR) con pigmento redondo en media periferia, alteración del EPR macular, junto con palidez papilar y atenuación arteriolar. Se realiza autofluorescencia y se aprecia hipere hipoautofluorescencia granular en el polo posterior y las arcadas vasculares. En la tomografía de coherencia óptica se observa atrofia macular generalizada. El campo visual (CV) confirma la disminución concéntrica del CV, respetados los 20o centrales, compatible con nictalopía.
+El estudio electrofisiológico muestra una afectación difusa en ambas retinas, de grado moderado-grave, que incluye tanto al sistema de conos como al de bastones, siendo esta última población la más afectada. Esta afectación es algo más acusada en el ojo derecho.
+
+Diagnóstico
+La exploración neurológica junto con la oftalmológica son compatibles con el síndrome NARP (debilidad muscular neurogénica, ataxia y retinosis pigmentaria). Se realiza análisis de genética molecular de patología mitocondrial y el resultado es negativo. No presenta las mutaciones más frecuentes halladas en este síndrome: m.8993T>G-MTATP6 y m.8993T>C-MTATP6. Está pendiente de la secuenciación del gen MT-ATP6 en su totalidad.
+
+Diagnóstico diferencial
+Se debe realizar el diagnóstico diferencial del síndrome NARP con otras neuropatías como la hereditaria de Charcot-Marie-Tooth, ataxias hereditarias, retinosis pigmentaria y síndrome de Leigh. El síndrome NARP y el de Leigh comparten características similares de enfermedades mitocondriales y ambos pueden estar causados por mutaciones en el mismo gen (MT-ATP6).
+
+Tratamiento
+No existe ningún tratamiento específico para el síndrome NARP. Es importante que los individuos afectados sean controlados (cada 6-12 meses) para ver la progresión y la aparición de posibles nuevos síntomas. Se recomiendan evaluaciones cardiológicas, neurológicas y oftalmológicas.
+Se tratan las posibles complicaciones como la acidosis aguda, las convulsiones, las distonías y la miocardiopatía bajo la supervisión de médicos especialistas. Los agentes que hay que evitar son el valproato, los barbitúricos, la anestesia y el dicloroacetato.

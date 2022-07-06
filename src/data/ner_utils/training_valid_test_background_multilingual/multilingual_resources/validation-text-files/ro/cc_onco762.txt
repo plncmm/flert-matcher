@@ -1,0 +1,27 @@
+Anamneză
+Bărbat, în vârstă de 57 de ani, fără alergii cunoscute la medicamente. Antecedente medicale și chirurgicale relevante de hipertensiune arterială, insuficiență cardiacă congestivă cu mai multe internări în spital pentru decompensare și depresie. Urmărire de către Medicina Internă din cauza PAN cu mononevrită multiplex idiopatică. A fost operat de fistulă perianală cu ani în urmă. La tratamentul cronic cu beta-blocante, antidepresive și corticosteroizi orali.
+Pacientul s-a consultat la Asistența medicală primară în iunie 2013 din cauza unei astenii de câteva săptămâni de evoluție, precum și a unei dispepsii ocazionale, fără alte simptome însoțitoare.
+
+Examinarea fizică
+Examenul fizic general nu a evidențiat nicio constatare de interes: stare generală bună, culoare normală, hidratat și perfuzat. Semnele vitale au fost în interval și afebrile. Niciun ganglion limfatic periferic nu era palpabil. Auscultația cardiopulmonară fără alterări, examenul abdominal a fost neremarcabil. Membrele inferioare fără edem.
+
+Teste complementare
+Analizele de sânge (10/06/2013) au evidențiat anemie (Hb 9,5 mg/dl) cu un profil de deficit de fier, fără alte modificări semnificative. Gastroscopia (26/06/2013) a evidențiat o leziune vegetantă ulcerată de 3-4 cm la nivel cardial și s-au prelevat probe pentru analiză anatomopatologică.
+Având în vedere constatările de mai sus, a fost efectuată o tomografie computerizată abdominală (08/07/2013) care a confirmat o masă subcardială de aproximativ 4 cm în raport cu o probabilă neoplazie gastrică fără extensie la nivelul grăsimii și cel puțin o adenopatie la nivelul ligamentului gastrohepatic.
+
+Diagnostic
+Biopsia relevă un adenocarcinom gastric moderat diferențiat de tip intestinal.
+
+Tratament
+Analizele de sânge (10/06/2013) au evidențiat anemie (Hb 9,5 mg/dl) cu profil de deficit de fier, fără alte modificări semnificative, astfel că s-a efectuat gastroscopie (26/06/2013), care a evidențiat o leziune vegetantă ulcerată de 3-4 cm la nivel cardial, din care s-au prelevat probe. Având în vedere constatarea anterioară, a fost efectuată o tomografie computerizată abdominală (08/07/2013) care a confirmat o masă subcardială de aproximativ 4 cm în raport cu o probabilă neoplazie gastrică fără extensie la nivelul grăsimii și cel puțin o adenopatie la nivelul ligamentului gastrohepatic.
+
+Evoluție
+În decembrie 2013, a fost depistată o creștere asimptomatică a markerilor tumorali Ca 19,9 și Ca 72,4 și s-a efectuat PET (02/01/2014), care a evidențiat o leziune hipermetabolică în cupola ficatului, segmentul VIII, de aproximativ 2,4 cm, suspectă de etiologie tumorală vs. infecțioasă. IRM (24/01/2014) confirmă leziunea nodulară în segmentul VIII, cu accesoriu inelar, sugestiv de metastază necrotică/abscedată.
+Având în vedere dificultatea anatomică de a efectua FNA, pacientul a fost evaluat de un comitet multidisciplinar și, având în vedere necesitatea diagnosticului histologic, a fost efectuată o intervenție chirurgicală hepatică (care a evidențiat în final 3 leziuni) cu biopsii care au arătat infiltrarea hepatică prin adenocarcinom în 2/3 din leziuni. Având în vedere progresia până la acest nivel, s-a solicitat HER-2 pentru a planifica tratamentul oncospecific, care a fost pozitiv (+++).
+Studiul a fost completat cu o ecocardiogramă care a fost normală și o tomografie computerizată abdominală (27/03/2018) care a evidențiat cele 3 LOE hepatice descrise anterior. Prima linie de cisplatin-capecitabină-trastuzumab a fost începută în aprilie 2018, cu un răspuns mai mare de 50% după 4 cicluri, cu toxicități relevante, inclusiv infecție CMV care a necesitat internarea în spital și tulburări de apă și electroliți refractare la tratamentul ambulatoriu. Având în vedere persistența acestor modificări, s-a decis continuarea monoterapiei cu trastuzumab începând cu ciclul 5.
+După 7 cicluri, pacientul a continuat să răspundă la scanările CT, persistând doar o leziune hepatică de 1 cm.
+Cazul a fost reevaluat de către comitet și s-a solicitat o scanare PET-CT pentru a evalua salvarea chirurgicală, care a fost în cele din urmă respinsă, deoarece scanarea PET-CT a evidențiat un implant peritoneal în mezogastru, precum și două limfadenopatii în hilul pulmonar de etiologie dubioasă. Monoterapia cu trastuzumab a fost continuată cu boală stabilă după 12 și 18 cicluri. După 22 de cicluri, au existat dovezi de răspuns complet prin PET-CT și normalizare a markerilor tumorali, astfel că tratamentul a fost oprit în iulie 2015.
+În mai 2016 (ILP de 10 luni), analizele de sânge au arătat un nivel ridicat de Ca 19,9, fără date de boală la CT, dar cu evidență la PET-CT a unei leziuni la nivelul cupolei hepatice. A fost începută linia a doua cu 5-FU + trastuzumab, cu o toleranță bună și un nou răspuns radiologic complet după 8 cicluri. Cu toate acestea, scanarea PET a continuat să arate un focar de hipermetabolism (deși cu o scădere a activității glucozei comparativ cu cea anterioară) la nivelul cupolei hepatice, astfel că cazul a fost din nou prezentat comitetului multidisciplinar și s-a decis intervenția chirurgicală cu intenție curativă.
+La data de 01/03/2017, s-a efectuat mastectomia hepatică de segment VIII.
+În prezent, pacienta este supusă unor controale în ambulatoriu, fără date privind recidiva.
+

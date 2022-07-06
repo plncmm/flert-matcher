@@ -1,0 +1,24 @@
+Anamnese
+Um bailarino de 28 anos de idade, homem de Israel, com uma história pessoal de infecção pelo vírus da imunodeficiência humana (VIH) em 2008 sem tratamento actual, consumidor ocasional de cocaína e álcool. Foi admitido em Medicina Interna para um quadro clínico de paraestésicos na hemoglobina direita juntamente com alteração visual após consumo prévio de 1 g de cocaína. Uma tomografia computadorizada craniana (TAC) e ressonância magnética (RM) do cérebro mostrou uma lesão isquémica aguda no território posterior (tálamo esquerdo). O estudo foi completado com uma angiografia de ressonância magnética cerebral, que não revelou quaisquer resultados. Foi observada uma carga viral de 200.000 cópias e 4.647 células CD. Foi descarregado com quadrantanopsia superior direita como sequela e tratamento com estatina. Duas semanas mais tarde veio ao departamento de emergência para um novo episódio de hemiopestesia facial e hemicorporal direita.
+
+Exame físico
+À chegada ao ED, pressão arterial 120/80mmHg, ritmo cardíaco 80 bpm, afebril. O exame geral por aparelho foi normal. O exame neurológico mostrou a presença de quadrantanopsia superior direita (sequela), hipoestesia algesica hemifacial direita nos segundo e terceiro ramos do trigémeo e na hemibody direita, e dismetria no teste do dedo no nariz na extremidade superior direita. O resto do exame foi normal.
+
+Testes complementares
+- Hemograma: normal com fórmula adequada de leucócitos, taxa de sedimentação de eritrócitos 46 mm/h.
+- Bioquímica: desidrogenase láctica 722 IU/l (230-460), diminuição da transferrina, hormonas da tiróide alteradas (TSH 5,36 μIUI (0,5-4,7), T3l 2,73 pg/ml (2,77-5,27). Proteinograma: pico monoclonal fraco na zona gama.
+- Estudo da coagulação e trombofilia: elevação mínima da deficiência de fibrinogénio e proteína S livre, sendo o resto normal (incluindo a proteína C, lúpus anticoagulante, factor V de Leyden e antitrombina).
+- Autoimunidade: anticorpos anti-cardiolipina IgG fracamente positivos (22,6 UGPL/ml), ANCA IgM negativo, factor reumatóide, imunocomplexos circulantes, ANA, anti-DNA, glicoproteína anti-B2 negativa. 
+- Serologia: EBV IgG positivo, hepatite A IgG positivo; Treponema, toxoplasma, citomegalovírus, hepatite B e C negativo. Carga viral HIV-1: 177.930 cópias; CD 4 432 células/μl, sem resistência genotípica aos anti-retrovirais.
+- Electrocardiograma e monitorização 48 horas: ritmo sinusal, bloqueio de ramo direito conhecido.
+- Raio X do tórax e ecocardiograma transtorácico normal.
+- O TAC cranial mostrou lesões hipodensas irregulares na região occipital parasagital esquerda e na matéria branca do lobo temporal esquerdo, compatíveis com lesões isquémicas subacutecrónicas.
+- A nova RM ao cérebro mostra o aparecimento de uma nova lesão focal no tálamo esquerdo hiperintenso em TR longa e marcada restrição de difusão, sugerindo isquemia aguda-subaguda. Ressonância magnética cerebral, sequência melhorada de difusão: lesão isquémica aguda no tálamo esquerdo.
+- A angiografia intracraniana por ressonância magnética foi repetida, o que não mostrou qualquer visualização da PCA esquerda desde a sua origem, sendo a da direita patente. Angio-MRI: nenhuma visualização da PCA esquerda a partir da sua origem. O PCA certo era patente.
+- Punção lombar: glucose 49 mg/dl, proteína 66 mg/dl, 40 leucócitos/mm3 (80% mononucleares) e 90 glóbulos vermelhos/mm3. Cultura: negativa para bactérias e micobactérias, negativa para reacção em cadeia do enterovírus polimerase e herpes simplex 1 e 2; VDRL negativo; citologia: espécime acelular.
+
+Diagnóstico
+A isquemia cerebral recorrente provavelmente relacionada com a vasculopatia associada ao VIH. Hipergamaglobulinemia, deficiência de proteína S, anticorpos anti-cardiolipina IgG fracamente positivos.
+
+Tratamento e evolução
+A terapia anti-retroviral foi iniciada com darunavir, ritonavir e tenofovir mais emtricitabina e antiagregação com ácido acetilsalicílico 100 mg, após o que não ocorreram novos episódios, com ligeira ataxia do membro superior direito a persistir.

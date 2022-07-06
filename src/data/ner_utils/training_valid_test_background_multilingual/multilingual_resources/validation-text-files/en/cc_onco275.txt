@@ -1,0 +1,36 @@
+Anamnesis
+Male, 48 years old.
+
+PERSONAL HISTORY: Allergy to Cefuroxime and Septrim (skin reaction). Smoker of 15 packs/year and drinker of 2 wines a week. HIV+ since 1992 under control by Infectious Diseases Unit (IDU) with CDC stage C3; in 1994 several admissions for recurrent pneumonia (bacterial and Pneumocystis carinii), pulmonary and lymph node tuberculosis. Usual treatment: Raltegravir 400 1/12h, Maraviroc 150 1/12h, Ritonavir 100 1/24h, Darunavir 400 2/24h, Oral iron before breakfast, Omeprazole 40 mg/24h.
+
+CURRENT ILLNESS:
+In February 2011, she came for a check-up in the ICU and commented on the appearance of a certain degree of progressive asthenia with epigastralgia for several months, accompanied for the last month by melaenic stools, for which she underwent an analysis showing a haemoglobin (Hb) of 4.7, for which they decided to admit her for study.
+
+Physical examination
+Haemodynamically stable, afebrile. Conscious, oriented, well hydrated and perfused, eupneic. Cutaneous and mucosal pallor. AC: Rhythmic. AP: Vesicular murmur preserved. Abdomen: Soft, depressible, slight pain in the epigastric region on deep palpation with sensation of mass at this level. No signs of peritoneal irritation. Peristalsis present. Lower extremities: No oedema or signs of deep vein thrombosis.
+
+Complementary tests
+- ANALYSIS (07/02/2011): Albumin 31.2, CRP 14.4, Hb 4.7, Platelets 418000, Leukocytes 9380, Neutrophils 5720. Coagulation normal.
+- TUMOUR MARKERS: Carcinoembryonic antigen (CEA); CA 125 and Ca 19.9: Negative.
+- GASTROSCOPY: Large ulcerated mass in the lesser curvature with a neoplastic appearance, with biopsies taken from the suspicious area.
+- PATHOLOGICAL ANATOMY: Gastric biopsy positive for adenocarcinoma.
+- ABDOMINAL-PELVIC CT: Mass at the level of the lesser curvature of the stomach, with adenopathies in the gastrohepatic ligament, celiac trunk and portocaval space.
+- ABADOMINAL ECOGRAPHY: Hepatic haemangioma in segment V.
+- THORACIC CT: No evidence of pathology.
+
+Diagnosis
+Locally advanced gastric adenocarcinoma cT2 (doubtful M1 due to retroperitoneal adenopathies by CT).
+
+Treatment
+The gastro-oesophageal tumour committee decided that in view of the presence of a large mass and lymphadenopathies, a PET-CT scan would be requested to check the behaviour of the lymphadenopathies; if they were detected, palliative chemotherapy would be started as they were considered metastases; if they were not detected, neoadjuvant chemotherapy would be started and after re-evaluating the case, surgery would be considered.
+- PET-CT (02/03/2011): uptake was observed at gastric level without uptake of retroperitoneal adenopathies.
+On 28/02/2011, treatment began with the first cycle of neoadjuvant QT with Cisplatin (75 mg/m2), Docetaxel (75 mg/m2) and 5-Fluorouracil (750 mg/m2).
+
+Evolution
+Five days after the first cycle of QT, the patient presented significant toxicity, with enteritis and pre-renal renal failure, anaemia requiring transfusion and mucositis. A genetic analysis was performed for mutations in the enzymes that catabolise 5-Fluorouracil (5-FU), and the result was heterozygous for MTHFR C677T, which caused intolerance to the administration of 5-FU.
+In view of the toxicity, the scheme was changed to CPT-11 (Irinotecan 125 mg/m2) weekly, administering 4 doses from 1 April to 22 April, with moderate tolerance, as during the administration he began with hyperbilirubinaemia and an increase in liver enzymes without finding any other aetiology than the chemotherapy treatment.
+One month after the end of the QT, she returned to the Medical Oncology department for analysis, where only slight anaemia was observed with Hb of 11.1, improvement in liver function and negative tumour markers, with a CT scan showing the mass in the stomach and retroperitoneal lymphadenopathies without changes; and a PET-CT scan showing the mass in the stomach and no lymphadenopathies.
+For all these reasons, the patient was defined as having a stable disease, and the lymphadenopathies were related to his history of HIV disease and not to the tumour disease, so surgery was decided.
+On 13/06/2011 he underwent a 70% partial gastrectomy, D2 lymphadenectomy and omentectomy. The result of the pathological anatomy was poorly differentiated adenocarcinoma and areas of moderately differentiated, affecting the muscular layer, with free resection edges and 47 lymph nodes free of metastasis. Definitive staging ypT2 ypN0. Stage IB.
+Given the poor tolerance to chemotherapy treatment, it was decided not to give adjuvant chemotherapy, and since then she has undergone check-ups.
+Currently with no evidence of disease 5 years after surgery, in annual control with CT scan, analysis and tumour markers.

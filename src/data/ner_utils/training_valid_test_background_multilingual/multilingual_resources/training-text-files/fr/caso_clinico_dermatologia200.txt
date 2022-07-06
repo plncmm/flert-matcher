@@ -1,0 +1,16 @@
+Anamnèse
+Femme caucasienne de 45 ans, souffrant d'une polyarthrite rhumatoïde sévère, séropositive, très érosive et limitante, sous traitement par abatacept, ciclosporine et méthylprednisolone et également associée à une insuffisance respiratoire chronique due à une pneumopathie interstitielle sévère, déjà en phase de fibrose pulmonaire et nécessitant une oxygénothérapie à domicile maintenue, admise pour insuffisance respiratoire aiguë due à une pneumonie sans micro-organisme identifié. Elle recevait un traitement antibiotique empirique à base de méropenem et de triméthoprime/sulfaméthoxazole, malgré lequel elle évoluait mal.
+
+Examen physique
+Sur la face dorsale de l'avant-bras droit, il y avait 5 nodules érythémateux, d'une taille comprise entre 1 et 3 cm, de consistance élastique et légèrement douloureuse, apparus 2 mois auparavant et distribués selon un schéma sporotrichoïde, suivant un trajet lymphatique et aboutissant à 2 adénopathies épitrochléennes élastiques et douloureuses. La zone affectée avait été manipulée par des ponctions veineuses répétées pour la perfusion de médicaments au cours des derniers mois. Ces nodules n'avaient pas été altérés par un traitement antibiotique.
+
+Examens complémentaires
+Une analyse de sang a montré une anémie chronique normocytaire et normochrome de 98 g/L, une créatinine de 3,27 mg/dL, le reste de l'ionogramme, de la biochimie hépatique et de la biochimie rénale étant correct. Une radiographie pulmonaire a montré une déformation intense de la cage thoracique et du parenchyme, impossible à évaluer en raison de l'intense pneumopathie interstitielle déjà présente chez le patient et qui ne permettait pas d'observer de changements par rapport aux examens précédents.
+L'examen pathologique d'un des nodules cutanés a révélé un infiltrat mixte dans toute l'épaisseur du derme, avec la présence de granulomes suppuratifs mal formés et de multiples vacuoles ou pseudokystes dans lesquels se détachent d'innombrables micro-organismes bacilliformes, d'une taille de 5 microns et disposés en rangées sur les colorations de Kinyoun, PAS diastase et Gomori. La coloration de Ziehl-Neelsen du matériel de biopsie cutanée a révélé la présence de bacilles acido-alcooliques.
+Les cultures bactériennes et les cultures sur des milieux adaptés à la croissance des mycobactéries se sont révélées négatives. Une PCR, obtenue à partir d'une partie de la biopsie cutanée du nodule, était positive pour Mycobacterium chelonae.
+
+Diagnostic
+Le diagnostic était une infection cutanée, localement disséminée, avec une lymphangite à M. chelonae. Une atteinte pulmonaire n'a pu être exclue en raison de l'impossibilité d'obtenir des échantillons en raison de l'incapacité d'expectoration et de l'impossibilité d'obtenir des échantillons par des méthodes invasives étant donné l'état grave du patient.
+
+Traitement
+La clarithromycine 500 mg toutes les 12 heures par voie orale a été ajoutée au traitement antibiotique (à l'époque méropénème, rifabutine et éthambutol), ce qui a conduit à une résolution pratique des nodules en seulement 14 jours. Malgré cela, le patient est décédé en raison d'une aggravation des symptômes respiratoires 23 jours après l'ajout de la clarithromycine.

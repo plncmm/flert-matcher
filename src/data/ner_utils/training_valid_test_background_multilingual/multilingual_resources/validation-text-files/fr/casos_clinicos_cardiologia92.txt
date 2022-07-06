@@ -1,0 +1,46 @@
+Un homme de 75 ans a été envoyé aux urgences depuis le service de cardiologie ambulatoire pour avoir présenté une détérioration clinique significative, avec une dyspnée à l'effort minimal, une orthopnée, une dyspnée nocturne paroxystique et des palpitations.
+
+Antécédents, maladie actuelle et examen physique
+
+Histoire
+Pas d'allergies connues aux médicaments.
+Facteurs de risque : diabète sucré 2, hypertension, dyslipidémie. Ex-fumeur depuis 7 ans de 50 paquets/an.
+Antécédents médicaux : BPCO. Accident ischémique de l'artère cérébrale moyenne en mars 2008. Interventions chirurgicales : hémorroïdes, hernie épigastrique, polypectomie colique. Tumeur de la vessie traitée par TUR en 2011 et 2013.
+Antécédents cardiaques : cardiomyopathie dilatée diagnostiquée en 2002 avec une fonction systolique sévèrement déprimée (FEVG 20%), et des artères coronaires normales lors du cathétérisme cardiaque. Suivi en consultations externes de cardiologie, avec une amélioration significative de la fonction ventriculaire avec le traitement médical (FEVG de 50% aux échocardiogrammes en 2008, 2010 et 2012). En novembre 2013, elle a présenté une fibrillation auriculaire avec une réponse ventriculaire rapide, une cardioversion électrique a été réalisée aux urgences, qui a été efficace et elle a été autorisée à sortir. Une semaine plus tard, il est revenu aux urgences pour une fibrillation auriculaire, où une cardioversion électrique a de nouveau été effectuée, et il a été libéré en rythme sinusal. Lors de l'examen à la clinique externe en janvier 2014, le patient était à nouveau en fibrillation auriculaire.
+
+Traitement habituel : dabigatran 110 mg/12h, bisoprolol 10 mg/24h, ramipril 2,5 mg/24h, rosuvastatine 20 mg/24h, oméprazole 40 mg/24h, furosémide 20 mg/12h (gestion selon les besoins), bromure de tiotropium inhalé, repaglinide 0,5 mg, fluoxétine 20 mg, alprazolam 0,5 mg/24h. 
+
+Maladie actuelle : un homme de 75 ans, référé aux urgences par le service de cardiologie ambulatoire pour avoir présenté une détérioration clinique significative au cours des dernières semaines, avec une dyspnée à l'effort minime, une orthopnée, une dyspnée nocturne paroxystique et des palpitations au cours des derniers jours. Il n'a pas signalé d'infection respiratoire ni d'autres symptômes associés. Lors de son admission, il a présenté une fibrillation auriculaire avec une réponse ventriculaire à 130-150 bpm malgré un traitement avec des doses maximales de bêta-bloquants, il a donc été orienté vers une admission en cardiologie pour tenter un contrôle de la fréquence ou une cardioversion.
+
+Examen physique
+Tension artérielle 120/65 mmHg. HR 155 bpm, Ta 36.5 oC. O2 Sat. O2 96% avec FiO2 de 0,21.
+Patient conscient, couleur normale et normo-hydraté.
+Auscultation cardiaque : bruits cardiaques arythmiques, sans murmure.
+Auscultation pulmonaire : diminution généralisée du murmure vésiculaire, avec crépitements bibasaux. Membres inférieurs : pas d'œdème, pas de signe de thrombose veineuse profonde.
+Abdomen : mou, non douloureux à la palpation.
+
+Tests supplémentaires
+ECG : fibrillation auriculaire avec réponse ventriculaire rapide, QRS étroit, pas de troubles de la conduction intraventriculaire. Signes de surcharge du ventricule gauche dans V5-V6 et DI et aVL.
+Radiographie du thorax : infiltrats interstitiels alvéolaires bibasaux évoquant une insuffisance cardiaque. Sinus costophréniques libres. Indice cardiothoracique inférieur à 0,5.
+Analyses sanguines effectuées dans le service de cardiologie : ʟʟ Leucocytes : 12,4x10e9/L, Hb17,5 g/dl, plaquettes 262x10e9/L.
+Coagulation : TCA 15s, QI : 76%, TCA 35,3s.
+Glucose : 140 mg/dl, urée 64 mg/dl, créatinine 1,21 mg/dl, K 5 MM/L, Na 143 MM/L, AST 31 U/L, ALT 41 MM/L, LDH 244 U/L, CRP 0,2 mg/dl, pro-BNP 16727 pg/ml.
+Hémoglobine glycosylée : 6,9 %.
+
+Echocardiogramme :
+Mauvaise fenêtre échocardiographique.
+Ventricule gauche légèrement dilaté, non hypertrophique, avec contraction globale sévèrement déprimée (20-25%), hypokinésie apex sévère.
+Atrium gauche modérément dilaté.
+Valve mitrale épaissie, avec une légère insuffisance.
+Valve aortique sclérosée, avec une bonne ouverture, sans insuffisance.
+Cavité auriculaire droite avec oreillette modérément dilatée. FVR préservée.
+La veine cave inférieure n'est pas dilatée, avec un bon collapsus inspiratoire.
+Pas d'épanchement péricardique.
+
+Évolution clinique
+Le patient a été admis dans le service de cardiologie pour une fibrillation auriculaire avec une réponse ventriculaire à 140-150 bpm sans pouvoir la contrôler malgré l'augmentation du bisoprolol à une dose de 15 mg/24h et l'ajout de digoxine et d'amiodarone, restant avec une fréquence ventriculaire de 130-140 bpm pendant les 3 jours suivants. Compte tenu de l'échec du contrôle du rythme lors des épisodes précédents et du contrôle difficile de la fréquence cardiaque, l'équipe clinique, les électrophysiologistes et la famille ont décidé ensemble de procéder à l'ablation du nœud auriculo-ventriculaire et de placer un stimulateur cardiaque. Un stimulateur cardiaque permanent a été placé, avec l'intention de placer également une sonde LV pour une thérapie de resynchronisation cardiaque (CRT), mais cela n'a pas été possible en raison d'une dissection du sinus coronaire. Enfin, un stimulateur cardiaque DDD a été placé. Cinq jours plus tard, une ablation du nœud auriculo-ventriculaire a été effectuée sans incident. Le patient est sorti de l'hôpital avec un meilleur contrôle clinique, en maintenant le même traitement anticoagulant, en supprimant la digoxine, l'amiodarone et les doses très élevées de bisoprolol avec lesquelles il avait essayé de réduire la fréquence cardiaque. La médication pour la gestion de l'insuffisance cardiaque a été maintenue.
+
+Diagnostic
+Fibrillation auriculaire avec réponse ventriculaire rapide difficile à contrôler.
+Stratégie de contrôle de la fréquence par ablation du nœud AV et implantation d'un stimulateur cardiaque. 
+Tachycardiomyopathie avec dysfonctionnement ventriculaire sévère.

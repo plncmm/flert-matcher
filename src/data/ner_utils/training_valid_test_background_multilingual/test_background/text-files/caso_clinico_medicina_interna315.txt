@@ -1,0 +1,15 @@
+Antecedentes
+Mujer de 56 años con diabetes mellitus II tratada con hipoglicemiantes, cirrosis enólica Child-Pugh C (múltiples descompensaciones ascítico-edematosas y encefalopatías hepáticas) y demencia alcohólica.
+
+Enfermedad Actual
+Paciente remitida a urgencias por bajo nivel de consciencia de 6 horas de evolución. La familia explica dolor abdominal difuso y estreñimiento los días previos, niegan fiebre, foco infeccioso, así como transgresión dietética o cambios en la medicación.
+
+Evolución
+A su llegada hemodinámicamente estable, Glasgow 3. Febrícula. Ligera ascitis, resto de exploración anodina.
+Ante sospecha de encefalopatía hepática grado IV se coloca sonda nasogástrica y se inicia administración de laxantes, enemas y sueroterapia. Se realiza analítica con elevación de reactantes de fase aguda (Proteína C reactiva 23,7 mg/L, Leucocitos 17,41 x10E9/L, Neutrófilos 15,36 x10E9/L), sedimento de orina que descarta infección, radiografía de tórax sin infiltrados y TC craneal sin lesiones intracraneales agudas.
+Durante su estancia en urgencias, ante la persistencia de febrícula sin foco claro y disminución del nivel de conciencia se cubre empíricamente con imipenem y se ingresa en la sala de Digestivo.
+En sala persiste el mismo estado neurológico. Ante la posibilidad de tratarse de una encefalitis y/o estatus epiléptico se realizan hemocultivos, punción lumbar y se cubre empíricamente con ampicilina y aciclovir endovenoso. La punción muestra 9 células/mm3, proteínas de 0,38 g/L y glucorraquia de 7,6 mmol/L. La resonancia magnética muestra extensa afectación de los lóbulos temporales y regiones insulares, sugestivo de encefalitis vírica (probablemente herpética).
+A las 48 horas de inicio del tratamiento antimicrobiano y antiepiléptico la paciente recupera el nivel de conciencia. Finalmente, en LCR se detecta PCR de enterovirus por lo que se retira la ampicilina y el aciclovir. Las alteraciones cognitivas y motoras mejoran con rehabilitación pudiendo ser dada de alta a domicilio a los 20 días de ingreso.
+
+Orientación Diagnóstica
+Status epiléptico en contexto de Encefalitis por enterovirus.

@@ -1,0 +1,22 @@
+Anamnesis
+Se trata de un varón de 32 años de edad, sin antecedentes médicos de interés e intervenido de apendicectomía hace años. Presentó clínicamente un cuadro caracterizado por hematuria y molestias escrotales derechas de unas semanas de evolución.
+
+Exploración física
+La exploración física fue anodina. Destacaba la presencia de un varicocele derecho fijo.
+
+Pruebas complementarias
+• Ecografía abdominal: riñón derecho sustituido por una masa sólida heterogénea de 20 x 16 x 12 cm, con riñón izquierdo normal.
+• Tomografía computarizada (TC) tóraco-abdómino-pélvica: gran masa renal derecha de 20 x 14 x 14 cm. No se identifica contraste en la vena renal derecha ni tampoco en gran parte de la luz de la vena cava inferior; la masa es sugestiva de trombo probablemente tumoral a dicho nivel, cuya longitud es de unos 3,8 cm. La masa está en íntimo contacto con el psoas, la pared tóraco-abdominal y el colon derecho, sin poder descartar infiltración. Nódulos subpleurales en ambos hemitórax.
+• Analítica: el único dato reseñable es la presencia de unos valores de lactato deshidrogenasa (LDH) de 731 UI/l.
+
+Diagnóstico
+Masa renal derecha con:
+• Trombosis de vena cava (estadio T3bNxMx).
+• Varicocele derecho fijo.
+
+Tratamiento
+Nefrectomía radical derecha con cavotomía longitudinal y extracción del trombo. A través de una incisión de hemi-Chevron derecha, y tras liberar el colon ascendente, se accede a los grandes vasos. Se identifican y aíslan la cava inferior, la vena renal izquierda y el hilio renal derecho. Con la colaboración del equipo de trasplante hepático, se accede a la cava retrohepática y venas suprahepáticas, comprobándose in situ la permeabilidad de estas, aunque el trombo llegaba hasta 1 cm caudal a las mismas. Tras el clipaje de la arteria renal derecha, se clampa la cava craneal y caudal al trombo, y la vena renal izquierda. Se realiza entonces una cavotomía longitudinal y se procede a la extracción del trombo en bloque junto con la pieza de nefrectomía. Durante el cierre de la cavotomía se desclampa en sentido inverso para evitar el riesgo de embolia gaseosa. El campo quedó libre de tumor macroscópico.
+Resultado anatomopatológico: pieza de nefrectomía con sarcoma de Ewing extraóseo (tumor neuroectodérmico primitivo [PNET]) con un trombo de vena cava con infiltración por PNET. El estudio histoquímico mostró positividad para vimentina, CD99 y enolasa parcialmente, y negatividad para AE1-AE3, CD10, CD45, S-100, WT-1, CK7, CK13, CK20, sinaptofisina, cromogranina, INI-1, Fli1 y CD56.
+
+Evolución
+Tras pasar un postoperatorio sin complicaciones, ante el diagnóstico de sarcoma de Ewing extraóseo, y con el estudio de extensión negativo (TC, medula ósea y gammagrafía osea), se decide iniciar tratamiento con esquema trimestral VAC/ifosfamida-VP 16 (vincristrina, actinomicina D, ciclofosfamida) con soporte de G-CSF como tratamiento complementario. El paciente ha presentado buena evolución clínica, sin presencia de nueva recidiva en las pruebas complementarias, y actualmente se encuentra en el inicio del tratamiento de consolidación radioterápico.

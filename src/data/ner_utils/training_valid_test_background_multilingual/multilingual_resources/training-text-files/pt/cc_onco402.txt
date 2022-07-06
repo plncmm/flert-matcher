@@ -1,0 +1,40 @@
+Anamnese
+O paciente é um homem casado de 78 anos com quatro filhos. Ele tem um historial médico de diabetes mellitus tipo II que controla com dieta. Foi submetido a cirurgia de hérnia inguinal bilateral em 2005. É um não fumador e não bebe. Não tem historial de transfusões anteriores. Não tem qualquer história familiar de interesse. Ele não toma medicamentos regularmente.
+Após desconforto abdominal difuso e síndrome constitucional com perda de peso (12-14 kg em 3-4 meses), com hiporexia e astenia de três meses de evolução, veio ao serviço de urgência referido pelo seu médico de cuidados primários.
+
+Uma ecografia abdominal mostrou lesões que ocupam espaço no parênquima hepático, com distribuição bilobar, compatível com metástase, e foi decidido interná-lo para estudo posterior. Foi realizada uma tomografia computorizada (TAC) toracoabdominal, mostrando, além das lesões hepáticas, uma estenose no ângulo esplénico do cólon. O estudo foi concluído com colonoscopia, onde uma lesão vegetativa, estenótica e intransponível foi visualizada a 40 cm da margem anal, e uma prótese metálica foi colocada neste local. A lesão tumoral foi biopsiada, com histologia de adenocarcinoma bem diferenciado, com proteínas normais de instabilidade por microsatélite, RAS/BRAF nativas.
+Os marcadores tumorais foram Ca 19,9 4,740 U/ml (valor normal [VN] 0-37), antigénio carcinoembriónico (CEA) 9,375 ng/ml (VN 0-5).
+O doente foi avaliado pela Medical Oncology e iniciou o tratamento sistémico com XELOX (capecitabina 1.000 mg/m2/12 h dias 1-14, oxaliplatina 130 mg/m2 d1, de 21 em 21 dias). A tolerância ao tratamento é aceitável, com astenia de grau 1 durante os dois primeiros dias, diarreia de grau 1 controlada com loperamida, e neurotoxicidade de grau 1 nos dedos.
+Depois de receber um total de 4 ciclos de tratamento, na pendência de um novo TAC para reavaliação, o paciente veio ao departamento de urgências porque relatou um aumento do perímetro abdominal e o aparecimento de edema nos membros inferiores, que tinha estado a evoluir durante 15 dias.
+
+Exame físico
+Durante o exame físico, o aumento do perímetro abdominal, o entorpecimento variável compatível com a presença de ascite, e a presença de inchaço ascítico são dignos de nota. Também apresentou edema com fóvea nos tornozelos até às raízes dos membros inferiores.
+Não havia evidência de ingurgitação jugular, a auscultação cardiopulmonar era normal, não se observava circulação colateral no abdómen e não havia estigmas cutâneos de doença hepática crónica.
+Com a orientação clínica das ascite a ser estudada, o paciente foi admitido em Oncologia Médica.
+
+Testes complementares
+Os testes laboratoriais mostraram hemoglobina 13,3 g/dl, plaquetas 89. 000 x 109/l (VN 150-200), bilirrubina total 2,3 mg/dl (VN 0,2-1,2), com bilirrubina esterificada 0,9 mg/dl (VN 0-0,5), aspartato transferase (AST) 63 U/l (VN 5-34), fosfatase alcalina (ALP) 176 U/l (VN 40-150), com TRANSFERASE ALANINA normal (ALT) e gama-glutamil transferase (GGT).
+Foi realizada paracentese diagnóstica, com saída de líquido claro, com proteína < 0,8 g/dl, albumina < 0,4 g/dl, com um gradiente calculado de 2, e 134/mm3 leucócitos de albumina ascítica (GASA). O fluido era compatível com o transudado, sem evidência de infecção, e com GASA > 1.1, orientando o diagnóstico diferencial para processos que envolvessem hipertensão portal (PHT). Nos dias que se seguiram, foram realizados vários testes que aproximaram o diagnóstico final:
+"Serologias do vírus da hepatite B e C, que foram negativas, excluindo a doença hepática viral. Foi também solicitada uma medição completa do perfil de ferro e ceruloplasmina, que eram normais, excluindo a hemocromatose e a doença de Wilson, respectivamente.
+
+Ultra-som Doppler hepático: observou-se permeabilidade e afiação das veias supra-hepáticas, com tendência a achatar a onda de fluxo, e permeabilidade da veia portal com fluxo hepatopetal, com velocidade de fluxo para o limite inferior da normalidade, com esplenomegalia de 15 cm, tudo compatível com sinais indirectos de PHT.
+"TAC tóraco-abdominal, que também não mostrou evidências de trombose das veias supra-hepáticas, e também mostrou uma diminuição significativa no tamanho das lesões hepáticas em comparação com a TAC inicial.
+"Ecocardiograma: foi encontrada uma fracção de ejecção dentro do intervalo normal, sem evidência de insuficiência cardíaca, e os colectores venosos não foram dilatados.
+"Medição dos níveis sanguíneos de TSH (tirotropina) e T4 (tiroxina) para excluir o hipotiroidismo, que eram normais.
+"Medição das proteínas da urina, que eram normais, pelo que também não se tratava de uma síndrome nefrótica.
+"A citologia do fluido ascítico foi negativa para as células malignas.
+"A cultura do fluido ascítico também foi negativa.
+Do ponto de vista oncológico, o paciente mostrou uma diminuição das lesões hepáticas e uma diminuição dos marcadores tumorais: Ca 19,9 979 U/ml (anterior 4,740) e CEA 3,019 ng/ml (anterior 9,375).
+Portanto, com ascite de início recente, com dados de PHT, resultados negativos para as principais causas de PHT, e nenhum historial anterior de consumo de álcool, suspeitou-se de uma origem tóxica da quimioterapia, especificamente oxaliplatina.
+Foi realizada uma biopsia hepática do parênquima hepático não afectado pelo tumor, salientando a presença de dilatação sinusoidal difusamente distribuída. A técnica de Masson mostrou fibrose reticular pericelular e a técnica da reticulina mostrou a presença de alguns trabéculos de hepatócitos colapsados, com desproporção do núcleo citoplasma que contrastou com hepatócitos hipertróficos localizados na proximidade, todos compatíveis com SOS e HNR.
+
+Diagnóstico
+Após excluir outras causas de ascite, concluiu-se que o paciente tinha apresentado uma descompensação edemoascítica secundária à toxicidade oxaliplatina sob a forma de SOS e HNR, com o consequente desenvolvimento de PHT, esplenomegalia e ascite.
+
+Tratamento
+Foi realizada uma paracentese evacuante de 8 litros e, paralelamente ao estudo diagnóstico, foi prescrita uma dieta com restrição de sódio e água de 1 litro por dia e tratamento diurético com furosemida oral 40 mg/24 h e espironolactona oral 100 mg/24 h.
+
+Evolução
+A evolução durante a admissão foi favorável, com boa evolução das ascite com diuréticos orais e restrição salina e hídrica. O doente não necessitou de mais paracentese de evacuação e teve alta após 9 dias de hospitalização.
+Dada a complicação desenvolvida pela oxaliplatina, e apesar da resposta tumoral das lesões hepáticas, o tratamento com este medicamento foi suspenso, mantendo-se a capecitabina.
+Não exigiu mais admissões, nem outras paracenteses de evacuação. Recebeu um total de 8 ciclos desde o início do tratamento, com tolerância aceitável, e aguarda uma reavaliação com o TAC.

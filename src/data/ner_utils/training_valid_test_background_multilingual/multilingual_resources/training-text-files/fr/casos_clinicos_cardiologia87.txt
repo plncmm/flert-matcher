@@ -1,0 +1,28 @@
+Antécédents, maladie actuelle et examen physique
+Un homme de 64 ans a consulté pour une amaurose soudaine du côté droit. Antécédents personnels : allergie à la pénicilline, hypertension, dyslipidémie, obésité et tabagisme. Sans fournir de rapports, il indique qu'il a été admis dans un autre hôpital en 2007 pour un accident vasculaire cérébral de l'hémisphère gauche dont il s'est remis sans séquelles et qu'il était suivi pour une cardiopathie valvulaire.
+Traitement régulier par énalapril, simvastatine et clopidogrel. Maladie actuelle : perte visuelle totale et soudaine de l'œil droit pendant 24 heures. Pas de dyspnée, de douleur thoracique, de fièvre ou d'autres symptômes.
+
+Examen physique :
+TA 145/88 mmHg, 88 bpm, 36.7 oC, conscient, orienté, eupnéique, hydraté et de couleur normale. Auscultation cardio-pulmonaire : murmure vésiculaire conservé sans bruit supplémentaire. L'auscultation cardiaque a révélé un souffle d'éjection systolique de grade III/VI dans l'aorte, irradiant vers les artères carotides, et un souffle systolique de grade III/VI dans le bord sternal gauche, irradiant vers l'aisselle. Abdomen et membres sans résultats remarquables.
+
+Tests complémentaires
+Radiographie pulmonaire PA : absence de cardiomégalie, pas d'épanchement pleural, pas d'infiltrats ni de consolidations.
+Electrocardiographie : rythme sinusal à 91 bpm, axe cardiaque gauche à -45o. Agrandissement de l'oreillette gauche. Critères de Cornell pour l'hypertrophie ventriculaire gauche. Hémibloc antérieur gauche. ST descendant de 1 mm en I et AvL avec onde T négative dans ces dérivations. Pas de changement dynamique de la repolarisation. QTc 443 msec.
+NFS : 12 000 leucocytes, Hb 11,5 g/dl, 335 000 plaquettes. Coagulation normale. ESR 39 mm/h, CRP 4.27 mg/L. Biochimie et fonction thyroïdienne normales. ANA, anti-DNA et ANCA négatifs. Étude d'hypercoagulabilité sans résultats pathologiques.
+Sérologie (Mycoplasma, Chlamydia, Coxiella, Lúes, Brucella et HBV) négative.
+Fond d'œil droit : macula rouge-cerise, œdème blanchâtre dû à l'ischémie, rétrécissement des artères rétiniennes et exsudats blanchâtres.
+Échocardiographie transoesophagienne : valve aortique très déstructurée avec épaississement et calcification sévères avec sténose aortique sévère (gradient moyen 50 mmHg), insuffisance aortique légère. Valve mitrale avec plusieurs images suggérant des verrues. Du côté auriculaire du feuillet postérieur, il y a deux images de végétations mobiles, la plus grande de 6 mm. Il y a un jet d'insuffisance mitrale légère suggérant une perforation du feuillet postérieur. Hypertrophie ventriculaire gauche sévère et FEVG préservée. Absence de foramen ovale patenté par injection de solution saline agitée.
+Angiographie CT des troncs supra-aortiques : athérosclérose carotidienne et dans l'angiographie CT du TSA, sténose de 60-70% de l'artère carotide interne droite.
+Hémocultures indépendantes x3 : positives pour Streptococcus viridans.
+
+Cours clinique
+Après évaluation par l'ophtalmologie de notre centre, un diagnostic d'occlusion de l'artère rétinienne centrale droite (RTAO) a été posé. Le patient a été admis en médecine interne pour des examens complémentaires. Une athérosclérose carotidienne a été observée dans le duplex du tronc supra-aortique (TSA) et une sténose de 60-70% de l'artère carotide interne droite dans le scan angio-CT TSA. Malgré les résultats carotidiens qui pouvaient justifier le tableau, une échocardiographie transthoracique (ETT) a été réalisée pour rechercher une source embolique, montrant une sténose aortique sévère, des signes dégénératifs dans la valve mitrale (MV) avec une légère insuffisance mitrale (MI) et du calcium dans l'anneau. En raison de la mauvaise fenêtre échocardiographique, une échocardiographie transoesophagienne (ETO) a été réalisée, qui a confirmé l'existence d'une sténose aortique sévère avec une fraction d'éjection ventriculaire gauche (FEVG) préservée, visualisant des végétations sur le MV et une perforation du feuillet postérieur. Le patient était afébrile et trois hémocultures ont été réalisées, le Streptococcus viridans se développant dans tous les échantillons.
+Avec le diagnostic d'endocardite infectieuse (EI) mitrale subaiguë sur valve native (et peut-être aortique) et les antécédents décrits, il a été traité par vancomycine et gentamicine selon le schéma habituel.
+Le patient est resté afébrile pendant toute l'admission, avec des hémocultures de contrôle négatives. Des ETT et ETO de contrôle ont été effectués, avec disparition des végétations et IM léger-modéré comme séquelles. Après la résolution de l'endocardite infectieuse, il a été orienté vers le service de chirurgie vasculaire ambulatoire pour une évaluation de l'endartériectomie carotidienne et vers la cardiologie pour le suivi de sa cardiopathie valvulaire. Deux mois après l'admission, une chirurgie de la carotide a été pratiquée et ensuite, en raison de l'apparition de symptômes, un remplacement de la valve aortique par une prothèse métallique a été effectué sans complications et avec une bonne évolution cardiovasculaire. Cependant, le patient n'a pas retrouvé la vision de l'œil droit.
+
+
+Diagnostic
+Occlusion de l'artère centrale de la rétine droite.
+Endocardite subaiguë sur valve mitrale native due à Streptococcus viridans.
+Sténose aortique sévère asymptomatique avec FEVG préservée.
+Une sténose importante de la carotide droite.

@@ -1,0 +1,33 @@
+Anamneză
+Antecedente familiale: unchiul matern a murit de cancer de prostată la peste 70 de ani și un altul de neoplazie faringiană. Unchiul patern a murit de cancer pulmonar.
+Antecedente personale: nu sunt cunoscute alergii la medicamente. Fost fumător timp de 20 de ani (20 de pachete pe an). Diabet zaharat de tip II din 2004, insulino-dependent de 3 ani.
+Hipercolesterolemie. Lucrător într-o cramă. Neagă consumul de droguri. Tratament obișnuit: simvastatin 20 mg, omeprazol 20 mg, naproxen în caz de durere, cinitapridă 10 mg înainte de mese.
+Istoricul său oncologic a început pe 03/12/16, când pacientul s-a prezentat la serviciul de urgență cu febră de până la 38,5oC, pierdere în greutate de 7 kg în ultima lună, disfagie pentru solide și lichide, cu senzație de plenitudine gastrică precoce, astenie intensă și dureri abdominale hipogastrice.
+Ecografia și tomografia computerizată abdominală urgentă cu contrast au evidențiat o tumoră abdominală centrală de 17,2 x 7,7 x 7,5 cm, cu o componentă hidroaeriană mare, îngroșare murală marcată și neregulată, în contact cu ansele intestinului subțire, probabil legată de GIST complicat. S-a decis efectuarea unei laparotomii exploratorii de urgență din cauza suspiciunii de perforație intestinală, care a evidențiat o cloacă abdominală centrală, și s-a efectuat rezecția tumorii cu mai multe anse intestinale și anastomoza laterolaterală mecanică. Intervenție chirurgicală suboptimală din cauza marginilor afectate.
+Raportul anatomo-patologic a arătat rezultate compatibile cu fibromatoza mezenterică de tip desmoid, cu studiu imunohistochimic pozitiv pentru actina musculară netedă și beta-catenina; și negativ pentru desmină, CD34, S100, CD117(C-KIT) și DOG1.
+Evaluat pentru prima dată în cadrul consultațiilor de oncologie medicală la 16/01/2017, s-a decis o urmărire atentă cu control radiologic în 4 luni, precum și colonoscopie datorită asocierii cunoscute a tumorilor desmoide și a polipozei adenomatoase familiale (PAF).
+La o lună de la operație, pacientul s-a prezentat la serviciul de urgență pentru durere în fosa renală dreaptă cu iradiere, iar o tomografie computerizată abdominală a arătat ureterohidronefroză dreaptă moderată și implanturi peritoneale multiple, compatibile cu recidiva tumorală. Urologia și chirurgia au exclus o altă intervenție chirurgicală, așa că a fost internat la oncologie pentru a finaliza studiul și s-a efectuat o nefrostomie percutanată dreaptă fără complicații.
+Înainte de externare, a fost efectuată o colonoscopie și a fost exclusă FAP. Având în vedere discordanța clinico-patologică (necroză tumorală, implanturi peritoneale, evoluție clinică etc.), a fost solicitată o nouă analiză histologică la un centru de referință pentru tumori de țesuturi moi, rezultând diagnosticul de limfom difuz cu celule mari B, imunofenotip germinal cu imunoexpresie pozitivă pentru BCL-6 și negativă pentru MUM-1, CD5, CD10, cMYC și EBER, cu un indice proliferativ (Ki67) de 80%. În consecință, pacientul și-a continuat evoluția sub îngrijirea departamentului de hematologie.
+După debutul febrei împreună cu ataxie, tulburări senzoriale și sindrom emetic, s-a efectuat un RMN cerebral care a exclus afectarea cerebrală. A fost efectuată o puncție lombară și a fost detectat antigenul Cryptococcus (+); au fost începute amfotericina liposomală și fludrocortizonul (data de începere a tratamentului: 17/03/17). După 48 de ore, a fost raportată serologia HIV (+), cu o viremie de 684.000c/ml și un număr de LCD4 de 38/ul.
+Pacientul a avut o evoluție favorabilă, cu o cultură de control (-) și, după finalizarea ciclului, a fost efectuată o de-escaladare la fluconazol oral. După patru săptămâni de tratament antifungic, a fost început tratamentul antiretroviral cu raltegravir + FTC + TDF, cu o toleranță bună.
+A fost efectuată o scanare PET care a arătat o implicare abdominală și pulmonară extinsă, biopsie osoasă (fără infiltrație) și ecocardiografie cu fracție de ejecție păstrată. În stare stabilă, a fost început ciclul R-CHOP, cu toleranță și răspuns bun.
+
+Examinarea fizică
+ECOG 2. Gură uscată fără afte. Cașexie marcată. La nivel abdominal, exista o impactare marcată în hemiabdomenul drept, precum și dureri duioase în flancul stâng, cu dureri la palparea epigastrului și a hipocondrului drept. Restul a fost de neconceput.
+
+Teste complementare
+"CT cu contrast I.V. al abdomenului (13/02/2017): progresia bolii cu multiple mase intraperitoneale compatibile cu implanturi metastatice. Una dintre ele obstrucționează ureterul drept și alta infiltrează o ansa delegată în fosa iliacă stângă.
+"LCR (17/03/17): 30 leucocite (10% PMN, 30% MN), 0 globule roșii, 97 glucoză, 125 proteine, 22,3 ADA. Limfocite abundente. IF: doar 4 % limfocite B monoclonale, restul limfocite T. Antigenul Cryptococcus detectat.
+"Serologie (20/03/17): HIV (+), VHB și VHC (-), CMV IgG(+), EBV(-), HSV IgG(+), sifilis (-), toxoplasma IgG(+). B2-microglobulină (21/04/17): 4,52, LDH: 473.
+"PET scan (24/04/17): raportează o implicare extinsă supra și infradiafragmatică cu predominanța maselor mari la nivel abdominal, precum și pulmonară și fără descoperiri în rest.
+
+Diagnostic
+"Limfom cu celule B mari difuze (DLBCL) de tip centrogerminal.
+"Infecția HIV categoria C3 (SIDA).
+"Meningita criptococică.
+
+Tratament
+După prezentarea cazului într-o ședință multidisciplinară, s-a decis începerea tratamentului cu amfotericină liposomală și fludrocortizon, trecând la fluconazol oral. După 4 săptămâni, s-a început tratamentul antiretroviral cu raltegravir + FTC + TDF și, în final, s-a început chimioterapia sistemică conform schemei R-CHOP.
+
+Evoluție
+Pacient cu istoricul descris anterior, stabil în prezent, monitorizat de către Unitatea de Hematologie din Ambulatoriu. Răspuns bun și toleranță bună după al treilea ciclu de R-CHOP.

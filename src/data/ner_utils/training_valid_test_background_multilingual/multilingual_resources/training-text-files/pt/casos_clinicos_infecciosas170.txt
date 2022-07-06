@@ -1,0 +1,41 @@
+O caso é apresentado de um homem de 37 anos de idade, de origem africana, que vive em Espanha há 10 anos. Consultou por dores abdominais de 3 semanas de evolução, febre/febre febris e aumento do perímetro abdominal.
+Ao exame, bom estado geral, com BP 110/70 mmHg, HR de 110 spm e Ta de 37,8 oC. O abdómen era doloroso à palpação difusa, com ascite sem tensão. Nenhuma outra constatação de interesse.
+Entre os estudos complementares, os perfis analíticos eram normais excepto para GPT 62 U/l, CPK 1695 U/l, CRP 177 mg/l, ESR 100 mm/h, hemoglobina 114 g/l, neutrofilia relativa 67% sem leucocitose, fibrinogénio 7,5 g/l e INR 1,4. O ultra-som abdominal mostrou esplenomegalia homogénea e abundante fluido livre sem outras alterações. Foi realizada paracentese e a bioquímica mostrou 2214 células/mm3 (95% mononuclear), proteína 59 g/L, ADA 154 mU/mL, LDH 728 mU/mL, gradiente de albumina sérum-ascitos de 8,8 g/L. As culturas de sangue, urina, microscopia de esfregaço e cultura de expectoração foram negativas. As radiografias do tórax e do abdómen foram normais e o TAC com c/c intravenoso do abdómen mostrou adenopatia diafragmática e mesentérica, líquido intraperitoneal abundante, melhoramento das folhas peritoneais e infiltração do omento maior.
+
+Diagnóstico diferencial
+Trata-se de um paciente de origem africana, mas tendo em conta que a causa mais frequente de ascite é devido à hipertensão portal devida à cirrose hepática (80% de frequência), as etiologias múltiplas devem ser excluídas devido à sua prevalência, bem como outras causas menos frequentes mas possíveis devido à origem do paciente e às suas características sócio-demográficas e clínicas:
+
+Hipertensão portal:
+- Cirrose (80% de todos os casos de ascite).
+- Hepatite alcoólica aguda: pode ser devida a hipertensão portal subjacente devido a cirrose ou obstrução venosa portal transitória, juntamente com o estado de desnutrição associado.
+- Falência hepática aguda: todas as causas de hepatite fulminante aguda podem desencadear ascite.
+- Doença veno-oclusiva hepática (síndrome de Budd- Chiari): obstrução devida a trombose de pelo menos 2 das 3 veias supra-hepáticas.
+- Insuficiência cardíaca.
+- Pericardite constrictiva: a diminuição do retorno venoso pode desencadear ascite devido ao congestionamento.
+
+Hipoalbuminaemia:
+- Síndrome nefrótica.
+- Enteropatia por perda de proteínas.
+- Subnutrição severa. 
+
+Patologia peritoneal:
+- Ascite devido à malignidade (cancro gástrico, cancro colorrectal, cancro pancreático...): muito difícil de diagnosticar uma vez que se apresenta de uma forma muito semelhante a outras patologias, as suas principais características serão revistas na discussão.
+- Peritonite infecciosa:
+- Peritonite bacteriana espontânea: deve ser descartada em doentes cirróticos com ascite.
+- Peritonite bacteriana secundária (perfuração oculta): devido à perfuração das vísceras ocas, as características do líquido ascítico seriam diferentes, com elevada celularidade e predominância de PMN, e a apresentação seria muito mais aguda.
+- Tuberculose peritoneal: dada a origem e a forma de apresentação, é muito provável, mas outras causas devem ser excluídas.
+- Peritonite fúngica: especialmente em doentes em terapia de substituição renal com diálise peritoneal, o que não é o nosso caso.
+- Parasitas: excepcionalmente, mas dada a origem do doente, devem ser tidos em conta (hidatidose, esquistossomose, toxocariose...) embora seja muito característico apresentar ascite eosinófila.
+- Mesotelioma primário. Eosinofilias sistémicas: patologias sistémicas com grave envolvimento de órgãos que podem levar à infiltração hepática, tais como síndromes hipereosinofílicas, síndrome de Churg-Strauss, etc. Apresentar-se-iam com eosinofilia em LA. 
+
+Inflamatório/Autoimune:
+É necessário descartar a patologia inflamatória e auto-imune, que pode evoluir com serosite:
+- Sindromes auto-inflamatórias: febre mediterrânica familiar, criopirinopatias, síndromes periódicas associadas ao receptor anti-TNF.... É necessário um alto índice de suspeita, uma vez que as ascite devido à serosite é rara.
+- Doenças auto-imunes: LES (raras), artrite reumatóide, hepatite auto-imune e colestase crónica (cirrose biliar primária e colangite primária em fase de cirrose, etc. outras causas: Sarcoidose (forma rara de apresentação), ascite quilosa (líquido ascítico leitoso, predominantemente triglicéridos), ascite pancreática (amilase elevada), mixedema, hemoperitoneu, danos urológicos....
+
+Evolução
+Durante a hospitalização do paciente, é realizada uma nova paracentese (800 ml), com fluido ascítico semelhante; este fluido ascítico é centrifugado e cultivado. Após 14 dias de hospitalização, a laparoscopia diagnóstica foi realizada com biópsias feitas para cultura e anatomia patológica. O relatório laparoscópico mostrou sintomas adesivos maciços, grânulos miliares no peritoneu parietal e visceral e omentum, com ascite considerável, compatível com a peritonite tuberculosa.
+A anatomia patológica relata inflamação granulomatosa necrosante e a cultura de biopsia é positiva para Mycobacterium tuberculosis em meio Lowenstein, sem resistência à isoniazida ou rifampicina, com PCR positiva; a cultura de centrifugação do líquido ascítico cresce a mesma espécie, com PCR negativa. O tratamento foi iniciado com 4 medicamentos e prednisona, com excelente evolução e resolução dos sintomas.
+
+Diagnóstico final
+Peritonite tuberculosa.

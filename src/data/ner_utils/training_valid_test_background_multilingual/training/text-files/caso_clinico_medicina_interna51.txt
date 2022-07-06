@@ -1,0 +1,24 @@
+Antecedentes personales
+Paciente varón de 29 años, sin alergias medicamentosas conocidas ni antecedentes médico-quirúrgicos de interés.
+
+Antededentes epidemiológicos
+Nacido en la India, reside en Angola desde hace 15 años y realiza viajes frecuentes a Hong Kong por motivos laborales.
+
+Enfermedad actual
+Acude a Urgencias de un centro hospitalario español, porque mientras realizaba con su esposa un crucero por Grecia y Turquía, el 8o día de viaje, comenzó con fiebre, ictericia, dolor abdominal y diarrea sin productos patológicos. Acudió a un centro médico en Turquía, donde le realizan una analítica en la que se observa GOT 132 U/L; GPT 244 U/L; GGT 199 U/L, serología VHB y VHC negativos, gota gruesa y frotis negativos. 3 días después, el día 12o de crucero, una vez finalizado éste, continúa con el mismo al cuadro clínico. Previamente había estado hacía 20 días en Hong Kong y durante los 7 días previos al viaje en Angola.
+
+Exploración física y pruebas complementarias
+En urgencias, presenta fiebre(39o), TA 93/54 mmHg, FC 93lpm, y a la exploración física presenta hepatomegalia de 2 traveses, sin otras alteraciones significativas. Se le realiza una analítica, en la que destacan 18000 plaquetas, creatinina 1,74 mg/dL, bilirrubina total 12.14 mg/dl (bilirrubina directa 8.63 mg/dL, bilirrubina indirecta 3.51mg/dL), GOT 141 U/l, GPT 163 U/L. ECG y radiografía de tórax sin alteraciones significativas, en la ecografía abdominal presenta discreta hepatomegalia. Se repite el test rápido diagnóstico de malaria, que resulta positivo, frotis y gota gruesa con parasitemia 17 %.
+
+Evolución durante el ingreso
+Se diagnostica de malaria grave, presentando como criterios de mal pronóstico la hiperparasitemia, ictericia/transaminasemia y trombocitopenia. Se realiza ingreso en la UVI y se comenzó tratamiento con artesunato i.v. durante 3 días durante su estancia en la UVI, posteriormente, con la recuperación de la función renal, de la trombocitopenia, la tolerancia de la vía oral y la estabilidad hemodinámica, se decide el traslado a planta de hospitalización convencional, continuando el tratamiento con artemether- lumefantrina (Riamet), 4 comprimidos cada 12 horas durante 3 días. Durante los días siguientes presenta estabilidad hemodinámica, disminución progresiva de la fiebre y de las transaminasas. En el día +7 de ingreso realiza de nuevo un pico febril (38,7oC), y en el control analítico que se realiza se observa una hemoglobina 10,7 mg/dL (al ingreso 12,2mg/dL) y LDH de 1157 U/L (al ingreso 570 U/L). Durante los días posteriores continuó con fiebre, disminución de la hemoglobina y elevación de la LDH, alcanzando en el día +14 de ingreso el nadir de hemoglobina (8,3 mg/dL) y elevación de la LDH 1582 U/L. Se estudió la anemia hemolítica, realizándose las siguientes pruebas complementarias:
+· Estudio de la hemólisis: elevación reticulocitos, disminución de la Hb, elevación de la LDH, haptoglobina normal y estudio de la ferrocinética dentro de los límites de la normalidad.
+· Autoinmunidad: ANAs y crioglobulinas dentro de los límites de la normalidad.
+· Coombs negativo
+· No existe deficiencia G6PD
+· Inmunofenotipo dentro de los límites de la normalidad.
+· Colangioresonancia: sin alteraciones significativas
+· Sin cambios en la actitud clínica, 13 días después presentaba cifras de hemoglobina 10,2 mg/dL, LDH 647 U/L, bilirrubina total 2,91mg/dL con normalización de las transaminasas, por lo que se decidió alta hospitalaria a domicilio con seguimiento posterior en consultas externas.
+
+Juicio clínico
+Malaria grave. Anemia hemolítica secundaria a tratamiento con artesunato. Buena evolución clínica posterior hasta normalización de los distintos parámetros analíticos.

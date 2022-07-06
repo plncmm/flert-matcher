@@ -1,0 +1,16 @@
+ANTECEDENTS, MALALTIA ACTUAL I EXPLORACIÓ FÍSICA
+Home de 56 anys, sense al·lèrgies, exfumador i esquizofrènia paranoide tractat en el passat amb TEC i múltiples antipsicòtics. És trobat pel seu germà inconscient; en arribar l'ambulància presenta tensió arterial de 60/40 mmHg amb saturació d'O2 del 65%, temperatura de 34,8 °C. A l'auscultació crepitantes i roncus en tots dos camps pulmonars. Es realitza intubació orotraqueal i s'inicia perfusió de catecolaminas (noradrenalina i adrenalina). A la seva arribada al servei d'urgències se sol·licita valoració cardiològica per electrocardiograma (ECG) suggestiu d'infart inferolateral. El ECG mostra ritme nodal amb QRS de 120 ms i morfologia de rSR de V2-V6 amb última R empastada amb el ST. Ecocardioscopia amb funció del ventricle esquerre (VI) conservada i sense alteracions segmentàries. Analítica descrita en proves. La radiografia de tòrax és compatible amb pneumònia multilobar. Cardiologia manté una actitud expectant, i el pacient ingressa en el servei de medicina intensiva per a tractament del procés infecciós respiratori. 
+
+PROVES COMPLEMENTÀRIES
+ECG d'arribada: ritme nodal amb QRS de 120 ms i morfologia de rSR de V2-V6 amb última R empastada amb el ST.
+ECG després de correcció de temperatura: pràctica desaparició de les ones de Osborn, recuperant el ritme sinusal normal.
+ANALÍTICA: hemograma: hemoglobina 14,4 g/dl, hematòcrit 41,6%, leucòcits 1700x10^3/μl, neutròfils 93,3%, plaquetes 133.000x10^3/μl. Coagulació: INR 1,61, IQ 52%, TP 17,1, APTT 42,9, dímer D 708 ngr/ml.
+BIOQUÍMICA: glucosa 163 mg/dl, urea 57 mg/dl, creatinina 0,39 mg/dl, GFR MDRD4; 60 ml/min/1,73m2, sodi 127 mm/l, potassi 4,4 mm/l, magnesi 2,2 mm/l. Creatín cinasa 672 O/L. Lactat 2,37 mm/l. Procalcitonina 0,96 ng/ml. Troponina I < 0,01 ng/dl. CK-MB massa 139,93 ng/ml. Gasometria arterial: pH 7,29. pCO2 67 mmHg. pO2 42 mmHg. HCO3 32,2 mm/l. Excés de base 3,36 mm/l.
+RADIOGRAFIA DE TÒRAX: és compatible amb pneumònia multilobar (imatge 2).
+ECOCARDIOSCOPIA: ventricle esquerre no dilatat amb funció conservada. No alteracions segmentàries de la contractilitat. No valvulopatía aòrtica. Mínima insuficiència mitral. Cavitats dretes amb morfologia i funció normal. No vessi ni masses intracardíaques.
+
+EVOLUCIÓ CLÍNICA
+L'equip de intensivistas sol·licita nova valoració del pacient per dubtes sobre la decisió presa per cardiologia. Després de reavaluar els electrocardiogrames se sol·licita nova temperatura del pacient que és, en aquest moment, indetectable. S'escalfa gradualment al pacient amb mantes tèrmiques i sèrum tebi. Als 32 °C s'observa correcció parcial de les ones, que desapareixen per complet als 36 °C. Fent el diagnòstic d'ones de Osborn per hipotèrmia i acidosis. El pacient finalment mor per fracàs respiratori.
+
+DIAGNÒSTIC
+Pneumònia multilobar adquirida en la comunitat. Insuficiència respiratòria aguda. Hipotèrmia i acidosis, amb ones de Osborn en l'electrocardiograma. Funció ventricular esquerra conservada, no cardiopatia estructural. Mort.

@@ -1,0 +1,25 @@
+Anamnesis
+Varón de 76 años de edad, alérgico a penicilina, con hipertensión arterial, riñón izquierdo hipofuncionante tras cólico nefrífico con cálculo impacatado en uréter y cirugía prostática en el año 2000 por hiperplasia prostática benigna.
+Percibe tumoración supraclavicular derecha de aproximadamente dos meses de evolución, que había aumentado progresivamente de tamaño. Desde aquí es derivado a Servicio de Medicina Interna, donde comienza su estudio.
+
+Exploración física
+Buen estado general, ECOG 0. Adenopatía supraclavicular derecha de unos 2,5 cm y adenopatía de 1,5 cm en la axila derecha.
+
+Pruebas complementarias
+• TC cuello-tórax-abdomen con contraste: adenopatías en todas las cadenas principales del cuello, axilas, cadenas ilíacas e inguinales.
+• Hemograma: normal.
+• Bioquímica: normal.
+• Aspirado-biopsia médula ósea: no infiltración por linfoma.
+• Biopsia adenopatía supraclavicular derecha: linfoma no Hodgkin B de células del manto.
+
+Diagnóstico
+Linfoma no Hodgkin B de células del manto, estadio IIIA.
+
+Tratamiento y evolución
+Con este diagnóstico, se nos deriva para planteamiento terapéutico en abril de 2010. El paciente recibe seis ciclos de quimioterapia esquema R-CHOP que finaliza en agosto de 2010 con toxicidad máxima infecciosa grado 3 CTCAE vs 3.0. Se obtiene respuesta parcial y se solicita PET donde se objetiva afectación linfática supradiafragmática (laterocervical derecha y axilar bilateral). Se administra radioterapia hasta 30 Gy sobre áreas afectas según PET desde el 8 de febrero de 2011 hasta el 2 de marzo de 2011.
+En la reevaluación de abril 2011, se solicitan estudios de seguimiento, con una TC de cuerpo completo (16 de mayo de 2011): empeoramiento radiológico con afectación ganglionar cervical bilateral, conglomerados en eje ilíaco bilateral y adenopatías inguinales. Posible afectación mediastínica.
+Se considera progresión tumoral y planteamos quimioterapia de segunda línea. Dado que el paciente no es candidato a trasplante autólogo y tras revisar la bibliografía, pensamos que el tratamiento más eficaz sería con el esquema rituximab-bendamustina.
+Se administran tres ciclos de bioquimioterapia hasta noviembre de 2011 con reevaluación al tercer ciclo que demostraba respuesta parcial. En estudio de diciembre de 2011 se objetiva, mediante TC de cuello, una evolución desfavorable. Se aprecia aumento en el número y en el tamaño de las adenopatías cervicales.
+En el estudio actual se identifican numerosas adenopatías cervicales posteriores, algunas de gran tamaño, alcanzando hasta 28 x 13 mm en el lado izquierdo.
+También se identifican en el espacio submandibular de hasta 2 cm y de forma bilateral y en el espacio yugulocarotídeo de hasta 18 mm. En el tórax, aumento también del número y tamaño de las adenopatías, supraclaviculares y axilares donde alcanzan hasta los 3 x 2 cm. En el abdomen, conglomerado adenopático de localización retroperitoneal interaortocava de 2,5 x 2,5 cm a nivel de la bifurcación aórtica. También son visibles conglomerados adenopáticos en cadenas ilíacas de forma bilateral (común, interna y externa), más llamativos en el lado izquierdo, donde existe un gran conglomerado a nivel de la bifurcación de 6,5 x 4 cm. Grandes adenopatías inguinales bilaterales de hasta 4 x 2 cm.
+Dada la rápida progresión de la enfermedad tras rituximab-bendamustina, se plantea tercera línea de tratamiento en monoterapia con temserolimus. Hasta la fecha ha recibido dos ciclos, con toxicidad hematológica en segundo ciclo (plaquetopenia) grado 2 de la CTCAE frente a 3.0 y con respuesta parcial clínica.

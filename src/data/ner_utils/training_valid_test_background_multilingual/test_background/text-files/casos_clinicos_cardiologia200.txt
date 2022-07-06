@@ -1,0 +1,27 @@
+Mujer de 35 años que como antecedentes de interés destacan tabaquismo activo de más de veinte cigarrillos al día desde hace 20 años, herpes-zóster en 2009, muguet en 2015 y diagnóstico de infección por el Virus de la Inmunodeficiencia Humana en 2006.
+
+Historia actual
+Se presenta el caso de una paciente de 35 años que como antecedentes de interés destacan tabaquismo activo de más de veinte cigarrillos al día desde hace 20 años, herpes-zóster en 2009, muguet en 2015 y diagnóstico de infección por el Virus de la Inmunodeficiencia Humana en 2006. La paciente inició ese mismo año tratamiento antirretroviral con zidovudina + lamivudina + saquinavir/ritonavir, aunque la adherencia al mismo fue errática y lo abandonó por completo en 2017.
+Acude ahora por un cuadro de astenia, pérdida de once kilogramos en los últimos meses y hemorragia oral.
+
+Exploración física
+A la exploración física destaca marcada delgadez, regular estado general, taquicardia rítmica y gingivoestomatitis hemorrágica compatible con muguet.
+
+Pruebas complementarias
+Se realiza una analítica sanguínea que muestra una ligera pancitopenia y se solicitan serologías con carácter urgente, siendo negativos los resultados para virus hepatotropos (A, B y C) y sífilis, y positivos para VIH, con una carga viral detectable superior a los siete millones de copias y con un recuento de linfocitos CD4 de 16 (2%).
+Además, se solicita electrocardiograma que se muestra a continuación (electrocardiograma 1).
+
+Evolución
+Se inicia tratamiento del muguet con fluconazol, con lo que éste mejora en poco tiempo y se comienza el estudio de la pancitopenia que presenta la paciente (y que empeora progresivamente), así como el despistaje de las principales infecciones oportunistas y de las distintas causas que justifiquen el cuadro constitucional añadido.
+Por un lado, se descartan las infecciones por microorganismos como Mycobacterium tuberculosis, Citomegalovirus, Pneumocystis jirovecii, Leishmania, Toxoplasma y Cryptococcus y por otro lado, se descartan las causas tumorales e inmunológicas principales, quedando fundamentalmente como causa de todo el cuadro la propia infección del VIH, la reactivación del Virus de Epstein-Barr y la infección por Parvovirus B19.
+Teniendo en cuenta esto y el empeoramiento progresivo de la paciente tanto a nivel clínico como analítico (precisando incluso trasfusiones de hematíes y plaquetas), se decide iniciar tratamiento antirretroviral con darunavir/cobicistat + emtricitabina + alafenamida el día 7/10, tras interconsultar con la Unidad hospitalaria de VIH.
+Pocos días después del inicio de la terapia antirretroviral, la paciente experimenta mejoría de la astenia y del malestar general, así como recuperación de los parámetros analíticos. Sin embargo, haciendo especial hincapié en la anamnesis y en la exploración física, comenta padecer en el momento actual un predominio de la disnea (con incapacidad para deambular sobre llano de forma asintomática más de 100 metros) sobre la astenia y el "mareo" que había presentado en un inicio, descubriendo además a la auscultación cardiaca un galope por tercer tono. Asimismo, se repite un nuevo electrocardiograma (electrocardiograma 2) y se solicita analítica con troponina (normal) y NT-proBNP (2.522 pg/m).
+Debido a estos hallazgos, se interconsulta con los especialistas del Servicio de Cardiología, los cuales recomiendan la realización de un ecocardiograma transtorácico, que revela un ventrículo derecho dilatado e hipertrófico, con disfunción sistólica moderada, movimiento paradójico septal y aumento del índice de excentricidad del ventrículo derecho sobre el izquierdo, además de leve derrame pericárdico.
+Ante estos resultados, se decide la realización de un cateterismo cardiaco derecho que confirma el diagnóstico de hipertensión pulmonar precapilar moderada e interconsultar con la Unidad de Hipertensión Pulmonar. Con el diagnóstico de presunción de hipertensión pulmonar secundaria al VIH se inicia tratamiento con tadalafilo a dosis de 20 mg/día.
+Con el inicio de esta terapia y del tratamiento antirretroviral, en menos de 3 semanas la paciente experimenta una mejoría clínica sustancial, permitiendo en un principio la deambulación y la realización de las actividades cotidianas sin presentar disnea. Asimismo, se aprecia una mejoría en los niveles de NT-proBNPy en el estudio ecocardiográfico, en el que se evidencia normalización del tamaño ventricular derecho, menor movimiento paradójico septal, y normalización del índice de excentricidad VD/VI. Se adjunta asimismo un electrocardiograma de control (electrocardiograma 3).
+Una vez completado el estudio de hipertensión pulmonar, habiendo descartado otras causas como intoxicación por aceite de colza, cardiopatía izquierda, neumopatía o enfermedad tromboembólica, se confirma el diagnóstico de hipertensión pulmonar asociada al VIH.
+
+Diagnóstico
+Pancitopenia secundaria a infección por el Virus de la Inmunodeficiencia Humana, Virus de Epstein-Barr y Parvovirus B19.
+Hipertensión pulmonar asociada al VIH.
+Prolongación del QT en contexto de infección por VIH, hipertensión pulmonar y toxicidad farmacológica.

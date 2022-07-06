@@ -1,0 +1,43 @@
+A 61-year-old patient with the following personal history: epidermoid carcinoma of the tonsil treated with chemotherapy and radiotherapy currently free of disease, CVA without sequelae, mild carotid stenosis and active drinker.
+She came to the emergency room for diffuse abdominal pain and general▁malaise accompanied by cough with herrumbrous secretions of several days of evolution.
+He did not report fever or dysthermic sensation.
+Location: TA: 70/40 mmHg, HR: 110 bpm, SpO2: 93% (FiO2 0.6), afl;▁malaise with caries, cutaneomucosa dental dryness with signs of poor distal bacterial perfusion; septic.
+Tachypnea at rest, with superficial breathing with crackles in the right hemithorax and decreased vesicular murmur on the left base.
+The abdomen was asymptomatic despite being the reason for initial consultation.
+Rest of the exploration without particularities.
+The electrocardiogram showed generalized elevation of concave ST.
+Associated findings and poor hemodynamic improvement despite the administration of objective-directed fluid therapy, ICU admission was decided for stabilization.
+Central venous cannulation was performed and vasoactive therapy with noradrenaline was initiated at a dose of 0.04 ug/ kg/min.
+Transthoracic echocardiogram revealed severe pericardial effusion with right ventricular diastolic collapse, compatible with taping.
+Differential diagnosis The generalized elevation of the ST with concave morphology, accompanied by infectious symptoms, should alert us to the presence of a possible pericarditis.
+These ECG changes, together with the presence of pericardial effusion, establish the diagnosis of the same, fulfilling two of the four criteria proposed according to the guidelines1.
+Among the non-infectious etiologies of pericarditis, it can be found in the context of autoimmune and inflammatory diseases, metabolic alterations, chest trauma, drugs and neoplasias among the most frequent.
+It is important to consider the latter in our patient, in the context of possible metastatic disease, given the history of locally advanced squamous cell carcinoma.
+However, the rest of the a priori etiologies could be ruled out taking into account the clinical history, absence of personal and pharmacological background to support them.
+The presence of infectious respiratory symptoms, as the most striking data, associated with hemodynamic instability, leads us to believe in the group of infectious etiologies.
+Within this group we highlight: • Viruses: The Coxsackie virus B are known as the most common cause in the literature, especially in children.
+However, according to recent series, cytomegalovirus, herpes virus, and HIV should be considered as the most common etiologies in adults.
+Viruses are usually associated with mild pericardial effusions, including HIV in the current era of new antiretroviral therapies.
+In addition, most of them course with characteristic symptoms/added signs (skin rashes, alterations in liver markers in hepatotropic viruses, gastrointestinal symptoms etc), which could lead to a specific etiology.
+• Bacteria: Mycobacterium tuberculosis is one of the most common pathogens in this group.
+Although it accounts for only 4% of all cases of pericarditis in developed countries, Spain is one of the countries with the highest incidence of tuberculosis in Europe.
+This, together with the high mortality rate that would lead to the pericranial affectation (25% at 6 months in the absence of HIV coinfection), make it necessary to consider it in the differential diagnosis.
+Other less common bacteria (<1% of cases) causing purulent pericarditis are Staphylococcus sp, S. pneumoniae, Streptococcus sp and Haemophilus sp.
+They usually present as an acute disease characterized by high fever, present in most patients, tachycardia, cough and chest pain (regardless of the pathogen involved or the pathogenesis of the infection).
+Patients are usually severely ill, although they may have an indolent initial course.
+Other pathogens associate more representative data, pericarditis than the accompanying diagnosis, as in the case of cardiac involvement by Borrelia burgdorferi, in which case we would find alterations in the cardiac conduction system as a manifestation.
+As for pericarditis or prolonged over time, it should be taken into account in the differential diagnosis, infection by Coxiella burni, since it can present characteristically in a chronic form in addition to acute.
+• Fungi: Aspergillus sp., C. albicans among others, are usually present in severely immunocompromised patients, and even in this context, they are very rare.
+• Parasites: practically exceptional, to be taken into account according to the epidemiology of the patient.
+Performing a pericardiocentesis with removal of purulent material, a total of 1450 ml, removing samples for pathological anatomy, microbiology and clinical analysis.
+After extraction of hemocultive and urocultive findings, Meropenem 1 g/8 hours + linezolid 600 mg/12 hours was initiated, considering the clinical instability with little improvement to the initially established measures.
+After these measures, the patient improved clinically and hemodynamically within the following hours, allowing a decrease in vasoactive therapy.
+Blood analysis extracted in the emergency department showed: a) Biochemistry: CRP 312.1 mg/L, Procalcitonin 35.86 ng/mL, platelet count 312.1 mg/L (90%), total leukocyte count 42.80 mg/L, platelet count: 50.22 x 109/L + 48.80 mg/dl, platelet count; platelet count: 50.22 x 109/L + 99.80 mg/dl, platelet count + PRBC count; platelet count; platelet count + 50.22 x 109/L + PR: 53
+Chest X-ray showed cardiomegaly with no masses or condensations at the level of pulmonary parenchyma.
+Diagnosis of septic shock with purulent pericarditis was established.
+After 21 hours of admission to the ICU, despite initial improvement, the patient developed cardiorespiratory arrest in asystole after extreme bradycardia.
+Advanced life support maneuvers are started and control echocardiography is performed during them, ruling out new taping and post-puncture complications without showing bloody output through drainage or increased purulent output.
+The patient finally died.
+Multisensitive Streptococcus constellatus was isolated in hemocultives, with negative pericardial fluid culture.
+However, the anatomopathological results of the liquid show abundant polymorphous leukocytes, mainly lymphocytes of mature aspect and neutrophils, without signs of malignancy that would support the diagnosis of bacterial etiology of the process.
+Final diagnosis purulent pericarditis probably secondary to Streptococcus constellatus.

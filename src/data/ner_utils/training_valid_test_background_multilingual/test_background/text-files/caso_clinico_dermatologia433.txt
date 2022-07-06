@@ -1,0 +1,20 @@
+Anamnesis
+Varón de 69 años que acude a consulta de Dermatología por referir lesión eritematosa en tórax de aproximadamente 2 meses de evolución. La lesión era asintomática y no la relacionaba con ningún desencadenante concreto. No había realizado ningún tratamiento por este motivo. Entre sus antecedentes dermatológicos destacaba únicamente la exéresis de un carcinoma basocelular preauricular derecho en el año 2008, con bordes libres en el estudio anatomopatológico. Diagnosticado previamente de cardiopatía isquémica crónica y dislipemia, seguía tratamiento habitualmente por este motivo con atorvastatina 20 mg 1 comprimido diario, ácido acetilsalicílico 100 mg 1 comprimido diario, y bisoprolol 2.5 mg un comprimido diario. No tenía alergias conocidas.
+
+Exploración física
+Nódulo eritematoso de 10 mm de diámetro situada en tórax anterior derecho. No presentaba otras lesiones en piel ni en mucosas. No adenopatías locorregionales.
+
+Exploraciones complementarias
+Se realizó biopsia-punch de 4 mm de la lesión. En el estudio anatomopatológico se apreciaba un denso infiltrado linfoide que mostraba epidermotropismo focal con una epidermis parcialmente atrófica. El infiltrado mostraba un predominio de linfocitos de pequeño y mediano tamaño frente a otras células grandes, se extendía alrededor de los vasos de plexo medio y se acompañaba de algunas células plasmáticas. No se apreciaba hipergranulosis ni paraqueratosis y sí ligera espongiosis.
+Se realizó también estudio inmunohistoquímico, donde se apreció que las células que constituían la lesión eran en su mayor parte linfocitos T, CD-3 positivo con un claro predominio de los linfocitos CD-4 y escasos linfocitos CD-8. Se apreciaba también una población de linfocitos B que se localizaban en la periferia y una población de células plasmáticas que no mostraban restricción de cadenas ligeras. Se apreciaban escasas células CD-30 positivas y ligero foliculotropismo.
+Se envió muestra a Biología Molecular para realizar estudio de reordenamiento T Gamma, con resultado positivo biclonal TCRgamma (VJ-A).
+Finalmente se solicitó estudio inmunohistoquímico para PD-1, donde se apreció positividad focal para dicho marcador formando pequeños acúmulos que correspondían a las células pleomórficas.
+
+Diagnóstico
+Linfoma cutáneo T-CD4 de células pequeñas y medianas pleomórficas.
+
+Tratamiento
+No fue preciso realizar tratamientos complementarios.
+
+Evolución
+Tras realizar la biopsia-punch de la lesión, se produjo la resolución espontánea del resto de la lesión nodular. Tras seguimiento en consulta durante año y medio tras la resolución del linfoma cutáneo en tórax, la evolución ha sido muy buena, presentando la cicatriz buen aspecto, sin datos de recidiva clínica, ni adenopatías en las principales cadenas locorregionales.

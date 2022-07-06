@@ -1,0 +1,17 @@
+Anamnesis
+Varón de 76 años con antecedentes personales de hipertensión arterial y glaucoma, exfumador desde hace 15 años, que presentaba desde hace un mes lesiones cutáneas inicialmente localizadas en región frontal con extensión a tronco y extremidades. Las lesiones eran asintomáticas y habían presentado rápido crecimiento. Había recibido tratamiento con mupirocina tópica con ausencia de mejoría. No había presentado fiebre, astenia, anorexia o pérdida de peso. No refería prurito ni sudoración nocturna profusa.
+
+Exploración física
+Nódulos eritematosos, infiltrados, no dolorosos a la palpación, localizados en cabeza, tronco, abdomen y extremidades superiores, el mayor de los cuales tenía un tamaño de 4x4 cm y estaba localizado en costado derecho. Asimismo, presentaba adenopatías palpables submandibulares bilaterales y laterocervicales altas de 2x1 cm de tamaño. No otros hallazgos significativos.
+
+Exploraciones complementarias
+Se realizó analítica en la que se observaba exclusivamente trombopenia leve, y una biopsia cutánea en la que se objetivaba un infiltrado celular difuso, que afectaba toda la dermis, compuesto por células de tamaño medio que eran blastoides. La inmunohistoquímica fue positiva para CD4, CD56, CD123, TdT, CD45 Y CD7, y negativa para mieloperoxidasa, CD79a, CD15, CD68, CD34, granzina, perforina, CD5, CD3, CD8 ni CD20.
+
+Diagnóstico
+Neoplasia de células dendríticas plasmocitoides.
+
+Tratamiento
+El paciente fue derivado al servicio de hematología para realización de estudio de extensión. Analíticamente destacaba una beta2 microglobulina de 3 g/dL, pero el PET-TAC no evidenció tejido tumoral viable con afinidad para 18FDG. El aspirado y la citometría de médula ósea mostraron una población que suponía el 2.34-2.63%, que expresa CD45, CD123, CD4, DR y CD56, compatible con infiltración medular por neoplasia de células dendríticas plasmocitoides. Se inició, por tanto, protocolo quimioterápico de inducción 2+5 (idarubicina 21.84 mg 2 días seguido de citarabina 5 días), seguido de una primera y segunda consolidaciones con citarabina a dosis intermedias.
+
+Evolución
+Tras la realización de la inducción y las dos consolidaciones, el paciente se encuentra asintomático en el momento actual, con respuesta completa de su enfermedad y en seguimiento por parte del servicio de Hematología.

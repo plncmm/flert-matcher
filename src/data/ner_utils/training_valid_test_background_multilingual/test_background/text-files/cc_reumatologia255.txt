@@ -1,0 +1,38 @@
+Mujer de 85 años con antecedentes médicos relevantes de hábito tabáquico inactivo desde hace más de 20 años, hipertensión arterial en tratamiento farmacológico con evidencia de lesión en órgano diana, Diabetes Mellitus tipo 2 en tratamiento con antidiabéticos orales e insulinoterapia, cardiopatía isquémico-hipertensiva con disfunción diastólica leve y alteraciones segmentarias de la contractilidad, revascularizada de forma percutánea con colocación de dos stents en la arteria circunfleja y coronaria derecha en 2012, presentando un nuevo episodio de SCASEST en 2013 objetivándose en la coronariografía dos lesiones a nivel de las arterias obtusa marginal y descendente anterior, colocándose otros dos stents a este nivel. Por este motivo se encontraba en seguimiento por Cardiología de forma ambulatoria, presentando en los últimos años varios episodios de SCASEST que se manejaron de forma conservadora. En dicha consulta se retiró el tratamiento hipolipemiante con atorvastatina 80mg y ezetimibe en Enero de 2019 tras objetivarse en una analítica de control una CPK de 900 U/l asintomática. Es independiente para las actividades básicas e instrumentales de la vida diaria y vive sola en domicilio. Actualmente en tratamiento con AAS 100mg/24h, amlodipino 5mg/24h, ramipril 5mg/24h, metformina 850mg/24h, linagliptina 5mg/24h, insulina glargina 28U/24h y omeprazol 20mg/24h.
+Es valorada por primera vez en la consulta de Medicina Interna en Junio de 2019, derivada desde Cardiología para considerar inicio de tratamiento hipolipemiante con inhibidores de PCSK9. Durante la entrevista la paciente relató un síndrome constitucional decidiéndose ingreso hospitalario para estudio. En la anamnesis, refería desde hace un año y medio astenia y debilidad muscular de predominio proximal que interfiere con su vida habitual, especificando una gran dificultad para cocinar y ‘"dar la vuelta a la sartén al hacer tortilla"". Relataba, además, múltiples caídas al suelo desde su propia altura no asociadas a pérdida de nivel de consciencia, así como disfagia orofaríngea con pérdida de peso desde hace 6 meses que no sabía cuantificar. No aparición de lesiones cutáneas a ningún nivel, fiebre, sudoración, ni otra clínica por órganos y aparatos.
+
+En la exploración física se encontraba hemodinámicamente estable, afebril, eupneica en reposo con satO2 basal del 98%, no se objetivaban lesiones cutáneas ni adenopatías; destacaba incapacidad para mantener la postura encontrándose sentada en la cama sin apoyar la espalda así como dificultad para incorporarse a bipedestación, destacando en la exploración neurológica una pérdida de fuerza 4/5 en la musculatura proximal de miembros inferiores y superiores, con exploración sensitiva y reflejos sin alteración y sin pérdida de fuerza en músculos cervicales. El resto de la exploración neurológica, la exploración abdominal y auscultación cardiopulmonar fueron normales.
+
+PRUEBAS COMPLEMENTARIAS
+En las pruebas destacaban:
+— Hemograma y coagulación normales.
+— CPK de 1.700 U/l con el resto de la bioquímica normal.
+— Reactantes de fase aguda normales.
+— Perfil lipídico: Triglicéridos 118 mg/dl, HDL 36 mg/dl, LDL 135 mg/dl.
+— Perfil básico de autoinmunidad normal en una valoración inicial, pendiente de resultados específicos para miopatía.
+— Cortisol basal normal, hormonas tiroideas en rango, PTH normal, déficit de vitamina D.
+— Serologías de VHB pasado, VHC, VIH y sífilis negativos.
+— Mantoux 0mm.
+— ECG: bradicardia sinusal a 51lpm. PR normal. Hemibloqueo anterior de rama izquierda. QRS estrecho. QTc normal.
+— Radiografía de tórax PA y lateral 04/06: cifoescoliosis. Elongación aórtica. ICT normal. No pinzamiento de senos costofrénicos. No infiltrados parenquimatosos.
+— TC torácico-abdomino-pélvico: nódulos pulmonares indeterminados. Lesiones focales hepáticas indeterminadas.
+— RM de MMII sin alteraciones significativas; sin evidencia de edema muscular.
+— EMG: estudio de conducción sensitiva y motora de nervios de MMSS y MMII hallando parámetros normales. Se realiza electromiografía de musculatura proximal de MMSS y MMII que identifica actividad irrtiativa en forma de fibrilaciones, ondas positivas y abundantes descargas miotónicas, de inicio abrupto y lento declinar hasta desaparecer. La acitvación voluntaria muestra abundante sunidades motoras con aumento de polifasia y duración disminuida, con un reclutamiento normal o ligeramente acelerado.
+— Capilaroscopia patológica con predominio de sinusoides y dilataciones capilares.
+— Espirometría: FVC: 59.5, FEV1: 70.4, MMEF 75/25: 43.7. IT: 92. Mala realización de la técnica por escasa colaboración de la paciente.
+
+DIAGNÓSTICO DIFERENCIAL
+Estamos ante un cuadro de un año de evolución consistente en debilidad muscular de claro predominio proximal con hiperCKemia (inicio de la elevación de CK el 09/2018 con zénit en 04/19 de 2.700 U/l, tres meses después de la retirada de estatinas y ezetimibe) asociado a disfagia.
+Atendiendo al curso clínico del cuadro (una evolución crónica y con aumento progresivo de la CK), así como la presentación clínica (donde destaca una debilidad con afectación proximal y simétrica con disfagia asociada), se planteó como primera posibilidad que se tratase de una miopatía inflamatoria. Los resultados del EMG eran compatibles con la sospecha clínica y la RM muscular no mostró alteraciones reseñables.Teniendo en cuenta la marcada elevación de la CK, la ausencia de lesiones dérmicas, el patrón de afectación muscular y el antecedente de toma de estatinas, la entidad más compatible era una miopatía necrotizante autoinmune.
+
+PRUEBAS DIAGNÓSTICAS
+— TC toraco-abdomino-pélvico para descartar la presencia de un tumor primario por la posible presentación del cuadro como síndrome paraneoplásico, así como para valorar la afectación pulmonar intersticial en el seno de una posible miopatía: negativo.
+— Biopsia muscular: compatible con una miopatía necrotizante autoinmune.
+— Autoinmunidad con unos niveles de anti-HMGCoA reductasa positivos a título de 218 U (normal < 19 U) con el resto de perfil negativo (Jo-1, PL-7, PL-12, EJ, OJ, SRP, Mi-2, MDA-5, TIF-1gamma, Ku, PMScl100, PM-Scl75, Scl70, Ro52, NXP2, SAE1).
+
+DIAGNÓSTICO DEFINITIVO
+— Miopatía necrotizante con anti-HMGCoA reductasa, desencadenada por la toma de estatinas/ezetimibe.
+
+
+TRATAMIENTO Y EVOLUCIÓN
+Se inició tratamiento con bolos de 6-metilprednisolona a dosis 250 mg iv durante 3 dias, seguidos de prednisona 20mg con descenso semanal paulatino asociado a metotrexate. Fue dada de alta con seguimiento ambulatorio y pendiente de reevaluación en unidad de riesgo cardiovascular de Medicina Interna para valorar inicio de inhibidores de PCSK9. Antes de dicha consulta, acudió el 21 de Julio, tres semanas tras el alta, al Servicio de Urgencias por un síncope precedido de dolor torácico y elevación de enzimas de daño miocárdico (CK: 1954 U/l y Troponina T hs: 384.5 ng) en el contexto de un nuevo SCASEST sin lesiones susceptibles de revascularización añadiéndose tratamiento con clopidogrel 75mg y parches de nitroglicerina al alta. Durante el seguimiento ambulatorio en lo referente a la miopatía inflamatoria presentó una buena respuesta inicial, con mejoría de la debilidad y descenso progresivo de los niveles de CK, pero con persistencia de actividad que requirió aumento de dosis de metotrexate hasta 20 mg/semanal s.c. y prednisona 5mg c/24h.

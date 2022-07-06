@@ -1,0 +1,28 @@
+Anamnesis
+Mujer de 58 años de edad. Hipertensa. Enfermedad renal crónica secundaria a poliquistosis hepatorrenal del adulto en hemodiálisis desde 2009. En este mismo año se realiza un primer transplante renal de donante cadáver en la fosa iliaca derecha, que precisa transplantectomía de urgencia en el postoperatorio por trombosis de la vena renal y tromboembolia pulmonar. La paciente recibió seis meses de anticoagulación oral. Estudio de hipercoagulabilidad normal. En 2011 se produjo una eventración del riñón nativo derecho por incisión de transplantectomia y herniación de asas, procediendo a la nefrectomía derecha y hernioplastia.
+En enero de 2013 se llevó a cabo un segundo trasplante renal de donante cadáver en la fosa iliaca izquierda con terapia de inicio (timoglobulina, tacrolimús, micofenalato, esteroides), creatinina de 0,9 mg/dl y aclaramiento de creatinina de 70 ml/min al alta. Tratada al alta con prednisona 40 mg/24 h, tacrolimús 5 mg/12 h, ácido micofenólico 360 mg/12 h. Diabetes mellitus esteroidea tratada con repaglinida.
+En febrero de 2013 acude al Servicio de Urgencias por diarrea, con 10 deposiciones, de 24 horas de evolución, sin dolor abdominal, náuseas, vómitos ni fiebre. No refiere clínica miccional, hematuria ni disminución del ritmo de diuresis. Comenta edemas maleolares y pretibiales, sobre todo en el miembro inferior izquierdo. No presenta otra clínica asociada.
+
+
+Examen físico
+Tensión arterial 136/76 mmHg, 86 lpm. Temperatura 36,3 oC. Eupneica, bien perfundida, mucosas secas. Auscultación torácica: normal. Abdomen: blando y depresible, no doloroso a la palpación. Injerto renal izquierdo no doloroso. Extremidades: pulsos presentes a todos los niveles. Edemas con fóvea maleolares y pretibiales en ambos miembros inferiores, mayor en el miembro inferior izquierdo.
+
+Pruebas complementarias
+• Analítica sanguínea: glucosa 119 mg/dl, urea 50,5 mg/dl, creatinina 1,05 mg/dl, fósforo 2,1 mg/dl. Iones normales. Niveles tacrolimús 15,4 ng/dl. Osmolalidad plasma 297 mOsm/l. LDH 565 mU/ml. Bioquímica hepática normal. Hemoglobina 11,3 g/dl. Hematocrito 34,1%, leucocitos 13.400, neutrófilos 95,5%. Plaquetas 103.000.
+• Sedimento de orina: hematuria y leucocitos 5-10/campo.
+• Radiografía simple de tórax y abdomen sin alteraciones.
+• Eco-Doppler renal: injerto renal con cortical de grosor conservado y buena diferenciación corticomedular. Arteria renal permeable que muestra ondas de morfología normal con índices de resistencia ligeramente aumentados (> 0,8). Trombo en la vena renal que se continúa hacia la vena iliaca externa, femoral común, femoral superficial y vena poplítea izquierdas. No se observa dilatación del sistema excretor. Se objetiva colección de 5 x 4 cm que contacta con los vasos iliacos, ya presente en el estudio previo.
+• Tomografía computarizada (TC) abdominal sin contraste: en la fosa iliaca izquierda se observa un quiste de ovario de 3 x 2 cm, y medial a los vasos iliacos externos hay una colección líquida de 5 x 1 cm sin comprimirlos.
+
+Diagnóstico
+Trombosis venosa profunda iliofemoropoplítea y trombosis de la vena renal del injerto. Diarrea secundaria a repaglinida.
+
+Tratamiento
+En Urgencias se objetiva un claro aumento del perímetro del miembro inferior izquierdo de horas de evolución.
+Se consensúa intervención quirúrgica interdisciplinar del Servicio de Urología y de Cirugía Vascular de urgencia: disección inguinal izquierda, venotomía transversa de la vena femoral común más trombectomía venosa proximal y distal. En la flebografía intraoperatoria se observa: ocupación proximal de la vena iliaca común izquierda proximal a la anastomosis venosa del injerto y se percibe buen drenaje por la vena renal del riñón trasplantado, eje iliaco derecho sin trombo asociado. IVUS: ocupación parcial de la vena iliaca común izquierda y sospecha de síndrome de May-Thurner asociado. Colocación de un stent en vena iliaca común izquierda. Además, se crea una fístula arteriovenosa entre la vena femoral común y la arteria femoral superficial con prótesis de PTFE. Durante el acto quirúrgico la paciente presenta shock hemorrágico, con hematuria franca de 1.600 ml tras la infusión de un bolo de 5.000 unidades de heparina sódica, realizándose cistoscopia intraoperatoria, sin observarse sangrado de origen vesical. A las 24 horas se traslada a planta de Nefrología.
+
+Evolución
+Tras reiniciar la heparina sódica, se objetivan tres episodios de hematuria con leve anemización, ya que el tiempo de cefalina sobrepasa el rango. Quince días después se pasa a acenocumarol, y el vigésimo día postquirúrgico se produce un nuevo aumento del perímetro del miembro inferior izquierdo, objetivándose en la eco-Doppler trombosis de la fístula femoro-femoral y trombosis venosa en el eje ilio-femoral común, pero permeabilidad vena renal del injerto.
+En la TC, la colección medial a los vasos iliacos crece hasta 10 x 6 cm, optándose por observación, ya que la punción supondría anticoagulación con heparina sódica y sangrado en consecuencia. Se pauta acenocumarol de por vida, deambulación y medias de compresión fuerte. Se decide darle el alta hospitalaria con observación domiciliaria estrecha.
+A finales de marzo hay mejoría del edema del miembro inferior izquierdo y en la eco-Doppler se confirma la recanalización parcial de la trombosis venosa profunda de la vena iliaca externa, con creatinina de 1,13 mg/dl y aclaramiento de creatinina de 70 ml/min.
+En el nuevo estudio de hipercoagulabilidad se objetiva hiperhomocisteinemia.

@@ -1,0 +1,35 @@
+Anamnese
+Um paciente do sexo masculino, 44 anos de idade, da Argélia, sem alergias a drogas conhecidas e com uma história pessoal de episódios de hiper-responsividade brônquica ocasionalmente tratados com salbutamol. Fumador de tabaco (16 maços/ano) e fumador de cannabis e haxixe. Vive em Espanha há 15 anos e todos os seus familiares vivem no estrangeiro.
+
+O paciente consultou o serviço de urgência em várias ocasiões (Maio de 2014) durante um mês de sintomas caracterizados por episódios de edema predominantemente facial e periocular, classificados como angioedema. Foi tratado com corticosteróides e anti-histamínicos, sem melhorias. Também relatou fraqueza generalizada com mialgia, anorexia com perda de peso de 10 kg, disfagia elevada e tosse com expectoração mucosa persistente.
+
+Exame físico
+Os resultados incluem fraqueza muscular proximal, hepatoesplenomegalia não dolorosa, eritema palpebral em heliotropo, inchaço do braço esquerdo, pápulas de Gottron com telangiectasias periungueais e candidíase orofaríngea. A fibroscopia nasal revelou uma lesão nodular no hemicavum direito, ligeiramente superior a 1 cm de diâmetro, atrás e abaixo da hélice. Não foi observada qualquer linfadenopatia cervical.
+
+Testes complementares
+"Testes laboratoriais gerais: linfopenia, AST 713 IU/l, ALT 281 IU/l, LDH 2,505 IU/l, CK 27,000 IU/l.
+"Estudo imunológico: ANA positivo (1/160), anti-SSA positivo (RO), níveis negativos de anticorpos anti-dsDNA circulantes, anti-Jo1 e anti-Mi2, anti-tripsina alfa-1 negativa. Marcadores tumorais negativos.
+"EMG: padrão miopático.
+"Biopsia muscular: miopatia imuno-mediada do tipo dermatomiosite.
+"TAC torácica: enfisema significativo de predominância bibásica com formação de grandes bolhas, excluindo a deficiência de alfa-antitripsina. Lesão cavitada apical esquerda de parede fina. Imagens com árvores em forma de botão na parte apical do lobo inferior direito.
+"Thoracoabdominopelvic CT: nenhuma evidência de patologia neoformativa. Progressão das zonas torácicas direitas das árvores e aparecimento de lesões cavitadas biapicais, suspeitas de reactivação da tuberculose.
+"Fibrobroncoscopia normal.
+"IGRA: negativo. Lowenstein e Ziehl-Nielsen negativos.
+"Bronchoalveolar aspirate (BAS): positivo para Haemophilus influenzae".
+"18-F-PET-CT: deposição hipermetabólica focal de FDG na região parietal direita sobre o lobo temporal. Fibroscopia nasal com biópsia excisional com patologia positiva para carcinoma mal diferenciado.
+"Ressonância magnética craniana: lesão nodular no hemicavum direito sugestiva de lesão tumoral primária.
+
+Diagnóstico
+Carcinoma mal diferenciado do hemicavum direito, cT1N0M0 (fase I), com dermatomiosite como síndrome paraneoplásica.
+
+Tratamento
+Dada a suspeita de dermatomiosite (DM), foi realizada uma biópsia muscular, que confirmou o diagnóstico. O tratamento foi iniciado com corticosteróides (1 mg/kg/dia) e subsequentemente, dada a fraca melhoria clínica, com imunoglobulinas (0,4 mg/kg/dia) durante 5 dias consecutivos a cada 28 dias, e depois a dose foi aumentada para 1 g/kg/dia durante 3 dias. Dada a persistência de uma fraqueza grave, foi pedida uma reabilitação muscular. Apresentou também disfagia progressiva a sólidos e líquidos, o que tornou necessária a colocação de um tubo de alimentação nasogástrico para evitar a broncoaspiração. Dada a intolerância do paciente ao tubo, foi decidido colocar uma gastrostomia percutânea para continuar a nutrição enteral.
+Foi realizado um TAC torácico, que mostrou uma lesão cavitada suspeita de tuberculose (TB). Foi solicitada a fibrobroncoscopia com aspirado broncoalveolar (BAS), que era negativa para micobactérias e positiva para Haemophilus influenzae, e o paciente foi tratado de acordo com o antibiograma. O TAC de controlo excluiu um padrão intersticial associado à dermatomiosite, mas havia sinais de reactivação de lesões cavitadas sugestivas de tuberculose activa, pelo que o tratamento tuberculostático foi iniciado com quatro drogas (rifampicina, pirazinamida, isoniazida e etambutol).
+
+O caso foi avaliado pelo comité multidisciplinar da secção de otorrinolaringologia, e foi considerado um candidato à quimioradioterapia (QT-RDT) com intenção radical dada a associação da dermatomiosite como síndrome paraneoplásica.
+
+Foi transferido para a ala de oncologia para iniciar o tratamento oncológico específico. O paciente foi submetido a QT-RDT concomitante com intenção radical, CDDP 100 mg/m2 a cada 21 dias e radioterapia externa com modulação de intensidade 3D (IMRT) no leito do tumor e cadeias cervicais em 33 fracções (dose total 69,96 Gy). Posteriormente, é candidato à quimioterapia adjuvante Al-Sarraf durante três ciclos. O primeiro ciclo de CDDP 80% QT foi administrado devido a hipoalbuminaemia e anemia.
+Dado o contexto social, foi decidido transferi-lo para o centro sócio-sanitário para convalescença e continuar com a reabilitação.
+
+Evolução
+O paciente concluiu o tratamento com QT-RDT em Fevereiro de 2015, com efeitos secundários ligeiros, tais como epitelite e mucosite de grau 2. Apresentou uma melhoria progressiva na disfagia, tolerando actualmente uma dieta triturada com defeito de propulsão persistente.

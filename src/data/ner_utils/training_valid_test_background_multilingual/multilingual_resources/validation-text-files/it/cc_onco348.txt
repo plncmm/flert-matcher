@@ -1,0 +1,30 @@
+Anamnesi
+Una donna di 51 anni ha consultato il suo medico di base nell'aprile 2015 per l'autopalpazione di un nodulo indolore al seno sinistro, che ha riferito essere presente da un anno, ed è stata indirizzata al reparto di ginecologia per un esame.
+Storia personale: Nessuna storia medica o chirurgica di interesse. Contraccettivi orali per 8 anni.
+
+Esame fisico
+All'esame fisico la paziente presentava una marcata asimmetria del seno. Il seno destro ha un aspetto normale mentre il seno sinistro mostra un nodulo duro e fisso di circa 10 cm, aderente ai piani profondi e molto vicino alla pelle. Nessun linfonodo ascellare è palpabile.
+
+Test complementari
+"Mammografia bilaterale (14/04/2015): Nel seno sinistro, viene identificata una massa di 8 cm con bordi poco definiti.
+"Ecografia mammaria bilaterale (14/04/2015): massa ipoecogena, eterogenea con contenuto solido che si imprime sul complesso areola-capezzolo, con apparente infiltrazione. Non sono state identificate adenopatie.
+"Risonanza magnetica del seno (03/05/2015): massa di 8 cm situata nei quadranti interni del seno sinistro, ipervascolare, con marcato enhancement e coinvolgimento cutaneo. Lesione di 18 mm nei quadranti supero-interni del seno controlaterale di aspetto simile. Nodi ascellari bilaterali non specifici.
+"TC toraco-addominale-pelvica (07/05/2015): Nessuna evidenza di malattia a distanza.
+"Marcatori tumorali (07/05/2015): CEA 1,8, CA 15-3 5,4.
+
+Diagnosi
+Seno destro: Angiosarcoma (CD34+, CD31+).
+Seno sinistro: Angiosarcoma (CD34+, CD31+) HHV8 negativo. Assenza di mutazione k-RAS e NRAS. Ki67 25%.
+Angiosarcoma primario bilaterale del seno.
+
+Trattamento
+Inizialmente (26/05/2015), mastectomia semplice del seno sinistro e quadrantectomia del seno destro, decidendo poi di eseguire una mastectomia destra a causa dei margini insufficienti (23/06/2015). 
+AP: Angiosarcoma (espressione CD31 e CD34). Ki67 20-25%. Grado 2. Nessuna permeazione vascolare o infiltrazione perineurale.
+Il caso è stato presentato alla commissione per i tumori del seno e si è deciso che, data l'istologia, la paziente sarebbe stata candidata a un trattamento radioterapico adiuvante, che è stato effettuato sull'emitorace sinistro a causa delle dimensioni del tumore.
+Si è deciso di non somministrare un trattamento chemioterapico adiuvante a causa del basso beneficio atteso.
+
+Evoluzione
+Il paziente è stato seguito. La prima TAC eseguita per la rivalutazione il 20/09/2015 ha mostrato la comparsa di lesioni epatiche nel segmento VI e VII e un'altra più grande nel segmento VI.
+A questo punto è stato deciso di iniziare la chemioterapia di prima linea per la malattia avanzata con Paclitaxel 80mg/m2 nei giorni 1, 8 e 15 ogni 28 giorni, iniziata il 16 ottobre 2015. Dopo quattro cicli di trattamento, il 31 gennaio 2016 è stata eseguita una TAC toraco-addominale-pelvica, che ha mostrato la persistenza delle lesioni epatiche sopra descritte, ma con un maggiore contenuto necrotico all'interno, che potrebbe indicare una risposta parziale al trattamento. Il paziente ha mostrato una buona tolleranza al trattamento, anche se con neurotossicità di grado 1.
+Dopo la somministrazione di 7 cicli, una nuova TAC toraco-addominale-pelvica è stata eseguita il 22 aprile 2016, mostrando una discreta progressione della malattia nel fegato con due nuove lesioni spleniche.
+Si è deciso di completare lo studio molecolare del tumore per eseguire un trattamento mirato, e non è stato osservato alcun riarrangiamento ALK o instabilità dei microsatelliti, con un'amplificazione MET solo del 10%. Una nuova linea di trattamento con doxorubicina liposomiale pegilata è stata iniziata nel maggio 2016.

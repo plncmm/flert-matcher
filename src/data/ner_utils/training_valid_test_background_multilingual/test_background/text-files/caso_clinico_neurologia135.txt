@@ -1,0 +1,25 @@
+Anamnesis
+Mujer de 67 años, sin hábitos tóxicos, con antecedentes de dislipemia y trastorno ansiosodepresivo. En tratamiento con simvastatina, duloxetina y escitalopram. Consulta por un cuadro clínico brusco de 20 minutos de evolución consistente en parestesias en la hemicara derecha y el miembro superior derecho. Presentaba cefalea opresiva leve holocraneal de inicio insidioso de un día de evolución, con respuesta a analgésicos y sin otros síntomas acompañantes. Había presentado dos episodios similares en el último mes.
+
+Examen físico
+Exploración física general sin hallazgos patológicos. Consciente, alerta, orientada globalmente, sin signos meníngeos. Pupilas isocóricas normorreactivas. Lenguaje sin alteraciones. Sin defectos en la campimetría por confrontación. Pares craneales normales. Fuerza y sensibilidad conservadas. Reflejo cutáneo-plantar flexor bilateral. No dismetría, marcha y estática normales. Fondo de ojo sin papiledema.
+
+Pruebas complementarias
+• Analítica sanguínea: hemograma, coagulación, bioquímica y perfil lipídico normales. Hormonas tiroideas, niveles de vitamina B12 y ácido fólico normales. Autoinmunidad, proteinograma y marcadores tumorales normales. Proteína C reactiva 0,20 mg/dl, velocidad de sedimentación globular 1 mm/1.a hora. Estudio de hipercoagulabilidad normal.
+• Punción lumbar: líquido claro. Presión de apertura 11 cm de agua; recuento celular y bioquímica sin alteraciones.
+• Holter-electrocardiograma (ECG): ritmo sinusal. Extrasistolia supraventricular esporádica.
+• Radiografía de tórax: sin alteraciones.
+• Tomografía computarizada (TC) cerebral sin y con contraste: hipodensidades difusas, de predominio izquierdo, en probable relación con vasculopatía de pequeño vaso.
+• Resonancia magnética y angio-resonancia magnética cerebral: incremento de señal en secuencia FLAIR en el surco central izquierdo compatible con hemorragia subaracnoidea en fase subaguda, con múltiples microhemorragias de localización periférica y en la región corticosubcortical.
+• Arteriografía cerebral: trombosis de venas corticales de forma bilateral, estenosis del tercio anterior y medio del seno longitudinal superior.
+• Electroencefalograma: afectación focal irritativa lesiva en la región rolándica temporal izquierda, con propagación contralateral.
+
+Diagnóstico
+Epilespia focal sintomática (crisis parciales simples, foco en la región rolándica temporal izquierda). Hemorragia subaracnoidea subaguda secundaria a trombosis venosa cerebral del seno longitudinal superior.
+
+Tratamiento
+Ante el planteamiento diagnóstico inicial de accidente isquémico transitorio versus crisis parciales simples, se inicia tratamiento empírico con antiagregación. Se retira dicho tratamiento tras documentar un foco epileptógeno compatible con el cuadro clínico, iniciándose entonces terapia anticomicial con levetiracetam. Tras el resultado de la arteriografía, donde se confirma la presencia de trombosis venosa cerebral, se inicia terapia anticoagulante con heparina sódica intravenosa, introduciéndose posteriormente anticoagulación oral.   
+
+Evolución
+Tras el alta, la paciente continúa presentando episodios sugestivos de crisis focales, con parestesias facio-braquiales derechas con progresión jacksoniana, añadiendo en ocasiones disfasia motora. Se intensifica el tratamiento antiepiléptico con oxcarbacepina, que se sustituye por ácido valproico por inadecuado control. Al mes de iniciar la terapia con ácido valproico, presenta empeoramiento a nivel cognitivo, con importante repercusión funcional. Se realiza un estudio neuropsicológico, obteniendo una puntuación de 19/30 en el Mini Examen Cognoscitivo (MEC). Destacaba una afectación multidominio moderada-grave en lenguaje, atención, memoria episódica, funciones ejecutivas y praxias visuales. Esto condicionaba la necesidad de apoyo para actividades instrumentales de la vida diaria, con supervisión para las actividades básicas. La paciente cumplía criterios de demencia con una Escala de Deterioro Global (GDS) 5. Se realiza una TC por emisión de fotón único cerebral (SPECT) que muestra hipoperfusión anteromesial temporal bilateral de predominio izquierdo. Ante la sospecha de una demencia secundaria de origen farmacológico por la forma de inicio y la concordancia en el tiempo, se decide retirar progresivamente el ácido valproico, sin incidencias. A su vez, la paciente recibe estimulación cognitiva y logopedia durante 3 meses. Se aprecia una mejoría significativa en todas las funciones afectadas, destacando una puntuación de 30 en el nuevo Mini Examen Cognoscitivo y una mejoría en su funcionalidad, volviendo a ser prácticamente autónoma.
+Paralelamente, se completa el estudio etiológico con una TC cérvico-tóraco-abdominal y un estudio de hipercoagulabilidad, que resultan normales. La TC cerebral a los 6 meses de ingreso revela permeabilidad de los senos venosos y de las venas corticales cerebrales, sin signos de trombosis ni de sangrado, sustituyéndose la anticoagulación por antiagregación con clopidogrel.

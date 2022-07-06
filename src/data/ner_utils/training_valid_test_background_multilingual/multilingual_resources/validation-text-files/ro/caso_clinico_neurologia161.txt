@@ -1,0 +1,29 @@
+Anamneză
+Bărbat în vârstă de 33 de ani, fumător, fost consumator sever de alcool, consumator ocazional de cocaină, cu antecedente de ficat gras, ginecomastie asociată cu ficat gras, herpes zoster oftalmicus, candidoză orală și genitală tratată cu itraconazol. S-a prezentat la ambulatoriul de neurologie cu simptome progresive de 2 săptămâni de evoluție de slăbiciune proximală la nivelul membrelor superioare, parestezii și dureri la nivelul membrelor inferioare, disfonie și disfagie pentru lichide. El nu a raportat febră, dureri de cap, scădere în greutate, înțepături de insecte, umflături articulare și tulburări de sfincter.
+
+Examinarea fizică
+Semnele vitale au fost în limite normale, examenul fizic general a fost normal, cu excepția unor leziuni albicioase pe mucoasa bucală. La examenul neurologic, funcțiile superioare au fost păstrate. Vorbirea era disfonică. Campimetria de confruntare a fost normală. Pupilele au fost izocorice și nici mai puțin reactive la lumină. Motilitatea oculară extrinsecă era păstrată, fără nistagmus, cu ptoză stângă îndoielnică. La examinare, restul nervilor cranieni erau normali. Sistemul muscular: membrul superior drept a prezentat pareză marcată (3/5) asociată cu atrofia umărului ipsilateral, slăbiciune minimă a bicepsului și a mușchilor extensori ai degetelor III și IV (4+/5). La membrul superior stâng, exista o pareză (4+/5) la nivelul umărului și o pareză (4/5) pentru flexia degetului mare, cu atrofie evidentă a eminenței tenare a acestei mâini. La nivelul membrelor inferioare, s-a observat o pareză (4/5) pentru psoas și cvadriceps. Reflexele osteotendinoase tricipitale și ale membrelor inferioare au fost abolite. Reflexul flexor-cutanat-plantar bilateral. Fasciculații în umărul drept. Hipoestezie în partea laterală a coapsei stângi, a brațului drept și a ambelor picioare. Coordonarea și mersul fără modificări.
+
+Teste complementare
+- Hemogramă și coagulare normală. Biochimie normală, cu excepția GOT 113 UI/l, GPT 770 UI/l, GGT 97 UI/l. Hormoni tiroidieni normali. ESR 67 mm/h. Sumar de urină: leucociturie și nitriți negativi.
+- Anticorpii anti-NDNA, antimitocondriali, anti-musculare netede, anti-LKM1, ANCA și ANA sunt negativi. Proteinograma și complementul au fost normale.
+- Lichid cefalorahidian (LCR): 2 leucocite, 0 globule roșii, proteine, glucoză și ADA fără modificări. Citologie, cultură obișnuită de LCR și B-K Lowestein fără alterări.
+- Serologie: HIV pozitiv, citomegalovirus (CMV) IgG (+) IgM (-), virusul Epstein-Barr IgG (+) IgM (-), virusul varicela zoster IgG (+) IgM (-), virusul herpes simplex IgG (+), Brucella (-), Borrelia burgdorferi (-), Mycoplasma pneumoniae IgG (+) IgM (-). Serologii negative pentru VHC și VHB.
+- PCR pentru CMV pozitiv în sânge și LCR. Enterovirus, HSV 1 și 2, virusul varicelei zoster, DM negativ. Încărcătură virală serică HIV 1.840 copii/ml.
+- Imunitate celulară: CD4 92,8/mm3, CD8 284,2/mm3.
+- Imagistica prin rezonanță magnetică (RMN) completă a creierului și a coloanei vertebrale: nu există constatări semnificative.
+- Electroneurografie: constatări compatibile cu mononeuropatia multiplă, care arată neuropatie motorie și senzitivă ulnară stângă cu blocaj în antebraț. Scăderea amplitudinilor motorii cu mai mult de 50% a nervului median stâng în raport cu cel drept și a nervilor tibial posterior drept și peroneu drept în raport cu cel stâng, cu indemnitate senzorială.
+- Electromiografie: dovezi de denervare activă recentă în toți mușchii explorați (gastrocnemius stâng și drept, tibialis anterior drept și vastus lateralis).
+
+Diagnostic
+Mononevrită multiplex. Stadiul B3 al infecției cu HIV.
+
+Tratament
+Ganciclovir la o doză de 5 mg/kg/12 ore pe cale intravenoasă timp de 3 săptămâni. După o scădere a încărcăturii virale CMV, a fost prescris un tratament de întreținere cu valganciclovir 900 mg/12 h pe cale orală. A fost inițiat tratamentul specific HIV cu emtricitabină 200 mg/24 h, tenofovir 245 mg/24 h, durunavir 800 mg/24 h și ritonavir 100 mg/24 h.
+
+Evoluție
+După inițierea terapiei antiretrovirale, pacientul a dezvoltat un sindrom de reconstituire imunitară și o pneumonie atipică, ceea ce a dus la reinternare la câteva zile după externare. Pe de altă parte, în timpul studiului tabloului clinic, a prezentat o deteriorare clinică progresivă și rapidă în câteva zile, cu o progresie marcantă a slăbiciunii și sensibilității la toate cele patru extremități.
+
+Evoluția după 6 luni a fost de recuperare parțială. La nivelul proximal al membrelor inferioare și distal la nivelul membrelor superioare, a rămas o pareză de 4/5 și o incapacitate de flexie sau abducție a umărului drept. Studiul de control neurofiziologic a arătat o leziune parțială moderată a nervilor axilar drept, median stâng, cubital stâng, radial stâng, tibial drept și peroneu drept, precum și o leziune normală sau parțială ușoară în restul nervilor explorați.
+
+La nivel funcțional, după 6 luni de reabilitare, pacientul a continuat să aibă nevoie de ajutor pentru a-și îmbrăca partea superioară a corpului, a fost capabil să mănânce fără ajutor, nu a avut limitări în mers, nu a avut probleme de înghițire sau de sfincter.

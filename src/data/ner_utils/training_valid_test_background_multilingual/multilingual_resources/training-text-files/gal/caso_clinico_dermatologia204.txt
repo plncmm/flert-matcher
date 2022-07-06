@@ -1,0 +1,19 @@
+Anamnesis
+Varón de 42 anos, orixinario de Pakistán (vive en España desde fai 15 anos). Non refería alergias medicamentosas nin hábitos tóxicos. presentara fai 3 meses unha fractura orbitaria dereita con posterior neuralgia do trigémino. Consultou por erupción cutánea pruriginosa en tronco e extremidades, febre alta e malestar xeral de 15 días de evolución. O paciente negaba ingesta de fármacos nos últimos dous meses, viaxes ao estranxeiro ou relacións sexuais de risco. O resto de convivientes non presentaba lesións cutáneas nin sintomatología.
+
+Exploración física
+O paciente estaba subfebril (37.5c axilar), observábase un notorio edema da cara, das mans e dos pés, así como unha erupción morbiliforme no tronco e as extremidades, con afectación palmoplantar e de mucosas. Ademais, palpábanse adenopatías cervicales, axilares e inguinales. O resto do exame físico non presentaba alteracións.
+
+Exploracións complementarias
+A analítica sanguínea mostraba leucocitosis (22.24 x109/l) con 35% de linfocitos atípicos, eosinofilia do 15% (3.4 x109/l) e elevación de enzimas hepáticas (AST 77 ou/l, ALT 179 ou/l, GGT 414 ou/l), fosfatasas alcalinas (221 ou/l) e LDH (1427 ou/l). A bilirrubinemia, tempo de protrombina e creatininemia atopábanse en rangos normais. Dada a elevación das transaminasas, realizouse unha ecografía abdominal que mostrou unha vesícula alitiásica con paredes engrosadas, edema perivesicular e dúas adenopatías a nivel do hilio hepático. A Radiografía de tórax non mostrou alteracións.
+As serologías para sífilis hepatitis B, VIH, parvovirus, virus Epstein-Barr , sarampión e virus Herpes 6 foron negativas.
+A biopsia cutánea mostrou unha epidermis con cambios de espongiosis. En dermis observouse un infiltrado inflamatorio linfo-histocitario perivascular e ocasionales eosinófilos.
+
+Diagnóstico
+Pese a negar reiteradamente a ingesta de fármacos, atopamos na historia clínica do paciente a ingesta de carbamazepina por neuritis do trigémino tres semanas antes do inicio do cadro clínico. En base ao antecedente da ingesta do fármaco, características clínicas e achados de laboratorio, diagnosticamos Síndrome de DRESS secundario a carbamazepina.
+
+Tratamento
+O paciente xa suspendera dúas semanas antes a carbamazepina. Dado o intenso compromiso xeral e alteración hepática, iniciamos prednisona 1 mg/kg/día vía oral, asociado a baños de permanganato potásico 3/10.000 e acetónido de triamcinolona en crema ao 0.1%.
+
+Evolución
+A evolución foi favorable, con resolución da febre, do exantema e do edema facial e acral, sendo dado de alta unha semana despois. Analíticamente, observouse normalización das transaminasas nas seguintes catro semanas. O paciente mantivo unha pauta descendente de prednisona durante 3 meses, ata a súa suspensión. Un ano despois, mantense asintomático.

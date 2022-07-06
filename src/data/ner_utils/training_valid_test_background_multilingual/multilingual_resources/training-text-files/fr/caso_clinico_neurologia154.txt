@@ -1,0 +1,30 @@
+Anamnèse
+Patient de 57 ans, avec des antécédents de spondylarthrose, fumeur de 2 paquets par jour et buveur de 2 litres de bière par jour, admis pour un tableau évolutif de 2-3 semaines consistant en une céphalée occipito-nucale progressive, résistante à l'analgésie par AINS, résistant à l'analgésie avec les AINS, exacerbation la nuit et lors des manœuvres de Valsalva, accompagnée de changements comportementaux et de défaillances cognitives (désorientation et bradypsychie, masquées par une forte consommation d'alcool) et d'une instabilité avec difficulté à marcher seul.
+
+Examen physique
+La tension artérielle était de 197/121 mmHg. Apparence négligée et cachectique. Auscultation cardiaque rythmique sans murmure. Auscultation pulmonaire avec normoventilation. Examen neurologique : Glasgow de 4-5-6. Hémianopsie homonyme droite. Parésie faciale centrale droite. Force normale. Réflexe cutanéo-plantaire indifférent. Dysmétrie droite discrète. Sensibilité tactile normale avec extinction sensorielle droite. La démarche était instable, avec une ataxie sévère qui permettait de s'asseoir.
+
+Tests complémentaires
+- Electrocardiogramme (ECG) : rythme sinusal à 85 bpm.
+- Analyses sanguines : vitamine B12 178 pg/ml (limite basse), cholestérol total 244 mg/dl, LDL 170 IU/l, GGT 260 IU/l, le reste de la biochimie étant normal. Hémogramme normal. ESR 37 mm. Marqueurs tumoraux : moniteur GI 76,2, NSE 143,8.
+- Radiographie du thorax : cardiomégalie globale et allongement de l'aorte, avec élévation de l'hémidiaphragme droit.
+- Imagerie par résonance magnétique (IRM) du cerveau : multiples lésions de morphologie kystique et de taille variable disséminées dans le parenchyme encéphalique, qui se rehaussent intensément dans tous les rehaussements en raison de leur composante protéique avec peu de rehaussement après injection de contraste, la plus grande d'entre elles au niveau de l'hémisphère cérébelleux droit. En outre, une volumineuse masse pariéto-occipitale droite est observée, avec un œdème vasogène abondant, des foyers hémorragiques intratumoraux et un rehaussement irrégulier après administration de contraste intraveineux, qui ne semble pas être lié à ceux décrits ci-dessus. Résultats compatibles avec des métastases multiples d'un certain type d'adénocarcinome coïncidant avec une tumeur évoquant une tumeur gliale de haut grade.
+IRM cérébrale montrant de multiples lésions de morphologie kystique et de taille variable dispersées dans le parenchyme encéphalique, et une volumineuse masse pariéto-occipitale droite, avec un œdème vasogénique et des foyers de saignement intratumoral.
+- Hémocultures : négatives.
+- Échographie transthoracique : normale, sans signe échographique d'endocardite.
+- Sérologie : négative pour VIH, lues, Brucella, Borrelia, hépatite B, hépatite C, cysticercose, Toxoplasma et hydatidose.
+- Tomographie computérisée thoracico-abdominale-pelvienne (CT) : carcinome broncho-pulmonaire avec masse tumorale lobulée mesurant 66 x 80 x 60 mm dans le lobe inférieur du poumon droit infiltrant la bronche intermédiaire et englobant la bronche du lobe moyen et la pyramide basale, envahissant le médiastin postérieur avec infiltration de l'oreillette gauche avec empreinte sur l'artère pulmonaire droite. Adénopathies subcarinales et pré-vasculaires, paratrachéales supérieures et inférieures droites. Emphysème bilatéral et diffus avec des bulles paraseptales prédominant dans les lobes supérieurs. Foie avec de multiples lésions kystiques hypodenses dans les deux lobes hépatiques. Métastases surrénales bilatérales. Spondylose L5 bilatérale avec discopathie dégénérative L5-S1.
+Le scanner thoracique a montré une masse tumorale lobulée de 66 x 80 x 60 mm dans le lobe inférieur du poumon droit infiltrant la bronche intermédiaire et englobant la bronche du lobe moyen et la pyramide basale, envahissant le médiastin postérieur avec une infiltration de l'oreillette gauche avec empreinte sur l'artère pulmonaire droite.
+- Fibrobronchoscopie : diagnostic macroscopique de carcinome bronchogène avec biopsie.
+- Biopsie : carcinome indifférencié à petites cellules. Dans l'étude immunohistochimique, les cellules tumorales expriment Ck AE1/AE3, TTF1 et faiblement la chromogranine et la synaptophysine.
+
+Diagnostic
+Au départ, les multiples images cystiformes dispersées dans le parenchyme cérébral ont fait douter d'une éventuelle pathologie infectieuse du SNC, qui a été écartée par la sérologie négative, l'hémoculture négative, l'étude échocardiographique normale et l'absence permanente de fièvre. Après l'étude de l'élévation du diaphragme droit par tomodensitométrie et la réalisation d'une anatomie pathologique confirmant une néoplasie pulmonaire, on a supposé que ces lésions étaient des métastases encéphaliques d'un carcinome pulmonaire de grade IV avec des métastases à plusieurs niveaux. Compte tenu du stade avancé du néoplasme pulmonaire et de la situation palliative du patient, une biopsie cérébrale a été écartée. En raison de l'absence d'anatomie pathologique de la lésion pariéto-occipitale droite, nous ne pouvons qu'affirmer, par rapport à son aspect morphologique à l'IRM cérébrale, qu'elle était évocatrice d'une tumeur gliale primaire de haut grade. Ainsi, le diagnostic final était deux lésions néoplasiques synchrones :
+- Carcinome pulmonaire indifférencié à petites cellules de stade IV avec de multiples métastases cérébrales.
+- Lésion cérébrale évoquant un gliome de haut grade avec des symptômes d'hypertension intracrânienne.
+
+Traitement
+Un traitement a été mis en place avec de la dexaméthasone pour réduire l'œdème périlésionnel et, conformément à la décision prise par le comité des tumeurs, une biopsie de confirmation du carcinome pulmonaire a été obtenue afin de commencer une radiothérapie holocranienne palliative.
+
+Evolution
+Pendant son séjour dans le service, les déficits neurologiques du patient ne se sont guère améliorés. Il a présenté à plusieurs reprises des insomnies et de l'agitation. Après deux semaines, il a été renvoyé chez lui sous la surveillance de ses proches et avec le soutien des soins palliatifs.

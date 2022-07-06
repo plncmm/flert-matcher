@@ -1,0 +1,24 @@
+Histoire clinique. Anamnèse
+Il s'agit d'une jeune femme âgée de 19 ans qui s'est présentée au service de médecine interne en provenance du service des urgences pour l'évaluation de multiples éruptions cutanées à différentes phases, douloureuses, concentrées sur la cheville droite ainsi que des arthralgies, depuis des mois d'évolution. Il n'y avait pas de déclencheur apparent ou de processus infectieux récent. Afébrile. Pas d'antécédents gastro-intestinaux ou respiratoires clairs ni de piqûres d'arthropodes. Aucune autre manifestation clinique d'accompagnement.
+
+Histoire personnelle et/ou familiale
+Pas d'AMR connu. Pas d'habitudes toxiques. Aucune maladie médicale d'intérêt Des antécédents de maladie rhumatismale chez des parents au premier degré ont été exclus.
+
+Examen physique
+Patient en bon état général. Conscient, orienté et coopératif. Signes vitaux normaux. Afébrile. Bien hydraté et parfumé. Pas d'adénopathies cervicales. Eupneic. PCA : Tons purs et rythmiques. Murmure vésical préservé. Abdomen : Anodin. Sur les membres inférieurs, il y avait des plaques indurées, légèrement exsudatives, douloureuses avec vésiculation centrale, coalescentes entre elles, distribuées ventralement et bilatéralement sur les deux membres inférieurs. Aucune lésion plantaire ou autre constatation.
+
+Tests complémentaires
+- NFS : La numération sanguine était normale. Une vitesse de sédimentation glomérulaire (VSG) un peu élevée : 14/46. La coagulation était normale. Biochimie : glucose, fonction rénale, bilirubine totale, GOT, GPT, GGT, LDH, FA, amylase, lipase, immunoglobulines, complément, CRP, RF et protéinogramme dans la norme. Anticorps antiphospholipides négatifs, ANA et anti-ADN négatifs.
+- Mantoux négatif. Radio du thorax : anodine.
+- Scanner thoracique : nodule millimétrique de haute densité dans le lobe inférieur gauche, compatible avec un granulome, non spécifique.
+- ANCA négatif, collagénose exclue, ASLO négatif.
+- Spirométrie avec VEMS : 77 % ; CVF : 78 % ; IT : 0,81.
+- Anatomie pathologique (biopsie de la lésion) : œdème du derme supérieur avec infiltrat inflammatoire dense de neutrophiles polymorphonucléaires (suggérant le diagnostic de syndrome de Sweet et excluant un lymphome cutané primaire ou une infection sous-jacente.
+
+Diagnostic différentiel aux urgences et/ou en consultation de médecine interne et de dermatologie : infection cutanée (fongique et mycobactérienne), pyoderma gangrenosum, sarcome de Kaposi primaire, vascularite (polyartérite noueuse cutanée, granulomatose de Wegener), érythème noueux...
+
+Diagnostic final
+Le syndrome de Sweet (dermatose neutrophilique fébrile aiguë).
+
+Evolution
+Lors de son admission, le patient a été adressé au service de dermatologie avec un diagnostic initial d'érythème noueux dû à une réactivation, d'où une biopsie de la lésion a été demandée, confirmant le diagnostic de syndrome de Sweet. Après le dépistage d'une malignité sous-jacente, un traitement immunosuppresseur a été mis en place avec des glucocorticoïdes systémiques (prednisone 5 mg/24 h par voie orale initialement, qui a été augmenté à 25 mg/24 h par voie orale) auxquels a été ajouté plus tard l'indométhacine (25 mg/12 h par voie orale), sans succès. Après quelques mois, le patient a présenté une mauvaise évolution clinique de ces lésions avec ulcération et la colchicine (2 mg/24 h, par voie orale) et un traitement de 2 semaines de doxycycline (100 mg/12 h, par voie orale) ont été ajoutés au traitement, obtenant une légère amélioration. Plus tard, la colchicine a dû être retirée en raison de l'intolérance du patient, et la corticothérapie (prednisone 25 mg/24h, par voie orale) a été poursuivie. Après examen de la biopsie par un dermatologue et confirmation du diagnostic de SS, le patient a commencé un traitement par ciclosporine A à la dose de 3,5mg/kg/jour, tout en commençant un traitement dégressif par corticostéroïdes jusqu'à atteindre une dose minimale de 5mg de prednisone par jour. Après 10 semaines de traitement, le patient présentait une excellente fonction rénale et une bonne tolérance au médicament. Elle est actuellement maintenue à cette dose et ne présente plus de lésions actives depuis la semaine 3 de ce traitement, avec une nette amélioration depuis la semaine 5.

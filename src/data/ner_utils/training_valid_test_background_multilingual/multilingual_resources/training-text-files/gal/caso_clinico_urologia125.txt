@@ -1,0 +1,24 @@
+Anamnesis
+Varón de 24 anos de idade, con antecedentes de poliposis intestinal, angioma de antebrazo esquerdo e glúteo dereito. Acode ao Servizo de Urxencias por hematuria dun mes de evolución con múltiples consultas previas, asociándose empeoramiento do estado xeral, febre de 38 oC de 12 horas de evolución, calafríos, sudoración, dor a nivel da fosa renal e o flanco esquerdos, disminución da diuresis.
+
+Exame físico
+Exploración física ao ingreso: tensión arterial 154/99 mmHg, frecuencia cardiaca 109 lpm, temperatura 37,7 oC. Abdomen doloroso á palpación no flanco esquerdo e puñopercusión renal ipsilateral positiva; á auscultación sopro abdominal perceptible. Se evidencia hematuria macroscópica a través de sondaje vesical.
+
+Probas complementarias
+• Na analítica se evidencia leucocitosis de 15.100 mil/mm3, plaquetas 136.000 mil/mm3, sedimento urinario con >100 hematíes e leucocitos por campo. Resto sen alteracións.
+• Ecografía abdominal: malformación arteriovenosa (MAV) no riñón esquerdo de gran tamaño con dilatación aneurismática secundaria de 9,5 cm. Riñón esquerdo de tamaño normal, ecogenicidad e diferenciación corticomedular algo aumentada.
+• Angio-tomografía computarizada: formación no riñón esquerdo, de aspecto vascular, con vasos de groso calibre e formación aneurismática no seu polo inferior de 92 x 95 mm, compatible con MAV. Se objetivan catro vasos arteriales procedentes da aorta que nutren á malformación e ao riñón esquerdo. A formación aneurismática, pola súa banda, comunícase a través da vena renal esquerda coa vena cava, a cal presenta un calibre aumentado. Riñón dereito sen alteracións.
+• Se complementa o estudo desde o punto de vista cardiológico para precisar a repercusión da lesión renal sobre o estado hemodinámico do paciente.
+• Ecografía transtorácica: lixeira dilatación das catro cámaras cardiacas con grosores normais, compatible con sobrecarga volumétrica. Fracción de eyección do ventrículo esquerdo normal, válvulas normais. Plétora de cava (dilatación severa de 38 mm sen colapso respiratorio) en relación con hiperaflujo.
+• Resonancia magnética cardiaca: cardiomegalia a expensas de cavidades dereitas con signos de sobrecarga ipsilateral. Dilatación do tronco da arteria pulmonar, hipertrabeculación de ambos ventrículos de predominio do VIN con disminución da función sistólica.
+
+Diagnóstico
+Establécese diagnóstico de MAV de riñón esquerdo, que cursa con hipertensión arterial e hematuria, complicada con pielonefritis aguda esquerda.
+
+Tratamento
+Establecido o diagnóstico, iníciase tratamento antibiótico do cadro infeccioso. Posteriormente valórase con Radiología Intervencionista o caso, quen descartan intervención polas características morfológicas da lesión e a imposibilidad técnica, procedéndose á embolización das arterias renales esquerdas subsidiarias mediante acceso percutáneo con dispositivos Amplatzer e pedículo inferior da malformación con coils por parte de Cirugía Vascular, non sendo posible a embolización da terceira rama por presentar un pescozo moi pequeno desde a parede aórtica, objetivándose na tomografía computarizada de control o enchido de contraste da lesión similar aos estudos anteriores.
+En vista dos resultados, decídese levar a cabo unha intervención conxunta entre Cirugía Vascular e Urología. Realízase unha nefrectomía esquerda en bloque coa MAV e aneurisma.
+
+Evolución
+Presenta unha evolución postoperatoria favorable, sendo dado de alta aos poucos días, con revisiones posteriores que objetivan que o paciente está en boas condicións xerais e experimentou unha mejoría das súas parámetros cardiológicos; é valorado polo Servizo de Xenética, quen realizan o estudo para a filiación da etiología da lesión vascular.
+Actualmente atópase asintomático e hemodinámicamente estable, en seguimiento por Medicina Interna por bocio multinodular e Aparello Digestivo debido a poliposis colónica.

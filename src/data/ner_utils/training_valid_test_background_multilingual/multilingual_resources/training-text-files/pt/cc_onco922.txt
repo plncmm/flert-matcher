@@ -1,0 +1,33 @@
+Anamnese
+História familiar: o tio materno morreu de cancro da próstata com mais de 70 anos de idade e outro de neoplasia faríngea. O tio paterno morreu de cancro do pulmão.
+História pessoal: nenhuma alergia a drogas conhecida. Ex-fumador há 20 anos (20 pacotes/ano). Diabetes mellitus tipo II desde 2004, insulino-dependente durante 3 anos.
+Hipercolesterolemia. Trabalhador de uma adega. Nega o uso de drogas. Tratamento habitual: sinvastatina 20 mg, omeprazol 20 mg, naproxen se em dor, cinitapride 10 mg antes das refeições.
+A sua história oncológica começou a 03/12/16, quando o doente assistiu ao serviço de urgência com febre até 38,5oC, perda de peso de 7 kg no último mês, disfagia para sólidos e líquidos, com uma sensação de plenitude gástrica precoce, astenia intensa e dor abdominal hipogástrica.
+O ultra-som e o TAC abdominal urgente com contraste mostrou um tumor abdominal central medindo 17,2 x 7,7 x 7,5 cm, com uma grande componente hidro-aérea, espessamento mural marcado e irregular, em contacto com pequenos laços intestinais, provavelmente relacionados com GIST complicado. Foi decidido realizar uma laparotomia exploratória urgente devido à suspeita de perfuração intestinal, que revelou uma cloaca abdominal central, e foi realizada a ressecção do tumor com vários loops intestinais e a anastomose mecânica laterolateral. Cirurgia sub-óptima devido aos bordos afectados.
+O relatório anatomopatológico mostrou resultados compatíveis com fibromatose mesentérica do tipo desmoida, com estudo imunohistoquímico positivo para actina muscular lisa e beta-catenina; e negativo para desmin, CD34, S100, CD117(C-KIT) e DOG1.
+Avaliado pela primeira vez em consultas médicas oncológicas em 16/01/2017, foi decidido um seguimento próximo com controlo radiológico em 4 meses, bem como a colonoscopia devido à conhecida associação de tumores desmoidais e polipose adenomatosa familiar (FAP).
+Um mês após a operação, assistiu ao departamento de emergência por dor na fossa renal direita com irradiação, e um TAC abdominal mostrou uma ureteroidrose moderada da direita e múltiplos implantes peritoneais, compatíveis com a recorrência de tumores. A urologia e a cirurgia excluíram mais cirurgias, pelo que foi admitido em oncologia para completar o estudo e foi realizada uma nefrostomia percutânea direita sem complicações.
+Antes da alta, foi realizada a colonoscopia e a FAP foi excluída. Dada a discórdia clínico-patológica (necrose tumoral, implantes peritoneais, evolução clínica, etc.), foi solicitada uma nova revisão histológica num centro de referência para tumores de tecidos moles, resultando num diagnóstico de linfoma B de células grandes difusas, imunofenótipo germinal com imuno-expressão positiva para BCL-6 e negativa para MUM-1, CD5, CD10, cMYC e EBER com um índice proliferativo (Ki67) de 80%. Consequentemente, o paciente continuou a sua evolução sob os cuidados do departamento de hematologia.
+Após o início da febre juntamente com ataxia, distúrbios sensoriais e síndrome emética, foi realizada uma ressonância magnética cerebral que excluiu o envolvimento cerebral. Realizou-se uma punção lombar e detectou-se o antigénio Cryptococcus (+); iniciou-se a anfotericina liposomal e a fludrocortisona (data de início do tratamento: 17/03/17). Após 48 horas, a serologia do VIH (+) foi notificada com uma viraemia de 684.000c/ml e contagem de LCD4 de 38/ul.
+O paciente progrediu favoravelmente, com uma cultura de controlo (-) e após completar o ciclo, foi realizada uma desescalada para fluconazol oral. Após quatro semanas de tratamento antifúngico, foi iniciado o tratamento anti-retroviral com raltegravir + FTC + TDF com boa tolerância.
+Foi concluído um exame PET que mostrou um extenso envolvimento abdominal e pulmonar, biopsia óssea (sem infiltração) e ecocardiograma com fração de ejeção preservada. Em estado estável, o ciclo R-CHOP foi iniciado com boa tolerância e resposta.
+
+Exame físico
+ECOG 2. boca seca sem aphthae. Cachexia marcada. Ao nível do abdómen, houve um marcado impacto na hemiabdomia direita, bem como uma dor duvidosa no flanco esquerdo com dor à palpação do epigástrio e hipocôndrio direito. O resto era banal.
+
+Testes complementares
+"Tomografia computorizada do abdómen com contraste intraperitoneal (13/02/2017): progressão da doença com múltiplas massas intraperitoneais compatíveis com implantes metastáticos". Um deles obstrui o ureter direito e outro infiltra-se no laço de um delegado na fossa ilíaca esquerda.
+"CSF (17/03/17): 30 leucócitos (10 % PMN, 30 % MN), 0 glóbulos vermelhos, 97 glicose, 125 proteínas, 22,3 ADA. Linfócitos abundantes. SE: apenas 4 % de linfócitos monoclonais B, repouso T- linfócitos. Antígeno Cryptococcus detectado.
+"Serologia (20/03/17): HIV (+), HBV e HCV (-), CMV IgG(+), EBV(-), HSV IgG(+), Sífilis (-), toxoplasma IgG(+). B2-microglobulina (21/04/17): 4,52, LDH: 473.
+"PET scan (24/04/17): relata um envolvimento supra e infradiafragmático extensivo com predominância de grandes massas a nível abdominal, bem como pulmonar e sem descobertas no resto.
+
+Diagnóstico
+"Linfoma difuso de grandes células B (DLBCL) tipo centrogerminal.
+"Infecção pelo VIH categoria C3 (SIDA).
+"Meningite criptocócica".
+
+Tratamento
+Após a apresentação do caso numa sessão multidisciplinar, foi decidido iniciar o tratamento com anfotericina liposomal e fludrocortisona, passando para fluconazol oral. Após 4 semanas, o tratamento anti-retroviral foi iniciado com raltegravir + FTC + TDF e, finalmente, a quimioterapia sistémica foi iniciada de acordo com o esquema R-CHOP.
+
+Evolução
+Paciente com a história anteriormente descrita, estável no momento presente, a ser monitorizado pela Unidade de Hematologia nos Departamentos de Doentes Externos. Boa resposta e tolerância após o terceiro ciclo de R-CHOP.

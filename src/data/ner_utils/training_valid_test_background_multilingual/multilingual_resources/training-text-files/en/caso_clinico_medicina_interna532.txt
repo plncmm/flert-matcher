@@ -1,0 +1,11 @@
+Anamnesis
+A 47-year-old male smoker, with no other medical history of interest, brought to the emergency department for cognitive deterioration and fever of 40oC. On examination he was tachycardic, tachypnoeic, with obnubilation and significant psychomotor agitation. Laboratory tests: leukocytes 8810/μL with neutrophilia (86.6%), platelets 64000/μL, and elevated acute phase reactants, with CRP 88 mg/dl and procalcitonin 1.79 mg/d. A cranial CT scan was requested, with no findings, prior to performing a lumbar puncture, and the cerebrospinal fluid showed: total protein 184 mg/dl, leukocytes 245 /μL, with a predominance of polymorphonuclear cells (67%), and glucose 85 mg/dl. Empirical antibiotic therapy was started with Ceftriaxone and Vancomycin.
+
+Evolution
+The patient began convulsive symptoms with respiratory compromise requiring orotracheal intubation, for which he was admitted to the Intensive Care Unit. Acute meningitis due to Listeria monocytogenes was confirmed by PCR of the fluid, with secondary bacteraemia in blood cultures taken on arrival. Targeted antibiotherapy with Ampicillin and Gentamicin was started, with a favourable infectious and neurological evolution, with no new seizures once on the hospital ward. Rhombencephalitis and brain abscess were ruled out by magnetic resonance imaging.
+As an incidence, the patient presented ototoxicity due to aminoglycosides that was partially reversible on discharge.
+
+
+Diagnosis
+Acute Listeria monocytogenes meningoencephalitis in an immunocompetent patient.
+Ototoxicity due to aminoglycosides.

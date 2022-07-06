@@ -1,0 +1,27 @@
+Anamnesi
+Dona de 31 anys, sense hàbits tòxics (consum esporàdic d'alcohol), amb hipertrigliceridemia i hipercolesterolèmia lleus. Té 4 gossos, 2 gats i és florista. Tres mesos abans va presentar un quadre febril (fins a 40 oc) i vòmits, pel qual va prendre tractament antibiòtic i antiemètic, resolent-se en 3 dies. Després de 2 setmanes va presentar una nova síndrome emètica i sediment urinari patològic, rebent nova tanda d'antibiòtics. És valorada per un digestólogo per un nou quadre de 3 dies de vòmits alimentosos acompanyats d'enrampades en els membres superiors, sense febre. Ecografia abdominal sense troballes patològiques. Les enrampades es van atribuir a trastorn electrolític per vòmits i es pautó tractament amb domperidona i pantoprazol. Als 4 dies acudeix al Servei d'Urgències per formiguejos distals i persistència de les enrampades. Sense focalidad neurològica en l'exploració és donada d'alta i remesa per a nova valoració pels especialistes d'Aparell Digestiu. Al matí següent, la pacient inicia feblesa generalitzada de predomini esquerre i inferiors, arrossegament del peu esquerre i dificultat per a la micció, per la qual cosa acudeix novament a Urgències. No referia cefalea, síndrome infecciosa-febril o vacunes recents, fenòmens trombóticos, fotosensibilitat, aftas orals/genitals, artritis/ artràlgies, serositis, alteracions visuals, cutànies, conductuals o convulsions.
+
+Examen físic
+Afebril, hemodinámicamente estable. Nivell de consciència normal, rigidesa nucal sense altres signes meningis. Parells cranials normals. Tetraparesia lleu IV/V en les extremitats dretes i III/V en les esquerres, sense amiotrofia ni fasciculaciones. Reflexos osteotendinosos exaltats, cutani-abdominals i signes de Hoffman i Babinsky presents bilateralment. Hipoestesia tactoalgésica en el membre superior dret (MSD) i nivell des de D8 de predomini esquerre. Sensibilitat vibratòria i artrocinética conservades. Inexactitud en dit-nas amb MSD. Romberg negatiu i marxa parética amb cama esquerra. Resta d'exploració neurològica i general sense troballes patològiques.
+
+Proves complementàries
+• Hemograma, coagulació bàsica, bioquímica, vitamina B12, folato i hormones tiroidals: normals.
+• Serologies infeccioses en sang (VIH, VHC, VHB, Herpesvirus, Mycoplasma, Borrellia, Brucella), PCR de VHS, enterovirus i tuberculosi: negatives.
+• Anti-AQP4: negatius.
+• ECA sèrica: nivells normals.
+• Estudi de líquid cefalorraquidi (LCR): clar, 17 cm d'H₂O de pressió, sense bloquejos. Bioquímica: hematies 10/mm3, leucòcits 155/mm3 (neutròfils 15%, limfòcits 85%), proteïnes 125 mg/dl, glucosa 49 mg/dl, àcid làctic 2,3 mmol/l. Serologies VDRL, FTA, Mycoplasma, Borrellia, VHS 1 i 2, CMV, VEB i VVZ: negatives. Cultiu, tinció Gram, aglutinacions i tinta xinesa: negatius o sense microorganismes. BOC: negatives.
+• Estudi immunològic: ANA positiu, patró homogeni 1/160; anti-DNA 181 O/ml; antihistones positiu; anticardiolipinas IgG i anti beta-2-glicoproteïna IgG positiu (IgM negatiu); ANCA, antigliadina, antifosfolípids, Russell: negatiu.
+• Electrocardiograma (ECG) i radiografia de tòrax: normals.
+• Ressonància magnètica (RM) cerebral amb gadolini: petit angioma venós frontal dret.
+• RM medul·lar. Hiperseñal des de la unió protuberancial fins a D6 en la ressonància magnètica sagital seqüència T2, amb àrees posades pegats de captació de gadolini en T1.
+• Estudi neurofisiològic: potencials evocats somatosensoriales: retard de la conducció medul·lar des del nervi tibial posterior esquerre; potencials evocats visuals i de tronc cerebral normals.
+
+Diagnòstic
+Mielitis cérvico-dorsal longitudinalment extensa secundària a malaltia autoimmune no diferenciada: probable lupus eritematós sistèmic.
+
+Tractament
+Davant la ràpida i important afectació clínica i les troballes en l'LCR i la RM, ingressa en l'UVI per a monitoratge, sense progressió clínica en les hores següents. Es va iniciar cobertura antibiòtica i antivírica fins a descartar etiologia infecciosa, que va ser suspesa després dels resultats en l'LCR i per l'absència d'altres dades d'infecció. El perfil immunològic orientava cap a un origen inflamatori-desmielinitzant i es van administrar bitlles diàries de megadosis de corticoides durant 5 dies. Conjuntament amb Reumatología, es va continuar tractament amb tappering de prednisona fins a dosi de manteniment. Es van tractar les alteracions sensitives amb gabapentina i posterior oxcarbazepina per falta d'eficàcia.
+
+Evolució
+La pacient va millorar ràpidament després de l'inici del tractament. A l'alta no mostrava afectació motora i presentava franca millora sensitiva. Va continuar seguiment per Neurologia i Reumatología. Als 3 mesos mostrava disestesias distals (membres superiors i "cinturó" a múltiples nivells) i episodis distónicos flexors a les mans, en el context de la remielinització, que han millorat amb antiepilèptics.
+Actualment, en la RM medul·lar persisteix hiperseñal en la unió bulbomedular, C6 i C7. En la RM cerebral no s'aprecien canvis. Després de 20 mesos segueix tractament amb prednisona i antiepilèptics. No ha presentat nova clínica neurològica ni sistèmica, persisteixen les disestesias en el membre superior esquerre i l'àrea pectoral. Als paràmetres immunològics alterats s'ha unit un descens del complement, sense altres alteracions analítiques.

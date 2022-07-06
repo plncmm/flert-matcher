@@ -1,0 +1,28 @@
+Anamnesis
+A 58-year-old man, with no known drug allergies or consumption of toxic substances. Cardiovascular risk factors include: hypertension, dyslipidaemia and type I obesity. Medical and surgical history included: BPH, GERD, migraines without aura, bilateral phakectomy, septoplasty for nasal septum deviation and endoscopic nasosinusal surgery with polypectomy for polyposis resistant to topical treatment. He follows regular treatment with enalapril/hydrochlorothiazide, simvastatin and dutasteride/ tamsulosin.
+
+She came to the emergency department with a sudden onset of headache, accompanied by nausea and vomiting, thermometric fever of up to 38oC, marked general malaise, with concomitant language disturbance, in the form of blocks and paraphasias, with a progressive decrease in the level of consciousness. In the interview with the family, reviewing the medical-surgical history, we are told of the incidental fact of a sporadic nasal drip of crystalline liquid from the left nostril, for more than 3 years, after an ENT surgical procedure.
+
+Physical examination
+Haemodynamically stable, eupnoeic, febrile, well hydrated, normoperfused, normocoloured. Cardiopulmonary auscultation normal. Abdomen without alterations. Lower extremities normal.
+Neurological examination: conscious, with marked somnolence, requiring vigorous stimuli to maintain alertness, inattentive, partially disorientated in time and space, oriented in person. He obeys simple commands, answers questions, names, but in spontaneous language he emits some phonemic and semantic paraphasias. Cranial nerves: normal VA, normal FO and confrontational campimetry. MOI and MOE without alterations, no ptosis or nystagmus. Motor and sensory V preserved. No facial asymmetries. Normal lower torques. Strength with muscle balance 5/5 in all four extremities, with global REMs ++ without asymmetries, bilateral RCPF. Sensitivity preserved at all levels and in all modalities. No dysmetria or dysdiadochokinesia. Gait and statics not assessed at the moment. No extrapyramidal findings. Slight nuchal rigidity, positive Kernig's sign.
+
+Complementary tests
+- Haemogram: leukocytosis 27 x 1,000/mm3 (neutrophils 25.1 x 1,000/l).
+- Coagulation: normal.
+- Biochemistry: renal profile and liver profile without alterations. CRP 1.8 mg/dl.
+- Chest X-ray and ECG without significant findings.
+- Lumbar puncture: cerebrospinal fluid of cloudy appearance, with pressure of 29 cm H2O, with the following cytobiochemistry: 1,620 cells/mm3 (78% PMN, 21% MN), 478 red blood cells/mm3, glucose 19 mg/dl, protein 4.22 g/l. - Gram (CSF): G+ cocci, in clusters, as preliminary result, cultured in less than 24 hours, Streptococcus Viridans group, without significant resistance in the antibiogram.
+- Pneumococcus PCR negative. PCR for HSV and VZV negative.
+- Serology: HAV, IgG antibodies positive (13,62). HBV: Ag-HBs negative. Anti-HBc: IgG negative. HCV: negative antibodies. HIV: HIV (1,2): Ac. and Ag. negative.
+- Cranial CT scan: study without significant findings, except for the presence of partial occupation of the left sphenoid sinus and both maxillary sinuses (on the right side with polypoid formations).
+- Cranial MRI: CSF fistula through the lamina cribrosa and into the ethmoidal cells. Cranial MRI: coronal FLAIR sequence, showing CSF fistula through the lamina cribrosa and into the ethmoidal cells. No inflammatory meningeal alterations are detected.
+
+Diagnosis
+Bacterial meningoencephalitis with positive culture for Streptococcus viridans, possibly related to CSF fistula after ENT surgery.
+
+Treatment
+On suspicion of clinical symptoms compatible with meningoencephalitis, and awaiting microbiological results, antibiotic treatment was started with vancomycin and cefotaxime, as well as acyclovir, and the patient was admitted to the Neurology ward, where, after finding out the microorganism responsible and the antibiogram, treatment with cefotaxime was maintained for 10 days.
+
+Evolution
+The patient evolved very satisfactorily, being asymptomatic, afebrile and with a rigorously normal neurological examination within 48 hours of the onset of the symptoms. Given the history of chronic nasal drip after septoplasty/polypectomy in 2009, with suspicion of CSF fistula, ENT was consulted, and fibroscopy revealed clear fluid coming out of the left nostril, without being able to define the exit site. The patient was scheduled for ENT surgery, requesting the compassionate use of fluorescein for diagnosis and treatment, with endoscopic closure.

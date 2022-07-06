@@ -1,0 +1,28 @@
+Anamnese
+Uma mulher de 50 anos do Senegal que vivia em Espanha há 9 anos, mas que tinha viajado frequentemente para o seu país, foi admitida no Departamento de Medicina Interna para o estudo da fraqueza e da dor nos membros inferiores (MMII), que tinha vindo a piorar progressivamente durante dois meses, até se tornar completamente incapacitante e levar a várias quedas da sua altura. No último ano, teve: gastrite erosiva com úlceras gástricas associadas a Helicobacter pylori; poliarralgias migratórias de grandes articulações sem artrite franca; dois episódios de uveíte anterior do olho direito avaliados pela Oftalmologia; início da diabetes mellitus com fraco controlo metabólico no tratamento com antidiabéticos orais; hipertransaminasemia e aumento das enzimas de colestase. Tinha também um historial de bócio multinodular normofuncionante pendente de tiroidectomia. Nos últimos meses (não especificado), relatou uma perda de peso de 7-8 kg associada à astenia, mas não à hiporexia, sem febre ou suores nocturnos associados.
+
+Exame físico
+O estado geral era pobre, com prostração devido a dor nos membros inferiores.
+Em termos de sinais vitais, ela estava normotensa, com um ritmo cardíaco de 85 bpm, febre de 37,6 o C, saturação basal de oxigénio de 97%.
+O exame físico revelou um bócio predominantemente no lóbulo direito, sem dor associada. Não havia fígado palpável ou esplenomegalia ou linfadenopatia nas cadeias acessíveis.
+O exame neurológico realizado pela Neurologia mostrou hiperalgesia tanto nos membros inferiores com apalgesia no antepé (ausência de sensibilidade vibratória) como tremor nos membros inferiores com distúrbio da marcha associado a um diagnóstico de neuropatia sensorial simétrica distal, com envolvimento predominantemente de fibras finas.
+O exame cutâneo revelou a presença de duas placas simétricas no dorso de ambos os pés, com uma superfície lisa e brilhante, não endurecida ao toque e castanha escura em contraste com a pele circundante (paciente do fototipo VI).
+
+Exames complementares
+Para o diagnóstico, os testes de sangue e coagulação foram normais, a bioquímica mostrou níveis de enzima conversora de angiotensina (ACE) de 171 IU/l (8-52), autoanticorpos negativos e factor reumatóide negativo.
+Quanto aos testes microbiológicos, o teste Mantoux e QuantiFeron TB foram positivos, bem como a serologia para a infecção pelo vírus da hepatite B (portador inactivo). Todas as outras serologias foram negativas. A lavagem broncoalveolar não identificou quaisquer bacilos.
+A radiografia do tórax mostrou um alargamento mediastinal e uma tomografia computorizada do tórax com contraste revelou múltiplas adenopatias claviculares e mediastinais, bem como um infiltrado fragmentado de vidro de terra, predominantemente subpleural.
+O estudo neurofisiológico da MMII mostrou sinais de polineuropatia mista axonal e desmielinizante, sensorial-motora de grau significativo.
+
+Além disso, foram retiradas amostras histológicas de uma adenopatia paratraqueal e de uma das placas cutâneas. A punção da adenopatia mostrou agregados de histiócitos epitélioides e uma população linfóide polimórfica, sem encontrar bacilos ácido-rápidos, compatíveis com a linfadenite granulomatosa.
+A biopsia de pele mostrou vários pequenos granulomas bem demarcados na derme constituídos por grandes histiócitos com células gigantes multinucleadas, distribuídos num padrão irregular e com pouco infiltrado circundante. Não houve necrose e a coloração de Ziehl-Neelsen foi negativa.
+
+Diagnóstico
+Sarcoidose sistémica num doente com infecção por tuberculose latente.
+
+Tratamento
+O tratamento foi iniciado com prednisona 40 mg/dia com melhoria progressiva do quadro clínico. Além disso, foi iniciado o tratamento tuberculostático e o tratamento antiviral com entecavir.
+
+Evolução
+Após uma semana de tratamento com corticosteróides sistémicos, o curso clínico foi clinicamente favorável, com melhoria do mal-estar geral e da neuropatia e desaparecimento da febre febril, o que permitiu que o paciente recebesse alta para acompanhamento ambulatório.
+As lesões cutâneas tinham sido resolvidas no prazo de um mês após o tratamento.

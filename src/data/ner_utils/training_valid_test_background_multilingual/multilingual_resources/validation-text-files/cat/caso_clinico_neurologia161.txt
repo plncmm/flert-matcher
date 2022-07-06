@@ -1,0 +1,29 @@
+Anamnesi
+Home de 33 anys, fumador, exbebedor sever, consumidor ocasional de cocaïna, amb antecedents de fetge gras, ginecomàstia associada al fetge gras, herpes zòster oftàlmic, candidiasis oral i genital en tractament amb itraconazol. Va acudir a consultes externes de Neurologia afligint un quadre progressiu de 2 setmanes d'evolució de feblesa proximal en els membres superiors, parestèsies i dolor en els membres inferiors, disfonia i disfàgia per a líquids. No va referir febre, ni cefalea, ni pèrdua de pes, ni picades d'insectes, ni inflamació articular, ni alteració d'esfínters.
+
+Examen físic
+Les constants vitals estaven dins dels límits de la normalitat, l'exploració física general va ser normal, exceptuant unes lesions blanquinoses en la mucosa oral. En l'exploració neurològica les funcions superiors estaven conservades. La parla era disfònica. Campimetría per confrontació normal. Pupil·les isocóricas i normorreactivas a la llum. Motilitat ocular extrínseca conservada, sense nistagme, amb dubtosa ptosis esquerra. A l'exploració la resta dels parells cranials eren normals. Sistema muscular: a nivell del membre superior dret presentava una paresia marcada (3/5) associada a atròfia de l'espatlla ipsilateral, una mínima feblesa en el bíceps i en la musculatura extensora dels dits tercer i quart (4+/5). A nivell del membre superior esquerre destacava una paresia (4+/5) en l'espatlla, i una paresia (4/5) per a la flexió del polze amb atròfia evident de l'eminència tenar d'aquesta mà. En els membres inferiors es va objectivar una paresia (4/5) per a psoes i cuádriceps. Els reflexos osteotendinosos tricipitales i en els membres inferiors estaven abolits. Reflex cutani-plantar flexor bilateral. Fasciculaciones en l'espatlla dreta. Hipoestesia a nivell de la cara lateral de la cuixa esquerra, braç dret i tots dos peus. Coordinació i marxa sense alteracions.
+
+Proves complementàries
+• Hemograma i coagulació normals. Bioquímica normal excepte GOT 113 UI/l, GPT 770 UI/l, GGT 97 UI/l. Hormones tiroidals normals. VSG 67 mm/h. Anàlisi d'orina: leucocituria i nitrits negatius.
+• Anticossos anti-nDNA, antimitocondrials, antimúscul llis, anti-LKM1, ANCA i ANA negatius. Proteinograma i complement normals.
+• Líquid cefalorraquidi (LCR): 2 leucòcits, 0 hematies, proteïnes, glucosa i ADA sense alteracions. Citologia, cultiu ordinari d'LCR i B-K Lowestein sense alteracions.
+• Serologies: VIH positiu, citomegalovirus (CMV) IgG (+) IgM (–), virus de Epstein-Barr IgG (+) IgM (–), virus varicel·la zòster IgG (+) IgM (–), virus herpes simple IgG (+), Brucella (–), Borrelia burgdorferi (–), Mycoplasma pneumoniae IgG (+) IgM (–). Serologies VHC i VHB negatives.
+• PCR per a CMV positiu en sang i en LCR. Enterovirus, VHS 1 i 2, virus varicel·la zoster, DM negatius. Càrrega viral VIH en sèrum 1.840 copies/ml.
+• Immunitat cel·lular: CD4 92,8/mm3, CD8 284,2/mm3.
+• Ressonància magnètica (RM) cerebral i medul·lar completa: sense troballes significatives.
+• Electroneurografía: troballes compatibles amb mononeuropatía múltiple, observant-se una neuropatía cubital esquerra motora i sensitiva amb dades de bloqueig en l'avantbraç. Disminució d'amplituds motores de més d'un 50% dels nervis mitjà esquerre respecte al dret i dels nervis tibial posterior i peroneal drets respecte als esquerres, amb indemnitat sensitiva.
+• Electromiografia: dades de denervació activa recent en tots els músculs explorats (gastrocnemi esquerre i dret, tibial anterior dret i vast lateral).
+
+Diagnòstic
+Mononeuritis múltiple. Infecció per VIH estadi B3.
+
+Tractament
+Ganciclovir a dosi de 5 mg/kg/12 hores intravenós durant 3 setmanes. Després d'una disminució de la càrrega viral de CMV es pautó tractament de manteniment amb valganciclovir 900 mg/12 h per via oral. Es va iniciar tractament específic per al VIH amb emtricitabina 200 mg/24 h, tenofovir 245 mg/24 h, durunavir 800 mg/24 h i ritonavir 100 mg/24 h.
+
+Evolució
+Després de l'inici del tractament antiretroviral, el pacient va sofrir una síndrome de reconstitució immune, així com una pneumònia atípica, la qual cosa va motivar el seu reingrés als pocs dies de ser donat d'alta. D'altra banda, durant l'estudi del quadre clínic va presentar una deterioració clínica progressiva i ràpid en pocs dies, experimentant una progressió marcada de la feblesa i de la sensibilitat en les quatre extremitats.
+
+L'evolució després de 6 mesos va ser de recuperació parcial. A nivell proximal dels membres inferiors i distal en els superiors, romania una paresia de 4/5 i impossibilitat per a la flexió o abducció de l'espatlla dreta. L'estudi de control neurofisiològic va mostrar una lesió parcial moderada dels nervis axil·lar dret, mitjà esquerre, cubital esquerre, radial esquerre, tibial i peroneal drets, així com normalitat o lesió parcial lleu en la resta dels nervis explorats.
+
+A nivell funcional, després de 6 mesos de rehabilitació, el pacient continuava requerint ajuda per a vestir-se la part superior del cos, era capaç de menjar sense ajuda, no presentava limitacions en la marxa, ni problemes en la deglució o d'esfínters.

@@ -1,0 +1,28 @@
+Anamnesis
+Paciente mujer de 15 años con antecedentes personales de prolapso valvular mitral, insuficiencia mitral moderada sin repercusión hemodinámica significativa en seguimiento por Cardiología. Consulta por fiebre alta termometrada (hasta 40 oC) de unos 5 días de evolución asociada a un cuadro de malestar general y artromialgias. Es valorada por su médico de Atención Primaria, impresionando de cuadro gripal, por lo que es tratada de forma sintomática. Presenta empeoramiento progresivo de su estado general, con mayor postración y aumento de las lesiones cutáneas. Cuando acude al Servicio de Urgencias presenta disminución del nivel de consciencia junto con un episodio de pérdida de visión. Tras la valoración médica es ingresada ante la sospecha de endocarditis. Se inicia tratamiento con antibioterapia empírica con cloxacilina, vancomicina y ceftriaxona.
+
+Examen físico
+Exploración general: regular estado general, afectada por sensación febril (aunque al ingreso tenía una temperatura de 36,1 oC), eupneica, saturación de O2 a 95% con gafas nasales a 1,5 litros. Tensión arterial 100/30 mmHg. Taquicardia sinusal 110 lpm. Faringe hiperémica, sin objetivarse placas exudativas, lengua saburral. Tonos cardiacos rítmicos, taquicárdicos, soplo holosistólico mitral irradiado al ápex y a la axila. Buen murmullo bilateral en plano anterior, hipoventilación de base derecha. Abdomen sin hallazgos. Miembros inferiores sin edemas, con movilización dolorosa de los mismos. Lesiones cutáneas diseminadas compatibles con vasculitis séptica (nódulos de Osler y Janeway, hemorragias en astilla subungueales). Exploración neurológica: buen nivel de consciencia. Bradipsiquia. No alteraciones campimétricas. Motilidad ocular conservada. Ligera debilidad de la musculatura facial inferior izquierda. Resto de los pares craneales no alterados. Fuerza muscular en la extremidad superior derecha 4/5, extremidad superior izquierda 4/5 a nivel proximal y 3/5 a nivel distal, en las extremidades inferiores bilaterales 4/5. No alteraciones sensitivas. Reflejos osteotendinosos simétricos 2/4. Reflejos cutáneo-plantares flexores. No signos meníngeos.
+
+Pruebas complementarias
+• Hemograma: destaca una leucocitosis con neutrofilia.
+• Bioquímica: creatinina 2,15 mg/dl, urea 133 mg/dl, sodio 133 mEq/l, potasio 4 mEq/l, proteína C reactiva 321 mg/l, procalcitonina 2,7 ng/ml.
+• Coagulación: TTPA 43. Resto normal.
+• Gasometría: pH 7,34, presión parcial de dióxido de carbono (pCO2) 46 mmHg, HCO3 24 mmol/l, exceso de bases –1, ácido láctico 3 mg/dl.
+• Electrocardiograma (ECG): taquicardia sinusal a 115 lpm, ondas T negativas en III, sin otras alteraciones significativas.
+• Ecocardiograma transtorácico: insuficiencia mitral, al menos grado III, sobre válvula mixomatosa sin imágenes subjetivas de vegetaciones o abscesos.
+• Ecografía abdominal: sin imágenes sugerentes de abscesos
+• Radiografía de tórax: sin lesiones significativas.
+• Resonancia magnética (RM) craneal sin/con contraste y estudio de difusión con angiografía cerebral TOF 3D: lesiones cerebrales y cerebelosas nodulares con edema periférico con captación en anillo del contraste. Lesiones pequeñas con captaciones de contraste de forma nodulillar o anular en el lóbulo parietal derecho. Lesiones de características similares en ambos lóbulos occipitales y en el cuerpo calloso. En la secuencia eco de gradiente se observaban pequeños focos milimétricos de sangrado en el interior de las lesiones en los lóbulos parietales y en el tálamo izquierdo. El estudio angiográfico no mostraba alteraciones en las arterias carótidas internas intracraneales, sus ramas cerebrales anteriores y cerebrales medias, así como la arteria basilar y las arterias cerebrales posteriores. Lesiones cerebelosas nodulares con edema periférico con captación en anillo del contraste. Lesiones pequeñas con captaciones de contraste de forma nodulillar o anular en el lóbulo parietal derecho.
+
+Diagnóstico
+• Endocarditis sobre válvula mitral nativa que condiciona insuficiencia severa secundaria.
+• Situación de sepsis grave.
+• Insuficiencia renal aguda, probablemente prerrenal.
+• Embolias sépticas y abscesos cerebrales. Ausencia de aneurismas micóticos.
+
+Tratamiento
+Se realizó en un principio tratamiento empírico con cloxacilina (2 g/4 h vía intravenosa), vancomicina 1 g/12 h vía intravenosa (ajustando la dosis a su función renal) y ceftriaxona (2 g/24 h). Tras aislar en hemocultivo Staphylococcus aureus sensible a meticilina, se decide modificar el tratamiento, manteniendo durante 6 semanas la cloxacilina. No se añade gentamicina, aunque parece que acelera la curación de la sepsis, por el riesgo de nefrotoxicidad, ya que la paciente presentaba una insuficiencia renal y su evolución general era favorable. Actualmente está pendiente de cirugía valvular.
+
+Evolución
+La paciente se ha estabilizado clínicamente, se normalizaron los parámetros analíticos. La exploración neurológica mejoró a los 3-4 días del inicio del tratamiento, poniendo en evidencia solo una debilidad en el miembro superior izquierdo 4/5. Las lesiones cutáneas también mejoraron, persistiendo en escasa cuantía. La paciente está actualmente pendiente de cirugía sobre vegetación valvular cardiaca tras finalizar el ciclo antibiótico.

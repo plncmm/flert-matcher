@@ -1,0 +1,30 @@
+Anamneză
+Pacient în vârstă de 57 de ani, cu antecedente de spondiloartroză, fumător de 2 pachete pe zi și băutor de 2 litri de bere pe zi, internat pentru un tablou progresiv de 2-3 săptămâni de evoluție constând în cefalee occipito-nucală progresivă, rezistentă la analgezia cu AINS, rezistentă la analgezia cu AINS, exacerbare noaptea și la manevrele Valsalva, însoțită de modificări comportamentale și eșecuri cognitive (dezorientare și bradipsihie, mascate de obiceiul sever de a consuma alcool) și instabilitate cu dificultăți în a merge singur.
+
+Examinarea fizică
+Tensiunea arterială a fost de 197/121 mmHg. Aspectul neîngrijit și cașcavalos. Auscultație cardiacă ritmică fără murmure. Auscultația pulmonară cu normoventilație. Examen neurologic: Glasgow de 4-5-6. Hemianopsie omonimă dreaptă. Pareză facială centrală dreaptă. Putere normală. Reflexul cutanat-plantar indiferentă. Dismetrie discretă dreaptă. Sensibilitate tactilă normală cu extincție senzorială dreaptă. Mersul era instabil, cu ataxie severă care permitea șederea.
+
+Teste complementare
+- Electrocardiogramă (ECG): ritm sinusal la 85 bpm.
+- Analizele de sânge: vitamina B12 178 pg/ml (limită scăzută), colesterol total 244 mg/dl, LDL 170 UI/l, GGT 260 UI/l, restul biochimiei fiind normale. Hemogramă normală. ESR 37 mm. Markerii tumorali: monitor GI 76,2, NSE 143,8.
+- Radiografie toracică: cardiomegalie globală și alungire aortică, cu supraînălțarea hemidiafragmului drept.
+- Imagistica prin rezonanță magnetică (IRM) a creierului: multiple leziuni de morfologie chistică și de dimensiuni variabile, dispersate în tot parenchimul encefalic, care strălucesc intens în toate accesoriile datorită componentei lor proteice, cu puțin accesoriu după injectarea de contrast, cea mai mare dintre ele la nivelul emisferei cerebeloase drepte. În plus, se observă o masă voluminoasă parieto-occipitală dreaptă, cu edem vasogenic abundent, focare de sângerare intratumorală și un accesoriu neregulat după administrarea intravenoasă de contrast, care nu pare a fi legat de cele descrise mai sus. Constatări compatibile cu metastaze multiple ale unui anumit tip de adenocarcinom care coincid cu o tumoră care sugerează o tumoră glială de grad înalt.
+IRM cerebrală care arată multiple leziuni de morfologie chistică și dimensiuni variabile răspândite în parenchimul encefalic și o masă voluminoasă parieto-occipitală dreaptă, cu edem vasogenic și focare de sângerare intratumorală.
+- Hemoculturi: negative.
+- Ecografia transtoracică: normală, fără semne ecografice de endocardită.
+- Serologie: negativ pentru HIV, lues, Brucella, Borrelia, hepatita B, hepatita C, cisticercoză, Toxoplasma și hidatidoză.
+- Tomografie computerizată (CT) toraco-abdominală-pelvină: carcinom bronhopulmonar cu masă tumorală lobulată de 66 x 80 x 60 mm în lobul inferior al plămânului drept care infiltrează bronhia intermediară și cuprinde bronhia lobului mijlociu și piramida bazală, invadând mediastinul posterior cu infiltrarea atriului stâng cu amprentă pe artera pulmonară dreaptă. Adenopatii subcarinale și prevasculare, paratraheale superioare și inferioare drepte. Emfizem bilateral și difuz, cu bula paraseptală predominant în lobii superiori. Ficat cu multiple leziuni chistice hipodense în ambii lobi hepatici. Metastaze suprarenale bilaterale. Spondiloză bilaterală L5 cu discopatie degenerativă L5-S1.
+Tomografia computerizată toracică a evidențiat o masă tumorală lobulată de 66 x 80 x 60 mm în lobul inferior al plămânului drept care infiltra bronhia intermediară și cuprindea bronhia lobului mijlociu și piramida bazală, invadând mediastinul posterior cu infiltrarea atriului stâng cu amprentă pe artera pulmonară dreaptă.
+- Fibrobronhoscopia: diagnostic macroscopic de carcinom bronhogenic cu biopsie.
+- Biopsie: carcinom nediferențiat cu celule mici. În studiul imunohistochimic, celulele tumorale exprimă Ck AE1/AE3, TTF1 și slab cromogranina și sinaptofizina.
+
+Diagnostic
+Inițial, multiplele imagini cistiforme dispersate în tot parenchimul cerebral au ridicat îndoieli cu privire la o posibilă patologie infecțioasă a SNC, care a fost exclusă prin serologia negativă, hemocultura negativă, studiul ecocardiografic normal și absența permanentă a febrei. După ce s-a studiat prin CT supraînălțarea diafragmei drepte și s-a efectuat anatomia patologică care a confirmat neoplazia pulmonară, s-a presupus că aceste leziuni sunt metastaze encefalice ale unui carcinom pulmonar de gradul IV cu metastaze la mai multe nivele. Având în vedere stadiul avansat al neoplasmului pulmonar și situația paliativă a pacientului, s-a renunțat la o biopsie cerebrală. Din cauza absenței anatomiei patologice a leziunii parieto-occipitale drepte, putem afirma doar în legătură cu aspectul morfologic al acesteia în RMN-ul cerebral că a fost sugestiv pentru o tumoră glială primară de grad înalt. Astfel, diagnosticul final a fost de două leziuni neoplazice sincrone:
+- Carcinom pulmonar nediferențiat cu celule mici în stadiul IV, cu multiple metastaze cerebrale.
+- Leziune cerebrală sugestivă de gliom de grad înalt cu simptome de hipertensiune intracraniană.
+
+Tratament
+Tratamentul a fost inițiat cu dexametazonă pentru a reduce edemul perilesional și, în conformitate cu decizia luată de Comitetul de Tumori, a fost obținută o biopsie de confirmare a carcinomului pulmonar pentru a începe radioterapia holocraniană paliativă.
+
+Evoluție
+În timpul șederii sale în secție, deficitele neurologice ale pacientului s-au ameliorat cu greu. El a prezentat în mod repetat insomnie și agitație. După 2 săptămâni, a fost externat acasă, sub supravegherea rudelor sale și cu sprijinul îngrijirii paliative.

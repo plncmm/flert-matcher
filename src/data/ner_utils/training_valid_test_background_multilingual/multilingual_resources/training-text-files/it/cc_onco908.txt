@@ -1,0 +1,37 @@
+Anamnesi
+Un fumatore maschio di 61 anni si è presentato al dipartimento di emergenza con una crisi generalizzata di movimento tonico-clonico della durata di diversi minuti con un successivo stato post-critico.
+Era un uomo single che viveva da solo in un ambiente rurale. Non aveva altri precedenti medici di interesse o contatti rilevanti.
+Il paziente e la famiglia hanno riferito che in precedenza si era presentato con sintomi generali di febbre, perdita di peso e astenia con anoressia.
+
+Esame fisico
+"Pressione 120/70 mm Hg. Ta 37,7 oC. FC 80 bpm. Saturazione di ossigeno 95% al basale.
+"Eupneico". Nessun linfonodo palpabile.
+"Auscultazione polmonare con ronchi sparsi in tutti i campi.
+"Auscultazione cardiaca ritmica senza mormorii o extratoni.
+"Addome morbido e depressibile, con suoni idro-aerei normali.
+"Nessun edema o segni di trombosi venosa.
+"L'esame della pelle non ha rivelato alterazioni rilevanti.
+
+Test complementari
+L'emogramma, la coagulazione e la biochimica del sangue erano normali.
+La radiografia del torace ha mostrato una massa polmonare di circa 3 cm nel lobo medio a contatto con la pleura parietale compatibile con una neoplasia polmonare primaria, e la TAC del cervello ha mostrato una LOES frontale destra con edema vasogenico associato che suggerisce una metastasi cerebrale.
+Il paziente è stato ricoverato in Medicina Interna dove una TAC toracoaddominale-pelvica ha mostrato una massa polmonare nella lingula e un nodulo nel segmento LSD con evidenza di enfisema parasettale e probabile fibrosi polmonare. Non c'erano prove di coinvolgimento ad altri livelli.
+Un'agobiopsia del nucleo, guidata dalla TAC, è stata eseguita sulla massa della lingula, che è risultata compatibile con materiale costituito da ammassi ghiandolari tridimensionali atipici compatibili con un adenocarcinoma. Non è stata rilevata alcuna mutazione EGFR o traslocazione ALK. Le sierologie dell'HIV e dell'epatite erano negative.
+
+Diagnosi
+Con la diagnosi di adenocarcinoma polmonare in stadio IV a causa del coinvolgimento del cervello in un paziente con ECOG-0, è stato fatto un rinvio all'Oncologia.
+
+Trattamento
+Il trattamento è stato iniziato con desametasone alla dose di 4 mg per via orale ogni 8 ore, levetiracetam 500 mg per via orale ogni 12 ore e omeprazolo 20 mg per via orale al giorno. Ha ricevuto una radioterapia olocranica e, successivamente, un primo ciclo di chemioterapia con Carboplatino AUC-5-paclitaxel 175 mg /m2-bevacizumab 15 mg iv.
+
+Evoluzione
+Quindici giorni dopo aver completato la radioterapia olocranica, il paziente ha frequentato il dipartimento di emergenza per sintomi respiratori che consistevano in dispnea e tosse produttiva, febbre alta e disorientamento.
+Il paziente ha presentato una significativa compromissione delle condizioni generali con tachipnea e strattoni. Era febbricitante (39oC) e tachicardico (HR 120 bpm) con pressione 130/70 mm Hg. L'auscultazione polmonare ha mostrato ronchi bilaterali. Il resto dell'esame fisico era irrilevante.
+Gli esami di laboratorio hanno mostrato leucocitosi con reattori di fase acuta elevati e i gas del sangue arterioso hanno mostrato un'insufficienza respiratoria ipossemica con una PaO2 di 45 mm Hg. Sono state fatte colture del sangue e dell'espettorato.
+Una nuova radiografia del torace ha mostrato un infiltrato interstiziale bilaterale oltre alla nota lesione polmonare.
+È stato ricoverato nel reparto di oncologia con ossigenoterapia a 15 bpm, trattamento con corticosteroidi per via endovenosa, broncodilatatori e antibiotici ad ampio spettro a base di meropenem 1 g ogni 8 ore poiché il paziente era considerato immunocompromesso.
+L'evoluzione clinica non fu soddisfacente nei primi due giorni, rimase febbrile e ipossiemico, così si decise di aggiungere al trattamento il sulfametossazolo-trimetoprim (160 mg/32 mg ogni 6 ore) per coprire una possibile infezione opportunistica da Pneumocystis jirovecii, dato che era un paziente oncologico in trattamento con alte dosi di corticosteroidi.
+Dopo 24 ore, il paziente è diventato afebrile e, successivamente, la sua ossigenazione è migliorata, rendendo possibile ridurre l'assunzione di ossigeno e le dosi di corticosteroidi.
+Cinque giorni dopo l'ammissione, è stato ricevuto il risultato della coltura dell'espettorato, che era positivo per Nocardia spp.
+Con questi dati e rivedendo la storia naturale dell'infezione da Nocardia, abbiamo deciso di consultare il Dipartimento di Malattie Infettive e abbiamo richiesto una nuova TC del cervello, che è stata eseguita 21 giorni dopo l'inizio del trattamento con sulfametossazolo. La TAC del cervello ha mostrato una completa regressione delle lesioni cerebrali. Il trattamento antibiotico per via endovenosa è stato completato per 4 settimane e, infine, il paziente è stato dimesso con un trattamento antibiotico orale e un follow-up nell'ambulatorio di oncologia, ricevendo un totale di 7 cicli del suddetto regime di trattamento.
+Successivamente, la malattia è progredita e alla fine è morto del suo tumore 9 mesi dopo la diagnosi.

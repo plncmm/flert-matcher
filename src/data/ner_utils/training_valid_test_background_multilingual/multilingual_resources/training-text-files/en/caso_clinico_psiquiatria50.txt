@@ -1,0 +1,147 @@
+This is a 26 year old patient who was referred from the Mental Health Unit (USM) for scheduled admission to the Medium Stay Unit (UME). His personal psychiatric history includes an admission to the Short Stay Unit (SSU) in September 2016 (aged 24 years) for 29 days with clinical judgement at discharge of "Unspecified psychotic disorder (F29 of ICD-10)" and "Harmful use of cannabis in early partial remission (F12.1 of ICD-10)" being treated with Aripripazol 30 mg, Zuclopenthixol 200 mg, Risperidone 6 mg, Biperidene retard 4 mg and Diazepam 10 mg.
+
+Subsequent follow-up in USM by psychiatry, having been treated with Diazepam (up to 15 mg/day), Biperidene retard 4 mg and Paliperidone Palmitate in different presentations. Since February 2017, he has also been monitored by clinical psychology and assessed by a social worker.
+
+His biographical background is characterised by currently living with his mother and maternal grandmother in the family home. Parents divorced in 2008. In addition, she has an older sister, born in 1988, with whom she lived previously. She shows good social network support. No partner (former relationship of 7 years). Studies up to 2nd year of Bachillerato (unfinished) and has a diving course. Sporadic work as a waiter and paid gamer, as far as he reports. He has no income of his own at present and is not civilly incapacitated. Harmful use of cannabis since the age of 18 (3-5 joints per week) accompanied by a moderate alcoholic habit, mainly at weekends.
+
+He was accompanied by his father at the initial interview for admission to the EMU. The patient has had a torpid evolution, with no remission of psychotic symptoms or cessation of his cannabis habit. He has been living at his mother's house with partially maladapted functioning in terms of time keeping, although he collaborates in household chores and in the care of his grandmother. According to the relative, he presents disorganised sleeping habits, eating, activities, etc. He also comments that on many days he does not take his medication or does not take it correctly in relation to the schedule. The patient does not deny all of this and argues it with a feeling of apathy. There is no awareness of illness ("nothing is wrong with me") and he thinks that stopping cannabis consumption will not bring him any benefit. Even so, he accepts admission to the EMU as positive. He spontaneously reports the presence of "strange ideas" and sensory-perceptual alterations (which he does not agree to describe) without any type of behavioural repercussions.
+
+In the psychopathological examination carried out during the interview, the patient appears conscious and oriented in time, space and person. Good appearance and personal care in general. Reacts appropriately to the interview. Calm and relaxed, if somewhat restrained, demeanour. Speaks little in response to questions asked. Language without alterations in thought form and structure. No foreground psychotic symptoms. Hypothymia, anhedonia and partial abulia; no impression of major affective symptoms. Circadian rhythm disturbance. Normorexia. Olfactory and kinesthetic hallucinations. Adequate functioning is observed in the parent-child relationship, although the patient refuses to receive visits from relatives except for his sister.
+
+The objectives of the admission proposed by the unit's team with the patient are:
+
+  To limit THC consumption and establish the relationship between this and the clinical psychopathology.
+  To achieve clinical stability.
+  To work on awareness of the illness.
+  Start treatment with Clozapine.
+  Achieve good tolerance and adherence to treatment.
+
+  NURSING CARE PROCESS
+
+The nursing team carries out an assessment on admission and subsequent care of the patient.
+
+  Assessment stage
+
+This is carried out according to M. Gordon's functional patterns.
+
+  Pattern 1 - Perception and maintenance of health. Good appearance and personal care in general. The patient has difficulties in following the medication regimen. THC consumption. Altered pattern.
+  Pattern 2 - Nutritional and metabolic. Varied diet, usually prepared by his mother or grandmother at the home where he currently lives. Adequate weight for height. Disorganised mealtimes in recent weeks.
+  Pattern 3 - Elimination. Good intestinal transit.
+  Pattern 4 - Activity and exercise. Until recently she was going three times a week to a gym in her neighbourhood. Most of the day is spent at home, watching TV or just lying in bed. Altered pattern.
+  Pattern 5 - Sleep and rest. Poor maintenance of biorhythms. Imbalance in the hours of rest with tiredness and daytime sleepiness. Altered pattern.
+  Pattern 6 - Cognitive and perceptual. Conscious and oriented in time, space and person. Reacts appropriately to interview. Calm and relaxed, though somewhat restrained, demeanour.
+  Pattern 7 - Self-perception and self-concept. The patient has doubts about the usefulness of admission to the unit.
+  Pattern 8 - Role and relationships. Adequate functioning is observed in the parent-child relationship, although the patient refuses to receive visits from relatives except for his sister.
+  Pattern 9 - Sexuality and reproduction. He had a 7-year relationship with a girl that ended two years ago. On questioning he does not report that this has influenced the course of his illness.
+  Pattern 10 - Coping and stress tolerance. During the interview he is calm. He does not agree very much with the admission, but it does not cause him significant discomfort or anxiety according to what he tells us.
+  Pattern 11 - Values and beliefs. No data of interest in this pattern.
+
+  Diagnostic stage
+
+Following the assessment, we detected the following problems using NANDA-II terminology:
+
+  00079 Non-compliance
+  00097 Deficit in recreational activities
+  00188 Tendency to engage in health-risk behaviours
+  00198 Sleep pattern disturbance
+
+  Planning stage
+
+The following objectives and activities are planned according to the NOC and NIC taxonomies respectively:
+
+00079 Non-compliance
+
+NOC objectives:
+
+1300 Acceptance of health status
+
+1601 Compliance behaviour
+
+1813 Knowledge: Therapeutic regimen
+
+Interventions NIC:
+
+2380 Medication management
+
+4480 Facilitating self-responsibility
+
+5616 Teaching: prescribed medication
+
+Activities:
+
+  Review the patient's knowledge of each medication.
+  Encourage the patient to take as much responsibility for their own self-care as possible.
+  Review with the patient strategies for managing the medication regimen.
+  Observe the therapeutic effects of the medication on the patient.
+
+00097 Deficit in recreational activities
+
+NOC objectives:
+
+1503 Social involvement
+
+1604 Participation in leisure activities
+
+Interventions NIC:
+
+4310 Activity therapy
+
+5100 Socialisation enhancement
+
+5360 Entertainment therapy
+
+Activities:
+
+  Helping the patient to identify activity preferences.
+  Encourage the patient to develop relationships.
+  Encourage involvement in entirely new interests.
+  Helping the patient to increase awareness of strengths and limitations in communicating with others.
+  To facilitate the patient's enthusiasm and planning for future activities.
+
+00198 Sleep pattern disorder
+
+NOC objectives:
+
+0003 Rest
+
+0004 Sleep
+
+Interventions NIC:
+
+2380 Medication management
+
+5880 Relaxation technique
+
+Activities:
+
+  Instruct patient on methods that decrease anxiety, as appropriate.
+  Determine the impact of medication use on the patient's lifestyle.
+  Develop strategies to manage side effects of medication.
+
+00188 Tendency to engage in health risk behaviours
+
+NOC objectives:
+
+1603 Health seeking behaviour.
+
+1700 Health beliefs
+
+1902 Risk control
+
+Interventions NIC:
+
+5230 Enhancing coping
+
+5510 Health education
+
+6610 Risk identification
+
+Activities:
+
+  Identify biological, environmental and behavioural risks and their interrelationships.
+  Identify typical coping strategies.
+  Plan long-term follow-up of risk reduction strategies and activities.
+
+  Stages of implementation and evaluation
+
+From the beginning of his stay in the Medium Stay Unit, he comments on the stability of the clinical condition presented on admission. Good attitude towards healthcare staff and other patients, as well as good development of the activities proposed in the unit. On a psychopathological level, she refers to a persistent olfactory hallucination which she describes as an unpleasant and strong smell; despite this, it does not cause distress or strangeness, nor does it interfere with daily functioning. Biorhythms are also preserved. At the pharmacological level, treatment was started with Clozapine, up to a dose of 75 mg per day without notable side effects or pathological findings in complementary control tests.

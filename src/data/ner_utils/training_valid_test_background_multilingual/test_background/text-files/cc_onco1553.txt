@@ -1,0 +1,41 @@
+Anamnesis
+Mujer de 78 años de edad, con antecedentes personales de dislipemia, insuficiencia venosa crónica.
+No fumadora, tampoco ha sido fumadora pasiva.
+Amigdalectomizada a los 20 años.
+Consulta en el Servicio de Urgencias en mayo de 2011 por expectoración blanquecina, disnea progresiva hasta hacerse de reposo sin pérdida de peso ni disnea paroxística nocturna.
+
+Exploración física
+Buen estado general con ECOG 1 por la disnea referida. A la auscultación pulmonar destacaba hipoventilación pulmonar en hemitórax derecho con matidez a la percusión. Edemas en las extremidades inferiores (+/+++) sin fóvea con signos de insuficiencia venosa crónica.
+
+Pruebas complementarias
+• Radiografía simple de tórax urgente: Se observó derrame pleural derecho masivo.
+• Analítica urgente: Cr 1 mg/dL. Resto sin alteraciones.
+• Gasometría arterial: se objetivó insuficiencia respiratoria parcial (pO2 52 mm Hg, pCO2 40 mm Hg) sin alcalosis respiratoria.
+
+La paciente ingresa por disnea a estudio por derrame pleural no filiado.
+Durante el ingreso hospitalario, se realizaron las siguientes pruebas complementarias diagnósticas:
+• Fibrobroncoscopia: se observó una compresión extrínseca en bronquio intermediario derecho. Resto sin alteraciones
+• TC toracoabdominal: se identificaron las lesiones por criterios RECIST de masa hiliar con atelectasia del pulmón derecho, derrame pleural masivo derecho, adenopatía nivel 4R de 1,5 cm, adenopatía nivel 7 de 1,5 cm.
+• Toracocentesis: la citología líquido pleural es sospechosa de adenocarcinoma. Seguidamente se realizó una pleurodesis química con talco.
+• Biopsia bronquial: adenocarcinoma bien diferenciado con invasión perineural. Inmunohistoquímica: TTF1(+), CK7 (+) y calretinina (–).
+• Mutación EGFR: solicitada, pendiente.
+
+Diagnóstico
+Adenocarcinoma de pulmón cT3cN2M1a. Estadio IV.
+
+Tratamiento
+La paciente es dada de alta a la espera del resultado de la mutación del EGFR, después de 25 días de hospitalización.
+La paciente acudió a Urgencias ocho días después del alta hospitalaria por disnea de dos días de evolución. A la exploración, destacaba tensión arterial de 143/106 mm Hg con taquipnea y tiraje costal sin taquicardia. En ese momento la saturación basal era de 88% que corrigió con altos flujos de oxígeno hasta llegar a ser del 95%. Gasométricamente se pudo objetivar insuficiencia respiratoria parcial (gasometría arterial: pO2 de 51 mm Hg y pCO2 de 34 mm Hg).
+El dímero D urgente fue de 10.059 mg/L. Las modificaciones electrocardiográficas halladas mostraron signos de sobrecarga derecha (patrón SI QIII TIII y T invertida en precordiales derechas).
+Ante la alta sospecha clínica de tromboembolismo pulmonar, se realizó una angio-TC urgente donde se observó tromboembolismo pulmonar bilateral submasivo.
+Por tanto, nos encontramos con una paciente con cáncer de pulmón estadio IV con tromboembolismo pulmonar, que inicia tratamiento con heparina sódica intravenosa a dosis de 2 mg/kg/12 horas con controles diarios de TTPA (rango 1,5-2,5) durante siete días, seguido de heparina de bajo peso molecular subcutánea a dosis de 1 mg/kg/12 horas. La paciente mejoró progresivamente, reduciendo flujos de oxígeno hasta su retirada.
+Estando la paciente en proceso de recuperación de su estado general, con un estado general ECOG 1, obtuvimos el resultado de la mutación del EGFR por deleción del exón 19 y así se inició el primer ciclo de tratamiento con gefitinib 250 mg oral cada 24 horas en julio de 2011.
+
+Diagnóstico
+Adenocarcinoma de pulmón cT3cN2M1a con mutación EGFR por deleción del exón 19 y tromboembolismo pulmonar bilateral submasivo.
+
+Evolución
+Durante el ingreso hospitalario la paciente presentó dolor abdominal agudo progresivo con aparición de masa abdominal dolorosa a la palpación e inestabilidad hemodinámica. Todo ello fue debido a un importante hematoma en recto anterior del abdomen secundario a la inyección subcutánea de la heparina administrada. Se realizó un drenaje quirúrgico urgente del hematoma con buena recuperación posterior en la Unidad de Cuidados Intensivos y en hospitalización.
+Se reintrodujo el tratamiento con gefitinib 250 mg cada 24 horas, interrumpido seis días por el sangrado secundario al tratamiento anticoagulante por su tromboembolismo pulmonar, completándose un total de siete ciclos presentando como única toxicidad diarrea grado 1. En la valoración de respuesta, se objetivó respuesta parcial con una supervivencia libre de progresión de siete meses tras el séptimo ciclo de tratamiento.
+La TC tras el séptimo ciclo de gefitinib, comparado con la realizado después del tercer ciclo informó de aumento del derrame pleural derecho, adenopatía 4R de 1,3 cm (respecto de la TC del tercer ciclo, la imagen era de 0,8 cm), nódulo en el lóbulo superior derecho de 1,5 cm y derrame pleural izquierdo.
+En este caso, cuando ha aparecido una resistencia adquirida al tratamiento de primera línea con un EGFR-TKI, la mejor opción después de la primera línea de tratamiento con un EGFR-TKI en nuestro hospital fue su inclusión en el ensayo clínico IMPRESS.

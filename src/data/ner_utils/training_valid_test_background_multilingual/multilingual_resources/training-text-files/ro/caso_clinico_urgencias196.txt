@@ -1,0 +1,44 @@
+Motivul consultării
+Dispnee și tuse crescute
+
+Istoric personal
+- Nu sunt cunoscute alergii.
+- DM de tip II sub tratament cu antidiabetice orale.
+- HT în tratamentul cu Telmisartan 40 mg.
+- Fumător activ de 10 țigări/zi.
+- Băutor ocazional.
+- BPOC cu FEV1 de 60%.
+- A avut două exacerbări în ultimul an, ultima în urmă cu 7 luni.
+- El este tratat cu beta-2 cu acțiune prelungită și anticolinergice cu acțiune prelungită.
+
+ISTORIA ACTUALĂ
+Se consultă pentru că în ultimele 3 zile a prezentat o creștere a dispneei sale obișnuite, cu tuse și expectorație în cantitate mai mare decât de obicei și de culoare verzuie. Situația nu s-a ameliorat în ciuda tratamentului administrat de medicul său, iar în ultimele 12 ore dispneea a devenit un efort minim care îl împiedică să se spele în fiecare zi, pentru care se consultă. 
+
+EXAMINARE FIZICĂ
+Conștient și orientat în timp și spațiu. Cianoză centrală. TA: 185/110, FC de 130 bpm, RR de 28 rpm. O2 Sat de 89%, To de 36,8oC, glicemie de 240. - AC: Ritmic, fără murmure audibile. - AP: Respirație expiratorie șuierătoare în ambele câmpuri pulmonare cu rezonanțe izolate. - ABD: moale depresibil, fără visceromegalie sau mase. Nu e dureros. - EEII: edem pretibial minim. Impulsuri prezente și simetrice. Au fost solicitate explorări complementare și s-a început tratamentul cu: - Oxigenoterapie: Mască de ventilație cu o FiO2 de 0,3. - Beta 2 (salbutamol 5 mg) + anticolinergice (Ipratropium 0,5 mg) nebulizate și repetate inițial la fiecare 4 ore. - Corticosteroizi sistemici (80 mg iv). Aceasta este o exacerbare severă a BPOC și toate exacerbările severe beneficiază de tratament cu corticosteroizi sistemici. Urmați cu 40 mg/iv/6 ore după aceea. - Antibiotice (moxifloxacin 400 mg IV/24 h).
+
+EXPLORĂRI COMPLEMENTARE
+Radiografie toracică: cardiomegalie. Hilaritate ușor congestivă cu model interstițial minim la acest nivel. Redistribuire vasculară cu o distribuție vasculară crescută la baze. Nu există infiltrații. ECG: ritm sinusal la 110 bpm. Nu există modificări ale repolarizării.
+BIOCHIMIE
+GLUCOZĂ 265 mg/dl [ 70 - 110 ] UREEA 26 mg/dl [ 15 - 50 ] CREATININĂ 1 mg/dl [ 0,6 - 1,3 ] SODIU 142 mmol/L [ 135 - 148 ] POTASIU 3. 8 mmol/L [ 3.6 - 5.2 ] HEMATOLOGIE LEUCOCITE 10.12 x10^3/uL [ 4.8 - 10.8 ] NEUTROFILE 87.5 % [ 43 - 65 ] LIMFOCITE 5.6 % [ 20.5 - 45. 5 ] MONOFIȚI 6.8 % [ 5.5 - 11.7 ] EOSINOFILĂ 0 % [ 0.9 - 2.9 ] BAZOFIȚI 0.1 % [ 0.2 - 1 ] HEMOGLOBINĂ 16.6 g/dl [ 14 - 18 ] HEMATOCRITĂ 49. 7 % [ 42 - 52 ] PLĂCĂRITE 191 x10^3/uL [ 130 - 400 ] GASOMETRIE ARTERIALĂ pH 7,3 pCO2 77,3 mmHg pO2 54,5 mmHg cHCO3 37,4 mmol/L O2 Sat 89%.
+
+Având în vedere constatările analitice de acidoză respiratorie și o radiografie cu o semiologie care poate sugera insuficiență cardiacă incipientă, alături de edemul maleolar, s-a decis adăugarea furosemidului la tratament și controlul gazometric venos într-o oră, în cazul în care ar fi fost necesară inițierea ventilației mecanice non-invazive.
+
+EVOLUȚIE, AȘTEPTARE ȘI OBSERVARE
+După 60 de minute cu tratament corect, s-a efectuat un control gazometric cu următoarele rezultate: Gazometrie venoasă pH 7,31 pCO2 74,3 mmHg pO2 44,5 mmHg HCO3 36,4 mmol/L Puls oximetrie de 91%.
+Având în vedere ameliorarea slabă în ciuda tratamentului corect, s-a decis începerea ventilației mecanice neinvazive în modul BiPAP cu un IPAP de 16 și un EPAP de 6 și o FiO2 de 0,3 Ceva timp mai târziu s-a efectuat o nouă analiză a gazelor din sângele venos în care se observă: Gazele din sângele venos pH 7,383 pCO2 59,1 mmHg pO2 27,6 mmHg cHCO3 34,4 mmol/L saturație de O2 de 95% saturație de O2 de 95%.
+S-a decis menținerea VNI, continuând tratamentul menționat mai sus și după 10 ore pacientul a prezentat următoarele gaze sanguine: pH 7,467 pCO2 46,1 mmHg pO2 49,3 mmHg HCO3 32,9 mmol/L saturație de O2 de 97%.
+
+REZOLUȚIE, ORIENTARE ȘI TRANSFER
+S-a decis începerea retragerii progresive a ventilației mecanice neinvazive și internarea în secția de pneumologie pentru monitorizare și tratament definitiv. Tratamentul la internare - dietă diabetică fără sare.
+- Oxigenoterapie: Mască de ventilație cu o FiO2 de 0,28
+- Brocodilatatoare: Beta 2 (salbutamol 400 μg) + anticolinergice (Ipratropium 120 μg) cu cameră spațioasă la fiecare 6 ore.
+- Corticosteroizi sistemici: metilprednisolon 40 mg/iv/6 ore.
+- Antibiotice: Moxifloxacin 400 mg iv/24 ore.
+- Furosemid 20 mg iv/24 ore.
+- Enoxaparina 40 mg sc/24 h.
+- Telmisartan 40 mg iv/24h.
+- Glucometru înainte de micul dejun, prânz și cină cu regim de insulină.
+
+ÎNCERCARE CLINICĂ
+COPD MODERAT CU EXACERBARE SEVERĂ DIN CAUZA UNEI INFECȚII BACTERIENE.

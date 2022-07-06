@@ -1,0 +1,30 @@
+Anamnese
+Apresentamos uma mulher de 72 anos, de Barcelona, casada. Mãe de três filhos independentes, com bom apoio familiar. Está reformada desde os 65 anos de idade e é professora por profissão.
+
+Nenhum historial familiar relevante de cancro. Também não tem hábitos tóxicos e tem um historial pessoal de AHT sobre tratamento médico com enalapril. História ginecológica de 3 gravidezes, 3 partos eutecológicos e 3 crianças vivas saudáveis. Teve o seu primeiro ciclo menstrual aos 9 anos de idade e a menopausa aos 40 anos de idade.
+
+A sua história oncológica começou no início de Setembro com um quadro clínico caracterizado por dor abdominal irradiada numa cintura acompanhada de plenitude precoce, anorexia com uma perda quantificada de 5 kg num mês e astenia moderada.
+
+Exame físico
+O exame físico revelou uma deterioração acentuada do estado geral, com um estado de desempenho de 2 e distensão abdominal à custa de hepatomegalia de quatro dedos de largura, sem sinais de ascite.
+Há também uma icterícia mucocutânea significativa. Sem alterações cardiológicas ou respiratórias.
+
+Testes complementares
+"Foi realizado um ultra-som abdominal na DE mostrando hepatomegalia devido a múltiplas lesões que ocupam espaço, e o paciente foi admitido no Departamento de Medicina Interna para investigação adicional.
+"Durante a admissão, os testes laboratoriais iniciais mostraram uma duplicação dos níveis normais de transaminase e colestase não dissociada (AST 1.02 μmol/l, ALT 1.21 μmol/l, albumina 31 g/l, BB 14 μmol/l, gama-GT 10.61 μkat/l, FA 5.05 μkat/l). Vários marcadores tumorais foram elevados, incluindo o antigénio Ca-19-9 618 kint.u./l, o antigénio 992,2 ug/l e a alfa-fetoproteína (AFP) 14,968 ug/l. A serologia foi realizada, excluindo a hepatite.
+"Foi realizado um TAC abdominal, que mostrou hepatomegalia tumoral à custa de múltiplas lesões bilobulares hipervasculares focais, mostrando também massas tumorais endovesiculares com características hipervasculares compatíveis com metástases. Não foram observadas lesões semelhantes a tumores na pélvis. A semiologia descrita juntamente com a radiologia sugere o diagnóstico diferencial de hepatocarcinoma multifocal no fígado saudável, tumor germinal hepático extragonal e metástases endovesiculares versus metástases hepáticas e endovesiculares sugestivas de melanoma devido a hipervascularização.
+"Tendo em conta estas descobertas, foi realizada uma tomografia PET-CT para estadiamento e pesquisa de um tumor primário, destacando a lesão do tumor sólido hipermetabólico endovesicular, estendendo-se ao hilo hepático e ao sulco pancreáticooduodenal, e múltiplas lesões hipermetabólicas hepáticas, É difícil avaliar o tumor primário, embora dada a ausência de dilatação do ducto biliar e pancreático, uma provável origem vesicular seja a primeira opção (menos susceptível de ser colangiocarcinoma ou duodenal) e prováveis metástases hepáticas.
+"Foi realizada uma biopsia hepática guiada por ultra-sons sem incidentes. A anatomia patológica é relatada como infiltração por um neoplasma que adopta um padrão de crescimento infiltrativo papilar e tubular. Foi excluída a proliferação dos núcleos e a presença de vacúolos subnucleares. Ao nível das papilas, que mostram um eixo fibrovascular, os vacúolos são adjacentes ao eixo fibrovascular e no componente tubular infiltrante são adjacentes ao estroma circundante.
+As células mostram pleomorfismo nuclear e são identificadas mitoses. Não se observa necrose. 
+Imuno-histoquímica com positividade focal para a alfa-fetoproteína. Negatividade para CK7, CK20 e receptores de estrogénio. Tendo em conta estas descobertas, a orientação diagnóstica é o tumor da gema endometroide salgada.
+
+Diagnóstico
+É portanto classificado como um tumor de células germinativas do seio endodérmico extragonal (tumor do saco vitelino) no fígado e na vesícula biliar sem evidência de um tumor gonadal primário.
+
+Tratamento
+Como se trata de um tumor quimiossensível de acordo com a literatura médica, mas dada a fragilidade e grande deterioração do nosso paciente, foi decidido iniciar a quimioterapia de acordo com o esquema carboplatino-etoposídeo (80% etoposídeo devido a alteração da função hepática). O paciente recebeu apenas um ciclo, o que foi bem tolerado.
+
+Evolução
+Apesar do tratamento, o paciente mostrou uma rápida deterioração clínica, pelo que em Dezembro de 2013 os marcadores tumorais foram redeterminados, que paradoxalmente eram ligeiramente inferiores, e foi realizada uma tomografia computorizada do abdómen, que mostrou uma ligeira melhoria no tamanho das lesões hepáticas. No entanto, apresentou ascite franca, PTE bilateral e nova trombose portal. O paciente requereu admissão em Dezembro devido à deterioração geral, apresentando múltiplas complicações, incluindo infecção respiratória por Haemophilus influenzae e ascite maligna relacionada com doença neoplásica.
+
+Dadas as complicações que surgiram durante o tratamento, resultando num estado de desempenho de 2-3, e dada a fraca resposta clínica ao tratamento, ela foi considerada como não sendo candidata a mais tratamento específico e foi encaminhada para a Unidade de Cuidados Paliativos do nosso centro, onde morreu um mês mais tarde devido à progressão da doença.

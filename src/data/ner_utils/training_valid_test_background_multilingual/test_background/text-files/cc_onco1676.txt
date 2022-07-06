@@ -1,0 +1,24 @@
+Anamnesis
+Varón de 55 años de edad, sin antecedente médicos de interés, que acudió al Servicio de Urgencias por cuadro clínico de astenia progresiva, debilidad en ambos miembros inferiores y sensación de acorchamiento de predominio plantar. Previamente había presentado dolores óseos erráticos a nivel de hombros, muñecas y miembros inferiores de varios meses de evolución. Posteriormente, indagando en la historia, el paciente también refería un pequeño nódulo en el teste izquierdo por el que no consultó. Se procede a ingreso en Medicina Interna para estudio.
+
+Exploración física
+Consciente y orientado. Normohidratado y normoperfundido. Eupneico en reposo. Afebril. Normotenso. Saturación de O2 del 99%; frecuencia cardíaca 90 lpm. No se palpan adenopatías laterocervicales, supraclaviculares, axilares ni inguinales. Auscultación cardiorrespiratoria: rítmica, sin soplo, murmullo vesicular conservado. Abdomen: depresible, no doloroso a la palpación, sin visceromegalias ni masas, no signos de irritación peritoneal, ruidos intestinales conservados. Extremidades inferiores: no presenta edemas ni signos de trombosis venosa profunda. Exploración neurológica: lenguaje normal, paresia de musculatura distal en miembros inferiores, respetando sensibilidad propioceptiva y vibratoria. Sensibilidad termoalgésica: discreta hiperalgesia en tercio inferior miembro inferior derecho. Reflejos osteotendinosos presentes en miembros superiores y abolidos en inferiores. Marcha paraparésica con ataxia sensitiva, difícil sin ayuda.
+
+Pruebas complementarias
+• Radiografía de tórax: sin hallazgos radiológicos significativos.
+• Analítica: sin alteraciones en el hemograma ni en la coagulación. A nivel bioquímico presentaba cifras de GGT de 737 UI/l, sin otros hallazgos significativos. Alfafetoproteína, CEA y B-HCG normales.
+• Tomografía computarizada toracoabdominopélvica: lesión ósea insuflante en mango esternal, que impresiona de infiltración por mieloma múltiple. En raquis dorsal áreas osteolíticas incipientes en cuerpos vertebrales. Áreas de menor densidad ósea en L3 y L1. Resto del estudio sin hallazgos significativos.
+• Resonancia magnética de esternón, columna lumbar y cadera con contraste: en cuello y metáfisis proximal del fémur derecho, se observa una lesión intramedular, con realce heterogéneo tras inyección de contraste. En pala ilíaca derecha, a nivel supraacetabular, existe una lesión de 1 cm con las mismas características. En D11, D8 y L4, lesiones hiperintensas en T2 e hipointensas en T1. Todas estas lesiones sugieren proceso metastásico frente a origen mielomatoso.
+• Ecografía escrotal y testicular: en el testículo izquierdo se aprecia amplia desestructuración de ecoestructura testicular, con 3,6 cm de predominio hipoecogénico, con zonas hiperecogénicas, con vascularización homogénea, compatible con proceso neoformativo. En la porción media del testículo derecho, se aprecia una imagen hipoecogénica de 0,5 cm de diámetro de límites parcialmente definidos. Resto del estudio sin otros hallazgos significativos.
+• Endoscopia digestiva alta: cardias incompetente y patrón de gastritis crónica sin actividad, no erosiva.
+• Biopsia de médula ósea: negativa para mieloma.
+• Tomografía por emisión de positrones-tomografía computarizada: múltiples focos hipermetabólicos que afectan a metáfisis humeral izquierda, mango esternal y porción proximal de clavícula izquierda SUV 8,3, columna cervical C6, dorsal D8 SUV 5,7, D11, metáfisis proximal del fémur derecho en el tercio proximal y en el tercio distal, tibia derecha y fémur izquierdo ,metáfisis distal en cóndilo externo. En colon ascendente-ciego se aprecia hipercaptación SUV 9,5. También a nivel de canal medular L2- L4, testículo izquierdo SUV 4 y en teste derecho.
+• Anatomía patológica teste izquierdo: linfoma no Hodgkin B difuso de células grandes, de inmunofenotipo centrogerminal.
+• Resonancia magnética craneal, columna completa con contraste intravenoso: a nivel craneal no se evidenciaron hallazgos radiológicos significativos. A nivel de columna, se observan múltiples cuerpos vertebrales y articulaciones con alteración de su señal compatible con afectación linfomatosa, más llamativa en D8 y D11. A nivel de D8, se observa una extensión epidural de la afectación que deforma el cordón medular, sin comprometerla significativamente.
+• Citología del líquido cefalorraquídeo: compatible con infiltración por linfoma no Hodgkin. 
+
+Diagnóstico
+Linfoma no Hodgkin B difuso de células grandes testicular, con diseminación a nivel óseo y sistema nervioso central, estadio IV.
+
+Tratamiento
+Durante el ingreso se inició quimioterapia intratecal con metotrexato. Actualmente, el paciente está recibiendo tratamiento quimioterápico con el esquema rituximab, ciclofosfamida, doxorrubicina, vincristina, prednisona (R-CHOP).

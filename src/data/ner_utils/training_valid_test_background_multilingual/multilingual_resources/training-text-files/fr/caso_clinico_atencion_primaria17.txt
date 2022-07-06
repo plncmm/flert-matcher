@@ -1,0 +1,35 @@
+Motif de la consultation
+Le gendre de la patiente a appelé le centre de santé pour demander à son médecin de famille de venir à son domicile, car il la trouvait étrange. Deux jours plus tôt, elle était allée consulter son médecin traitant pour dyspnée et fièvre, où un diagnostic de bronchite aiguë a été posé par radiographie pulmonaire et un traitement antibiotique a été commencé.
+
+Approche individuelle (anamnèse, examen, tests complémentaires)
+Anamnèse : la patiente est une femme de 84 ans, qui nie toute réaction allergique aux médicaments, hypertendue (qui a cessé de prendre des médicaments antihypertenseurs de son propre chef), dyslipidémique, anticoagulée par l'acénocoumarol. Nie les habitudes toxiques. ABVD indépendant.
+
+À son arrivée au domicile, le patient a été trouvé obnubilé, avec un faible niveau de conscience, en plus d'une déviation du coin de la bouche et d'une perte de force dans l'hémisphère gauche. Elle était afébrile.
+Il a été décidé de transférer la patiente au service des urgences de l'hôpital en ambulance avec une assistance médicale et elle a été surveillée à tout moment. Le Stroke Code a été activé.
+À son arrivée à l'hôpital, son état n'avait pas changé. Cependant, lors de l'examen physique, le patient a commencé par avoir une fièvre de 38,8oC.
+
+Examen physique :
+- Etat général régulier, peau pâle, eupnéique au repos. Fièvre de 38.8oC de novo. TENSION ARTÉRIELLE 156/94.
+- ACR : Arythmique à une bonne fréquence, pas de murmures. CVM, pas de sons pathologiques.
+- ECG : FA à 70 bpm. Axe normal. QRS étroit. Aucun signe de repolarisation.
+- Neurologique : tendance à dormir, langage dysarthrique bien que difficile à explorer. PINLA. ECMO. Hémianopsie homonyme gauche à la menace. Tendance non forcée du regard vers la droite. Paralysie faciale gauche. Faiblesse des membres gauches avec tonus présent bien que difficile à explorer en raison du manque de collaboration. Brudzinski et Kerning douteux.
+
+Tests complémentaires :
+- NFS : Leucocytes 19,19x10e9/L, Neutrophiles 17,5x 10e9/L, Lymphocytes 0,8x 10e9/L, Glucose 130, Sodium 134, Créatinine 0,91, CRP 70, INR 2,08. Urine non pathologique.
+- CT crânien et angiographie CT : aucune altération pathologique.
+- Ponction lombaire : 1150 cellules dont 84% de PMN, 310 protéines, 35,6 glucose, Gram positif pour la listeria.
+
+Approche familiale et communautaire
+Patiente âgée vivant seule, jusqu'à présent, elle était ABVD. Bon soutien familial. Niveau socio-économique moyen.
+
+Jugement clinique (liste de problèmes, diagnostic différentiel).
+
+Diagnostic différentiel :
+- STROKE. Initialement, en raison des antécédents d'hypertension non traitée et de l'examen neurologique, le diagnostic était orienté vers un accident vasculaire cérébral. L'apparition de la fièvre et la normalité du scanner et de l'angiographie ont conduit à un changement d'opinion vers une maladie infectieuse.
+- Méningo-encéphalite bactérienne. La focalité neurologique et la fièvre orientaient vers une pathologie infectieuse, qui a été confirmée ultérieurement par une ponction lombaire et un test de Gram.
+
+Jugement clinique : méningo-encéphalite bactérienne.
+
+Plan d'action et évolution
+Le patient a été transféré dans le service de médecine interne. Là, elle a été surveillée et un traitement empirique a été instauré avec ceftriaxone+ampicilline+vancomycine+dexaméthasone iv et un traitement antipyrétique.
+Après le début du traitement, l'état général de la patiente s'est progressivement amélioré et elle est actuellement en bonne santé et sans séquelles de l'épisode.

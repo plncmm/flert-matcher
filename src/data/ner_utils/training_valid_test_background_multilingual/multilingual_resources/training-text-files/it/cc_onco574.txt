@@ -1,0 +1,24 @@
+Anamnesi
+Un paziente maschio di 38 anni recentemente operato per neoplasia testicolare mediante orchiectomia sinistra con risultati compatibili con neoplasia germinale intratubulare con estensione extratubulare. Lo studio di estensione ha evidenziato l'esistenza di un'immagine di allentamento del palloncino e di un esteso coinvolgimento dei linfonodi retroperitoneali; marker tumorali elevati: α-fetoproteina, gonadotropina umana (ß-HCG) e lattato deidrogenasi (LDH): tutti compatibili con un tumore testicolare non seminoma in stadio III.
+Dopo essere stato valutato dall'Oncologia Medica, è stato proposto di iniziare il trattamento con la chemioterapia di prima linea (QT) secondo lo schema BEP x 4 cicli (bleomicina, etoposide e cisplatino). L'inizio del trattamento era previsto dopo la crioconservazione dello sperma.
+Il paziente, 5 giorni dopo essere stato valutato, il giorno prima dell'inizio programmato del trattamento, è andato al Dipartimento di Emergenza per insufficienza respiratoria e febbre ad insorgenza improvvisa.
+
+Esame fisico
+Cattive condizioni generali con sudorazione profusa. Tachipnea a riposo con saturazione basale di ossigeno dell'88%. Temperatura 38,5 oC.
+
+Test complementari
+È stata richiesta una TAC toracica urgente per escludere un tromboembolismo polmonare. La TAC ha rivelato immagini nodulari multiple fino a 3 cm, ampiamente distribuite nel parenchima polmonare di entrambi i polmoni (metastasi note). Intervallate alle immagini nodulari ci sono aree in ground-glass, con caratteristiche aspecifiche, per valutare la loro origine (infiammatoria, infettiva, ecc.). Le analisi hanno mostrato un'elevata proteina C-reattiva (CRP) e leucocitosi con neutrofilia. Fu eseguita una nuova determinazione dei marcatori tumorali; LDH 810 U/l (range normale 135-250), α-fetoproteina 42,73 ng/ml (range normale 0-10) e ß-HCG 140-471 mIU/ml (range normale 0-5). Prima dell'inizio della terapia antibiotica empirica, sono state effettuate colture di sangue periferico.
+
+Diagnosi
+Insufficienza respiratoria secondaria alla malattia oncologica e all'infezione respiratoria.
+
+Trattamento
+È stata iniziata una terapia antibiotica empirica con piperacillina-tazobactam, corticoterapia e fluidoterapia, nonché un supporto respiratorio con ventilazione meccanica non invasiva.
+
+Evoluzione
+Data la gravità del paziente, essendo una malattia oncologica potenzialmente curabile, si è deciso di ricoverarlo in terapia intensiva, dove è stato iniziato il trattamento con QT con etoposide e cisplatino; la bleomicina non è stata prescritta per non interferire con la ventilazione.
+Dopo la somministrazione del primo ciclo di QT, l'evoluzione dal punto di vista respiratorio è stata torpida con secrezioni bronchiali che sono state coltivate e sono stati isolati due batteri; Enterobacter aerogenes e Proteus mirabilis; entrambi sensibili ai carbapenemi, aggiungendo complicazioni come la pancitopenia secondaria al trattamento con QT. È stata iniziata un'antibiotica mirata con meropenem 2 g ogni 8 ore, un trattamento di supporto con fattore stimolante le colonie (G-CSF), la trasfusione di due concentrati di globuli rossi e l'intubazione orotracheale.
+Il paziente gradualmente, anche se lentamente, ha cominciato a migliorare in termini di respirazione, permettendo l'estubazione dopo 10 giorni. È stata anche osservata una diminuzione dei livelli dei marcatori tumorali. Vista la situazione clinica stabile, è stato dimesso dall'ICU al reparto di oncologia, dove è stato somministrato il secondo ciclo di QT.
+Infine, a causa del significativo miglioramento clinico, senza la necessità di supporto respiratorio con l'ossigenoterapia, è stato dimesso a casa per continuare il trattamento su base ambulatoriale.
+Successivamente, ha ricevuto altri 4 cicli di QT secondo lo schema BEP con un'elevata risposta parziale dei noduli polmonari e della massa retroperitoneale (TAC di rivalutazione), quindi è stato sottoposto a salvataggio chirurgico della massa retroperitoneale residua, con una risposta parziale completa secondo i criteri Response Evaluation Criteria In Solid Tumours (RECIST).
+Attualmente, dopo tre anni di follow-up, il paziente non ha alcuna evidenza di malattia.

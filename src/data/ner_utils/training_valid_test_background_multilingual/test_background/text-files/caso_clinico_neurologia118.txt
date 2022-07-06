@@ -1,0 +1,25 @@
+Anamnesis
+Mujer de 48 años de edad, sin alergias medicamentosas, con los siguientes antecedentes personales: psoriasis en seguimiento por Dermatología; artritis psoriásica. En marzo de 2010, diagnosticada de displasia cervical (CIN I persistente), realizándose histerectomía total con doble anexectomía. Hipertiroidismo primario con exoftalmos bilateral, tratado quirúrgicamente con tiroidectomía hace 11 años; actualmente es hipotiroidea en tratamiento farmacológico. Plasmocitoma en la extremidad superior derecha en 2009, tratado con radioterapia local. Su tratamiento habitual es levotiroxina 100 mg/24 h y etanercept 25 mg/12 h, 2 días a la semana, desde junio de 2011. Antecedentes familiares de padre intervenido de carcinoma de estómago y abuelo con carcinoma ORL.
+La paciente acude a Urgencias por un cuadro de disminución de la fuerza en la pierna derecha de 3 días de evolución. Cuenta que desde hace un mes y medio comienza con disminución de la fuerza en ambas manos, de carácter intermitente, junto con episodios de imposibilidad para emitir palabras, de segundos de duración. No refiere alteraciones sensitivas, ni alteraciones visuales, ni disfagia, ni alteración de la marcha, ni ninguna otra focalidad neurológica. No alteraciones esfinterianas ni dolor cervical ni lumbar, ni afectación de ninguna articulación. Ninguna otra clínica sistémica.
+
+Examen físico
+Buen estado general, consciente y orientada, muy nerviosa durante la exploración. Colaboradora. PICNR. Fondo de ojo con papila con límites netos bien definidos. Campos visuales por confrontación normal. Pares craneales normales. No rigidez nucal. No alteraciones del lenguaje.
+Extremidades superiores: fuerza muscular conservada; sensibilidad táctil, artrocinética y vibratoria conservada; no dismetrías. Extremidades inferiores: fuerza muscular en los gemelos de la pierna derecha a 4+/5, resto de balance muscular conservado; sensibilidad táctil, artrocinética y vibratoria conservada; dismetría en la maniobra talón-rodilla de pierna derecha. Reflejos osteotendinosos exaltados en las cuatro extremidades, presente el reflejo mentoniano. Reflejo cutáneo-plantar flexor bilateral. Alteración de la marcha por mal control de la pierna derecha. No se objetivan niveles medulares. Auscultación cardiaca rítmica, sin soplos y a buena frecuencia. Auscultación pulmonar con murmullo vesicular conservado.
+
+Pruebas complementarias
+• Analítica en Urgencias: normal.
+• Analítica de ingreso. Bioquímica: colesterol 215 mg/dl, resto de bioquímica normal. Hemograma y coagulación normal. VSG 14 mm/1 h. Hormonas tiroideas, vitamina B12 y ácido fólico normales. PCR < 1. Inmunoglobulinas y proteinograma normales. Serologías de lúes, Borrelia, Brucella, VIH negativas. Estudio de autoinmunidad: ANA 1/40, anticuerpos anti-DNA, anti-ENA, anti-Ro, anti-LA, anti-Sm, p-ANCA, c-ANCA, anticardiolipina IgG e IgM negativos. Factor reumatoide < 10 UI/ml.
+• Citobioquímica del líquido cefalorraquídeo (LCR): leucocitos 18.000 células/campo, polimorfonucleares 67%, resto de bioquímica normal. Bandas oligoclonales IgG positivas, IgM negativo.
+• Radiografías de tórax y columna, electrocardiograma y tomografía computarizada (TC) cerebral: normales.
+• Resonancia magnética (RM) cerebral: se observan múltiples lesiones en la sustancia blanca hemisférica bilateral, de alta intensidad de señal en T2 y FLAIR y baja señal en T1. La mayoría de ellas muestran un halo levemente más hipodenso en T2. Algunas de ellas de gran tamaño, llegando a medir en el centro semioval izquierdo 2 cm de diámetro, así como otras lesiones como, por ejemplo, una frontal izquierda de 1,4 cm y parietal derecha de 1,6 cm de diámetro. Se observan al menos 13 lesiones de estas características. No se observa afectación de la fosa posterior ni del cuerpo calloso. Tampoco observamos afectación de la médula espinal cervical. Son altamente sugestivas de lesiones desmielinizantes. Tras administrar contraste de gadolinio intravenoso existe un realce de la mayoría de las lesiones objetivables en el estudio sin contraste. Sistema ventricular de morfología y tamaño normales.
+• RM cervical, dorsal y lumbar con contraste intravenoso: normal.
+
+Diagnóstico
+Lesiones desmielinizantes cerebrales secundarias al tratamiento con etanercept.
+
+Tratamiento
+Durante su estancia hospitalaria, se comenzó tratamiento con bolos de corticoides intravenosos, a dosis de 1 g al día, durante 5 días, junto con la retirada del etarnecept.
+
+Evolución
+La paciente refirió encontrarse subjetivamente mejor, con mejoría de la marcha. Presentó cefalea opresiva en el vértex, de intensidad leve-moderada. En la exploración destacaba hipoestesia en la extremidad superior derecha, con resto de la exploración normal. La paciente continuó con tratamiento corticoideo domiciliario en pauta descendente.
+La paciente, tras la suspensión del etanercept, presentó empeoramiento de las lesiones cutáneas psoriasicas, sin mostrar artritis psoriásica.

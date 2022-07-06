@@ -1,0 +1,18 @@
+Anamnesis
+Varón de 44 años, alérgico al ácido acetilsalicílico y diagnosticado de psoriasis, que acudió a Urgencias de Dermatología por presentar, de 3 semanas de evolución, una lesión en región retroauricular derecha que fue creciendo progresivamente y que sangró tras manipulación de la misma. El paciente refería picor y dolor en la zona, que no mejoraban tras la aplicación local de povidona yodada, agua oxigenada y emolientes. No presentaba sintomatología general de ningún tipo. No refería traumatismo previo en la zona. Negaba viajes al extranjero así como contacto con pacientes con sospecha de infección tuberculosa.
+
+Exploración física
+En región retroauricular derecha presentaba una lesión tumoral eritematoviolácea, infiltrada, de aproximadamente 4 cm de tamaño y de consistencia firme, en cuya superficie se observaban múltiples áreas erosivohemorrágicas. Con la presión digital se apreciaba emisión de un líquido serohemático. No se palpaban adenopatías cervicales ni submandibulares ni supraclaviculares. No presentaba lesiones cutáneas similares en otras localizaciones.
+
+Exploraciones complementarias
+En el estudio analítico realizado únicamente destacaban cifras discretamente elevadas de ácido úrico así como de las enzimas hepáticas. El frotis de sangre periférico solicitado no mostró alteración en ninguna de las líneas celulares. Se tomó muestra de exudado serosanguinolento para estudio, siendo negativo tanto el cultivo micológico como el estudio para micobacterias. El estudio mediante TC craneal y TC cervico- toraco-abdomino-pélvico no mostró hallazgos significativos. Se realizó una biopsia de la lesión, en la que se apreció un denso infiltrado linfoide dérmico con predominio de células intermedias o grandes, sobre un fondo polimorfo, que incluía linfocitos, células plasmáticas y eosinófilos. Las células grandes mostraban núcleos indentados o irregulares, con nucleolos evidentes y citoplasmas relativamente amplios (figura 2A). El estudio inmunohistoquímico demostró positividad en dichas células para LCA (antígeno leucocitario común), CD3, CD30 (figura 2B). Eran negativas para CD20, CD1a, S-100, EMA (antígeno de membrana epitelial) y ALK (kinasa del linfoma anaplásico) (figura 2C). La epidermis estaba ulcerada pero no se apreció epidermotropismo por parte de las células tumorales. Se demostró reordenamiento monoclonal de TCR (protocolo BIOMED-2).
+El estudio de extensión se completó mediante una biopsia de médula ósea, que descartó infiltración neoplásica.
+
+Diagnóstico
+Linfoma cutáneo primario anaplásico de células grandes CD30+.
+
+Tratamiento
+Tras descartarse afectación extracutánea, el paciente realizó tratamiento con radioterapia local durante un mes (dosis total: 4000 cGy).
+
+Evolución
+El paciente presentó buena tolerancia al tratamiento radioterápico, evidenciándose radiodermitis grado I y parotiditis aguda que se resolvió satisfactoriamente con antiinflamatorios no esteroideos (AINE). Tras la finalización del tratamiento y hasta el momento actual, el paciente no ha presentado recidiva de la lesión ni ningún otro tipo de sintomatología sistémica.

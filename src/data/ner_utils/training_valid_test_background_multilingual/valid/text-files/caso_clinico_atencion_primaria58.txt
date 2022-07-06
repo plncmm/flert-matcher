@@ -1,0 +1,29 @@
+Motivo de consulta
+Alucinaciones visuales con juicio de realidad preservado. El caso clínico se desarrolla en el ámbito de la Atención Primaria y posteriormente en Urgencias Hospitalarias, para completar el estudio.
+
+Enfoque individual (anamnesis, exploración, pruebas complementarias)
+Antecedentes personales: no alergias a medicamentos, hipertensión arterial, no fumador ni bebedor, fibrilación auricular permanente anticoagulada, enfermedad renal crónica, estenosis aórtica moderada con FEVI preservada, anemia ferropénica crónica con estudios endoscópicos normales, pancreatitis aguda biliar en 2015 de gravedad moderada, hipotiroidismo. Operado de cataratas en ojo izquierdo en 2017.
+
+Situación basal: independiente para actividades básicas de la vida diaria, funciones superiores conservadas. Deambula solo. Convive con su mujer.
+Tratamiento habitual: Sintrom 4 mg 1 comprimido al día, eutirox 150 mg, furosemida 40 mg cada 12 h, omeprazol 20 mg cada 24 h, amlodipino 5 mg 1 comprimido al día.
+
+Paciente de 87 años que consulta en el Centro de Salud refiriendo alucinaciones visuales desde hace 2 semanas (zoonosis de peque o tama o: gusanos, hormigas, gallinas...) con juicio realidad preservado, generándole angustia. Afebril. No consumo de nuevos fármacos ni tóxicos. No datos sugestivos de clínica infecciosa. No disnea, no dolor torácico. No situaciones estresantes previas. Acompañado por su mujer que refiere que no ha tenido comportamientos fuera de lo habituales las últimas semanas, no afectando a su calidad de vida de forma acusada, pudiendo desempeñar su actividad habitual. Sin deterioro cognitivo.
+
+Exploración: estabilidad hemodinámica TA 130/80, FC 65 lpm, afebril. Consciente, orientado en tiempo y espacio y colaborador, con juicio de realidad conservado haciendo crítica de las alucinaciones visuales. Eupneico en reposo sin trabajo respiratorio. Sin hallazgos de interés en auscultación cardíaca ni exploración abdominal. No edemas en miembros inferiores. Exploración neurológica dentro de la normalidad: pupilas isocóricas y reactivas a la luz, movimientos oculares externos conservados, campimetría por confrontación normal (aunque persiste en todo momento las alucinaciones, que ceden al cerrar los ojos). No ataxia ni temblor. Marcha conservada. Romberg negativo. No focalidad neurológica.
+Test Mini Mental sin rasgos de deterioro cognitivo, y test de tóxicos negativo.
+Se decidió derivar a Urgencias de hospital de referencia por ser el primer episodio de alucinaciones visuales en paciente independiente, sin deterioro cognitivo previo. A descartar organicidad.
+
+Pruebas complementarias
+Analítica sangre: leucocitos 6.110, hemoglobina 8,5 (anemia crónica ya estudiada con valores similares en las anteriores analíticas), plaquetas 237.000. INR 2,3. Glucosa 103, urea 51, creatinina 2 (controles previos similar 2,3), iones normal, no elevación de reactantes de fase aguda. Vitamina B12 y tiroideas normal, en la analítica de hace una semana.
+Orina normal. Radiografía de tórax y abdomen normal. TC cráneo: sin hallazgos agudos de interés Valoración por Oftalmología: agudeza visual 0,3/ 0,1, catarata derecha. Psuedofacoemulsificación izquierda por intervención de catarata izquierda, con opacificación de la cápsula posterior. DMAE seca bilateral.
+Valoración por Neurología y Psiquiatría, descartando patología a dichos niveles.
+
+Juicio clínico (listado de problemas, diagnóstico diferencial)
+Juicio clínico: Síndrome de Charles Bonnet en paciente con escasa agudeza visual bilateral debido a degeneración macular asociada a la edad (DMAE).
+Diagnóstico diferencial: patología psiquiátrica (esquizofrenia, trastorno delirante...), neurológica (demencia de cuerpos de Lewy, demencia tipo Alzheimer, demencia vascular, Parkinson, delirium...), tóxicos, fármacos de nueva introducción en el paciente, patología endocrino- metabólica (crisis tiroidea), tumor cerebral primario, encefalitis, meningitis, metástasis cerebral de tumor de origen desconocido...
+
+Plan de acción y evolución
+Se decide intervenir la catarata del ojo derecho, y citar para aplicar laser YAG en ojo izquierdo, debido a la opacificación tras la intervención de cataratas de dicho ojo. Ello mejoraría la pobre agudeza visual del paciente, pudiendo desaparecer en parte las alucinaciones visuales.
+Por lo demás no hay un tratamiento que sea de elección en el síndrome de Charles Bonnet. Para su tratamiento se han usado fármacos anticomiciales, neurolépticos, antidepresivos y agentes colinérgicos. Sin embargo, actualmente no existe suficiente evidencia clínica para seleccionar un tratamiento farmacológico determinado. Ello junto con las medidas higiénicas (adecuada iluminación, estar acompa ados...) mejora la sintomatología.
+
+Evolución: en el caso de nuestro paciente se empleó baja dosis de risperidona con aceptables resultados. Ello junto con la intervención ocular disminuyó la frecuencia de las alucinaciones, mejorando la angustia del paciente y su calidad de vida.

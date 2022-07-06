@@ -1,0 +1,28 @@
+Anamnesi
+En aquest cas, ens trobem amb una pacient de 63 anys, natural de Badajoz. Com a antecedents personals, té una germana intervinguda de càncer de mama als 40 anys (actualment en controls) i una germana morta per tumor cerebral als 34 anys. Quant als seus antecedents personals, pateix de bronquitis crònica. No presenta ni HTA, ni dislipèmia ni diabetis mellitus. I, per a finalitzar, és fumadora amb un índex acumulat de 40 paquets any, i no té hàbit enólico.
+La seva simptomatologia oncològica va començar amb tos d'un mes d'evolució, associant astènia intensa i dispnea de mínims esforços en l'última setmana, juntament amb edemes progressius en EEII. En el servei d'Urgències, presenta hipotensió arterial progressiva, i s'objectiva vessament pericardíac greu, per la qual cosa és traslladada a UCI. Durant la seva estada en UCI, se li realitza pericardiocentesis d'urgència (> de 1l, hemorràgic, amb aspecte seropurulento). S'inicia tractament antibiòtic empíric, mantenint-se estable respiratòria i hemodinámicamente (durant l'ingrés va presentar insuficiència renal aguda i pneumònia comunitària que es van resoldre).
+
+Exploració física
+ECOG: 1. Durant l'exploració física, sense troballes ressenyables.
+
+Proves complementàries
+En la radiografia de tòrax del Servei d'Urgències, s'objectivava un augment de la silueta cardiopericárdica compatible amb el vessament pericardíac descrit, així com troballes compatibles amb broncopneumònia en LM i LID.
+Durant el seu ingrés en UCI, amb intenció de filiar la causa del vessament pericardíac, es van dur a terme analítiques per a despistaje de malalties reumàtiques, conectivopatías i serologies, tot dins de la normalitat. Així mateix, es va realitzar una bodi TC, on es va objectivar neoplàsia de pulmó estadi IV, presència de TEP, infarts renals i nòduls suprarenals bilaterals (TC de suprarenals sense criteris diagnòstics d'adenoma).
+Es va analitzar el líquid pericardíac, amb citologia suggestiva de adenocarcinoma, que, en tenir positivitat per a TTF-1, suggeria primari pulmonar.
+
+Diagnòstic
+Ens trobem per tant amb un adenocarcinoma de pulmó estadi IV (vessament pericardíac positiu i nòduls adrenales bilaterals), EGFR-natiu. Es decideix inici de tractament segons esquema carboplatí + pemetrexed amb intenció de completar 3 cicles i valorar resposta mitjançant TC.
+
+Tractament
+S'inicia el 1/12/16 tractament mitjançant esquema carboplatí + pemetrexed, completant 3 cicles, fins al 16/1/17, amb progressió suprarenal. Es completa estudi mitjançant mostres de PDL-1 i ALK, sent al final de l'estudi un adenocarcinoma de pulmó EIV EGF-R i ALK negatius i PDL-1 positiu. S'inicia tractament amb nivolumab el 27/2/17, del qual rep 4 cicles (pendent de TC de valoració de resposta després de 6 cicles).
+En consultes, se sol·licita TC cerebral urgent per persistir sensació d'astènia i mareig, on es diagnostica el 8/3/17 de múltiples metàstasis cerebrals amb edema perilesional. Rep RT holocraneal (20 Gy en 5 fraccions), que finalitza el 29/3/17, amb bona tolerància i millora clínica.
+
+Evolució
+El 23 d'abril de 2017 ingressa en el Servei d'Oncologia Mèdica per sensació distérmica i esgarrifances termometrándose febre de fins a 39 oc el dia 21/4/17. Inicia antibioterapia empírica amb levofloxacino, persistint pics febrils i dispnea progressiva fins a fer-se de mínims esforços. No relata una altra clínica associada, amb una exploració física sense troballes rellevants i analítica sanguínia dins de la normalitat, sense reactants de fase aguda alterats. En la radiografia de tòrax s'objectiva un patró intersticial difús, amb diagnòstic diferencial com a primera opció de patologia infecciosa per gèrmens atípics vs toxicitat farmacològica (menys probable edema pulmonar o linfangitis carcinomatosa).
+A l'ingrés, s'inicia tractament empíric d'ampli espectre amb ceftriaxona i levofloxacino. Es realitza TC toràcica que mostra imatge compatible amb infecció per Pneumocystis jirovecii com primera opció, pneumotòrax bilateral i tromboembolisme agut d'escassa càrrega tromboembòlica. Donats aquestes troballes, s'associa cotrimoxazol, al tractament amb levofloxacino i es pauta corticoterapia sistèmica davant sospita d'infecció per Pneumocystis (es manté anticoagulació que ja tenia la pacient per TEP previ).
+Se sol·licita valoració per part del Servei de Respiratori, que demana broncoscòpia per a presa de cultiu, però s'anul·la per empitjorament clínic de la pacient, amb insuficiència respiratòria (així mateix es descarta col·locació de tub de tòrax per escassa quantia de pneumotòrax bilateral i es decideix maneig conservador). En el cultiu d'esput de 5/5/17, creixen Estafilococ coagulasa negatiu, Candida albicans (escasses colònies), amb Legionel·la i Pneumocystis jirovecii negatiu.
+Durant l'ingrés presenta quadre d'intolerància al cotrimoxazol, amb vòmits incoercibles malgrat antiemètics i acidosis metabòlica (corregida posteriorment amb bicarbonat). Es decideix suspendre tractament amb cotrimoxazol i iniciar atovaquona oral, amb millora de la tolerància.
+Malgrat això, la pacient presenta empitjorament progressiu des del punt de vista respiratori, amb necessitat d'increment progressiu d'aportació d'O2.
+En radiografia de tòrax de control, s'objectiva neumomediastino amb emfisema subcutani i pneumotòrax, per la qual cosa s'inicia tractament antibiòtic amb Tazocel® mantenint atovaquona, sense millora clínica.
+Es decideix iniciar clorur mórfico per a control de sensació de dispnea i, davant mala evolució clínica posterior, es decideix suspendre tractament de suport i iniciar sedació per a control de símptomes, amb exitus el dia 12/5/2017.
+Estem pendents de l'autòpsia.

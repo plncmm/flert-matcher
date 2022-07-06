@@ -1,0 +1,32 @@
+Anamnesis
+Paciente varón de 79 años de edad, que refiere inicio de enfermedad un mes previo al ingreso (enero de 2013), presentando síndrome miccional con polaquiuria, tenesmo, disuria y estranguria, que se exacerba desde hace 7 días, concomitante con náuseas sin vómitos y sensación distérmica. No hematuria. Acude a consulta externa de Urología, donde interpretan el cuadro como prostatitis aguda, instaurando tratamiento con ciprofloxacino y gentamicina, sin respuesta, de modo que acude a Urgencias con dolor perineal intenso y exacerbación de la sintomatología antes descrita, por lo que se ingresa.
+Presenta como antecedentes: tumor vesical con resección transuretral (RTU) en 2006 (T1G3) tratado con instalaciones de BCG en 2006 y marzo de 2011, últimos 2 meses antes del ingreso. Piodermia gangrenosa diagnosticada hace 3 años en seguimiento por el Servicio de Dermatología. Exfumador, en seguimiento por Neumología por infiltrado pulmonar inespecífico en resolución.
+
+Examen físico
+Abdomen blando, depresible, doloroso a la palpación profunda en el hipogastrio, no signos de irritación peritoneal. Tacto rectal: próstata muy dolorosa aumentada de tamaño, indurada e irregular sin zonas fluctuantes.
+Resto del examen físico dentro de la normalidad. Secreción espesa y piúrica por el pene. Resto del examen físico dentro de lo normal.
+
+Pruebas complementarias
+• Al ingreso presenta un hemograma con leucocitosis (13.500) con neutrofilia (82%). Urocultivo negativo.
+• Tomografia computarizada de abdomen: próstata y ambas vesículas seminales aumentadas de tamaño, edematosas, con realce heterogéneo, colección líquida presacra pararrectal derecha, con discreto realce de la pared de 5 x 3 x 3 cm.
+• Engrosamiento de la pared vesical posterior y colección líquida en íntima relación con la pared vesical sin plano graso de separación de 2 x 4 x 2 cm en contacto con la próstata. Durante el ingreso 31/1 urocultivo y hemocultivo negativo.
+• Exudados 31/1 bacteriología PCR para micobacteria, tinción y cultivo negativo.
+• Cultivo bacteriológico de absceso 1/2 tras RTU negativo.
+• Cultivo de secreción tras drenaje percutáneo de colección presacra negativo.
+• Proteína C reactiva (febrero 2013): 223 mg/l.
+• Los resultados de la anatomía patológica, tanto de la RTU de próstata como del tejido adyacente tras la exéresis del absceso presacro, revelaron un intenso infiltrado inflamatorio compuesto por células plasmáticas, linfocitos y PMN neutrófilos (con formación de microabscesos).
+• Tomografía computarizada (TC) de tórax (marzo 2013): negativa para lesiones cavitadas, moderadas señales de enfermedad pulmonar obstructiva crónica.
+
+Diagnóstico
+Se ingresa con la impresión diagnóstica de prostatitis granulomatosa abcesificada por los antecedentes antes descritos; se procede a realizar interconsulta con el servicio de Enfermedades Infecciosas, quienes inician tratamiento antibiótico empírico, radiología intervencionista y cirugía general para valorar la colección presacra y realizar un drenaje percutáneo del absceso.
+En vista del mal estado general del paciente y el intenso dolor a pesar de la analgesia, se decide realizar una RTU-drenaje del absceso prostático.
+Durante el postoperatorio presenta lesiones en la cara y la región inguinal izquierda, valoradas por el Servicio de Dermatología como compatibles con piodermia gangrenosa reagudizada, por lo que instauran tratamiento local con corticoide.
+
+Tratamiento
+Se instaura tratamiento con los siguientes fármacs: ceftriaxona intravenosa (30 días); metronidazol intravenoso (18 días); gentamicina intravenosa (15 días); aztreonam y clindamicina (11 días); piperacilina-tazobactan (13 días); vancomicina, amikacina e imipinem (7 días); betametazona ungüento, hasta la resolución de la lesión en la cara, y metilprednisolona intravenosa 20 mg c/12 h durante 10 días.
+
+Evolución
+Mejoría evidente de las lesiones cutáneas de la piodermia gangrenosa con tratamiento tópico esteroideo. Tras RTU y drenaje percutáneo de la colección el paciente presentó una mejoría parcial, aunque persiste el dolor perineal e hipogástrico, exacerbándose este tras la retirada del drenaje percutáneo de la colección pararrectal.
+Se realiza una TC de control, que evidencia recidiva de la colección presacra, por lo que se decide, en conjunto con el Servicio de Cirugía general, realizar un drenaje abierto de la colección, también con mejoría parcial, con posterior empeoramiento hasta requerir analgesia mediante catéter epidural. Se realiza una nueva TC, que informa de próstata y vesículas desestructuradas, heterogénea, con algunos focos claros de absceso.
+Con estos hallazgos, y ante la situación clínica del paciente, con poca respuesta al tratamiento antibiótico y quirúrgico, realizamos una revisión del caso de manera multidisciplinar con el Servicio de Dermatología y la Unidad de Enfermedades Infecciosas, quienes suspenden la antibioterapia ante la falta de respuesta y los cultivos estériles.
+Se descarta otra intervención quirúrgica a nivel prostático, tomando en cuenta la posibilidad de que se trate de una manifestación extracutánea de la piodermia gangrenosa. Se retiran todos los drenajes. Se instaura tratamiento sistémico con metilprednisolona, presentando el paciente mejoría clínica ostensible. Al cabo de 7 días no precisa analgesia y los valores de PCR se encuentran prácticamente a niveles previos al ingreso.

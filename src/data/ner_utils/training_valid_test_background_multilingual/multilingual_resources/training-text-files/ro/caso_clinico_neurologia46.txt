@@ -1,0 +1,33 @@
+Anamneză
+Bărbat, 57 de ani, fumător de 20 de țigări pe zi de peste 40 de ani, consumator moderat de alcool și cu antecedente de infecții dentare repetate, fără alte afecțiuni medico-chirurgicale de interes. El a prezentat un tablou rapid progresiv, non-bruscant, de aproximativ 72 de ore de evoluție, constând în slăbiciune din ce în ce mai intensă la nivelul membrului superior stâng, fără durere sau simptome senzoriale. Pacientul a negat cefaleea și/sau durerea cervicală. Cu aproximativ 20 de zile mai devreme, el a raportat un episod autolimitat de durere pleurală înjunghiată în regiunea costală stângă, care a radiat la umărul ipsilateral și la rădăcina membrului superior, pe o perioadă de 48 de ore. De la acest episod, a raportat tuse productivă ocazională cu spută gălbuie și dâre de sânge, însoțită de febră cu vârf de 38°C. De asemenea, a raportat scădere în greutate. De asemenea, a raportat o pierdere în greutate de aproximativ 8 kg în ultimele 4 luni, asociată cu astenie, fără hiporexie.
+Înainte de sindromul constituțional, suferise un flegmon dentar cu supurații abundente, tratat cu amoxicilină și medicamente antiinflamatoare.
+
+Examinarea fizică
+Examen general: temperatura 36 oC, tensiunea arterială 174/96 mmHg, frecvența cardiacă 99 bpm. Saturația bazală de O2 99%. Glicemia capilară: 250 mg/dl. Piele și mucoase: nu există stigmate cutanate de endocardită sau venipunctură. Cap și gât: fără adenopatii palpabile. Carii dentare. Piept, abdomen și extremități: normal. Examen neurologic: funcții corticale normale. Nervi cranieni normali. Sistemul motor: hemipareză brahio-crurală stângă disproporționată (0/5 ESI cu afectarea globală a musculaturii distale și proximale; 4+/5 EII). REM simetric, prezent în toate cele patru membre, viu (+++/++++). Flexor bilateral al RCP. Sistemul senzorial: normal. Funcția extrapiramidală și cerebeloasă: normală. Mersul și statul în picioare: pareză ușoară cu IBD. Semne meningeale: absente.
+
+
+Teste complementare
+- Biochimie: glicemie 266 mg/dl, hemoglobină glicată 11,3% și reactanți de fază acută (APR) crescuți, cum ar fi CRP (3,94 mg/dl); ceilalți parametri au fost normali.
+- Hemograma: leucocitoză (14.100/μl) cu neutrofilie (74,9% neutrofile), macrocitoză (MCV 102,6 fl) fără anemie și număr normal de trombocite.
+- Coagulare: normală.
+- Studiu microbiologic seric: negativ pentru HIV, sifilis, VHC și VHB.
+- Urină sistemică și sediment: normală. Studiu pulmonar:
+- Radiografie toracică posteroanterioară și laterală: imagine bine definită de consolidare în lobul inferior stâng (LII).
+- Tomografie computerizată (CT) toracică cu VSD: leziune de 5,3 x 3,4 cm situată în baza pulmonară stângă, cu perete gros și conținut hidroaerian sugestiv de abces pulmonar. Radiografie toracică posteroanterioară care arată o imagine consolidantă bine delimitată în lobul inferior stâng. Imaginea tomografiei computerizate toracice cu vizualizarea abcesului pulmonar în LII.
+- Spirometrie: normală.
+- Studiul microbiologic al sputei și LBA prin fibrobronhoscopie: colorații negative pentru bacterii, micobacterii (BAAR) și ciuperci. Culturi negative (x2).
+- Biopsie transbronșică prin fibrobronhoscopie: biopsie a segmentului 9 din LII negativă pentru neoplazie, compatibilă cu un proces inflamator abcesiv.
+- FNA ghidat de CT toracic: puncție a masei pulmonare în segmentul 9 al LII cu studiu citologic compatibil cu material purulent și cultură bacteriană pozitivă pentru Streptococcus intermedius (membru al grupului Streptococcus anginosus). Studiu cardiologic:
+- Electrocardiograma de bază: ritm sinusal la 90 bpm, undă P mitrală, cu interval P-R și QRS normale, fără modificări de repolarizare.
+- Ecocardiogramă transtoracică: nicio dovadă de endocardită sau de boală cardiacă structurală. Funcție biventriculară normală. Studiu cerebral:
+- CT cranian cu VSD: două leziuni frontale drepte ocupând spațiul cerebral (una corticală și una subcorticală) cu captare de contrast în inel și edem perilesional.
+- RMN al creierului cu administrare de substanță de contrast: leziune subcorticală în centrul semioval și leziune satelit corticală frontală dreaptă, cu captare de contrast în formă de inel și edem vasogenic perilesional. Leziunea subcorticală prezintă o restricție intensă în secvențele de difuzie. Imagistica prin rezonanță magnetică a creierului. A. Secvența axială T1w cu contrast care arată o leziune subcorticală frontală dreaptă cu captare în formă de inel și edem perilesional. B. Secvență de difuzie care arată o restricție marcată a aceleiași leziuni.
+
+Diagnostic
+Abcese piogene ale plămânului și creierului datorate Streptococcus intermedius, cu focar odontogen.
+
+
+Tratament Tratamentul antibiotic empiric a fost inițiat cu meropenem și metronidazol, înlocuit cu ceftriaxonă și metronidazol după obținerea rezultatelor antibiogramei. Cu toate acestea, din cauza apariției unei erupții cutanate cu eozinofilie, terapia antibiotică a fost schimbată cu linezolid 600 mg/12 h (3 săptămâni de tratament) și moxifloxacină 400 mg/24 h (90 de zile de tratament). În primele zile a fost necesar să se adauge corticoterapie (dexametazonă) pentru a reduce edemul vasogenic cerebral. Pentru un control glicemic adecvat, pacientul a necesitat tratament cu insulinoterapie (insulină lispro și insulină glargin).
+
+Evoluție
+Pacientul a avut o evoluție clinică foarte bună, cu rezolvarea completă a focarului neurologic după începerea tratamentului cu antibiotice și corticosteroizi. Studiile ulterioare de urmărire cu RMN cerebral au arătat o scădere progresivă a dimensiunii abceselor cerebrale până la dispariția acestora, precum și a edemului cerebral vasogenic și a abcesului pulmonar.

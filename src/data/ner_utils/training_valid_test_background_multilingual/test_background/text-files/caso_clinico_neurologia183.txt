@@ -1,0 +1,27 @@
+Anamnesis
+Mujer de 41 años de edad con cambios, desde hace 3 meses, en sus cefaleas tensionales habituales. Las que en principio describía como holocraneales y leves pasaron a ser hemicraneales izquierdas, opresivas y de intensidad moderada-severa. Asociaban además prurito, dolor al mínimo estímulo táctil y sensación de hormigueo en la hemicara izquierda, más acentuada en la zona frontoorbitaria, con fotofobia y sonofobia, así como menor alivio con la analgesia habitual (ibuprofeno y paracetamol) y visión borrosa en el hemicampo temporal del ojo izquierdo. Se realizó una tomografía computarizada (TC) craneal en el Servicio de Urgencias, sin mostrar alteraciones y una resonancia magnética (RM) cerebral ambulatoria en otro centro al poco tiempo de comenzar con la clínica descrita que fue informada como normal. Dada la frecuencia de las cefaleas, se inició tratamiento con amitriptilina con mejoría clínica en el mes siguiente, aunque con persistencia de la alodinia y el prurito facial.
+
+Acude nuevamente a Urgencias por incremento en la intensidad del dolor hemicraneal izquierdo en las últimas 2 semanas con puntuación de 8 en la escala analógica visual (EVA). Lo describe como pulsátil, asociado a fotofobia y sonofobia, aunque lo que más le incapacita es el prurito y la hipersensibilidad de la zona periorbitaria y frontoparietal izquierda. Ante pequeños estímulos táctiles ella siente sensación de intenso escozor, resultándole imposible apoyar la cabeza sobre dicha zona. La disminución de la agudeza visual por el hemicampo temporal izquierdo progresó hacia la pérdida absoluta de la visión por dicho ojo (no distinguía ni siquiera luces o sombras). Además, refería dificultad para ver con normalidad por el hemicampo temporal del ojo derecho y dolor con los movimientos oculares. Negaba náuseas, vómitos, empeoramiento de la cefalea con maniobras de Valsalva o interferencia con el sueño. Negaba fiebre u otra clínica infecciosa, así como viajes recientes. Niega alteración esfinteriana. La paciente recordó que, coincidiendo con el inicio de la cefalea y los síntomas visuales, había sentido adormecida la región mamaria y braquial izquierda durante varias semanas, resolviéndose de forma espontánea y completa.
+
+Examen físico
+Amaurosis del ojo izquierdo. Agudeza visual de 0,8/1 en el ojo derecho con hemianopsia temporal y discromatopsia. Defecto pupilar aferente relativo en el ojo izquierdo. Pupila de ojo derecho reactiva. Fondo de ojo normal. Movimientos oculares extrínsecos conservados, sin restricciones aunque refiere dolor al movilizar el ojo izquierdo. Alodinia en el territorio teórico de la primera rama del trigémino (V1) izquierdo. Hipoestesia en el territorio C2-C4 izquierda. Resto normal.
+
+Pruebas complementarias
+• Hemograma, hemostasia, perfil hepático, perfil lipídico, perfil renal, iones, reactantes de fase aguda, hormonas (TSH, T4) y vitaminas (B12, A, E, D, ácido fólico) normales.
+• Inmunoquímica: discreto aumento de IgM (339 mg/dl, rango normal 49-302), resto normal. No bandas oligoclonales en suero.
+• Estudio de autoinmunidad normal.
+• Serología en suero (VHB, VHC, sífilis, Borrelia, Brucella, VIH, antígeno criptococo) negativa.
+• Líquido cefalorraquídeo (LCR): bioquímica con leve aumento de proteínas (37 mg/dl, rango normal 10-30) sin células. ADA negativo. Cociente de albúmina e índice de IgG normal. No se detectan bandas oligoclonales en LCR. Serología (sífilis, Borrelia, Brucella, criptococo) negativa.
+• RM de columna cervical: alteración de la señal en la secuencia T2 en la médula cervical en los niveles C1-C2 localizada fundamentalmente en la región cordonal posterior derecha y región lateral izquierda compatible con lesión desmielinizante. Resonancia magnética cervical, secuencia T2, corte longitudinal donde se visualiza hiperintensidad en nivel C1-2, compatible con lesión desmielinizante.
+• RM cerebral: hiperintensidad anómala en secuencias FLAIR que afecta a la porción intracanalicular del nervio óptico en el lado izquierdo en su porción posterior y que se extiende hasta el quiasma, con extensión hacia el lado izquierdo. Resonancia magnética cerebral secuencia FLAIR, corte coronal. Se visualiza hiperintensidad en el quiasma óptico.
+• Potenciales evocados visuales (PEV): ausencia de respuesta con estímulo desde el ojo izquierdo. Normales en el ojo derecho.
+• Anticuerpos antiacuaporina 4 (antiNMO) positivos.
+
+Diagnóstico
+Neuromielitis óptica autoinmune (enfermedad de Devic).
+
+Tratamiento
+Tras la administración de 1 g de metilprednisolona diario durante 7 días y seis sesiones de plasmaféresis la paciente experimentó una mejoría completa de la agudeza visual del ojo derecho. Sin embargo, con el ojo izquierdo solo era capaz de distinguir luces y sombras. Fue dada de alta con azatioprina 50 mg cada 12 horas y topiramato 50 mg cada 24 horas.
+
+Evolución
+En los siguientes 6 meses requirió ingreso en dos ocasiones por visión borrosa en el ojo derecho, precisando nuevamente de varios ciclos de metilprednisolona con resolución completa de los síntomas de dicho ojo. La visión por el ojo izquierdo se mantuvo similar al primer ingreso, con distinción tan solo de luces y sombras. La alodinia y las cefaleas mejoraron al aumentar la dosis de topiramato y reintroducir amitriptilina, sin llegar a desaparecer por completo, pendiente de ser valorada por la Unidad del Dolor.

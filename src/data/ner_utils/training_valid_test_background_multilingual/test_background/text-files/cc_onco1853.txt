@@ -1,0 +1,18 @@
+Anamnesis
+Varón de 50 años con antecedentes personales de dislipemia, exfumador hace 2 años (30 paquetes al año). Consulta en septiembre 2016 por astenia severa Grado3 (G3) asociada a dolor abdominal en ambos hipocondrios de 2 meses de evolución. En la analítica se destaca hiponatremia (123 mEq/l), con potasio normal (4.8 mEq/l). Se realiza TC (Tomografía Computarizada) toraco-abdomino-pélvico apreciando conglomerado de adenopatías patológicas a nivel subcarinal, en la ventana aortopulmonar e hiliar izquierdo con compresión extrínseca sobre el bronquio del LSI (Lóbulo Superior Izquierdo) y atelectasia secundaria del segmento anterior. También se evidencia masa en el LSI y otro nódulo en el lóbulo inferior derecho. A nivel abdominal se destacan masas metastásicas suprarrenales bilaterales, con posible infiltración hepática. Con estos hallazgos en el TC se envía el paciente a oncología, donde se completa la análitica para estudio de posible insuficiencia suprarrenal. Y se solicita fibrobroncoscopia con biopsia.
+
+Exploración física
+El paciente estaba hemodinámicamente estable con performance status de 1 y abdomen doloroso en ambos hipocondrios sin signos de irritación peritoneal.
+
+Pruebas complementarias
+En la fibrobroncoscopia, se ve infiltración en el bronquio lobar superior con estenosis mixta por compresión extrinseca y zona de necrosis superficial. La analítica confirmó la hiponatremia severa (123 mEq/dl), cortisol basal bajo (<0.4 Mg/ dl), ACTH alto (204.1 pg/ml), Cortisol basal con el test de estimulación ACTH bajo (3.1 Mg/dl). Anatomía Patológica: Estudio inmunohistoquimico con positividad para TTF1, con negatividad para P40, CROMOGRANINA, SINAPTOFISINA, CD45, lo que apoya el diagnostico de: Adenocarcinoma pulmonar (EGFR negativo, ALK negativo, ROS 1 negativo).
+
+Juicio Diagnóstico
+Adenocarcinoma pulmón T3N2M1c - E-IVb (metastásis suprarrenales bilaterales y posiblemente hepáticas) con insuficiencia suprarenal primaria secundaria a metastásis suprarrenales bilaterales.
+
+Tratamiento
+Se inicia tratamiento hormonal de sustitución con hidrocortisona 20 mg al día y fludrocortisona 0,1 mg, 1 comprimido al día con colaboración del servicio de endocrinología. Para el tratamiento del tumor, se propone inclusión en Ensayo Clinico CHECK MATE 227, y se realiza determinación de PDL 1 siendo positiva > 1%. Por deterioro clínico, malcontrol sintomático y aumento progresivo de dosis de corticoides finalmente se decide tratamiento fuera del ensayo clínico esquema CDDP-PEMETRED empezando el primer ciclo en octubre 2016.
+
+Evolución
+El paciente recibió 4 ciclos de tratamento con mala tolerancia, muchos efectos secundarios, multiples ingresos por crisis de insuficiencia suprarenal con necesidad de pautas de estrés de corticoides. Anemia G3 y dolor abdominal malcontrolado que precisa tratamiento con 175 Mcg de fentanilo parche cada 72 horas. Se realizó TC después de 4 ciclos que informa de enfermedad estable.
+Ante toxicidad del tratamiento y progresión de enfermedad clínica, se suspende cisplatino, se mantiene Pemetrexed y se solicita Nivolumab como segunda linea, iniciando el primer ciclo en marzo 2017. Desde el inicio de la inmunoterapia presenta buena tolerancia al tratamiento con mejoría de la astenia y del dolor abdominal con reducción de las necesidades de mórficos hasta su suspensión. En evaluaciones posteriores con TC se aprecia respuesta parcial. Con la mejoría clínica y radiológica, se decide suspender el tratamiento con fludrocortisona en octubre 2017 con buena tolerancia. El paciente actualmente continua con tratamiento, recibió 32 ciclos de nivolumab en total hasta junio 2018.

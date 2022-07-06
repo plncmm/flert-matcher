@@ -1,0 +1,19 @@
+Varón de 68 años, dislipémico y EPOC no gradado que ingresa por disnea de pequeños esfuerzos de un mes de evolución, fiebre y síndrome constitucional. Inició tratamiento previamente con amoxicilina/clavulánico y levofloxacino.
+En Urgencias:
+- Analítica: inversión de fórmula leucocitaria (leucocitos totales 5490μl, linfocitos 54"4%, neutrófilos 30"4) sin formas inmaduras en frotis. Elevación de reactantes de fase aguda (fibrinógeno 769mg/dl y PCR 18"8mg/dl). Resto sin alteraciones.
+- Gasometría arterial basal: ph 7"51,pCO 29,pO 60, HCO 23
+- Radiografía de tórax: no infiltrados, zonas de hiperinsuflación.
+Ingresa en planta como Infección respiratoria y síndrome constitucional a estudio, iniciándose tratamiento empírico (Levofloxacino y Amikacina). Se amplían pruebas:
+- TC Body: engrosamientos pulmonares intersticiales parenquimatosos difusos, de forma parcheada y bilateral, sin consolidaciones ni derrame pleural. No adenopatías ni datos de hipertensión pulmonar. Resto sin alteraciones.
+- Esputos, cultivo de micobacterias y hemocultivos negativos
+Analítica completa, apreciando VIH+, con poblaciones linfocitarias de 54CD4 (5%) y carga viral 5"4log. (179000copias). En anamnesis dirigida, probable contagio sexual hace dos años. Niega transfusiones, consumo de drogas intravenosas o tatuajes.
+Se cambia antibioterapia a septrim para cobertura de P.jirovecci en espera de resultados. Se inicia TAR con Stribild (elvitegravir/cobicistat/emtricitabina/tenofovir).
+Solicitamos broncoscopia: PCR y cultivos negativos para P.jirovecci; obteniéndose DNA de citomegalovirus a títulos muy elevados, por lo que se asume neumonitis por CMV y se inicia tratamiento con Ganciclovir. Presenta alteraciones visuales, valorado por Oftalmología, no evidenciando patología en fondo de ojo.
+Tras dos semanas con Ganciclovir intravenoso, carga viral de CMV indetectable y mejoría clínico-radiológica; cambiando a vía oral. Al finalizar el ciclo antibiótico, presenta pico de 39oC en relación a bacteriemia asociada a vía central, con crecimiento en HCx4 de S.hominis. Se descarta endocarditis y se inicia antibioterapia dirigida, con hemocultivos de control negativos.
+En controles analíticos: pancitopenia, en probable relación con toxicidad medular por Septrim y Ganciclovir. Tras 4 semanas de tratamiento: linfocitos totales 1700, CD4 119cel/l, CV indetectable. Al alta: Leucopenia 1410,linfocitosis 60"4% y hemoglobina 10"6 mg/dl.
+
+ Diagnóstico
+· Neumonía bilateral por citomegalovirus.
+· Insuficiencia respiratoria aguda secundaria.
+· Infección por VIH estadio C3.
+· Toxicidad medular en relación al uso de fármacos (Septrim y Ganciclovir). · Bacteriemia asociada a vía central por S.hominis.

@@ -1,0 +1,22 @@
+Antecedents personals
+Pacient home de 63 anys, amb diabetis mellitus tipus 2 i epilèpsia parcial sensitiva en 2006 en tractament amb lamotrigina. Missioner al Perú durant diversos anys fins a un any previ al seu ingrés. Va ingressar al gener de 2008 en Neurologia per inestabilitat, realitzant-se una ressonància magnètica cranial en la qual es va observar una hidrocefàlia triventricular per obstrucció del acueduto de Silvio, i col·locant-se una vàlvula de derivació peritoneal. En l'examen del líquid cefalorraquidi, va aparèixer un exsudat inflamatori limfocitari (90 leucòcits amb 80% de mononuclears i 54 g/dl de glucosa).
+
+Malaltia actual
+El pacient acudeix de nou al setembre de 2008 per persistència de la clínica. Presentava inestabilitat i atàxia de la marxa, juntament amb nàusees, vòmits i disminució de força en membres inferiors d'un mes d'evolució, així com febre de fins a 38oC des de la setmana prèvia. No referia una altra simptomatologia a destacar.
+
+Exploració física
+A l'exploració general no existien troballes patològiques. En l'exploració neurològica destacava l'existència de diplopía bilateral i disminució generalitzada de la força en membres inferiors. No existien signes meningis ni dismetría.
+
+Exploracions complementàries
+Tant l'hemograma com la coagulació i els paràmetres bioquímics determinats en sang estaven dins de la normalitat. Quant a la bioquímica del líquid cefalorraquidi, extreta mitjançant punció lumbar, es van detectar 20 leucòcits/μL (40% polimorfonucleares, 60% mononuclears), 48 g/dl de glucosa i 106 mg/dl de proteïnes. Una nova ressonància magnètica va determinar l'existència d'un augment de tot el sistema ventricular i exsudació transependimaria del líquid. Després de l'administració de contrast se suggeria la possibilitat diagnòstica de ependimitis. En l'ingrés anterior es van realitzar cultiu per a bacteris i micobacterias del líquid cefalorraquidi, amb PCR per a micobacterias, cultiu per a fongs i detecció de paràsits en fresc i serologia de Trypanosoma cruzi. Tots aquests exàmens van ser negatius. Es van completar serologies en sang per a Blastomyces dermatitidis, Coccidioides immitis i Histoplasma capsulatum, que van ser negatives, i per a Paracoccidioides brasilensis, que va resultar positiva. La PCR per a Paracoccidioides brasilensis en líquid cefalorraquidi va ser negativa. Es va realitzar una serologia enfront de VIH, que va ser negativa.
+
+Prova diagnòstica
+PCR per a Histoplasma capsulatum en líquid cefalorraquidi: positiva.
+
+Judici clínic
+Meningitis crònica per Histoplasma capsulatum.
+
+Evolució
+Abans de tenir els resultats microbiològics, i davant la possibilitat d'infecció associada a la vàlvula de derivació ventricle-peritoneal, es va iniciar tractament empíric amb vancomicina i meropenem, sense objectivar-se remissió de la febre ni millora clínica, per la qual cosa es van afegir de manera empírica tuberculostáticos i corticoides, a l'ésser la tuberculosi una de les etiologies més freqüents de meningitis limfocitària crònica en el nostre mitjà.
+Després de la positivitat de les proves microbiològiques per a Histoplasma capsulatum es va iniciar tractament amb anfotericina B liposomal (300 mg al dia) durant quatre setmanes, observant-se una millora ostensible del quadre, amb desaparició de la febre i de les alteracions neurològiques. Durant el tractament va presentar neurotoxicidad lleu, que es va resoldre en finalitzar-lo. Després de la suspensió de anfotericina es va iniciar itraconazol per via oral, durant onze mesos.
+Durant aquest període es van realitzar diverses puncions lumbars de control, amb millora progressiva de tots els paràmetres. Després de sis mesos amb itraconazol presentava cinc leucòcits (95% mononuclears), 88 g/dl de proteïnes i una glucosa de 54,6 g/dl. Així mateix es va determinar una PCR de Histoplasma que va resultar negativa. Es va realitzar una TAC de control al juliol de 2009, en la qual es va observar hidrocefàlia activa, per la qual cosa va requerir recanvi valvular. Després de la finalització del tractament amb itraconazol al gener de 2010, el pacient roman asimptomàtic i sense dades de recidiva.

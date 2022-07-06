@@ -1,0 +1,21 @@
+Varón de 43 años colecistectomizado y exbebedor desde hacía casi dos años, que ingresó por dolor abdominal de predominio en epigastrio que se irradiaba a mesogastrio acompañado en ocasiones de náuseas sin vómitos y pérdida de unos 4 kilogramos de peso sin hiporexia de 6 meses de evolución.
+En la analítica destacaba hipertransaminasemia leve (GOT 57 UI/l, GPT 74 UI/l) con colestasis (GGT 123 UI/l, fosfatasa alcalina 154 UI/l, bilirrubina total 2.7 mg/dl, bilirrubina directa 1 mg/dl) e hipergammaglobulinemia policlonal. El metabolismo férrico, las hormonas tiroideas, las subpoblaciones linfocitarias y la serología para el virus de la inmunodeficiencia adquirida, la hepatitis B y C fueron normales, al igual que la autoinmunidad (anticuerpos antinucleares, antimitocondriales, anti-LKM1, antitransglutaminasa tisular IgA), salvo leve positividad del anticuerpo antimúsculo liso (1/20). Se realizó radiografía de tórax con aumento hiliar bilateral, ecografía abdominal sin hallazgos y tomografía computarizada (TC) que evidenció ligera hepatomegalia con densidad heterogénea sin lesiones focales y esplenomegalia con pequeñas lesiones nodulares milimétricas.
+Numerosas adenopatías alrededor del ligamento gastrohepático, peripancreáticas y ligamento gastroesplénico.
+Estos hallazgos eran sugestivos de proceso linfoproliferativo. También se objetivó ausencia de distensión de un tramo de delgado con engrosamiento mural y realce al contraste con la entero-resonancia, sugestivo de posible infiltración tumoral. Se completó el estudio con endoscopia digestiva alta y colonoscopia que fueron normales y TAC de tórax que evidenció patrón centrolobulillar bilateral y de predominio en tercio superior y medio de ambos campos pulmonares junto con pequeñas adenopatías axilares, mediastínicas e hiliares bilaterales subcentimétricas con calcificaciones periféricas. La beta2 microglobulina estaba elevada (3456ng/ml), al igual que la enzima convertidora de angiotensina (ECA) en 163 UI/l.
+
+DIAGNÓSTICO DIFERENCIAL
+El diagnóstico diferencial de las adenopatías incluye enfermedades infecciosas virales como las hepatitis, citomegalovirus o el virus de la inmunodeficiencia adquirida. Las infecciones bacterianas que pueden cursar con adenopatías incluyen la sífilis, la tularemia o la tuberculosis. Las neoplasias hematológicas como los linfomas y las neoplasias no hematológicas como las metástasis también presentan adenopatías, al igual que las enfermedades autoinmunes como el síndrome de Sjögren, la sarcoidosis y las enfermedades autoinflamatorias como la fiebre mediterránea familiar.
+
+PRUEBAS DIAGNÓSTICAS
+Se realizaron varias pruebas diagnósticas para filiar principalmente las adenopatías torácicas y abdominales, ya que la elevación de la beta2microglobulinas y las pruebas de imagen anteriormente descritas eran muy sugestivas de un síndrome linfoproliferativo.
+— Test de IGRA: positivo.
+— Biopsia hepática y ganglionar por laparoscopia: hepatitis y linfangitis granulomatosa no necrotizante compatible con sarcoidosis.
+— Fibrobroncoscopia pulmonar con biopsia trasbronquial: compatible con sarcoidosis.
+— Lavado bronquioalveolar con cociente linfocitos CD4/CD8 elevado, en 5,1,
+
+DIAGNÓSTICO DEFINITIVO
+— Sarcoidosis pulmonar, ganglionar y hepatoesplénica.
+— IGRA (+) con tuberculosis latente.
+
+TRATAMIENTO Y EVOLUCIÓN
+Se inició prednisona oral a una dosis 60 mg/día con reducción progresiva, junto con profilaxis con isoniazida para la infección tuberculosa latente. Se revisó en nuestras consultas al mes del alta, presentando aumento de transaminasas (GOT 56 UI/l, GPT 135 UI/l, GGT 288 UI/l, fosfatasa alcalina 130 UI/l), por lo que cambiamos isoniacida por rifampicina durante 4 meses, persistiendo hipertransaminasemia por los que añadimos azatioprina 50 mg/día y ácido ursodesoxicólico 300 mg/12horas), con mejoría clínica y analítica progresiva con normalización de las transaminasas, bilirrubina, ECA e inmunoglobulinas séricas y desaparición de las adenopatías mesentéricas y retroperitoneales con disminución del tamaño de la esplenomegalia en el TC de control.

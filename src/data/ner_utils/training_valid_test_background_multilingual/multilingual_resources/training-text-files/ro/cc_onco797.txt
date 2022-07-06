@@ -1,0 +1,32 @@
+Anamneză
+Prezentăm cazul unui pacient în vârstă de 60 de ani, fără alergii medicamentoase cunoscute, al cărui istoric personal cel mai important a fost o internare în serviciul de pneumologie pentru empiem pleural stâng și insuficiență cardiacă. Ca obiceiuri toxice, pacientul era un fost fumător (IPA = 80 până acum 12 ani), exenolist până acum 12 ani. A fost muncitor în minerit.
+Studiul a început atunci când a venit la urgențe pentru dureri în coasta dreaptă și o masă pulmonară descoperită la radiografie. Studiul a fost completat cu o tomografie computerizată (CT) care a arătat o masă de 60 x 53 x 80 mm care infiltra bronhia segmentului posterior al lobului superior drept (LSD) și invada fisura minoră și se extindea până la segmentul șase al lobului inferior drept (LID), contactând pleura posterosuperioară dreaptă. De asemenea, a existat un ganglion limfatic extrapleural de 9 mm și un nodul satelit spiculat în segmentul apical al LSD de 10 x 6 mm și doi noduli în segmentul 6 al LID de 10 mm și 8 mm. În plus, existau limfadenopatii la originea trunchiului brahiocefalic drept, lanțul paratraheal superior drept, fereastra subcarinală și aortopulmonară suspectă de metastaze, revărsat pericardic și revărsat pleural drept localizat.
+
+Examinarea fizică
+Stare generală relativ bună, dar limitată din punct de vedere funcțional de dureri lombare severe (scara vizuală analogică [VAS] 8-9), cu scăderea forței la ambele membre inferioare (4/5) și cu mari dificultăți în a sta în picioare, fără afectarea reflexelor sau a sensibilității.
+
+Teste complementare
+Studiul a fost completat cu o scanare PET-CT care a arătat o masă hipermetabolică de 7,8 x 7,7 cm (valoare standardizată de absorbție [SUV] 9,6) în segmentul superior al LID. Adenopatii bronhopulmonare drepte (SUV 4,3 și 3,8), și multiple preluări osoase patologice la nivelul arcului costal 4 posterior drept, 5 anterior stâng, 7 drept la nivelul unghiului, corpul vertebral L3, lama iliacă stângă, articulația sacroiliacă stângă și ramura ileopubiană stângă.
+A fost efectuată fibrobronhoscopia și a arătat o compresie extrinsecă a bronhiei segmentului apical al LSD. Patologia anatomică (PA) a fost negativă pentru malignitate. Prin urmare, pentru a completa studiul, s-a efectuat EBUS pe adenopatiile din stațiile 2R (dreapta), 4L (stânga) și 7, care au fost pozitive pentru adenocarcinom slab diferențiat (2R și 7).
+
+Diagnostic
+Cazul a fost prezentat comitetului multidisciplinar și a fost trimis la clinica noastră cu diagnosticul: adenocarcinom pulmonar T4N2M1b (os).
+
+Tratament
+S-a decis internarea pacientului la Oncologie pentru analgezie și începerea tratamentului. Având în vedere simptomele de impotență funcțională, a fost solicitată o imagistică prin rezonanță magnetică (IRM), care a arătat o diseminare vertebrală metastatică cu fracturi ale majorității corpurilor vertebrale din cauza compresiei, precum și o fractură craniocaudală a corpului vertebral L3 cu deplasare a peretelui posterior care a determinat compresia cauda equina.
+A început tratamentul cu schema de chimioterapie carboplatin aria sub curbă (5-AUC), doza totală 700 mg și paclitaxel 175 mg/m2 (287 mg), cu premedicație uzuală constând în: granisetron 1 mg, dexametazonă 12 mg, dexclorfeniramină 5 mg, ranitidină 50 mg, iar ulterior antiemesis: dexametazonă, granisetron, metoclopramid, care a trecut fără incidente. La externare, pacientul a prezentat o escoriație sacrală minimă care a fost atribuită repausului la pat.
+
+Evoluție
+S-a prezentat la serviciul de urgență la o săptămână după administrarea chimioterapiei din cauza febrei și a apariției unor leziuni veziculoase pe fese, sacru și antebraț stâng.
+Examinarea fizică
+Stabil din punct de vedere hemodinamic: Tensiunea arterială 111/60 mm Hg, frecvența cardiacă 86 bpm, 36,3 oC, 88% saturație de oxigen.
+Leziuni erozive secundare la vezicule pe coapsa laterală stângă, antebrațul stâng, piciorul stâng și fesa/sacru. Leziunile s-au prezentat cu ruptură spontană și drenaj de conținut seros.
+Analizele la internare au arătat doar un nivel de sodiu de 126 și o leucocitoză ușoară cu deplasare spre stânga (leucocite 11.700, neutrofile 11.500), anemie de gradul 1 (hemoglobină 11,7) și o activitate protrombină de 74 %.
+Cu suspiciune de necroliză epidermică toxică (TEN)/Sindromul Stevens-Johnson (SJS) cu suspiciune de toxicitate medicamentoasă, a fost internat la Oncologie pentru studiu și tratament.
+În timpul internării în secție, a fost evaluat de către chirurgie plastică și dermatologie, au fost prelevate culturi și biopsii cutanate care au fost pozitive pentru Pseudomonas aeruginosa și Staphylococcus aureus.
+Patologie anatomică
+"Fragment de piele cu necroză dermoepidermică, ulcerație a întregului epiderm.
+"Dermatită neutrofilică perivasculară și interstițială discretă, superficială (predominant) și profundă, cu ulcerații ale epidermei și extravazări hematice.
+La suspiciunea de necroliză epidermică toxică secundară chimioterapiei sau a medicamentelor antiinflamatoare nesteroidiene (AINS), acestea din urmă au fost întrerupte fără ameliorare la pacient.
+Subiectul a prezentat o agravare progresivă cu leucocitoză și trombopenie, iar în cele din urmă pacientul a necesitat sedare paliativă din cauza controlului slab al durerii, decedând la numai două săptămâni de la începerea tratamentului chimioterapic.
+

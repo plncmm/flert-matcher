@@ -1,0 +1,22 @@
+Antecedentes personales
+Paciente varón de 63 años, con diabetes mellitus tipo 2 y epilepsia parcial sensitiva en 2006 en tratamiento con lamotrigina. Misionero en Perú durante varios años hasta un año previo a su ingreso. Ingresó en enero de 2008 en Neurología por inestabilidad, realizándose una resonancia magnética craneal en la que se observó una hidrocefalia triventricular por obstrucción del acueduto de Silvio, y colocándose una válvula de derivación peritoneal. En el examen del líquido cefalorraquídeo, apareció un exudado inflamatorio linfocitario (90 leucocitos con 80% de mononucleares y 54 g/dL de glucosa).
+
+Enfermedad actual
+El paciente acude de nuevo en septiembre de 2008 por persistencia de la clínica. Presentaba inestabilidad y ataxia de la marcha, junto con náuseas, vómitos y disminución de fuerza en miembros inferiores de un mes de evolución, así como fiebre de hasta 38oC desde la semana previa. No refería otra sintomatología a destacar.
+
+Exploración física
+A la exploración general no existían hallazgos patológicos. En la exploración neurológica destacaba la existencia de diplopía bilateral y disminución generalizada de la fuerza en miembros inferiores. No existían signos meníngeos ni dismetría.
+
+Exploraciones complementarias
+Tanto el hemograma como la coagulación y los parámetros bioquímicos determinados en sangre estaban dentro de la normalidad. En cuanto a la bioquímica del líquido cefalorraquídeo, extraída mediante punción lumbar, se detectaron 20 leucocitos/μL (40% polimorfonucleares, 60% mononucleares), 48 g/dL de glucosa y 106 mg/dL de proteínas. Una nueva resonancia magnética determinó la existencia de un aumento de todo el sistema ventricular y exudación transependimaria del líquido. Tras la administración de contraste se sugería la posibilidad diagnóstica de ependimitis. En el ingreso anterior se realizaron cultivo para bacterias y micobacterias del líquido cefalorraquídeo, con PCR para micobacterias, cultivo para hongos y detección de parásitos en fresco y serologia de Trypanosoma cruzi. Todos estos exámenes fueron negativos. Se completaron serologías en sangre para Blastomyces dermatitidis, Coccidioides immitis e Histoplasma capsulatum, que fueron negativas, y para Paracoccidioides brasilensis, que resultó positiva. La PCR para Paracoccidioides brasilensis en líquido cefalorraquídeo fue negativa. Se realizó una serología frente a VIH, que fue negativa.
+
+Prueba diagnóstica
+PCR para Histoplasma capsulatum en líquido cefalorraquídeo: positiva.
+
+Juicio clínico
+Meningitis crónica por Histoplasma capsulatum.
+
+Evolución
+Antes de tener los resultados microbiológicos, y ante la posibilidad de infección asociada a la válvula de derivación ventrículo-peritoneal, se inició tratamiento empírico con vancomicina y meropenem, sin objetivarse remisión de la fiebre ni mejoría clínica, por lo que se añadieron de forma empírica tuberculostáticos y corticoides, al ser la tuberculosis una de las etiologías más frecuentes de meningitis linfocitaria crónica en nuestro medio.
+Tras la positividad de las pruebas microbiológicas para Histoplasma capsulatum se inició tratamiento con anfotericina B liposomal (300 mg al día) durante cuatro semanas, observándose una mejoría ostensible del cuadro, con desaparición de la fiebre y de las alteraciones neurológicas. Durante el tratamiento presentó neurotoxicidad leve, que se resolvió al finalizarlo. Tras la suspensión de anfotericina se inició itraconazol por via oral, durante once meses.
+Durante este periodo se realizaron varias punciones lumbares de control, con mejoría progresiva de todos los parámetros. Tras seis meses con itraconazol presentaba cinco leucocitos (95% mononucleares), 88 g/dL de proteínas y una glucosa de 54,6 g/dL. Así mismo se determinó una PCR de Histoplasma que resultó negativa. Se realizó una TAC de control en julio de 2009, en la que se observó hidrocefalia activa, por lo que precisó recambio valvular. Tras la finalización del tratamiento con itraconazol en enero de 2010, el paciente permanece asintomático y sin datos de recidiva.

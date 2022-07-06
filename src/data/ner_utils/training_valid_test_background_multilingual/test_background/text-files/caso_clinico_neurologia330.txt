@@ -1,0 +1,25 @@
+Anamnesis
+Varón de 53 años, fumador de 15 cigarrillos/ día sin otros factores de riesgo vascular. Diagnosticado en julio de 2011 de adenopatías supraclaviculares y mediastínicas, con biopsia positiva para adenocarcinoma pobremente diferenciado, con sospecha de neoplasia pulmonar de células grandes como tumor primario, en tratamiento con quimioterapia. Rankin previo: 0.
+
+Paciente que presenta de forma brusca dificultad para la emisión del lenguaje, con posterior aparición de nuevas focalidades neurológicas (pérdida de fuerza de la extremidad superior derecha y déficit campimétrico) y mejoría del déficit previo. Acude a Urgencias apenas media hora después, momento en que es activado el Código ictus intrahospitalario y es valorado por el neurólogo de guardia.
+
+Exploración física
+Sin alteraciones en la exploración general. En la exploración neurológica se objetiva cuadrantapnosia inferior derecha (1), ligera paresia facial (1), disartria moderada (2), lenguaje poco fluente (1) y ligera claudicación de la extremidad superior derecha (NIHSS: 5).
+
+Pruebas complementarias
+• Estudio analítico sistémico y coagulación sin alteraciones.
+• Electrocardiograma: ritmo sinusal.
+• Radiografía de tórax: sin alteraciones radiológicas.
+• Tomografía computarizada (TC) cerebral urgente: sin alteraciones. ASPECTS 10.
+• Resonancia magnética (RM) cerebral: diversos focos de infarto subagudo que se distribuyen en el hemisferio izquierdo en el territorio de vascularización limítrofe de la ACM izquierda, hay una zona más extensa de isquemia en su vertiente temporooccipital posterior.
+• Ecocardiograma transtorácico: sin alteraciones.
+• Ecocardiograma transesofágico: masa mediastínica en relación con las estructuras vasculares derechas.
+• Eco-doppler de troncos supraaórticos (TSA) urgente: en la carótida común izquierda se visualiza una imagen isodensa, móvil, que ocupa la mayor parte de la luz arterial probablemente compatible con un trombo fresco. Produce una estenosis de en torno al 70% en la arteria carótida común. Flujo distal conservado, de características similares al contralateral. Arterias vertebrales permeables. Trombo en la arteria carótida común izquierda. Estenosis del 70%.
+• Eco-doppler TC: no se visualizan oclusión ni estenosis intracraneales. Arterias del polígono deWillis permeables y simétricas.
+
+Diagnóstico
+• Infarto cerebral agudo multifragmentado en el territorio de la arteria cerebral media izquierda de mecanismo embólico desde trombo móvil intracarotídeo en el contexto de probable síndrome paraneoplásico asociado a tumor de célula grande de pulmón.
+• Trombo móvil en la arteria carótida común izquierda. Trombectomía de la carótida común izquierda y angioplastia.
+
+Tratamiento y evolución
+Tras la realización de una TC cerebral simple (ASPECTS 10) se ingresa en la Unidad de ictus y se considera candidato a trombólisis sistémica según criterios SISTMOST. Tras la firma del consentimiento informado se inicia el bolo de rtPA endovenoso (tiempo inicio-aguja 100 minutos). En el estudio neurosonológico se visualiza un trombo móvil en la arteria carótida común izquierda, que ocasiona estenosis en torno al 70%, con flujo distal conservado. A las 12 horas de finalizar el tratamiento trombolítico, debido a la presencia del trombo móvil con alto riesgo de reembolización cerebral y en ausencia de oclusión de gran arteria cerebral por doppler transcraneal, se inicia tratamiento anticoagulante con heparina sódica. A las 24 horas el paciente se encuentra estable hemodinámica y neurológicamente, sin cambios en el eco-doppler TSA de control, se inicia doble antiagregación y a las 48 horas del inicio se realiza trombectomía de carótida común izquierda y posterior angioplastia, sin presentar complicaciones intra ni postoperatorias. En la RM cerebral realizada previamente a la trombectomía, se confirma la existencia de diversos focos de isquemia en el territorio de laACM izquierda que apoyarían el mecanismo embólico. En el ecocardiograma transtorácico realizado no se evidencian alteraciones significativas y en el ecocardiograma transesofágico se objetiva una masa mediastínica en relación con las estructuras vasculares derechas. Ante la alta sospecha de participación de un estado protrombótico paraneoplásico que puede asociarse a las neoplasias de célula grande de pulmón, se inicia tratamiento con heparina de bajo peso molecular. En el momento del alta, el paciente se encuentra con una leve afasia de predominio motor (NIHSS: 1).

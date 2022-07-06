@@ -1,0 +1,35 @@
+Anamnesis
+Varón de 43 años, hipertenso, diabético tipo 2 insulinodependiente, dislipemia e hipotiroidismo, intervenido por obesidad mórbida un año antes mediante bypass gástrico. Como complicación tras la cirugía presentó dehiscencia de suturas, debiendo ser reintervenido de forma urgente, quedando colección periesplénica que fue tratada con piperacilia-tazobactam. En tratamiento con insulina, ibersartán, proteinsuccinilato de hierro y levotiroxina sódica 25 mg.
+Presenta cuadro de 2 días de evolución de cefalea holocraneal opresiva, con escasa respuesta a la analgesia simple, y fiebre termometrada de 38 oC. No otros signos de alarma relacionados con la cefalea. No alteración del comportamiento. No síntomas sugestivos de crisis comiciales. No náuseas ni vómitos. No dolor abdominal. No refiere otra clínica asociada.
+
+Examen físico
+Exploración física general: tensión arterial 136/70 mmHg; frecuencia respiratoria 18 rpm; frecuencia cardiaca 110 lpm; temperatura 37,7 oC, BMT 389. Mucosas secas, anictéricas. Leve irritación faríngea. No adenopatías. Piel normocoloreada, no rash ni petequias. Auscultación cardiopulmonar: rítmico, sin soplos. MVC, sin ruidos patológicos añadidos. Abdomen: cicatrices de bypass gástrico, peristaltismo presente. Abdomen blando, sin visceromegalias o masas palpables, no doloroso, sin signos de irritación peritoneal. Abundante panículo adiposo. Miembros inferiores sin edemas, sin signos de trombosis venosa.
+Exploración neurológica: consciente y orientado en las tres esferas. Lenguaje normal en emisión y comprensión, sin disartria. Motilidad ocular extrínseca e intrínseca conservadas. No alteración campimétrica por confrontación. No asimetría facial. Resto de pares craneales normales. Fuerza y sensibilidad conservadas. No dismetrías. Marcha normal. Rigidez de nuca moderada. Kernig y Brudzinski negativos.
+
+
+Pruebas complementarias
+Laboratorio y microbiología:
+• Analítica de sangre: destaca leucocitosis de 20.000 con 91% de neutrófilos, hiperglucemia de 359 mg/dl, fibrinógeno 633 mg/dl, ferritina 433 ng/dl y proteína C reactiva 11,6 mg/ dl. Resto sin alteraciones.
+• Análisis LCR: 4.000 leucocitos 90% neutrófilos, >300 g/l proteínas, 68 glucosa. ADA 15,8.
+• Microbiología. Serologías en sangre: Ac. EBV: IgG-VCA y EBNA (EIA) positiva. Resto de serologías negativas. Matoux e interferón gamma de M. tuberculosis: negativo. Hemocultivos: negativos. Antígeno S. pneumoniae en orina: negativo.
+• Líquido cefalorraquídeo:
+- Bacterias: En medio de enriquecimiento crece un coco bacilo grampositivo: Dermacoccus nishinomiyaensis.
+- Virus: Herpesvirus humano 7 por microarray positivo. Resto de virus neurotropos negativos.
+- Micobacterias y hongos: negativo.
+
+Pruebas de imagen:
+• TC cerebral urgente: sin alteraciones relevantes.
+• RM cerebral: lesión nodular milimétrica (7 mm) en el cuerpo del núcleo caudado izquierdo, con realce en anillo y brillo central en secuencia de difusión, sugestiva de pequeño absceso subependimario. Ocupación de astas occipitales de los ventrículos laterales por material brillante en secuencias de difusión compatible con detritus o pus. Secuencia T1 con contraste en la que se observa imagen sugestiva de un pequeño absceso cerebral.
+• RM cerebral de control: buena evolución de absceso, quedando en el momento actual una imagen puntiforme de susceptibilidad magnética. Sin signos de meningitis.
+• Radiografía de tórax: sin hallazgos patológicos.
+• TC abdominal: en la región subfrénica izquierda se identifica una colección de 5 x 2,5 cm, de paredes bien definidas, ligeramente hiperdensas, que parece extenderse a través del diafragma hacia la base pulmonar izquierda. Estos hallazgos serían compatibles con un absceso. Tomografía computarizada abdominal en la que se objetiva una colección subfrénica.
+• Ecocardiograma: sin alteraciones estructurales ni signos de endocarditis. No signos de comunicación derecha-izquierda.
+
+Diagnóstico
+Meningitis bacteriana secundaria a rotura de absceso cerebral subependimario de origen incierto. Absceso subfrénico secundario a cirugía bariátrica.
+
+Tratamiento
+Ante la sospecha de infección del SNC con TC urgente normal se inicia tratamiento empírico para cubrir meningitis bacteriana con cefalosporina de tercera generación (cefotaxima 3 g/6 h i.v. los primeros 15 días, ceftriaxona 2 g/24 h i.v. después), ampicilina 3 g/6h i.v. y tuberculostáticos. Cuando la RM revela la presencia de un absceso cerebral subependimario, se añade al tratamiento metronidazol 500 mg cada 8 horas. Se retiran los tuberculostáticos con los resultados de LCR negativos para micobacterias. Se mantiene tratamiento antibiótico durante 25 días.
+
+Evolución
+Transcurridas 24 horas desde el inicio de la antibioterapia, el paciente comienza a mejorar clínicamente, con normalización en los siguientes días de la leucocitosis y de los reactantes de fase aguda. En la RM realizada 15 días después el absceso prácticamente ha desaparecido. El paciente experimenta buena evolución, sin complicaciones a largo plazo.

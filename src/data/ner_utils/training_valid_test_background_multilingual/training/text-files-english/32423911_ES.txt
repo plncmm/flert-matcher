@@ -1,0 +1,24 @@
+A 36-year-old man came to the emergency department with a history of severe infection due to SARS-CoV-2 and dry cough, fever and dyspnea for three weeks.
+He reported significant worsening of dyspnea in the previous 4 hours, with left pleural chest pain.
+Her medical history was only relevant for childhood asthma and for being a 10 pack-year smoker.
+She had no history of recent trauma or previous pneumothorax.
+The patient worked as a messenger and had previously performed household cleaning tasks.
+The patient was admitted to a recovery room and the staff wore a complete personal protective equipment.
+On admission, the patient was clearly hypoxemic, with an SpO2 of 88%-90% in a mask with a reservoir at 15 L/min, respiratory rate of 50 breaths/min, and regular breathing muscles of 150 breaths/min.
+His trachea was centrally tapered, with jugular venous pressure 3 cm above the costal angle and arterial pressure 110 mmHg.
+At auscultation, no respiratory sounds were observed throughout the left hemithorax, with reduced vocal vibrations and asymmetric thoracic expansion.
+A portable anteroposterior chest X-ray revealed a large left pneumothorax with mediastinal shift and signs of tension.
+The right lung, compressed, showed signs of severe COVID-19; i.e., patchy generalized consolidation alterations.
+Complete blood count revealed increased white blood cell count (13.64×109/L) with neutrophilia (8.91×109/L), lymphocyte count (3.81×109/L), haemoglobin (146 g/L×109/L), and thrombocytes (108.79/L)
+These results supported the possibility of bacterial infection superimposed on COVID-19.
+A 12-lead ECG revealed sinus tachycardia at 155 l.p.m.
+A lung ultrasound after definitive treatment showed multiple confluent B-lines with bilateral pleural thickening, consistent with the diagnosis of COVID-19.
+A new chest X-ray confirmed pulmonary reexpansion with extensive bilateral consolidation.
+The patient underwent a chest CT the following day, which showed extensive areas of patchy consolidation, consistent with severe infection by COVID-19, with associated bullae.
+After analyzing the outcomes, the patient underwent urgent decompression of his pneumothorax with a cannula of 14 inserted in the second space and midclavicular line.
+After initial fixation, a Seldinger chest tube with a 12F caliber catheter was inserted into the left axilla.
+The treatment led to an immediate improvement in respiratory and cardiovascular activity, with clinical and radiological evidence of pulmonary re-expansion.
+One hour later, the patient's oxygen requirement was reduced from 15 L/min with a mask with a reservoir at 4 L/min through a nasal cannula, with normalization of pulse and respiratory rate.
+The patient was admitted to a COVID-19 plant with complete pulmonary re-expansion and two days later successfully removed from the chest tube.
+The initial smear of COVID-19 yielded negative results; however, after reviewing the evolution and results of diagnostic imaging, the infectious diseases team considered COVID-19 infection very likely to be a negative initial test, and the delay in diagnosis.
+She was discharged two days later and is waiting for outpatient follow-up with the pulmonology team.

@@ -1,0 +1,23 @@
+Anamnesis
+Mujer de 34 años de edad con antecedentes desde la adolescencia de cefalea bitemporal opresiva con una frecuencia prácticamente diaria que se asocia a fotofobia, sin náuseas ni vómitos, aumenta en Valsalva y no la relaciona con ningún desencadenante. Además, presenta cervicalgias crónicas y de distribución radicular. Acude porque desde hace 2 semanas presenta episodios paroxísticos al agacharse o realizar esfuerzos que consisten en pérdida completa de la visión del ojo derecho de segundos de duración y le ocurren diariamente. Además, refiere episodios autolimitados de pérdida de fuerza y sensación de hormigueo en ambas manos, sin poder precisar desde hace cuánto tiempo.
+
+Examen físico
+La exploración general es normal y en la exploración neurológica se evidencia un buen nivel de vigilancia, orientada en tiempo, espacio y persona. Funciones superiores conservadas. Lenguaje fluente, sin disartria. Motilidad ocular extrínseca normal. Pupilas isocóricas y normorreactivas a la luz. Campimetría por confrontación sin alteraciones. Agudeza visual disminuida en el ojo derecho (20/100: 50%), conservada en el ojo izquierdo. No discromatopsia. Pares craneales normales. Balance muscular 5/5 en las cuatro extremidades. Sensibilidad tactoalgésica, térmica y profunda conservadas. Reflejo cutáneo-plantar flexor bilateral. Coordinación y marcha sin alteraciones. Se detecta en fondo de ojo una papila derecha sobreelevada con bordes mal delimitados, compatible con edema de papila unilateral.
+
+Pruebas complementarias
+• Analítica completa sin alteraciones, incluyendo hemograma con normalidad en las tres series, VSG, bioquímica incluyendo PCR, estudio lipídico, tiroideo, autoinmunidad, vitamina B12, ácido fólico y enzima convertidora de angiotensina normales, al igual que serología completa de sífilis, VIH, Borrelia, toxoplasma y grupo de herpes negativa.
+• Se realiza punción lumbar de urgencias tras la realización de una TC craneal sin contraindicaciones, obteniendo una presión de apertura de 24 cm H2O, y obteniendo líquido cefalorraquídeo claro con una citobioquímica y cultivo negativo.
+• TC craneal en urgencias sin hallazgos de interés.
+• RM y angio-RM con/sin contraste de cráneo y columna cérvico-dorso-lumbar que muestra unas amígdalas cerebelosas puntiagudas ligeramente desplazadas hacia abajo a través del agujero magno, compatible con una malformación de Chiari I. No se asocian otras alteraciones en vermis, cuarto ventrículo ni bulbo, con un sistema ventricular normal. No se identifican lesiones ocupantes de espacio, focos de hemorragia, isquemia ni de desmielinización. A nivel cervical se observa una extensa cavidad de hidrosiringomielia que ocupa la práctica totalidad del cordón medular, extendiéndose desde C1 hasta D10, sin identificar imagen de lesión tumoral distal que justifique su aparición. El cono medular normal se identifica a nivel de L1. Resonancia magnética cráneo-cervical sagital T1: muestra descenso de las amígdalas cerebelosas compatible con malformación de Chiari tipo I y extensa siringomielia cérvico-dorsal (C1 a D10).
+• Eco-Doppler de troncos supraaórticos y transcraneal normal.
+• Potenciales evocados visuales y multimodales: normalidad de ambas vías visuales para las fibras de visión central. Normalidad de la vía somestésica de ambos miembros superiores y miembro inferior izquierdo. Discreta afectación de la vía somestésica del miembro inferior derecho.
+• Tomografía de coherencia óptica (OCT) que confirma edema de papila unilateral en el ojo derecho. Tomografía de coherencia óptica (OCT) del ojo derecho. Importante edema de papila, apreciable por la gran elevación en la imagen en 3D. Los datos de espesor de capa de fibras nerviosas (CFNR) por sectores no son valorables.  
+
+Diagnóstico
+Malformación de la unión cráneo-cervical tipo Chiari tipo I con siringomielia asociado a hipertensión intracraneal benigna. Edema de papila unilateral en el contexto de una hipertensión intracraneal. Cefalea crónica secundaria a malformación cráneo-cervical e hipertensión intracraneal.
+
+Tratamiento
+La paciente ha sido tratada con acetazolamida a dosis intermedias, controlándose así la cefalea, aunque persistían los episodios de disminución de visión unilateral, más espaciados en el tiempo.
+
+Evolución
+Se realiza una segunda OCT al mes y se aprecia mejoría, con menor elevación del papiledema, aunque sigue siendo importante. La paciente es derivada a Neurocirugía para su valoración.

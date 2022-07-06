@@ -1,0 +1,37 @@
+Motivo de consulta
+Dolor abdominal y artralgias generalizadas.
+
+Enfoque individual (anamnesis, exploración, pruebas complementarias)
+Anamnesis: varón de 65 años con los siguientes antecedentes personales:
+No refiere patologías previas. No alergias medicamentosas. No fumador. Ex bebedor de vino. No Factores de riesgo cardiovascular. ntervenciones quir rgicas: sinus pilonidal, apendicectomía.
+
+Paciente de 65 años que acude a consulta de urgencias de Atención Primaria por epigastralgia intensa irradiado en cinturón, que incluso llega a despertarlo por la noche, náuseas y vómitos y sensación disneica de varios días de evolución que no cedía con tratamiento analgésico (ibuprofeno 600mg cada 8h y paracetamol). Además comenta fiebre de predominio vespertino y sudoración profusa de dos meses de evolución con pérdida de peso de unos 12Kg en los últimos meses pero que lo relaciona con la realización de ejercicio físico intenso.
+Niega altercación del hábito intestinal. No clínica miccional. No ictericia muco-cutánea.
+
+Debido a la clínica que presenta el paciente y tras tratamiento sintomático sin mejoría, se decide derivar al servicio de Urgencias hospitalaria para valoración y completar estudio.
+A su llegada el paciente comienza con un cuadro de dolor articular generalizado (hombros, codos, muñecas, tobillos, carpos, IFP de ambas manos, cadera y columna lumbar), pérdida de fuerza en ambos miembros inferiores y superiores y sudoración.
+
+Exploración física: estado general conservado, consciente, orientado, hidratado y prefundido, palidez cutánea.
+Auscultación cardiaca: rítmico sin soplos
+Auscultación pulmonar: Murmullo vesicular conservado sin ruidos sobreañadidos.
+Abdomen: blando, depresible, no doloroso, no se palpan masas ni megalias, no signos de irritación peritoneal.
+MMII: edema con fóvea hasta tercio medio de ambos MMII, doloroso a la palpación, no signos de TVP.
+Rigidez articular generalizado con intenso dolor a la movilización. Exploración neurológica: normal.
+Adenopatías en región cervical, inguinal y axilar izquierda.
+
+Pruebas complementarias
+TA: 121/81 mmHg. FC 63 lpm. SatO2 91% basal.
+ECG en ritmo sinusal a 70 lpm, eje 90o, intervalo PR normal, QRS estrecho, intervalo QTc normal, buena progresión en precordiales. No alteraciones de la repolarización.
+Analítica de urgencias: PCR 403.4mg/L, Hb 9.8 g/dL, leucocitosis con neutrofilia, dímero- D 4248 ng/ml.
+Radiografía de tórax en urgencia: hilios engrosado, con aumento de la trama broncovascular. Angio- TAC de Tórax: no defectos de repleción en las arterias pulmonares. Nódulos bilaterales, a valorar la posibilidad de lesiones inflamatorias/ infecciosa o de origen metastásico.
+
+Enfoque familiar y comunitario
+Varón de 65 a os natural de nglaterra que lleva en viviendo en nuestro país unos 20 meses con gran barrera idiomática, vive en medio rural, pero no refiere contacto con animales. ndependiente para las actividades básicas e instrumentales de la vida diaria. Está divorciado, vive solo, tiene dos hijas que viven en Inglaterra. Nivel socio-cultural medio.
+
+Plan de acción y evolución
+Se decide ingreso a cargo de Medicina Interna para estudio y se inicia tratamiento, se solicita TAC abdomen, tórax y cuello, serología, analítica con perfil reumático y autoinmunidad.
+Se produce un empeoramiento clínico con lesiones isquémicas acrales en ambas manos, lesiones petequiales en cara ventral de ambos miembros inferiores, aparición de ulcera vascular en tobillo izquierdo y edemas severos con fóvea.
+
+Juicio clínico (listado de problemas, diagnóstico diferencial)
+El resultado del TAC confirma los nódulos pulmonares cavitados e imágenes sugestivas de colelitiasis. Se plantea como primera posibilidad diagnostica una vasculitis. El resto de pruebas fueron orientadoras al diagnóstico con el siguiente resultado, analítica con perfil de enfermedad reumática (PCR 341 mg/L, VSG 117 mm/h, FR 36.1UI/mL, ferritina 3344.8 ng/mL, leucocitosis con neutrofilia 82,10% y trombocitosis 965000 ) Marcadores tumorales negativos, serología negativa y Anticuerpos antinucleares positivos con C-ANCA PR3 positivo y P-ANCA MPO negativo.
+Se inició tratamiento de inducción con prednisona 1mg/Kg/día VO 4 semanas, con descenso posterior. Metrotexato 0.3mg/Kg/semanal durante 12 meses y ácido fólico el día posterior. Cotrimoxazol (Trimetoprim- sulfametoxazol 800/160mg) cada 12h días alternos a la semana y tratamiento biológico con ciclofosfamida/ rituximab que rechaza, ya que solicita el traslado a su país.

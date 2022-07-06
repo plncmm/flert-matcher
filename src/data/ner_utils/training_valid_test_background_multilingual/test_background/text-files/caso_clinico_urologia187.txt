@@ -1,0 +1,23 @@
+Anamnesis
+Varón de 23 años de edad, con antecedentes personales de orquiectomía radical izquierda hace 7 meses por un tumor testicular con anatomía patológica de tumor germinal combinado (60% tumor del seno endodérmico, 20% carcinoma embrionario, 20% teratoma). Masa retroperitoneal residual tras tratamiento con quimioterapia, con marcadores tumorales negativos. Exéresis de una masa paraaórtica izquierda laparoscópica hace un mes sin incidencias reseñables (anatomía patológica sin evidencia de malignidad).
+Acude al Servicio de Urgencias por presentar distensión abdominal progresiva de 3 semanas de evolución asociada a dolor abdominal difuso y vómitos en los últimos días. Ortopnea que se ha ido intensificando y que le obliga a dormir con dos almohadas. No fiebre ni otra sintomatología.
+
+Exploración física
+Afebril, abdomen distendido y timpánico, doloroso de forma difusa a la palpación. Ruidos hidroaéreos presentes.
+
+Pruebas complementarias
+● Analítica sanguínea urgente: creatinina 0,8 mg/dl, proteína C reactiva 0,5 mg/dl, leucocitos 6,10 x 1.000/l, hemoglobina 14 g/dl.
+● Tomografía computarizada (TC) abdómino-pélvica urgente: abundante ascitis en todos los espacios. No captación peritoneal ni signos de diseminación peritoneal. Cambios postquirúrgicos en la región retroperitoneal izquierda. Moderada cantidad de derrame pleural bilateral con atelectasia compresiva del parénquima adyacente.
+● Paracentesis diagnóstica: toma de muestra de un líquido de aspecto lechoso para su envío a Microbiología (estéril), citología (negativo para malignidad) y recuento de triglicéridos (1.525 mg/dl).
+
+Diagnóstico
+Ascitis quilosa como complicación tras la realización de una linfadenectomía retroperitoneal laparoscópica.
+
+Tratamiento
+Con el diagnóstico de ascitis quilosa, se colocó de forma percutánea y guiado por TC un catéter de drenaje, evacuando 4.000 cc de líquido ascítico en las primeras 24 horas, con mejoría sintomática del paciente (disminución del perímetro abdominal y desaparición de la ortopnea).
+Se realizó manejo conservador dejando al paciente en dieta absoluta y progresando hasta una dieta con restricción de lípidos las siguientes 3 semanas, manteniéndose el débito del drenaje a cero durante este tiempo.
+Tras la reintroducción de las grasas en la dieta, en la cuarta semana de ingreso comenzó a aumentar el débito del drenaje, permaneciendo a un ritmo en torno a 500 cc diarios, decidiéndose iniciar tratamiento con octreótido 100 μg/8 horas durante 2 semanas y restringir los alimentos con grasas.
+
+Evolución
+Tras cumplir tratamiento con octreotida persistió el débito por drenaje próximo a 150 cc diarios a pesar de las restricciones dietéticas. El paciente precisó ser ingresado por un episodio febril secundario a colonización bacteriana del líquido ascítico (Pseudomonas aeruginosa), con buena resolución del mismo tras cumplir ciclo de antibioterapia de amplio espectro (piperacilina-tazobactam).
+Debido a la persistencia de débito 3 meses después del comienzo del cuadro clínico, se inició nutrición parenteral total durante 2 semanas, con desaparición de la linforrea. Tras confirmar la ausencia de recidiva después de la reintroducción progresiva de la alimentación, se retiró el drenaje, sin nuevo episodio ascítico en controles de imagen posteriores.

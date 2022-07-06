@@ -1,0 +1,30 @@
+Anamnesis
+Varón de 80 años de edad que acude a Urgencias por inestabilidad para la marcha y sensación nauseosa desde hace 2 días, de inicio brusco mientras deambulaba, con un empeoramiento del cuadro en las últimas 24 horas. Presenta, además, cefalea bitemporal opresiva de intensidad moderada desde hace 10 días y astenia de un mes de evolución.
+
+Antecedentes personales: exfumador, dislipemia en tratamiento dietético, hiperplasia benigna de próstata, infecciones del tracto urinario de repetición. Antecedentes familiares: sin interés. Independiente para las actividades básicas de la vida diaria. Escala de Barthel de 100 puntos.
+
+Examen físico
+General: Buen estado general, tensión arterial 162/86 mmHg, frecuencia cardiaca 72 lpm, temperatura 35,7 oC. Normocoloración mucocutánea, perfusión e hidratación normales, eupneico. Induración de ambas arterias temporales, más acusada en el lado derecho; carótidas rítmicas, sin soplos; tonos cardiacos rítmicos, sin soplos; murmullo vesicular conservado sin ruidos sobreañadidos; abdomen globuloso, blando y depresible, sin masas, megalias ni signos de irritación peritoneal; pulsos pedios presentes, sin edemas en las extremidades ni signos de trombosis venosa profunda.
+
+Exploración neurológica: orientado, lenguaje normal, sin apraxias ni agnosias. Pupilas isocóricas y normorreactivas, hemianopsia homónima derecha en la campimetría por confrontación, motilidad ocular extrínseca sin alteraciones, no asimetría facial, resto de nervios craneales sin alteraciones; tono, trofismo y balance muscular conservados, reflejos miotáticos vivos de forma generalizada, reflejo cutáneo-plantar flexor bilateral, Hoffmann negativo bilateral; sensibilidad táctil, algésica y vibratoria conservadas; disdiadococinesia y dismetría en pruebas dedo-nariz y talón-rodilla bilateral, de predominio en los miembros izquierdos; pruebas de Romberg y Barany negativas; marcha inestable, sin clara lateralización, con aumento de la base de sustentación. NIHSS: 4 puntos.
+
+Pruebas complementarias
+• Datos de laboratorio: bioquímica, glucosa 158 mg/dl, urea 61 mg/dl, PCR 20,4 mg/l, colesterol total 229 mg/dl (HDL 57 mg/dl, LDL 151 mg/dl), hemograma 21.900/μl (79,4% neutrófilos, 11,8% linfocitos), plaquetas 376.000/μl, fibrinógeno 638 mg/dl; resto de valores dentro de la normalidad. VSG 17 mm/h. Gasometría venosa sin alteraciones significativas. Estudio sistemático de orina, normal. Sistema hipófiso-tiroideo, sin alteraciones. PSA 21,49 mg/ml, sin alteración del resto de marcadores tumorales. Serologías negativas para lúes, VHC, VHB y VIH.
+• ECG: ritmo sinusal. QRS 0,13. Bloqueo de rama derecha con alteraciones secundarias de la repolarización.
+• Radiografía de tórax: índice cardiotorácico dentro de la normalidad, sin consolidaciones ni derrames.
+• Doppler transcraneal: aceleración de ambas arterias cerebrales medias (ACM), más acusada a nivel de M1 derecha, sin identificarse la arteria cerebral posterior (ACP) izquierda. Importante reducción del flujo en ambas arterias vertebrales (AV), con inversión de flujo en la arteria basilar (AB).
+• Dúplex de troncos supraaórticos (TSA): estudio carotídeo normal. Patrón de onda de choque en ambas AV, compatible con una oclusión distal de las mismas.
+• Eco-Doppler de las arterias temporales: halo hipoecoico en ambas arterias temporales y sus ramas.
+• Ecocardiograma transtorácico: ligera dilatación de la aurícula izquierda, sin otras anomalías significativas.
+• TC cerebral: hipodensidades compatibles con infartos en el territorio de ambas arterias cerebelosas posteroinferiores (PICA) y ACP izquierda.
+• Resonancia magnética (RM) cerebral: lesiones hiperintensas en las secuencias T2 y FLAIR, con leve efecto de masa sobre el parénquima adyacente y con borramiento de surcos, compatibles con infartos en el territorio de ambas PICA y ACP izquierda. Imágenes de la resonancia magnética cerebral en secuencia T2 que muestran signos de infarto cerebral en el territorio de ambas PICA y ACP izquierda.
+• Angio-TC cerebral y de TSA: oclusión del segmento V2 de ambas AV. ACP y AB permeables, con persistencia de arteria comunicante posterior. El sistema carotídeo no mostró alteraciones. Imágenes de la angio-TC de los troncos supraaórticos en las que se observa oclusión de V2 proximal derecha y V2 distal izquierda. Flujo filiforme en la AV izquierda a nivel de C2.
+
+Diagnóstico
+Infarto cerebral en el territorio de ambas PICA y ACP izquierda, de etiología inhabitual. Arteritis de células gigantes.
+
+Tratamiento
+Fue ingresado en la Unidad de Ictus. Tras los hallazgos en la TC cerebral y en el estudio neurosonológico, recibió tratamiento empírico esteroideo (metilprednisolona 1 g/día, 5 días por vía intravenosa) y los cuidados y recomendaciones terapéuticas según vía clínica. Se confirmó posteriormente el diagnóstico. Además de la antiagregación plaquetaria, continuó en tratamiento con prednisona en pauta descendente, asociado a tratamiento profiláctico de osteoporosis y estatinas.
+
+Evolución
+El paciente presentó una mejoría progresiva durante su ingreso, sin complicaciones añadidas, con una puntuación en la ERm de 3 puntos al alta. En las sucesivas revisiones no refirió nueva sintomatología, los reactantes de fase aguda se encontraban en rango normal y el signo del halo se había negativizado, aunque persistía con una puntuación de 2 en la ERm a los 3 meses.

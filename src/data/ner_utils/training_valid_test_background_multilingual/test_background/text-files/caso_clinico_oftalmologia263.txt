@@ -1,0 +1,31 @@
+Anamnesis
+Se trata de una mujer de 37 años con antecedentes personales de leucemia mieloide aguda y aplasia medular. Recientemente había estado ingresada en la Unidad de Cuidados Intensivos (UCI) durante un largo período debido a una sepsis por Serratia.
+
+Motivo de consulta
+Tras despertar del coma inducido, refería disminución de la agudeza visual (AV) bilateral, más acusada en el ojo derecho (OD).
+
+Exploración y pruebas complementarias
+La paciente presentaba mal estado general, estaba algo aturdida y no colaboraba muy bien en la exploración.
+La AV en el OD era de 0,1 difícil y en el ojo izquierdo (OI) de 0,5-0,6. La tensión ocular era de 15 mmHg en ambos ojos. La biomicroscopía del segmento anterior no mostraba hallazgos de interés. Se constató la ausencia de células en cámara anterior de ambos ojos.
+En la exploración del fondo de ojo (FO) del OD se apreciaba una intensa vitritis y una lesión macular sobreelevada blanquecina de 3 áreas papilares, rodeada de un halo hemorrágico. En el FO del OI se observaba la presencia de escasa celularidad vítrea y una lesión macular de similar aspecto a la del OD.
+La tomografía de coherencia óptica (OCT) del OD tenía una señal de mala calidad por opacidad vítrea. La OCT del OI mostraba una lesión sobreelevada con reflectividad media en la retina interna e hiporreflectividad en la retina externa, que interpretamos como un fenómeno de «sombra posterior».
+
+Diagnóstico diferencial y procedimientos
+Ante estos hallazgos, en una paciente con antecedentes de enfermedad grave hematológica, sepsis e ingreso largo en UCI, nos planteamos el siguiente diagnóstico diferencial:
+• Podría tratarse de una recidiva de la leucemia mieloide aguda con afectación macular bilateral e infiltración vítrea.
+• O bien podría haberse producido una hemorragia macular bilateral y hemorragia vítrea (algo hemolizada), asociada a la aplasia medular.
+• Por último, nos planteamos la posibilidad de que se tratara de una endoftalmitis endógena con afectación macular bilateral, posiblemente por Serratia, que fue el agente causal de la sepsis que sufrió, o quizás por Candida, debido al largo período en que había portado un catéter intravenoso, todo ello asociado a su estado de inmunodepresión por aplasia medular.
+
+En ese momento, solicitamos análisis de sangre y resonancia magnética nuclear (RMN) con gadolinio de cerebro y órbitas, y realizamos vitrectomía pars plana (VPP) diagnóstica 23 G del OD.
+
+Consultamos al Servicio de Hematología, que descartó la posibilidad de realizar una biopsia de médula ósea por el mal estado general de la paciente. Sin embargo, llevaron a cabo una punción lumbar.
+
+RESULTADOS
+El cultivo de la muestra vítrea fue negativo para bacterias y hongos. Los análisis anatomopatológico, citológico e inmunohistoquímico fueron negativos para malignidad. Solo pudo detectarse la presencia de hematíes.
+Los resultados del análisis de sangre no aportaron datos de interés. Se detectó la presencia de pancitopenia, dato que ya se conocía. La punción lumbar no apoyó que se tratara de una recidiva de la leucemia mieloide aguda. La RMN de cerebro y órbitas no mostraba hallazgos significativos.
+
+EVOLUCIÓN
+Dados los resultados, decidimos mantener una actitud expectante y observar la evolución, que fue favorable. Después de varias semanas, pudimos apreciar la resolución espontánea bilateral del cuadro. En la OCT del OD, se observa el engrosamiento de la membrana limitante interna desprendida en el área foveal.
+
+JUICIO CLÍNICO
+Consideramos que este es un caso de hemorragia macular bilateral asociada a hemorragia vítrea en paciente crítica con pancitopenia.

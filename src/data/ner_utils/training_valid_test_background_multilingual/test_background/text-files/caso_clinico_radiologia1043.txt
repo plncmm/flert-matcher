@@ -1,0 +1,16 @@
+Paciente de sexo femenino, de 37 años de edad, que presenta un cuadro de parestesias de miembros inferiores con progresión a tronco hasta la región submamaria, sin déficit motor. Es atendida por guardia clínica y se constata en el examen físico una alteración en la sensibilidad termoalgésica con nivel T3-T4. La sensibilidad profunda se encuentra conservada. Los reflejos osteotendinosos son normales. Los síntomas comenzaron 4 días después de haber recibido una aplicación de la vacuna monovalente inactivada para virus influenza A H1N1. Se le realiza una rutina de laboratorio y dosaje de hormonas tiroideas con resultados dentro de los límites normales. Es internada en el servicio de Clínica Médica para continuar estudios.
+Se realiza resonancia magnética de cerebro y columna cervical con gadolinio en un resonador de 1.5T. El estudio de cerebro es normal. En la resonancia de columna cervical se identifica una imagen hiperintensa en T2 y STIR en la médula a nivel C6-C7, de forma ovoidea, la cual es isointensa en T1 y presenta un tenue realce predominantemente periférico luego de la administración de gadolinio endovenoso. En el plano axial, la lesión es centromedular con afectación de las astas posteriores y compromete más de dos tercios de la misma. En la secuencia de Difusión (DWI) no se constatan signos sugerentes de restricción del movimiento de las moléculas de agua, por lo que se descarta el diagnóstico de infarto agudo medular.
+
+Resonancia magnética de columna cervical. En la médula se identifica una imagen ovoidea, de límites netos, localizada a nivel C6-C7, la cual es hiperintensa en las secuencias T2 y STIR.
+
+Secuencias T1 sin y con gadolinio en el plano sagital. La lesión es isointensa en T1 y presenta un escaso realce predominantemente periférico luego de la administración endovenosa de gadolinio.
+
+En el plano axial T2 se identifica que la lesión es centromedular con afectación de las astas posteriores.
+
+En la secuencia de difusión no se observaron signos sugerentes de restricción, siendo la lesión isointensa en DWI y ADC. Se descartó el diagnóstico de infarto medular agudo-subagudo.
+
+Posteriormente, se realiza una punción lumbar con resultados dentro de los límites normales con PCR para herpes simple, herpes zóster y citomegalovirus negativas, PBM y bandas oligoclonales negativas. Serología para HIV: negativa. Además, se evalúa ANAy FR con resultados negativos y potenciales evocados visuales y auditivos con resultados normales.
+Su evolución clínica es favorable, no recibe ningún tratamiento farmacológico y se indica control clínico en forma ambulatoria.
+Un mes más tarde del inicio del cuadro clínico, se realiza una resonancia control de columna cervical con gadolinio. Se constata que la imagen medular es más tenue, siendo levemente hiperintensa en T2 y STIR, y no realza luego de la administración endovenosa de gadolinio.
+
+Resonancia magnética de columna cervical, control un mes más tarde. En las secuencias T2 y STIR se observa una atenuación de la imagen medular siendo casi imperceptible en el T2 y levemente hiperintensa en STIR (círculo). En la secuencia T1 la lesión es levemente hiperintensa y no presenta realce luego de la administración endovenosa de gadolinio.

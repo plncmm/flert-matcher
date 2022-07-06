@@ -1,0 +1,30 @@
+Anamnesis
+Varón de 74 anos sen alergias medicamentosas coñecidas, exfumador de 40 paquetes-ano e consumo de alcohol moderado, con antecedentes de dislipemia, hipertensión arterial, diabetes mellitus tipo 2, EPOC GOLD C e ictus isquémico en abril de 2016 sen secuelas. Diagnosticado en 2012 dun mieloma múltiple Ig G Kappa ISS II, polo que recibiu tratamento cun esquema baseado en lenalidomida, dexametasona e elotuzumab dentro dun ensaio clínico fase 3 conseguindo resposta completa ao cabo de tres meses, mantida en controis. Como secuela do mieloma desenvolve unha insuficiencia renal crónica estadio 3A. Recibe tratamento médico con estatinas, antidiabéticos orais, IECA e broncodilatador.
+
+Historia oncológica non hematológica
+O paciente foi diagnosticado en agosto de 2017 dun adenocarcinoma pulmonar TTF-1 positivo tratado mediante unha lobectomía inferior esquerda resultando un pT1a (1 cm) N0 (0/5) M0, segundo a 8a clasificación da AJCC1, ALK translocado e tributario a controis.
+Na TC de tórax de control (xuño de 2018), descríbense adenopatías sospeitosas a nivel retroesofágico e paratraqueal dereito, sendo a citología desta última positiva para carcinoma indiferenciado, CK7 positiva, TTF-1 negativo, ALK non translocado. Complétase estudo con PET-TC que describe, ademais, unha adenopatía a nivel supraclavicular dereito suxestiva de infiltración tumoral. Con estes resultados, oriéntase como un segundo primario N3 sen T (cTxN3M0) tributario de quimiorradioterapia (QT-RT) con intención radical: QT con carboplatino + vinorelbina concomitante con RT (IMRT) desde o 2ou ciclo, completando un total de 3 ciclos de QT e 64.8 Gy.
+Na PET-TC de valoración de resposta se obxectiva resposta parcial (RP) morfometabólica a nivel adenopático, pero repórtase unha captación a nivel de amígdala palatina dereita con adenopatía laterocervical ipsilateral en nivel IIb, ambas sospeitosas de malignidad.
+Suscítase entón que o tumor primario, ata agora descoñecido, podería ser amigdalino e tras discutirse en ambos comités multidisciplinares (tórax e ORL) considérase candidato a amigdalectomía dereita diagnóstica/terapéutica, tratamento que se leva a cabo en decembro de 2018. O informe de Anatomía Patológica describe un carcinoma indiferenciado de 2 cm, HPV, TTF-1 e ALK negativo, CK7, AE1/AE3 e p16 positivo cun Ki67 do 90 %; de similares características ás descritas na citología adenopática previa. Decídense controis e na PET-TC de febreiro de 2018 se evidencia desaparición da adenopatía do nivel IIb con estabilidade do resto de adenopatías (RP mantida) sen novas captacións sospeitosas, excepto captación "fisiológica" en intestino delgado en contexto de tratamento con metformina.
+
+Enfermidade actual
+En febreiro de 2019, consulta en Urxencias por melenas, destacando na analítica anemización franca (Hb 66g/dl), alteración do perfil hepático, hipoalbuminemia grave e empeoramiento da función renal. O paciente explica unha síndrome tóxico dun mes de evolución. Decídese ingreso na planta de Oncología Médica para estudo.
+
+Exploración física
+ECOG PS 3. Consciente e orientado nas tres esferas. Sen soplos cardiacos e con tons rítmicos. Non se auscultan ruídos sobreañadidos en campos pulmonares. Non presenta edemas en extremidades. O abdomen é brando e depresible, e non destacan masas ou megalias. Non presenta focalidad neurológica ao ingreso en planta.
+
+Probas complementarias
+» Analítica (08/02/2019): Hb 66g/l, VCM 88 (anemia normocítica normocrómica), filtrado glomerular de 35 ml/min/1,73m2, AST 62 UI/l, ALT 118 UI/l, FA 151 UI/l, GGT 121 Ou/l con normalidad de bilirrubina. Hipoalbuminemia grave de 15,8g/l. Leucocitosis con neutrofilia.
+» Aspirado de medula ósea (07/02/2019): eritropoyesis ferropénica sen outros achados.
+» Colonoscopia (20/2/2019): lesión adenomatosa de 3-4 cm, pálida, a nivel ileocecal que se reseca. Sen outros achados. Anatomía patológica: fragmentos de mucosa que mostran infiltración por carcinoma mal diferenciado coas mesmas características patológicas que as lesións previas.
+» Angio-TC (21/02/2019): chama a atención a presenza de múltiples imaxes hiperdensas de aspecto nodular que se localizan no interior das asas ileales e que poderían corresponder a implantes intraluminales. Lesión adenopática de 2 cm na rexión paraaórtica esquerda e lesións adenopáticas mesentéricas. A nivel esplénico, obsérvase a presenza dunha lesión nodular de 2 cm no polo anterior esplénico non presente en TC previas.
+
+Diagnóstico
+» Carcinoma indiferenciado de primario descoñecido con diseminación adenopática supra e infradiafragmática, amigdalar, esplénica e intraluminal (placas de Peyer) en intestino delgado.
+» Hemorragia digestiva secundaria a lesións tumorales endoluminales.
+
+Tratamento
+Realizouse un manexo sintomático mediante transfusión de hematíes segundo requerimientos (48 h) e aporte hiperproteico sen conseguir mejoría dos parámetros nin cese da hemorragia digestiva.
+
+Evolución
+O paciente requiriu un aumento progresivo do soporte transfusional desenvolvendo unha hipoalbuminemia grave desencadeando unha anasarca secundaria. Valorouse o caso como un carcinoma indiferenciado de orixe descoñecida con compromiso exclusivo de tecidos linfoides, hemorragia digestiva secundaria a implantes intestinais sen posibilidade de tratamento local (endoscópico, quirúrgico ou de radiología intervencionista) debido á súa extensión e ao compromiso a distancia. O paciente presentou unha evolución tórpida co consecuente falecemento en marzo de 2019. Tralo consentimento da súa familia, practicouse unha autopsia que informou a presenza de > 100 lesións polipoides distribuídas en todo o intestino delgado e dúas lesións polipoides en corpo gástrico, confirmándose a lesión esplénica e múltiples adenopatías supra e infradiafragmáticas.

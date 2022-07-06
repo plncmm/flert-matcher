@@ -1,0 +1,21 @@
+Istoricul clinic și boala actuală
+Bărbat, în vârstă de 51 de ani. Factori de risc cardiovascular: fumat de lungă durată, hipertensiune arterială din 1998, diabet zaharat de tip 2 sub tratament cu medicamente antidiabetice orale. Limfom anaplastic cu celule T în 2007, tratat cu chimioterapie, radioterapie și autotransplant condiționat cu BEAM, în prezent în remisiune completă. Sindromul de citopenie mielodisplastică refractară cu displazie multilineală și cariotip complex tratat cu azacitidină ca o punte către transplantul de măduvă osoasă. Purpura trombopenică idiopatică. Nu sunt cunoscute alergii. Control cardiologic în 2006, cu ECG, ecocardiogramă și test de efort normale. De obicei, el raportează că este asimptomatic din punct de vedere cardiovascular.
+Pacientul s-a prezentat la serviciul de urgență cu febră de până la 38,3oC, astenie, stare generală de rău și dureri generalizate de 3 zile. De asemenea, în ziua consultației, a început cu dureri retrosternale opresive de intensitate crescândă, care iradiau spre spate, umeri și maxilar, care creșteau în intensitate la inspirația profundă și în decubit dorsal, cu stare de rău și dispnee însoțită de o stare de rău și niveluri ale TA de 70/40 mmHg.
+Examenul fizic a fost normal, cu excepția hipoventilației în ambele baze pulmonare.
+
+Teste complementare
+- ECG: tahicardie sinusală cu ușoară supradenivelare difuză a segmentului ST ușor mai mare decât cea anterioară și modificări nespecifice de repolarizare.
+- Testele de laborator au arătat o creștere a parametrilor infecțio-inflamatori (CRP 32; procalcitonină 10); anemie macrocitară, trombopenie și leucopenie. Creștere ușoară a markerilor de afectare miocardică: CPK 210; CPK MB 19 și troponină T 0,62. Insuficiență renală acută (Cr 2,1) cu diureză conservată (GFR 36 ml/min). Echilibrul acido-bazic și restul testelor de laborator au fost normale.
+- Ecocardiografie Doppler de urgență: au fost excluse alterările contractilității globale și segmentare, efuziunea pericardică și patologia acută.
+- CT toracic: a exclus existența unei patologii acute aortice, a unei tromboembolii pulmonare sau a unui proces infecțios semnificativ.
+
+
+Evoluția clinică
+În timpul internării sale, s-au administrat antibiotice și antifungice cu spectru larg de acțiune în mod empiric, fără izolare microbiologică în hemoculturi, uroculturi și culturi de spută. Serologiile virale au fost, de asemenea, negative. S-a efectuat monitorizarea markerilor de deteriorare miocardică, cu troponină T maximă de 1,59, CPK de 279 și CPK de 43 la patru zile de la internare, cu scădere progresivă și normalizare la externare. ProBNP a fost determinat și a atins un maxim de 8319 pg/mL la 5 zile după internare.
+În absența unui focar infecțios, s-a efectuat o ecocardiografie transesofagiană 5 zile mai târziu, care a arătat o funcție ventriculară stângă la limită (FEVS: 0,45-0,50), fără imagini care să sugereze endocardită sau alte constatări semnificative. Tratamentul a fost inițiat cu corticoizi, beta-blocante, inhibitori ECA și diuretice, cu ameliorare clinică și analitică, cu persistența funcției sistolice borderline la ecocardiografie la externare. Văzut la consultație zece zile mai târziu, acesta a raportat că este asimptomatic din punct de vedere cardiovascular. A fost supus unei electrocardiograme de control în care au persistat alterările menționate anterior, unei ecocardiograme în care s-a observat un ventricul stâng dilatat cu funcție sistolică la limită, fără revărsare pericardică sau alterări de contractilitate, și unei analize de sânge în care a persistat o ușoară trombopenie și leucopenie, cu parametri infecțio-inflamatori normali.
+În ziua următoare, s-a efectuat un RMN al inimii cu stres cu adenozină, care a arătat semne compatibile cu miopericardită acută și funcție sistolică la limită, fără a induce ischemie miocardică. Același tratament a fost menținut, iar pacientul a fost programat pentru o întâlnire de control o lună mai târziu.  
+
+Diagnostic
+- Șocul septic cu o concentrare nefiltrată.
+- Miopericardită acută
+- Sindrom mielodisplastic, tip citopenie refractară.

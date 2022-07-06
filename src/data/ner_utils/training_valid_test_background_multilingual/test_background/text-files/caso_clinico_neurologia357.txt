@@ -1,0 +1,19 @@
+Anamnesis
+Mujer de 69 años de edad que consulta por primera vez en mayo de 2011 por dolor tipo calambre, lancinante, de segundos de duración, que describe en la garganta y se irradia a la hemicara derecha, el oído y la región cervical. El dolor se desencadena con la deglución, al toser y almasticar. Se realiza una resonancia magnética (RM) cerebral, que es informada como normal. Se inicia tratamiento con oxcarbazepina, mejorando de la clínica y permaneciendo durante unos 4 meses asintomática. La semana previa a su ingreso la paciente comienza nuevamente con dolor de características similares, llegando a presentar numerosos episodios a diario, motivo por el que ha consultado en Urgencias en varias ocasiones, intentándose tratamiento con múltiples fármacos, con mejoría inicial durante unas horas pero reapareciendo nuevamente el dolor. Finalmente, es ingresada por la persistencia del dolor y la imposibilidad para la alimentación. Durante su estancia en planta se inicia tratamiento con nuevos fármacos como fenitoína, gabapentina, amitriptilina y clonazepam sin obtener respuesta, por lo que se recurre a derivados mórficos y morfina, con escasa mejoría.
+
+Exploracion física
+Auscultación cardiaca y pulmonar sin alteraciones significativas, abdomen anodino. Consciente y orientada, lenguaje normal, habla normal, pares craneales: pupilas isocóricas, normorreactivas, motores oculares externos plenos sin limitación ni nistagmus, V par normal, VII par normal, pares bajos no explorables por dolor. Sistema motor: fuerza: 5/5 en 4 extremidades. Reflejos osteotendinosos ++/++++. Reflejo cutáneo-plantar flexor bilateral. Sensibilidad algésica, táctil, vibratoria y posicional normal. Coordinación normal. Marcha normal.
+
+Pruebas complementarias
+• Analítica: bioquímica renal y hepática normales, hemograma normal, coagulación normal.
+• Tomografía computarizada (TC) peñascos, CAIS, mastoides yATM: elongación de la arteria vertebral derecha, lo que podría justificar la clínica si se confirma la compresión o el contacto con el NIX en su salida, para ello se recomienda la realización de una RM dirigida.
+• RM de la base del cráneo: se confirma la presencia de bucle vascular de la arteria cerebelosa posteroinferior (PICA) que contacta con la emergencia de la salida del IX par derecho en la región bulbar. Resonancia magnética cerebral en secuencias mpr T2: se evidencia bucle vascular de la PICA que contacta con la salida del IX para derecho en la región bulbar. Imagen ampliada donde se muestra el contacto entre PICA y glosofaríngeo. Resonancia magnética en secuencia mpr T1 con contraste i.v.: se observa bucle vascular de la PICA (realza contraste) contactando con la salida del IX par derecho en la región bulbar.
+
+Diagnóstico
+Neuralgia del glosofaríngeo derecho (forma timpánica), compresión del nervio glosofaríngeo por bucle vascular de la arteria cerebelosa posteroinferior derecha.
+
+Tratamiento
+Se contacta con el Servicio de Neurocirugía que tras valorar a la paciente la programa para descompresión microvascular del nervio. Durante el ingreso se ajusta el tratamiento con oxcarbazepina 600 mg/12 h, gabapentina 800 mg/8 h, clonazepam 1 mg/8 h y 1/3 de ampollas de cloruro mórfico de rescate si sufre dolor intenso. La paciente es valorada por la Unidad del Dolor de anestesia, quienes inician tratamiento con tapentadol hidrocloruro 50 mg/12 h, mejorando espectacularmente la clínica.
+
+Evolución
+Dada la mejoría clínica que la paciente ha presentado con la combinación farmacológica, por el momento se ha desestimado la opción quirúrgica. En las últimas revisiones la paciente se encuentra asintomática.

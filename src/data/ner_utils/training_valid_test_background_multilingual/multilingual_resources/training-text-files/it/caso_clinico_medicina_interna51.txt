@@ -1,0 +1,24 @@
+Storia personale
+Paziente maschio di 29 anni, senza allergie note ai farmaci o storia medica o chirurgica di interesse.
+
+Storia epidemiologica
+Nato in India, vive in Angola da 15 anni e viaggia spesso a Hong Kong per lavoro.
+
+Malattia attuale
+È venuto al pronto soccorso di un ospedale spagnolo perché mentre era in crociera con sua moglie in Grecia e Turchia, l'8° giorno del viaggio, ha cominciato a soffrire di febbre, ittero, dolori addominali e diarrea senza prodotti patologici. Si è recato in un centro medico in Turchia, dove è stato sottoposto a un esame del sangue che ha mostrato GOT 132 U/L; GPT 244 U/L; GGT 199 U/L, sierologia HBV e HCV negativa, goccia spessa e striscio negativi. Tre giorni dopo, il 12° giorno della crociera, una volta finita la crociera, ha continuato con lo stesso quadro clinico. Era stato precedentemente a Hong Kong per 20 giorni e nei 7 giorni precedenti il viaggio in Angola.
+
+Esame fisico e test complementari
+Al pronto soccorso, ha presentato febbre (39o), BP 93/54 mmHg, HR 93lpm, e all'esame fisico ha presentato epatomegalia di 2 croci, senza altre alterazioni significative. Gli esami di laboratorio hanno mostrato 18000 piastrine, creatinina 1,74 mg/dL, bilirubina totale 12,14 mg/dL (bilirubina diretta 8,63 mg/dL, bilirubina indiretta 3,51mg/dL), GOT 141 U/l, GPT 163 U/L. ECG e radiografia del torace senza alterazioni significative; l'ecografia addominale ha mostrato un'epatomegalia discreta. Il test diagnostico rapido della malaria è stato ripetuto ed è risultato positivo, striscio e striscio di sangue spesso con parassitemia 17%.
+
+Evoluzione durante l'ammissione
+Fu fatta una diagnosi di malaria grave, con iperparassitemia, ittero/transaminasemia e trombocitopenia come criteri prognostici poveri. Ricoverato in Terapia Intensiva, è stato iniziato il trattamento con artesunato i.v. per 3 giorni durante la sua permanenza in Terapia Intensiva. Successivamente, con il recupero della funzione renale, la trombocitopenia, la tolleranza della via orale e la stabilità emodinamica, è stato deciso di trasferirlo nel reparto ospedaliero convenzionale, continuando il trattamento con artemether-lumefantrina (Riamet), 4 compresse ogni 12 ore per 3 giorni. Durante i giorni seguenti ha presentato stabilità emodinamica, riduzione progressiva della febbre e delle transaminasi. Il giorno +7 dell'ammissione ha avuto di nuovo un picco di febbre (38,7oC), e l'esame del sangue ha mostrato emoglobina 10,7 mg/dL (all'ammissione 12,2mg/dL) e LDH 1157 U/L (all'ammissione 570 U/L). Nei giorni seguenti continuò con febbre, diminuzione dell'emoglobina e LDH elevato, raggiungendo il nadir dell'emoglobina (8,3 mg/dL) e LDH elevato 1582 U/L il giorno +14 di ammissione. L'anemia emolitica è stata studiata e sono stati eseguiti i seguenti test complementari:
+- Studio dell'emolisi: reticolociti elevati, Hb diminuita, LDH elevata, aptoglobina normale e studio della ferrocinetica nei limiti della normalità.
+- Autoimmunità: ANA e crioglobuline nei limiti della norma.
+- Coombs negativo
+- Nessun deficit di G6PD
+- Immunofenotipo nei limiti della norma.
+- Colangioresonanza: nessuna alterazione significativa.
+- Senza alcun cambiamento nell'atteggiamento clinico, 13 giorni dopo presentava livelli di emoglobina di 10,2 mg/dL, LDH 647 U/L, bilirubina totale 2,91mg/dL con normalizzazione delle transaminasi, e fu quindi deciso di dimetterlo a casa dall'ospedale con successivo follow-up in ambulatorio.
+
+Giudizio clinico
+Malaria grave. Anemia emolitica secondaria al trattamento con artesunato. Buona evoluzione clinica fino alla normalizzazione dei diversi parametri analitici.

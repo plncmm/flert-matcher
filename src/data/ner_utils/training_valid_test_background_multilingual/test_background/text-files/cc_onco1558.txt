@@ -1,0 +1,29 @@
+Anamnesis
+Mujer de 45 años de edad, que acude a Urgencias por cuadro de cefalea frontal y retrocular de 16 días de evolución, resistente al tratamiento analgésico.
+Además refiere que la cefalea la ha despertado varias veces por la noche, aumenta con las maniobras de Valsalva y se acompaña de fotofobia intermitente.
+Náuseas y vómitos los últimos días. Niega fiebre. Como antecedentes personales únicamente refiere ser fumadora de 20 cigarros/día desde su juventud.
+Sufre migraña desde la infancia. Intervenida mediante tiroidectomía total por bocio multinodular en 2011 y de varios miomas y quistes ováricos a sus 40 años. Histiocitosis X.
+
+Exploración física
+ECOG 1. Buen estado general, consciente y orientada, afebril. No hay adenopatías palpables a nivel axilar, supraclavicular e inguinal. Pulsos radiales y temporales palpables y simétricos. Auscultación cardiopulmonar y palpación abdominal sin hallazgos que sugieran patología. Palpación y exploración de mamas dentro de la normalidad. Exploración neurológica: sin focalidad, conserva fuerza y sensibilidad en los cuatro miembros, sin trastorno de la marcha, sin nistagmo ocular, Romberg negativo, no afectación de pares craneales, sin rigidez de nuca y signos meníngeos negativos.
+
+Pruebas complementarias
+• Analítica: hemograma, bioquímica simple, hepática y renal, y coagulación normales. Reactantesde fase aguda (VSG y PCR) y proteinograma normales. Marcadores tumorales (AFP, CA-15.3, CA-19.9, CA-125, b-2-microglobulina y CEA) normales salvo CEA 12 ng/mL.
+• TC craneal sin contraste: se objetivan dos lesiones hipodensas redondeadas con mínimo efecto masa sobre los surcos, sin apreciar edema perilesional, una frontobasal izquierda de aproximadamente 15 x 12 mm y otra más craneal frontal derecha de 14 x 12 mm que sugieren como primera posibilidad diseminación metastásica.
+• RM cerebral con contraste: lesión ocupante de espacio heterógenea que asienta sobre el suelo de la fosa anterior izquierda, nodular y de unos 2 cm de diámetro máximo, de origen intraaxial. Se aprecia una tendencia hacia la hipercaptación patológica en las membranas leptomeníngeas, visible en el valle silviano izquierdo, cisterna interpeduncular y superficie del vérmix cerebeloso, apareciendo alguna lesión nodular milimétrica hipercaptante sobre la cortical del valle silviano (4 mm) y región frontal derechos (5 mm). A descartar en primer lugar naturaleza metastásica.
+• Mamografía craneocaudal y lateral bilateral: no se detectan signos sugerentes de malignidad. Calcificaciones benignas.
+• TC toracoabdominopélvica: nódulo pulmonar de 2,1 x 1,3 cm, parcialmente cavitado y espiculado con discreto halo periférico, que retrae la cisura mayor.
+A descartar tumor de estirpe bronquiolo alveolar como primera posibilidad diagnóstica. No se han visualizado adenomegalias significativas en cadenas axilares, mediastínicas, abdominales ni retroperitoneales.
+Lesión milimétrica hipodensa en segmento VIII hepático que sugiere pequeño hemangioma.
+• Punción lumbar y análisis del LCR: neoplasia maligna compatible con metástasis de carcinoma.
+• Fibrobroncoscopia: ausencia de hallazgos endoscópicos. Cepillado y aspirado bronquial normal, sin células neoplásicas.
+• Exéresis diagnóstica de una de las metástasis cerebrales para análisis antomopatológico: metástasis de adenocarcinoma papilar con estudio inmunohistoquímico que confirma el origen pulmonar (CK 7+++, CK20–, TTF-1+++, Tiroglobulina–). EGFR mutado (del 19).
+
+Diagnóstico
+Adenocarcinoma de pulmón estadio IV (metástasis cerebrales y leptomeníngeas) con presencia de la mutación de EGFR (del 19).
+
+Tratamiento y evolución
+La paciente presenta excelente respuesta al tratamiento con mejoría clínica y radiológica importantes (respuesta parcial a nivel pulmonar y completa cerebral-leptomeníngea). Tras intervalo libre de progresión de 16 meses, aparece progresión de la enfermedad a nivel cerebral (afectación leptomeníngea) permaneciendo estable la enfermedad pulmonar respecto a estudios previos. No se describen toxicidades grado III-IV secundarias a la terapia tirosincinasa.
+Tras valoración del caso, se decide continuar con erlotinib a la misma dosis añadiendo Radioterapia paliativa holocraneal. La paciente continúa con buena calidad de vida, manteniéndose la enfermedad pulmonar estable y desarrollando de nuevo respuesta parcial a nivel cerebral.
+Sin embargo, cinco meses después de finalizar el tratamiento de radioterapia holocraneal, la paciente sufre un empeoramiento neurológico agudo consistente en síndrome confusional y crisis tónico-clónicas generalizadas. Ante dichos hallazgos y la sospecha de progresión de la enfermedad a nivel cerebral de nuevo, se solicitan estudios de EEG, RM cerebral y TC toracoabdominal. Estos ponen de manifiesto la persistencia de respuesta a nivel pulmonar y cerebral, con estudio de imagen cerebral característico de leucoencefalopatía postradioterapia.
+Actualmente continúa el tratamiento con erlotinib.

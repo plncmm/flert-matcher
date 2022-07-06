@@ -1,0 +1,20 @@
+Anamnesi
+Presentem el cas d'un home de 61 anys, sense antecedents personals coneguts d'interès, exfumador amb índex paquets-any acumulat de 30, sense altres hàbits tòxics. No posseeix antecedents familiars d'interès. Consulta en Urgències al març de 2018 per malestar general i astènia progressiva de 4 mesos d'evolució, sense haver acudit per aquest motiu prèviament, arribant a presentar a la seva arribada impossibilitat per a la deambulació juntament amb marcada dispnea de repòs.
+A més, referia pèrdua de pes i tos no productiva.
+
+Exploració física
+En l'exploració destacava un aspecte físic descurat i pal·lidesa mucocutánea, amb lesions cutànies violàcies sobreelevadas en diverses zones del cos (coll, tronc i esquena fonamentalment), així com en mucosa oral, gingival i gland. Es trobava bradipsíquico sense focalidad neurològica, i presentava abolició del murmuri vesicular en hemicampo pulmonar dret.
+
+Proves complementàries
+Es va cursar ingrés en Medicina Interna per a iniciar estudi, sol·licitant una analítica de sang completa amb serologies, destacant en els resultats Western-Blot de VIH-1 positiu, càrrega viral VIH-1 (Taqman): 304.000,00 copies/ml (log.: 5.48), linfopenia amb CD4 5,02%, CD8 77,3 8%. Virus hepatotropos i altres serologies negatives excepte Entamoeba histolytica. En l'analítica general destacava insuficiència renal moderada (creatinina 1,6 mg/dl) i desnutrició proteic calòrica (albúmina de 2,1 g/dl).
+
+Diagnòstic
+Després de la realització de proves, el pacient va ser diagnosticat d'infecció avançada per VIH, estadi C3 (SIDA).
+
+Tractament
+Per part de Medicina Interna Infeccioses, es va iniciar tractament antiretroviral amb triple teràpia així com profilaxi antibiòtica per a malalties oportunistes.
+
+Evolució
+Durant l'ingrés es va realitzar una radiografia de tòrax que evidenciava vessament pleural dret, per la qual cosa es va completar l'estudi amb una TC completa on es descrivien nombroses adenopaties supra i infradiafragmáticas, hepatoesplenomegalia amb ascites i vessament pleural dret. Es va realitzar toracocentesi diagnòstica i terapèutica, descartant afectació infecciosa, amb micobacterias negatives i amb diagnòstic anatomopatològic positiu per a cèl·lules tumorals malignes, amb troballes morfològiques i immunohistoquímiques concordants amb limfoma primari de cavitats, herpes virus 8 positiu (VHH-8). Es va realitzar a més biòpsia d'una de les lesions cutànies i d'una adenopatia laterocervical, totes dues amb diagnòstic histològic compatible amb sarcoma de Kaposi, associat a VHH-8 que infiltrava a més mucosa esofàgica i gàstrica evidenciat per endoscòpia.
+El pacient va presentar millora clínica i analítica inicial gràcies al tractament antiretroviral i al tractament de suport durant les primeres setmanes, per la qual cosa davant la recuperació es va decidir ingrés a càrrec d'Oncologia Mèdica per a valorar tractament tumoral. No obstant això, a les tres setmanes d'haver començat el tractament, va aparèixer de nou marcada deterioració clínica, febre i empitjorament analític, sense troballes microbiològiques ni radiològiques que justifiquessin aquest empitjorament, en probable relació per tant amb síndrome de reconstitució immune, encara que sense poder descartar altres opcions (síndrome hemofagocítico, malaltia venoclusiva, etc.). Malgrat el tractament, fins i tot amb drogues vasoactivas, el pacient va continuar amb hipotensió mantinguda i insuficiència hepàtica progressiva, que va produir un quadre d'encefalopatia hepàtica greu no reversible, morint pocs dies després.
+Es va sol·licitar autòpsia clínica, confinada exclusivament al fetge amb resultat final d'hepatitis aguda submasiva colestásica de predomini centrolobulillar inespecífica, podent haver-se de tant a afectació per VIH com per virus hepatotropos o toxicitat farmacològica, sense poder filiar l'origen.

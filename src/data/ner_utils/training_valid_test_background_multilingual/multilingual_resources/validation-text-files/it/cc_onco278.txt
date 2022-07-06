@@ -1,0 +1,36 @@
+Anamnesi
+Uomo di 60 anni, ex-fumatore da 25 anni, da circa 20 anni (ICAT 40 paq-anni), senza altra storia personale di interesse, che ha frequentato il dipartimento di emergenza nel luglio 2014, a causa di dolori addominali e rettali generalizzati di qualche settimana di evoluzione, insieme ad abitudini intestinali alterate (stitichezza alternata a feci liquide con muco).
+
+Esame fisico
+L'esame addominale ha rivelato un'impronta addominale nell'ipogastrio e un dolore significativo nella fossa iliaca sinistra.
+
+Test complementari
+-Una TAC addominale è stata eseguita al pronto soccorso con contrasto endovenoso, mostrando un ispessimento e un assorbimento parietale di un segmento del colon sigmoide con un aumento della densità del grasso circostante e un'immagine di 6x4cm suggestiva di un processo neoformativo.
+-In seguito ai risultati, è stata richiesta una TAC toracica ambulatoriale, un'analisi completa e un appuntamento preferenziale con il dipartimento digestivo.
+-Fu eseguita una colonscopia preferenziale, trovando una massa mamellosa e friabile a 18 cm dal margine anale, che sanguinava quando veniva strofinata con il colonscopio, occupando quasi tutta la circonferenza, lasciando un piccolo lume totalmente impraticabile. Le biopsie sono prese dalla zona.
+-Non si vedono metastasi nella TAC toracica.
+
+Diagnosi
+Risultati patologici: lesione adenomatosa con displasia di alto grado.
+
+Trattamento
+Visti i risultati dei test complementari, il paziente viene indirizzato alla chirurgia.
+
+Progresso
+In attesa dell'intervento chirurgico, il 4 agosto, il paziente è tornato al pronto soccorso per distensione addominale, accompagnata da nausea e costipazione e assenza di flatulenza per 3 giorni.
+La radiografia addominale ha mostrato una dilatazione di tutto il quadro colico dal sigma fino a 8 cm nel cieco con contenuto aria-fecale con una valvola ileocecale competente, quindi è stato ricoverato nel reparto chirurgico ed è stata posta una protesi non coperta (transitoria), con uscita immediata di feci semiliquide.
+Infine, il giorno seguente, è stata eseguita una sigmoidectomia con anastomosi T-T e ileostomia fantasma.
+Il risultato anatomopatologico è stato: adenocarcinoma stenosante della giunzione rettosigmoidea (con stenting), moderatamente differenziato con cellule ad anello di sigillo che infiltrano la parete sovrastante (pT4). Infiltrazione vascolare perineurale e linfatica con coinvolgimento di 24 linfonodi isolati (pN1). Limiti chirurgici gratuiti.
+In seguito ai risultati, il paziente è stato indirizzato al dipartimento di oncologia, con giudizio clinico: Adenocarcinoma del colon pT4pN1, stadio III, per il quale è stato prescritto un trattamento adiuvante con FOLFOX x 12 cicli di chemioterapia.
+Un nuovo studio di estensione è stato richiesto con una TAC toracoaddominale-pelvica negativa per malattia metastatica e analisi con marcatori tumorali normali (CEA e Ca 19,9).
+Il Folfox adiuvante è stato iniziato nel settembre 2014 con eccellente tolleranza.
+Nel febbraio 2015, dopo la somministrazione dell'ultimo ciclo di FOLFOX, la paziente si è presentata al pronto soccorso dopo la comparsa di improvvisa insorgenza di dispnea a riposo, con tosse secca persistente e grave insufficienza respiratoria, senza dolore toracico associato, suoni toracici o sindrome febbrile, e nei giorni precedenti asintomatica dal punto di vista respiratorio.
+All'esame, il paziente presentava tachipnea a riposo a 26 giri con 88-90% satO2 e 2 bpm. L'auscultazione respiratoria ha mostrato una marcata ipofonia in entrambi gli emitoraci con alcuni crepitii secchi in entrambe le basi e il centrocampo destro piatto postero-laterale.
+L'angiografia CT è stata eseguita all'ammissione dopo aver ottenuto un D-dimero elevato in cui la PET è stata esclusa e dopo aver rivisto le immagini, un pattern alveolare diffuso (in ground glass) con aree confluenti, prevalentemente periferiche subpleuriche con broncogramma aereo; bilaterale ma con maggiore coinvolgimento nel polmone destro. Anche segni di PHT moderato.
+All'ammissione, le emocolture, le colture dell'espettorato, l'antigenuria da pneumococco e Legionella, la PCR per i virus respiratori e la sierologia erano negative. Nonostante la terapia antibiotica empirica, i corticoidi e l'ossigenoterapia con MV al 31%, il paziente presentava tachipnea a 30 giri e saturazione all'89%, senza febbre o espettorazione mucocupurulenta o aumento dei reagenti di fase acuta, quindi, data la mancanza di miglioramento clinico del paziente, è stata richiesta la valutazione da parte della Pneumologia.
+Infine, il paziente è stato trasferito al reparto di Pneumologia con il giudizio clinico: ``insufficienza respiratoria acuta grave secondaria a una polmonite acuta dovuta alla chemioterapia (polmonite chimica),`` poiché una revisione della letteratura mostra che i sali di platino possono essere associati alla comparsa di fibrosi polmonare dovuta ai farmaci.
+Inoltre, confrontando con gli studi radiologici precedenti, va notato che la TAC toracica del luglio 2014 era strettamente normale, senza alterazioni pleuropolmonari o adenopatia mediastinica.
+Durante il suo ricovero, il paziente è stato trattato con corticosteroidi iv ad alte dosi, broncodilatatori e acetilcisteina 600/8 ore, evolvendo lentamente ma favorevolmente, anche se con scarsa tolleranza allo sforzo minimo (camminare nella stanza).
+Infine, è stato deciso di dimetterlo dall'ospedale con una lettura dei gas arteriosi di base di p02 63 e la necessità di una ossigenoterapia domiciliare, e si è sottoposto a visite di controllo sia presso il reparto di Pneumologia che di Oncologia.
+Dopo più di un anno di controlli, il paziente sta lentamente migliorando, senza bisogno di ossigenoterapia 24 ore al giorno, e con 10 mg di prednisone ogni 24 ore, tollerando un po' di esercizio. Il ritiro dell'ossigenoterapia sarà valutato alla prossima revisione in Pneumologia.
+Per quanto riguarda le revisioni di Oncologia, l'ultima a maggio 2016 con TAC toracoaddominale e colonscopia senza evidenza di malattia ed esami del sangue con marcatori tumorali normali, evidenziando solo la persistenza della neurotossicità di II grado agli arti inferiori.

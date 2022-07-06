@@ -1,0 +1,36 @@
+Anamnesi
+Il paziente è stato consultato per febbre fino a 38,6 oC di 24 ore di evoluzione accompagnata da sindrome distrofica e vomito. Aveva ricevuto un secondo ciclo di pembrolizumab sette giorni prima. Presentava occasionalmente un lieve dolore addominale autolimitato senza alterazioni delle abitudini intestinali. Tosse occasionale con espettorazione biancastra. Il paziente stava ricevendo medicazioni per la ferita sulla coscia destra, a causa della suppurazione. È stata trattata con clindamicina per questo motivo.
+
+Esame fisico
+"BP: 155/63 mm Hg, HR 91 bpm, Ta: 38.1 oC, SatO2: 92%, BP 1.
+"Condizioni generali: discrete. Eupneico a riposo. Pallore della pelle. Ben idratato.
+"Testa e collo: piccole linfoadenopatie laterocervicali bilaterali. Non sono dolorose alla palpazione. Cavità orale con lesioni compatibili con il mughetto. Nessun essudato tonsillare. Otoscopia bilaterale normale. Nessuna rigidità nucale.
+"AC: ritmico con una buona frequenza. Non si sentivano mormorii.
+"AP: mvc in entrambi gli emitoraci con scarsi crepitii bibasali secchi.
+"Addome: globoso, morbido, depressibile. Nessuna massa palpabile o megaliti. Dolore alla palpazione nella CDH con Murphy dubbia. RHA normale. Nessun punto di sutura dell'ernia o pulsazioni soffianti. Nella regione inguinale destra c'è una piccola lesione escrescente sulla base di una lesione chirurgica. Sul lato interno dell'arto inferiore destro (MID) c'erano 3 lesioni suppurative punteggiate con tessuto di granulazione con secrezione purulenta e segni infiammatori perilesionali. Edema con scarsa fovea perimalleolare nel MID. Homans negativo.
+
+Test complementari
+Tra i test complementari eseguiti all'arrivo al dipartimento di emergenza, i seguenti erano degni di nota:
+"Emogramma: globuli rossi 3,68 emoglobina 9,2. Ematocrito 30,2. Volume corpuscolare medio 82,1.
+"Emoglobina corpuscolare media eritrocitaria 25. Concentrazione di emoglobina corpuscolare media degli eritrociti 30,5. Gamma di distribuzione degli eritrociti 15,8. Leucociti 0,2. Neutrofili % 6,2.
+"Neutrofili 0. Linfociti % 93,8. Linfociti 0,2. Monociti % 0. Eosinofili % 0. Eosinofili 0. Basofili % 0. Basofili 0. Piastrine 312.
+"Coagulazione: rapporto tempo di protrombina 1,31. Attività della protrombina 72. Tempo di protrombina 14,7. INR 1,31. Tempo di tromboplastina parziale attivata (aPTT) 38. Rapporto aPTT 1,16. Derivato del fibrinogeno 7.35.
+"Biochimica: urea 40 creatinina del sangue 0,95. Proteina totale 6,7. Bilirubina totale 0,35. Sodio
+"135. Potassio 4,59. Creatina chinasi 30. Aspartato amino transferasi (GOT) 13. Amilasi 46. CRP 195.
+"Urina: peso specifico 1,020. pH 6. Chetoni 10. Glucosio negativo. Nitrito negativo. Bilirubina negativa. Proteine 100. Urobilinogeno 0,2. Globuli rossi negativi. Leucociti negativi.
+"Gas del sangue venoso: Ph 7,42. nA 136. k 4,5. cA 1,10. gLUC 220. lAC 1,4. hTCO 3 4%. hco3- 24,0.
+"tHBC 9.9.
+"Radiografia del torace semplice posteroanteriore: non sono state identificate immagini di infiltrati o condensazioni.
+Sono state effettuate colture del sangue x 2, coltura delle urine, coltura della ferita MID e coltura della placca della mucosa orale.
+
+Diagnosi
+Il giudizio diagnostico del paziente era compatibile con la neutropenia febbrile di IV grado (profonda), l'infezione della ferita chirurgica e la candidosi orofaringea.
+
+Trattamento
+Il ricovero in ospedale è stato deciso. L'isolamento inverso, il riposo e la dieta assoluta sono stati raccomandati, così come la somministrazione di G-CSF e la terapia antibiotica empirica con meropenem e vancomicina per via endovenosa.
+Dopo la coltura positiva della ferita nel MID per la pseudomona aeruginosa, il trattamento è stato regolato secondo l'antibiogramma, de-escalando alla ceftazidima endovenosa. Il fluconazolo per via endovenosa è stato aggiunto al trattamento a causa della crescita di Candida albicans nella coltura della placca della mucosa orale.
+
+Evoluzione
+La paziente ha mostrato un chiaro miglioramento clinico, mantenendo la sua solita pressione. Tuttavia, dopo più di dieci giorni di ammissione, la conta dei neutrofili nel siero è rimasta a 0 mil/mm3. Il caso è stato discusso con l'ematologia, che ha raccomandato uno studio del midollo osseo. È stato eseguito un aspirato di midollo osseo, che è stato riportato come studio fenotipico senza evidenza di infiltrazione da emopatia e assenza di serie mieloidi (agranulocitosi).
+È stata richiesta l'analisi della citometria a flusso del campione ottenuto dall'aspirato, con risultati coerenti con agranulocitosi, plasmacitosi evidente e aumento relativo della serie rossa. È stata anche descritta una popolazione di cellule, non trascurabile in alcune aree, con un aspetto non ematologico, senza formare nidi, probabilmente legata al melanoma metastatico.
+Vista la conferma dell'infiltrazione del MO da parte del melanoma e dato che il paziente è ancora (un mese dopo il ricovero) con una conta di neutrofili assolutamente nulla, abbiamo escluso un ulteriore trattamento oncologico attivo. Il rinvio all'unità di cure palliative per un trattamento sintomatico è stato concordato con il paziente e la famiglia.

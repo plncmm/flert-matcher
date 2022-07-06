@@ -1,0 +1,32 @@
+Apresentamos o caso de um homem de 48 anos de idade que começou com sintomas de frontalização e distúrbio de marcha, sendo encaminhado para o Departamento de Neurologia, com agravamento progressivo que requer uma cadeira de rodas, e alteração comportamental que consiste na desinibição, irritabilidade, perda do controlo dos esfíncteres, indiferença afectiva e apatia.
+
+Foram realizadas análises gerais ao sangue, serologia, anticorpos antinucleares (ANA) e anticorpos neutrofílicos anti-citoplasmáticos (ANCA) e uma punção lombar, sem anomalias.
+Foi solicitada uma ressonância magnética cervical e craniana (RM), mostrando atrofia difusa ao nível da medula espinal sem significado patológico e ao nível craniano numerosas lesões hipointensas em T1 e hiperintensas em T2, afectando ambas as vias cortico-espinhais, núcleos denteados cerebelares e pedúnculos cerebelares superiores, juntamente com uma ruptura da Barreira Hemato-Cérebro (BBB).
+
+Foi realizada a electromiografia (EMG), mostrando sinais de polineuropatia mista nos membros inferiores, com baixa amplitude sensorial e velocidades motoras reduzidas.
+
+Dado o envolvimento simétrico da matéria branca, suspeitou-se de uma desordem metabólica e foram solicitados testes, sem alterações na quantificação de aminoácidos ou acilcarnitinas, mas elevação de ácidos gordos de cadeia muito longa (VLCFA) no sangue, especificamente ácido hexacosanóico (C26): 0), com um resultado de 2,18 micromol/litro (μmol/l), sendo o limite superior do laboratório de referência de 0,17 μmol/l, e de ácido tetracosanóico (C24:0), com níveis de 47 μmol/l, sendo o limite de 14 μmol/l.
+Além disso, houve uma inversão da proporção destes VLCFA para C22:0 de ácido beénico (C26:0/C22:0 de 0,071 e C24:0/C22:0 de 1,54, com limites laboratoriais de 0,77±0,12 e 0,012±0,004 respectivamente), tornando possível estabelecer o diagnóstico de X-ALD.
+Para confirmar o diagnóstico, foi realizado um estudo genético do ABCD1, observando uma supressão na hemozigose na posição c.1415_1416delAG, dando um códão prematuro p.GLn472ArgfsX83 e levando a uma proteína truncada com uma perda de 26% dos seus aminoácidos, compatível com o diagnóstico estabelecido.
+O paciente foi submetido a uma educação alimentar e os níveis sanguíneos de testosterona e cortisol eram normais.
+A gravidade desta entidade é mais intensa nos machos hemozigotos e menos nas fêmeas heterozigotas. Existe um défice de beta-oxidação perixisomal de VLCFA, levando secundariamente à acumulação de VLCFA (especialmente C26:0 e C24:0)
+
+no sistema nervoso central, medula espinal, córtex adrenal e tecido testicular. Esta deficiência deve-se a mutações no gene ABCD1 (xq28) no cromossoma X, que causam disfunção da proteína ALDp (lignoceril-CoA synthetase), essencial no transporte de VLCFA do citoplasma para a luz do peroxisoma.
+A variabilidade fenotípica aparece, dependendo do envolvimento neurológico e da idade de início:
+
+- Cerebral: mais rapidamente progressivo. Afecta entre 2,5 e 12 anos de idade, sendo raro em adolescentes (<7%) ou adultos (<5%). Défice cognitivo moderado, surdez neurossensorial, ataxia cerebelar, hemiplegia, insuficiência adrenal primária subclínica, convulsões e demência ocorrem.
+
+- Adrenomieloneuropatia (AMN): segunda e quarta décadas. Existe paraparesia espástica com perturbações da marcha, disfunção sexual e insuficiência adrenal em 2/3 dos pacientes.
+
+- Doença de Addison: cerca de 10% dos pacientes têm insuficiência adrenal, sem envolvimento cerebral, embora haja o risco de a desenvolver4.
+- Fêmeas heterozigotas: 50% têm um envolvimento neurológico lentamente progressivo. A insuficiência adrenal é rara.
+
+O diagnóstico baseia-se em resultados clínicos, RMN, demonstração da acumulação de VLCFA no soro, especificamente C26:0 e C24:0, e inversão da razão com C22:0.
+O teste de imagem mais sensível é a RM, que mostra o envolvimento bilateral e simétrico da matéria branca central. Observa-se hiperintensidade T2, especialmente na região temporo-occipital e corpus callosum. Dependendo da localização da lesão, esta é classificada da seguinte forma:
+
+1. Lóbulo parieto-occipital e esplénio do corpus callosum. 2. Lóbulo frontal e joelho do corpo caloso.
+3. Frontopontina e corticospinal.
+4. Cerebellar.
+5. Lóbulo frontal e parietooccipital combinados.
+
+O único tratamento útil na prevenção da progressão neurológica é o transplante alogénico de células estaminais hematopoiéticas (TCTH) a partir de medula óssea, sangue do cordão umbilical ou sangue periférico. O principal inconveniente reside na morbilidade e mortalidade do procedimento. A terapia genética, transferindo o gene ABCD1 para fibroblastos e células hematopoiéticas usando um vector lentiviral derivado do vírus HIV, foi portanto proposta, embora sejam necessários mais estudos para difundir a sua aplicação. O HSCT é indicado na presença de novas lesões, melhoria das lesões existentes por ressonância magnética, ou novos sintomas neurológicos.

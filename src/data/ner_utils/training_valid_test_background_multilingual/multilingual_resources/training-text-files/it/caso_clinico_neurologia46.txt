@@ -1,0 +1,33 @@
+Anamnesi
+Maschio, 57 anni, fumatore di 20 sigarette al giorno per più di 40 anni, bevitore moderato e con una storia di infezioni dentali ripetute senza altre malattie medico-chirurgiche di interesse. Ha presentato un quadro rapidamente progressivo, non brusco, di circa 72 ore di evoluzione, consistente in una debolezza sempre più intensa nell'arto superiore sinistro, senza dolore o sintomi sensoriali. Il paziente ha negato il mal di testa e/o il dolore cervicale. Circa 20 giorni prima, ha riferito un episodio autolimitato di dolore lancinante pleuritico nella regione costale sinistra, che si irradiava alla spalla omolaterale e alla radice dell'arto superiore, per un periodo di 48 ore. Dopo questo episodio, ha riferito di tosse produttiva occasionale con espettorato giallastro e striature di sangue, accompagnata da febbre con un picco di 38°C. Ha anche riferito perdita di peso. Ha anche riferito una perdita di peso di circa 8 kg negli ultimi 4 mesi associata ad astenia, senza ipossia.
+Prima della sindrome costituzionale, aveva sofferto di un flemmone dentale con abbondante suppurazione, trattato con amoxicillina e farmaci antinfiammatori.
+
+Esame fisico
+Esame generale: temperatura 36 oC, pressione sanguigna 174/96 mmHg, frequenza cardiaca 99 bpm. Saturazione basale di O2 99%. Glicemia capillare: 250 mg/dl. Pelle e mucose: nessun stigma cutaneo di endocardite o venipuntura. Testa e collo: nessuna adenopatia palpabile. Carie dentaria. Torace, addome ed estremità: normali. Esame neurologico: funzioni corticali normali. Nervi cranici normali. Sistema motorio: sproporzionata emiparesi brachio-crurale sinistra (0/5 ESI con coinvolgimento globale della muscolatura distale e prossimale; 4+/5 EII). REM simmetrico, presente in tutti e quattro gli arti, vivo (+++/++++). RCP bilaterale del flessore. Sistema sensoriale: normale. Funzione extrapiramidale e cerebellare: normale. Andatura e in piedi: lieve paresi con IBD. Segni meningei: assenti.
+
+
+Test complementari
+- Biochimica: glicemia 266 mg/dl, emoglobina glicata 11,3% ed elevati reattori di fase acuta (APR) come CRP (3,94 mg/dl); altri parametri erano normali.
+- Emogramma: leucocitosi (14.100/μl) con neutrofilia (74,9% neutrofili), macrocitosi (MCV 102,6 fl) senza anemia e conta piastrinica normale.
+- Coagulazione: normale.
+- Studio microbiologico del siero: negativo per HIV, sifilide, HCV e HBV.
+- Urina sistemica e sedimento: normale. Studio polmonare:
+- Radiografia del torace posteroanteriore e laterale: immagine ben definita di consolidamento nel lobo inferiore sinistro (LII).
+- Tomografia computerizzata (TC) toracica con VSD: lesione di 5,3 x 3,4 cm situata nella base polmonare sinistra, con una parete spessa e contenuto idro-aereo suggestivo di ascesso polmonare. Radiografia del torace posteroanteriore che mostra un'immagine consolidante ben delimitata nel lobo inferiore sinistro. Immagine di tomografia computerizzata toracica con visualizzazione dell'ascesso polmonare nel LII.
+- Spirometria: normale.
+- Studio microbiologico dell'espettorato e della LBA tramite fibrobroncoscopia: macchie negative per batteri, micobatteri (BAAR) e funghi. Colture negative (x2).
+- Biopsia transbronchiale per fibrobroncoscopia: biopsia del segmento 9 del LII negativa per neoplasia, compatibile con un processo infiammatorio ascessuale.
+- FNA guidato dalla TC toracica: puntura della massa polmonare nel segmento 9 di LII con studio citologico compatibile con materiale purulento e coltura batterica positiva per Streptococcus intermedius (membro del gruppo Streptococcus anginosus). Studio cardiologico:
+- Elettrocardiogramma basale: ritmo sinusale a 90 bpm, onda P mitrale, con intervallo P-R e QRS normale, senza alterazioni della ripolarizzazione.
+- Ecocardiogramma transtoracico: nessuna evidenza di endocardite o malattia cardiaca strutturale. Funzione biventricolare normale. Studio cerebrale:
+- TC cranica con VSD: due lesioni cerebrali frontali giuste occupanti lo spazio (una corticale e una sottocorticale) con assorbimento del contrasto ad anello ed edema perilesionale.
+- Risonanza magnetica del cervello con somministrazione di contrasto: lesione sottocorticale nel centro semiovale e lesione satellite corticale frontale destra, con captazione di contrasto ad anello ed edema vasogenico perilesionale. La lesione sottocorticale mostra un'intensa restrizione nelle sequenze di diffusione. Risonanza magnetica del cervello. A. Sequenza assiale T1w con contrasto che mostra una lesione sottocorticale frontale destra con assorbimento ad anello ed edema perilesionale. B. Sequenza di diffusione che mostra una marcata restrizione della stessa lesione.
+
+Diagnosi
+Ascessi piogenici del polmone e del cervello dovuti a Streptococcus intermedius, con focus odontogenico.
+
+
+Il trattamento antibiotico empirico è stato iniziato con meropenem e metronidazolo, sostituito da ceftriaxone e metronidazolo dopo aver ottenuto i risultati dell'antibiogramma. Tuttavia, a causa della comparsa di un'eruzione cutanea con eosinofilia, la terapia antibiotica è stata cambiata in linezolid 600 mg/12 h (3 settimane di trattamento) e moxifloxacin 400 mg/24 h (90 giorni di trattamento). Durante i primi giorni è stato necessario aggiungere la corticoterapia (desametasone) per ridurre l'edema vasogenico cerebrale. Per un adeguato controllo glicemico, il paziente ha richiesto un trattamento con terapia insulinica (insulina lispro e insulina glargine).
+
+Evoluzione
+Il paziente ha mostrato un'evoluzione clinica molto buona, con una risoluzione completa della focalità neurologica dopo aver iniziato il trattamento antibiotico e corticosteroideo. I successivi studi di follow-up con la risonanza magnetica cerebrale hanno mostrato una progressiva diminuzione delle dimensioni degli ascessi cerebrali fino alla loro scomparsa, così come l'edema cerebrale vasogenico e l'ascesso polmonare.

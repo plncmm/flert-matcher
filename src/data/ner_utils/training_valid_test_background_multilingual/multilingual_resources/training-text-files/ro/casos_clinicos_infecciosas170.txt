@@ -1,0 +1,41 @@
+Este prezentat cazul unui bărbat de 37 de ani, de origine africană, care trăiește în Spania de 10 ani. A consultat pentru dureri abdominale de 3 săptămâni de evoluție, febră/febrilitate și perimetru abdominal crescut.
+La examinare, stare generală bună, cu TA 110/70 mmHg, FC de 110 spm și TA de 37,8 oC. Abdomenul era dureros la palpare difuză, cu ascită fără tensiune. Nu există alte constatări de interes.
+Dintre studiile complementare, profilurile analitice au fost normale, cu excepția GPT 62 U/l, CPK 1695 U/l, CRP 177 mg/l, VSG 100 mm/h, hemoglobină 114 g/l, neutrofilie relativă 67% fără leucocitoză, fibrinogen 7,5 g/l și INR 1,4. Ecografia abdominală a evidențiat splenomegalie omogenă și lichid liber abundent, fără alte alterări. S-a efectuat paracenteză, iar biochimia a arătat 2214 celule/mm3 (95% mononucleare), proteine 59 g/L, ADA 154 mU/mL, LDH 728 mU/mL, gradient sero-ascită de albumină de 8,8 g/L. Hemoculturile, culturile de urină, microscopia frotiului și cultura de spută au fost negative. Radiografiile toracice și abdominale au fost normale, iar tomografia computerizată cu c/c intravenoasă a abdomenului a arătat adenopatii diafragmatice și mezenterice, lichid intraperitoneal abundent, intensificarea foilor peritoneale și infiltrarea marelui omentum.
+
+Diagnostic diferențial
+Este vorba de un pacient de origine africană, dar ținând cont de faptul că cea mai frecventă cauză a ascitei este hipertensiunea portală datorată cirozei hepatice (frecvență de 80%), trebuie excluse etiologiile multiple datorită prevalenței lor, precum și alte cauze mai puțin frecvente, dar posibile, datorită originii pacientului și a caracteristicilor socio-demografice și clinice:
+
+Hipertensiunea portală:
+- Ciroza (80% din toate cazurile de ascită).
+- Hepatita alcoolică acută: poate fi cauzată de hipertensiunea portală subiacentă datorată cirozei sau obstrucției venoase portale tranzitorii, împreună cu starea de malnutriție asociată.
+- Insuficiența hepatică acută: toate cauzele de hepatită acută fulminantă pot declanșa ascită.
+- Boala veno-ocluzivă hepatică (sindromul Budd-Chiari): obstrucție datorată trombozei a cel puțin 2 dintre cele 3 vene suprahepatice.
+- Insuficiență cardiacă.
+- Pericardită constrictivă: scăderea întoarcerii venoase poate declanșa ascită din cauza congestiei.
+
+Hipoalbuminemie:
+- Sindromul nefrotic.
+- Enteropatia cu pierdere de proteine.
+- Malnutriție severă. 
+
+Patologia peritoneală:
+- Ascita datorată unei malignități (cancer gastric, cancer colorectal, cancer pancreatic...): foarte dificil de diagnosticat, deoarece se prezintă într-un mod foarte asemănător cu alte patologii, principalele sale caracteristici vor fi trecute în revistă în discuție.
+- Peritonita infecțioasă:
+- Peritonita bacteriană spontană: trebuie exclusă la pacienții cirotici cu ascită.
+- Peritonita bacteriană secundară (perforație ascunsă): din cauza perforării viscerelor goale, caracteristicile lichidului ascitic ar fi diferite, cu celularitate ridicată și predominanță de PMN, iar prezentarea ar fi mult mai acută.
+- Tuberculoza peritoneală: având în vedere originea și forma de prezentare, este foarte probabilă, dar trebuie excluse alte cauze.
+- Peritonita fungică: în special la pacienții aflați în terapie de substituție renală cu dializă peritoneală, ceea ce nu este cazul nostru.
+- Paraziții: în mod excepțional, dar având în vedere originea pacientului, trebuie luați în considerare (hidatidoza, schistosomiaza, toxocaroza...), deși este foarte caracteristic ca acesta să se prezinte cu ascită eozinofilă.
+- Mezoteliom primar. Eozinofilii sistemice: Patologii sistemice cu afectare severă a organelor care pot duce la infiltrarea ficatului, cum ar fi sindroamele hipereozinofilice, sindromul Churg-Strauss etc. Aceștia se prezintă cu eozinofilie în LA. 
+
+Inflamator/Autoimunitar:
+Este necesar să se excludă patologia inflamatorie și autoimună, care poate evolua cu serozită:
+- Sindroame autoinflamatorii: febra mediteraneană familială, criopirinopatii, sindroame periodice asociate cu receptorul anti-TNF.... Este necesar un indice ridicat de suspiciune, deoarece ascita datorată serozitei este rară.
+- Boli autoimune: LES (rar), poliartrită reumatoidă, hepatită autoimună și colestază cronică (ciroză biliară primară și colangită primară în faza de ciroză etc. alte cauze: Sarcoidoză (formă rară de prezentare), ascită chiloasă (lichid ascitic lăptos, predominant trgliceride), ascită pancreatică (amilază crescută), mixedem, hemoperitoneu, afectare urologică....
+
+Evoluție
+În timpul spitalizării pacientului, se efectuează o nouă paracenteză (800 ml), cu lichid ascitic similar; acest lichid ascitic este centrifugat și pus în cultură. După 14 zile de spitalizare, s-a efectuat o laparoscopie diagnostică și s-au prelevat biopsii pentru cultură și anatomie patologică. Raportul laparoscopic a arătat simptome adezive masive, granule miliare în peritoneul parietal și visceral și în omentum, cu ascită considerabilă, compatibile cu peritonita tuberculoasă.
+Anatomia patologică raportează o inflamație granulomatoasă necrotizantă, iar cultura biopsiei este pozitivă pentru Mycobacterium tuberculosis în mediu Lowenstein, fără rezistență la izoniazidă sau rifampicină, cu PCR pozitiv; cultura de centrifugare a lichidului ascitic dezvoltă aceeași specie, cu PCR negativ. Tratamentul a fost inițiat cu 4 medicamente și prednison, cu evoluție excelentă și rezolvarea simptomelor.
+
+Diagnostic final
+Peritonita tuberculoasă.

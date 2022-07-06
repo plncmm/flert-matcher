@@ -1,0 +1,43 @@
+Motivo de consulta
+Pérdida de sensibilidad termoalgésica en miembro superior derecho (MSD) y pérdida de fuerza en miembro superior izquierdo (MSI) que apareció jugando a la videoconsola.
+
+Enfoque individual (anamnesis, exploración, pruebas complementarias)
+Anamnesis: varón de 14 años, sin antecedentes personales de interés ni tratamiento actual, que acude a su médico de Atención Primaria por presentar desde hace un mes pérdida de la sensibilidad termoalgésica en miembro superior derecho que ha ido progresando y que en las últimas dos semanas se acompaña de pérdida de fuerza en miembro superior izquierdo de predominio en musculatura flexora que nota en la realización de movimientos finos y que apareció jugando a la videoconsola. No fiebre. No dolor. No vómitos ni cambios en el hábito intestinal. No dificultad respiratoria ni para la deambulación.
+El mes previo, presentó un síndrome diarreico acompañado de fiebre y con un coprocultivo positivo para Camphylobacter jeyuni.
+
+Exploración física: buen estado general, bien hidratado y perfundido, consciente, orientado y colaborador. Eupneico en reposo. Afebril. No exantemas ni petequias.
+TA 110/76 mmHg; Sat O2 98%; FC 81lpm; To 36.2
+ACR: Tonos cardiacos rítmicos a buena frecuencia, sin soplos, roces ni extratonos audibles. Buen murmullo vesicular sin ruidos sobreañadidos.
+Abdomen blando depresible no doloroso a la palpación sin masas ni megalias ni signos de irritación peritoneal. Blumber y Murphy negativos. Ruidos hidroaéreos presentes.
+Miembros inferiores: sin edemas ni signos de trombosis venosa profunda. Pulsos presentes. Neurológico: PINLA, MOEC, pares craneales normales. No nistagmo. Mingazzini y Romber negativos. No dismetrías ni disdiacocinesias. Marcha sin alteraciones. Balance motor en MSI 4/5 con leve claudicación, leve pérdida de fuerza a la flexión y rigidez; en MSD 5/5, MID y MII 5/5. Reflejos hiperexaltados generalizados I>D. Clonus +++ en extremidades izquierdas. Sensibilidad en hemicuerpo izquierdo conservada y disminución de termoalgesia en MSD. Nivel sensitivo C3-D5 en hemitórax derecho.
+Dado los hallazgos en la exploración física y anamnesis se deriva Urgencias Hospitalarias para continuar el estudio.
+
+Pruebas complementarias
+Analítica:
+Hemograma: Hb 16.2 g/dl, hematocrito 48.4 %, VCM 54.2 fL, leucocitos 10720/mmc, neutrófilos 69.5%, plaquetas 234000/mmc;
+Coagulación en rango.
+Bioquímica: glucosa 108 mg/dL, urea 16.9 mg/dL, BUN 7.89, creatinina 0.76 mg/dL, bilirrubina 1.94 mg/dL (D 0.6, I 1.34), AST 14.6 U/L, ALT 8.9 U/L, CPK 80, Tiroxina 1.5, lipasa 16.5 U/L, amilasa 70 U/L, Na 141 mEq/L, K 3.62 mEq/L, Cl 99 mEq/L, Ca 9.97 mEq/L, PCR 1.65 mg/L.
+Gasometría venosa: pH 7.37, ppCO2 48.3 mmHg, HCO3 28 mmol/L, ppO2 41 mmHg.
+Radiografía de tórax: índice cardiotorácico normal, no se observan imágenes de condensaciones, hilios pulmonares normales y senos costofrénicos libres.
+Ingresa en planta de Neurología para continuar estudio.
+Resonancia Magnética Nuclear de cráneo y columna cervical: LOE en unión bulbomedular inicialmente sugestiva de glioma de bajo grado (astrocitoma vs ependimoma).
+
+Enfoque familiar y comunitario
+Independiente para las actividades básicas e instrumentales de la vida diaria. Vive con sus padres y hermana con buena relación y soporte familiar. Nivel socio-cultural medio. Buen estudiante.
+
+Juicio clínico (listado de problemas, diagnóstico diferencial)
+Juicio clíncico: LOE a nivel bulbomedular probable astrocitoma vs ependimoma.
+
+Diagnóstico diferencial: El diagnóstico diferencial debemos hacerlo con patologías como: siringomielia, neurinoma, neurofibroma, meningioma, mielitis, angiomas, angioblastomas intramedulares, metástasis.
+
+Plan de acción y evolución
+Dado los hallazgos en la RMN, se contacta con la unidad de neurocirugía pediátrica de hospital de referencia para valoración quirúrgica y se realiza traslado a su centro.
+Tras valoración por la unidad de Neurocirugía se acuerda en sesión clínica y familiares realizar intervención quirúrgica para exéresis de la lesión.
+Se realiza una Tractografía con distensión de fibras y adelgazamiento sin demasiada interrupción de los haces compatible con descompresión quirúrgica guiada.
+
+Se realiza descompresión intramedular de parte de la lesión infiltrante, con biopsias intraoperatorias compatibles con lesión glial de alto grado. La extensión de la lesión a la porción superior induce bradicardias severas por lo que se decide concluir la exéresis tumoral a nivel bulbar alto.
+Ingresa en UCI para el postoperatorio.
+
+Evolución: durante su ingreso en UCI el paciente evoluciona favorablemente de forma progresiva, en tratamiento con cefazolina en dosis única, analgesia, dexametasona y levetiracetam como profilaxis anticonvulsivante. Con controles analíticos y de imagen adecuados.
+Respondiendo a órdenes, en respiración espontánea por traqueostomía y buenas diuresis. Ya en planta, tolerando dieta triturada y en sedestación. Mantiene paresia en MSI en tratamiento por Rehabilitación.
+Se mantiene un contacto estrecho con el paciente y sus familiares desde atención primaria, visitándolos en el Hospital, manteniendo contacto telefónico, apoyando e intentando solucionar dudas o problemas surgidos durante todo el proceso.

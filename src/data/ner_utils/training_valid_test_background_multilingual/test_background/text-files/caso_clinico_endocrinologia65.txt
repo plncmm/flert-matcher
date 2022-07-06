@@ -1,0 +1,54 @@
+Presentamos el caso de una paciente de 69 años, mujer. Sin alergias medicamentosas conocidas. Como hábitos tóxicos destaca: exfumadora hace 20 años y consumo de alcohol esporádico.
+Dentro de los antecedentes personales destacan: HTA de 10 años de evolución, bien controlada, dislipemia, espondilitis anquilosante y espondiloartrosis.
+Como antecedentes quirúrgicos señalar: apendicectomia con 14 años e histerectomía por metrorragias.
+
+Tratamiento habitual: atenolol 50mg/24h, hidroclorotiazida 25 mg/24h, AAS 100 mg/24h, omeprazol 20mg/24h, simvastatina 10mg/24h, calcio-vitamina D 1 comp/24h
+
+Vida basal: independiente para las actividades de la vida diaria Jubilada. Vida activa.
+
+Acude en múltiples ocasiones al servicio de urgencias por HTA mal controlada en el último mes y dolor torácico tipo anginoso. Las constantes a su llegada al servicio de urgencias son TA 198/107, frecuencia cardiaca 69 lpm, 98% SpO2 sin aporte, afebril. En la exploración física cabe destacar obesidad. La auscultación cardiopulmonar fue rítmica sin soplos, murmullo vesicular conservado sin ruidos sobreañadidos, miembros inferiores sin edemas. Abdomen anodino. Neurológico sin alteraciones. En la analítica realizada en urgencias podemos observar hipopotasemia de 2.2 mEq/L, alcalosis metabólica con pH 7.6 y bicarbonato de 46 mEq/L. NT proBNP 1320. Se realizó también ECG que mostraba ritmo sinusal a 69 lpm, HVI, ondas T aplanadas en cara anterolateral.
+
+En ese momento y debido a las características del dolor se decide ingreso a cargo de cardiología para filiación del dolor torácico. Ya en planta de cardiología se realiza cateterismo de arterias coronarias de manera programada en la que se observan arterias coronarias sin estenosis significativas, descartando patología arteriosclerótica como causa del dolor torácico.
+Tras la realización del cateterismo y ante las alteraciones del medio interno se decide cambiar de cargo a la paciente a Medicina Interna para continuar estudio semiológico y llegar a un diagnóstico.
+
+Se rehistoria a la paciente, sobre el tipo de dolor torácico y acerca del control de la tensión arterial en el último mes. Y evalúan de nuevo a la paciente así como las pruebas complementarias, realizadas desde el ingreso. Ya en la exploración física señalan: aspecto cushingoide, abdomen sin estrías. En la analíticas consecutivas realizadas en planta: GPT 185, GGT 951, FA 110, LDH 2185, cortisol basal >61, persistiendo la hipopotasemia y la alcalosis metabólica a pesar de varios intentos por corregir la situación. Ante los hallazgos analíticos y de la exploración física desde medicina interna hacen IC al servicio de Endocrinología para mejor estudio de la paciente.
+
+En la primera evaluación por endocrinología se indago más en otros aspectos de la exploración física como fueron la plétora facial, el aumento de giba dorsal, la piel fina, y tendente a la equimosis. Esto se acompaña de importante pérdida de masa muscular más marcada en zonas proximales de miembros inferiores. En la exploración abdominal destacaba aumento de perímetro abdominal sin estrías rojo-vinosas. No hirsutismo. No pigmentación de piel y mucosas. Se le preguntó por déficit visual, aspecto que la paciente negaba.
+
+El servicio de endocrinología solicitó una analítica más específica con los siguientes datos: HbA1C 5.6%, ACTH 255, cortisol salival nocturno 25.2
+
+Con la anamnesis, la exploración física y el conjunto de pruebas realizadas se llegó a un diagnóstico preliminar de hipercortisolismo de origen endógeno.
+Tras observar la importante elevación de las enzimas hepáticas deciden realizar ecografía abdominal.
+
+En el informe que se adjunta a las imágenes de la ecografía se indicaba: Hígado muy heterogéneo por la presencia de múltiples lesiones focales que afectan de forma difusa a todo el parénquima, hipoecoicas o "en ojo de buey". Estas lesiones posteriormente fueron biopsiadas y los resultados se mostrarán más adelante.
+En las pruebas funcionales realizadas en la planta para confirmar la secreción hormonal excesiva e intentar poner algo de luz sobre el origen del proceso, se deben señalar las siguientes:
+
+• Cortisol tras supresión con 1 mg de dexametasona: >61 (no supresión)
+• Cortisol tras supresión con 8 mg de dexametasona: >61 (no supresión)
+• Cortisol libre urinario en orina de 24h: 1485 mcg/24h
+• Marcadores tumorales:
+• Cromogranina A 690
+• Enolasa >200
+• Péptido liberador de gastrina 2381
+
+Para continuar con el proceso diagnóstico se indicó la realización de las siguientes pruebas de imagen con el objetivo de poder caracterizar la lesión primaria de sospecha, así como para conocer la extensión de la enfermedad y la posibilidad de llegar a un diagnóstico anatomopatológico completo.
+
+En el informe radiológico del TAC se indicaba: nódulo pulmonar de 18 mm, de aspecto sólido y bordes lobulados en segmento anterior de lóbulo superior izquierdo, incontables lesiones hepáticas de hasta 2-3 cm, que fueron biopsiadas, e hiperplasia adrenal bilateral.
+
+• IMAGEN: 18F-FDG PET/TC
+
+Imagen MIP y cortes axiales de abdomen que muestran la presencia de múltiples focos de captación sobre lesiones hipodensas que afectan a la práctica totalidad del parénquima hepático, compatibles con infiltración neoplásica hepática masiva.
+
+• IMAGEN 1: Cortes axiales de abdomen en los que se aprecian la presencia de un foco hipermetabólico sobre la glándula adrenal derecha
+• IMAGEN 2: Cortes axiales de tórax en los que se aprecia la presencia de un nódulo pulmonar de débil-moderada actividad metabólica en el lóbulo superior izquierdo
+
+99m Tc-Octreótido (TEKTROTYD)
+
+Estudio gammagráfico cérvico-torácico-abdomino-pélvico, a las 3 horas de la administración de TEKTROTYD marcado con 99mTc, en el que se observa una biodistribución fisiológica del radiotrazador, sin evidenciar alteraciones gammagráficas
+significativas.
+
+Imágenes del estudio SPECT/TC a las 3 horas de la administración de TEKTROTYD marcado con 99mTc, en el que se observa una biodistribución fisiológica del radiotrazador. En las imágenes de la TC se visualizan múltiples lesiones hipodensas, que afectan a ambos lóbulos hepáticos, que no muestran avidez significativa por el radiofármaco.
+
+Estudio de Anatomía Patológica Tras la realización de las múltiples pruebas de imagen, se obtuvieron los resultados de la Anatomía patológica de las biopsias hepáticas. Se realizaron técnicas de H-E, así como estudio inmunohistoquímico para caracterizar tanto la capacidad de división del tejido (Ki-67), como marcadores específicos de tejido (CK7, TTF1) , realizándose también tinciones especiales para tumores de estirpe neuroendocrina (Sinaptofisina, cromogranina A) Algunas de las imágenes más relevantes son las que se exponen a continuación.
+
+Neoplasia epitelial de células de tamaño grande, numerosas mitosis (16/2 mm2), extensas áreas de necrosis.

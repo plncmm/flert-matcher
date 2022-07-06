@@ -1,0 +1,26 @@
+Anamnesis
+Female patient starting at 52 years of age, with a history of obesity and, as obstetric history, three pregnancies, one of them spontaneous abortion. No family history of interest. As usual medication, she only takes oral contraceptives. She has no known allergic reactions to medication.
+She began in August 2018 with dyspnoea on moderate exertion that progressively worsened until, in October 2018, she attended the emergency department, where a CT angiography was performed to rule out pulmonary thromboembolism, in which areas of lung parenchyma in ground glass were detected, as well as bone lesions suggestive of secondary deposit and a nodule in the left breast suggestive of malignancy.
+The study was completed on an outpatient basis with a thoracoabdominal-pelvic CT scan performed in October 2018, in which pulmonary spiculated nodules suggestive of metastasis were also detected, as well as images compatible with carcinomatous lymphangitis. Mammography and ultrasound of the breast and axilla were then performed and three BIRADS5 lesions were detected, two of them in the right breast and one of them in the left breast, as well as bilateral axillary lymph nodes with an unspecific appearance.
+On biopsy, all the lesions showed histology of infiltrating ductal carcinoma histological grade 2, with highly positive hormone receptors, HER-2 negative and Ki67 of 5%.
+With the diagnosis of bilateral luminal infiltrating ductal carcinoma A stage IV due to bilateral bone and lung disease, it was decided to start first-line systemic treatment with weekly paclitaxel, which began on 20 November 2018.
+On 21 November 2018, he returned to the emergency department for dyspnoea at rest that had worsened in the last few days, not associated with cough or expectoration, chest pain, fever or dysthermic sensation, or other symptoms in the anamnesis by apparatus and systems.
+
+Physical examination
+Physical examination revealed a baseline oxygen saturation of 89%, with haemodynamic stability. Pulmonary auscultation revealed bilateral hypoventilation and isolated wheezing, with no other significant findings.
+
+Complementary tests
+Laboratory tests showed leukocytosis with 12,100 leukocytes with a predominance of neutrophils, without elevation of acute phase reactants, as well as partial respiratory failure with partial oxygen pressure of 58 mm Hg, with no other associated alterations.
+The patient was admitted for further investigation, and a CT scan of the chest showed new pericardial effusion, as well as an increase in pleural effusion of small amount with irregular morphology, which did not allow the presence of pleural implants to be ruled out. In addition, he had ground-glass opacities and bilateral lamellar opacities, and atelectasis of the middle lobe and lingula.
+A transthoracic echocardiogram was performed, showing mild pericardial effusion that did not justify respiratory failure, with normal ejection fraction.
+Given the persistence of symptoms, it was decided to continue the study with fibrobronchoscopy, in which hypervascularised whitish lesions were observed in the right upper bronchus and bronchus intermedius, which were biopsied, and a sample was also taken by bronchoalveolar lavage, which was sent for cytology. Samples were sent to Microbiology, with negative results for aerobic cultures, mycobacteria and fungi, as well as the determination of Aspergillus and cytomegalovirus.
+The pathological anatomy confirmed bronchial infiltration by adenocarcinoma with positivity for oestrogen receptors and negative HER-2. Cytology also detected cells suggestive of malignancy.
+Diagnosis
+The bronchial mucosa biopsy confirms the diagnosis of endobronchial metastases of mammary origin, which justifies the patient's symptoms.
+
+Treatment
+It was decided to continue with the systemic treatment regimen, administering the second dose of the first cycle of paclitaxel, and symptomatic treatment was adjusted with oral morphine and corticotherapy, and home oxygen therapy was prescribed, and the patient was discharged.
+
+Evolution
+The patient presented an allergic reaction to paclitaxel, which, added to the progressive worsening from the respiratory point of view, having required two admissions for acute episodes of bronchospasm with respiratory failure, led to a change in treatment to adriamycin at 75 mg/m2 per month divided into 3 doses, which she started on 28 December 2018 and received until 8 February 2019.
+He presented progressive improvement in dyspnoea, and oxygen therapy could be withdrawn, with radiological improvement in CT scan in February 2019, so it was decided to switch to letrozole associated with palbociclib, treatment that continues at the present time.

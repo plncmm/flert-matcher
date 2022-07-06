@@ -1,0 +1,31 @@
+Anamnesi
+Diagnosticat al desembre 2012 de carcinoma de cèl·lules renals després de troballa casual en revisió ecogràfica. Es planteja el cas en Comitè de Tumors Urològics, que, en tractar-se de malaltia localitzada, sense afectació a un altre nivell en estudi d'extensió, es decideix nefrectomía radical amb intenció curativa. L'Anatomia Patològica confirma el diagnòstic de carcinoma renal de cèl·lules clares estadificándose com T3aN0M0.
+El pacient continua seguiment en consultes d'Oncologia mitjançant proves d'imatge, mantenint-se en resposta completa fins a març 2014 quan, en TC de reavaluació, s'identifica progressió a nivell pulmonar amb múltiples nòduls pulmonars bilaterals d'una grandària màxima d'11 mm.
+Sent catalogat el pacient com de bon pronòstic atesa la classificació de Heng, s'inicia tractament antiangiogénico de primera línia amb pazopanib: 800 mg/dia via oral. Com a toxicitat secundària a pazopanib, va presentar pal·lidesa cutània i coloració blanca del cabell, astènia grau 3, disgeusia grau 2 i diarrea grau 2 que va requerir reducció de dosi a 600 mg/dia amb bona tolerància.
+Continua tractament amb pazopanib, presentant resposta parcial durant els primers mesos i posteriorment mantenint-se en malaltia estable amb una adenopatia mediastínica i una única lesió pulmonar visible en lòbul superior decidint-se continuar pazopanib. Després de quatre anys amb malaltia estable mantinguda amb pazopanib, presenta en TC de febrer de 2018 nova progressió a nivell pulmonar amb reaparició de les lesions pulmonars al diagnòstic.
+Va iniciar tractament de segona línia amb immunoteràpia amb nivolumab, aconseguint estabilització de la seva malaltia oncològica fins que al juny 2018 (cinc mesos després d'haver començat amb nivolumab), ingressa en planta d'Oncologia per detectar-se en analítica de control trombocitopenia severa (5.000 plaquetes) i sagnat extern consistent en epistaxis i petèquies en extremitats inferiors. Davant sospita de toxicitat hematològica inmunomediada, se sol·liciten test de Coombs directe i indirecte, sent tots dos negatius així com serologia de virus, detectant-se positivitat per a parvovirus B19. Es va valorar possibilitat de porpra trombocitopénica immune grau 4 secundària a nivolumab, i es pautó tractament mitjançant corticoterapia amb recuperació de xifres de plaquetes.
+Davant el dubte que el quadre hematològic fos secundari a antibiòtics que el pacient havia rebut en el mes previ per infecció respiratòria o ben desencadenada per quadre víric, es va decidir reiniciar tractament amb nivolumab.
+Un mes després, el pacient acudeix a Urgències per febre 39 oc, augment de tos sense expectoració, dispnea de moderats esforços de quatre dies d'evolució.
+
+Exploració física
+ECOG 1. Estable hemodinámicamente. Taquipnea durant la conversa. Durant l'auscultació cardiopulmonar: tons cardíacs rítmics, crepitantes bibasales. Extremitats inferiors: augment d'edemes amb discreta fòvea sense signes de trombosis ves-nos profunda.
+
+Proves complementàries
+Hemograma i bioquímica sanguínia incloent ionograma, funció renal i proves de funció hepàtica sense alteracions. Gasometria arterial: insuficiència respiratòria, alcalosis respiratòria.
+Radiografia de tòrax: infiltrats pulmonars de predomini dret.
+TC de tòrax: extensa afectació intersticial de predomini en hemitórax dret amb patró de predomini reticular secundari al tractament inmunoterápico. Àrees de consolidació en lòbul superior dret en relació amb sobreinfección.
+Durant l'ingrés, refereix persistència de fatiga, feblesa generalitzada, nàusees i vòmits. Se sol·licita perfil hormonal destacant hipotiroïdisme i insuficiència suprarenal secundaris de nova aparició. Es va decidir completa l'estudi mitjançant ressonància magnètica (RM) cerebral amb gadolini sense objectivar-se captacions patològiques, hipòfisis de grandària, morfologia i situació normals.
+
+Diagnòstic
+» Neumonitis inmunomediada grau 3 secundària a tractament amb nivolumab.
+» Panhipopituitarismo secundari a hipofisitis grau 2 per nivolumab.
+
+Tractament
+Quant al maneig de la neumonitis; se sol·licita col·laboració amb Unitat de Malalties Infeccioses per a descartar etiologia de sobreinfección atípica. Se suspèn tractament amb nivolumab. S'administra metilprednisolona intravenós 1 mg/kg/dia, s'afegeix antibioterapia empírica i es realitza broncoscòpia amb resultats microbiològics negatius.
+Per al maneig del panhipopituitarismo, es treballa conjuntament amb endocrinologia pautándose tractament corticoide i suplementació hormonal.
+
+Evolució
+El pacient va presentar una evolució tòrpida amb un llarg ingrés complicat amb descompensació d'insuficiència cardíaca i aparició de fibril·lació auricular ràpida de novo que va requerir ajust de tractament per part de Cardiologia.
+Com a complicacions secundàries a altes dosis i ús prolongat de corticoterapia, el pacient va desenvolupar síndrome de Cushing iatrogénico i quadre maníac-depressiu que va requerir control per part de Psicosomàtica.
+Després de recuperació de la clínica per la qual va precisar l'ingrés, i malgrat no existir progressió de la seva malaltia oncològica en proves d'imatge, donada impossibilitat de continuar amb immunoteràpia per toxicitat secundària (porpra trombocitopénica immune grau 4/neumonitis grau 3/hipofisitis grau 2), es comença tercera línia amb cabozantinib a l'octubre 2018 mantenint-se en malaltia estable fins al moment actual. Com a clínica que ha limitat la seva qualitat la seva vida durant aquest temps ha estat persistència d'astènia grau 3 i exacerbació de la seva dispnea habitual, motiu pel qual ha requerit seguiment per part de Cardiologia, detectant-se en ecocardiograma de control, fracció d'ejecció del ventricle esquerre entorn de 20%.
+Actualment, s'ha de valorar risc-beneficio de mantenir tractament amb cabozantinib, fins i tot sabent que aquest tractament empitjoraria la seva dispnea i astènia i s'ha decidit reiniciar cabozantinib a dosi reduïda (40 mg/dia).

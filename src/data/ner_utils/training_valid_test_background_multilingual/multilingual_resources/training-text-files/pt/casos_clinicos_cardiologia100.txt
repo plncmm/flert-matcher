@@ -1,0 +1,21 @@
+Paciente encaminhado para a Cardiologia pela Neurologia para avaliação. 
+
+História, doença actual e exame físico
+
+História da família: Mãe com gravata de língua sem paralisia facial. Dois irmãos e dois sobrinhos com síndrome de Steinert. Duas crianças saudáveis.
+
+História actual: O paciente apresentou novas anomalias de electrocardiograma (ECG) consistindo num PR de 280 milissegundos (msg), QRS de 150 msg, com uma imagem de bloco de ramo esquerdo completo (LBBBB).
+Electrocardiograma dois anos antes, sem perturbações de condução. Foi avaliado como paciente externo no Departamento de Cardiologia, e foi-lhe pedido o implante de um marca-passo. O paciente nega síncope, pré-síncope, palpitações ou outros sintomas.
+
+Testes complementares
+- ECG na admissão: Ritmo sinusal a 75 bpm. PR 240-280 msg. QRS de 150 msg. BCRI.
+- ECG em consultas de Neurologia em 2010: ritmo sinusal a 70 bpm. PR 180-200 msg. QRS de 80 msg. Nenhuma alteração na condução intraventricular.
+- Exames de sangue: Glucose, iões e função renal normais. Sem anemia ou leucopenia. Plateletopenia de 84.000 plaquetas mm3.
+- Ecocardiografia transtorácica: ventrículo esquerdo não dilatado ou hipertrófico. Átrio esquerdo não dilatado. Válvula mitral de cúspide fina não espessada com jacto de insuficiência central ligeira. Padrão de enchimento mitral com onda E>A. Válvula aórtica trivalvar com abertura e fecho adequados. Raiz aórtica e aorta ascendente de tamanho normal. Fração de ejeção ventricular esquerda preservada sem defeitos de contratilidade segmentar. Câmaras direitas normais em tamanho e função. Regurgitação tricúspide suave dirigida medialmente com um gradiente atrioventricular de 17 mmHg, que permite estimar uma pressão de artéria pulmonar de 30 mmHg. Insuficiência pulmonar trivial. Veia cava não colapsada e não dilatada. Sem derrame pericárdico.
+- Raio-X ao tórax: Silhueta cardíaca no limite da normalidade sem alterações ao nível do parênquima pulmonar. Sem efusão pleural.
+
+Evolução clínica
+O paciente foi admitido numa base programada para implante de marcapasso devido ao aparecimento no ECG de distúrbios de condução que não estavam anteriormente presentes sem estarem associados a doenças cardíacas estruturais.
+
+Diagnóstico
+Doença de Steinert com distúrbios de condução que requerem uma estimulação definitiva.

@@ -1,0 +1,43 @@
+Anamneză
+Bărbat în vârstă de 32 de ani cu antecedente de colelitiază recurentă. Fără obiceiuri toxice. Colecistectomia laparoscopică. Niciun alt istoric.
+
+A consultat serviciul de urgență în iunie 2014 pentru un tablou clinic de 2 luni de disfagie progresivă, în principal pentru solide, asociată cu dispnee la efort în ultimele 15 zile.
+
+Examinarea fizică
+ECOG 0. Stabil hemodinamic. Eupneic. Tumoră suprasternală cu un diametru de aproximativ 10 cm. Stridor la auscultația traheală. Nu există pletoră sau semne clinice de sindrom de vena cavă superioară. Laringoscopia indirectă efectuată în departamentul de urgență: nicio modificare. Auscultația cardiacă: normală. Auscultația pulmonară: rezonanțe dispersate. Abdomen și extremități: fără modificări.
+
+Teste complementare
+În timpul studiului, în departamentele de urgență, de resuscitare și de hematologie:
+" Radiografie toracică (5/6/2014): lărgire mediastinală superioară.
+"CT CTAP (5/6/2014): masă cervico-toracică măsurând 11 x 16 x 5 cm. Ocupă mediastinul anterior și este situat sub tiroidă, cu care nu are nicio legătură. Masa deplasează și comprimă lumenul traheal, care are un diametru minim de 4 mm. Impresia de vena cavă superioară cu circulație venoasă colaterală abundentă în musculatura paravertebrală. Nu sunt demonstrate metastaze pulmonare sau adenopatii retroperitoneale.
+"BAG de masă mediastinală (5/6/2014): AP de tumoră germinală: seminom.
+"Imunohistochimie (IHQ):
+- Oct-4, D2-40, C-Kit și PLAP: pozitive în celulele tumorale.
+- CD-20 și CD79a: pozitiv în limfocitele B.
+- CD3: pozitiv în populația limfoidă B.
+- CD30, CD138, EMA, AE1/AE3 și alfa-fetoproteina: negativ.
+
+Cu aceste rezultate, a fost transferat la Serviciul de Oncologie Medicală la 10/6/2014 pentru continuarea studiilor:
+"Ecografie testiculară (11/6/2014): ambele testicule sunt omogene și cu vascularizație normală.
+Chist simplu de 2 cm în capul epididimului drept.
+"Teste respiratorii funcționale: pattern ventilator obstructiv sever/foarte sever cu amputarea curbei flux/volum inspirator și expirator compatibil cu obstrucția traheală fixă deja cunoscută prin CT. Test bronhodilatator (+).
+"Hemograma (11/6/2014): trombocite 305.000, leucocite 16.200 (neutrofile 13.400), LDH 653 UI/l, glucoză, uree, creatinină, sodiu, potasiu în limite normale. Alfa-fetoproteina (11/6/2014) 1.431, beta-HCG (12/6/2014) 901,7, acid uric, feritină, acid folic, vitamina B12, beta-2 microglobulină, hormoni tiroidieni, anticorpi antitiroidieni TP și anticorpi antitiroglobulină în valori normale. Serologia pentru VHB, VHC și HIV este negativă. Coagulare: normală, fibrinogen 509.
+
+Diagnostic
+Tumoră mixtă mediastinală extragonadică cu celule germinale. Prognostic slab conform clasificării IGCCCG.
+
+Tratament
+Cu diagnosticul de tumoră germinală mixtă extragonadică, s-a început primul ciclu de chimioterapie cu intenție radicală conform schemei convenționale BEP (bleomicină 30 UI zilele 1, 8, 15 + etopozid 100 mg/m2 zilele 1-5 + CDDP 20 mg/m2 zilele 1-5/21 zile x 4 cicluri). A fost inițiat un tratament cu alopurinol pentru a preveni sindromul de liză tumorală.
+
+Evoluție
+După patru cicluri, s-a efectuat o reevaluare CT TAP la 24/9/2014, care a arătat un răspuns parțial, astfel că cazul a fost prezentat comisiei de chirurgie toracică la 9/10/2014, respingându-se tratamentul chirurgical al masei mediastinale reziduale din cauza riscului chirurgical ridicat în raport cu suspiciunea de infiltrare tumorală la nivelul traheei și al ambelor trunchiuri brahiocefalice.
+
+La data de 14.10.2014 a fost efectuată o scanare PET-CT, unde s-a observat că masa cervico-toracică anterioară prezenta o activitate metabolică marcant neregulată, cu zone de absență a activității metabolice împreună cu zone de hipermetabolism ridicat (SUV maxim 9,5).
+
+Astfel, odată cu diagnosticul unei tumori nerezecabile cu captare PET intensă, se propune chimioterapia în conformitate cu schema TIP.
+
+La data de 16/10/2014, în consultație, pacientul a prezentat o creștere a dimensiunii masei la nivel supraclavicular, hotărând să solicite o a doua opinie la un alt centru, unde tumora a fost considerată rezecabilă. La 6/11/2014 a fost efectuată o rezecție macroscopică completă (PA: leziune reziduală de teratom malign, cu prezența unor zone de displazie epitelială severă și cel puțin un focar limitat de posibilă transformare carcinomatoasă. IHC: pozitivitate intensă pentru citokeratina AE3/AE1. Ki-67% în zonele cele mai mature. Pozitiv pentru CEA. AFT ușor pozitivă în întregul epiteliu). 
+
+La revizia CT TAP după intervenția chirurgicală, a existat o scădere semnificativă a afectării mediastinului anterior precardiac, precum și a afectării venei cave superioare.
+
+Având în vedere că nu există nicio tumoră germinală viabilă reziduală, pacientul nu necesită chimioterapie complementară și este în prezent sub monitorizare strictă în centrul nostru.

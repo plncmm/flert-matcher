@@ -1,0 +1,28 @@
+Personal History
+DMNIR, psoriasis treated with corticosteroids and methotrexate, episode of lithiasic right obstructive uropathy complicated with renal abscess due to Candida albicans and Pseudomona MR with fungemia, after TUR 8 months earlier (funduscopy, transthoracic echocardiography and subsequent negative urine culture).
+
+Present Illness
+A 71-year-old man was admitted with fever of 4 days' duration, cough and severe dorsolumbar pain.
+After 48 hours he presented with pain and coldness in MID.
+
+Examination
+Febrile, fair general condition. BP: 90/60mmHg. Cardiopulmonary auscultation: rhythmic, no murmurs, rhonchi.
+Pain on dorsal palpation. MID: distal coldness, fixed cyanosis in lateral compartment, pallor and tibio-peroneaastragaline rigidity.
+Only palpable right femoral and left pedial pulses.
+
+Complementary tests
+Of note: elevated acute phase reactants and pre-renal renal failure (chest X-ray and ECG normal).
+- 1st: What was behind this acute ischaemia?
+Aetiologically, it could be due to: arterial embolism (AF, myocardial infarction or left ventricular dysfunction, endocarditis, valvular disease or prosthesis, myxoma, aneurysm, atherosclerotic plaque or paradoxical embolism), arterial thrombosis (graft, atherosclerosis, aneurysmal thrombosis, entrapment syndrome, hypercoagulability or low flow) or by dissection or direct trauma.
+Transthoracic ultrasound showed an image compatible with aortic endocarditis. In parallel, microbiology isolated fluconazole-resistant Candida albicans in blood cultures. No retinal embolisation. Thoracic-abdominal CT: spondylodiscitis D7-D8.
+- 2nd: Endocarditis on native aortic valve due to azole-resistant Candida albicans,
+criteria? treatment?
+According to the modified Duke criteria, it was a definite infective endocarditis (1 major and 4 minor clinical criteria).
+Echinocandin or amphotericin B +/- Flucytosine at high doses is recommended. After initial iv treatment, reduce to an oral azole for at least 6 more weeks after surgery, except in fluconazole resistance, where voriconazole or posaconazole is recommended if sensitive. If resection is not possible, prolong treatment.
+Our case was treated with caspofungin, valve resection and supracondylar amputation. - 3rd: Did he have endocarditis on 1st admission?
+Certainly there were no criteria and it was reasonably ruled out. But the recurrence of fungemia without new urological complications leads us to suspect that some focus persisted over time and endocarditis would be the first candidate.
+
+Final Diagnosis
+- Endocarditis on native aortic valve due to azole-resistant Candida albicans.
+- Acute grade iii ischaemia at mid and spondylodiscitis d7-d8, probably secondary to septic emboli.
+

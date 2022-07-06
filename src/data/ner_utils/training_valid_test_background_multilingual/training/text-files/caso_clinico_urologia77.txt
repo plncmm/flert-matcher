@@ -1,0 +1,29 @@
+Anamnesis
+Paciente varón de 76 años de edad, con antecedentes de diabetes mellitus, hipertensión arterial, fibrilación auricular anticoagulada con acenocumarol, que acude al Servicio de Urología por presentar un cuadro clínico de 6 meses de evolución, caracterizado por un nódulo en el cuerpo del pene.
+
+Examen físico
+A la palpación presenta un nódulo de 1 cm de tamaño que rodea gran parte de los cuerpos cavernosos. Al tacto rectal, se palpa próstata con lóbulo derecho pétreo y lóbulo izquierdo indurado. Adenopatías locorregionales no palpables.
+Pruebas complementarias
+• Hemograma: destaca leucocitosis de 12,81 mil./mm3 con linfocitosis relativa de 31,2%.
+• Bioquímica de sangre: glucosa 147 mg/dl, creatinina 1,38 mg/dl.
+• Sistemático y sedimento de orina: leucocitos 20-30/campo. Bacteriuria moderada.
+
+• Urocultivo: > 100.000 UFC/ml de Citrobacter koseri.
+• B-HCG < 1,2 uUI/ml.
+• Antígeno carcinoembrionario 1,29 ng/ml.
+• Alfa-fetoproteína 3,41 ng/ml.
+• Antígeno prostático específico (PSA): 26,48 ng/ml.
+• CA 19.9 11,95 UI/ml.
+• CA 15.3 7,5 U/ml.
+• Ecografía peneana: en el cuerpo cavernoso derecho se observa un nódulo de 1 cm de diámetro, hipoecogénico. En la base del pene se observa otro nódulo, localizado entre el cuerpo esponjoso y el cuerpo cavernoso izquierdo, de 2 cm, bilobulado e hipoecogénico. Ambas lesiones se encuentran muy vascularizadas.
+• Tomografía computarizada (TC) tóraco-abdominal: alteraciones a nivel del parénquima pulmonar, en relación con imágenes de bullas y nódulo de características indeterminadas en el pulmón izquierdo. Próstata aumentada de tamaño (5 cm), con calcificaciones en su interior.
+• Resonancia magnética (RM) pélvica: en la cara posterior del pene se identifican dos nódulos de 2 y 3 cm de eje máximo, que infiltran los cuerpos cavernosos, fundamentalmente el izquierdo y el cuerpo esponjoso, presentan una intensidad de señal discretamente elevada en todas las secuencias respecto a la señal del cuerpo cavernoso, con un intenso realce desde las fases iniciales del estudio dinámico. En la glándula prostática, en el lado derecho de la región periférica, a nivel de la base y la zona media, se identifica una masa que produce alteración de la señal, se extiende hasta la cápsula prostática en esa localización, afectando también a la vesícula seminal del mismo lado.
+
+Diagnóstico
+Adenocarcinoma de próstata con metástasis peneanas sincrónicas.
+
+Tratamiento
+Se instauró tratamiento con bicalutamida en combinación con leuprorelina acetato.
+
+Evolución
+Se le realiza biopsia del nódulo peneano. El estudio anatomopatológico reporta biopsia de cuerpo cavernoso con infiltración por carcinoma. El estudio inmunohistoquímico pone de manifiesto que la neoplasia es positiva para vimentina, CD10, Cam-5.2 y racemasa; es negativa para citoqueratinas (CK7, CK20 y CK5/6), uroplaquina, fosfatasa alcalina placentaria, CD117, PSA y factor de transcripción tiroideo 1 (TTF-1). La lesión sugiere origen renal por hallazgo de células claras (vimentina y CD 10 +); además habría que descartar tumor urotelial y prostático con neoplasia intraepitelial prostática por marcador de racemasa +. La TC no evidencia hallazgos de lesiones que sugieran tumor primario en el riñón. Se realiza resección transuretral de vejiga, así como citologías ureterales y biopsias prostáticas transrectales ecodirigidas. Durante el intraoperatorio se objetiva rigidez en la uretra peneana en relación con metástasis y cierto priapismo. Evoluciona lenta pero favorablemente en el postoperatorio, con hematuria que cede con las medidas conservadoras habituales. Se inicia tratamiento con bloqueo hormonal (bicalutamida) durante su estancia. El informe de Anatomía Patológica muestra adenocarcinoma de próstata patrón 8 (3 + 5) de Gleason. Se retira la sonda vesical, y es dado de alta en buen estado general, tras micción espontánea de orina no hematúrica. Posteriormente, se inicia tratamiento con leuprorelina acetato. Actualmente presenta disminución del antígeno prostático específico, siendo este de 1,17 ng/ml, y el previo de 26,48 ng/ml.

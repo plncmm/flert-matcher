@@ -1,0 +1,44 @@
+Anamneză
+Un bărbat de 69 de ani cu antecedente personale de hipertensiune arterială și insuficiență renală cronică secundară glomerulopatiei IgA. A primit primul transplant de rinichi în iulie 1996, cu respingere acută corticosensibilă în prima lună de la transplant. În prezent, grefa funcționează normal.
+În iulie 2012, s-a prezentat la serviciul de urgență cu febră, durere în fosa iliacă stângă (LIF) și scăderea forței la nivelul membrului inferior stâng.
+
+Examinarea fizică
+Tensiunea arterială 128/77 mmHg, temperatura 39,7oC. Abdomenul ușor dureros la palpare în LIF. Membrele inferioare: coapsa stângă crescută în dimensiune față de cea contralaterală, cu ușoară împingere.
+
+Teste complementare
+Teste efectuate la prima internare:
+- Analize de sânge: creatinină 1 mg/dl, hemoglobină 11 g/dl. Leucocite: 6.500 (formula normală).
+- Ecografie abdominală: colecție perirenală, subcapsulară, anecoică, care înconjoară rinichiul cu o grosime maximă de 4 cm. Dilatarea medie a caliciului: 2,5 cm.
+- Ecografia membrelor inferioare: niciun semn de tromboză venoasă profundă.
+- Tomografie computerizată (CT) și URO-CT: imagine de infarct renal probabil în mezorenum cu hematom subcapsular cu dilatație calcifică în zona infarctului/ruptura renală.
+- Scintigrafia renală: hipocaptare în mezorenum cu defect cortical. Teste efectuate la a doua internare:
+- Analiza lichidului drenat: aspect seros, ușor gălbui. Glucoză 107 mg/dl, creatinină 1 mg/dl, sodiu 144 UmEq/l, potasiu 4 mEq/l, proteine 0,59 mg/dl, albumină 0,6 g/dl, colesterol 6 mg/dl, trigliceride 4 mg/dl și amilază 6 UI7l. Cultură sterilă și studiu citologic: negativ pentru malignitate.
+- Limfoscintigrafia membrelor inferioare și a abdomenului: normală.
+- Imunoelectroforeză (IEF) în ser: 42,2% Alb; 9,9% alfa-1; 19,2% alfa-
+2; 12,2% beta; 15,7% gamma; 1.110 IgG; 694 IgA; 271 IgM.
+- Imunofixare serică: bandă monoclonală lambda IgM (necuantificabilă).
+- IEF urină: normal (Bence-Jones: negativ).
+- Lichidul de drenaj IEF: fără benzi monoclonale. Nivelurile de EPO: 8.43
+(4-20).
+- Beta-2 microglobulină: 2,7 (0,8-2,2).
+- Biopsia măduvei osoase: normală.
+- Studiul citologic al măduvei osoase: 3% plasmocite fără atipie.
+
+Diagnostic
+Analiza lichidului drenat ne-a ajutat să eliminăm diverși factori etiologici, cum ar fi hematomul, abcesul, urinomul sau limfocelul.
+În absența unui factor etiologic clar care să cauzeze colecția perirenală și persistența acesteia în ciuda încercărilor de scleroterapie cu povidonă iodată, am revizuit literatura științifică și am găsit o descriere a unui nou sindrom sub acronimul TEMPI, care includea următoarele constatări clinice: telangiectazii, eritrocitoză, gammopatie monoclonală, colecție perirenală și șunt pulmonar cu hipoxemie.
+Deși în cazul nostru pacientul nu îndeplinea niciunul dintre elementele, cum ar fi prezența eritrocitozei sau a hipoxemiei, prezența unei colecții perirenale cu sângerare de la suprafața acesteia și paraproteina monoclonală ne-a obligat să efectuăm o biopsie de măduvă osoasă, care a exclus mielomul multiplu; ne-am confruntat, așadar, cu o gamapatie monoclonală de semnificație incertă (MGUS).
+În ciuda faptului că nu îndeplinește toate criteriile pentru sindromul TEMPI, am considerat că rezultatele descrise mai sus și răspunsul pacientului la tratamentul cu rituximab ne-au făcut să credem că gamapatia monoclonală a fost cauza etiologică a tabloului clinic.
+
+Tratament
+La prima internare, s-a decis începerea tratamentului ATB cu meropenem și daptomicină și drenajul colecției prin CT.
+Ulterior, a existat o recidivă a colecției, astfel că s-a decis efectuarea marsupializării chirurgicale și sclerozarea cu povidonă iodată, cu plasarea unui tub de drenaj, cu debit ridicat persistent.
+După ce s-au constatat benzi monoclonale în FTI seric, s-a decis începerea tratamentului cu rituximab (350 mg/dl), cu dispariția colecției și ameliorarea clinică netă a pacientului.
+
+Evoluție
+În august 2012, s-a înregistrat o ameliorare clinică semnificativă după 15 zile de tratament cu ATB. Testul de hipercoagulabilitate fiind negativ, iar virusul Epstein-Barr negativ, s-a decis efectuarea unei noi tomografii computerizate și urmărirea în ambulatoriu.
+În septembrie 2012, pacientul s-a prezentat din nou cu impotență funcțională a membrului inferior stâng, care îl împiedica să meargă, cu eritem local și control deficitar al tensiunii arteriale.
+Examenul fizic a relevat o tensiune arterială de 189/104 mmHg. Afebril. Abdomen cu o grefă renală mărită în IFJ, cu palparea unei mase perirenale.
+Analizele de sânge au arătat o ușoară deteriorare a funcției renale, cu o creatinină de 1,2 mg/dl. A fost efectuată o ecografie de urgență, care a arătat o recidivă a colecției subcapsulare.
+S-a decis apoi să se efectueze o intervenție chirurgicală cu intenție curativă: marsupializarea colecției mari, probabil subcapsulară la peritoneu, cu plasarea unui tub în T. Rinichiul avea un aspect friabil, sângerând la frecare și necesitând o hemostază intensă. Aspectul lichidului drenat a fost unul seros și limpede. După operație, debitul a fost mai mare de 1.500 ml timp de o săptămână, cu reducerea ulterioară după o săptămână la <1.000 ml/zi, cu dispariția impotenței funcționale.
+După ce s-a constatat gammopatie monoclonală în serul pacientului, s-a început tratamentul cu prima doză de rituximab, cu scăderea debitului la <200 ml/zi. Cu a doua doză de rituximab, s-a observat o scădere la <50 ml/zi, iar drenajul a fost îndepărtat și pacientul a fost externat.

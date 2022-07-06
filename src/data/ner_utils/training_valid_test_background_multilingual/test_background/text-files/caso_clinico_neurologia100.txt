@@ -1,0 +1,27 @@
+Anamnesis
+Varón de 55 años con los siguientes antecedentes médicos: hipertenso, dislipidémico y exfumador. Ingresa por ictus isquémico en el territorio de la arteria cerebral media (ACM) izquierda, con una puntuación en la escala NIHSS de 18 puntos, recibiendo rTPA intravenoso con buena evolución clínica, quedando con una afasia mixta como secuela. El estudio etiológico completo, que consistió en la realización de dúplex de troncos supraaórticos, dúplex transcraneal incluido test de microburbujas, ecocardiografía transtorácica, Holterelectrocardiograma (ECG) de 24 horas, estudio de hipercoagulabilidad, estudio inmunológico y de biomarcadores fue rigurosamente normal, por lo que se etiquetó de ictus isquémico de origen criptogénico.
+
+Como antecedentes quirúrgicos destaca que hacía 5 años había sido operado de una displasia fibrosa ósea de la clavícula izquierda de 9 cm que infiltraba la musculatura escalena y la grasa mediastínica; además, contactaba con el cayado aórtico. La cirugía fue larga y laboriosa, con complicaciones postquirúrgicas como el desarrollo de un hemotórax que requirió minitoracotomías de limpieza.
+
+Su tratamiento habitual era losartán 50 mg cada 24 horas, ácido acetilsalicílico 100 mg cada 24 horas y atorvastatina 80 mg cada 24 horas. Nuestro paciente acude a Urgencias un mes y medio después por un nuevo episodio de inicio brusco, esta vez de debilidad en las extremidades izquierdas de 45 minutos de evolución, compatible con un nuevo evento vascular.
+
+Examen físico
+Tensión arterial (TA) 139/74 mmHg, frecuencia cardiaca (FC) 79 lpm; se encontraba afebril. La exploración general fue normal. En la exploración neurológica presentaba afasia mixta parcial (residual), desviación óculo cefálica hacia la derecha, hemianopsia homónima izquierda, paresia facial supranuclear izquierda, hemiplejia e hipoestesia de extremidades izquierdas y reflejo cutáneo plantar derecho extensor, el izquierdo era flexor. Con una puntuación en la escala NIHSS de 22 puntos.
+
+Pruebas complementarias
+• Estudio urgente de laboratorio: normal.
+• ECG: ritmo sinusal a 78 lpm.
+• Radiografía de tórax: aumento de la silueta cardiopericárdica.
+• TC cerebral (1 hora desde el inicio de la clínica): lesión hipodensa en el territorio de la arteria cerebral media izquierda subaguda. No signos precoces de isquemia en el territorio de la arteria cerebral media derecha.
+• Angio-RM cerebral (3 horas desde el inicio de la clínica): hiperseñal a nivel de la ínsula y el núcleo estriado derechos en secuencia FLAIR, con restricción de la difusión a este nivel. Resonancia magnética cerebral: restricción de la difusión a nivel de la ínsula y el núcleo estriado derechos en secuencia DWI, con hiperseñal a ese nivel en la secuencia FLAIR. En la secuencia angio-RM se observa un vacío de señal en el inicio de la arteria cerebral media derecha y cerebral anterior derecha. 
+
+Diagnóstico
+Ictus isquémico agudo en el territorio de la arteria cerebral media derecha.
+
+Tratamiento
+Se desestimó la administración de rtPA intravenoso por haber presentado un ictus previo hacía menos de 3 meses. Tras el resultado de la angio-RM cerebral también se desestimó la fibrinólisis intraarterial por tiempo de evolución (> 4,5 horas) y ausencia de mismatch difusión-FLAIR.
+
+Evolución
+Durante el ingreso presentó febrícula, disnea y aumento de GOT y LDH; ante la sospecha de tromboembolismo pulmonar se procedió a la realización de una angiografía-TC de tórax con contraste, que mostró una masa mediastínica de 7 x 7,5 x 7 cm, hipodensa en su periferia, con una zona central hiperdensa y de morfología sacular de 4 x 3,5 x 3 cm secundaria a la extravasación de contraste desde el cayado aórtico que se podía corresponder con un pseudoaneurisma trombosado probablemente postquirúrgico en el cayado aórtico a nivel del istmo, de 8 cm de diámetro total. Además, se apreciaba un hematoma intramural aórtico en la aorta descendente de 9 mm de grosor. Angio-TC de tórax con contraste: masa mediastínica de 7 x 7,5 x 7 cm, hipodensa en su periferia con una zona central hiperdensa y de morfología sacular de 4 x 3,5 x 3 cm secundaria a la extravasación de contraste desde el cayado aórtico, que se corresponde con un pseudoaneurisma trombosado probablemente postquirúrgico en el cayado aórtico a nivel del istmo, de 8 cm de diámetro total.
+
+El diagnóstico final fue de ictus isquémico de ACM izquierda y de ictus isquémico en el territorio de la ACM derecha de sus ramas profundas; ambos de etiología embólica arterioarterial en relación con pseudoaneurisma trombosado de cayado aórtico. Fue dado de alta con una NIHSS de 22 puntos y una escala de Rankin modificada de 5 puntos. Se desestimó cirugía en ese momento por las secuelas neurológicas y la anticoagulación por riesgo de ruptura. Posteriormente fue intervenido sin complicaciones.

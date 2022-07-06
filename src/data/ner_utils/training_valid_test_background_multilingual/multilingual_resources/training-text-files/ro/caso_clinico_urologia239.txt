@@ -1,0 +1,27 @@
+Anamneză
+Un bărbat în vârstă de 39 de ani a fost studiat pentru un tablou clinic de 2 luni de diaree, astenie și pierdere de 10 kg în greutate, cu evidențierea unei anemii microcromice hipocrome la analizele de sânge. Anamneza sa medicală includea un alcoolism moderat timp de 10 ani, fumând 20 de pachete/an, cu consum sporadic de marijuana și hașiș, un sindrom depresiv și două episoade de pierdere a cunoștinței care nu au fost studiate, precum și o criză de comă secundară sindromului de sevraj în aprilie 2011 (tomografie computerizată [CT] cerebrală fără alterări parenchimatoase). A prezentat meningită la vârsta de 12 ani, fără sechele. Antecedente familiale ale tatălui și unchiului patern cu neoplazie de colon. Antecedentele sale chirurgicale au fost apendicectomia și crioterapia pentru condilomul acuminat în sulcusul balanoprepuțial în iunie 2010, cu serologie negativă pentru BTS. Era tratată cu lorazepam 1 mg noaptea și pizotifen 0,5 mg de trei ori pe zi.
+
+Examinarea fizică
+Slăbiciune marcată, paloare muco-cutanată. Conștient și orientat, fără semne de focalizare neurologică. Reflexe normale. Auscultație cardiopulmonară normală. Abdomenul moale și depresibil, cu hepatomegalie de 3-4 degete, parțial dureros, fără semne de iritație peritoneală. Examinarea rectală a rectului cu degetele curate, fără durere, cu prostata bine definită. Membrele inferioare fără edem, pulsuri periferice prezente. Leziuni papuloase la nivelul coloanei sacro-lombare.
+
+Teste complementare
+- Analizele de sânge: creatinină 0,6 mg/dl, hemoglobină 8,6 g/dl, 16.700 leucocite/mm3, bilirubină totală 0,17 mg/dl, glutamat-piruvat-transaminază 11 UI/l.
+- Radiografie toracică: fără anomalii.
+- Serologia pentru virusurile hepatitei B și C și virusul imunodeficienței umane este negativă.
+- Endoscopie gastrointestinală inferioară: s-a observat o masă excrescentă care acoperea practic întreaga circumferință a colonului ascendent, fără a permite trecerea colonoscopului. Biopsia a raportat un adenocarcinom moderat diferențiat, ulcerat.
+- CT toracic-abdominal-pelvic: modificări emfizemice fără leziuni sugestive de metastaze, fără adenopatii mediastinale de dimensiuni semnificative. Tumoră localizată în cecum și colonul drept (secțiune lungă de 10 cm), cu zone de hipoatenuare în interiorul acesteia în raport cu necroza. Ulcerații ale acestora. Alterarea grăsimii pericolonice cu adenopatii de dimensiuni semnificative. La nivelul polului inferior renal stâng există o leziune infiltrativă de aproximativ 34 x 38 x 49 mm, cu pierderea diferențierii cortico-medulare, fără alterarea grăsimii perirenale sau adenopatii locoregionale. Ficatul, pancreasul, splina, suprarenalele și rinichiul drept fără leziuni. Nu există adenopatii retroperitoneale sau inghinale semnificative. Pentru o mai bună caracterizare, au fost efectuate următoarele teste.
+- Uro-CT: a confirmat existența unei tumori cu creștere infiltrativă la polul inferior al rinichiului stâng, afectând grupul calicial inferior. Adenopatii în hilul renal.
+- Citologie urinară (ureter stâng): suspectă pentru carcinom urotelial papilar de grad scăzut.
+
+Diagnostic
+Pe baza rezultatelor diferitelor teste, diagnosticul a fost stabilit după cum urmează:
+- Tumoare a colonului drept, stadiul T4N2M0.
+- Tumoare la polul inferior al rinichiului stâng cu creștere infiltrativă, probabil legată de o tumoare T3N2M0 a tractului urinar.
+
+Tratament
+Inițial, a fost efectuată o colectomie dreaptă prin laparotomie cu anastomoză laterolaterală (ianuarie 2012), a cărei anatomie patologică a fost adenocarcinom moderat diferențiat cu diferențiere mucinoasă parțială: pT3N1. O lună mai târziu, a fost efectuată o nefroureterectomie laparoscopică stângă, cu constatări patologice de carcinom cu celule tranziționale slab diferențiate, cu un model solid, afectând pelvisul renal și calicele mijlociu și inferior, cu extensie la parenchimul renal în polul inferior. Tromboză neoplazică masivă în vena renală și în vasele mici intraparenchimatoase, cu marginea de rezecție a venei renale infiltrată de tumoră, pentru care a fost clasificată ca pT3.
+
+Evoluție
+În perioada postoperatorie după nefroureterectomie, pacientul a prezentat hemipareză stângă și comportament ciudat caracterizat prin dezinhibiție fizică și verbală, fapt pentru care s-a solicitat o tomografie computerizată cerebrală, care a evidențiat o leziune solitară heterogenă cu edem vasogenic marcat, localizată în porțiunea posterioară a lobului frontal drept, sub sutura coronară, 37 mm în cel mai mare diametru, care a provocat o hernie discretă subfalciană cu hernierea ventriculului lateral drept, aceste constatări fiind compatibile cu o leziune metastatică frontală dreaptă solitară. Având în vedere constatările, pacientul a fost trimis la centrul său de referință pentru intervenția chirurgicală a metastazei.
+Studiul imunohistochimic al specimenelor chirurgicale (colectomie și nefroureterectomie) a evidențiat pierderea expresiei MLH-1, cu expresie parțială a MSH-2 și MSH-6. Modelul imunohistochimic al tumorii uroteliale a arătat un model fenotipic aberant: CK7-, CK20-, CDX2+, cu activitate proliferativă ridicată (Ki-67 70%), fără diferențiere neuroendocrină (cromogranină negativă). De asemenea, analiza microscopică a leziunii cerebrale a fost compatibilă cu o metastază de carcinom nediferențiat de origine intestinală (CK7-, CK 20+).
+Datorită criteriilor Bethesda (2003) și a studiului imunohistochimic, am putut ajunge la un diagnostic definitiv de sindrom Lynch.

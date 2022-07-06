@@ -1,0 +1,35 @@
+Motivo de consulta.
+Cefalea hemicraneal y ojo rojo de dos meses de evolución que no mejoran con tratamiento habitual.
+
+Enfoque individual.
+Anamnesis.
+Hombre de 35 años fumador de 15 cigarros/día, sin antecedentes clínicos de interés, que ha acudido a su MAP y a urgencias en varias ocasiones por cefalea hemicraneal intensa, ojo rojo y ptosis palpebral leve ipsilateral de dos meses de evolución. El paciente ha sido visto varias veces por oftalmólogos, que a pesar de haber evidenciado la miosis unilateral derecha, no lo han derivado a las consultas de policlínica de Urgencias ni le han pedido más pruebas complementarias. En estos reconocimientos le han diagnosticado de conjuntivitis y blefaritis siendo tratado con diferentes tipos de colirios sin mejoría clínica. Hoy acude nuevamente por persistencia de la clínica que llega a ser invalidante a nivel laboral.
+
+Exploración física.
+-Paciente consciente y orientado. Normohidratado y normocoloreado. Eupneico en reposo. -Exploración neurológica: Síndrome de Horner derecho con discreto borramiento del surco nasogeniano derecho. No alteración de la fuerza ni de la sensibilidad. ROT normales. No dismetría. No alteraciones del equilibrio. No alteraciones de la marcha. Signos meníngeos negativos. Pulsos presentes.
+-AC: Rítmico a 70 lpm aprox, no soplos.
+-AR: MVC no ruidos sobreañadidos.
+-No dolor a la palpación de puntos gatillo de cefalea tensional.
+
+Pruebas complementarias.
+- TA: 150/75.
+- Ta: 36.3oC.
+- Bioquímica, Hemograma y Coagulación: Valores dentro de la normalidad incluidos los valores correspondientes al colesterol, los triglicéridos y los parámetros inflamatorios (PCR, VSG y leucocitos).
+- Campimetría: normal.
+- Agudeza visual: OD 0.8(1)/OI 1.
+- Lámpara de hendidura: Hiperemia conjuntival derecha leve con leve edema del párpado superior ipsilateral. Córnea normal.
+- Fondo de ojo: papila y mácula normal. Retina aplicada. No RPD.
+- PIO: OD 12/OI 11.
+- TC craneal con Angio-TC de TSA: Se observa cambio en el calibre en el segmento distal de la ACID cervical, bulbosa antes de su entrada en el canal petroso (Figuras 1 y 2). En su contexto clínico este hallazgo puede corresponder a discreta dilatación pseudoaneurismática postdisección.
+
+Enfoque familiar y comunitario, juicio clínico
+Dado a la edad del paciente, la ausencia de factores de riesgo cardiovascular, la inespecificidad de la clínica y la baja frecuencia de la enfermedad, se trata de una patología difícil de diagnosticar. Antes de su diagnóstico se barajaron las siguientes posibilidades:
+- Patología oftalmológica (conjuntivitis, blefaritis, orzuelo y ojo seco).
+- Migraña con aura.
+- Cefalea en racimos o de Horton.
+- Fístula carotídeo-cavernosa.
+- Compresión par craneal derecho.
+- Disección de carótida derecha.
+
+Plan de acción, evolución
+En la exploración neurológica se objetivó un Síndrome de Horner (miosis y ptosis palpebral derechos) por lo que se decidió realizar un TC craneal y un Angio-TC de TSA de urgencia que fueron informados como patológicos. El paciente fue ingresado en la planta de Neurología para realizar un estudio etiológico con Angio-RMN de TSA e instaurar el tratamiento con estatinas, ácido-acetil-salicílico y reposo relativo. Durante su estancia en planta el paciente fue diagnosticado de disección de carótida derecha.

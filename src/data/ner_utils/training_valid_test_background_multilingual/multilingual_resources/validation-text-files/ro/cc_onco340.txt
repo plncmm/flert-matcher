@@ -1,0 +1,24 @@
+Anamneză
+Un pacient în vârstă de 55 de ani s-a prezentat la serviciul de urgență pe 22 iulie 2014 din cauza unei dureri epigastrice severe care iradiază spre hipogastru, amețeli, greață și transpirație. În zilele precedente, acesta consultase centrul de asistență medicală primară pentru epigastralgie de intensitate mai mică, fără cortex vegetativ, care nu cedase cu antiacide.
+
+"ANTECEDENTE PERSONALE: Nu sunt cunoscute alergii la medicamente. Nu există boli de interes. Sportivă. Nu există tratament obișnuit. Nebăutor. Nu sunt fumător. Fără agenți anabolizanți.
+"ISTORIA FAMILIEI: Mama a murit la 72 de ani din cauza unei tumori pe creier. 3 frați, dintre care unul a murit din cauza unui stop cardiorespirator. Verișoara maternă cu cancer de sân la vârsta de 40 de ani.
+
+Examinarea fizică
+Hipotensiune arterială (70/45 mmHg), diaforeză și paloare muco-cutanată. Abdomen: dureros difuz la palpare, cu semne de iritație peritoneală.
+
+Teste complementare
+-Analiză de sânge: anemie cu Hb 8,7 g/dL (Hb 13,7 g/dL la analiza de sânge efectuată cu 48 de ore mai devreme).
+-CT abdominal urgent: În lobul hepatic stâng, masă lobulată de 8x10x15 cm, proeminentă în afara conturului hepatic, heterogenă, cu evidențiere periferică. Acesta comprimă structurile adiacente și pierde separația cu antrul gastric. Hematom mare în mezenterul adiacent, cu extindere la diafragmă. Lichid intraabdominal liber. Carcinomatoză peritoneală probabilă. Concluzie: Tumoare hepatică ruptă (probabil hepatocarcinom) cu hemoperitoneu.
+
+Diagnostic
+Hemoperitoneu secundar unei tumori hepatice rupte.
+
+Tratament
+Pacientul a fost supus unei intervenții chirurgicale de urgență prin laparotomie subcostală dreaptă extinsă. Au fost îndepărtați 2500 ml de hemoperitoneu și s-a descoperit o tumoră hepatică de 15 cm în segmentele II-III. S-a efectuat rezecția hepatică a acestor segmente, colecistectomia, rezecția epiploică și biopsia leziunii din segmentul IV. Alfafetoproteina (AFP) în perioada postoperatorie imediată a fost de 7043 ng/ml.
+"Patologie: Segmente II-III: carcinom hepatocelular (HCC) moderat diferențiat (HCC) 10x7x5,5 cm, model trabecular și invazie venoasă. Ficat netumoral: ficat necirrotic. Omentum: tumoare de 7,5x5 cm care sugerează un implant de hepatocarcinom. Odihnă normală.
+
+Evoluție
+A consultat departamentul de oncologie medicală în septembrie 2014 cu AFP 627 ng/ml, Child-Pugh de 7 puncte și stadiu avansat conform sistemului de stadializare BCLC. Având în vedere HCC rezecat, dar prezența implanturilor peritoneale în timpul intervenției chirurgicale, s-a decis tratamentul cu Sorafenib la 800 mg/zi și s-au solicitat serologii pentru virusuri hepatotrope, rezultând pozitiv pentru infecția anterioară cu VHB (Anti-HBs +, Anti-HBc +). După o lună de tratament AFP 29,86 ng/ml, cu toxicitate cutanată G3 care a necesitat reducerea dozei. Ulterior, AFP a crescut în ciuda unei creșteri adecvate a dozei și au fost solicitate mai multe RMN-uri hepatice, care au arătat doar chisturi simple și modificări post-chirurgicale.
+În martie 2015 s-a solicitat AFP 297 ng/ml și s-a solicitat un CT toraco-abdomino-pelvin cu prezența unui nodul pulmonar drept bazal de 8 mm, nespecific și fără alte constatări. Având în vedere toleranța bună, am crescut doza la 800 mg/zi cu un răspuns biochimic bun, obținând AFP 80 ng/ml în noiembrie 2015. La începutul anului 2016, creșterea progresivă a AFP cu o creștere a dimensiunii nodulului pulmonar bazal drept de 1 cm. În așteptarea segmentectomiei pulmonare atipice pentru studiu histologic în prezent.
+

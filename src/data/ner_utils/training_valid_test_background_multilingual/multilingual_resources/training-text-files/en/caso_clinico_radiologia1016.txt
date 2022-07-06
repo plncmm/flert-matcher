@@ -1,0 +1,17 @@
+A 58-year-old male patient with a history of hypertension, type 2 diabetes mellitus and depression under treatment. He consulted for about two years of progressive cognitive deterioration. On admission he was haemodynamically stable and afebrile. Neurological examination revealed spatial-temporal disorientation, attention deficit, memory impairment and mild anisocoria, with no other neurological focality. Laboratory tests showed unaltered renal and hepatic function, thiamine and vitamin B12 levels in normal range and no elevated inflammatory parameters.
+
+Diagnosis:
+Neurosyphilis with manifestations of meningovascular and neuropsychiatric forms.
+
+ 
+
+Result
+An MRI of the brain showed a hyperintense right lenticule-capsular lesion in T2 and T2 FLAIR, with enhancement after Gadolinium administration and slight signal hyperintensity in the diffusion sequence, but without restriction in the ADC map, compatible with ischaemic lesion in subacute stage of evolution. Signal hyperintensity is also observed in T2 and T2 FLAIR sequences at the cortico-subcortical level in the left mesial temporal region, involving the uncus and extending towards the anterior temporal pole, without representation in diffusion sequence, with similar changes on the right side, but of lesser amount. Moderate diffuse atrophy of the encephalic parenchyma is evident, as evidenced by larger ventricles and wider cortical sulci than expected for the patient's age.
+
+Right lenticulocapsular lesion hyperintense in T2 FLAIR and hypointense in T1, with enhancement after Gadolinium administration and slight signal hyperintensity in diffusion sequence, but without restriction in the ADC map, compatible with ischaemic lesion in subacute stage of evolution.
+
+Signal hyperintensity in T2 FLAIR sequences at the cortico-subcortical level in the left mesial temporal region, involving the uncus and extending towards the anterior temporal pole, with similar changes on the right side, but to a lesser extent. The lesion described showed slight signal hypointensity in T1 sequences, with no enhancement after Gadolinium administration.
+
+A lumbar puncture showed clear CSF with 5 leukocytes/mm3 (100% mononuclear), hyperproteinuria (256 mg/dL), normal glycorrhachia (62 mg/dL) and negative Gram stain, China ink stain and smear microscopy. Based on the findings of the brain MRI, PCR for herpes simplex virus type 1 and 2 in CSF were negative and VDRL and FTA-ABS in CSF were reactive (VDRL dilution 1:64). An electroencephalogram performed on the same day showed a slow baseline rhythm without epileptiform activity. The HIV infection test was negative.
+
+A diagnosis of neurosyphilis was made and treatment was started with Penicillin G 24 mU/day for 14 days, with which the patient showed partial improvement of his cognitive deterioration and resolution of his anisocoria. He was discharged once the antibiotic treatment was completed.

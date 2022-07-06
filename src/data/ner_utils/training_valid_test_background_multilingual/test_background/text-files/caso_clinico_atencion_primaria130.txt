@@ -1,0 +1,30 @@
+Motivo de consulta.
+Paciente varón de 50 años que acude a consulta de atención primaria para estudio de cifras muy elevadas de tensión arterial.
+
+Enfoque individual (anamnesis, exploración, pruebas complementarias)
+Antecedentes personales: sin interés, varón sano y asintomático hasta la fecha, normopeso, sin alergias medicamentosas conocidas. No fumador. Hábitos de vida saludables (dieta sana, no ingesta de alcohol, actividad física habitual...)
+Enfermedad actual: acude derivado por su médico del trabajo para estudio de hipertensión arterial grado III, el paciente solamente refiere cefalea y cervicalgia leves en las últimas semanas que no han impedido el sueño ni han requerido analgésicos vía oral. No otra sintomatología por órganos y aparatos.
+
+Exploración: buen estado general, bien hidratado y perfundido, eupneico en reposo, colaborador, Glasgow 15.
+Auscultación cardiopulmonar: tonos rítmicos sin soplos, murmullo vesicular conservado sin ruidos sobreañadidos.
+Exploración neurológica: pupilas isocóricas y normorreactivas, lenguaje normal, motilidad ocular externa conservada, pares craneales normales y simétricos, no déficit motor ni sensitivo, no dismetría ni adiadococinesia, marcha en tándem normal, romberg negativo, reflejos osteotendinosos normales.
+
+Pruebas complementarias:
+-ECG: ritmo sinusal a 80 latidos por minuto, no alteraciones de la repolarización, eje normal, segmento PR normal.
+-Hemograma normal.
+-Bioquímica: Creatinina 1,06, sodio 147, potasio 3,44, resto normal.
+-Colesterol total 172, triglicéridos 89, tirotropina 1,04.
+-Metanefrinas fraccionadas normales.
+- Corticotropina 31, cortisol 15.9, renina 5.8, aldosterona 359, cociente renina/aldosterona 61.5.
+- TAC Abdomen: sin hallazgos patológicos, glándulas suprarrenales normales.
+
+Enfoque familiar y comunitario
+A lo largo del estudio el paciente acude sólo a consulta, presenta buena adherencia al tratamiento y se muestra muy respetuoso y colaborador, desarrolla nerviosismo y preocupación de forma progresiva, sobre todo en las primeras consultas por la falta de respuesta al tratamiento, una vez reflexionamos sobre el fármaco más adecuado en base a nuestra sospecha diagnóstica la tensión arterial se controló, el paciente se tranquilizó aunque persiste cierto grado de inquietud, por la alteración en la analítica relacionada con los mineralcorticoides, tratamos de ser lo más asertivas y empáticas en consulta, manejar la incertidumbre y trasladar la mayor tranquilidad posible.
+
+Juicio clínico (listado de problemas, diagnóstico diferencial)
+Hiperaldosteronismo primario.
+
+Se trata de un caso de hipertensión secundaria, es cierto que la hipertensión esencial es la causa más frecuente de hipertensión en la consulta, pero no debemos olvidar a este porcentaje de pacientes.
+
+Plan de acción y evolución
+El paciente presenta buena respuesta a amilorida (segunda línea de tratamiento para esta alteración, la primera línea son los antagonistas de los receptores de la aldosterona) Se derivó al Servicio de Endocrinología para completar estudio y confirmación diagnóstica, actualmente pendiente de reevaluación por parte de este Servicio.

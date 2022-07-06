@@ -1,0 +1,20 @@
+Anamnesis
+Presentamos el caso de una paciente diabética e hipertensa de 72 años que consulta por lesión en el lateral nasal izquierdo de meses de evolución. Además, refiere múltiples lesiones localizadas en mejillas y dorso nasal desde hace muchos años, algunas de ellas previamente tratadas. La paciente cuenta que su hermana y madre presentaban las mismas lesiones.
+
+Exploración física
+La lesión paranasal por la que consultaba la paciente se trataba de una pápula con telangiectasias que sugería inicialmente un carcinoma basocelular, pero tras unas semanas de evolución se convirtió en una lesión pediculada compatible con un acrocordón irritado. Por otra parte, presentaba múltiples pápulas blanquecinas de pocos milímetros de diámetro localizadas en nariz y mejillas. El diagnóstico diferencial de estas lesiones incluía la sospecha de fibrofoliculomas, tricodiscomas, tricofoliculomas o tricoepiteliomas.
+
+Exploraciones complementarias
+Se realizó una exéresis de la lesión pediculada paranasal izquierda que fue compatible histológicamente con un fibroma blando. También se llevó a cabo una exéresis de una de las múltiples pápulas faciales localizadas en mejilla y dorso nasal. Los hallazgos histológicos fueron compatibles con fibrofoliculoma.
+Ante la presencia de múltiples lesiones faciales compatibles con fibrofoliculomas se sospechó un síndrome de Birt-Hogg-Dubé. Dado que esta entidad puede asociarse a alteraciones en otros órganos, se le planteó la realización de una radiografía de tórax y una ecografía abdominal pero la paciente rechazó las pruebas en ese momento. Años después la paciente vuelve a consultar por una lesión paranasal que le molesta. Aunque clínicamente sugería un fibroma, la histología confirmó que se trataba de otro fibrofoliculoma. Se le explicó de nuevo la posibilidad de presentar alteraciones extracutáneas asociadas, así como la probable afectación de sus descendientes por el carácter hereditario de la enfermedad. La paciente aceptó realizarse pruebas complementarias para completar el estudio.
+Se solicitaron un TAC toracoabdominal y un estudio genético. En la prueba de imagen se objetivaron quistes pulmonares de paredes finas de predominio en el pulmón derecho, algunos de ellos subpleurales, que sugerían un síndrome de Birt-Hogg-Dubé.
+El estudio genético con secuenciación completa del gen FLCN reveló una mutación c.346C>T. Esta mutación, detectada en heterocigosis, conlleva una pérdida de función de las proteínas codificadas. Se trata de una mutación patogénica ya descrita previamente como causante de este síndrome.
+
+Diagnóstico
+La paciente presentaba fibrofoliculomas múltiples y quistes pulmonares que sugerían un síndrome de Birt-Hogg-Dubé. Este diagnóstico se confirmó tras la realización del estudio genético.
+
+Tratamiento
+Se realizó una exéresis y electrocoagulación de las lesiones que le molestaban y aquellas de mayor tamaño. El resto de lesiones asintomáticas no precisaron tratamiento.
+
+Evolución
+La paciente está asintomática respecto a sus lesiones cutáneas y pulmonares. Ha sido remitida a neumología para una valoración de estas últimas. Se realizará un seguimiento que incluirá pruebas de imagen para la detección precoz de tumores renales.

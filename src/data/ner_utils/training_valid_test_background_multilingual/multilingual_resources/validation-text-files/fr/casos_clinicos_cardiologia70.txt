@@ -1,0 +1,48 @@
+ANTÉCÉDENTS, MALADIE ACTUELLE ET EXAMEN PHYSIQUE
+Une patiente de 37 ans s'est présentée au service des urgences de notre hôpital avec une fièvre allant jusqu'à 38°C, des frissons, une dyspnée intense d'apparition progressive, une douleur du flanc droit avec des caractéristiques pleurales, une toux et une expectoration purulente et parfois hémoptotique. Tableau clinique d'environ 7 jours d'évolution.
+
+Histoire
+Infection au VIH connue depuis 1995 (HTX), stade C2 en 2012 (pneumonie récurrente en 2007). Pas de test de CD4 ou de charge virale depuis.
+Pas d'allergies connues.
+Ne fonctionne pas.
+Fume 10 cigarettes/jour depuis l'âge de 18 ans (10 paquets/an).
+Partenaire stable et séronégatif. N'utilise pas de mesures de prévention des IST. Ex-NPDU. Deux enfants séronégatifs.
+Dysplasie cervicale de haut grade avec sérologie positive HPV 31, 66 et 82. Conisation en avril 2014.
+VHC positif, génotype 1, fibroScan : 12,7 (1,1) Kpa. VHB : Ag Hbs négatif, Anti-HBs négatif, Anti-HBc positif.
+Thalassémie mineure.
+La maladie de Kikuchi-Fujimoto.
+Hypertension pulmonaire (Alcaudete Cardiology).
+Varices en mmii.
+Cholécystectomie laparoscopique.
+Pas d'hypertension, d'hyperlipidémie, de diabète, ni d'antécédents personnels ou familiaux de cardiopathie ischémique. 
+Pas d'antécédents familiaux de néoplasmes.
+Test de résistance (octobre 2008) : pas de mutations à l'ITI. IP : L63P, D60E. ART : TDF + FTC + DRV/r. Elle rapporte une bonne observance jusqu'à il y a 15 semaines, où elle a arrêté lorsqu'elle a découvert qu'elle était enceinte.
+Autres traitements : méthadone, septrine.
+Examen : conscient et orienté. Sensation de gravité. Tachypnéique.
+TENSION : 110/55.
+HR : 100 bpm.
+Saturation basale en O2 87%.
+Auscultation cardiaque : tonalités tachycardiques rythmiques sans murmures.
+Auscultation pulmonaire : hypoventilation dans les bases, à prédominance droite, crépitants dans la base du poumon droit.
+Membres inférieurs avec œdème induré, fovéa +++.
+
+TESTS COMPLÉMENTAIRES
+Numération sanguine : hémoglobine 8,2 g/dl, leucocytes 5.940, avec formule normale, plaquettes 59.000. Coagulation : activité prothrombique 58-78%, TCA 43", D-dimère 1809. Biochimie : urée 59 mg/dl, créatinine 1,15 mg/dl, sodium 133 mEq/l, LDH 714 U/l, bilirubine totale 2,68 mg/dl, sodium 133 mEq/l, albumine 2,1 g/dl, reste normal ESR : 130 mm/h. CRP : 31 mg/l. TSH normale. CD4 84 (7%). Charge virale du VIH : 2338 copies (3,36 log). 10 jours après la reprise du TAR : 866 (log 2,93) sédiments urinaires normaux.
+Gaz du sang artériel : pO2 68, pCO2 26, pH 7,46.
+ECG : tachycardie sinusale.
+Étude sur l'anémie : trait thalassémique avec anémie due à la gestation et à une maladie chronique.
+Faux positif de Coombs.
+Sérologie : rubéole IgG +, herpès IgG +, TXP IgG +, IgM -, AgHBs, antiHBs et antiHBc négatifs, CMV IgG et IgM positifs, lúes : CLIA + (négatif en décembre 2014), RPR négatif (en attente d'un nouvel échantillon). PCR CMV sérique : négative culture d'expectoration : méningocoque isolé (l'antibiogramme ne peut être réalisé). Antigénurie pneumococcique et Legionella négative. Frottis de crachat en série négatifs.
+Radiographie du thorax : infiltrat de la base pulmonaire droite imagerie doppler veineux de la base pulmonaire droite MMII : pas de signe de thrombose veineuse.
+Échocardiogramme : dilatation des cavités droites avec surcharge de pression. Hypertension pulmonaire sévère probable (IT GPmax 70 mmHg + IVC dilatée avec collapsus inspiratoire <50%). Fonction systolique du ventricule gauche préservée. Épanchement péricardique léger à modéré.
+Cathétérisme cardiaque : VG non dilaté, sans anomalies segmentaires ET FE normale (81%). Artères coronaires sans lésions significatives. Cathétérisme droit : AD : 3 mmHg, AP : 89/30 (moyenne 53 mmHg), PCP 21 mmHg. L'hypertension pulmonaire.
+
+EVOLUTION
+Pneumonie favorable avec traitement antibiotique empirique. L'œdème et la dyspnée à l'effort léger attribuables au PHT persistent. Elle a été évaluée à plusieurs reprises par le service de gynécologie-obstétrique (elle a eu un rendez-vous pour une consultation à haut risque dans les 48 heures). L'unité d'hypertension pulmonaire a été contactée et le patient a été suivi en ambulatoire.
+
+DIAGNOSTIC
+Infection par le VIH au stade C3
+Insuffisance respiratoire aiguë secondaire à une pneumonie communautaire.
+Hypertension pulmonaire sévère associée au VIH
+Lúes
+Gestation 25 semaines

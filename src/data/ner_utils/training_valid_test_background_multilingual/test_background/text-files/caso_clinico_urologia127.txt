@@ -1,0 +1,18 @@
+Anamnesis
+Paciente varón de 42 años de edad con antecedente de cirugía cardiaca a los 5 años por defecto ventricular. Niega hábitos tóxicos, alergias medicamentosas ni diabetes. En enero de 2011 comenzó con clínica de diarreas, fiebre de 40 oC, escalofríos, sudoración y oligoanuria de 48 horas de evolución.
+
+Examen físico
+A la exploración física presentaba taquicardia de 111 lpm, tensión arterial 90/60 mmHg, sequedad cutáneo-mucosa, con auscultación cardiorrespiratoria normal y percusión renal derecha positiva. La exploración abdominal era normal y no presentaba edemas en los miembros inferiores.
+
+Pruebas complementarias
+• En la analítica mostraba anemia (hemoglobina 11,7 g/dl), leucocitosis con desviación a la izquierda (leucocitos 12.170/mm3, 96% neutrófilos). Alteración de la coagulación con INR 1,41 y ATP 57%. En la bioquímica destacaba una creatinina de 5,1 mg/dl, urea 87 mg/dl, glucosa 110 mg/dl, sodio 139 mmol/l y potasio 3,6 mmol/l. Sedimento urinario con hematuria, bacteriuria moderada y leucocitos (10-20 por campo), pH 7,39 en la gasometría venosa. Presencia de Escherichia coli en cultivo de sangre y orina sensible a ciprofloxacino y aminoglucósidos.
+• Con el diagnóstico de insuficiencia renal se solicita una ecografía urgente, que objetiva un riñón derecho de 13 cm con abundante cantidad de gas en su interior y en el espacio perirrenal y de un riñón izquierdo atrófico de 2 x 1 cm.
+
+Diagnóstico
+Se ingresa al paciente con diagnóstico de sepsis de origen urinario secundaria a pielonefritis enfisematosa en un paciente monorreno.
+
+Tratamiento
+Se comienza con antibioterapia intravenosa (ciprofloxacino 200 mg intravenoso cada 12 horas), paracetamol 1 g cada 8 horas y sueroterapia.
+
+Evolución
+A las 24 horas de ingreso, y sin mejoría clínica, se decide realizar una tomografía computarizada (TC) sin contraste, que confirma la presencia de pielonefritis enfisematosa de su riñón derecho con gas y áreas de necrosis en su interior. Con estos hallazgos, y ante la gravedad, se comienza con tratamiento corticoideo (metilprednisolona 80 mg intravenosa cada 12 horas) y hemodiálisis, realizando un total de diez sesiones que mejoran su función renal, iniciando diuresis y pasando posteriormente a fase poliúrica. Tras conocer los resultados de los cultivos se decide continuar con ciprofloxacino y se añadió tobramicina 50 mg cada 12 horas durante 14 días. En los días de ingreso posteriores se produce una recuperación clínica progresiva, que se reflejó en los estudios de laboratorio, alcanzando al alta cifras de creatinina de 2,2 g/dl y la normalización de la leucocitosis. Se realizaron ecografías seriadas para el control evolutivo, que mostraron la paulatina recuperación de la ecoestructura del parénquima renal. Finalmente, y tras 30 días de ingreso, es dado de alta y controlado en consultas con nuevas pruebas de laboratorio y de imagen. Así, a las 6 semanas del alta la ecografía mostraba un riñón derecho de 11,5 x 6,3 x 6,1 cm, con área heterogénea en el polo superior de 5,1 x 3,3 cm y presencia de señal Doppler color en todo el órgano.

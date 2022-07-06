@@ -1,0 +1,21 @@
+Paciente de 38 años de nacionalidad española que acude a urgencias por artralgias migratorias (hombro izquierdo, rodillas, tobillos y codos) asociado a astenia intensa de 7 días de evolución. Niega sensación distérmica acompañante ni otra clínica infecciosa.
+
+Antecedentes
+Fumador 30 paquetes/año. Asma alérgico desde la infancia en tratamiento con salbutamol. No viajes al extranjero recientes. No convive con animales.
+
+Exploración Física
+Regular estado general. Eupneico en reposo. ACP: tonos rítmicos sin soplos audibles. Murmullo vesicular conservado. Abdomen anodino. Ex. Inferiores: signos de artritis en rodilla derecha. Artralgias sin artritis en hombros, codos y tobillos. Sin lesiones cutáneas. No se palpan adenopatías.
+
+Exploraciones Complementarias (Urgencias)
+Rx tórax (1*): 4 lesiones nodulares en LSD. Analítica: Hb: 14.2 g/dl. Leucocitos: 13.090 (9310 Nt, 1840 Eo). Plaquetas: 372.000. Creatinina: 0.82. PCR: 87.35 mg/L.
+
+Ingreso en Medicina Interna
+TAC tóraco abdomino pélvico: Múltiples imágenes nodulares sólidas la mayoría de origen pleural (la mayor de 2,5cmx 2cm) en LSD y LSI. Múltiples adenopatías paratraqueal derecho, paraórticas, peribronquiales bilaterales. Resto normal. Fibrobroncoscopia/E-BUS: Se realiza PAAF transbronquial. Analítica: Hb: 12.2 g/dl Leucocitos: 10.930 (6.490 Nt, 2.270 Eo), Plaquetas: 303.000. Creat: 0.83mg/dl. PCR: 259 mg/L.
+
+Evolución
+Empeoramiento clínico con artritis bilateral en hombros y codos y reactantes de fase aguda en aumento. Al 5o día de ingreso (pendiente de resultado de A.P) aparece en miembros inferiores y abdomen lesiones purpúricas palpables que se biopsian.
+El día 8o: PAAF transbronquial libre de malignidad y de predominio linfocitario. MICROBIOLOGÍA: Hemocultivos y urinocultivos seriados negativos. Estudio de parásitos en heces negativo. Serología completa negativa. Analítica: ANA 1/80. AMBG: negativo. ANCA PR3 + (1/20). Hb; 11.6 g/dl. Leucocitos. 9470 (8220 Nt, 2230 Eo) Creatinina: 1.21mg/ dL. PCR: 333.0 mg/dl, Ferritina: 1488 ng/mL.
+El día 12o de ingreso: Persiste empeoramiento, aparición de esputo hemoptoico iniciándose tratamiento con bolus de corticoides (250mg/24horas-4 dosis) El día 14o de ingreso: A.P lesiones cutáneas: Vasculitis leucocitoclásica con presencia de eosinófilos. IF: depósitos vasculares inespecíficos de IgA+, IgG+ y C3+++. Compatible con una vasculitis sistémica tipo Churg-Strauss o Wegener. Se administra ciclofosfamida en dosis única (1gr) e inmunoglobulinas (0.4 gr/kg). En los días posteriores el paciente presenta mejoría analítica con desaparición de eosinofilia y PCR en descenso pero persistencia de deterioro general y progresión de la clínica respiratoria a hemoptisis franca, anemización (Hb: 7.8g/dl) y patrón de infiltración bilateral en Rx tórax (2*). Se solicita TAC pulmonar que muestra patrón alveolar difuso en ambos lóbulos superiores, rodeado por un patrón intersticial del tipo de vidrio deslustrado, de nueva aparición respecto al TC previo compatible con hemorragia alveolar. El paciente sufre deterioro respiratorio severo y se decide ingreso en UCI para soporte respiratorio y plasmaféresis (5 sesiones). Desde entonces mejoría clínica evidente y disminución de la hemoptisis por lo que el paciente vuelve a planta de medicina interna.
+
+Resolución
+Con el diagnóstico de vasculitis anca-pr3 positiva (probable Churg Strauss) con afectación pulmonar y cutánea se continúan sesiones de plasmaféresis espaciadas (primero 24h y luego 72horas hasta un total de 4) y se completa tratamiento de inducción con rituximab (dos dosis de 1gr espaciadas en 14 días) con buena tolerancia. En el momento del alta hospitalaria con tratamiento de mantenimiento: ac. micofenólico (1gr/12h) y corticoides en pauta descendente. Presenta resolución completa de infiltrado pulmonar, de las lesiones cutáneas y de la artritis; con normalización analítica.

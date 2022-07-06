@@ -1,0 +1,32 @@
+Presentem el cas d'un home de 48 anys que va començar amb símptomes de frontalización i trastorn de la marxa, sent derivat al servei de Neurologia, amb empitjorament progressiu requerint cadira de rodes, i alteració del comportament consistent en desinhibició, irritabilitat, pèrdua de control d'esfínters, indiferència afectiva i apatia.
+
+Es va realitzar analítica sanguínia general, estudi serològic, Anticossos Antinuclears (ANA) i anticitoplasma de Neutròfils (ANCA) i una punció lumbar, sense anormalitats.
+Es va sol·licitar una Ressonància Magnètica Nuclear (RMN) cervical i cranial, reflectint a nivell medul·lar atròfia difusa sense significació patològica i a nivell cranial nombroses lesions hipointensas en T1 i hiperintensas en T2, que afectaven tots dos tractes córtico-espinals, nuclis dentats cerebel·losos i peduncles cerebel·losos superiors, al costat de trencament de la Barrera Hematoencefálica (BHE).
+
+Es va realitzar Electromiografia (EMG), evidenciant signes de polineuropatía mixta en membres inferiors, amb dades de baixa amplitud sensitiva i reducció de les velocitats motores.
+
+Donada l'afectació simètrica de substància blanca, es va sospitar un trastorn metabòlic, sol·licitant proves, sense objectivar alteracions en la quantificació d'aminoàcids ni acilcarnitinas, però sí elevació d'Àcids Grassos de Cadena Molt Llarga (AGCML) en sang, concretament de l'àcid hexacosanoico (C26:0), amb un resultat de 2,18 micromol/litre (μmol/l) tingut com a límit superior el laboratori de referència 0,17 μmol/l, i de l'àcid tetracosanoico (C24:0), amb nivells de 47 μmol/l sent el límit de 14 μmol/l.
+A més, existia inversió del quocient de dites AGCML amb l'àcid behénico C22:0 (C26:0/C22:0 de 0,071 i de C24:0/C22:0 de 1,54, sent els límits per al laboratori de 0,77±0,12 i de 0,012±0,004 respectivament), permetent establir el diagnòstic de X-ALD.
+Per a confirmar-ho, es va realitzar estudi genètic d'ABCD1, observant delección en hemocigosis en posició c.1415_1416delAG donant un codó prematur p.GLn472ArgfsX83 i comportant una proteïna truncada amb pèrdua del 26% dels seus aminoàcids, compatible amb el diagnòstic establert.
+Al pacient se li va educar dietèticament i es van determinar nivells de testosterona i cortisol en sang, sent normals.
+La gravetat d'aquesta entitat és més intensa en homes hemocigotos i menor en dones heterocigotas. Existeix dèficit de beta oxidació perixisomal dels AGCML, portant secundàriament a l'acumulació d'aquests (especialment C26:0 i C24:0)
+
+en el sistema nerviós central, medul·la espinal, escorça suprarenal i teixit testicular fonamentalment. Aquest dèficit obeeix a mutacions del gen ABCD1 (xq28) del cromosoma X, que provoquen la disfunció de la proteïna ALDp (lignoceril-CoA sintetasa), fonamental en el transport dels AGCML des del citoplasma al lumen del peroxisoma.
+Apareix variabilitat fenotípica, segons l'afectació neurològica i edat d'aparició:
+
+- Cerebral: la més ràpidament progressiva. Afecta entre els 2,5 i 12 anys, sent rara en adolescents (<7%) o adults (<5%). Apareix dèficit cognitiu moderat, sordesa neurosensorial, atàxia cerebel·losa, hemiplejía, insuficiència suprarenal primària subclínica, convulsions i demència.
+
+- Adrenomieloneuropatía (AMN): segona i quarta dècada. Existeix paraparesia espàstica amb alteracions de la marxa, disfunció sexual i insuficiència suprarenal en 2/3 dels pacients.
+
+- Addison: entorn del 10% dels pacients pateixen insuficiència suprarenal, sense afectació cerebral, encara que existeix risc de desarrollarla4.
+- Dones heterocigotas: El 50% presenta afectació neurològica lentament progressiva. La insuficiència suprarenal és rara.
+
+El diagnòstic se sustenta en la clínica, RMN, la demostració de acúmulo dels AGCML en sèrum, concretament de C26:0 i C24:0, i la inversió del quocient amb C22:0.
+La prova d'imatge més sensible és la RMN, que evidencia afectació bilateral i simètrica de la substància blanca a nivell central. S'objectiva hiperintensidad en T2, especialment a la regió témporo-occipital i cossos callosos. Segons la localització de la lesió, es classifica en:
+
+1. Lòbul parietooccipital i esplenio del cos callós. 2. Lòbul frontal i genoll del cos callós.
+3. Frontopontina i corticoespinal.
+4. Cerebel·losa.
+5. Combinació lòbul frontal i parietooccipital.
+
+L'únic tractament útil en la prevenció de la progressió neurològica és el trasplantament de progenitors hematopoètics (TPH) al·logènic a partir de medul·la òssia, sang de cordó o sang perifèrica. El principal inconvenient radica en la morbi-mortalitat del procediment. Per això, s'ha proposat la teràpia gènica, transferint el gen ABCD1 en fibroblastos i cèl·lules hematopoètiques mitjançant un vector lentiviral derivat del virus VIH, encara que són necessaris més estudis per a difondre la seva aplicació. El TPH està indicat davant l'aparició de lesions noves, augment de les ja existents en la RMN, o aparició de nous símptomes neurològics.

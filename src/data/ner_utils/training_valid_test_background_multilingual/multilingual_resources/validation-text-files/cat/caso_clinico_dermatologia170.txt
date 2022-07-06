@@ -1,0 +1,18 @@
+Anamnesi
+Un home de 57 anys prèviament sa va acudir a consulta de manera urgent per una lesió dolorosa en dors nasal de cinc dies d'evolució. Va negar traumatismes o picades en la zona. La lesió inicial va ser una placa rosada, inflamatòria i dolorosa que posteriorment va desenvolupar petites pústules, algunes d'elles amb exsudació blanquinosa. Va referir a més cefalea de predomini frontotemporal bilateral. Va mantenir bon estat general sense febre en tot moment.
+
+Exploració física
+Bon estat general, afebril i normotenso. L'exploració de la lesió va mostrar una placa eritematoedematosa amb aspecte de pell de taronja ocupant extensament el dors nasal, i sobre ella múltiples pústules monomorfas d'1 mm no agrupades i una àrea irregular de 10 mm erosionada amb crosta negrosa adherida. No va presentar lesions similars en la resta de la cara i no es van palpar adenopaties locorregionales.
+
+Exploracions complementàries
+L'anàlisi sanguínia realitzada va mostrar hemograma, bioquímica, coagulació i reactants de fase aguda dins de la normalitat i anticossos antinuclears negatius. El cultiu bacterià i la baciloscopia d'una biòpsia cutània van resultar negatius. L'examen histopatológico va demostrar un infiltrat inflamatori mixt dèrmic intersticial difús i fol·licular (A) amb exocitosi massiva de l'epiteli fol·licular (C) i extensió fins al teixit cel·lular subcutani, necrosi en massa de queratinocitos i vasculitis de petits gots amb leucocitoclasia i necrosi fibrinoide. Es van observar canvis citopáticos propis de virus herpes en els queratinocitos de l'epiteli fol·licular (B, D) amb extensió cap a les glàndules sebàcies (B). Els canvis citopáticos van consistir en inclusions eosinòfiles intranuclears, queratinocitos multinucleats, citoplasma en vidre esmerilat i restes necròtiques de queratinocitos.
+Finalment la PCR per a virus herpes va ser positiva per a Virus Varicel·la-Zòster (VVZ). A més va presentar serologia sanguínia positiva per a VVZ compatible amb infecció en curs i negativa per a VHS, VIH, virus hepatotropos i lúes.
+
+Diagnòstic
+Foliculitis herpètica necrosant per VVZ.
+
+Tractament
+Inicialment es va realitzar tractament empíric amb mupirocina tòpica juntament amb cefazolina i ceftriaxona intravenoses amb lleu disminució de la inflamació. Una vegada realitzat el diagnòstic de certesa es va iniciar tractament amb aciclovir oral 800 mg 5 vegades al dia a intervals de 4 hores, ometent la dosi nocturna, durant 7 dies.
+
+Evolució
+El pacient va mostrar una excel·lent evolució amb resolució completa de les lesions cutànies després de dues setmanes de seguiment. No obstant això el pacient va referir cefalea més o menys persistent, a vegades pulsativa, sense dades d'alarma i amb mala resposta a paracetamol i antiinflamatoris no esteroidals. Actualment es troba en seguiment pel servei de Neurologia amb el diagnòstic de neuràlgia cranial postherpètica. Ha presentat millora amb l'administració de amitriptilina 10-20 mg diaris a les nits i eslicarbamacepina 200mg diaris als matins. A més, una dada curiosa va ser descobrir que la seva filla adolescent va desenvolupar un quadre de varicel·la clàssic una setmana després del diagnòstic de la foliculitis herpètica, probablement per transmissió paterna.

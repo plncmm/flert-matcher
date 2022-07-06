@@ -1,0 +1,19 @@
+Paciente varón, de 75 años de edad, con antecedentes de hipertensión arterial y cardiopatía isquémica, que acude al Servicio de Urgencias por un cuadro de dolor abdominal de 7 días de evolución, localizado en hipogastrio.
+
+A la exploración clínica, se apreció dolor abdominal localizado en hipogastrio. En el estudio analítico destacaba una leucocitosis de 11.600, con desviación a la izquierda. Las radiografías de tórax y de abdomen simple no mostraron alteraciones significativas.
+
+Se realizó una tomografía computada helicoidal (TC) con contraste oral (Gastrografín®) e intravenoso (Iomeron300®).
+
+Diagnóstico
+
+Tumor del estroma gastrointestinal, desarrollado sobre divertículo de Meckel.
+
+En la TC se identificó una "colección" de 10 centímetros de diámetro mayor, que contenía gas y contraste, en íntimo contacto con asas de intestino delgado y adyacente a la pared de colon sigmoides. Esta colección presentaba paredes gruesas y borrosidad del mesenterio adyacente, por lo que los diagnósticos más probables, desde el punto de vista de la imagen, fueron: absceso comunicado con asas intestinales, divertículo complicado o neoplasia ulcerada.
+
+Colección de pared gruesa que contiene gas y Gastrografín®, que se origina del íleon terminal. Se presentan tres de las imágenes más representativas, ya que la lesión está presente hasta en nueve cortes consecutivos.
+
+Se decidió realizar una laparotomía de urgencia; el equipo quirúrgico encontró un divertículo de gran tamaño, dependiente del borde antimesentérico del intestino delgado, a unos 130 centímetros de la válvula ileocecal, sugerente de corresponder a divertículo de Meckel (DM), practicando una resección segmentaria del intestino afecto con posterior anastomosis término-terminal. El postoperatorio cursó sin incidentes, por lo que el paciente fue dado de alta 9 días después con el diagnóstico de tumoración inflamatoria en relación con perforación de DM.
+
+La pieza quirúrgica, enviada a anatomía patológica para su estudio, fue descrita macroscópicamente como "pieza de resección intestinal con enfermedad diverticular que presenta tumoración ulcerada de 8,9 cm que atraviesa toda la pared intestinal, con áreas de necrosis, hemorragia y degeneración quística".
+
+El análisis microscópico demostró una lesión con áreas de degeneración quística y, a mayor aumento, áreas epitelioides y fusocelulares. Con técnicas de inmunohistoquímica, las células fueron positivas para CD117 y focal para CD34, lo que confirmó el diagnóstico de GIST.

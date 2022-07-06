@@ -1,0 +1,34 @@
+Anamnesi
+Dona de 65 anys diagnosticada en 1993 de carcinoma ductal infiltrante de mama esquerra T2N2M0 i tractada mitjançant cirurgia radical, radioteràpia locorregional, quimioteràpia (adriamicina quatre cicles i ciclofosfamida, metotrexato i fluorouracilo vuit cicles) i hormonoterapia (tamoxifeno de 1997-1999, toremifeno 1999-2002).
+
+A l'abril de 2014 s'evidencia recidiva pleuropulmonar, ganglionar mediastínica i òssia. S'inicia tractament amb paclitaxel-bevacizumab més àcid zoledrónico i letrozol. Al novembre d'aquest any s'evidencia progressió radiològica de la malaltia, amb augment del vessament pleural, i s'inicia tractament amb everolimus-exemestano. Durant el tractament es produeix una millora radiològica i de marcadors tumorals. Als 3 mesos comença amb un quadre lleu de dispnea subaguda i tos seca i es realitza una TC amb resposta parcial, per la qual cosa es manté el tractament.
+
+Al febrer de 2015, la pacient acudeix al Servei d'Urgències, hemodinámicamente estable per febre, dispnea de moderats esforços i tos. En la radiologia simple de tòrax s'observa un lleu vessament pleural esquerre ja conegut com a única troballa. Després de treure cultius, se sospita focus infecciós respiratori i s'ingressa en el Servei d'Oncologia amb tractament amb levofloxacino.
+
+Als 3 dies d'ingrés en Oncologia persisteix amb febre elevada i presenta tendència a la hipotensió i taquipnea, per la qual cosa s'amplia la cobertura a oseltamivir, meropenem i vancomicina. Malgrat la antibioterapia, la pacient presenta empitjorament franc amb dispnea intensa, hipòxia greu, hipotensió i taquicàrdia, per la qual cosa es realitza una TC urgent que descriu troballes suggestives de pneumònia bilateral com a primera possibilitat. En situació d'insuficiència respiratòria aguda, ingressa en la Unitat de Vigilància intensiva (UCI).
+
+Exploració física
+Conscient, orientada. Febril, taquipneica; tensió arterial 85/55 mm Hg; freqüència cardíaca 130 lpm.
+Saturació del 80% sense oxigenoteràpia. Auscultació cardiopulmonar: tons rítmics sense soplos. Hipoventilació generalitzada. Abdomen i extremitats sense troballes d'interès.
+
+Proves complementàries
+» Hemograma: leucocitosis amb neutrofilia.
+» Bioquímica: elevació de reactants de fase aguda.
+» Gasometria arterial: insuficiència respiratòria aguda.
+» Radiografia simple de tòrax: infiltrats alveolointersticiales bilaterals d'etiologia no filiada.
+» Hemocultivos, urinocultius, antigen de pneumococ i Legionel·la en orina, serologia en rentada bronquioloalveolar, galactomanano en sèrum.
+
+Diagnòstic
+Donada la situació clínica de la pacient i la mala evolució en planta malgrat el tractament, comença a prendre forma la possibilitat que el quadre sigui degut a una neumonitis farmacològica en el context del tractament amb everolimus.
+
+Tractament
+Per aquest motiu, a més de mantenir antibioterapia d'ampli espectre (oseltamivir, meropenem i cotrimoxazol), s'inicia corticoterapia a dosi de 2mg/kg/dia.
+
+Evolució
+En les primeres hores d'ingrés en l'UCI, la pacient roman conscient, hemodinámicamente estable amb tendència a la hipotensió i necessitat de ventilació mecànica no invasiva (VMNI), amb bona adaptació a aquesta.
+
+Després de 48 hores presenta mala evolució clínica, amb empitjorament dels paràmetres hemodinámicos i inici de tractament vasoactivo amb noradrenalina i necessitat d'intubació orotaqueal (IOT). Crida l'atenció l'aparició d'un rash cutani eritematós en tòrax, abdomen i extremitats.
+
+En els següents dies del seu ingrés en l'UCI s'evidencia una millora hemodinàmica i clínica, la qual cosa va permetre la retirada de la noradrenalina i l'avanç en el deslletament fins a extubar a la pacient i romandre amb VMNI progressant en les desconnexions. Analíticament, es va objectivar descens de reactants de fase aguda i els resultats de tots els cultius van resultar negatius.
+
+Donada l'estabilitat, es va donar l'alta de l'UCI, amb reingrés en planta d'Oncologia, on es va declarar la toxicitat grau IV a everolimus a l'Agència Espanyola de Medicaments i es va dur a terme la reducció progressiva de la corticoterapia i la rehabilitació intensiva per miopatia greu del pacient crític fins a l'alta al seu domicili i seguiment en consultes externes.

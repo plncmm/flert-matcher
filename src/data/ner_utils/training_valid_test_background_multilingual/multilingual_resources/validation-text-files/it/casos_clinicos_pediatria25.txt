@@ -1,0 +1,51 @@
+MOTIVO DELLA CONSULTAZIONE
+- Un bambino di 6 anni consultato il 13-03-20 nel dipartimento di emergenza dell'ospedale per una tosse continua di 3 giorni di evoluzione e il ritrovamento di un infiltrato sulla radiografia del torace richiesta dal suo pediatra privato.
+- Era stato trattato con salbutamolo per 24 ore senza alcun miglioramento.
+- Nessuna febbre o altri sintomi di accompagnamento.
+- Nessuna storia di contatto con casi di COVID-19 o ambiente epidemico a casa.
+
+STORIA PERSONALE
+- Neonato a termine. Periodo neonatale normale.
+- Rilevamento fetale dell'ectasia pielica destra. Seguito da nefrologia pediatrica con diagnosi di megauretere destro.
+- Asma indotta da virus trattata con salbutamolo su richiesta.
+
+ESAME FISICO
+Ta: 37oC Sat.O2: 98% FR: 24 r.p.m FC:90 l.p.m
+- Buone condizioni generali. Colorazione normale della pelle e delle mucose. Nessun esantema. Nessun segno di sofferenza respiratoria.
+- ACR: Normale. Buona ventilazione bilaterale. Nessun suono patologico.
+- Addome: normale.
+- ENT: Orofaringe eritematosa senza essudati.
+
+ESPLORAZIONI COMPLEMENTARI
+Radiografia del torace (riportata dal radiologo):
+Infiltrazione retrocardiaca sinistra con broncogramma ad aria aumentata. Modello interstiziale ilare bilaterale associato. Seni liberi.
+
+ANALISI:
+ESPLORAZIONI COMPLEMENTARI
+ - Emogramma: Hb 13,8, leucociti 9880 (N 4841, L 3062).
+- Biochimica: Glucosio 101, GPT 11, CK 103, - CRP:14,7mg/L
+- Emogasanalisi venosa: PH 7.35, PCO2 36.5
+In considerazione della radiologia compatibile con un possibile caso di COVID-19, si è deciso di richiedere all'ED quanto segue:
+PCR SARS-CoV-2: POSITIVO
+
+EVOLUZIONE
+- È rimasto afebbrile e asintomatico, mantenendo un'adeguata saturazione di O2 senza richiedere l'ossigenoterapia.
+- Dopo un risultato positivo per la PCR della SARS-CoV-2, e data la scarsa sintomatologia, la dimissione è stata decisa lo stesso giorno del ricovero.
+- Dopo aver spiegato le misure di isolamento, è stato effettuato il monitoraggio a domicilio.
+
+DIAGNOSI
+- Infezione respiratoria da SARS-CoV-2 con sintomi lievi.
+- Tosse, equivalente asmatico.
+
+TRATTAMENTO
+- Salbutamolo con camera spaziatrice su richiesta.
+- Paracetamolo, se la febbre.
+- Vengono fornite linee guida per l'allarme e un foglio informativo con raccomandazioni.
+- Insistere sull'isolamento domestico.
+- Monitoraggio telefonico dell'evoluzione della malattia da parte del pediatra di base.
+
+FOLLOW-UP
+- Il follow-up telefonico da parte del suo pediatra di base è stato effettuato, e non è stato necessario alcun consulto di persona o test complementari, data la buona evoluzione del processo.
+- Non ha presentato febbre o altri sintomi nelle settimane seguenti.
+- Non ci sono stati casi di COVID-19 nel resto dei membri della famiglia, né prima né dopo questo caso.
+- Al bambino è stato chiesto un possibile contatto con un caso, ma non è stato identificato, e la scuola è stata attribuita come il sito più probabile di infezione.

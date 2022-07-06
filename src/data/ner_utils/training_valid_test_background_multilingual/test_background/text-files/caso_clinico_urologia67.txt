@@ -1,0 +1,29 @@
+Anamnesis
+Paciente varón de 54 años de edad sin antecedentes de interés ni hábitos tóxicos.
+Acude al Servicio de Urgencias por un cuadro de polaquiuria, disuria y discreta hematuria sin mejoría tras tratamiento antibiótico prescrito por su médico de Atención Primaria, siendo dado de alta hospitalaria con cambio de antibioterapia, antiinflamatorios orales y pendiente del resultado del urocultivo. A las 48 horas, presentó un episodio de retención aguda de orina resuelto con sondaje uretrovesical. Quince días más tarde acude de nuevo a Urgencias por un cuadro clínico de hematuria franca espontánea a través de la sonda, asociado a deterioro importante de su estado general con astenia, anorexia y pérdida de 10 kg de peso en la última semana. Por todo ello quedó ingresado para completar el estudio.
+
+Examen físico
+Mal estado general, caquéctico. Consciente, orientado y colaborador. Palidez mucocutánea. Abdomen blando y depresible, doloroso a la palpación profunda a nivel del hipogastrio. Sin signos de irritación peritoneal. Tacto rectal: próstata aumentada de consistencia de forma generalizada, desestructurada, compatible con proceso neoplásico maligno.
+
+Pruebas complementarias
+Tras los hallazgos del tacto rectal, sugestivos de tumor muy indiferenciado o sarcoma prostático, solicitamos una biopsia prostática, determinación del antígeno prostático específico (PSA) y estudio de extensión con tomografía computarizada (TC) de abdomen y pelvis.
+• Biopsia transrectal de prostata guiada por ecografia:
+− Tacto rectal: próstata pétrea, mal definida.
+− Tipo de anestesia local empleada: mepivacaína al 2%.
+− Descripción de la ecografía transrectal: próstata desestructurada, ecogenicidad heterogénea, con mala diferenciación de la glándula central y periférica y cápsula borrada, resultando imposible la medición del volumen.
+− Número de cilindros tomados por lóbulo prostático: lóbulo derecho 5, e izquierdo 5.
+• Anatomía patológica: carcinoma neuroendocrino de células pequeñas poco diferenciado presente en todos los cilindros de ambos lóbulos y en toda su longitud, extendiéndose al tejido adiposo adyacente. Invasión perineural. Estudio inmunohistoquímico para cromogranina, sinaptofisina y CD56: positivos; y PSA negativo, confirmando la naturaleza neuroendocrina del tumor.
+• TC abdominal de extension: nódulo de 2,1 cm con estructura en "escarapela" en el segmento II del lóbulo izquierdo hepático, con aspecto de metástasis. Quiste de 10 cm en el riñón derecho multitabicado con realce de las paredes (Bosniak III). Urétero-hidronefrosis bilateral grado II. Ocupación de la zona prostática por una gran tumoración de 8 cm, de límites mal definidos, que infiltra al músculo obturador interno derecho, a la vejiga, al recto y al sigma, compatible con una gran neoplasia prostática infiltrante. Masas adenopáticas en ambas cadenas iliacas externas, y algunas más pequeñas hasta el nivel de la unión de ambas iliacas comunes. No metástasis óseas.
+• TC abdomen (de urgencias): aumento de tamaño de la lesión quística (de unos 10 cm a 14 cm), aumento de tamaño del músculo psoas iliaco derecho y líquido libre intraabdominal, hallazgos compatibles con posible rotura quística. Derrame pleural bilateral de predominio derecho, de nueva aparición. Marcada ureterohidronefrosis bilateral. Masa en la región prostática de unos 10 cm, heterogénea. Lesión focal en el segmento lateral del lóbulo hepático izquierdo compatible con metástasis. Conglomerados adenopáticos en las cadenas iliacas.
+• PSA 2,2 ng/ml.
+• Analítica: hematíes 3,1 x 106/μl, hemoglobina 8,9 g/dl, hematocrito 26,1%, urea 126 mg/dl, creatinina 8,8 mg/dl, sodio 120 mEq/l, potasio 6,8 mEq/l, calcio 8 mg/dl, proteínas totales 5,3 g/dl, proteína C reactiva 262,9 mg/l.
+
+Diagnóstico
+Carcinoma prostático neuroendocrino de células pequeñas metastásico.
+
+Tratamiento
+Tratamiento de soporte inicial con fluidoterapia, diuréticos, antibioterapia de amplio espectro (ertapenem) y analgesia intravenosa. Sedación terminal con midazolam y cloruro mórfico.
+
+Evolución
+Tórpida, con deterioro brusco del estado general en 48 horas, en el contexto de un cuadro séptico de origen urológico con fracaso multiorgánico y abdomen agudo tras rotura espontánea del quiste renal (Bosniak III). Valorado por el Servicio de Cuidados Paliativos y en consenso con sus familiares, se acordó la limitación del esfuerzo terapéutico, instaurándose sedación paliativa por delirium refractario falleciendo pocas horas después.
+Por todo ello no pudo iniciarse el esquema quimioterápico propuesto por el Servicio de Oncología Médica con cisplatino y etopósido.

@@ -1,0 +1,29 @@
+Anamnèse
+Un homme de 38 ans originaire du Pérou, sans allergies médicamenteuses, habitudes toxiques ou facteurs de risque vasculaire connus, s'est présenté aux urgences pour une céphalée fronto-temporale droite, pulsatile et strictement unilatérale, qui s'aggravait avec les mouvements de la tête et une photophobie associée. Il a nié toute altération cognitive, visuelle ou sensorielle avant l'épisode. La céphalée était d'intensité modérée-sévère et avait commencé brusquement l'après-midi de la veille de la consultation aux urgences alors qu'elle était au repos. Dans l'anamnèse, elle a nié tout antécédent de céphalée, de sensation dysthermique ou de fièvre. Elle n'avait pas non plus d'antécédents familiaux de céphalées ou d'autres maladies d'intérêt. Au moment de la consultation, il était sans emploi (il avait travaillé comme serveur) et vivait en Espagne avec sa compagne depuis plus de 10 ans. Bien que le patient ne soit pas traité par des médicaments, il avait pris un seul comprimé de paracétamol 1 g par voie orale comme traitement symptomatique, avec une légère amélioration. Pendant son séjour aux urgences, la douleur s'est légèrement améliorée après l'administration de 25 mg de dexkétoprofène par voie intraveineuse.
+
+Examen physique
+Général : tension artérielle 125/80 mmHg, fréquence cardiaque 70 bpm, saturation en oxygène 99%. Afébrile. Bon aspect général, bien hydraté, nourri et parfumé. Aucune éruption cutanée n'a été observée. Carotide rythmique sans murmure audible. Auscultation cardiaque et respiratoire sans altération. Abdomen souple et dépressible, sans masses ni organomégalie. Membres inférieurs sans œdème ni signe de thrombose veineuse profonde. Examen neurologique : patient alerte. Orienté dans la personne, le temps et l'espace. Pas d'aphasie. Pas d'apraxie. Parole fluide, non dysarthrique. Campimétrie par confrontation oculaire sans altération. Examen ophtalmologique aux urgences avec fond d'œil normal, papille aux bords nets et de couleur normale. Les pupilles sont isochoriques et normalement réactives à la lumière et à l'accommodation. Suivi des mouvements oculaires sans restriction ni autre altération (pas de nystagmus évoqué). Mouvements oculaires saccadés préservés. Nerfs crâniens V, VIII, IX, X, XI et XII sans altération. Équilibre musculaire 5/5 dans les quatre extrémités. Tonus musculaire et trophisme normaux. Aucune altération de la coordination dans les manœuvres doigt-nez et talon-genou. Pas de dysdiadochokinésie. Réflexes ostéotendineux généralisés ++/++. Sensibilité tactile, algique, vibratoire et proprioceptive sans altération. Démarche en tandem sans altérations. Romberg négatif. Pas de signes méningés.
+
+Tests complémentaires
+- Données de laboratoire urgentes : hémogramme, coagulation et biochimie sans altération. Urine : pas d'altération.
+- Données de laboratoire différées : hémoglobine 16,3 g/dl, MCV 94,8 fl, MCH 30,6 pg, leucocytes 6,48 x 103/microl, plaquettes 380 x 103/microl, CRP 1,4 mg/dl, LDH 148 IU/l (< 247), FA 148 IU/l (30-120), cholestérol total 182 mg/dl. Coagulation dans la gamme normale. Métabolisme du fer sans altération. Immunologie : ANA, ANCA, anticorps anti-Ro et anti-La négatifs. C3 et C4 dans la gamme normale. Anticorps anti-facteur rhumatoïde et anti-peptide citrulliné négatifs. Protéinogramme et immunoglobulines sériques sans altération. Enzyme de conversion de l'angiotensine 39,4 UI (20-60).
+- Marqueurs tumoraux (Ca 15.3, Ca 19.9, AFP, PSA) dans les limites de la normale.
+- Radio du thorax : index cardio-thoracique normal. Sinus costophréniques libres. Pas d'épaississement médiastinal ni d'infiltrat parenchymateux.
+- Tomodensitométrie (TDM) du cerveau avec et sans contraste : hypodensité temporale droite sans effet de masse qui respecte le cortex cérébral et qui ne prend pas le contraste.
+- Imagerie par résonance magnétique (IRM) cérébrale avec et sans contraste : rehaussement pachyméningé de l'hémisphère droit, avec des zones d'épaississement pseudonodulaire focal associé de localisation temporale. Altération du signal cortico-sous-cortical temporal droit sous-jacent, suggérant un œdème réactif.
+- Angiographie par IRM : hypoplasie du sinus transverse gauche sans signe de thrombose veineuse cérébrale.
+- Ponction lombaire : pression d'ouverture 12 mm H2O. 20 cellules (100% lymphocytes). Protéines 387 mg/dl, glucose 50 mg/dl (sérum 70 mg/dl), ADA 3,3 (0,5-3), indice de Tibbling 0,62 (0,3-0,7). Aucune cellule tumorale n'a été observée.
+- La PCR pour la tuberculose (TB) était négative. Les cultures étaient négatives pour les bactéries et les champignons habituels. Les antigènes fongiques (cryptococcus, Blastomyces, Coccidioides imitis, Histoplasma capsulatum, Paracoccidioides brasilensis) étaient négatifs.
+- Cultures sanguines et urinaires négatives pour la tuberculose.
+- Sérologies dans le sérum et le liquide céphalorachidien négatives pour la syphilis, Brucella, Rickettsia conorii, Borrelia burgdorferi, VIH, VHB, VHC, toxoplasmose, rubéole, CMV. PCR pour HSV 1, HSV 2, virus Epstein-Barr et cytoemgalovirus.
+- TDM thoracico-abdominale : pas d'adénopathie médiastinale, d'épanchement pleural ou d'infiltrat dans le parenchyme pulmonaire.
+Tomodensitométrie du cerveau avec contraste montrant une hypodensité temporale droite sans prise de contraste. IRM cérébrale en séquence T1 avec gadolinium montrant un épaississement méningé avec un œdème environnant.
+
+Diagnostic
+Céphalée secondaire à une pachyméningite hypertrophique idiopathique.
+
+Traitement
+Le patient est resté à l'hôpital avec un bon contrôle de la céphalée avec de l'ibuprofène 600 mg par voie orale toutes les 8 heures.
+
+Evolution
+Au terme de l'étude et au vu de l'amélioration des maux de tête, une IRM de contrôle a été demandée, qui a montré une amélioration des lésions.

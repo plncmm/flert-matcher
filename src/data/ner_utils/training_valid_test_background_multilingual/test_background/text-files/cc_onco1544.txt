@@ -1,0 +1,21 @@
+Anamnesis
+Paciente varón de 47 años:
+• FRCV: Fumador activo con un IPA de 60; Bebedor importante (14 UBE/día). IAMSEST no Q, con implante de 6 stents farmacoactivos en Mayo 2019.
+• Discopatía L5-S1. Lumbalgia crónica
+• Tratamiento habitual: Atorvastatina 40 mg/24h; Clortalidona 50 mg/24h; Espironolactona 20 mg 2 c/24 h; Bisoprolol 2,50 mg/24 h; Clopidogrel 75 mg/24h; AAS 100 mg/24 horas; Furosemida 40 mg/24 h; Pantoprazol 20 mg/24h; Ramipril 10 mg/24h, con mala adherencia al tratamiento.
+Consulta por mareos, astenia y disnea de esfuerzo junto con edematización y debilidad de MII, motivo por el cual acudió a urgencias en múltiples ocasiones modificando el tratamiento diurético en cada visita. No otra sintomatología.
+
+Exploración física
+A la exploración física: Buen estado general, consciente y orientado. TA: 140/90.
+Plenitud facial y giba de búfalo. Obesidad troncular. AC: Tonos rítmicos con soplos sistólico panfocal normofrecuentes. AR: Hipoventilación global. Abdomen y exploración neurológica dentro de la normalidad.
+
+Pruebas complementarias: (1) Radiografía simple de tórax sin alteraciones; (2) Analítica de sangre con hallazgo a destacar hipopotasemia grave (1,3 mmol/L) asociada a alcalosis metabólica. Resto de parámetros en rango. (3) ECG sin alteraciones. Ante estos hallazgos se decide ingreso.
+Durante su estancia en la zona de hospitalización, a pesar de tratamiento de reposición no se consigue la normalización de la kaliemia, descartando la causa carencial, pérdidas digestivas y fármacos, suspendidos durante el ingreso, como origen de la hipopotasemia.
+Se realiza por tanto estudio hormonal con cortisolemia, cortisoluria, renina y aldosterona.
+
+Diagnóstico
+En el diagnóstico diferencial quedan descartadas causas como hiperaldosteronismo primario u síndrome de Liddle por renina (4,02 μUI/mL) y aldosterona (2.78 4,02 ng/dL) con valores dentro de la normalidad. No obstante, ante cortisolemia (68,1 μg/DL) y cortisoluria elevada, el cuadro se enfoca hacia un hipercortisolismo. Se realiza test de Nugent que no suprime, orientando el diagnóstico hacia un síndrome de Cushing endógeno. Se solicita ACTH, obteniéndose un resultado de 299 pg/mL, muy elevada
+En cuanto al diagnóstico etiológico del Síndrome de Cushing ACTH dependiente, se realiza estudio de imagen con RM de hipófisis con hallazgos dentro de la normalidad y TC toracoabdominal con posterior broncoscopia con biopsia con hallazgos en anatomía patológica de carcinoma microcitico de pulmón en estadio de enfermedad limitada que junto los resultados del Test de Liddle fuerte sin supresión establecemos el juicio clínico de Síndrome de Cushing paraneoplasico en relación a carcinoma microcitico de pulmón
+
+Tratamiento
+Se inicia tratamiento con Ketoconazol para el hipercortisolismo y tras valoración por Oncología tratamiento de la causa con Quimio/Radioterapia

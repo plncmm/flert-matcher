@@ -1,0 +1,11 @@
+Varón de 50 años, sin alergias, enolismo hasta hace 3 meses (100 gramos/día). No otros antecedentes, salvo clínica irritativa prostática de meses de evolución, estudiada en consultas de Urología detectándose niveles elevados de PSA (86 ng/ml) sin más pruebas por pérdida de seguimiento del paciente.
+Ingresa en Medicina Interna por cuadro de 2 meses consistente en astenia, hiporexia y pérdida ponderal (20 kg). Asociaba en los últimos días síndrome febril sin focalidad. Pruebas complementarias: a) Analítica, destacando hemoglobina 9.7 g/dl (normocítica-normocrómica) leucocitos y plaquetas normales, LDH 1139 mg/dl, PCR 264.8 mg/l, ferritina 13.276 ng/ml, resto de metabolismo del hierro sin alteraciones. b) TAC abdominal: Próstata aumentada de tamaño, adenopatías paravesicales, leve hepatoesplenomegalia homogénea. Sospecha de tumor prostático, con posibilidades menos probables de origen vesical o linfoma.
+
+Diagnóstico Diferencial
+Presenta cuadro constitucional con sospecha de origen neoplásico confirmado por imagen. Asocia anemia y síndrome febril; con respecto a este último, aunque el diagnóstico diferencial es muy amplio, deben considerarse fundamentalmente 3 procesos: infecciones, neoplasias y, en menor medida, procesos inflamatorios o autoinmunes. En este caso, sospechamos origen tumoral, sin poder descartar proceso infeccioso, sospechando prostatitis por aumento del tamaño y clínica irritativa.
+
+Evolución
+Inicia antibioterapia empírica persistiendo febril; biopsia prostática con resultado anatomopatológico de adenocarcinoma de próstata (Gleason 9; 4+5). Ante mayor anemización, se realiza aspirado de médula ósea evidenciándose criterios citológicos de hemofagocitosis. Es valorado por Uro-Oncología iniciando tratamiento con bicalutamina y análogo de GnRH; presenta una evolución desfavorable con deterioro funcional progresivo y empeoramiento de anemia precisando soporte transfusional frecuente y, ante inmunosupresión severa, desarrolla una neumonía por Pneumocystis jiroveci que obliga a retirar el tratamiento urológico. Finalmente, fallece a los 6 meses del diagnóstico.
+
+Diagnóstico Definitivo
+Adenocarcinoma prostático estadio IV con síndrome hemofagocítico secundario.

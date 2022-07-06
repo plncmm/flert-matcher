@@ -1,0 +1,26 @@
+Anamnesis
+The patient came to the emergency department for exacerbation of his usual abdominal pain, located in the epigastrium and radiating to both hypochondrium, dull and severe, of 8 out of 10, which did not subside with first step analgesia, with no other associated symptoms.
+
+Physical examination
+On arrival at the emergency department, blood pressure was 200/110 mm Hg. Abdominal pain on palpation in the right hemiabdomen, with no signs of peritoneal irritation. The rest of the examination, including the neurological examination, was unremarkable.
+
+Complementary tests
+In the ED, a worsening of his usual pattern of cholestasis (bilirubin 1.67, FA 406, GGT 739), increased cytolysis enzymes (GOT 766, GPT 694) and increased troponins 0.7 and coagulopathy (INR 1.37 and fibrinogen 244) were observed.
+Given the analytical alteration and abdominal pain, a CT scan of the abdomen was performed showing bilateral renal infarcts and thrombosis of a branch of the hepatic artery, with subsequent ischaemic areas.
+Due to the presence of coagulopathy and visceral infarcts, anticoagulation with low molecular weight heparin (LMWH) was started. In addition, given the alteration of the liver profile, a test for hepatotropic viruses (HBV, HCV, CMV and EBV) was requested, which was negative.
+The patient was admitted to the Medical Oncology ward for further investigation.
+
+Diagnosis
+Marantic endocarditis (ME) with systemic embolic involvement (splenic, hepatic, renal and central nervous system), manifested by abdominal pain, episode of transient global amnesia, and paroxysmal alteration of the level of consciousness in a patient with high-grade stage IV infiltrating ductal carcinoma of the mucous-secretory pancreas due to hepatic involvement.
+
+Treatment
+HPBM for MS.
+
+Evolution
+Echoendoscopy was performed with biopsy to identify the tumour process, which turned out to be a stage IV high-grade infiltrating ductal carcinoma of the mucous-secretory pancreas due to liver involvement.
+During admission, the patient presented with an episode of dizziness, sweating and a feeling of loss of strength in the left hand, with elevated blood pressure and a normal ECG. An urgent cardiological assessment was requested, including a transthoracic echocardiogram (TTE), which revealed a doubtful image of vegetation on the aortic valve and moderate aortic insufficiency. It was decided to extend the study with transesophageal echocardiography (TEE). Finally, the TEE showed an image compatible with endocarditis.
+Following this finding, microbiological cultures were taken and empirical antibiotic therapy was started with vancomycin, ampicillin and gentamicin. Blood cultures were sterile and the patient continued without fever. A follow-up TTE and TEE were performed, where an adherent mass persisted on the ventricular side of the right coronary leaflet, which appeared to have increased in size. The study of microorganisms causing endocarditis was extended with negative blood cultures: serology for Q fever, Brucella and Chlamydia pneumoniae; and PCR for Bartonella, Borrelia, Coxiella and Rickettsia. All of them were negative.
+Given the association between paroxysmal episodes of altered level of consciousness (which tended to coincide with moments when LMWH was occasionally suspended) and an image of endocarditis, a cranial CT scan was requested, which was found to be normal.
+At that time, an episode of transient global amnesia that had occurred 4 months earlier was taken into consideration and which, a priori, had not been related to the tumour disease, since this symptom preceded the constitutional symptoms. Seen in perspective, it could not be ruled out that this event was related to the current MS, so a cranial MRI was requested, which showed supra- and infratentorial infarcts with a lacunar profile and different time of evolution, suggesting a cardiac thromboembolic origin.
+Unfortunately, the patient's liver profile began to progressively worsen. This, associated with a marked clinical worsening, meant that the patient was not a candidate for chemotherapy treatment and that symptomatic control alone was chosen.
+

@@ -1,0 +1,29 @@
+Anamneză
+Pacient de sex masculin în vârstă de 74 de ani, fără alergii la medicamente sau obiceiuri toxice cunoscute. Antecedente personale de diabet zaharat de tip II, hipertensiune arterială, dislipidemie, tromboembolism pulmonar submassiv stâng și în studiu pentru insuficiență renală. Istoricul chirurgical al herniorafiei inghinale drepte și colecistectomiei laparoscopice (2010). Tratamentul obișnuit: omeprazol, torasemid, enalapril, bisoprolol, insulină și acenocumarol.
+S-a prezentat la serviciul de urgență al spitalului din cauza deteriorării stării generale, cu astenie și scădere în greutate, însoțită de dureri în hipogastru și în regiunea perineală și disurie de o lună de zile. Ea nu a raportat febră sau senzație de distres. El era tratat cu amoxicilină-acid clavulanic de către medicul său de familie.
+
+Examinarea fizică
+Conștient, orientat. Paloare mucocutanată și normohidratată. Auscultație cardiacă: ritmică la 88 bpm, fără murmure. Auscultația pulmonară: hipoventilație generalizată. Abdomen: moale, depresibil, dureros la palpare în hipogastru, fără semne de iritație peritoneală; fără mase sau visceromegalie; peristaltism păstrat. Organele genitale externe: testiculul drept atrofic, testiculul stâng eritematos, impactat, sugestiv de orchiepididimită. Examenul rectal: regiunea perineală fără alterări; tonus scăzut al sfincterului anal; prostată moale, nu suspectă (GI) sau dureroasă; a raportat pierderi involuntare de fecale. Se plasează un cateter vezical și se face o cultură de urină.
+
+Teste complementare
+● Hemograma: hemoglobină 11,4 g/dl, hematocrit 34,5%, leucocite 14,2 mil/mm3, neutrofile 72,3%.
+Biochimie: creatinină 1,6 mg/dl, glucoză 300 mg/dl.
+Gazele din sângele venos: pH 7,45, PaO2 36 mmHg, PaCO2 29 mmHg, HCO3 20,2 mmol/l.
+● Urină: pH 5,5, 60-100 leucocite/câmp, floră bacteriană +++.
+● Coagulare: timp de protrombină 88,6 s, activitate protrombină 9%.
+● INR-TP 7,31, aPTT 54,9 s, fibrinogen derivat 794 mg/dl.
+● Ecografie: canal biliar principal dilatat (13 mm). Rinichi drept cu morfologie, dimensiuni și ecostructură normale. Rinichi stâng cu imagini chistice de 3,8 și 4 cm de aspect simplu. Nu există dilatare bilaterală pielocaliceală. Imagine splenică hipodensă eterogenă de 3,8 cm cu extensie la marginea splenică inferioară și anterioară. Nu se observă niciun fluid liber.
+● Cultură de urină: pozitivă pentru Klebsiella oxytoca, fără rezistență la antibioticele uzuale.
+● Având în vedere starea generală și constatările ecografice, s-a decis internarea sa în departamentul de medicină internă pentru investigații suplimentare. Tratamentul antibiotic a fost inițiat cu levofloxacină. În a șasea zi s-a prezentat cu dureri abdominale difuze și burtă în plăci și s-a efectuat o tomografie computerizată abdomino-pelvină: revărsare pleurală bilaterală și lichid peritoneal liber. Leziune nodulară hipodensă splenică de aproximativ 5 cm în diametru, cu o zonă periferică care se extinde până la hil și ligamentul gastrosplenic, fără a putea exclude o tumoră. Abcese prostatice marcate (6 cm lobul stâng) și vezicule seminale cu coborâre inferioară internă a mușchiului levator ani. Cantitate mică de lichid retrovesical.
+
+Diagnostic
+Abcesul interprostatic.
+Masă splenică în așteptarea filiației.
+
+Tratament
+Cistostomie suprapubiană și drenaj percutanat perineal ghidat ecografic percutanat al lobului prostatic stâng, cu o scurgere de 60 cc de puroi, și al lobului drept, cu o scurgere de 15 cc. Au fost lăsate două drenaje pigtail (câte unul în fiecare lob) și s-a efectuat o instilație intraprostatică cu tobramicină. Au fost prelevate probe pentru microbiologie (a fost izolată Klebsiella pneumoniae sensibilă la tobramicină).
+
+Evoluție
+În perioada postoperatorie, s-a efectuat o toracocenteză pentru a diagnostica un revărsat pleural drept, compatibil cu transudatul. A fost solicitată o tomografie computerizată de control, care a evidențiat limfadenopatii retrocavale, subaortice, lanțul diafragmatic anterior și retrocrurale. Masă în hilul splenic, probabil datorată unui conglomerat adenopatic cu semne de infiltrare tumorală care sugerează posibilitatea unui proces limfoproliferativ: limfom.
+Având în vedere ameliorarea stării generale, pacientul a fost externat cu dimensiunea vezicii urinare, pentru a evalua posibilitatea unei intervenții chirurgicale programate pentru splenectomie și rezecția transuretrală a prostatei, după plasarea unui filtru de cavă.
+Pacientul a fost reinternat la 14 zile de la externare din cauza unei deteriorări mari a stării sale generale, însoțită de diaree, distensie abdominală și dispnee în repaus fără febră, secundară recidivei revărsării efuziunii pleurale bilaterale. S-a efectuat o nouă toracocenteză, cu citologie a lichidului pleural compatibilă cu limfom de grad înalt. A murit din cauza unei insuficiențe multiorganice.

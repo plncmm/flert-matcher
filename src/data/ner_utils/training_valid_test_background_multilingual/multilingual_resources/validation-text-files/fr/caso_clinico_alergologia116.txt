@@ -1,0 +1,36 @@
+Fuensanta 37 ans
+
+- Pas d'habitudes toxiques
+- Aucune allergie médicamenteuse connue
+- Appendicectomie à l'âge de 28 ans
+- Diverses sutures pour plaies
+- Asthme bronchique intermittent léger. Traitement : salbutamol inhalé à la demande.
+- Rhinite allergique persistante traitée par lévocétirizine 5 mg c/24 heures.
+
+ Motif de la consultation
+- Un mois avant la consultation, le patient a soudainement présenté une dyspnée, une respiration sifflante et un prurit oculaire et pharyngé. Les symptômes ne s'étant pas améliorés avec l'administration de salbutamol, elle s'est rendue au service des urgences de l'aire de santé de base, où l'on a observé un angioedème facial et un bronchospasme et où l'on a administré de l'adrénaline sous-cutanée et de l'hydrocortisone par voie parentérale.
+- Avant cet épisode, le patient avait subi une endodontie. Elle a été envoyée chez l'allergologue pour étudier une éventuelle allergie à la lidocaïne (anesthésique local utilisé en endodontie).
+
+Tests cutanés pour divers pneumoallergènes courants dans la région de Murcie : positifs pour les acariens.
+
+IgE totales : 81 KU/ml (Normal : < 100 KU/L)
+IgE spécifiques pour Dermatophagoides Pteronyssinus : 18,3 KU/L
+
+- Tests cutanés (prick test et intradermique) avec la lidocaïne : NÉGATIF
+- Provocations parentérales avec des doses croissantes de lidocaïne : NÉGATIF.
+
+- L'anamnèse a révélé que la patiente était une consommatrice régulière d'escargots, et qu'elle avait parfois une respiration sifflante après en avoir mangé.
+- Elle a rappelé qu'elle avait mangé des escargots une heure plus tôt, le jour de l'agression qui a motivé la consultation.
+
+- Test cutané (prick test) avec escargot : POSITIF (papule de 6x5 mm).
+
+IgE spécifiques pour la chair d'escargot : NÉGATIF
+IgE spécifiques recombinantes à la tropomyosine de crevette :
+POSITIF (5,4 KU/L)
+
+
+DIAGNOSTIC
+- Rhinite et asthme dus à une sensibilisation aux acariens.
+- Anaphylaxie due à une sensibilisation aux escargots
+- Sensibilisation croisée des escargots
+- Sensibilisation à la tropomyosine

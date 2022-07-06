@@ -1,0 +1,16 @@
+Paciente de sexo femenino de 56 años de edad que ingresó a la guardia en estado de estupor. En el examen neurológico presentaba nistagmus y ataxia, y como antecedentes de importancia refería alcoholismo y malnutrición (peso: 40 kg). En los análisis de laboratorio no había alteraciones significativas.
+Se le efectuó una tomografía computada (TC) de cerebro y, dado que los resultados fueron normales, se decidió realizar una RM de cerebro (equipo de 1.5 T Philips). En las secuencias FLAIR y T2WI, se observaba un aumento de la señal en forma simétrica a nivel talámico medial, región periacueductal, cuerpos mamilares y tubérculos cuadrigéminos, mientras que en la secuencia de Difusión (DWI) se notaba una restricción a nivel bitalámico y señales iso e hipointensas en el mapa ADC. Esto nos indicó que podría tratarse de un episodio agudo.
+
+RM axial FLAIR. Se observa hiperintensidad de señal en ambos tálamos de manera simétrica.
+
+RM plano axial T2. Hiperintensidad de señal bilateral y simétrica en ambos tálamos.
+
+RM plano axial FLAIR. Obsérvese señal incrementada a nivel de los tubérculos cuadrigeminales.
+
+RM plano axial FLAIR. Se observa señal hiperintensa en la placa tectal y los cuerpos mamilares de forma bilateral y simétrica. También se nota compromiso de la sustancia gris periacueductal.
+
+RM plano axial T2. Se visualiza señal hiperintensa de la placa tectal y de la sustancia gris periacueductal.
+
+RM plano axial DWI. Se puede apreciar un patrón restrictivo molecular en forma bilateral y simétrica en ambos tálamos. El mapa de ADC muestra ambos tálamos con señal iso e hipointensa respecto al parénquima cerebral adyacente.
+
+Luego de analizar los hallazgos, los antecedentes y el cuadro clínico, se sospechó que se trataba de la enfermedad de Wernicke y se decidió comenzar un tratamiento con tiamina IV. Éste mejoró el estado de conciencia de la paciente.

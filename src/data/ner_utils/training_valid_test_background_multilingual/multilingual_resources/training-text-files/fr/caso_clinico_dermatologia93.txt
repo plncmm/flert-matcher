@@ -1,0 +1,24 @@
+Anamnèse
+Femme de 84 ans ayant des antécédents personnels d'hypertension, de diabète sucré et d'ostéoporose, qui étaient tous sous traitement pharmacologique. Elle s'est présentée aux urgences avec une fièvre de 48 heures d'évolution, associée à des symptômes urinaires et des lésions cutanées sur la fesse et la jambe droite de moins de 12 heures d'évolution. Les proches ont rapporté que depuis un mois et demi, la patiente présentait des douleurs neuropathiques dans le même membre pour lesquelles elle était traitée au tramadol et au lyrica oral et pour lesquelles elle s'était rendue aux urgences à plusieurs reprises, après avoir reçu un traitement au métamizole intramusculaire (IM) la semaine précédente.
+
+Examen physique
+Patient tétanisé avec une hypotension de 80/60, une tachycardie de 150 bpm et une fièvre de 37.7 oC. Sur la fesse, la région trochantérienne et la face latérale externe de la cuisse droite, plaque d'érythème rosé étendue et diffuse, non palpable et aux limites imprécises, avec une diminution de la température locale par rapport au reste du membre. Sur celui-ci, il y avait plusieurs plaques, certaines plus petites de couleur blanc nacré et d'autres violacées, de plusieurs centimètres de taille ; avec un halo périphérique blanc aux limites géographiques très nettes, non infiltrées et non palpables. Il y avait une zone érythémateuse plus intense dans le quadrant supérieur externe de la fesse, mal délimitée, avec une tache centrale, punctiforme et violacée.
+
+Examens complémentaires
+Un test sanguin a été effectué qui a montré : - Insuffisance rénale aiguë (urée 180 mg/dL et créatine 2,30 mg/dL), CRP supérieure à 90 avec procalcitonine 46,34 ng/mL.
+- Pyurie urinaire avec bactériurie.
+- Dans l'hémogramme, une anémie de 10,8 g/dL d'hémoglobine et des plaquettes de 114 000 plaquettes/mL, ainsi que la présence d'une numération leucocytaire dans la norme (8 400/mL) mais une neutrophilie absolue et relative (8 000 et 94,8 %, respectivement) avec 84 % de sperme et 4 % de globules blancs.
+- Coagulation avec fibrinogène dérivé de 917 mg/dL.
+- Une radiographie simple de la hanche et du bassin a montré une augmentation de volume de la fesse et de la cuisse droites par rapport au côté controlatéral, ainsi qu'un épaississement et une réticulation du tissu cellulaire sous-cutané avec une zone délimitée de bulles de gaz groupées.
+Un échantillon de peau a été prélevé pour un examen microscopique montrant des modifications ischémiques aiguës et chroniques avec atrophie épidermique, œdème et inflammation aiguë et chronique ; ainsi qu'un purpura et des signes de vascularisation dans les structures vasculaires du tissu cellulaire sous-cutané.
+
+Diagnostic
+Choc septique dans le cadre d'une fasciite nécrosante secondaire à une injection IM de métamizole.
+
+Traitement
+Le patient a été admis pour un traitement antibiotique par voie intraveineuse et une fasciotomie et un débridement chirurgical d'urgence ont été réalisés par le service de traumatologie.
+
+Evolution
+Pendant l'opération, une grande quantité de liquide malodorant a été drainée, après quoi le patient a montré une amélioration clinique initiale avec un bon niveau de conscience, une normalisation de la fonction rénale et des paramètres de septicémie. Pendant la même période, des échantillons de culture microbiologique ont été prélevés, qui se sont révélés positifs pour Escherichia coli, et une thérapie antimicrobienne ciblée a été initiée.
+Malgré cette amélioration initiale, les jours suivants, les lésions cutanées ont continué à s'étendre, de nouvelles plaques nécrotiques apparaissant et nécessitant jusqu'à quatre débridements chirurgicaux supplémentaires. Dans tous ces cas, des échantillons ont été obtenus pour une étude microbiologique et se sont révélés positifs à plusieurs reprises pour Acinetobacter baumannii multirésistant, uniquement sensible à la tigécycline. Malgré l'effort thérapeutique, l'état du patient a continué à s'aggraver, pour finir en exitus 7 jours après le dernier drainage chirurgical.
+

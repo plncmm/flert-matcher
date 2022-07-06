@@ -1,0 +1,43 @@
+Anamnesis
+32-year-old male with a history of recurrent cholelithiasis. No toxic habits. Laparoscopic cholecystectomy. No other history.
+
+He consulted the emergency department in June 2014 for a clinical picture of 2 months of progressive dysphagia, mainly for solids, associated with dyspnoea on exertion in the last 15 days.
+
+Physical examination
+ECOG 0. Haemodynamically stable. Eupneic. Suprasternal tumour of approximately 10 cm in diameter. Stridor on tracheal auscultation. No plethora or clinical signs of superior vena cava syndrome. Indirect laryngoscopy performed in the emergency department: no alterations. Cardiac auscultation: normal. Pulmonary auscultation: scattered rhonchi. Abdomen and extremities: no alterations.
+
+Complementary tests
+During the study in the Emergency, Resuscitation and Haematology Departments:
+" Chest X-ray (5/6/2014): upper mediastinal widening.
+"CT CTAP (5/6/2014): cervicothoracic mass measuring 11 x 16 x 5 cm. It occupies the anterior mediastinum and is located below the thyroid, with which it is unrelated. The mass displaces and compresses the tracheal lumen, which has a minimum diameter of 4 mm. Impression of the superior vena cava with abundant venous collateral circulation in the paravertebral musculature. No pulmonary metastases or retroperitoneal adenopathies are demonstrated.
+"BAG of mediastinal mass (5/6/2014): AP of germ cell tumour: seminoma.
+"Immunohistochemistry (IHQ):
+- Oct-4, D2-40, C-Kit and PLAP: positive in tumour cells.
+- CD-20 and CD79a: positive in B lymphocytes.
+- CD3: positive in the B lymphoid population.
+- CD30, CD138, EMA, AE1/AE3 and alpha-fetoprotein: negative.
+
+With these results, he was transferred to the Medical Oncology Service on 10/6/2014 for further study:
+"Testicular ultrasound (11/6/2014): both testicles are homogeneous and with normal vascularisation.
+Simple 2 cm cyst in the head of the right epididymis.
+"Functional respiratory tests: severe/very severe obstructive ventilatory pattern with amputation of the inspiratory and expiratory flow/volume curve compatible with fixed tracheal obstruction already known by CT scan. Bronchodilator test (+).
+"CBC (11/6/2014): platelets 305,000, leukocytes 16,200 (neutrophils 13,400), LDH 653 IU/l, glucose, urea, creatinine, sodium, potassium within normal. Alpha-fetoprotein (11/6/2014) 1,431, beta-HCG (12/6/2014) 901.7, uric acid, ferritin, folic acid, vitamin B12, beta-2 microglobulin, thyroid hormones, anti-thyroid antibodies TP and anti-thyroglobulin antibodies within normal values. HBV, HCV and HIV serology negative. Coagulation: normal, fibrinogen 509.
+
+Diagnosis
+Mixed mediastinal extragonadal germ cell tumour. Poor prognosis according to IGCCCG classification.
+
+Treatment
+With the diagnosis of mixed extragonadal germinal tumour, the first cycle of chemotherapy with radical intent was started according to the conventional BEP scheme (bleomycin 30 IU days 1, 8, 15 + etoposide 100 mg/m2 days 1-5 + CDDP 20 mg/m2 days 1-5/21 days x 4 cycles). Treatment with allopurinol was started to prevent tumour lysis syndrome.
+
+Evolution
+After four cycles, a re-evaluation TAP CT scan was performed on 24/9/2014, showing a partial response, so the case was presented to the thoracic surgery committee on 9/10/2014, rejecting surgical treatment of the residual mediastinal mass due to the high surgical risk in relation to the suspected tumour infiltration at the tracheal level and both brachiocephalic trunks.
+
+On 14/10/2014 a PET-CT scan was performed, where it was observed that the anterior cervicothoracic mass showed markedly irregular metabolic activity with areas of absence of metabolic activity together with areas of high hypermetabolism (maximum SUV 9.5).
+
+Thus, with the diagnosis of an unresectable tumour with intense PET uptake, chemotherapy is proposed according to the TIP scheme.
+
+On 16/10/2014, in consultation, the patient presented with an increase in the size of the mass at the supraclavicular level, deciding to request a second opinion at another centre, where the tumour was considered resectable. On 6/11/2014 a complete macroscopic resection was performed (AP: residual lesion of malignant teratoma, with the presence of areas of severe epithelial dysplasia and at least one limited focus of possible carcinomatous transformation. IHC: intense positivity for cytokeratin AE3/AE1. Ki-67% in the most mature areas. Positive for CEA. AFT slightly positive in the whole epithelium). 
+
+In the revision TAP CT scan after surgery, there was a significant decrease in the involvement of the precardiac anterior mediastinum, as well as in the involvement of the superior vena cava.
+
+Given that there is no residual viable germinal tumour, the patient does not require complementary chemotherapy and is currently under strict follow-up in our centre.

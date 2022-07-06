@@ -1,0 +1,24 @@
+Anamnesi
+Un ballerino maschio di 28 anni da Israele, con una storia personale di infezione da virus dell'immunodeficienza umana (HIV) nel 2008 senza trattamento attuale, consumatore occasionale di cocaina e alcol. È stato ricoverato in Medicina Interna per un quadro clinico di parestesie nell'emiblocco destro insieme a un'alterazione visiva dopo un precedente consumo di 1 g di cocaina. Una tomografia computerizzata (CT) cranica e una risonanza magnetica (MRI) del cervello hanno mostrato una lesione ischemica acuta nel territorio posteriore (talamo sinistro). Lo studio è stato completato con un'angiografia a risonanza magnetica cerebrale, che non ha mostrato alcun risultato. Sono stati osservati un carico virale di 200.000 copie e 4.647 cellule CD. È stato dimesso con quadrantanopsia superiore destra come sequela e trattamento con statina. Due settimane dopo è venuto al dipartimento di emergenza per un nuovo episodio di emiipoesia facciale ed emicorporale destra.
+
+Esame fisico
+All'arrivo all'ED, pressione sanguigna 120/80mmHg, frequenza cardiaca 80 bpm, afebrile. L'esame generale dell'apparato era normale. L'esame neurologico ha mostrato la presenza di quadrantanopsia superiore destra (sequele), ipoestesia algesica emifacciale destra nel secondo e terzo ramo del trigemino e nell'emicorpo destro, e dismetria nel test dito-naso nell'estremità superiore destra. Il resto dell'esame era normale.
+
+Test complementari
+- Emogramma: normale con formula leucocitaria adeguata, velocità di eritrosedimentazione 46 mm/h.
+- Biochimica: lattato deidrogenasi 722 IU/l (230-460), transferrina diminuita, ormoni tiroidei alterati (TSH 5,36 μIUI (0,5-4,7), T3l 2,73 pg/ml (2,77-5,27). Proteinogramma: debole picco monoclonale nella zona gamma.
+- Studio della coagulazione e della trombofilia: elevazione minima del fibrinogeno e carenza di proteina S libera, il resto è normale (compresa la proteina C, anticoagulante del lupus, fattore V di Leyden e antitrombina).
+- Autoimmunità: anticorpi IgG anticardiolipina debolmente positivi (22,6 UGPL/ml), IgM ANCA negativi, fattore reumatoide, immunocomplessi circolanti, ANA, anti-DNA, glicoproteina anti-B2 negativi. 
+- Sierologia: EBV IgG positivo, epatite A IgG positivo; Treponema, toxoplasma, citomegalovirus, epatite B e C negativo. Carica virale HIV-1: 177.930 copie; CD 4 432 cellule/μl, nessuna resistenza genotipica agli antiretrovirali.
+- Elettrocardiogramma e monitoraggio 48 ore: ritmo sinusale, blocco di branca destro noto.
+- Radiografia del torace ed ecocardiogramma transtoracico normali.
+- La TAC cranica ha mostrato lesioni ipodense irregolari nella regione occipitale parasagittale sinistra e nella materia bianca del lobo temporale sinistro, compatibili con lesioni ischemiche subacute-croniche.
+- La nuova risonanza magnetica del cervello mostra la comparsa di una nuova lesione focale nel talamo sinistro iperintensa in TR lungo e una marcata restrizione della diffusione, suggerendo un'ischemia acuta-subacuta. Risonanza magnetica del cervello, sequenza migliorata di diffusione: lesione ischemica acuta nel talamo sinistro.
+- L'angiografia intracranica a risonanza magnetica è stata ripetuta, che non ha mostrato alcuna visualizzazione dell'APC sinistro dalla sua origine, mentre quello destro è stato brevettato. Angio-MRI: nessuna visualizzazione del PCA sinistro dalla sua origine. L'APC destro era brevettato.
+- Puntura lombare: glucosio 49 mg/dl, proteine 66 mg/dl, 40 leucociti/mm3 (80% mononucleati) e 90 globuli rossi/mm3. Coltura: negativa per batteri e micobatteri, negativa per la reazione a catena della polimerasi dell'enterovirus e l'herpes simplex 1 e 2; VDRL negativo; citologia: campione acellulare.
+
+Diagnosi
+Ischemia cerebrale ricorrente probabilmente legata alla vasculopatia associata all'HIV. Ipergammaglobulinemia, deficit di proteina S, anticorpi IgG anticardiolipina debolmente positivi.
+
+Trattamento ed evoluzione
+La terapia antiretrovirale è stata iniziata con darunavir, ritonavir e tenofovir più emtricitabina e antiaggregazione con acido acetilsalicilico 100 mg, dopo di che non si sono verificati nuovi episodi, con persistenza di lieve atassia dell'arto superiore destro.

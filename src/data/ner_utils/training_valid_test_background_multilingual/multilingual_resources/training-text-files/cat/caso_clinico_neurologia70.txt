@@ -1,0 +1,25 @@
+Anamnesi
+Home de 43 anys d'edat, sense al·lèrgies conegudes, sense factors de risc vascular ni consum de tòxics, intervingut quirúrgicament en 2010 d'un trencament de tendó d'Aquil·les, que és traslladat al Servei d'Urgències per presentar en cinc ocasionis pèrdua brusca de l'agudesa visual en el camp visual esquerre, seguit de moviments clònics en el hemicuerpo esquerre de segons de durada, sense pèrdua de consciència. Referia a més cefalea holocraneal de caràcter opressiu, associada a nàusees i vòmits. Nega febre i traumatisme cranioencefàlic, i no recorda haver presentat simptomatologia infecciosa en les últimes setmanes.
+
+Examen físic
+Hemodinámicamente estable, afebril. Bon estat general. Caròtides rítmiques, simètriques, sense soplos. No goll ni adenopaties. Auscultació cardiopulmonar: rítmica, sense soplos. Murmuri vesicular conservat. Abdomen tou, depresible, no dolorós, no masses ni organomegalias, sorolls hidroaéreos preservats. Extremitats: no edemes ni signes de trombosi venosa profunda, polsos presents i simètrics.
+Exploració neurològica: conscient i orientat. Heminegligencia amb asomatognosia, anosognosia i astereognosia esquerres. Llenguatge normal. Pupil·les isocóricas i normorreactivas. Fons d'ull sense alteracions. Hemianopsia homònima esquerra. Moviments oculars extrínsecs sense restriccions. No asimetria facial ni alteració de parells cranials baixos. Balanç muscular 5/5 en tots els grups musculars. To i trofismo muscular normals. Reflexos osteotendinosos 2/4 generalitzats. Reflex cutani-plantar flexor bilateral. Sensibilitat conservada. No dismetría ni disdiadococinesia. Romberg negatiu. Marxa normal. No signes meningis.
+
+Proves complementàries
+• Dades de laboratori: hemograma i coagulació normals. Ionograma, glucèmia, funció renal, hepàtica i metabolisme del ferro sense troballes. Hormones tiroidals normals.
+Marcadors tumorals (antigen carcinoembrionario, Ca 125, Ca 15.3, Ca 19.9, alfafetoproteína i PSA) sense alteracions. Enzim convertidor d'angiotensina 25,3 (20-60); factor reumatoide 27,3 UI/ml (< 20); C3 152 mg/dl (75-135); C4 27 mg/dl (14-60); IgG, IgM i IgA normals; ANA negatiu; transglutaminasa IgA 0,30 UA/l (< 10); beta-2-microglobulina 1,8 mg/dl. VSG 12 (0-20).
+• Radiografia de tòrax: hils augmentats. Índex cardiotorácico en el rang de la normalitat. No infiltrats ni signes de vessament pleural.
+• Tomografia computada (TC) cranial: àrea hipodensa mal definida subcortical parietooccipital dreta amb dubtoses captacions patològiques de contrast.
+• Ressonància magnètica (RM) cerebral: lesió temporo-occipital dreta hiperintensa en T2 i FLAIR amb extensió al cos callós i a l'hemisferi contralateral, amb infiltració ependimària. Realç irregular puntejat després d'administració de contrast. Ressonància magnètica cerebral, seqüència FLAIR. Lesió témporo-occipital hiperintensa amb extensió al cos callós i l'hemisferi contralateral.
+• Estudi de líquid cefalorraquidi (LCR): hematies 30/mcl, cèl·lules < 5/mcl. IgG 2,73 mg/ dl (0-3,40); IgM 0,05 mg/dl (0-1,30), albúmina 15,9 mg/dl (0-35); índex de Tibbling per a IgG 1,05 (0,30-0,70); índex de IgM 0,14 (0,02-0,10). S'observen bandes específiques en LCR de IgG; beta-2-microglobulina 2 mg/l (1-1); enzim convertidor d'angiotensina 25,3 unitats ECA (20-60); adenosindeaminasa (ADA) 2,7 UI/l (0,5-3); glucosa 0,69 g/l (0,45-0,80); proteïnes totals 232 mg/l (75-320); L-lactat 197 mg/l (110-210).
+• Estudi microbiològic: serologies negatives per a sífilis, Brucella, Toxoplasma, Rickettsia, Borrelia, VIH, VHB i VHC, VVZ, CMV, VEB, VHS i VH6, en sang i líquid cefalorraquidi (LCR). Cultiu estèril en LCR.
+• Espectroscòpia: imatge no suggestiva de teixit tumoral.
+• Tomografia per emissió de positrons-tomografia computada (PET/TC): captació bilateral i simètrica d'adenopaties mediastíniques i hiliares bilaterals que impressionen ser d'origen inflamatori o infecciós. No s'observa captació a nivell cerebral.
+• Tomografia computada (TC) de tòrax: adenopaties mediastíniques i hiliares bilaterals en el límit de la normalitat de probable origen infecciós o granulomatós.
+• Fibrobroncoscopia: es realitza punció de als adenopaties, obtenint-se mostra per a anatomia patològica, que informa de frotis amb presència de paret del bronqui i gangli limfàtic, en el qual s'observa patró reactiu amb granulomes.
+
+Diagnòstic
+Sarcoidosis amb manifestacions neurològiques (lesió difusa de la substància blanca) i pulmonars (estadi I segons la classificació radiològica). Epilèpsia focal secundària del lòbul temporal dret.
+
+Tractament i evolució
+Durant l'hospitalització, després de l'inici de valproato a dosi de 1.500 mg diaris, el pacient no va presentar noves crisis epilèptiques. La cefalea, el defecte campimétrico i les alteracions sensoperceptivas van remetre de manera espontània, estant asimptomàtic en el moment de l'alta mèdica. Una vegada confirmat mitjançant estudi histològic el diagnòstic de sarcoidosis, i descartada l'etiologia tumoral, es va indicar tractament amb prednisona a dosi d'1 mg/kg/dia durant 4 setmanes, observant-se en la neuroimagen de control la desaparició de la lesió parenquimàtica.

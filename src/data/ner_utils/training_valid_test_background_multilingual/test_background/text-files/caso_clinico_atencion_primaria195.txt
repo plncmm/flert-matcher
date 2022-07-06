@@ -1,0 +1,22 @@
+Motivo de consulta:
+Hombre de 78 años acude por fiebre de dos días de evolución con tos y vómitos con escasos restos hemáticos.
+
+Enfoque individual (anamnesis, exploración, pruebas complementarias):
+El paciente sufrió una trombosis venosa profunda poplítea izquierda y un tromboembolismo pulmonar masivo en 2012, desde entonces sigue tratamiento con acenocumarol, sin otro antecedente de interés.
+Además de vómitos autolimitados con hilos de sangre y tos, no presentaba otra sintomatología cuando acudió a consulta del Centro de Salud. Se le realizó una exploración completa ese día que fue normal con tensión arterial y frecuencia cardiaca dentro de la normalidad, salvo INR (International Normalized Ratio) de 5,3. Negó signos de sangrado (hemoptisis, epistaxis, melenas, etc.). Se le reajustó dosis de acenocumarol para ese día y se le citó al día siguiente para ver evolución. El segundo día, de nuevo se le llevó a cabo una exploración general detectando sibilancias en base de hemitórax derecho, por lo que se le prescribió tratamiento antibiótico por probable infección respiratoria. Se le comprobó cifra de INR (3) aunque el paciente refería ausencia de síntomas de sangrado en todo momento.
+
+El día siguiente tuvo un episodio de síncope con pródromos (mareo, visión borrosa) por lo que fue trasladado al Servicio de Urgencias Hospitalarias. El paciente refirió además que los días previos había tenido epigastralgia y deposiciones de aspecto melénico. Durante su estancia en Urgencias, volvió a presentar melenas por lo que se le trasfunden dos concentrados de hematíes. Se le solicitó una TAC de abdomen y pelvis sin contraste intravenoso donde se visualizaron consolidaciones alveolares en la base pulmonar derecha sugerente de etiología infecciosa. Se le realizó endoscopia digestiva alta urgente con hallazgo de una úlcera gástrica Forrest III.
+
+Enfoque familiar y comunitario
+El paciente es un hombre de 78 años que vive con su mujer, ambos tienen una vida activa. En la primera consulta acudió con sus dos hijas, en ese momento se les explicó la importancia de vigilar algunos síntomas que en su caso podrían ser motivo de acudir a Urgencias (disnea, sangrado,...). No obstante, el día siguiente se le volvió a citar para una nueva valoración por cifra alta de INR. Se le prescribió antibiótico por la auscultación de ruidos patológicos sin apoyo de una radiografía de tórax como ocurre en muchas demandas clínicas en Atención Primaria. Al tercer día tras el episodio de síncope, en el Hospital le detectaron anemia por hemorragia digestiva alta por una úlcera gástrica por lo que suspendió acenocumarol y precisó de trasfusión de concentrados de hematíes. En los días posteriores, el paciente estuvo ingresado en Medicina Interna, acudieron sus dos hijas a consulta para contarnos lo ocurrido y estaban disgustadas porque la evolución de su padre fue mala e inesperada. Su médico les estuvo recordando las dos visitas que tuvo el paciente en consulta, asimismo los síntomas de empeoramiento que pudieran presentarse en el paciente. La explicación del manejo de la incertidumbre en Atención Primaria, a menudo sin apoyo de muchas pruebas complementarias y de lo impredecible de la mayoría de las patologías urgentes también fue importante para restablecer una relación médico-paciente y sus familiares de confianza.
+
+Juicio clínico (lista de problemas, diagnóstico diferencial)
+• Infección respiratoria condensante
+• Hemorragia digestiva alta por úlcera gástrica Forrest III
+• Síncope vasovagal
+
+Plan de acción
+Suspendió tratamiento con acenocumarol por heparina subcutánea. Tras estabilización clínica, se ingresó en el Servicio de Medicina Interna.
+
+Evolución
+El paciente estuvo ingresado en Medicina Interna durante un periodo de 11 días. Acudió con sus hijas a consulta tras alta hospitalaria mostrando gestos y palabras de comprensión con lo ocurrido y confianza en su médico. Se le solicitó un hemograma una semana después del alta hospitalaria con normalización de las cifras de hemoglobina y hematocrito. Completó tres semanas de tratamiento con heparina subcutánea tras alta y posteriormente reanudó acenocumarol.

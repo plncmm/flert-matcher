@@ -1,0 +1,32 @@
+Un homme de 65 ans, ex-fumeur, avec des antécédents d'hypercholestérolémie, d'hémorragie gastro-intestinale supérieure due à un ulcère pylorique, d'hyperuricémie, de fibrillation auriculaire anticoagulée, a subi un remplacement valvulaire par des prothèses métalliques aortiques et mitrales il y a 3 mois. Il s'est présenté au service des urgences de notre hôpital avec une histoire de fièvre jusqu'à 39oC accompagnée de frissons (surtout la nuit), de malaise général, de confusion et de vomissements sans produits pathologiques. Les jours précédents, il n'avait pas de symptômes respiratoires, mictionnels ou gastro-intestinaux associés.
+
+A l'examen physique, le patient était en bon état général, conscient, désorienté dans le temps et la personne, mais pas dans l'espace. La tension artérielle était de 135/70 mmHg et le rythme cardiaque de 87 bpm. Afébrile. A l'auscultation cardiaque, il présentait des bruits d'arythmie légèrement tachycardique avec des clics métalliques. L'auscultation pulmonaire a montré un murmure vésiculaire préservé, sans autres sons. L'examen neurologique a révélé une raideur du cou et des signes méningés positifs (Kerning et Bruzinsky) ; la force et la sensibilité étaient préservées dans les membres supérieurs et inférieurs.
+
+Avec une suspicion clinique de méningite, un test sanguin complet a été effectué avec une hémoglobine de 10,3 mg/dl, 6340 x103 leucocytes (4920 x 103 neutrophiles), 102 000 x103 plaquettes, urée 45mg/dl, créatinine 1,6 mg/dl, protéine C réactive (CRP) 221,7 mg/l et procalcitonine 1. 17 ng/ml ; le scanner crânien n'a révélé aucune anomalie, et la ponction lombaire, dont l'analyse du liquide céphalo-rachidien (LCR) a révélé un taux de globules blancs de 1810/mm3 (95% de neutrophiles et 15% de lymphocytes), une protéine de 612,5 mg/dl et un glucose de 17,2 mg/dl.
+
+Diagnostic différentiel
+Il s'agissait d'un cas de méningite aiguë communautaire, les principales "données directrices" disponibles étant une pléiocytose neutrophile, une hypoglycémie et une hyperprotéinémie. Le diagnostic de la méningite aiguë communautaire (1) est difficile chez les personnes âgées en raison de la présentation clinique variable et de la comorbidité associée. Les principales causes de méningite aiguë d'origine communautaire sont les suivantes :
+ 
+ 1. infectieux
+ - Bactérien (caractérisé par une hypoglycémie, une hyperprotéinémie et une pléiocytose neutrophile) principalement Streptococcus pneumoniae, Neisseria meningitidis ou Listeria monocytogenes. Stades précoces de la méningite due à Brucella spp, Lupus ou Leptospiras spp.
+ - Virale, principalement liée aux entérovirus, aux arbovirus, aux oreillons, au virus de l'herpès simplex, au virus de la varicelle et du zona, au virus d'Epstein-Barr, au cytomégalovirus, aux adénovirus et au VIH.
+ - Mycobactéries.
+ - Champignons, amibes.
+
+2. Lymphome du système nerveux central ou carcinomatose méningée.
+
+3. Autres : foyers infectieux paraméningés (empyème cérébral), anévrisme cérébral, méningite chimique, stade précoce de la méningite de Mollaret, encéphalite aiguë hémorragique, sclérose en plaques, endocardite.
+
+4. Cause inconnue. La technique d'imagerie réalisée (scanner crânien) n'a montré aucun signe d'hémorragie, ni de lésions focales au niveau parenchymateux ou méningé, rendant improbable une carcinomatose méningée, un lymphome du système nerveux central, une sclérose en plaques, un anévrisme cérébral ou un empyème épidural.
+
+En revanche, l'analyse biochimique du LCR était compatible avec une méningite bactérienne : liquide trouble avec pléiocytose à prédominance neutrophile (1810 leucocytes/mm3 dont 95% de neutrophiles), hyperprotéinorragie (protéines supérieures à 500 mg/dl) et hypoglycorrhachie (glucose inférieur à 45 mg/dl). Par conséquent, la principale étiologie à écarter était infectieuse avec des caractéristiques bactériennes.
+
+Evolution
+À l'admission, étant donné la forte suspicion clinique, un traitement empirique a été instauré pour une méningite bactérienne chez les patients de plus de 50 ans, avec de la dexaméthasone 10mg toutes les 24h, de la ceftriaxone 2g toutes les 12h, de la vancomycine 1g toutes les 12h et de l'ampicilline 2g toutes les 4h par voie intraveineuse. Avant le début du traitement antibiotique, des échantillons ont été prélevés pour la culture et la détection de l'antigène Streptococcus pneumoniae dans le LCR, qui se sont révélés négatifs (à la fois pour la culture et l'antigène), une coloration directe de Gram a été réalisée, qui a révélé des cellules gram-positives sous forme de cocci, en chaînes courtes et même en petits groupes ; et des hémocultures ont été réalisées, qui étaient positives pour Streptococcus equi sous-espèce ruminatorum. L'identification des espèces a été réalisée directement à partir de l'hémoculture par spectrométrie de masse (MALDI-TOF).
+
+Après l'obtention d'une hémoculture positive (2 flacons sur 4), l'antibiothérapie a été changée en benzylpénicilline intraveineuse (42 millions d'unités/jour) pendant 14 jours, puis en ceftriaxone intraveineuse 2g/24h pendant 7 jours supplémentaires, complétant ainsi 21 jours d'antibiothérapie. Les hémocultures étaient négatives après 7 jours de traitement antibiotique.
+
+Compte tenu de la bactériémie et du remplacement récent de la valve cardiaque, l'endocardite a été exclue par échocardiographie transthoracique et transoesophagienne. Il n'y avait pas d'hypogammaglobulinémie et aucun signe d'immunosuppression. Streptococcus equi est clairement lié au contact avec les animaux. À cet égard, le patient a été réinterrogé et a déclaré avoir participé, deux jours avant l'apparition des symptômes, à un pèlerinage pour un festival local, où il a été en contact direct avec un grand nombre de chevaux. L'évolution a été favorable avec la disparition de la fièvre et des autres symptômes, ainsi que la normalisation des réactifs de phase aiguë.
+
+Diagnostic final
+Méningite bactérienne communautaire due à Streptococcus equi subsp. ruminatorum.

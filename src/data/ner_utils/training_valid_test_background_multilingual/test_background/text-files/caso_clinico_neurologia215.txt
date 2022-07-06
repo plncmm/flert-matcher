@@ -1,0 +1,23 @@
+Anamnesis
+Varón de 67 años con antecedentes de hipertensión arterial, fibrilación auricular miocardiopatía hipertensiva con varios ingresos en Cardiología por insuficiencia cardiaca congestiva. Además, presenta hiperuricemia con varios episodios de gota. El paciente es fumador de un paquete al día y exbebedor desde 2 años antes del ingreso. El paciente ingresa desde consultas de Neumología por dificultad respiratoria de varias semanas de evolución, pero que al acompañarse de pérdida de fuerza progresiva de las cuatro extremidades de 6 meses de evolución interconsultan a Neurología. En el interrogatorio el paciente además refirió que desde el comienzo de la clínica también en algunas ocasiones había presentado diplopía, disfagia e hipersomnia, boca seca y problemas de erección. También había perdido 10 kg de peso.
+
+Examen físico
+En la exploración general destacaba una hipoventilación en ambos campos pulmonares y edemas perimaleolares en los miembros inferiores. El paciente estaba consciente y orientado, sin alteraciones de las funciones cognitivas superiores. Los pares craneales no presentaban alteraciones. En el balance muscular se objetivaba una debilidad de la musculatura flexora del cuello 4/5, en los miembros superiores 4/5 en deltoides, bíceps y tríceps con fuerza distal normal. En los miembros inferiores presentaba 4/5 en iliopsoas, 3/5 en cuádriceps con fuerza distal normal. Los reflejos osteotendinosos estaban abolidos de forma generalizada con aparición de los reflejos patelares tras realizar ejercicio. No presentaba fatigabilidad ni amiotrofia ni fasciculaciones. La sensibilidad estaba conservada. El paciente presentaba incapacidad para la bipedestación y la marcha.  
+
+Pruebas complementarias
+• Analítica: en la gasometría arterial se objetiva una hipoxemia grave y una hipercapnia. Resto del estudio sin alteraciones.
+• Pruebas de función respiratoria: patrón restrictivo.
+• Estudio neurofisiológico: el primer estudio estaba dificultado por edemas en los MMII, en él se objetivan PEM muy disminuidos con una única evocación de la respuesta sensitiva, lo que inicialmente se interpreta como una polineuropatía sensitivo motora axonal grave. Sin embargo, ante la falta de correlación con la clínica se decide repetir el estudio. Al realizar el EMG no se observa actividad espontánea; además, al realizar las conducciones motoras antes y después de la facilitación, la amplitud de las conducciones aumenta de manera considerable. Para confirmar el fenómeno de facilitación se realiza una estimulación repetitiva a baja frecuencia (3 Hz) y alta frecuencia (50 Hz), que muestra un descenso en la amplitud de los potenciales motores a bajas frecuencias y un ascenso a altas frecuencias.
+• Radiografía de tórax: se observa un engrosamiento mediastínico.
+• TC de tórax: muestra conglomerados adenopáticos en el hilio izquierdo, la ventana aortopulmonar y paratraqueal derecha. Atelectasias subsegmentarias en ambos lóbulos inferiores.
+• Conglomerados adenopáticos en el hilio izquierdo, ventana aortopulmonar y espacio paratraqueal derecho; además, presenta atelectasias subsegmentarias en ambos lóbulos inferiores.
+• Punción-aspiración con aguja fina transcarinal: células características de carcinoma microcítico de pulmón.  
+
+Diagnóstico
+Síndrome de Eaton-Lambert paraneoplásico secundario a carcinoma microcítico de pulmón.
+
+Tratamiento
+El tratamiento del paciente se abordó desde un punto de vista etiológico y sintomatológico. Así, para el tratamiento sintomático del síndrome de Eaton-Lambert se comenzó tratamiento con amifampridina, mientras que para el tratamiento del tumor se inició esquema de quimioterapia con cisplatino/etopósido.
+
+Evolución
+Con el tratamiento sintomático se ha conseguido una mejoría muy importante de la debilidad y la insuficiencia respiratoria, permitiendo que el paciente volviese a deambular de manera independiente. El tratamiento quimioterápico ha tenido buena evolución, a excepción del desarrollo de neutropenia grado 4, que se recuperó tras tratamiento con pegfilgrastin.

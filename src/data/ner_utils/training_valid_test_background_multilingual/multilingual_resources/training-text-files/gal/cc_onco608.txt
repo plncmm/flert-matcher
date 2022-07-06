@@ -1,0 +1,41 @@
+Anamnesis
+Varón de 52 anos, sen alergias medicamentosas coñecidas, informático. Exfumador (IPA: 30). Antecedentes persoais: acúfenos bilaterales. Sen medicación habitual. Antecedentes familiares: nai diagnosticada de neoplasia de colon e glioblastoma multiforme.
+
+Historia oncológica
+En febreiro de 2019, por cadro de tos e sensación de opresión cervical, realízase TC torácica que mostra unha gran masa mediastínica polilobulada anterior duns 12 x 14 x 15 cm que ten amplo contacto coa aorta ascendente e a vena cava superior. Realízase PET-TC que confirma devanditos achados e mostra actividade metabólica da lesión (SUV 8,3), sen evidencia de adenopatías nin afectación visceral a outro nivel. Se biopsia, con informe de Anatomía Patológica de células epiteliales CKAE1/3, queratina, p63 e PAX8 positivos cun compoñente linfoide CD45 e TdT positivo e sinaptofisina negativa, compatible con carcinoma tímico.
+Ante o diagnóstico de carcinoma tímico con amplo contacto con grandes vasos, preséntase o caso no comité de tumores multidisciplinar e decídese tratamento con quimioterapia de inducción.
+O 11/03/2019 inicia tratamento con carboplatino-etopósido administrándose 2 ciclos (último recibido o 03/04/2019), con regular tolerancia, presentando como efectos secundarios náuseas grado 2 e trombopenia e neutropenia grado 4.
+
+Enfermidade actual
+Acode a Urxencias o día 18/04/2019 por dor a nivel de gemelo esquerdo de 5 días de evolución e febre con tiritonas de 1 h de evolución, sen outra sintomatología acompañante.
+
+Exploración física
+Estable hemodinámicamente. To 37,7oC, saturación de Ou2 respirando aire ambiente do 98 %. ECOG 1. Consciente e orientado nas tres esferas, Glasgow 15. Funcións superiores conservadas, pupilas isocóricas e normorreactivas, sen alteración de pares craneales e con reflexos osteotendinosos, forza e sensibilidade simétricos e conservados.
+Auscultación cardiopulmonar normal e abdomen sen masas nin visceromegalias nin signos de peritonismo.
+Extremidades inferiores sen edemas, destacando en EII eritema a nivel gemelar con palpación de cordón venoso, sen aumento de temperatura e con signo de Homans negativo.
+
+Probas complementarias
+» Analítica sanguínea: leucocitos 1.600, neutrófilos 310, hemoglobina 8,8, plaquetas 14.000, dímeros D 576, PCR 224,4, procalcitonina 0,17. Resto de bioquímica e coagulación normais.
+» Eco-Doppler venoso de extremidades inferiores: non se aprecian signos de trombosis venosa superficial nin profunda en EID nin en EII.
+» Urocultivo: Escherichia coli pansensible.
+» Hemocultivos: negativos.
+
+Diagnóstico
+» Carcinoma tímico estadio III de Masaoka.
+» Neutropenia febril.
+» Dor gemelar esquerdo sen filiar.
+
+Tratamento
+Ante pancitopenia febril solicítanse cultivos, iníciase antibioterapia empírica con piperacilina-tazobactam, adminístrase G-CSF e decídese ingreso en planta de Oncología Médica. En canto a dor en EII, descártase trombosis venosa profunda e instáurase analgesia endovenosa con paracetamol e dexketoprofeno.
+
+Evolución
+A dor a nivel do gemelo esquerdo desaparece por completo ás 48 h coa analgesia pautada. Durante o ingreso recupérase das pancitopenias, pero persiste con picos febriles, polo que se amplía espectro antibiótico.
+Ao 7ou día de ingreso, o paciente sofre unha parada respiratoria por insuficiencia respiratoria hipercápnica, polo que se procede a intubación e posteriormente o paciente ingresa en Unidade de Coidados Intensivos.
+Inténtase extubación en dúas ocasións que require reintubación, por acidosis respiratoria e disminución do nivel de consciencia (Glasgow 3). Se obxectiva tamén disautonomía con cadro de hipersudoración e inestabilidade hemodinámica con fibrilación auricular rápida. Posteriormente, se obxectiva limitación motora de predominio proximal e de membros superiores.
+Ante a sospeita de enfermidade neuromuscular, realízanse as seguintes probas complementarias:
+» Punción lumbar: sen pleocitosis nin disociación albumino-citológica.
+» EMG: signos denervación musculatura bulbofacial, cervical proximal e lumbar con afectación periférica de pares craneales (ausencia de R1 no blink reflex), ausencia de respostas de nervio frénico bilateral, condución motora aparece con amplitudes reducidas, e normalidad da neurografía sensitiva.
+» Autoinmunidad: anticorpos antirreceptores de acetilcolina (títulos de 2,64 nmol/l) e antititina positivos. O resto de anticorpos antineuronales, anti-MAG, anti-MUSH, anti-MAG, antinucleares, anti-Ro, antigangliósidos e contra as canles de sodio e potasio foron negativos.
+» Realizouse TC toracoabdominopélvica para descartar progresión e/ou ou complicaciones, visualizándose a masa mediastínica anterior duns 8 cm de diámetro, con amplo contacto coa vena cava superior e aorta ascendente, sen signos evidentes de infiltración mediastínica.
+Con estes resultados, oriéntase o caso como unha miastenia gravis paraneoplásica nun paciente con carcinoma tímico. Non se pode realizar test de Tensilón (proba de edrofonio) pola disautonomía que presenta o paciente.
+O día 30/04/2019 iníciase tratamento con inmunoglobulinas e, ante a nula resposta logo de cinco días, iníciase tratamento con bolus de metilprednisolona. Posteriormente, engádese piridostigmina, pero, malia todo isto, o paciente evoluciona desfavorablemente, sen evidencia de mejoría, polo que se consensúa coa familia a retirada de ventilación mecánica e inicio de sedoanalgesia paliativa, falecendo finalmente o 21 de maio do 2019.

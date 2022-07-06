@@ -1,0 +1,34 @@
+Anamnesi
+Una donna di 67 anni è arrivata al pronto soccorso con una cefalea continua di 2 settimane, localizzata a livello retrooculare e irradiazione frontale, senza sintomi vegetativi di accompagnamento, che rendeva difficile il riposo notturno e non si placava con l'analgesia convenzionale. Inoltre, il mal di testa era progressivamente accompagnato da diplopia nei giorni precedenti. Aveva una storia personale di allergia ai corticoidi, ipertensione arteriosa, tubercolosi polmonare e linfonodale trattata per 9 mesi e cardiopatia ischemica.
+
+Esame fisico
+L'esame fisico generale non ha rivelato alcuna anormalità. L'esame neurologico ha mostrato una normale campimetria con limitazione dell'abduzione più importante dell'adduzione, con coinvolgimento della sopra e infraduzione dell'occhio sinistro1, e una lieve discromatopsia. L'esame del fondo ha rivelato una papilla con bordi taglienti. Il paziente è stato valutato da Oftalmologia, che ha descritto una leggera alterazione dell'epitelio retinico maculare, IOP 18 mmHg, nessuna vitrite o vasculite.
+
+Test complementari
+Nel Dipartimento di Emergenza sono stati richiesti i seguenti test:
+- Esami del sangue, tra cui ionogramma con iponatremia di 124 mmol/l e creatinina di 93 mmol/l, con formula e coagulazione normali.
+- Radiografia del torace ed elettrocardiogramma senza alterazioni.
+- Tomografia computerizzata cranica (TC) senza segni di alterazioni parenchimali, emorragie, masse o ventricolomegalia.
+- La puntura lombare ha mostrato 0 cellule, glicorrea e proteinorrachia entro i valori normali, e non sono state osservate macchie di gram, bacilli acido-resistenti o funghi.
+
+Durante il ricovero nel reparto di neurologia, sono stati richiesti i seguenti esami:
+- Esami di laboratorio con marcatori immunofenotipici, elettroforesi proteica, fattore reumatoide e studio del complemento, senza alterazioni. ANA e c-ANCA erano positivi con un titolo di 1/80.
+- La proteina di Bence-Jones nelle urine era negativa.
+- Le sierologie dell'HIV e della sifilide erano negative.
+- RM: asimmetria dei seni cavernosi con ispessimento della parete del seno sinistro, con assorbimento del contrasto nel pachimeningeo della fossa cranica media sinistra, base del cranio fino alla fossa pterigomascellare.
+- Valutazione otorinolaringoiatrica: dismorfia del setto sinistro, con meato medio bilaterale libero, recesso sfenoetmoidale libero e cavità normale.
+- TAC toracica ad alta risoluzione: sono state osservate opacità nodulari multiple subcentimetriche, già presenti in studi precedenti, ma ne sono state trovate alcune nuove, che suggeriscono la riattivazione della tubercolosi latente.
+- TAC addominale senza alterazioni.
+- Biopsia della fossa pterigo-mascellare: mostra materiale granulomatoso, tessuto fibroso e cellule infiammatorie.
+
+Diagnosi
+Dopo un esame neurologico, il caso è stato diagnosticato come sindrome del seno cavernoso. Vengono avanzate tre ipotesi:
+- Riattivazione tubercolare. Il paziente era stato correttamente diagnosticato e trattato per la tubercolosi e, poiché nessun micobatterio è stato isolato, si è deciso di estendere la diagnosi differenziale ad altre malattie granulomatose.
+- Processo neoformativo, escluso dai marcatori immunofenotipici e dalla biopsia.
+- Malattia infiammatoria sistemica che, data la presenza di anticorpi c-ANCA, insufficienza renale lieve e immagini di coinvolgimento dei seni cavernosi con estensione al territorio ORL, fanno pensare alla granulomatosi con poliangioite (malattia di Wegener). Tuttavia, il paziente non soddisfa i criteri classici per la malattia di Wegener, anche se c'è un forte sospetto di una forma limitata della malattia.
+
+Trattamento
+Data la storia di tubercolosi e la possibile allergia ai corticosteroidi, è stato deciso di non iniziare il trattamento empirico. Poiché la diagnosi si avvicinava alla vasculite, fu considerata la possibilità di una terapia di desensibilizzazione con corticosteroidi, ma il paziente era riluttante e la cefalea migliorò con l'analgesia convenzionale, anche se l'oftalmoparesi e la discromatopsia persistevano.
+
+Evoluzione
+Il paziente è stato dimesso con un buon controllo del dolore, anche se la diplopia persisteva nella visione binoculare. Dopo 15 giorni, il paziente è stato nuovamente consultato per lesioni petecchiali alle estremità, presentando un deterioramento delle cifre della funzione renale, quindi è stata eseguita una biopsia renale, in cui è stata osservata una necrosi fibrinoide senza mezzelune, aggiungendo emottisi con immagini CT suggestive di emorragia alveolare. Il trattamento è stato iniziato con ciclofosfamide e prednisone in bolo e, dato il coinvolgimento polmonare, sono state avviate la plasmaferesi e l'emodiafiltrazione veno-venosa. Dopo 3 settimane di trattamento, la remissione clinica è stata raggiunta, la mobilità oculare era normale e indolore, ed è stata dimessa a casa con controlli ambulatoriali. Dodici mesi dopo, a causa di un'infezione respiratoria virale complicata da immunosoppressione e superinfezione batterica, il paziente è morto nell'unità di terapia intensiva.

@@ -1,0 +1,19 @@
+Anamnesi
+Home de 42 anys, originari del Pakistan (viu a Espanya des de fa 15 anys). No referia al·lèrgies medicamentoses ni hàbits tòxics. Havia presentat fa 3 mesos una fractura orbitària dreta amb posterior neuràlgia del trigemin. Va consultar per erupció cutània pruriginosa en tronc i extremitats, febre alta i malestar general de 15 dies d'evolució. El pacient negava ingesta de fàrmacs en els últims dos mesos, viatges a l'estranger o relacions sexuals de risc. La resta de convivents no presentava lesions cutànies ni simptomatologia.
+
+Exploració física
+El pacient estava subfebril (37.5c axil·lar), s'observava un notori edema de la cara, de les mans i dels peus, així com una erupció morbiliforme en el tronc i les extremitats, amb afectació palmoplantar i de mucoses. A més, es palpaven adenopaties cervicals, axil·lars i inguinals. La resta de l'examen físic no presentava alteracions.
+
+Exploracions complementàries
+L'analítica sanguínia mostrava leucocitosis (22.24 x109/l) amb 35% de limfòcits atípics, eosinofília del 15% (3.4 x109/l) i elevació d'enzims hepàtics (AST 77 o/l, ALT 179 o/l, GGT 414 o/l), fosfatases alcalines (221 o/l) i LDH (1427 o/l). La bilirrubinemia, temps de protrombina i creatininemia es trobaven en rangs normals. Donada l'elevació de les transaminasas, es va realitzar una ecografia abdominal que va mostrar una vesícula alitiásica amb parets engrossides, edema perivesicular i dues adenopaties a nivell de l'hil hepàtic. La Radiografia de tòrax no va mostrar alteracions.
+Les serologies per a sífilis hepatitis B, VIH, parvovirus, virus Epstein-Barr , xarampió i virus Herpes 6 van ser negatives.
+La biòpsia cutània va mostrar una epidermis amb canvis de espongiosis. En dermis es va observar un infiltrat inflamatori linfo-histocitario perivascular i ocasionals eosinòfils.
+
+Diagnòstic
+Malgrat negar reiteradament la ingesta de fàrmacs, trobem en la història clínica del pacient la ingesta de carbamazepina per neuritis del trigemin tres setmanes abans de l'inici del quadre clínic. Sobre la base de l'antecedent de la ingesta del fàrmac, característiques clíniques i troballes de laboratori, diagnostiquem Síndrome de DRESS secundari a carbamazepina.
+
+Tractament
+El pacient ja havia suspès dues setmanes abans la carbamazepina. Donat l'intens compromís general i alteració hepàtica, iniciem prednisona 1 mg/kg/dia via oral, associat a banys de permanganat potàssic 3/10.000 i acetónido de triamcinolona en crema al 0.1%.
+
+Evolució
+L'evolució va ser favorable, amb resolució de la febre, del exantema i de l'edema facial i acral, sent donat d'alta una setmana després. Analíticament, es va observar normalització de les transaminasas en les següents quatre setmanes. El pacient va mantenir una pauta descendent de prednisona durant 3 mesos, fins a la seva suspensió. Un any després, es manté asimptomàtic.

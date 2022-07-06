@@ -1,0 +1,21 @@
+Anamnesis
+Una paciente de 47 años sin factores de riesgo cardiovascular conocidos, con antecedente de astrocitoma temporal izquierdo diagnosticado a los 17 años y tratado mediante cirugía y radioterapia posterior, consultó por debilidad en las extremidades derechas y dificultad para la articulación del lenguaje. La paciente se acostó asintomática el día anterior, levantándose por la mañana con la clínica neurológica.
+
+Examen físico
+A la primera exploración neurológica la paciente presentaba una disartria moderada junto con hemiparesia facio-braquio (3/5) crural (4/5) derecha e hipoestesia de predominio en el brazo derecho, puntuando un 8 en la escala del National Institute of Health (NIHSS).
+
+Pruebas complementarias
+• A su llegada a Urgencias se realizaron una analítica sanguínea urgente, que no mostró alteraciones relevantes, y un electrocardiograma, que mostró un ritmo sinusal sin alteraciones de la repolarización.
+• En la tomografía computarizada (TC) urgente se apreciaron cambios postquirúrgicos en el lóbulo temporal izquierdo, así como calcificaciones gangliobasales e infartos lacunares crónicos cápsulo-lenticulares de predominio izquierdo.
+• También se realizó una TC de perfusión, en la que no se apreciaron áreas de hipoperfusión de carácter isquémico agudo. Finalmente, se completó el estudio con una angiografía con contraste mediante TC (angio-TC), en la que se evidenciaron múltiples estenosis de arterias intracraneales, especialmente de la arteria cerebral media (ACM) izquierda, así como de la arteria cerebral anterior (ACA). Múltiples estenosis en el trayecto de la arteria cerebral media izquierda y ramas silvianas izquierdas evidenciadas mediante angio-TC.
+• Una vez ingresada, se completó el estudio con una resonancia magnética (RM), que evidenció una lesión isquémica subaguda en la corona radiada izquierda junto con estenosis en ACA, ACM y ramas silvianas izquierdas. Además, la RM cerebral puso de manifiesto la presencia de pequeños infartos subcorticales compatibles con enfermedad de pequeño vaso de predominio izquierdo (en la zona irradiada) junto con afectación difusa de la sustancia blanca también de predominio izquierdo. Estos hallazgos se orientaron radiológicamente como probablemente secundarios a la radioterapia recibida previamente en dicha zona. Lesión isquémica en la corona radiada izquierda objetivada en la secuencia de difusión de la resonancia magnética cerebral.
+• El ecocardiograma fue normal.
+
+Diagnóstico
+El cuadro se orientó como un síndrome sensitivo-motor derecho secundario a infarto isquémico en la corona radiada izquierda en el contexto de múltiples estenosis intracraneales en el trayecto de la ACM izquierda y a microangiopatía radioinducidas.
+
+Tratamiento
+Se instauró tratamiento antiagregante e hipolipemiante con estatinas como profilaxis secundaria y se inició tratamiento rehabilitador con fisioterapia y logopedia.
+
+Evolución
+Durante su estancia en Neurología presentó una progresiva mejoría de la clínica, persistiendo en el momento del alta disartria leve, paresia braquial 3/5 y crural 4/5, puntuando una NIHSS de 4 y un 4 en la escala de Rankin. Tras un año de seguimiento no se observaron recurrencias.

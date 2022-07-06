@@ -1,0 +1,9 @@
+Nous présentons le cas d'une patiente de 18 ans ayant subi des tests de laboratoire en ambulatoire, où la glycémie s'est avérée être de 189 mg/dL, sans autre altération biochimique. Le patient n'avait aucun antécédent personnel de diabète sucré ou de toute autre maladie auto-immune ou endocrinopathique connue. Retard de croissance intra-utérin, petite taille ayant nécessité un suivi en pédiatrie avec un traitement par hormone de croissance jusqu'à l'âge de 16 ans, et détection de kystes rénaux et hépatiques à l'âge de 4 ans, étant diagnostiqué une polykystose rénale autosomique récessive.
+
+A l'examen, l'IMC est de 21 kg/m2, sans données somatiques d'intérêt.
+
+Après les résultats analytiques, l'étude s'est terminée par un résultat d'HbA1c de 6,20 % et une surcharge orale de glucose de 75 g avec un résultat pathologique après 2 heures (209 mg/dL). Auto-immunité pancréatique négative (antiIA2 et antiGAD ac < 1 U/mL), HOMA 1,90, Insuline 8,2 uUI/mL et C-Peptide 2,15 ng/mL.
+
+Au cours de l'entretien, le patient a évoqué des antécédents familiaux maternels de diabète (arrière-grand-mère, grand-mère et sœur de la mère), qui avaient tous été traités par des antidiabétiques oraux. Existence de kystes multiples dans la même branche de la famille, sans avoir été étudiés, situés dans la tête et le cou, et syndrome des ovaires polykystiques chez sa sœur maternelle. Aucun antécédent de maladie cardiovasculaire du côté paternel.
+
+Compte tenu des anomalies rénales décrites, nous considérons qu'il convient d'exclure un diabète monogénique, plus précisément une mutation du facteur de transcription nucléaire hépatique 1β (HNF 1beta) : type MODY 5.

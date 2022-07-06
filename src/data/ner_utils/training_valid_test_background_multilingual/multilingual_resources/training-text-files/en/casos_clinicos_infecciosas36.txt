@@ -1,0 +1,25 @@
+A 48-year-old woman with a personal history of moderate aortic stenosis due to calcified bicuspid valve, hypertension treated with beta-blockers, ex-smoking, dyslipidaemia, migraine, hiatus hernia and allergy to beta-lactams.
+
+The patient was admitted to the Cardiac Surgery Department on a scheduled basis for aortic valve replacement and implantation of a St. Jude No 21 aortic prosthesis. The surgical procedure was rapid, with extracorporeal circulation and aortic clamping times of 70 and 60 minutes, respectively, and no intraoperative complications. In the first 24 hours post-surgery the patient presented hypotension due to mild-moderate biventricular dysfunction and acute renal failure which was controlled with vasoactive drugs in the Critical Care Unit (ICU). On postoperative day +7 he started with fever up to 38o C and shivering with no other symptoms; empirical Daptomycin 10 mg/kg/d was prescribed. Blood culture isolated coagulase negative Staphylococcus coagulase negative (SCN) in a bottle of two; negative urine culture; and normal transthoracic ultrasound (TTE) 72 hours after onset of fever; the surgeons made a referral to the Infectious Diseases Service. At the time of evaluation, the patient was afebrile and asymptomatic. The anamnesis included Raynaud's phenomenon of years of evolution, stroke in her youth, first trimester miscarriage and a first-degree relative who had died of ischaemic stroke. Physical examination showed intense livedo reticularis of the lower limbs; and in the analysis only CRP of 12.3 mg/dL. At that time (postoperative day + 12) Fosfomycin 24 grams per day in 3 doses and Ibuprofen 600 mg every 12 hours orally were added.
+
+Differential diagnosis
+The differential diagnosis in the case of our patient would be that of a postoperative fever in the first postoperative week.
+
+Infectious causes
+- Urinary tract infection associated with a urinary catheter.
+- Surgical wound infection
+- Associated with vascular access (peripheral or central)
+- Associated with prosthetic material Non-infectious causes
+- Thrombotic problems: pulmonary thromboembolism, thrombophlebitis.
+- Transfusion reaction
+- Post-pericardiectomy syndrome.
+- Suspected drugs (serotonin receptor inhibitors, low molecular weight heparin, NSAIDs, diuretics, beta-lactams, fluoroquinolones, vancomycin).
+- Endocrine disorders such as hyperthyroidism or addisonian crisis.
+
+
+Clinical evolution
+TEE was performed on day + 13 of antibiotic administration, which showed good functioning of the prosthetic valve with no signs of vegetation. The HC on day + 16 were negative. On day + 20 he presented a new fever peak of 37"8 oC and phlebitis of a peripheral tract, again isolating SCN in blood cultures. For this reason the TEE was repeated on postoperative day + 23 where a vibratile mass of filamentous appearance was observed depending on the aortic wall of about 7 mm in diameter over an aneurysmal area of 2"4 cm to 3"6 cm in the ascending aorta, compatible with endarteritis. Thoracic CT angiography on postoperative day + 24 (+ 12 days of antimicrobial therapy) ruled out complications in the ascending aorta and detected post-sternotomy postoperative changes and bibasal laminar atelectasis with minimal bilateral condensation. The control blood culture on day + 25 was negative. It was decided to maintain antibiotic treatment until 6 weeks had elapsed, given the diagnosis of possible infectious endarteritis. A special coagulation study was carried out, finding Heterozygosis for Factor XII (position 46), positive Lupus Anticoagulant, negative IgM - IgG Beta2 Glycoprotein. Following this, dicoumarin anticoagulant therapy was started with a target INR of 2.5 - 3.5.
+The patient remained afebrile and without further incidents; TEE at discharge found no new findings.
+
+Final diagnosis
+Post cardiac surgery febrile syndrome, intra-aortic mass in which SCN endarteritis or intra-arterial thrombus cannot be ruled out in the context of primary antiphospholipid syndrome awaiting confirmation 2 or immunological markers at 6 months.

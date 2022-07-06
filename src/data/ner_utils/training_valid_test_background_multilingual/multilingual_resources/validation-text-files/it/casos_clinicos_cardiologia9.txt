@@ -1,0 +1,68 @@
+ANAMNESI
+Femmina, 58 anni.
+Non fumatore. Bevitore moderato.
+HT nel trattamento.
+Insonnia durante il trattamento con BDZ.
+Lombosciatalgia.
+Trattamento abituale: Omeprazolo, ASA, Calcio, Celecoxib, Mometasone, Flunitrazepam e Lormetazepam.
+
+Malattia attuale
+Si è presentata al pronto soccorso il 17/09/2012 a causa di sintomi febbrili con brividi associati a sonnolenza e disorientamento marcato.
+Nell'anamnesi ha riportato sintomi clinici di due settimane di evoluzione, consistenti in astenia e anoressia, con febbre dal 14/09/2012 associata a odinofagia, con parziale miglioramento con claritromicina.
+
+Esame fisico
+BP: 85/55 Fc: 95x" Ta: 37.3oC
+Cosciente, disorientato nel tempo e nello spazio. Eupneico a riposo. Pallore mucocutaneo.
+Nessuna adenopatia, nessuna rigidità del collo.
+PCA: Tachicardico, nessun soffio. Ipoventilazione globale senza suoni patologici.
+Il resto era irrilevante.
+
+Test complementari nel Dipartimento di Emergenza
+ECG: ritmo sinusale a 90x". 
+Radiografia del torace: nessuna cardiomegalia o reperti patologici.
+Test di laboratorio:
+Sangue: Lattato 35 mg/dL, Procalcitonina 89.8ng/mL, Urea 62 mg/dL, Creatinina 1.36 mg/dL, Na 131 mEq/L, CRP 7 mg/dL, Hb 10.9 g/dL, Hto 31.6%, MCV 100.8 fL, Piastrine 126000/μL, Leucociti 27300/μL, IP 48%, INR 1.67.
+Emogasanalisi arteriosa: pH 7,43, pCO2 33, pO2 49, HCO3 22, EB -1,8, Sat02 85%. 
+Sedimento urinario: Sangue ++, Leucociti +++.
+TAC cranica:
+Nessuna patologia intracranica acuta.
+Fluido cerebrospinale:
+Chiaro, trasparente.
+Proteine 63 mg/dL, glucosio 66mg/dL, ematomi 110 cellule/mm3, altri: 7 cellule/mm3 (linfociti 18%, segmentato 74%, monociti 8%).
+Ecografia addominale:
+Splenomegalia omogenea di 14,4 cm. Riposare nella normalità.
+
+Evoluzione
+Ricoverato in terapia intensiva il 18/09/2012 con diagnosi di shock settico di eziologia non identificata, con focus urinario come più probabile, richiedendo basse dosi di inotropi e vasopressori.
+Cinque ore dopo, il paziente è emodinamicamente stabile e gli inotropi e i vasopressori possono essere ritirati. Tuttavia, il disorientamento e la sonnolenza persistevano, con afasia ed emiplegia destra di nuova insorgenza.
+È stata eseguita una TAC cranica urgente.
+È stata valutata da Neurologia, senza una procedura intravascolare invasiva a causa di una storia di puntura lombare nelle 24 ore precedenti, ed è stata somministrata una terapia antipiastrinica con ASA.
+È stato eseguito un TTE urgente, che ha rivelato un LV non dilatato con grave MI.
+Il 19/09/2012, al mattino, si è presentato con un deterioramento del livello di coscienza, con chiara asimmetria pupillare e postura decorticata. Sono stati necessari un'OTI e un collegamento alla ventilazione meccanica e una nuova TAC cranica.
+Nonostante il trattamento, il deterioramento neurologico è progredito e lei è rimasta intubata con solo alcuni riflessi del tronco.
+Non c'è stato alcun picco di febbre in nessun momento.
+Nell'anamnesi dei parenti, non è stato osservato alcun possibile focolaio di endocardite.
+
+TEE 19/09/2012
+Vegetazione poco mobile e di densità omogenea di 15x14 mm, con associato aneurisma perforato sul foglietto mitrale anteriore.
+Insufficienza mitralica grave con 2 getti, uno proveniente dalla perforazione dell'aneurisma e diretto verso la parete posteriore dell'atrio sinistro con effetto coanda, con un altro più piccolo a livello centrale. 
+Grave rigurgito tricuspidale dovuto al prolasso.
+Insufficienza aortica degenerativa lieve.
+
+Culture
+Colture del sangue 
+Raccolta al momento dell'ammissione.
+Positivo per Streptococcus mitis.
+Sensibile a penicillina, amoxicillina, ceftriaxone, cotrimoxazolo.
+Resistente alla clindamicina e all'eritromicina.
+
+Il decorso clinico è progredito fino alla morte cerebrale il 21/09/2012, 96 ore dopo il ricovero in terapia intensiva.
+Fu richiesta una TAC cervico-toracica-abdominale-pelvica, nel caso potesse essere considerato un donatore.
+TC corpo: lesioni nella milza e nel rene destro compatibili con piccoli infarti embolici.
+
+IMPRESSIONE DIAGNOSTICA
+ENDOCARDITE INFETTIVA SULLA VALVOLA MITRALE NATIVA DOVUTA ALLO STREPTOCOCCO MITIS.
+GRAVE INSUFFICIENZA MITRALICA DOVUTA ALLA PERFORAZIONE A LIVELLO DELLA VEGETAZIONE DEL FOGLIETTO MITRALE ANTERIORE.
+SHOCK SETTICO.
+EMBOLIA SETTICA A LIVELLO CEREBRALE CON TRASFORMAZIONE EMORRAGICA E MORTE ENCEFALICA.
+

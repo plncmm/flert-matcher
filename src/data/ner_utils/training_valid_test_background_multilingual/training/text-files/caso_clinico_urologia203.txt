@@ -1,0 +1,17 @@
+Anamnesis
+Varón de 84 años de edad, hipertenso, exfumador. Accidentes cerebrovasculares isquémicos hemisféricos izquierdos en los años 2000 y 2005. Amputación del miembro inferior derecho por isquemia en mayo de 2011. Tratamiento crónico con: bisoprolol, nifedipino, omeprazol, ácido acetilsalicílico y candesartán- hidroclorotiazida. Antecedentes urológicos: tras la amputación del miembro inferior derecho, sufrió varios episodios de infecciones del tracto urinario tratados con antibiótico y un solo cultivo positivo para Pseudomonas aeruginosa, solo sensible a piperacilina-tazobactam e imipenem. Varios episodios de hematuria autolimitados en los últimos 4 meses, presentando hemograma y bioquímica sérica normales.
+El paciente acude al Servicio de Urgencias (14/10/2011) por deterioro del estado general, dolor abdominal difuso y hematuria macroscópica de semanas de evolución. No presenta fiebre, náuseas ni síndrome miccional.
+
+Exploración física
+Consciente, eupneico y afebril, con marcada palidez cutáneo-mucosa. Auscultación cardiopulmonar normal. Tensión arterial 104/51 mmHg. Frecuencia cardíaca 65 lpm. Abdomen blando, no doloroso, con puñopercusión bilateral negativa. Genitales externos normales. Tacto rectal: próstata fibroelástica, II/IV, móvil, no dolorosa.
+
+Pruebas complementarias
+• Analítica sanguínea (a su llegada a Urgencias): hemoglobina 4,6 g/dl, hematocrito 14,4%, 452.000 plaquetas/mm3, 10.080 leucocitos/mm3 (neutrófilos 79,2%). Tiempo de protrombina 62%, glucosa 100 mg/dl, urea 284 mg/dl, creatinina 8,97 mg/dl, Na+ 137 mEq/l, K+ 7,2 mEq/l.
+• Orina: densidad 1.015; pH 8. Sedimento con hematuria macroscópica y microleucocituria.
+• Cultivo de orina: Klebsiella pneumoniae, solo resistente a ampicilina.
+• Ecografía abdominal: riñón derecho atrófico (5,6 cm eje longitudinal). Riñón izquierdo con ocupación del sistema pielo-infundíbulo-calicial por imágenes hiperecogénicas que dejan sombra acústica posterior, compatibles con litiasis. No se observa dilatación de los sistemas excretores ni litiasis en el trayecto ureteral. Vejiga no valorable. Próstata de 60 cc. Resto de estructuras abdominales normales.
+• Tomografía computarizada (TC) abdominal sin contraste: riñón derecho atrófico. Riñón izquierdo de tamaño normal con leve ectasia del sistema excretor, que muestra una pared engrosada con calcificación de la superficie mucosa en prácticamente todo su trayecto, de naturaleza inespecífica. Vejiga de lucha, con calcificación de la mucosa en la pared posterior. Derrame pleural derecho.
+
+Diagnóstico
+Pielitis incrustada en riñón único funcionante debida a Klebsiella pneumoniae. Tratamiento y evolución
+A la llegada del paciente se realiza transfusión de hematíes, hemodiálisis y se coloca una sonda vesical. La hematuria varía de intensidad a lo largo de los días, sin llegar a desaparecer en ningún momento. Se inicia tratamiento antibiótico con piperacilina-tazobactam (2/0,5 g cada 8 h), en base a cultivo de orina previo y ácido ascórbico (500 mg/8 h) para acidificación de la orina por pH urinario de 9, pero se suspende a las 48 horas por acidosis metabólica. Tras varias sesiones de hemodiálisis y transfusiones, presenta un deterioro progresivo de la función renal, a pesar de presentar una diuresis diaria de 1.500 cc. Al duodécimo día de ingreso presenta un cuadro de fibrilación auricular, con insuficiencia cardíaca y dolor torácico con daño miocárdico. El paciente y su familia rechazan tratamientos más agresivos, falleciendo a los 15 días del ingreso.

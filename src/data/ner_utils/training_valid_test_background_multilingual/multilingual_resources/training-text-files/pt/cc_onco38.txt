@@ -1,0 +1,40 @@
+Anamnese
+Uma mulher de 61 anos com uma história pessoal de hérnia de hiato, tuberculose infantil e vírus da hepatite B correctamente tratado.
+
+A sua história ginecológica inclui a cirurgia em 2001 para a adnexectomia direita do teratoma cístico maduro.
+
+Em 2006, foi submetida a uma apendicectomia num outro hospital por muco na cavidade abdominal. A anatomia patológica revelou um cistadenoma mucinoso do apêndice, com margens de ressecção cirúrgica sem lesões.
+
+Em Janeiro de 2013, visitou o ambulatório de ginecologia para metrorragia pós-menopausa, bem como desconforto abdominal com ligeira distensão abdominal pós-prandial. Sem náuseas ou vómitos. Sem alterações nos hábitos intestinais. Nenhum outro sintoma.
+
+Exame físico
+Sinais vitais dentro dos limites normais. Estado geral aceitável, normohidratado e normoperfused. Eupneic. PCA: não-descrito. Abdómen: distendido, desconforto à palpação no hipogastrio e na fossa ilíaca direita. Não há massas ou visceromegalia palpável. Ruídos hidro-aéreos presentes. Blumberg negativo. Murphy negativo. MMII: edema perimalleolar. Exame vaginal: colo do útero posterior longo, sem dor na mobilização cervical ou na bolsa de fundo da Douglas. O tamanho e a consistência do útero parecem normais. Nenhuma massa anexa é palpável.
+
+Testes complementares
+Dada a idade e as características clínicas do doente, tendo em conta o exame anódino, foram solicitados testes adicionais para excluir a patologia ginecológica:
+"Testes de sangue: Hb 10.2 g/dl, todos os outros parâmetros dentro da gama normal.
+"Marcadores tumorais: CEA 9.5; CA 19.9: 120.4; HE4 54.4. Ca 125 112.4.
+"Foi realizada uma ecografia transvaginal, mostrando fluido livre na pélvis e uma imagem hiperecogénica de 37 mm na área ad anexa esquerda.
+"Tendo em conta estes resultados, foi solicitado um TAC abdominopelvico, que revelou resultados compatíveis com a carcinomatose peritoneal, envolvimento extensivo do maior omento infiltrado por múltiplas massas e adenopatias peritoneais; foi visualizado um aumento da adenopatia esquerda.
+"Na sequência do relatório de tomografia computadorizada de carcinomatose peritoneal com alteração da adnexa esquerda, o adenocarcinoma ovariano é a primeira possibilidade.
+
+Diagnóstico
+Com base nos resultados radiológicos acima descritos, foi realizada uma laparatomia diagnóstica com biópsia intra-operatória em Fevereiro de 2013. A anatomia patológica revelou infiltração de implantes peritoneais, tubo, ovário esquerdo e meso intestino por adenocarcinoma mucinoso. Foram realizados estudos de imuno-histoquímica, mostrando uma forte positividade para CK20 e negativa para CK7, sugerindo uma origem intestinal primária; não houve mutações no KRAS e NRAS.
+
+Com estes dados, foi estabelecido o diagnóstico de carcinomatose peritoneal devida a pseudomixoma peritonei e o caso foi apresentado ao comité do tumor, tendo sido decidido recorrer ao hospital de referência para avaliar a possibilidade de perinectomia Sugarbarker e quimioterapia hipertérmica intraperitoneal (HIPEC).
+
+Tratamento
+A 15 de Maio de 2013 foi realizada uma laparotomia, encontrando-se carcinomatose peritoneal devido a um pseudomaxoma peritoneal muito avançado, com um índice de carcinomatose superior a 30, doença disseminada por todo o intestino delgado, pelo que foi excluída a cirurgia radical.
+
+Realizaram-se ressecções paliativas de omento, colecistectomia e nódulos maiores que 5 cm, e quimioterapia intraperitoneal hipertérmica intra-operatória foi administrada com intenção paliativa de mitomicina na dose de 10 mg/m2 numa infusão de 90 minutos e cisplatina 50 mg/m2, com boa evolução pós-operatória.
+
+Evolução
+O primeiro TAC pós-operatório (Julho de 2013) mostrou a progressão da doença em relação ao estudo de Fevereiro, mostrando pouca resposta à quimioterapia.
+
+Do ponto de vista clínico, a paciente estava assintomática, pelo que depois de considerar várias opções, a quimioterapia paliativa FOLFOX 6 foi administrada a partir de 13/8/2013, dos quais recebeu 13 ciclos, a partir do ciclo 7 sem oxiplatina devido à neurotoxicidade de grau 2 mantida.
+
+No TAC de controlo após 10 ciclos, foi observada uma progressão pélvica mínima, mas de acordo com o paciente, foi decidido continuar o tratamento.
+
+Último ciclo em 2/9/2014, com o CT scan nessa altura estável em tamanho em relação ao estudo anterior.
+
+Em Março de 2015, o TAC de controlo mostrou uma progressão moderada/moderada da doença em comparação com o estudo anterior. Foi novamente discutido no comité do tumor, contra-indicando uma nova cirurgia, pelo que a quimioterapia de segunda linha com XELIRI foi considerada nessa altura, com uma redução da dose devido à toxicidade anterior. Iniciado em 14/4/2015.

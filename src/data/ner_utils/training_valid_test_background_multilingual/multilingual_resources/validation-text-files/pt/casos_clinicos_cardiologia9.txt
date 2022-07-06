@@ -1,0 +1,68 @@
+ANAMNESIS
+Feminino, 58 anos de idade.
+Não-fumador. Bebedouro moderado.
+HT em tratamento.
+Insónia no tratamento com BDZ.
+Lumbociatalgia.
+Tratamento habitual: Omeprazole, ASA, Calcium, Celecoxib, Mometasone, Flunitrazepam e Lormetazepam.
+
+Doença actual
+Assistiu ao departamento de emergência a 17/09/2012 devido a sintomas febris com tremores associados a sonolência e marcada desorientação.
+Na anamnese ela relatou sintomas clínicos de duas semanas de evolução, consistindo de astenia e anorexia, com febre desde 14/09/2012 associada à odynophagia, com melhoria parcial com claritromicina.
+
+Exame físico
+BP: 85/55 Fc: 95x" Ta: 37.3oC
+Consciente, desorientado no tempo e no espaço. Eupneic em repouso. Palidez mucocutânea.
+Sem adenopatias, sem rigidez no pescoço.
+PCA: Taquicardíaco, sem murmúrios. Hipoventilação global sem sons patológicos.
+O resto era banal.
+
+Testes complementares no Departamento de Emergência
+ECG: Ritmo sinusal a 90x". 
+Raio-X ao tórax: Sem cardiomegalia ou achados patológicos.
+Testes laboratoriais:
+Sangue: Lactato 35 mg/dL, Procalcitonina 89,8ng/mL, Ureia 62 mg/dL, Creatinina 1,36 mg/dL, Na 131 mEq/L, CRP 7 mg/dL, Hb 10,9 g/dL, Hto 31,6%, MCV 100,8 fL, Plaquetas 126000/μL, Leucócitos 27300/μL, IP 48%, INR 1,67.
+Gasometria arterial: pH 7,43, pCO2 33, pO2 49, HCO3 22, EB -1,8, Sat02 85%. 
+Sedimento de urina: Sangue ++, Leucócitos ++++.
+CT cranial:
+Sem patologia intracraniana aguda.
+Líquido cerebrospinal:
+Claro, transparente.
+Proteínas 63 mg/dL, Glucose 66mg/dL, Hematies 110 células/mm3, Outros: 7 células/mm3 (Linfócitos 18%, Segmentados 74%, Monócitos 8%).
+Ultra-sons abdominais:
+esplenomegalia homogénea de 14,4 cm. Descansar dentro da normalidade.
+
+Evolução
+Admitido na UCI em 18/09/2012 com o diagnóstico de choque séptico de etiologia não identificada, sendo a focalização urinária a mais provável, exigindo doses baixas de inotrópicos e vasopressores.
+Cinco horas depois, o doente é hemodinamicamente estável e os inotropos e vasopressores podem ser retirados. No entanto, a desorientação e a sonolência persistiram, com afasia e nova hemiplegia direita de início.
+Foi realizada uma TAC cranial urgente.
+Foi avaliada por Neurologia, sem um procedimento intravascular invasivo devido a um historial de punção lombar nas 24 horas anteriores, e foi administrada terapia antiplaquetária com ASA.
+Foi realizada uma TTE urgente, que revelou um LV não dilatado com um grave MI.
+A 19/09/2012, de manhã, apresentou uma deterioração do nível de consciência, com clara assimetria pupilar e postura de decorticação. Foram necessárias a OTI e a ligação à ventilação mecânica e um novo TAC craniano.
+Apesar do tratamento, a deterioração neurológica progrediu, e ela permaneceu entubada apenas com alguns reflexos do tronco.
+Não houve pico de febre em momento algum.
+Na anamnese dos familiares, não foi observado qualquer possível foco de endocardite.
+
+TEE 19/09/2012
+Vegetação pouco móvel e densidade homogénea de 15x14 mm, com aneurisma perfurado associado na cúspide mitral anterior.
+Insuficiência mitral grave com 2 jactos, um originado pela perfuração do aneurisma e dirigido para a parede posterior do átrio esquerdo com efeito coanda, e outro mais pequeno a nível central. 
+Regurgitação tricúspide grave devido a prolapso.
+Insuficiência aórtica degenerativa ligeira.
+
+Culturas
+Culturas de sangue 
+Recolhido à admissão.
+Positivo para Streptococcus mitis.
+Sensível à Penicilina, Amoxicilina, Ceftriaxona, Cotrimoxazole.
+Resistente à Clindamicina e à Eritromicina.
+
+O curso clínico progrediu até à morte cerebral em 21/09/2012, 96 horas após a admissão na UCI.
+Foi solicitado um TAC cervico-torácico-abdomino-pelvico, no caso de poder ser considerado um doador.
+Corpo CT: lesões no baço e no rim direito compatíveis com pequenos enfartes embólicos.
+
+IMPRESSÃO DIAGNÓSTICA
+ENDOCARDITE INFECCIOSA NA VÁLVULA MITRAL NATIVA DEVIDO A ESTREPTOCOCOS ATENUADOS.
+INSUFICIÊNCIA MITRAL GRAVE DEVIDO À PERFURAÇÃO AO NÍVEL DA VEGETAÇÃO DA CÚSPIDE MITRAL ANTERIOR.
+SEPTIC SHOCK.
+EMBOLIA SÉPTICA A NÍVEL CEREBRAL COM TRANSFORMAÇÃO HEMORRÁGICA E MORTE ENCEFÁLICA.
+

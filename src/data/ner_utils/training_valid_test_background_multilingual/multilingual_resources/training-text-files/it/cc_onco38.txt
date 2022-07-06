@@ -1,0 +1,40 @@
+Anamnesi
+Una donna di 61 anni con una storia personale di ernia iatale, tubercolosi infantile e virus dell'epatite B trattato correttamente.
+
+La sua storia ginecologica include un intervento chirurgico nel 2001 per un'annessectomia destra per un teratoma cistico maturo.
+
+Nel 2006, ha subito un'appendicectomia in un altro ospedale per muco nella cavità addominale. L'esame patologico ha rivelato un cistoadenoma mucinoso dell'appendice, con margini di resezione chirurgica senza lesioni.
+
+Nel gennaio 2013, ha visitato l'ambulatorio di ginecologia per metrorragia postmenopausale, così come il disagio addominale con leggera distensione addominale postprandiale. Nessuna nausea o vomito. Nessuna alterazione delle abitudini intestinali. Nessun altro sintomo.
+
+Esame fisico
+Segni vitali entro i limiti normali. Condizioni generali accettabili, normoidratato e normoperfuso. Eupneico. PCA: non descritto. Addome: disteso, fastidio alla palpazione nell'ipogastrio e nella fossa iliaca destra. Nessuna massa o visceromegalia palpabile. Rumori idro-aerei presenti. Blumberg negativo. Murphy negativo. MMII: edema perimalleolare. Esame vaginale: cervice posteriore lunga, nessun dolore alla mobilizzazione cervicale o alla tasca del fondo di Douglas. Le dimensioni e la consistenza dell'utero sembrano normali. Nessuna massa annessiale è palpabile.
+
+Test complementari
+Data l'età e le caratteristiche cliniche della paziente, visto l'esame anodino, sono stati richiesti ulteriori esami per escludere una patologia ginecologica:
+"Esami del sangue: Hb 10,2 g/dl, tutti gli altri parametri nella norma.
+"Marcatori tumorali: CEA 9.5; CA 19.9: 120.4; HE4 54.4. Ca 125 112.4.
+"È stata eseguita un'ecografia transvaginale che ha mostrato fluido libero nella pelvi e un'immagine iperecogena di 37 mm nell'area annessa sinistra.
+"Alla luce di questi risultati, è stata richiesta una TAC addominopelvica, che ha rivelato risultati compatibili con una carcinomatosi peritoneale, un esteso coinvolgimento dell'omento maggiore infiltrato da masse multiple e adenopatie peritoneali; è stato visualizzato un ingrossamento degli annessi di sinistra.
+"In seguito al rapporto della TAC di carcinomatosi peritoneale con alterazione dell'annesso sinistro, l'adenocarcinoma ovarico è la prima possibilità.
+
+Diagnosi
+Sulla base dei risultati radiologici sopra descritti, nel febbraio 2013 è stata eseguita una laparoscopia diagnostica con biopsia intraoperatoria. L'anatomia patologica ha rivelato l'infiltrazione degli impianti peritoneali, delle tube, dell'ovaio sinistro e dell'intestino meso da parte dell'adenocarcinoma mucinoso. Sono stati eseguiti studi di immunoistochimica, mostrando una forte positività per CK20 e negativa per CK7, suggerendo un'origine intestinale primaria; non c'erano mutazioni in KRAS e NRAS.
+
+Con questi dati è stata stabilita la diagnosi di carcinomatosi peritoneale dovuta a pseudomixoma peritonei e il caso è stato presentato alla commissione tumori, decidendo di rivolgersi all'ospedale di riferimento per valutare la possibilità di una perinectomia Sugarbarker e una chemioterapia intraperitoneale ipertermica (HIPEC).
+
+Trattamento
+Il 15 maggio 2013 è stata eseguita una laparotomia, trovando una carcinomatosi peritoneale dovuta ad uno pseudomixoma peritoneale molto avanzato, con un indice di carcinomatosi superiore a 30, malattia disseminata in tutto l'intestino tenue, e la chirurgia radicale è stata quindi esclusa.
+
+La resezione palliativa di entrambi gli omenti, la colecistectomia e i noduli più grandi di 5 cm sono stati eseguiti, e la chemioterapia intraperitoneale ipertermica intraoperatoria è stata somministrata con intento palliativo di mitomicina alla dose di 10 mg/m2 in un'infusione di 90 minuti e cisplatino 50 mg/m2, con buona evoluzione postoperatoria.
+
+Evoluzione
+La prima TAC post-intervento (luglio 2013) ha mostrato una progressione della malattia rispetto allo studio di febbraio, mostrando una scarsa risposta alla chemioterapia.
+
+Dal punto di vista clinico, la paziente era asintomatica, quindi dopo aver considerato varie opzioni, la chemioterapia palliativa FOLFOX 6 è stata somministrata a partire dal 13/8/2013, di cui ha ricevuto 13 cicli, dal ciclo 7 senza ossiplatino a causa del mantenimento della neurotossicità di grado 2.
+
+Nella TAC di controllo dopo 10 cicli, è stata osservata una progressione pelvica minima, ma in accordo con la paziente è stato deciso di continuare il trattamento.
+
+Ultimo ciclo il 2/9/2014, con TAC in quel momento stabile nelle dimensioni rispetto allo studio precedente.
+
+Nel marzo 2015, la TAC di controllo ha mostrato una progressione lieve/moderata della malattia rispetto allo studio precedente. È stato discusso di nuovo nel comitato tumori, controindicando un nuovo intervento chirurgico, quindi la chemioterapia di seconda linea con XELIRI è stata considerata in quel momento, con una riduzione della dose a causa della tossicità precedente. Iniziato il 14/4/2015.

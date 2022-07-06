@@ -1,0 +1,42 @@
+Motivo da consulta
+Dor no hemitórax esquerdo e febre. História pessoal:
+- Alergia à penicilina e derivados
+- Fumador de 20 cigarros/dia durante 36 anos. Ex-bebedouro pesado desde 1992.
+- Nenhuma hipertensão conhecida ou DM. DL em tratamento farmacológico.
+- Miopia magna operada por laser.
+- Tratamento habitual: Simvastatin 20 mg (0-0-1), Hemovas (1-0-0-0).
+- Situação de base: vive com a sua esposa, independente para actividades da vida diária. Dispneia ao esforço. Sem ortopedia, sem edema ou DPN. Ele trabalha num escritório.
+- História familiar: o pai morreu de cancro laríngeo metastásico aos 56 anos de idade, a mãe morreu de cancro pancreático aos 83 anos de idade. Ela tem 3 irmãos saudáveis.
+
+Doença actual
+Um paciente de 56 anos de idade assistiu ao serviço de urgência durante 3 dias de dor na omoplata esquerda irradiando para a região precordial, com características pleuríticas, acompanhada de febre até 37,8oC e uma sensação de distrofia. Consultado com a sua MAP que prescreveu tratamento com Paracetamol sem melhoramento clínico, o paciente relatou um agravamento progressivo com febre persistente e aumento da dispneia até esforço mínimo. Sem tosse ou expectoração. Nenhum aumento de ortopedia ou edema. Nenhum outro sintoma de interesse.
+
+Exame físico
+BP 97/64 mmHg, HR 95 bpm, satO2 basal 94%, T 37.2oC. Consciente e orientada nas 3 esferas, bem hidratada e perfumada, transpirada, eupneica, cooperativa, boa coloração da pele e das mucosas. Cabeça e pescoço: pulsos carotídeos +, sem IY ou RHY, sem bócio ou adenopatia. AC: rítmico sem murmúrios. PA: hipoventilação nos 2/3 inferiores do hemitórax esquerdo, sem sibilância. Abdómen: sem alterações significativas. MMII: sem edema, sem evidência de flebite ou DVT, pulsos preservados.
+
+ Testes complementares à chegada
+Testes laboratoriais
+- Hemoglobina 14,3 g/dl, hematócrito 40,8%, MCV 95,3 fl, MCH 33,4 pg,
+Leucócitos 22530/uL, Neutrófilos 91%, Linfócitos 4%, Monócitos 5,5%, Eosinófilos 4%, Basófilos 1%, Plaquetas 210.000/mm3.
+- Esfregaço de sangue: 73% segmentado, 15% estriado e 6% metamielócitos.
+- Bioquímica: Glicose 138 mg/dl, Ureia 70 mg/dl, Creatinina 1,3 mg/dl, GOT 22 U/I, GPT 20 U/I, Br total 0,66 mg/dl, CPK 36 U/I, Amilase 50 U/I, Cálcio 10,6 mg/dl, Sódio 136 mEq/l, Potássio 4,4 mEq/l, Mioglobina 29,75 ng/ml, Troponina T US <3 ng/l.
+- Coagulação: INR 1,13, tempo de protrombina 73,77%, tempo de tromboplastina activada 28,2 seg, Fibrinogénio 960 mg/dl, D-Dimer 2,08 mg/L.
+- Gasometria arterial de base: pH 7,44, pCO2 29,1 mmHg, pO2 72,1 mmHg, HCO3 19,4 mEq/l, satO2 98%.
+- Urina: pH 5,5, Proteína ++ mg/dl, Glicose negativa, Corpos cetónicos negativos, Bilirrubina baixa, Sangue negativo, Nitritos negativos, Urobilinogénio normal. Sedimento: leucócitos isolados.
+- Hemocultura x2: negativa.
+- Cultura da urina: negativa. Legionella antigen e pneumococcus na urina negativa.
+- ECG: ritmo sinusal a 90 bpm, eixo normal. Sem alterações significativas de repolarização.
+- Raio-x do tórax
+- Tomografia computorizada do tórax: sem defeitos de preenchimento nas artérias principais, lobares e segmentares pulmonares. Efusão pleural bilateral, mínima no lado direito e maior no lado esquerdo. Pneumotórax mínimo no segmento anterior do LSI e da língula. Pequenas bulas apicais subpleurais bilaterais. Alterações apicais apicais pulmonares residuais bilaterais. Atelectasia de LII com broncograma de ar sugestivo de atelectasia passiva devido à presença de efusão e a grande hérnia hiatal sem poder excluir a condensação pneumónica. Duas adenopatias infracarinais, uma de 15 mm e a outra calcificada. Adenopatia hilar esquerda de 10 mm, que se imprime no brônquio da língula. Hérnia hiatal volumosa.
+
+Evolução
+Durante a sua estadia no departamento de urgências, o paciente permaneceu hipotenso, necessitando de terapia de fluidos e prostração sem focalização neurológica. Após estabilização hemodinâmica, o paciente foi admitido em Medicina Interna com um diagnóstico clínico de sepse de origem respiratória e CAP em LII, e foi iniciado o tratamento antibiótico com levofloxacina, azitromicina e clindamicina, bem como oxigenoterapia e broncodilatadores. Vinte e quatro horas após a sua chegada à enfermaria, apresentou um aumento da dor torácica, súbita dessaturação e instabilidade hemodinâmica, para a qual foram solicitados estudos radiológicos urgentes, mostrando um agravamento radiológico no raio-X torácico com o aparecimento de novos níveis hidro-aéreos. A tomografia computorizada mostrou perfuração do divertículo epifranico esquerdo com pleuro-mediastinite associada e hidrotórax esquerdo secundário ao anterior, pelo que a diverticulectomia foi realizada por toracotomia esquerda com colocação de um saco de ostomia para posterior fecho da fístula esofagocutânea. O paciente não teve complicações no pós-operatório imediato, embora tenha exigido uma estadia na UCI durante 5 dias e drogas vasoativas durante as primeiras 24 horas após a operação. Completou a antibioticoterapia com tigeciclina e fluconazol com resolução dos sintomas sépticos associados. Na descarga, o paciente era termodinamicamente estável, um portador de PEG, boa tolerância a líquidos com poucas fugas de material através da fístula, como demonstrado nas imagens de trânsito GI.
+
+Julgamento Clínico
+- Divertículo perfurado epifrénico perfurado de esófago, com pleuro-mediastinite e choque séptico associados.
+- Hidropneumotórax esquerdo secundário ao acima referido resolvido.
+- Efusão pleural direita resolvida
+
+Tratamento na descarga
+-Manter o seu tratamento habitual anterior sem alterações -Tratamento regular no Serviço de Cirurgia Torácica -Controlo pelo seu MAP
+

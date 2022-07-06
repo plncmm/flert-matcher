@@ -1,0 +1,35 @@
+Una donna di 43 anni, fumatrice con un'abitudine al fumo di 10 anni/pacchetto senza storia personale o familiare di interesse, che nel settembre 2018 è stata ricoverata in un altro ospedale per mesi di perdita di peso e debolezza progressiva con atrofia muscolare marcata. All'ammissione, gli è stato diagnosticato un adenocarcinoma polmonare metastatico.
+
+Alla dimissione, non era ancora in grado di stare in piedi, quindi aveva un supporto UHD e veniva trattato con desametasone ad alte dosi (8-4-8 mg) e analgesici di terzo livello (cerotti di fentanyl 100 μg/h).
+
+Ha richiesto un secondo parere presso il nostro centro, presentandosi il 22/10/18 prima della visita per claudicazione familiare; con scarso controllo del dolore (cefalea dovuta a metastasi cerebrali e dolore sciatico destro dovuto a lesione L5 e schiacciamento) nonostante aumento dell'analgesia e corticoterapia, con incontinenza urinaria e fecale iniziata nelle ultime 2-3 settimane insieme ad aumento della debolezza in MMII. Negli ultimi giorni si era aggiunta anche una sindrome confusionale con deliri di danno.
+
+La paziente aveva una pressione di 4 ed era orientata nella persona e parzialmente nel tempo e nello spazio; all'esame fisico presentava una significativa cachessia, con atrofia asimmetrica del quadricipite, dell'interosseo e dell'eminenza tenar, con conseguente mano ad artiglio sinistra. L'equilibrio motorio ha mostrato una debolezza generalizzata, con punteggi di 3 su 5 sulla scala ASIA nelle estremità distali e 4 su 5 in quelle prossimali. La sensibilità era normale e non c'era alterazione dei nervi cranici. Il resto dell'esame fisico era irrilevante.
+
+Gli esami complementari eseguiti nell'altro centro includevano:
+- RMN cervello e colonna cervicale (18/09/2018): metastasi cerebrali e cerebellari con componente emorragica, effetto massa, compressione del 4° ventricolo, ipertensione intracranica ed erniazione delle tonsille cerebellari con compressione bulbare. Metastasi ossee nei primi 3 livelli dorsali.
+- TC toraco-addominale-pelvica (18/09/2018): lesioni multiple di aspetto metastatico in entrambi i polmoni prevalentemente nei campi superiori, parenchima epatico, surrene destro, rene destro, adenopatie retroperitoneali e a livello osseo nelle arcate costali, somas D1-D3 e soma L5 con componente epidurale anteriore, lama iliaca destra e acetabolo sinistro.
+
+Una biopsia ecoguidata di una delle metastasi epatiche vi era stata eseguita il 24/9/18 (24/9/18), il cui studio morfologico e immunoistochimico mostrava una metastasi di adenocarcinoma polmonare PD-L1 + (bassa espressione) 1-49%; ALK e ROS 1 non traslocati, in attesa del risultato della mutazione EGFR.
+
+Pertanto, una giovane donna con una condizione generale di base molto povera e un adenocarcinoma polmonare molto avanzato, con un alto carico di malattia dovuto a metastasi multiple e dolore incontrollato è stata ricoverata per un trattamento sintomatico ottimizzato, comprendente misure analgesiche e antiedema cerebrale con dosi aumentate di desametasone (8 mg ogni 8 ore), con un miglioramento sintomatico parziale iniziale.
+
+Successivamente, dopo aver escluso il coinvolgimento del midollo spinale con la risonanza magnetica spinale, è stata avviata una RT olocranica palliativa (10 frazioni x 3 Gy, terminata il 05/11/18).
+
+Il 31/10/18 è stato ricevuto il risultato EGFR, che mostra una delezione nell'esone 19, quindi è stato prescritto il trattamento con Erlotinib 150mg/24h (con consenso informato preventivo).
+
+Allo stesso tempo, è stato iniziato un trattamento di riabilitazione/fisioterapia a causa della sindrome da allettamento prolungato e dell'atrofia muscolare attribuibile all'immobilità e all'uso del desametasone.
+
+Con queste misure, la paziente ha iniziato un processo di lento ma evidente miglioramento del suo stato generale e funzionale con un buon controllo del dolore e un progressivo recupero della mobilità e dell'autonomia personale, che ha permesso la progressiva riduzione della corticoterapia.
+
+Il 18/11/18, durante una dose di 2mg/die di desametasone, il paziente ha presentato un picco febbrile senza sintomi di accompagnamento, senza risultati all'esame, con esami complementari (esami del sangue, delle urine, dei virus respiratori e radiografia del torace), quindi è stata iniziata un'antibioterapia empirica con cefditoren.
+
+Nonostante l'ampliamento dello spettro antibiotico a piperacillina-tazobactam, i picchi febbrili persistevano; il 22/11/18 si presentava con un marcato deterioramento clinico, con bassa reattività, sonnolenza, desaturazione fino al 60% (aria ambiente) e crepitii sparsi. La radiografia del torace è stata ripetuta e ha mostrato un nuovo modello reticulonodulare esteso in entrambi gli emitoraci, quindi, nel sospetto di polmonite atipica o virale, sono stati associati levofloxacina, cotrimoxazolo a dosi terapeutiche e ganciclovir. Nonostante la somministrazione di ossigenoterapia (Ventimask con FiO2 50%), il paziente persisteva con dispnea e tachipnea significativa; pertanto, è stata consultata la terapia intensiva per il posizionamento di ossigenoterapia nasale ad alto flusso (optiflow) in reparto.
+
+Con questo supporto massimo in reparto, il paziente è stato stabilizzato. La situazione respiratoria compromessa ha impedito la broncoscopia per prelevare un campione e la filiazione microbiologica in fase acuta, ma è stata eseguita una TAC toracica il 26/11/18 che ha mostrato un esteso coinvolgimento bilaterale a chiazze e confluente nel vetro smerigliato, insieme agli esami del sangue che hanno mostrato un leggero aumento dei reagenti di fase acuta ma un chiaro aumento della LDH, che ha sollevato la polmonite da Pneumocystis jirovecci come principale sospetto diagnostico.
+
+Da un'iniziale necessità di ossigenoterapia con una FiO2 dell'80%, si è ottenuto un lento ma progressivo miglioramento a livello respiratorio, senza ripetuti picchi febbrili, permettendo il passaggio al Ventimask il 4/12/18 e agli occhiali nasali il 13/12/18.
+
+Le analisi microbiologiche del sangue (emocolture, carica virale CMV) raccolte durante i picchi febbrili e dell'espettorato (coltura, DNA di Aspergillus, DNA di Pneumocystis), raccolte quando la situazione clinica del paziente lo permetteva (11/12/18) non hanno mostrato alcun isolamento; l'antibiotico è stato progressivamente ritirato fino a lasciare solo il cotrimoxazolo a dosi profilattiche.
+
+Una TAC toraco-addominale di controllo è stata eseguita il 18/12/18 che ha mostrato la risoluzione delle aree di vetro smerigliato e il miglioramento dei noduli metastatici con criteri di risposta parziale, consentendo la dimissione ospedaliera il 21/12/18 senza la necessità di alcun supporto domiciliare, con un PS di 1 asintomatico tranne la tossicità cutanea G1 dovuta all'erlotinib alla sua visita ambulatoriale un mese dopo la dimissione.

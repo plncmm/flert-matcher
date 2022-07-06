@@ -1,0 +1,44 @@
+Home natural de Romania de 17 anys d'edat sense antecedents ni tractament habitual que residia a Espanya des de feia 1 any amb la seva família, la qual es trobava sana. No referia cap hàbit tòxic. Consulta en Urgències per quadre de 7 dies d'evolució de cefalea contínua frontal que s'irradiava a regió occipital i que en les últimes 48 hores s'havia acompanyat febre de fins a 39o i diversos episodis de vòmits en escopetada. No presentava una altra clínica en la resta de l'anamnesi per òrgans i aparells. Es trobava en tractament amb amoxicilina i ibuprofeno prescrit per part del seu metge d'Atenció Primària amb escassa resposta a aquest.
+
+A l'exploració física presentava bon estat general, si bé estava febril a 38,8o, estable hemodinámicamente i des del punt de vista ventilatori, amb una puntuació en l'escala de coma de Glasgow de 15 i sense focalidad neurològica excepte una moderada rigidesa nucal.
+
+En l'hemograma destacava una leucocitosis de 15.600 per mm3 amb un 86% de neutròfils i una proteïna C reactiva de 26,5 mg/dl; la resta de l'hemograma, bioquímica i coagulació estava en rang de normalitat. Així mateix la radiografia de tòrax no mostrava cap condensació, adenopaties hiliares ni signes de vessament pleural. Es va procedir a realitzar una punció lumbar, previ fons d'ull que va descartar la presència de papilitis, obtenint-se un líquid cefalorraquidi (LCR) transparent amb lleuger augment de pressió de sortida. La tinció de Gram del LCR va ser negativa amb una bioquímica que presentava 21 leucòcits (83% limfòcits), glucorràquia de 54 mg/dl, proteínorraquia de 90 mg/dl i una adenosín deaminasa de 15 O/l. El pacient va ingressar en la Unitat de Malalties Infeccioses amb el diagnòstic sindrómico de meningitis limfocitària de possible etiologia tuberculosa amb cobertura antibiòtica (ceftriaxona i vancomicina) i aciclovir a l'espera dels resultats de l'estudi etiològic (hibridació de DNA per reacció en cadena de la polimerasa-PCR- i cultius d'LCR, serologies i hemocultivos).
+
+Diagnòstic diferencial
+Amb el diagnòstic sindrómico de meningitis limfocitària es va plantejar el diagnòstic diferencial entre:
+
+Meningitis bacteriana:
+• Meningitis parcialment tractada.
+• Meningitis per Listeria monocytogenes.
+• Meningitis per espiroquetas (Treponema spp. Borrelia spp.).
+• Endocarditis infecciosa bacteriana.
+• Quadres supuratius per focus parameníngeos.
+• Meningitis per microorganismes intracel·lulars (Rickettsias spp., Coxiella burnetti).
+
+Meningitis vírica:
+• Meningitis per enterovirus.
+• Meningitis per herpesvirus.
+• Meningitis per virus de la immunodeficiència humana (VIH).
+• Meningitis per adenovirus.
+• Meningitis per virus de la coriomeningitis limfocitària.
+• Meningitis per influenzavirus.
+• Meningitis per parotiditis.
+• Meningitis per arbovirus. Meningitis tuberculosa. Meningitis fúngica.
+
+Meningitis no infecciosa:
+• Meningitis neoplàsica.
+• Neurosarcoidosis.
+• Meningitis química (antiinflamatoris no esteroidals, cotrimoxazol...).
+
+Evolució
+La PCR en LCR per a enterovirus, herpesvirus, parotiditis, virus Toscana i Mycobacterium tuberculosi van ser negatives, així com el test de reagina en LCR, serologies de VIH, Borrelia, Treponema pallidum, Rickettsias spp i Coxiella burnetti. Clínicament el pacient persistia febril a les 72 hores, i la cefalea i vòmits havien empitjorat, per la qual cosa es va sol·licitar una tomografia computada (TC) cranial urgent. En la TC s'objectivava una col·lecció líquida a nivell bifrontal que s'estenia per la pràctica totalitat de la superfície de tots dos lòbuls amb moderat efecte massa i signes de cerebritis, amb captació patològica de la duramàter. 
+TC de crani (talli axial i reconstrucció sagital): s'observa col·lecció hipodensa que correspon a l'empiema epidural amb captació de contrast de la duramàter.
+A més s'apreciava una lisis de la paret posterior del si frontal esquerre que es va confirmar mitjançant reconstrucció tridimensional òssia com a probable origen parameníngeo de la col·lecció. 
+TC de crani (talli axial en finestra d'os i reconstrucció tridimensional òssia): s'aprecia solució de continuïtat de la paret posterior del si frontal esquerre.
+Amb el diagnòstic radiològic d'empiema epidural es va contactar amb el servei de Neurocirurgia que va decidir intervenció urgent del pacient prèvia ressonància magnètica (RM) cranial per a completar l'estudi. En aquesta es va confirmar l'afectació epidural a més d'un component subdural i parietal de l'empiema de fins a 16 mm. 
+RM de crani (talli sagital en T1 i axial en T2 prèvia a la craneotomía): s'observa component subdural de l'empiema i afectació parietal d'aquest.
+Al costat de pansinusitis de tots dos sins maxil·lars, frontals i etmoidal esquerre. En la seqüència de difusió d'aigua hi havia restricció d'aquesta, la qual cosa secundava fortament l'origen purulent de la col·lecció. Es va realitzar una craneotomía bifrontal i un trépano parietal dret amb evacuació del contingut purulent i cranealización del si frontal al costat d'un colgajo de gálea per a segellar la fístula que presentava. Les troballes intraoperatòries van ser d'un plastró epidural amb una duramàter engrossida i groguenca. Concurrentment Els hemocultivos i cultiu d'LCR, inclosos els de llarga incubació per a micobacterias i fongs, van ser negatius, per contra en la mostra intraoperatòria van créixer Streptococcus constellatus i Prevotella oris, aquesta última resistent a penicil·lina G.
+Es va optar per una cobertura antibiòtica endovenosa consistent en cefotaxima 2 grams cada 4 hores i metronidazol 500 mil·ligrams cada 6 hores que es va prolongar durant 6 setmanes. L'evolució del pacient va ser molt favorable, romanent afebril en tot moment i sense presentar clínica neurològica de cap mena, a pesar que en la RM de control persistia un cert component de l'empiema de 5 mm (RM de crani talli sagital en T1 i axial en T2 de RM posterior a la craneotomía, s'aprecia evacuació pràcticament completa de l'empiema amb petit component residual d'uns 5 mm) que es va decidir no evacuar, així com tampoc la resta de sins paranasals. En revisions posteriors es va confirmar la total resolució de l'empiema i de la pansinusitis trobant-se asimptomàtic i sense recurrències del procés en el moment actual.
+
+Diagnòstic final
+El diagnòstic final va ser d'empiema epidural i subdural polimicrobiano secundari a sinusitis amb fístula de paret posterior del si frontal esquerre.

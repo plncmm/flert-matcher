@@ -1,0 +1,33 @@
+Anamnesis
+Paciente varón de 37 años de edad, sin alergias medicamentosas conocidas y con antecedentes de hematuria no filiada en la infancia. Exfumador (hace más de 15 años).
+El paciente acude al Servicio de Urgencias refiriendo un cuadro clínico de 24 horas de evolución de dolor intenso en la fosa renal izquierda (FRI) tipo cólico, no irradiado, acompañado de náuseas y vómitos de contenido alimentario y de sensación distérmica (no fiebre termometrada). No refiere síntomas de tracto urinario inferior.
+
+Exploración física
+Buen estado general, consciente y orientado, normohidratado y normocoloreado, eupneico. Temperatura 37,7 oC, frecuencia cardíaca 80 lpm, tensión arterial 100/65 mmHg. Saturación de O2 96%. Auscultación cardiopulmonar: ruidos cardíacos rítmicos, sin soplos ni extratonos. Murmullo vesicular conservado sin ruidos patológicos sobreañadidos. Exploración abdominal: abdomen blando, depresible, no distendido, no doloroso, no signos de irritación peritoneal. Puño percusiónrenal izquierda muy dolorosa, derecha anodina.
+
+Pruebas complementarias
+• Hemograma: 17.500 leucocitos/mm3 (88% neutrófilos), hemoglobina 13,7 g/dl, hematocrito 40%.
+• Bioquímica: creatinina 1,77 mg/dl, urea 43 mg/dl, proteína C reactiva 21,3 mg/l, GOT 113 UI/l, GPT 100 UI/l, glucosa 156 mg/dl, potasio 4,3 mEq/l, sodio 141 mEq/l, cloro 104 mEq/l.
+• Coagulación: índice de Quick 69%, razón internacional normalizada 1.
+• Sedimento: leucocitos+ nitritos–, hematíes++, proteínas+++.
+• Microbiología de orina: visión directa: moderados leucocitos y abundantes bacilos gramnegativos. Cultivo en curso.
+• Radiografía simple de tórax y abdomen: sin hallazgos patológicos de interés.
+• Ecografía abdominal: ambos riñones de tamaño, morfología y ecoestructura normales, sin alteraciones de la vía urinaria. Hígado, vesícula biliar, bazo y páncreas sin alteraciones. No se aprecia líquido libre ni colecciones intraabdominales.
+
+Diagnóstico
+El paciente ingresa a cargo del Servicio de Urología con diagnóstico de pielonefritis aguda izquierda y con tratamiento antibiótico intravenoso: ceftriaxona 1 g/i.v./24 horas más tobramicina 100 mg/i.v./12 horas. Se solicita analítica de control.
+
+Evolución
+Durante las primeras 48 horas el paciente mantiene una temperatura de 37,5 oC, persistiendo el dolor en la FRI. Presenta orina de aspecto turbio (se manda nueva muestra para cultivo).
+Analíticamente:
+• Hemograma: 12.500 leucocitos (↓) 80% neutrófilos (↓). Hemoglobina 13 g/dl y hematocrito 36% (↓). Plaquetas 180.000/mm3.
+• Bioquímica: creatinina 1,53 mg/dl (↓), urea 51 mg/dl, sodio 137 mEq/l, potasio 5 mEq/l, cloro 106 mEq/l, glucosa 154 mg/dl, GOT 116 UI/l (↑), GPT 110 UI/l (↑).
+• Coagulación: índice de Quick 58% (↓).
+A las 72 horas el paciente sigue manteniendo la temperatura entre 37,5-37,7 oC, refiere mejoría del dolor pero presenta cierta dificultad para el habla y sensación de acorchamiento de la hemicara izquierda, junto con desviación de la comisura bucal, que duró unas 2 horas y cedió espontáneamente. Analíticamente sin cambios destacables. Se solicitó una resonancia magnética craneal (sin hallazgos de interés).
+En las siguientes 24 horas la temperatura permanece por debajo de 37,3 oC y disminuye significativamente la intensidad del dolor. Se observa la desaparición de síntomas neurológicos, sin embargo el paciente refiere disnea y tos no productiva. A la exloración física presenta una tensión arterial de 110/72 mmHg, frecuencia cardíaca 80 lpm, saturación de O2 95%, frecuencia respiratoria 18 rpm, temperatura 37,2 oC. Auscultación cardiopulmonar: ruidos respiratorios presentes en ambos hemitórax, con presencia de crepitantes y roncus difusos en el hemitórax derecho. Exploración abdominal: anodina. Puñopercusión renal bilateral negativa.
+Con la sospecha de neumonía se solicita una radiografía de tórax, en la que se aprecia un patrón intersticial de predominio en el lóbulo superior y medio derechos. Con el resultado de la radiografía de tórax se solicitaron: hemocultivos, antígenos bacterianos en orina (legionela y pneumococo), estudio para micobacterias, serología hepática, estudio de autoinmunidad y hemograma/bioquímica de control. Se retira la ceftriaxona y se inicia imipenem 500 mg/i.v./6 horas más claritromicina 500 mg/i.v./12 horas.
+El paciente empeora de forma rápida de su estado respiratorio, precisando soporte ventilatorio con FiO2 50% para mantener la saturación de 88-90%. Se decide su ingreso en la Unidad de Cuidados Intensivos (UCI). En las primeras horas de ingreso se aprecia mejoría inicial del cuadro respiratorio, sin embargo se producen episodios de hemoptisis que llevan a solicitar una tomografía computarizada (TC) tóraco-abdómino-pélvica urgente.
+TC tóraco-abdómino-pélvica con contraste i.v.: disección de aorta que comienza en la aorta ascendente y que progresa por el cayado, la aorta torácica y abdominal, extendiéndose hasta la arteria ilíaca derecha (disección tipo A). La aorta ascendente presenta un diámetro muy aumentado, extendiéndose la disección por el tronco braquicefálico. Se aprecia una condensación alveolar en el lóbulo superior, medio e inferior derecho, así como derrame pleural derecho compatibles con sangrado a ese nivel. A nivel abdominal se evidencia colapso segmentario de la luz verdadera que respeta la salida de los vasos mesentéricos, el tronco celíaco y la arteria renal derecha. La arteria renal izquierda nace de la falsa luz, apreciándose falta total de perfusión del riñón izquierdo.
+Con el diagnóstico de disección aórtica tipo A se contacta con el Servicio de Cirugía Cardiovascular y el paciente es intervenido, realizándose una sustitución aórtica completa, incluyendo la válvula aórtica. Como complicación inmediata el paciente presenta taponamiento cardíaco que precisa reintervención urgente y drenaje. Tras esta intervención, el paciente experimenta una adecuada evolución clínica, mejorando paulatinamente. Se retiró el tratamiento antibiótico pautado y se mantuvo con levofloxacino 500 mg/i.v./24 horas como profilaxis de endocarditis infecciosa.
+Diagnóstico: disección aórtica tipo a + infarto renal izquierdo + hipoperfusión hepática parcial + accidente isquémico transitorio por disección carotídea + hemorragia alveolar difusa.
+Todos los resultados finales de cultivos/serologías fueron negativos para neumonía/pielonefritis.

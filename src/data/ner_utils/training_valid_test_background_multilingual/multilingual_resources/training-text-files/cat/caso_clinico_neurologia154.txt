@@ -1,0 +1,30 @@
+Anamnesi
+Pacient de 57 anys, amb antecedents de espóndilo-artrosis, fumador de 2 paquets diaris i bevedor de 2 litres de cervesa al dia, que ingressa per un quadre progressiu de 2-3 setmanes d'evolució consistent en cefalea occípito-nucal progressiva, resistent a analgèsia amb AINE, exacerbació nocturna i amb les maniobres de Valsalva, acompanyada de canvis conductuals i fallades cognitives (desorientació i bradipsiquia, emmascarats per hàbit enólico sever) i inestabilitat amb dificultat per a la marxa autònoma.
+
+Examen físic
+Presentava tensió arterial de 197/121 mmHg. Aspecte descurat i caquèctic. Auscultació cardíaca rítmica sense soplos. Auscultació pulmonar amb normoventilación. Exploració neurològica: Glasgow de 4-5-6. Hemianopsia homònima dreta. Paresia facial central dreta. Força normal. Reflex cutani-plantar indiferent. Discreta dismetría dreta. Sensibilitat tàctil normal amb extinció sensitiva dreta. La marxa era inestable, amb severa atàxia que permetia la sedestació.
+
+Proves complementàries
+• Electrocardiograma (ECG): ritme sinusal a 85 lpm.
+• Analítica sanguínia: vitamina B12 178 pg/ml (límit baix), colesterol total 244 mg/dl, LDL 170 UI/l, GGT 260 UI/l, amb resta de la bioquímica normal. Hemograma normal. VSG 37 mm. Marcadors tumorals: GI monitor 76,2, NSE 143,8.
+• Radiografia de tòrax: cardiomegalia global i elongació aòrtica, amb elevació del hemidiafragma dret.
+• Ressonància magnètica (RM) cerebral: múltiples lesions de morfologia quística i grandària variable disseminades per tot el parènquima encefàlic, que brillen intensament en totes les potenciacions pel seu component proteic sense realçar a penes després de la injecció de contrast, la major d'elles a nivell de l'hemisferi cerebel·lós dret. A més, s'observa una massa voluminosa parieto-occipital dreta, amb abundant edema vasogénico, focus de sagnat intratumorals i realç irregular després d'administrar contrast intravenós, que no sembla tenir relació amb les anteriorment descrites. Troballes compatibles amb múltiples metàstasis d'alguna mena de adenocarcinoma coincidents amb tumoració suggestiva de tumor glial d'alt grau.
+Ressonància magnètica cerebral on es mostren múltiples lesions de morfologia quística i grandària variable disseminades per tot el parènquima encefàlic, i una massa voluminosa parieto-occipital dreta, amb edema vasogénico i focus de sagnat intratumorals.
+• Hemocultivos: negatius.
+• Ecografia transtorácica: dins de la normalitat, sense signes d'ecogràfics de endocarditis.
+• Serologies: negatives per a VIH, lúes, Brucella, Borrelia, hepatitis B, hepatitis C, cisticercosis, Toxoplasma i hidatidosis.
+• Tomografia computada (TC) tóraco-abdómino-pelviana: carcinoma broncopulmonar amb massa tumoral lobulada de 66 x 80 x 60 mm en el lòbul inferior del pulmó dret que infiltra el bronqui intermediari i engloba el bronqui del lòbul mitjà i de la piràmide basal, envaint el mediastí posterior amb infiltració de l'aurícula esquerra amb empremta sobre l'artèria pulmonar dreta. Adenopaties subcarínicas i prevasculars, paratraquales superiors i inferiors dretes. Emfisema bilateral i difús amb gatzares paraseptales de predomino en els lòbuls superiors. Fetge amb múltiples lesions hipodensas d'aspecte quístic en tots dos lòbuls hepàtics. Metàstasis suprarenals bilaterals. Espondilosis bilateral de L5 amb discopatía degenerativa L5-S1.
+En la tomografia computada toràcica s'aprecia una massa tumoral lobulada de 66 x 80 x 60 mm en el lòbul inferior del pulmó dret que infiltra el bronqui intermediari i engloba el bronqui del lòbul mitjà i de la piràmide basal, envaint el mediastí posterior amb infiltració de l'aurícula esquerra amb empremta sobre l'artèria pulmonar dreta.
+• Fibrobroncoscopia: diagnòstic macroscòpic de carcinoma broncogénico amb presa de biòpsies.
+• Biòpsia: carcinoma indiferenciat de cèl·lula petita. En l'estudi immunohistoquímic les cèl·lules tumorals expressen Ck AE1/AE3, TTF1 i feblement cromogranina i sinaptofisina.
+
+Diagnòstic
+Inicialment, les múltiples imatges cistiformes disseminades pel parènquima cerebral van plantejar dubtes amb possible patologia infecciosa del SNC, descartada amb la negativitat de les serologies, la negativitat del hemocultivo, la normalitat de l'estudi ecocardiográfico i la permanent absència de febre. Una vegada es va estudiar amb TC l'elevació del diafragma dret i es va realitzar l'anatomia patològica confirmatòria de neoplàsia pulmonar, aquestes lesions es van assumir com a metàstasis encefàliques d'un carcinoma pulmonar grau IV amb metàstasi a múltiples nivells. Donats l'avançat estat de la neoplàsia pulmonar i la situació pal·liativa del pacient es va desestimar la realització d'una biòpsia cerebral. A causa de l'absència d'anatomia patològica de la lesió parieto-occipital dreta, només podem afirmar en relació amb el seu aspecte morfològic en la RM cerebral que era suggestiva de ser una tumoració primària glial d'alt grau. Així doncs, el diagnòstic final va ser de dues lesions neoplàsiques sincròniques:
+• Carcinoma pulmonar indiferenciat de cèl·lula petita estadi IV, amb múltiples metàstasis cerebrals.
+• Lesió cerebral suggestiva de glioma d'alt grau amb símptomes d'hipertensió intracranial.
+
+Tractament
+Es va instaurar tractament amb dexametasona per a disminuir l'edema perilesional i, d'acord amb la decisió presa pel Comitè de Tumors, es va obtenir biòpsia confirmatòria del carcinoma pulmonar per a poder iniciar radioteràpia holocraneal pal·liativa.
+
+Evolució
+Durant la seva estada en planta, els dèficits neurològics del pacient a penes van millorar. Va presentar insomni i quadres d'agitació en repetides ocasions. Després de 2 setmanes es va procedir a l'alta al seu domicili sota observació dels seus familiars i suport de Cures Pal·liatives.

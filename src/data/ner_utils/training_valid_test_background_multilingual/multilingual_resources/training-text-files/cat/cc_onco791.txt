@@ -1,0 +1,28 @@
+Anamnesi
+Es tracta d'un home de 58 anys exfumador des de fa 18 anys amb un índex paquet-any 44. Com a antecedents personals destaquen hipertensió arterial en tractament amb valsartán-hidroclorotiazida i manidipino, diabetis mellitus controlada amb metformina, síndrome d'apnea-hipopnea del somni tractat amb CPAP i hiperuricemia controlada amb alopurinol. Respecte a les intervencions quirúrgiques ressaltem un miofibroblastoma de mama esquerra extirpat en 2016.
+Història oncològica
+Al març de 2018 va ser diagnosticat d'un adenocarcinoma bronquial dret cT4 (massa de 9 cm amb infiltració esofàgica, vascular i possible traqueal) cN3 (adenopatia paraaórtica de 10 mm i paratraqueal esquerra de 20 mm) M0, estadi IIIC segons la 8a classificació TNM del càncer de pulmó després de la realització de proves complementàries (tomografia computada abdominopélvica i cerebral, i fibrobroncoscopia amb presa de biòpsies on es va objectivar un tumor excrecente en la zona més distal de tràquea procedent del bronqui principal dret que envaeix carina i provoca compressió extrínseca en lòbul mig i lòbul inferior dret.
+A nivell molecular, presentava expressió positiva de PD-L1 (100%), EGFR negatiu, ROS-1 negatiu i sense translocació ALK.
+Després de ser comentat el cas en comitè de tumors toràcics es va definir la següent estratègia terapèutica: quimioteràpia amb cisplatí i vinorelbina oral i avaluació posterior amb nou TC i valoració de quimiorradioterapia concomitant a partir del tercer cicle.
+En el dia + 10 del primer cicle, acudeix al Servei d'Urgències per hemoptisi important amb coàguls i deterioració aguda de la funció renal associat a malestar general amb disminució de la ingesta i vòmits decidint-se ingrés en Oncologia amb fluidoterapia i mesures de suport per a l'hemoptisi.
+Donada la gravetat de l'hemoptisi, es planteja iniciar tractament amb radioteràpia hemostàtica. El dia posterior al seu inici, va presentar una deterioració brusca de l'estat general amb insuficiència respiratòria aguda (oxigenoteràpia amb màscara amb reservorio al 100% amb saturacions d'O2 que oscil·laven entre 70 i el 85%).
+
+Exploració física
+Durant l'exploració física destaca un PS 3 i hipofonesis marcada en 2/3 hemitórax dret.
+El pacient es troba disneico en repòs amb saturacions entorn del 70-85% amb màscara amb reservorio al 100%. Manté adequat control de la tensió arterial.
+
+Proves complementàries
+Després del quadre de dispnea brusca se sol·licita gasometria arterial on s'objectiva una hipoxèmia amb pressió parcial d'oxigeno de 58,2 mm Hg. Davant la sospita de vessament pleural dret se sol·licita ecografia transtorácica i radiografia de tòrax on s'observa una massa hiliar dreta de gran grandària que obstrueix el bronqui principal dret amb afectació de la carina i neumonitis obstructiva amb gran component de atelectasia.
+En analítica sanguínia s'aprecia un descens del filtrat glomerular 26 (previ de 67) amb elevació de xifres de creatinina 2,55 mg/dl (prèvies 0,9 mg/dl).
+
+Diagnòstic
+Insuficiència respiratòria parcial secundària a atelectasia per invasió tumoral del bronqui principal dret i insuficiència renal aguda en relació a nefrotoxicidad per cisplatí, amb component fonamentalment prerenal per disminució de la ingesta i vòmits.
+
+Tractament
+En un primer moment, es va començar amb ventilació mecànica no invasiva amb FIO2 100% IPAP 26, EPAP 11, FR 18 rpm aconseguint-se saturacions d'oxigen entorn del 90%. Posteriorment, a causa de mala tolerància de VMNI per vòmits, es col·loca màscara amb reservorio al 100%. Es van afegir glucocorticoides davant la sospita d'un cert grau de component inflamatori.
+Es va valorar la possibilitat de realitzar una broncoscòpia de cara a valorar si existien opcions de teràpia local de l'obstrucció, però finalment aquesta opció va ser desestimada pels serveis corresponents.
+
+Evolució
+Trobant-se el pacient amb una situació respiratòria clarament afectada, va efectuar una expectoració hemoptoica acompanyada d'un material tumoral sòlid de 5 cm. De forma pràcticament immediata, es va produir una millora respiratòria, deixant de precisar la màscara amb reservorio al 100%, i mantenint saturacions d'oxigeno del 92-93 amb ulleres nasals d'oxigen a 2 lpm. Es realitza nova de radiografia de tòrax on s'evidencia una clara millora de la neumonitis obstructiva i de la atelectasia.
+Aquesta millora iniciada va continuar els següents dies de l'ingrés, permetent ser alta hospitalària després de set dies d'ingrés. A l'alta, el pacient es trobava eupneico sense precisar de més oxigenoteràpia i havent-se corregit la funció renal després de la hidratació intravenosa. Es va continuar la radioteràpia hemostàtica donada la persistència d'hemoptisi, encara que en molta menor quantia.
+Va acudir en la data prevista a hospital de dia i es va administrar el segon cicle amb reducció de dosi al 80%, donada la toxicitat experimentada.

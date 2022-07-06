@@ -1,0 +1,25 @@
+Mulher de 48 anos com história pessoal de estenose aórtica moderada devido à válvula bicúspide calcificada, hipertensão tratada com beta-bloqueadores, ex-fumadores, dislipidemia, enxaqueca, hérnia de hiato e alergia aos beta-lactâmicos.
+
+O paciente foi admitido no Departamento de Cirurgia Cardíaca numa base programada para substituição da válvula aórtica e implante de uma prótese aórtica St. Jude No 21. O procedimento cirúrgico foi rápido, com tempos de circulação extracorpórea e pinçamento aórtico de 70 e 60 minutos, respectivamente, e sem complicações intra-operatórias. Nas primeiras 24 horas de pós-operatório, o paciente apresentou hipotensão devido a disfunção biventricular moderada e insuficiência renal aguda que foi controlada com drogas vasoativas na Unidade de Cuidados Intensivos (UCI). No dia pós-operatório +7 começou com febre até 38o C e tremores sem outros sintomas; foi-lhe prescrita Daptomicina empírica 10 mg/kg/d. Hemocultura isolada de coagulase negativa de Staphylococcus coagulase (SCN) num frasco de dois; cultura de urina negativa; e ecografia transtorácica normal (TTE) 72 horas após o início da febre; os cirurgiões fizeram uma consulta ao Serviço de Doenças Infecciosas. No momento da avaliação, o paciente estava afebril e assintomático. A anamnese incluiu o fenómeno de anos de evolução de Raynaud, acidente vascular cerebral na sua juventude, aborto espontâneo no primeiro trimestre e um parente de primeiro grau que tinha morrido de acidente vascular cerebral isquémico. O exame físico mostrou uma intensa livedo reticularis dos membros inferiores; e na análise apenas CRP de 12,3 mg/dL. Nessa altura (dia de pós-operatório + 12) foi adicionada Fosfomicina 24 gramas por dia em 3 doses e Ibuprofeno 600 mg a cada 12 horas por via oral.
+
+Diagnóstico diferencial
+O diagnóstico diferencial no caso do nosso paciente seria o de uma febre pós-operatória na primeira semana de pós-operatório.
+
+Causas infecciosas
+- Infecção do tracto urinário associada a um cateter urinário.
+- Infecção de ferida cirúrgica
+- Associado ao acesso vascular (periférico ou central)
+- Associado a material protético Causas não infecciosas
+- Problemas trombóticos: tromboembolismo pulmonar, tromboflebite.
+- Reacção transfusional
+- Síndrome pós-pericardiectomia.
+- Drogas suspeitas (inibidores dos receptores de serotonina, heparina de baixo peso molecular, AINEs, diuréticos, beta-lactams, fluoroquinolonas, vancomicina).
+- Desordens endócrinas como o hipertiroidismo ou a crise adisoniana.
+
+
+Evolução clínica
+A ETE foi realizada no dia + 13 de administração de antibióticos, que mostrou bom funcionamento da válvula protética, sem sinais de vegetação. Os HC no dia + 16 foram negativos. No dia + 20 apresentou um novo pico de febre de 37"8 oC e flebite de um tracto periférico, isolando novamente o SCN em culturas de sangue. Por esta razão, o ETE foi repetido no dia pós-operatório + 23 onde se observou uma massa vibratória de aspecto filamentoso dependendo da parede aórtica de cerca de 7 mm de diâmetro sobre uma área aneurismática de 2,4 cm a 3,6 cm na aorta ascendente, compatível com endarterite. A angiografia TAC torácica no dia pós-operatório + 24 (+ 12 dias de terapia antimicrobiana) descartou complicações na aorta ascendente e detectou alterações pós-operatórias pós-esternotomia e atelectasia laminar bibasal com condensação bilateral mínima. A cultura de sangue de controlo no dia + 25 foi negativa. Foi decidido manter o tratamento antibiótico até 6 semanas, dado o diagnóstico de uma possível endarterite infecciosa. Foi realizado um estudo especial de coagulação, encontrando Heterozigose para o Factor XII (posição 46), Lúpus Anticoagulante positivo, IgM negativo - IgG Beta2 Glycoprotein. Depois disto, a terapia anticoagulante dicumarina foi iniciada com um INR alvo de 2,5 - 3,5.
+O doente permaneceu afebril e sem mais incidentes; a ETE na alta não encontrou novas descobertas.
+
+Diagnóstico final
+Síndrome febril pós-cirurgia cardíaca, massa intra-aórtica na qual a endarterite SCN ou trombo intra-arterial não pode ser excluída no contexto da síndrome antifosfolipídica primária à espera de confirmação 2 ou marcadores imunológicos aos 6 meses.

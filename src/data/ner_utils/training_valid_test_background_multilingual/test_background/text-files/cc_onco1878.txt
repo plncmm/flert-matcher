@@ -1,0 +1,32 @@
+Anamnesis
+Paciente varón de 74 años con los siguientes antecedentes personales:
+• Hipertensión arterial.
+• Cardiopatía isquémica. Insuficiencia cardiaca. Fibrilación auricular.
+• Ictus isquémico en noviembre de 2007 con hemiparesia derecha y disartria como secuelas.
+• Enfermedad pulmonar obstructiva crónica (EPOC) moderada.
+• Sarcoma de Kaposi en los miembros inferiores. Extirpado por primera vez en 2004. Estaa en seguimiento por el Servicio de Dermatología, con varias recaídas a nivel cutáneo.
+• Pólipo colónico extirpado en marzo de 2009, con histología benigna.
+• Anemia crónica. Ingreso en marzo de 2008 por astenia y anemia (hemoglobina 8,7 g/dl, sideremia 7 mg/dl). Endoscopia oral: gastritis crónica superficial.
+• Tumoración quística pancreática conocida desde el año 2001. Varios estudios de imagen y punciones-aspiraciones con aguja fina (PAAF) posteriores también negativas.
+• Ingreso en junio de 2007 (otro centro) por una neoformación sólido-quística pancreática (11 cm, 10 cm en 2005).
+En dicho ingreso se le practica una punción evacuación directa mediante control ecográfico, evacuándose 300 cc de líquido serohemático. Citología de la pared y centrifugado de líquido: negativos para malignidad. CA 19.9 normal.
+El paciente se encontraba asintomático. En marzo del año 2009 ingresa por hemorragia digestiva alta. En la endoscopia se observa una masa de aspecto submucoso en el cuerpo gástrico de 3 cm, redondeada, con mucosa de aspecto normal y ulceración central recubierta de coágulo. Se establece como diagnóstico principal: leiomioma gástrico. Se realizó asimismo una ecoendoscopia que visualizó una gran masa quística de 12 cm de diámetro, de paredes engrosadas, compatible con pseudoquiste pancreático o tumor quístico del páncreas con impronta en la cara posterior y curvatura mayor del estómago. No se realizó punción por flujo venoso en doppler. En la ecografía abdominal, entre el estómago y el páncreas, se ojetivó una gran lesión sólida con zona central de necrosis, con pared engrosada, de etiología inespecífica de 11,1 cm. Se dio el alta al paciente tras resolución del cuadro clínico, y está pendiente de la realización de una angio- RM.
+El paciente acude al Servicio de Urgencias en abril de 2009 por deposiciones melénicas con sangre roja, motivo por el cual ingresa para su estudio.
+
+Exploración física
+Aceptable estado general, consciente, orientado y colaborador. Palidez mucocutánea, ictericia de piel y mucosas. Exploración cardiorrespiratoria: sin hallazgos. Abdomen: blando, depresible, masa en el hipocondrio izquierdo. Miembros inferiores: lesiones violáceas en ambas extremidades inferiores.
+
+Pruebas complementarias
+• Hemograma: hemoglobina 8,9 g/dl, volumen corpuscular medio y hemoglobina corpuscular media normales.
+• Bioquímica: bilirrubina total 2,63 mg/dl, bilirrubina directa 2 mg/dl, albúmina 3,2 g/dl.
+• Marcadores tumorales: CA 125, CA 19.9 y antígeno prostático especifico (PSA) normales.
+• Radiografía de tórax: cardiomegalia. Aumento de los hilios de origen vascular. Derrame pleural derecho.
+• Tomografía computarizada (TC) de tórax y abdomen: tumoración de gran tamaño descrita en informes desde 2003 (crecimiento muy lento), de posible origen pancreático.
+• Angio-RM de abdomen: tumor gástrico de crecimiento exofítico, heterogéneo, con componente quístico probablemente en relación con zonas de necrosis.
+
+Tratamiento y evolución
+La evolución del último ingreso fue tórpida, presentando trombosis venosa profunda del miembro inferior izquierdo, que precisó implantación de filtro en la vena cava inferior infrarrenal. El 22/5/09 se interviene, encontrándose ascitis y un tumor gástrico gigante que desplaza el estómago en la curvatura menor. Se realiza gastrectomía subtotal y anastomosis gastroyeyunal en Y de Roux y yeyuno-yeyunostomía en pie de asa. En planta, la evolución del paciente es desfavorable desde el sexto día. Está estuporoso, hipotenso y disneico. Presenta anemia y trombopenia a pesar de las transfusiones. Se objetiva asimismo alargamiento de los tiempos de coagulación. En la TC de abdomen realizada el 3/6/09 se observa un hematoma esplénico y discreta cantidad de líquido libre; gas en la pared abdominal y neumoperitoneo. El día 4/6/09 es trasladado a la Unidad de Cuidados Intensivos (UCI), donde se instaura intubación y ventilación mecánica. Presenta anuria, anasarca, salida de líquido ascítico hemorrágico por la herida de la laparotomía. Se objetiva una bilirrubina de 11 mg/dl, anemia, plaquetopenia y alargamiento de los tiempos de coagulación. Hemocultivos: flora polimicrobiana. El paciente fallece el 5/6/09. Se le realiza la necropsia, con diagnóstico final anatomopatológico:
+• Sarcoma del estroma gastrointestinal (GIST) de riesgo intermedio: peritonitis secundaria a dehiscencia de la sutura gastro-yeyunal.
+• Discrasia de células plasmáticas.
+• Sarcoma de Kaposi "clásico" diseminado (¿inmunosupresión?): afectación cutánea y pulmonar.
+• Otros hallazgos: arteriosclerosis severa de aorta y grandes vasos (arteriosclerois aórtica, infarto antiguo de VI [cara posterior-tabique], infarto agudo esplénico). Cirrosis hepática de predominio micronodular (¿enólica?) Nefroangioesclerosis benigna. Hiperplasia nodular de próstata. Causa de muerte: fallo multiorgánico secundario a shock séptico por peritonitis aguda.

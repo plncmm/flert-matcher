@@ -1,0 +1,21 @@
+Historia clínica e enfermidade actual
+Varón de 51 anos de idade. Factores de risco cardiovascular: tabaquismo antigo, hipertensión arterial desde 1998, diabetes mellitus tipo 2 en tratamento con antidiabéticos orais. Linfoma anaplásico de células T en 2007 tratado con quimioterapia, radioterapia e autotransplante acondicionado con BEAM, actualmente en remisión completa. Síndrome mielodisplásico tipo citopenia refractaria con displasia multilineal e cariotipo complexo tratada con azacitidina como ponte a trasplante de medula ósea. Púrpura trombopénica idiopática. Sen alergias coñecidas. Chequeo cardiológico en 2006 con ECG, ecocardiograma e proba de esforzo normais. Habitualmente refire atoparse asintomático cardiovascular.
+Paciente que acode ao Servizo de Urxencias por presentar desde facía 3 días febre de ata 38,3 oC, astenia, malestar xeral e dores xeneralizadas. Así mesmo, o día da consulta comezara con dor retroesternal opresivo, de intensidade crecente, irradiado a costas, ombreiros e mandíbula, que aumentaba en intensidade coa inspiración profunda e o decúbito supino, con malestar e disnea acompañantes e cifras de PA de 70/40 mmHg.
+A exploración física era normal, salvo hipoventilación en ambas bases pulmonares.
+
+Probas complementarias
+• ECG: onde se objetivó taquicardia sinusal con discreto supradesnivel do ST de localización difusa algo maior que o que xa tiña previamente e alteracións inespecíficas da repolarización.
+• Analítica: mostrou aumento de parámetros infeccioso-inflamatorios (PCR 32; Procalcitonina 10); anemia macrocítica, plaquetopenia e leucopenia. Lixeiro aumento dos marcadores de dano miocárdico: CPK 210; CPK MB 19 e troponina T 0,62. Insuficiencia renal aguda (Cr 2,1) con diuresis conservada (GFRe de 36 mL/min). O equilibrio acedo base e o resto da analítica foron normais.
+• Ecocardiograma-Doppler urxente: descartándose alteracións da contractilidad global e segmentaria, derrame pericárdico e patología aguda.
+• TC de tórax: descartándose a existencia de patología aórtica aguda, tromboembolismo pulmonar ou proceso infeccioso significativo.
+
+
+Evolución clínica
+Durante o seu ingreso administráronse antibióticos de amplo espectro e antifúngicos de xeito empírico, sen illamento microbiológico nos hemocultivos, urocultivos e cultivos de esputo. As serologías víricas tamén foron negativas. Realizouse monitorización de marcadores de dano miocárdico objetivándose troponina T máxima de 1,59, CPK de 279 e CPK de 43 aos catro días do ingreso, con descenso progresivo e normalización ao alta. Determinouse proBNP que alcanzou un máximo de 8319 pg/mL aos 5 días do ingreso.
+Ante a ausencia de foco infeccioso realizóuselle ecocardiograma transesofágico aos 5 días objetivándose función ventricular esquerda limítrofe (FEVI: 0,45-0,50), sen imaxes suxestivas de endocarditis nin outros achados significativos. Iniciouse tratamento con corticoides, betabloqueantes, IECA e diuréticos con mejoría clínica e analítica, persistindo a función sistólica limítrofe no ecocardiograma á súa alta. Visto en revisión en consulta dez días despois refería atoparse asintomático cardiovascular. Realizóuselle un electrocardiograma de control onde persistían as alteracións antes descritas, un ecocardiograma no que se objetivó ventrículo esquerdo dilatado con función sistólica limítrofe, sen derrame pericárdico nin alteracións da contractilidad e unha analítica onde persistía lixeira trombopenia e leucopenia, con parámetros infeccioso-inflamatorios normais.
+Ao día seguinte, realizóuselle unha RM de corazón con estrés con adenosina objetivándose signos compatibles con miopericarditis aguda e función sistólica limítrofe, non inducíndose isquemia miocárdica. Mantense o mesmo tratamento e cítase en revisión en consulta ao mes.  
+
+Diagnóstico
+• Shock séptico con foco non filiado
+• Miopericarditis aguda
+• Síndrome mielodisplásico tipo citopenia refractaria

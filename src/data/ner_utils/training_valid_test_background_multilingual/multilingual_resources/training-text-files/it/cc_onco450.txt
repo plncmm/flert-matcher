@@ -1,0 +1,35 @@
+Anamnesi
+Donna di 68 anni, ex-fumatrice da più di 30 anni. Nel 2007 è stata sottoposta a un intervento chirurgico conservativo per un carcinoma duttale infiltrante del seno destro in stadio IA (pT1cN0), triplo negativo. Ha ricevuto una chemioterapia adiuvante (6 cicli di CMF) e una radioterapia.
+Nel settembre 2018, è stata indirizzata a Medicina Interna dopo l'autopalpazione di un nodulo nella regione sopraclavicolare destra. L'ecografia del seno e la mammografia hanno mostrato una linfoadenopatia ascellare destra e gli esami del sangue hanno mostrato un CA 15.3 elevato. Dopo che una biopsia ascellare ha confermato il carcinoma, è stata eseguita una TAC, che ha mostrato solo una linfoadenopatia ascellare destra e una scintigrafia ossea (GGO), che ha descritto solo un'ipercaptazione nell'articolazione sacroiliaca sinistra, che non era chiaramente patologica.
+Nel gennaio 2019, è stata eseguita una linfoadenectomia ascellare destra, il cui risultato era una metastasi di carcinoma di alto grado con sovrapposizione capsulare in sei linfonodi (6/9). L'immunoistochimica ha mostrato un'intensa positività per il recettore degli estrogeni e del progesterone (80% e 50% rispettivamente), un indice proliferativo Ki 67 del 50-55% e HER-2 negativo.
+Prima di essere valutata presso la clinica oncologica, è stata ricoverata nel febbraio 2019 per cefalea olocranica, ptosi palpebrale e diplopia, nonché polidipsia, nicturia e poliuria della durata di una settimana.
+
+Esame fisico
+Buone condizioni generali. Nell'esame neurologico, sono stati osservati ptosi palpebrale, midriasi, deviazione oculare esterna e abolizione del riflesso fotomotore nell'occhio sinistro; il resto, nessun risultato.
+
+Test complementari
+La risonanza magnetica cerebrale ha mostrato una massa ipofisaria di 10 x 13 x 12 mm, che si è espansa e ha occupato leggermente la sella turcica con crescita craniale e ispessimento del peduncolo ipofisario, senza interessare il chiasma ottico, con moderato miglioramento omogeneo dopo contrasto.
+Studio ormonale: iperprolattinemia, ipotiroidismo, ipercortisolismo e deficit di ormone antidiuretico.
+Fu richiesta una nuova TAC, che rivelò una lesione sclerotica sul bordo iliaco dell'articolazione sacroiliaca sinistra, seguita da una risonanza magnetica pelvica per studiare la lesione, che fu definita come una sospetta metastasi sclerotica.
+Data la discrepanza tra il fenotipo del carcinoma operato nel 2007 e il fenotipo delle linfoadenopatie ascellari, è stata richiesta una risonanza magnetica al seno alla ricerca di un tumore metacrono, escludendo una seconda neoplasia.
+
+Diagnosi
+Da un lato, la diagnosi di un tumore al seno occulto luminoso (TxN2M1) o di una recidiva di triplo negativo con un fenotipo diverso da quello presentato nel 2007 con dubbi su una singola metastasi ossea.
+D'altra parte, ha presentato un ipopituitarismo secondario a una lesione del selar, che solleva la diagnosi differenziale di metastasi del carcinoma della mammella, infundibuloipofisite o macroadenoma ipofisario che provoca il diabete insipido, iperprolattinemia lieve e paralisi del terzo nervo cranico.
+In vista di un possibile trattamento locale della lesione cerebrale e di uno studio di conferma della lesione ossea (in quanto si tratterebbe di un unico focus metastatico), si è deciso di richiedere una PET. Questo ha rilevato un discreto uptake nell'ipofisi e una lesione dell'osso sacroiliaco sinistro con un basso tasso di proliferazione cellulare. Non era quindi utile per chiarire la natura delle lesioni.
+
+Trattamento
+Si decise di consultare la neurochirurgia e, infine, di evitare il trattamento locale della lesione ipofisaria, date le complicazioni che avrebbe comportato, e si iniziò un trattamento sistemico di due patologie:
+"Data l'evoluzione radiologica della lesione ossea e l'aumento dei marcatori tumorali, inizia il trattamento a marzo 2019 per il carcinoma avanzato con letrozolo 2,5 mg/24 h e ribociclib 600 mg/24 h per 21/28 giorni.
+"Data l'insufficienza ipofisaria, ha iniziato un trattamento con desametasone 4 mg/8 h, levotiroxina 25 mg/24 h e desmopressina 120 mcg/12 h sublinguale, come indicato da Endocrinologia.
+
+Evoluzione
+Dopo il primo ciclo di trattamento, il paziente è stato ricoverato per un episodio di mucosite G3 e mughetto orale. Ha presentato un'evoluzione lenta e torpida delle lesioni orofaringee, con ulcere aftose che richiedevano un trattamento antifungino locale e sistemico (fluconazolo 200 mg per via endovenosa). L'endoscopia orale ha escluso complicazioni.
+Ha presentato una tossicità ematologica: anemia G3 con necessità di trasfusione, neutropenia G3 e trombopenia G2. I parametri di funzionalità epatica erano normali.
+Inoltre, il paziente ha subito una broncopolmonite pneumococcica bilaterale con broncoscopia senza isolamento di altri patogeni, corroborata anche da sierologia e citologia normali.
+Contemporaneamente, ha sviluppato una polmonite sul terzo dito della mano sinistra con isolamento di Streptococcus pyogenes sensibile alla penicillina, con buona risposta al ceftriaxone endovena, aggiungendo anche sulfametossazolo-trimetoprim profilattico a causa dell'uso di corticosteroidi.
+Successivamente, si è presentata con gonfiore, arrossamento ed edema nell'arto inferiore destro, suggestivo di cellulite. L'ecografia Doppler venosa ha escluso la trombosi. Il paziente è migliorato clinicamente dopo un ciclo di terapia antibiotica endovenosa con amoxicillina-acido clavulanico.
+Prima della dimissione, è stata eseguita una nuova GGO che ha continuato a mostrare un focus di ipercaptazione nell'articolazione sacroiliaca sinistra che era aumentato in dimensioni e intensità rispetto alla scansione precedente, suggestivo di metastasi ossee.
+Dopo la dimissione dall'ospedale, è stato deciso di interrompere ribociclib a causa degli eventi avversi sperimentati e di mantenere letrozolo.
+Tre mesi dopo il trattamento, la risonanza magnetica del cervello ha mostrato l'adenoipofisi e la neuroipofisi di dimensioni e morfologia normali, senza evidenza di compressione o spostamento del peduncolo ipofisario, con un normale miglioramento dopo il contrasto.
+Clinicamente, è asintomatica (senza deficit neurologico o sintomi endocrini) e con livelli di CEA 15.3 in diminuzione (100 U/ml all'inizio e 40 U/ml attualmente).

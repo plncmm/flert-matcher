@@ -1,0 +1,34 @@
+ANTECEDENTS, MALALTIA ACTUAL I EXPLORACIÓ FÍSICA
+Objectiu: la interpretació del ECG i el context clínic és clau per al diagnostico i posterior tractament.
+Dona de 31 anys primigesta de 33 setmanes que és traslladada al servei de Cardiologia de l'Hospital Central d'Astúries per mareig, palpitacions i alteracions electrocardiográficas.
+AP: Al·lèrgia a diclofenaco i naproxén. Treballa en un supermercat.
+Factors de risc cardiovascular
+No hàbits tòxics.
+No HTA, dislipèmia mixta (actualment donada d'alta per endocrí, va realitzar tractament amb simvastatina i fenofibrato no realitza seguiment).
+Diabetis gestacional a tractament amb insulina Lispro 25/75: 12 unitats al matí, 10 unitats a la nit.
+Sense història cardiològica prèvia.
+Esteatosis hepàtica. Hèrnia discal.
+Intervinguda de reducció mamària.
+
+Malaltia actual
+La pacient acudeix al seu hospital de referència per clínica de mareig de 24 hores d'evolució en relació amb bipedestació. La clínica millora amb el decúbit. No dolor toràcic, ni dispnea. Episodis de palpitacions ocasionals. Refereix quadre catarral dies previs. Allí es realitza ECG que es descriu com a taquicàrdia de QRS ample a 180 lpm. Es realitzen maniobres vagals que resulten inefectives i es pautan 6 i 12 mg d'adenosina sense resposta pel que es deriva al nostre centre. No disposem de ECG basals de la pacient. A l'arribada al nostre centre la pacient es troba asimptomàtica i hemodinámicamente estable.
+
+Exploració física
+TA: 110/75 mmHg.
+FC: 188 lpm.
+Sat O2: 98% sense oxigenoteràpia. Conscient, orientada, col·laboradora. Normohidratada i normocoloreada.
+AP: murmuri vesicular conservat sense altres sorolls sobreañadidos.
+AC: sorolls cardíacs rítmics amb SS mitral III/IV amb S2 normal.
+Abdomen: gestant de 33 setmanes. Cicatriu en mames.
+MMII: no edemes, ni signes de TVP.
+
+
+PROVES COMPLEMENTÀRIES
+Hemograma: Hb 12,5g/dl, VCM 82,6 fL, leucocitos12500 uL (fórmula normal), plaquetes 239000 uL. Bioquímica: glucosa 125mg/dl, urea 17 mg/dl, creatinina 0,61 mg/dl, sodi 135 mg/dl, CK 56 O/L, troponina T 33 ng/L. Coagulació: TP 87%, INR 1,09, fibrinogen 686, D-dímer 1187 ng/ml. ECG Ecocardiografía transtorácica: estudi realitzat a 160 lpm. VI no dilatat, no hipertròfic, hipercontráctil, sense alteracions de la contractilitat regional. FEVI conservada, no dilatació de cavitats dretes. Insuficiència mitral moderada.
+
+EVOLUCIÓ
+Es decideix ingrés en unitat de Cures Cardiològiques Avançades per a monitoratge i tractament. Es repeteixen maniobres vagals i adenosina 6 i 12 mg ambdues sense èxit. Es pautan 4 mg d'atenolol iv sense resposta pel que es decideix cardioversión elèctrica (CVE). Es comenta el cas amb els serveis de Ginecologia i Anestesiologia i es realitzen dues CVE (100 i 200J) sota sedació materna amb propofol i monitoratge fetal que resulten fallides. No es constata en cap moment sofriment fetal. La pacient es manté en tot moment asimptomàtica i hemodinámicamente estable. En el monitoratge persisteix taquicàrdia de QRS ample (igual morfologia que el del ECG d'arribada) a freqüències similars (170-190 lpm). Davant la persistència de l'arrítmia es decideix iniciar tractament amb perfusió de betabloqueantes (labetalol a 20 ml/h) i una butllofa de 0,5 mg de digoxina intravenosa. Es redueix inicialment la freqüència de la taquicàrdia, entorn de 150 lpm, amb presència progressivament més freqüent de batecs sinusales intercalant-se en l'arrítmia, posteriorment trigeminismo (visualització en enregistrament de telemetria). A les poques hores es constata ritme sinusal persistint extrasistolia ventricular aïllada. A les 12 hores d'inici de la perfusió després de diverses hores en ritme sinusal estable se suspèn la perfusió de betabloqueantes sent el ECG de la pacient el que es mostra en la figura 2. La pacient refereix únicament clínica de reflux gastroesofágico per al que es pauta ranitindina oral si precisa. Després de 8 hores més de monitoratge amb persistència de rimo sinusal es decideix el seu trasllat a la planta de Cardiologia i es repeteix el ETT.
+La pacient roman hospitalitzada durant 48 hores més i després de constatar-se que no hi ha complicacions ginecològiques i que roman asimptomàtica amb registre de ECG en ritme sinusal sense alteracions es decideix alta amb tractament profilàctic amb metropolol pendent de consulta ambulatòria amb la secció d'Arrítmies del nostre centre. Valorada per Ginecologia no s'objectiva cap mena de complicació en relació amb la gestació pel que es decideix seguiment ambulatori com tingués previst.
+
+DIAGNÒSTIC
+Ha de resoldre-ho el concursant mitjançant la interpretació del ECG.

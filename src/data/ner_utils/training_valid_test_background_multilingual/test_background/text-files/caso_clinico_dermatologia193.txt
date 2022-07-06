@@ -1,0 +1,26 @@
+Anamnesis
+Una mujer de 72 años acudió a consultas de dermatología por una lesión de seis días de evolución en codo izquierdo, asociaba febrícula en días previos a la consulta, por lo demás sin otra sintomatología. Como antecedente destacaba haber sufrido un traumatismo en dicha zona con una planta dos semanas antes, aunque éste antecedente no lo comunicó hasta varios días después del primer contacto con nuestro servicio. La paciente no presentaba antecedentes familiares de interés y padecía diabetes mellitus tipo II en tratamiento con antidiabéticos orales, hipotiroidismo en tratamiento sustitutivo con levotiroxina y cáncer de mama en remisión desde 2009. No destacaba hábitos tóxicos, cambios recientes en su medicación habitual ni contacto con campo y/o animales.
+
+Exploración física
+En el codo izquierdo se evidenció una placa de aproximadamente 2x2,5 cm eritematosa y violácea, circular, con superficie pseudovesiculosa y pústulosa que posteriormente se ulceró mostrando un exudado hemorrágico-purulento y un halo eritematoso perilesional. Además presentaba adenopatías móviles de aproximadamente 1 cm de tamaño y dolorosas a nivel axilar y medialmente a la fosa antecubital.
+
+Exploraciones complementarias
+Se realizaron las siguientes pruebas complementarias:
+1. Iconografía. Fotografiado de la lesión cutánea primaria y de las adenopatías en tránsito previa firma de consentimiento informado por parte de la paciente.
+2. Biopsia. Previa firma de consentimiento informado y anestesia local con mepivacaína al 2%, se tomaron muestras con un punch de 4 mm de la periferia de la lesión y del centro. Estas muestras se enviaron a anatomía patológica y a microbiología respectivamente. Anatomía patológica: en la biopsia se evidenció una epidermis sin alteraciones y en hipodermis un infiltrado histiocitario (constatado con la tinción CD68), microabcesos y necrosis. No se puso de manifiesto la presencia de infección fúngica en la tinción con plata. Microbiología: se cultivó en medio de Agar Sabouraud dextrosa, entre otros, y se obtuvieron colonias anaranjadas que desprendían un olor a tierra húmeda que se cómo Nocardia Brasiliensis. Se realizó un antibiograma que mostró sensibilidad a: trimetoprim sulfametoxazol, linezolid, cefotaxima, amoxicilina/clavulánico y tigeciclina; y resistencia a: amikacina, ciprofloxacino, levofloxacino, imipenem.
+Cultivo y Gram. Se obtuvieron muestras con un hisopo para cultivo y tinción de Gram. En el cultivo y gram del exudado mostraron flora de contaminación externa.
+3. Analítica
+• Hemograma: hemoglobina: 10,6 g/dl, leucocitos: 5550 con fórmula normal, plaquetas 291000, V.S.G: 26 mm/hora.
+• Bioquímica: perfiles hepático y renal normales con niveles de proteína C reactiva de 28,5 mg/L.
+• Proteinograma: Trazado compatible con síndrome inflamatorio moderado e hipogammaglobulinemia moderada
+• Coagulación normal.
+4. Serología para rickettsias y borrelia fueron negativas.
+
+Diagnóstico
+Linfangitis nodular por nocardia brasiliensis.
+
+Tratamiento
+Inicialmente se estableció un juicio clínico de posible picadura de artrópodo por lo que se realizó un tratamiento empírico con cefotaxima 1g/8 h IV, metronidazol 500 mg/8 h IV y ciprofloxacino 250mg/12 h VO, además de curas locales con ácido fusídico y betametasona. Tras el diagnóstico microbiológico se instauró el tratamiento de elección con trimetoprim sulfametoxazol 169mg/800mg cada 12 horas durante tres meses.
+
+Evolución
+La evolución de nuestra paciente fue favorable, cicatrizando la lesión primaria por completo a las tres semanas de instauración del tratamiento de elección y desapareciendo las adenopatías en tránsito al mes. No se evidenció la presencia de citopenias a lo largo de todo el tratamiento y actualmente la paciente se encuentra asintomática.

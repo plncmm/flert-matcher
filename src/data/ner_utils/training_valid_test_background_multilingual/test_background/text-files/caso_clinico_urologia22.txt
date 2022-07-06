@@ -1,0 +1,20 @@
+Anamnesis
+Varón de 65 años de edad, sin alergias medicamentosas, que acude al Servicio de Urgencias por dolor abdominal difuso y descompensación diabética. Refiere disuria y polaquiuria. No ha padecido náuseas ni vómitos y se encuentra afebril.
+Como antecedentes personales presenta diabetes mellitus tipo 2, con mal control de glucemias y neuropatía periférica y desmielinizante crónica de extremidades inferiores, esofagitis grado IV, cardiopatía isquémica silente y enfermedad coronaria de dos vasos revascularizada con stent y en tratamiento con clopidogrel y ácido acetilsalicílico 100 mg.
+
+Examen físico
+Tensión arterial 108/67 mmHg. Afebril. Regular estado general. Dolor abdominal difuso sin signos de irritación peritoneal. Puñopercusión renal derecha positiva. Glucemia capilar > 500 mg/dl.
+Pruebas complementarias
+• Analítica: hemoglobina 9,1 g/dl; hematocrito 27%; leucocitos 13.790; PMN 87%; creatinina 3,06 mg/dl; sodio 133 UI/l; potasio 5,5 UI/l; PCR 132 mg/dl; lactato 24 UI/l; hemoglobina glicosilada 14,4 g/dl. Coagulación normal.
+• Radiografía de abdomen: no se visualizan imágenes sugestivas de litiasis.
+• Ecografía de abdomen: ureterohidronefrosis derecha moderada con cálices de aproximadamente 1 cm. Se aprecia contenido ecogénico calicial y múltiples cálculos en el trayecto ureteral. Litiasis no obstructiva en el polo inferior del riñón izquierdo. Vejiga vacía con múltiples hiperecogenicidades que podrían corresponder a múltiples cálculos o aire en su interior.
+• Tomografía computarizada (TC) de abdomen: ureterohidronefrosis derecha. Se visualizan múltiples litiasis en un trayecto de unos 3 o 4 cm a la altura de L4-L5. A nivel de dicho segmento ureteral derecho se aprecian burbujas aéreas, al igual que en el polo superior del riñón derecho, sin afectar al parénquima. Litiasis no obstructivas en el cáliz medio e inferior del riñón izquierdo. Múltiples burbujas aéreas intraluminales en la vejiga.
+
+Diagnóstico
+Cistitis y ureteropielitis enfisematosa derecha.
+
+Tratamiento
+Ante el riesgo que supone una nefrostomía percutánea en un paciente en tratamiento con clopidogrel, se decide la colocación, previa transfusión de dos pool de plaquetas, de un catéter ureteral doble J derecho de 7 Ch x 28 cm con ayuda de guía Sensor. Se recoge orina piúrica para urocultivo. Se instaura antibioterapia empírica intravenosa con ciprofloxacino 400 mg cada 12 horas y ceftazidima 1 g cada 8 horas.
+
+Evolución
+La evolución tras la derivación urinaria y la antibioterapia es satisfactoria, desapareciendo la leucocitosis y alcanzando cifras de creatinina de 1,9 mg/dl. El resultado del urocultivo fue positivo para Escherichia coli sensible a ciprofloxacino, y Candida sensible a todos los antifúngicos. Tras un ciclo antibiótico y antifúngico se decide tratamiento definitivo de las litiasis, por lo que se realiza ureterorrenoscopia semirrígida derecha con extracción directa. La evolución posterior del paciente es satisfactoria, por lo que se procede a darle de alta con cifras de creatinina 1,57 mg/dl.

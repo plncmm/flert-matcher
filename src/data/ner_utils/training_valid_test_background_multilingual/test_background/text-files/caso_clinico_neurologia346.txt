@@ -1,0 +1,25 @@
+Anamnesis
+Varón de 48 años, fumador de 3 paquetes al día, bebedor de una cerveza/día, con antecedentes de dislipemia, sin otros factores de riesgo vascular conocidos, sin tratamiento habitual ni alergias medicamentosas conocidas. Acude al Servicio de Urgencias porque en el mes anterior había presentado hasta un total de cuatro episodios de pérdida de agudeza visual completa con el ojo izquierdo, con instauración brusca y con una duración de 2-3 minutos y resolución posterior completa, y descritas por el paciente como si "le cayera una cortina por el ojo". Durante los mismos, presentaba sensación de mareo inespecífico, sin cefalea, dolor retroocular, alteración del lenguaje ni otra clínica neurológica. Una semana antes de acudir a Urgencias notó pérdida de la visión con el ojo izquierdo, conservando la capacidad visual únicamente a nivel temporal en un pequeño segmento y sin asociarse a otra focalidad neurológica. Fue valorado por Oftalmología, que describen en su informe "pupila de Marcus Gunn" en el ojo izquierdo, con el resto de la exploración oftalmológica normal. Desde ese momento la pérdida de la agudeza visual se mantiene sin cambios.
+
+Exploración física
+El paciente presentaba una tensión arterial de 104/67 mmHg, afebril y con buen estado general; neurológicamente se encontraba alerta, atento, colaborador y orientado en espacio y tiempo. El lenguaje no presentaba disartria ni rasgos disfásicos. Las pupilas eran isocóricas, la pupila izquierda presentaba un defecto pupilar aferente moderado con reflejo consensuado conservado. La motilidad ocular estaba conservada. El ojo izquierdo estaba amaurótico (conservando la visión solo en el borde temporal). No defectos campimétricos en la perimetría por confrontación. No alteraciones motoras con reflejos osteotendinosos presentes y simétricos ++/++++, y reflejos cutáneo-plantares flexores. No alteraciones sensitivas ni en las pruebas de coordinación. El singo de Romberg era negativo. La marcha en tándem, de puntillas y con los talones era normal. No presentaba meningismo. Las arterias temporales no estaban induradas ni eran dolorosas a la palpación, con pulsos presentes y simétricos. La auscultación cardiaca presentaba tonos rítmicos, sin soplos cardiacos ni carotídeos.
+
+Pruebas complementarias
+• Analítica: glucosa 153 mg/dl, colesterol total 224 mg/dl, resto de bioquímica general, incluida hemoglobina glicosilada y perfil hepático normales; hemograma y coagulación normales; serologías de lúes, VIH negativas; proteína C reactiva 0,2 mg/dl; anticuerpos anti-citoplasma de neutrófilo, anticuerpos antinucleares negativos.
+• Electrocardiograma: bloqueo incompleto de la rama derecha.
+• Tomografía computarizada (TC) craneal sin contraste: sin alteraciones significativas que justifiquen la clínica del paciente; ocupación del seno maxilar izquierdo de probable carácter inflamatorio.
+• Estudio neurosonológico: ateromatosis sin repercusión hemodinámica en el lado derecho, oclusión de la arteria carótida interna izquierda.
+• Resonancia magnética (RM) de cráneo: no muestra imágenes que sugieran la existencia de una lesión aguda.
+• Angio-RM de troncos supraaórticos: oclusión de la arteria carótida interna izquierda desde su origen, dependiendo el flujo de los territorios intracraneales de esta arteria de la arteria comunicante posterior y de la arteria comunicante anterior, aunque existe moderada hipoplasia del segmento A1 izquierdo. Oclusión de la arteria carótida interna izquierda mediante angio-RM de troncos supraaórticos.
+• Potenciales evocados visuales realizados con estímulo estructurado tipo damero alternante y ángulo de estimulación de 1o y 15": parámetros dentro de la normalidad en el ojo derecho, imposible de realizar la misma exploración en el ojo izquierdo, porque el paciente no veía la pantalla de estimulación.
+• Potenciales evocados visuales realizados con estímulo flash en ambos ojos: no se observan asimetrías interoculares.
+• Informe oftalmológico: leve edema del nervio óptico en el ojo izquierdo con mancha rojo cereza; campimetría: anopsia en el ojo izquierdo. OCT de nervio óptico: en el ojo derecho normal, y en el ojo izquierdo edema de papila. Juicio diagnóstico: neuritis óptica retrobulbar en el ojo izquierdo; embolia de la arteria central de la retina en el ojo izquierdo.
+
+Tratamiento y evolución
+Durante su estancia en planta se le administró un bolo de corticoides (1 g i.v. de metilprednisolona durante tres días), seguido de pauta oral descendente, sin que se hayan producido modificaciones en su situación visual. Además, se inició tratamiento con antiagregación plaquetaria y control de los factores de riesgo vascular.
+
+Diagnóstico
+• Neuritis óptica izquierda retrobulbar isquémica.
+• Embolia de la arteria central de la retina izquierda.
+• Oclusión probablemente aterotrombótica de la arteria carótida interna izquierda.
+• Amaurosis prácticamente completa en el ojo izquierdo.

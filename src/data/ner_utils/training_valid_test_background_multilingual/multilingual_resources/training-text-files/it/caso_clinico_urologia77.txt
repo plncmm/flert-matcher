@@ -1,0 +1,29 @@
+Anamnesi
+Un paziente maschio di 76 anni con una storia di diabete mellito, ipertensione arteriosa, fibrillazione atriale anticoagulata con acenocumarolo, giunto al Dipartimento di Urologia con un quadro clinico di 6 mesi di evoluzione, caratterizzato da un nodulo sull'asta del pene.
+
+Esame fisico
+Alla palpazione, c'era un nodulo di 1 cm che circondava gran parte dei corpi cavernosi. All'esame rettale, la prostata è stata palpata con un lobo destro pietroso e un lobo sinistro indurito. Le adenopatie locoregionali non erano palpabili.
+Test complementari
+- Emogramma: leucocitosi di 12,81 mil/mm3 con linfocitosi relativa del 31,2%.
+- Biochimica del sangue: glucosio 147 mg/dl, creatinina 1,38 mg/dl.
+- Sedimento di sangue e urine: leucociti 20-30/campo. Batteriuria moderata.
+
+- Coltura delle urine: > 100.000 UFC/ml di Citrobacter koseri.
+- B-HCG < 1,2 UI/ml.
+- Antigene carcinoembrionale 1,29 ng/ml.
+- Alfa-fetoproteina 3,41 ng/ml.
+- Antigene prostatico specifico (PSA): 26,48 ng/ml.
+- CA 19,9 11,95 IU/ml.
+- CA 15,3 7,5 U/ml.
+- Ecografia del pene: nel corpo cavernoso destro c'è un nodulo di 1 cm di diametro, ipoecogeno. Alla base del pene c'è un altro nodulo, situato tra il corpo spongioso e il corpo cavernoso sinistro, che misura 2 cm, bilobato e ipoecogeno. Entrambe le lesioni sono altamente vascolarizzate.
+- Tomografia computerizzata (TC) toraco-addominale: alterazioni a livello del parenchima polmonare, in relazione a immagini di bolle e nodulo di caratteristiche indeterminate nel polmone sinistro. Prostata allargata (5 cm), con calcificazioni all'interno.
+- Risonanza magnetica pelvica (MRI): due noduli di 2 e 3 cm di asse massimo sono stati identificati sulla faccia posteriore del pene, infiltrando i corpi cavernosi, principalmente quello sinistro e il corpo spongioso, con un'intensità di segnale leggermente elevata in tutte le sequenze rispetto al segnale dei corpi cavernosi, con un intenso enhancement dalle fasi iniziali dello studio dinamico. Nella ghiandola prostatica, sul lato destro della regione periferica, a livello della base e della zona centrale, si identifica una massa che provoca un'alterazione del segnale, che si estende alla capsula prostatica in quella sede, interessando anche la vescicola seminale sullo stesso lato.
+
+Diagnosi
+Adenocarcinoma della prostata con metastasi sincrone al pene.
+
+Trattamento
+Il trattamento è stato iniziato con bicalutamide in combinazione con leuprorelin acetato.
+
+Evoluzione
+È stata eseguita una biopsia del nodulo penieno. Lo studio anatomopatologico ha riportato una biopsia del corpo cavernoso con infiltrazione di carcinoma. Lo studio immunoistochimico ha mostrato che la neoplasia era positiva per vimentina, CD10, Cam-5.2 e racemasi; era negativa per le citocheratine (CK7, CK20 e CK5/6), uroplakin, fosfatasi alcalina placentare, CD117, PSA e fattore di trascrizione tiroideo 1 (TTF-1). La lesione suggerisce l'origine renale a causa del ritrovamento di cellule chiare (vimentina e CD 10 +); inoltre, i tumori uroteliali e prostatici con neoplasia intraepiteliale prostatica devono essere esclusi a causa del marcatore racemasi +. La TAC non ha mostrato lesioni suggestive di un tumore primario nel rene. La resezione transuretrale della vescica è stata eseguita, così come la citologia ureterale e le biopsie della prostata guidate dall'ecografia transrettale. Durante il periodo intraoperatorio, è stata osservata una rigidità dell'uretra peniena in relazione alle metastasi e un certo priapismo. Ha progredito lentamente ma favorevolmente nel periodo post-operatorio, con un'ematuria che è diminuita con le solite misure conservative. Il trattamento con il blocco ormonale (bicalutamide) è stato iniziato durante la sua permanenza. Il referto anatomico patologico ha mostrato un adenocarcinoma della prostata, punteggio Gleason 8 (3 + 5). Il catetere vescicale è stato rimosso ed è stato dimesso in buone condizioni generali, dopo una minzione spontanea di urina non ematurica. Successivamente, il trattamento è stato iniziato con leuprorelin acetato. Attualmente ha una diminuzione dell'antigene prostatico specifico, che è di 1,17 ng/ml, e il livello precedente di 26,48 ng/ml.

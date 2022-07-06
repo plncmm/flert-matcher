@@ -1,0 +1,31 @@
+Anamnesis
+74-year-old woman, with a personal history of multiple myeloma who had received an allogeneic bone marrow transplant 10 months previously, and had been treated with immunosuppressants (tacrolimus, mycophenolate and steroids) since approximately 15 days previously for graft-versus-host disease.
+
+The patient was admitted to the Haematology Department for a 24-48 hour evolution of a general syndrome, tiredness, generalised muscular pain, nausea and vomiting which were related to an upper respiratory infection for which she had already been receiving antibiotic treatment with azithromycin for 7 days. Twenty-four hours after admission, a request was made to the Neurology Department for evaluation due to weakness in the right upper limb that progressed in a few hours to the development of brachial diplegia.
+
+Physical examination
+Eupneic, O2 saturation 97%. Blood pressure 125/89 mmHg. Heart rate 111 bpm. Pathological pulmonary auscultation with presence of rhonchi and scattered wheezing bilaterally, with the rest of the systemic examination being anodyne. The neurological examination revealed a conscious patient, with preserved higher functions. Speech is normal. No dysarthria. Ocular motility and confrontational campimetry are normal and there is no facial asymmetry. There is weakness at 1/5 at the level of cervical flexion. In the upper limbs there is plegia of the MSD and paresis at 0/5 distal and 2/5 proximal of the MSI. Muscle balance in MMII is normal. There were no significant alterations in the different sensory modalities (algesic, vibratory, arthrokinetic or fine tactile). There is an arreflexia in MMSS with osteotendinous reflexes present and symmetrical in MMII. The cutaneous-plantar reflex is flexor bilaterally.
+
+Complementary tests
+- Biochemistry, haemogram and coagulation: no findings of interest.
+- Lumbar puncture: 21 leukocytes/mm3 (7% lymphocytes, 93% polymorphonuclear), proteinorrachy 42.6 mg/dl, normal glucorrachy.
+- CSF culture and Gram: negative.
+- Blood cultures: negative.
+- Urine cultures: negative.
+- Serum infectious serology: EBV, CMV, HSV, Mycoplasma IgG positive and IgM negative. Borrelia leptospira, lupus, measles, cryptococcus, adenovirus, Coxiella, Chlamydophila pneumoniae, Influenza, Legionella, RSV negative.
+- CSF virology: detection of Enterovirus 68 RNA by positive PCR. PCR detection of CMV, HSV-1, HSV-2, VZV, EBV, HHV6, HHV7 negative.
+- Serum Virology: PCR detection of Enterovirus positive. Detection of CMV, EBV, adenovirus, Rhinovirus, RSV, Influenza A and B, Parainfluenza, Metapneumovirus, Bocavirus negative.
+- Cranial CT scan: no significant findings.
+- MRI of the cervical spine (15 November): no signs of compression or invasion of the spinal canal. At the level of the cervical and thoracic spine, a linear hyperintense lesion is identified in T2-weighted sequences affecting the anterior horn of the spinal cord bilaterally. No pathological uptake is identified.
+- Cranial MRI (19 December): there is an ill-defined hypersignal on the left margin of the pons, with no other evidence of parenchymal involvement or pathological contrast enhancement.
+- Cervical MRI (19 December): an improvement of the lesions was observed in terms of extension, which was delimited between C3-C7. At this level, lesions are seen on the anterior aspect of the spinal cord affecting the anterior horn bilaterally. Cervical MRI in STIR sequence, axial and sagittal sections: hyperintensity affecting the anterior horn of the medulla.
+- PESS: normal central and medullary conduction for somesthetic afferents of both median nerves with increased peripheral latency.
+
+Diagnosis
+Infectious myelitis secondary to Enterovirus 68 infection.
+
+Treatment
+Immunosuppressive treatment was started with steroids at a dose of 1 g/kg body weight and immunoglobulins, as well as antiviral and broad-spectrum antibiotics on initial suspicion of an infectious or parainfectious condition. Although vascular aetiology represented a less likely aetiopathogenic possibility, treatment with antiplatelet drugs was initiated.
+
+Evolution
+The patient continued to worsen clinically, presenting with dysphagia and dysphonia and requiring transfer to the ICU hours later for orotracheal intubation due to respiratory failure. During her stay in the ICU, the neurological deficit progressed to flaccid areflexic tetraplegia and she died one month later in relation to multiple systemic complications.

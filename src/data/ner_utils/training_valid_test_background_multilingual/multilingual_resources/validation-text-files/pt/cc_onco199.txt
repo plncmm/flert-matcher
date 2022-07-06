@@ -1,0 +1,31 @@
+Anamnese
+Paciente do sexo masculino com 63 anos, ex-fumador durante 14 anos de 60 embalagens/ano, hipertenso no tratamento com hidroclorotiazida/telmisartan uma vez por dia.
+
+História Oncológica: operada em Agosto de 2012 para neoplasia renal esquerda, foi realizada uma nefrectomia radical, sem complicações cirúrgicas. A anatomia patológica (AP) relatou uma lesão nodular bem demarcada de 2,7 cm de maior diâmetro; o estudo imunohistoquímico (IHC) mostrou uma forte expressão positiva para CK7 e CK Cam 5.2, todas compatíveis com o carcinoma papilífero de células claras multifocais com extensas áreas de necrose, grau Fuhrman 2. Como se tratava de um tumor indolente, decidiu-se seguir os controlos semestrais pela Urologia, sem evidência de recorrência até Dezembro de 2013 (TAC abdominal).
+
+A doença actual começou em Março de 2014, quando o doente assistiu ao departamento de emergência para a tosse com expectoração hemoptótica limitada de uma semana de duração e síndrome constitucional de um mês.
+
+Exame físico
+Bom estado geral, palidez mucocutânea, eupneico em repouso, hemodinamicamente estável. A auscultação pulmonar foi preservada, sem ruídos adicionais; no abdómen havia uma cicatriz de lumbotomia esquerda, membros sem edema. O resto foi normal.
+
+Testes complementares
+O paciente foi admitido no Departamento de Pneumologia para completar o estudo:
+"CBC: hemoglobina 7,7 g/dl, leucócitos 6,300 (linfócitos 1,000), repouso normal.
+"Tomografia de tórax: massa sólida com contornos lobulados medindo 70 x 70 mm no mediastino posterior, centrada na região subcarinal, entrando no brônquio direito; é também estenótica e oblitera o brônquio intermediário. Adenomegalia hilar direita até 14 mm.
+"PET-CT scan: massa bilobulada e hipermetabólica irregular de 7 cm a nível subcarinal e hilar direito compatível com a massa neoplásica, sem poder discernir se se trata de um conglomerado adenopático ou de uma lesão brônquica primária.
+"Foram realizadas duas broncofibroscopias: a citologia era indicativa de carcinoma, mas as biópsias não eram diagnósticas.
+"O caso foi apresentado na reunião do Comité Multidisciplinar de Gestão do Tumor Torácico e foi decidido realizar uma mediastinoscopia diagnóstica, dado o dilema de se a massa era um segundo tumor primário ou metástase metacrónica do tumor anterior. A mediastinoscopia foi realizada com biopsia da adenopatia subcarinal. Os relatórios PA: metástase de carcinoma, IHC com positividade para a vimentina, CD 10 e PAX 8 sugerindo origem renal.
+
+Diagnóstico
+Metástase mediastinal de carcinoma renal primário.
+
+Tratamento
+Em Junho de 2013 iniciou a quimioterapia como parte de um ensaio clínico, recebendo pazopanibe 800 mg/dia, com avaliações mensais.
+
+Evolução
+Em Agosto de 2013 foi hospitalizado para uma infecção respiratória não-condensante, com culturas de expectoração positiva para Stenotrophomonas maltophilia, recebendo tratamento antibiótico específico de acordo com antibiograma (sensibilidade à amoxicilina/ácido clavulânico e sulfametoxazol/trimetoprim), com acompanhamento conjunto com a Unidade de Patologia Infecciosa.
+Durante a admissão, foi realizada uma tomografia computorizada (de acordo com o protocolo de ensaio clínico) que mostrou uma diminuição do tamanho da massa mediastinal infracarinal, com a presença de bolhas no seu interior e um aumento do tamanho da ilíaca comum esquerda e da adenopatia ilíaca externa.
+Dada a persistência dos sintomas respiratórios e o facto de o paciente ter relatado asfixia sempre que ingeria alimentos, com uma subsequente crise de tosse, foi realizada uma radiografia ao tórax, mostrando uma condensação basal direita (não previamente visualizada). Suspeitando uma fístula esofágica, foi solicitada uma endoscopia gastrointestinal superior, que revelou uma compressão extrínseca ulcerada de 5 cm de comprimento no terço médio do esófago, para a qual foi colocada ao mesmo tempo uma prótese esofágica. Após uma melhoria progressiva dos sintomas, foi dispensado.
+Pazopanibe foi reiniciado e recebeu-o durante mais 2 meses; contudo, apesar da boa resposta radiológica, o paciente mostrou uma deterioração progressiva do seu estado geral (ECOG 4), e por esta razão foi decidido interromper o tratamento no final de Novembro de 2014.
+Finalmente, o doente morreu em Dezembro de 2014, 7 meses após o diagnóstico de recidiva.
+

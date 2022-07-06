@@ -1,0 +1,13 @@
+A 66-year-old man presented to the emergency department of the Mantua municipal hospital in November 2011 with severe cutaneous and spontaneous muscle bleeding.
+She had no history of bleeding.
+Blood tests revealed normocytic anemia (hemoglobin 9 g/dL) with normal leukocytes and thrombocytes and prolonged activated partial thromboplastin time (quotient 2.97, normal range 0.82 to 1.18), with normal prothrombin time.
+A study of mixtures did not achieve a correction of activated partial thromboplastin time, suggesting the presence of an inhibitor that was correctly identified as factor VIII-targeted (BtheUIII < 1%), inhibitor value 25 units.
+An idiopathic acquired AH was diagnosed.
+The patient was successfully treated with recombinant activated factor VII iv.
+(90 μg/kg every 3 hours until bleeding was resolved) and oral prednisone and cyclophosphamide (1 mg/kg/day for 4 weeks, then progressive decrease), with complete remission on day +21.
+After a period of 9 years in good health, with normal coagulation tests performed every 6 months, the patient was admitted again to the municipal hospital of Mantua in March 2020 due to fever, asthenia (38.7 days).
+The diagnosis of coronavirus 2019 disease (COVID-19) was confirmed by RT-PCR of nasal swabs.
+A chest CT scan showed bilateral interstitial pneumonia.
+Due to the concomitant presence of extensive hematoma in the trunk, aPTT analysis was performed, which revealed a prolonged time (2.87).
+Again, a diagnosis of AHA was established (FVIII < 1%, inhibitor value 19 BU) and the patient was treated with the same anti-arrhagic regimen, with complete remission on day +20.
+In addition, the patient received antivirals (lopinavir/ritonavir 400 mg twice daily) and non-invasive mechanical ventilation plus V-cotherapy due to severe acute respiratory syndrome of coronavirus 2 (SA2).

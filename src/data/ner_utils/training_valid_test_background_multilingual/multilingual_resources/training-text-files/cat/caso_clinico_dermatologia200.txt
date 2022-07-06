@@ -1,0 +1,16 @@
+Anamnesi
+Dona caucàsica de 45 anys, afecta d'una artritis reumatoide greu, seropositiva, molt erosiva i limitant, en tractament amb abatacept, ciclosporina i metilprednisolona i que a més associava una insuficiència respiratòria crònica per neumopatía intersticial greu, ja en fase de fibrosi pulmonar i que requeria oxigenoteràpia domiciliària mantinguda, ingressada per insuficiència respiratòria aguditzada a causa d'una pneumònia sense microorganisme identificat. En tractament antibiòtic empíric amb meropenem i trimethoprim/sulfametoxazol, malgrat el que seguia una evolució tòrpida.
+
+Exploració física
+En la cara dorsal de l'avantbraç dret presentava 5 nòduls d'entre 1 i 3 cm, eritematosos, de consistència elàstica i lleument dolorosa, apareguts feia 2 mesos i que es distribuïen en patró esporotricoide, seguint un trajecte limfàtic i culminant en 2 adenopaties epitrocleares, doloroses i de consistència elàstica. La zona afecta havia estat manipulada per venopunciones repetides per a infusió de medicaments en els últims mesos. Aquests nòduls no s'havien alterat amb els tractaments antibiòtics.
+
+Exploracions complementàries
+Una analítica de sang destacava una anèmia crònica normocítica i normocrómica de 98 g/L, creatinina de 3.27 mg/dl, amb la resta de ionograma, bioquímica hepàtica i renal correctes. Una radiografia de tòrax mostrava una intensa deformitat de la caixa toràcica i un parènquima, impossible de valorar per la intensa neumopatía intersticial que ja presentava la pacient i que no permetia observar canvis respecte a exploracions prèvies.
+L'estudi anatomopatològic d'un dels nòduls cutanis va revelar un infiltrat mixt en tot el gruix de la dermis, amb presència de granulomes supuratius escassament formats i múltiples vacúols o pseudoquistos en la qual destacaven incomptables microorganismes baciliformes, de 5 micres i disposats en filera en les tincions de Kinyoun, PAS diastasa i Gomori. La tinció de Ziehl-Neelsen de material de la biòpsia cutània va mostrar a bacils àcid-alcohol resistents.
+Tant els cultius bacterians i en mitjans adequats per a creixement de micobacterias van ser negatius. Una PCR, obtingut a partir d'una part de la biòpsia cutània del nòdul, va ser positiva per a Mycobacterium chelonae.
+
+Diagnòstic
+Es va diagnosticar d'infecció cutània, localment disseminada amb linfangitis per M. chelonae. No es va poder descartar l'afectació pulmonar per la incapacitat d'obtenir mostres per la incapacitat d'expectorar i la impossibilitat d'obtenir mostres per mètodes invasius donat el greu estat de la pacient.
+
+Tractament
+Es va afegir claritromicina 500 mg cada 12 hores per via oral al tractament antibiòtic (en aquest moment meropenem, rifabutina i etambutol), la qual cosa va comportar una pràctica resolució dels nòduls en tan sols 14 dies. Malgrat això, la pacient va morir per empitjorament del quadre respiratori 23 dies després d'afegir la claritromicina.

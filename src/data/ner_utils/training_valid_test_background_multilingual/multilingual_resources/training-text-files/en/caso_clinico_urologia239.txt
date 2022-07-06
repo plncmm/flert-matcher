@@ -1,0 +1,27 @@
+Anamnesis
+A 39-year-old man was studied for a clinical picture of 2 months of diarrhoea, asthenia and loss of 10 kg of weight, with evidence of hypochromic microcytic anaemia in the blood tests. His medical history included moderate alcoholism for 10 years, smoking 20 packs/year, with sporadic consumption of marijuana and hashish, a depressive syndrome and two episodes of loss of consciousness that were not studied, as well as a coma crisis secondary to withdrawal syndrome in April 2011 (brain computed tomography [CT] scan with no parenchymal alterations). He presented with meningitis at 12 years of age, with no sequelae. Family history of father and paternal uncle with colon neoplasia. His surgical history was appendectomy and cryotherapy for condyloma acuminata in the balanopreputial sulcus in June 2010, with negative serology for STDs. She was being treated with lorazepam 1 mg at night and pizotifen 0.5 mg three times a day.
+
+Physical examination
+Marked thinness, mucocutaneous pallor. Conscious and oriented, with no evidence of neurological focality. Normal reflexes. Normal cardiopulmonary auscultation. Abdomen soft and depressible, with hepatomegaly of 3-4 finger widths, partially painful, with no signs of peritoneal irritation. Rectal examination of the rectum with clean fingers, non-painful, well-defined prostate. Lower limbs without oedema, peripheral pulses present. Papular lesions on the sacrolumbar spine.
+
+Complementary tests
+- Blood tests: creatinine 0.6 mg/dl, haemoglobin 8.6 g/dl, 16,700 leukocytes/mm3, total bilirubin 0.17 mg/dl, glutamate-pyruvate-transaminase 11 IU/l.
+- Chest X-ray: no abnormalities.
+- Serology for hepatitis B and C viruses and human immunodeficiency virus negative.
+- Lower gastrointestinal endoscopy: an excrescent mass was observed covering practically the entire circumference of the ascending colon, without allowing passage of the colonoscope. Biopsy reported moderately differentiated, ulcerated adenocarcinoma.
+- Thoracic-abdominal-pelvic CT scan: emphysema changes without lesions suggestive of metastasis, without mediastinal adenopathy of significant size. Tumour located in the cecum and right colon (10 cm long section), with areas of hypoattenuation in its interior in relation to necrosis. Ulceration of the same. Pericolonic fatty alteration with adenopathies of significant size. In the left renal lower pole there is an infiltrative lesion of approximately 34 x 38 x 49 mm with loss of cortico-medullary differentiation, without alteration of the perirenal fat or locoregional adenopathies. Liver, pancreas, spleen, adrenal and right kidney without lesions. No significant retroperitoneal or inguinal adenopathies. For better characterisation, the following tests were performed.
+- Uro-CT scan: confirmed the existence of a tumour with infiltrative growth in the lower pole of the left kidney affecting the lower calyceal group. Adenopathies in the renal hilum.
+- Urinary cytology (left ureter): suspicious for low-grade papillary urothelial carcinoma.
+
+Diagnosis
+Based on the results of the various tests, the diagnosis was made as follows:
+- Tumour of the right colon, stage T4N2M0.
+- Tumour in the lower pole of the left kidney with infiltrative growth probably related to a T3N2M0 urinary tract tumour.
+
+Treatment
+Initially, a right colectomy by laparotomy with laterolateral anastomosis was performed (January 2012), the pathological anatomy of which was moderately differentiated adenocarcinoma with partial mucinous differentiation: pT3N1. One month later, a laparoscopic left nephroureterectomy was performed, with pathological findings of poorly differentiated transitional cell carcinoma, with a solid pattern, affecting the renal pelvis and middle and lower calyces, with extension to the renal parenchyma in the lower pole. Massive neoplastic thrombosis in the renal vein and small intraparenchymal vessels, with resection edge of the renal vein infiltrated by tumour, for which it was classified as pT3.
+
+Evolution
+During the postoperative period following the nephroureterectomy, the patient presented left hemiparesis and strange behaviour characterised by physical and verbal disinhibition, for which a brain CT scan was requested, which revealed a solitary heterogeneous lesion with marked vasogenic oedema located in the posterior portion of the right frontal lobe below the coronal suture, 37 mm in greatest diameter, which caused a discrete subfalcial herniation with herniation of the right lateral ventricle, these findings being compatible with a solitary right frontal metastatic metastatic lesion. In view of the findings, the patient was referred to his referral centre for surgical intervention of the metastasis.
+Immunohistochemical study of the surgical specimens (colectomy and nephroureterectomy) revealed loss of MLH-1 expression, with partial expression of MSH-2 and MSH-6. The immunohistochemical pattern of the urothelial tumour showed an aberrant phenotypic pattern: CK7-, CK20-, CDX2+, with high proliferative activity (Ki-67 70%), without neuroendocrine differentiation (chromogranin negative). Likewise, microscopic analysis of the brain lesion was compatible with metastasis of undifferentiated carcinoma of intestinal origin (CK7-, CK 20+).
+Thanks to the Bethesda criteria (2003) and the immunohistochemical study, we were able to reach a definitive diagnosis of Lynch syndrome.

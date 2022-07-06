@@ -1,0 +1,48 @@
+História pessoal:
+Homem, 29 anos de idade, natural do Mali, residente em Espanha há 4,5 anos. Ele não regressou ao seu país de origem. A sua rota migratória foi: Costa do Marfim, Líbia, Mali, Argélia, Marrocos e Fuerteventura. Ele trabalha em estufas. Vive com 8 pessoas numa casa com boas condições higiénicas. História repetida de malária. Sem hábitos tóxicos ou outro histórico de interesse. Sem tratamento regular. Nenhuma alergia a drogas conhecida.
+
+Doença actual: foi encaminhado dos Cuidados Primários para a clínica de Medicina Tropical (UMT) para um estudo da hipertransaminasemia. O paciente foi ao seu médico de clínica geral para dores abdominais relacionadas com a ingestão de alimentos, com fezes normais, que diminuíram com tratamentos que ele não forneceu. Durante esta visita, foi aplicado o protocolo inicial de cuidados aos imigrantes, que incluía um hemograma completo, bioquímica com perfil hepatorrenal, serologia para HBV, HCV, VIH e sífilis, bem como um estudo de parasitas nas fezes e urina (em indivíduos de regiões endémicas para esquistossomose). Também relatou prurido não específico, não relacionado com o duche. Tem uma história de hematúria na infância da qual recebeu um tratamento do qual não se lembra, e desde então tem estado assintomático.
+
+
+Exame físico:
+BP: 145/90, Peso: 60 kg. Bom estado geral, bem nutrido. Cabeça e pescoço: sem adenopatia, sem tordo. ACR: tons rítmicos sem murmúrios; murmúrio vesicular preservado sem sons patológicos. Abdómen macio, depressivo, não doloroso, sem megalitismo ou massas palpáveis. MMII: nenhuma evidência de filariose; micose interdigital mínima entre o 4º-5º dos dedos dos dois pés.
+
+Testes complementares iniciais:
+- CBC: leucócitos 9120/microL (57,9% neutrófilos, 33,6% linfócitos, 8,5% eosinófilos; 775 eosinófilos/ mm3). Hb 15,7 mg/dl, Ht 46,5%, MCV 89,1; MCH 30,1; Plaquetas 279,000/microL.
+- Bioquímica: AST 93 IU/L, ALT 184 IU/L, GGT 125 IU/L, FA 91 IU/L, repouso normal.
+- Serologia: HIV, HCV e lues negativo. HBV: AgHBs -, AcHBs -, AcHBc +.
+- Parasitas em fezes com técnica de concentração (Ritchie) 3 amostras (x3): Blastocystis hominis.  
+
+Diagnóstico diferencial
+O diagnóstico diferencial baseia-se na eosinofilia, por um lado, e na hipertransaminasemia, por outro. A eosinofilia é uma das síndromes mais frequentes encontradas pelo clínico em pacientes com patologia tropical importada. Embora os processos alérgicos e de hipersensibilidade, as doenças inflamatórias sistémicas e as neoplasias (órgãos hematológicos e sólidos) devam ser consideradas como causas possíveis, a etiologia mais frequente em doentes de regiões tropicais (o nosso doente vem do Mali) são as parasitoses, principalmente as causadas por helmintos. A ausência de sintomas específicos das primeiras causas torna a origem parasitária mais provável. Já na anamnese, o doente refere-se a episódios de hematúria na infância, possivelmente devido à esquistossomose urinária, uma doença endémica dos países da África Ocidental. Entre as possibilidades a considerar estão: Nematódeos, incluindo:
+1. geohelmintos (uncinaria, Trichuris trichuria, Ascaris lumbricoides, Strongyloides stercoralis).
+2. filariose (oncocercose, filariose linfática, género Mansonella, Loa loa).
+3. e outras menos frequentes, como Toxocara ou Anisakis. Cestodes: Taenia solium, Taenia saginata, Hymenolepis nana, Echinococcus granulosus. Trematodes: Schistosoma haematobium, Schistosoma intercalatum e Schistosoma mansoni, Fasciola hepatica.
+
+Em relação ao envolvimento do fígado, as possíveis causas a considerar neste paciente são:
+- Hepatite viral. A hepatite crónica devida ao HBV afecta mais de 350 milhões de pessoas no mundo, e a prevalência na maioria dos países da África Subsaariana é superior a 8%. No nosso caso, o HBsAg é negativo, mas a possibilidade de hepatite B oculta (HBcAb+, HBsAg, carga viral positiva) deve ser considerada. A hepatite crónica devida ao HCV também deve ser considerada, embora a prevalência da doença seja menor nos doentes desta área. As outras etiologias (HAV, HEV) manifestam-se por hepatite aguda, o que parece razoável excluir.
+- Parasitose. As parasitoses que podem causar envolvimento hepático incluem Fasciola hepática, Ascaris lumbricoides (mais associadas à colangite, colecistite, colestase), e esquistossomose. A esquistossomose, especialmente causada por S. mansoni, pode levar à hipertensão portal presinusoidal, caracterizada por fibrose periportal intensa, hipersplenismo e varizes esofágicas, enquanto a função hepatocelular é preservada até às fases finais da doença.
+- Lesões tumorais: o carcinoma hepatocelular é uma entidade muito prevalente entre os doentes de áreas endémicas do HBV, onde a aquisição da doença na infância permite o aparecimento deste tipo de tumor em doentes jovens.
+- Outras possibilidades a considerar são a hepatite de origem auto-imune, droga, álcool, metabólica, granulomatosa ou idiopática.
+
+Evolução
+Foi prescrito tratamento tópico com ciclopiroxolamina e foi solicitado um estudo em conformidade com o protocolo UMT para o estudo e tratamento da eosinofilia, bem como ultra-som abdominal e da bexiga e carga viral do VHB para excluir a hepatite B oculta. Os resultados são mostrados abaixo:
+- CBC: leucócitos 5.430/microL (4,2% eosinófilos; 230 eosinófilos/mm3). Hb 14,4 mg/dl. Plaquetas 189,000/microL.
+- Traço de célula doente (heterozigoto para HbS; HbS 37%).
+- Bioquímica: AST 48 IU/L, ALT 74 IU/L, GGT 81 IU/L, FA 119 IU/L, repouso normal, incluindo metabolismo do ferro, perfil renal e lipídico. IgE: 243 UI/mL.
+- Urina: sedimento normal.
+- Coagulação: PT 74%, INR: 1.2, TTPa 27.8 sg.
+- Serologia: Strongyloides (ELISA): NEGATIVO; Schistosoma (ELISA): MUITO POSITIVO. HBV: AgHBs -,
+- HBV PCR: POSITIVO; quantificação do ADN HBV: 1.000 UI/mL.
+- Estudos parasitológicos: 1. Parasitas em fezes com técnica de concentração (x3): NEGATIVO. 2. Estudo de microfilariose no sangue (teste de Knott): NEGATIVO. 3.
+- Alfa-fetoproteína: 1,4 ng/mL.
+- Raio-X ao tórax e abdómen: sem alterações.
+- Mantoux: 10 mm.
+- Ultra-sons abdominais e da bexiga: fígado de tamanho normal com estrutura ecostática alterada. Hiperecogenicidade do tecido periportal com fibrose intensa. Veia portal alargada (15 mm) e baço de 12 cm. Paredes normais da bexiga.
+
+Dado o diagnóstico de hepatite B oculta e sinais de doença hepática crónica, com dados altamente sugestivos de parasitismo por esquistossoma, foi pedida uma biopsia rectal, que mostrou mucosa com a presença de ovos de esquistossoma. Subsequentemente, foi realizada uma biopsia hepática para avaliar o grau de actividade da doença, com o seguinte resultado: "Parênquima hepático substituído por pequenos nódulos com densas vias conjuntivas fibrosas, com infiltrado inflamatório linfocitário, necrose parcelar erosiva e acumulação de eosinófilos. Alterações regenerativas nos hepatócitos. Diagnóstico final compatível com doença hepática crónica de origem viral (actividade de grau 2, fibrose de grau 3), e possivelmente secundária à esquistossomose, embora não tenham sido visualizados parasitas.
+
+Foi solicitada serologia para VHDelta (AcVHD POSITIVE, VHD PCR: NEGATIVE) e gastroscopia, o que o doente recusou. Tendo em conta os resultados acima descritos, o tratamento foi iniciado com praziquantel (40 mg/kg de peso corporal, 1 dia) e tenofovir 300mg/dia, com boa aderência ao tratamento, sendo a última carga viral do HBV negativa.
+
+Diagnóstico final
+Doença hepática crónica secundária à esquistossomose e à hepatite oculta B.

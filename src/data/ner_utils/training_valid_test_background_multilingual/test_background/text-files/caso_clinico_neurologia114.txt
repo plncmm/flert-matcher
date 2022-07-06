@@ -1,0 +1,36 @@
+Anamnesis
+Se trata de una mujer de 55 años diagnosticada 5 meses antes del ingreso en Neurología de adenocarcinoma mucinoso de endocérvix de tipo intestinal con células en anillo de sello, estadio T2bN2M0. En el estudio de extensión se descartaron metástasis pulmonares, óseas y diseminación peritoneal. Fue intervenida quirúrgicamente mediante linfadenectomía pélvica y paraaórtica, quedando un resto irresecable adherido a la vena iliaca externa izquierda. Posteriormente recibió tratamiento radioterápico de 46 Gy, quimioterapia concomitante con cisplatino semanal y posterior implantación de braquiterapia endocavitaria. Veinte días después de la implantación de la braquiterapia, la paciente acudió a Urgencias por cefalea intensa pulsátil de localización fronto-occipital acompañada de náuseas y vómitos. El dolor se presentó de forma progresiva y evolucionó hasta una intensidad de 8/10. Le despertaba de madrugada y se incrementaba con la maniobra de Valsalva. La paciente estaba en tratamiento con pauta descendente de dexametasona desde la radioterapia, levofloxacino 500 mg al día por una cistitis hemorrágica secundaria al tratamiento, tapentadol 150 mg al día, omeprazol 20 mg cada 24 horas y diazepam 5 mg por la noche.
+
+Examen físico
+Constantes vitales dentro de la normalidad. Afebril. Exploración general: regular estado general, paciente afectada por el dolor. La auscultación cardiopulmonar era normal. No había datos de infección activa.  Exploración neurológica: buen nivel de consciencia. No se objetivaba rigidez de nuca (maniobras de Kernig y Brudzinski negativas). Las pupilas eran isocóricas y normorreactivas. La exploración de los pares craneales era normal. La fuerza, la coordinación y la sensibilidad en las extremidades eran normales. Los reflejos osteotendinosos y cutáneo-plantar eran normales. El fondo de ojo era normal.
+
+Pruebas complementarias
+• Tomografía computarizada (TC) de urgencia: no había datos de hemorragia intracraneal ni lesiones metastásicas, ni dilatación ventricular.
+• Analítica sanguínea: anemia microcítica ferropénica. Hipercolesterolemia leve, hipoalbuminemia leve. Función renal, hepática e ionograma normales, incluido fosfato y magnesio. Función tiroidea normal.
+• Marcadores tumorales: Ag-Ac Ca125 161,5 UI/ml, elevado respecto al último control (84,6 UI/ml).
+• Serologías para virus herpes simple y varicela zóster: positivas para IgG. Serología de enfermedad de Lyme: negativa.
+• Punción lumbar (PL) (en Urgencias): presión de salida del líquido cefalorraquídeo (LCR): 40 cm H2O. Leucocitos en el límite de la normalidad (5/mm3). Glucosa y proteínas dentro de la normalidad.
+• Segunda PL (6.o día): presión del LCR 39 cm H2O.
+• Tercera PL (18.o día): presión de LCR 28 cm H2O.
+• Análisis del LCR: leucocitos 5/mm3. Resto normal.
+• Cultivos de LCR: negativos. Serologías VDRL y enfermedad de Lyme negativas.
+• Citologías de LCR (3): negativas para células neoplásicas.
+• Resonancia magnética (RM) cerebral: pequeño foco de realce tras la administración de contraste intravenoso a nivel del tálamo izquierdo, de carácter inespecífico.
+• RM medular: cambios óseos a nivel sacro, relacionados con la radioterapia hipogástrica, que no suponían compromiso medular. El cordón medular y las raíces de la cola de caballo eran de morfología e intensidad de señal normales y no mostraban realce tras la administración de contraste intravenoso.
+• Angio-RM cerebral: no se detectaron malformaciones arteriovenosas.
+• TC tóraco-abdominal: no mostró nueva afectación metastásica.
+
+Tras el empeoramiento de la cefalea y la aparición de hipoacusia y paresia facial se llevaron a cabo las siguientes pruebas:
+• Analítica sanguínea: sin nuevos hallazgos. Ag-Ac Ca125 189,1 UI/l.
+• Cuarta PL: presión de LCR 33 cm H2O. Hiperproteinorraquia (73,76 mg/dl) e hipoglucorraquia (32 mg/dl).
+• Citología de LCR: negativa.
+• RM medular: tenue realce lineal en el margen anterior del cono medular y en las raíces de la cola de caballo, tras la administración de gadolinio, compatibles con diseminación meníngea tumoral. Resonancia magnética medular lumbar con contraste intravenoso (gadolinio): realce lineal anterior a nivel del cono medular y cola de caballo compatible con carcinomatosis meníngea.
+
+Diagnóstico
+Carcinomatosis meníngea secundaria a adenocarcinoma uterino.
+
+Tratamiento
+Inicialmente, se diagnosticó a la paciente de hipertensión intracraneal de posible origen farmacológico (corticoides y quinolonas), por lo que recibió tratamiento con acetazolamida 250mg cada 8 horas, analgesia con antiinflamatorios no esteroideos y opioides y tratamiento antiemético con metoclopramida y ondansetrón. Se continuó la pauta descendente de corticoides y se retiró el tratamiento antibiótico con levofloxacino.  
+
+Evolución
+Tras 3 semanas de tratamiento, se constató disminución de la presión intracraneal y del dolor, pero la paciente comenzó a presentar de forma progresiva paresia facial, hipoacusia y disminución de la agudeza visual. Se repitieron las pruebas analíticas, de sangre y de LCR, y una nueva RM medular, que resultaron compatibles con carcinomatosis meníngea. La citología del LCR para células neoplásicas fue, de nuevo, negativa. Tras el diagnóstico, la paciente recibió tratamiento con radioterapia holocraneal y lumbosacra, pero la respuesta no fue buena y la paciente falleció 20 días después.

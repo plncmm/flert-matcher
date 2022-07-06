@@ -1,0 +1,27 @@
+Antecedentes Personales
+DMNIR, psoriasis tratada con corticoides y metotrexate, episodio de uropatía obstructiva derecha litiásica complicada con absceso renal por Cándida albicans y Pseudomona MR con fungemia, tras RTU 8 meses antes (funduscopia, ecocardiografía transtorácica y urocultivo posterior negativo).
+
+Enfermedad Actual
+Varón de 71 años que ingresó por fiebre de 4 días de evolución, tos y dolor intenso dorsolumbar.
+Tras 48 horas presentó dolor y frialdad en MID.
+
+Exploración
+Febril, regular estado general. TA:90/60mmHg. Auscultación cardiopulmonar: rítmica, sin soplos, roncus.
+Dolor a la palpación dorsal. MID: frialdad distal, cianosis fija en compartimento lateral, palidez y rigidez tibio-peroneaastragalina.
+Pulsos MMII solo palpables el femoral der y pedio izq.
+
+Pruebas Complementarias
+Destacaba: reactantes de fase aguda elevados e insuficiencia renal prerrenal (Rx tórax y ECG normal).
+- 1o: ¿Qué existía tras esa isquemia aguda?
+Etiológicamente, podía deberse a: embolismo arterial (FA, infarto de miocardio o disfunción de ventrículo izquierdo, endocarditis, enfermedad o prótesis valvular, mixoma, aneurisma, placa aterosclerótica o embolia paradójica), trombosis arterial (injerto, aterosclerosis, trombosis aneurismática, síndrome de atrapamiento, hipercoagulabilidad o bajo flujo) o por disección o trauma directo.
+En ecografía transtorácica se visualizó imagen compatible con endocarditis aórtica. Paralelamente microbiología aisló en hemocultivos Cándida albicans fluconazol-resistente. No embolización retiniana. TAC toraco-abdominal: espondilodiscitis D7-D8.
+- 2o: Endocarditis sobre válvula aórtica nativa por cándida albicans resistente a azoles,
+¿criterios? ¿tratamiento?
+Según los criterios de Duke modificados, se trataba de una Endocarditis Infecciosa definitiva (1 criterio clínico mayor y 4 menores).
+Se recomienda una equinocandina o anfotericina B +/- Flucitosina a dosis elevadas. Tras tratamiento iv inicial, reducir a un azol oral al menos 6 semanas más tras cirugía, excepto en resistencia a fluconazol, que aconsejan voriconazol o posaconazol si es sensible. Y si no es posible resección, prolongar tratamiento.
+Nuestro caso fue tratado con caspofungina, resección valvular y amputación supracondílea. - 3o:¿Presentaba una endocarditis en 1o ingreso?
+Ciertamente no presentaba criterios y se descartó razonablemente. Pero la recidiva de la fungemia sin nuevas complicaciones urológicas hace sospechar que algún foco persistió en el tiempo y la endocarditis sería el primer candidato.
+
+Diagnóstico Final
+· Endocarditis sobre válvula aórtica nativa por cándida albicans resistente a azoles.
+· Isquemia aguda grado iii en mid y espondilodiscitis d7-d8, probablemente secundaria a émbolos sépticos.

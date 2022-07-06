@@ -1,0 +1,36 @@
+Anamnesis
+Paciente de 43 años de edad, de raza asiática y nacionalidad china, que acudió al Servicio de Urgencias por molestias hipogástricas, disuria, visión borrosa, edemas con fóvea y priapismo de aproximadamente 24 horas de evolución. Anamnesis dificultosa por barrera idiomática. No refería antecedentes médicos o quirúrgicos de interés, era fumador de 20 paquetes/año y negaba otros hábitos tóxicos.
+Desde hacía tres semanas presentaba un cuadro pseudogripal con fiebre, mialgias y tos, acompañado de erecciones dolorosas intermitentes de resolución espontánea. Ante estos síntomas comenzó a ingerir altas dosis de fitofármacos de origen chino y otros medicamentos.
+Tras consultar con un intérprete conseguimos identificar algunos de los compuestos que había ingerido: paracetamol, amantadina, cafeína, dextrometorfano, pentoxiverina, roxitromicina, amoxicilina, bezoares artificiales, guayacol, semillas de Andrographis, Gardia jasminoides, raíces de Ophipogonis y de Angelica sinensis y otros preparados de hierbas naturales sin identificar. No sabía especificar las cantidades exactas que había tomado, aunque reconoció haber ingerido más de 300 comprimidos en 14 días.
+
+Exploración física
+El paciente presentaba afectación del estado general, con sudoración profusa, subictericia conjuntival, fiebre de 39 oC e hipotensión arterial, con cifras de 80/40 mmHg. El abdomen era doloroso a la palpación en el hipogastrio e hipocondrio derecho, sin signos de peritonismo. Se objetivaron edemas tibiomaleolares y una erección completa del pene, dolorosa y sin tumefacción del glande.
+
+Pruebas complementarias
+• Las radiografías de tórax y abdomen no revelaron ningún hallazgo patológico.
+• En el sedimento urinario se hallaron de 2 a 4 hematíes por campo y cilindros hialinos, con proteinuria de 70 mg/dl. No se detectaron metabolitos de cocaína u otras drogas en la orina.
+• En la analítica de sangre, los únicos valores alterados fueron la bilirrubina (1,59 mg/dl), la glutamato-piruvato-transaminasa (55 mg/dl), y la proteína C reactiva (18 mg/dl). El antígeno prostático específico y el recuento plaquetario y de reticulocitos fueron normales.
+• Se realizó aspiración de sangre cavernosa con análisis gasométrico de la misma, que reveló un pH de 6,84, pCO2 44 mmHg y pO2 22 mmHg.
+• La ecografía doppler mostró ausencia de flujo arterial.
+
+Diagnóstico
+Dados los resultados de estas pruebas, se diagnosticó priapismo isquémico, estableciéndose tratamiento urgente.
+
+Tratamiento
+Como primera línea de tratamiento, se procedió a la aspiración de sangre con aguja 14 G en el cuerpo cavernoso, siendo este tratamiento fallido, por lo que se procedió a la irrigación intracavernosa con una solución de fenilefrina de 250 μg cada 5 minutos.
+Tras varias irrigaciones sin lograr la detumescencia, se decidió pasar a una segunda línea de tratamiento. Se realizó entonces un intento de derivación distal cavernoesponjosa tipo Winter, infructuoso, por lo que finalmente se practicó un shunt tipo El-Ghorab.
+
+Evolución
+El paciente presentó discreta mejoría tras la resolución del priapismo y la instauración de fluidoterapia y tratamiento médico, pero 48 horas después comenzó con tendencia a la hipotensión, oliguria, baja agudeza visual bilateral, picos febriles y anasarca.
+Se realizaron entonces nuevas pruebas complementarias.
+• Los hemocultivos y urocultivos extraídos durante los picos febriles fueron negativos.
+• La analítica mostró anemia, trombopenia, hipoproteinemia, hipoalbuminemia y disminución del potasio. Se objetivaron también signos de colestasis con elevación de transaminasas, bilirrubina total y fosfatasa alcalina. Se detectó un síndrome nefrótico, con una proteinuria de 3,1 g/24 horas.
+• Las serologías realizadas fueron negativas (lúes, virus de las hepatitis B y C, virus de la inmunodeficiencia humana, virus respiratorios, virus Ebstein- Barr, citomegalovirus, Brucella, Lyme, C. burnetti), así como los marcadores tumorales (CEA, CA 19.9, PSA) y los autoanticuerpos (ANA, ANCA, SSA, SSB, RNP, Sm, Jo-1, SLL-70).
+• El estudio toxicológico ampliado fue positivo para salicilatos y negativo para paracetamol y otras drogas.
+• Se realizó una tomografía computarizada (TC) tóraco-abdominal que demostró un derrame pleural bilateral (tipo trasudado), mínimo derrame pericárdico y líquido libre intraabdominal, sin masas ni megalias.
+El paciente fue valorado por el Servicio de Oftalmología, que detectó un edema retiniano con desprendimiento de retina.
+Se estableció un tratamiento médico con fármacos vasoactivos, diuréticos, seroalbúmina y corticoides, con importante mejoría clínica.
+El paciente evolucionó favorablemente, permaneciendo al alta hospitalaria apirético, normotenso y con mínimos edemas tibiomaleolares. El edema retiniano había revertido completamente y los parámetros analíticos mejoraron, no objetivándose al alta signos de colestasis ni proteinuria.
+Aunque no conseguimos establecer una correlación evidente y documentada entre la ingesta de los medicamentos y el cuadro clínico, dados los resultados de las pruebas complementarias que descartaban un origen infeccioso, tumoral o autoinmunitario, se asumió la probable etiología tóxico-medicamentosa, que habría desencadenado un síndrome de extravasación capilar, con lesiones endoteliales, liberación masiva de citoquinas y aumento de la permeabilidad vascular, provocando los síntomas antes presentados.
+A las cuatro semanas el paciente acudió de nuevo a Urgencias con inestabilidad a la marcha con desviación hacia el lado izquierdo, parestesias en el hemicuerpo izquierdo, dolor en el hipocondrio derecho y adenopatías axilares e inguinales. Se realizó una nueva TC tóraco-abdominal, que detectó adenopatías hiliares pulmonares bilaterales, axilares, pericárdicas y peripancreáticas.
+La resonancia magnética cerebral detectó una lesión de naturaleza isquémica lacunar subaguda en la vertiente posterolateral del bulbo raquídeo. Se realizó una biopsia de una adenopatía inguinal que demostró un linfoma difuso de células grandes B con patrón en cielo estrellado, variante tipo Burkitt. Valorado por el Servicio de Oncología, no se inició tratamiento porque el paciente regresó a su país natal.

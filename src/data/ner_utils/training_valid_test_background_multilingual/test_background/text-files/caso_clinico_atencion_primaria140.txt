@@ -1,0 +1,45 @@
+Motivo de consulta
+Paciente mujer de 85 años que vive sola con su marido de 90 y que se presenta como cuidador principal, el cual solicita aviso domiciliario por encontrar a la paciente con un cuadro de astenia importante, nauseas, vómitos, malestar general y sensación distérmica.
+
+Enfoque individual
+Anamnesis: Mujer de 85 años DABVD y vida cama-sillón que consulta por malestar general, astenia importante, náuseas con vómitos y sensación distérmica, de corta evolución y sin otra sintomatología acompañante. Se comprueba posología de su medicación que la paciente realiza correctamente.
+
+Tratamiento habitual: Furosemida, Simvastatina, Ramipril, Digoxina, Eutirox y Latanoprost.
+
+Exploración: La paciente se encuentra consciente, orientada y colaboradora aunque algo decaída. Exploración neurológica normal.
+AC: Tonos bradicárdicos sin soplos, ni roces, ni extratonos.
+FC: 44 lpm con SAT 02: 96%. Ta: 36.5o y TA: 150/80
+AR: Murmullo vesicular conservado sin ruidos patológicos.
+Abdomen blando y depresible, con molestias inespecíficas a la palpación, no se palpan masas ni megalias. Ruidos hidroaéreos conservados. Signos de Rovsing, Murphy y Blumberg negativos, sin defensa abdominal.
+Edemas con fóvea en ambos pies.
+Analítica:
+-Hemograma: 6650 leucocitos, Hb 10.8, 146000 plaquetas.
+-Bioquímica: glucosa 77, creatinina 1.50 mg/dl, filtrado glomerular 35 ml/min.
+-Fármacos en sangre: digoxina 3.90 ng/ml (0.78-2.03).
+
+PRUEBAS COMPLEMENTARIAS
+-ECG: FA a 45 lpm, eje normal, QRS estrecho y presencia de cubeta digitálica.
+-RX tórax: cardiomegalia con seno costofrénico derecho pinzado.
+-RX abdomen: material fecaloideo y aerocolia en colon y ampolla rectal, no niveles hidroaéreos sin signos de obstrucción intestinal.
+
+Enfoque familiar y comunitario
+Nos encontramos en el contexto de un matrimonio de avanzada edad, siendo ambos pacientes frágiles, con un hijo que reside fuera de la localidad y una hija fallecida. Su hija era la que se ocupaba de todo lo referente a sus padres, era su apoyo tanto físico como psicológico. Desde su fallecimiento refieren que su hijo y sus nietas van a visitarlos pero que la situación "no es la misma" puesto que su hijo debe trabajar y sus nietas están estudiando fuera por lo que ambos se encuentran solos ante cualquier dificultad.
+Ante la situación actual tanto la paciente como su marido se muestran temerosos de lo que pueda ocurrir ya que al no contar con la presencia de ningún familiar, estaban preocupados sobre cómo les repercutiría en su vida diaria.
+
+Juicios clínicos
+El diagnóstico diferencial se realizó considerando la intoxicación farmacológica y algún proceso gastrointestinal dado la sintomatología inespecífica de la paciente. Se solicitó una analítica completa para valorar una posible leucocitosis y niveles alterados de digoxina. La analítica mostró un hemograma sin alteraciones de los parámetros, descartando así algún proceso infeccioso. Sin embargo los niveles de digoxina en sangre se mostraron elevados, y de forma casual se halló un filtrado glomerular de 35 ml/min impidiendo la correcta eliminación de digoxina.
+La paciente acumula en su lista de problemas: -Anemia ferropénica
+-Nódulo tiroideo solido
+-Hipotiroidismo
+-HTA
+-Fibrilación auricular -Dislipemia -Glaucoma.
+
+Plan de actuación
+-Suspender digoxina.
+-Se pauta suero fisiológico + metoclopramida intravenosa.
+-Continuar con resto tratamiento habitual.
+-Se solicita analítica urgente para primera hora del día siguiente con valores de digoxina y función renal para valorar la derivación a Centro Hospitalario de referencia según la sospecha diagnostica, decidiendo finalmente la derivación a urgencias tras los resultados analíticos obtenidos.
+
+Evolución
+La paciente fue atendida en el servicio de urgencias donde realizaron controles seriados de digoxinemia, sin resolución favorable de los mismos. Al contrario, continuaron aumentando así como un empeoramiento de la función renal. Se efectuaron electrocardiogramas de control (en los que se continuaba observando la cubeta digitálica y FA lenta), con buenas cifras tensionales durante todo el ingreso y una FC que osciló entre 28 y 40 lpm. La evolución tórpida de la paciente obligó a su ingreso a cargo de Medicina Interna.
+A lo largo de su ingreso en el Servicio de Medicina Interna se controló la digoxinemia hasta evidenciar una disminución significativa de la misma, sin embargo el filtrado glomerular continuó empeorando y se produjo un aumento de potasio no registrado previamente. Con el paso de los días la paciente se encontraba estable y asintomática. Los niveles de digoxina y de potasio se normalizaron. Sin embargo continuaba en FA con frecuencia cardiaca lenta que obligó a realizar un estudio mediante Holter por parte del servicio de Cardiología que no evidenció patología alguna. Finalmente y tras tratamiento, la frecuencia cardiaca se recuperó (60 LM) aunque hubo que realizar modificaciones en su tratamiento habitual y citar a la paciente en CCEE de Cardiología.

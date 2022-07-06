@@ -1,0 +1,25 @@
+Anamnesis
+Mujer de 63 años de edad. Como antecedentes personales presenta: no alergias a medicamentos, exfumadora desde hace dos meses, hipertensión, diabetes mellitus en tratamiento con antidiabéticos orales e insulina, hipercolesterolémica, esquizofrenia paranoide en tratamiento, ictus isquémico sensitivo puro en el 2008 con cierta pérdida de fuerza en el hemicuerpo derecho, parkinsonismo, demencia senil progresiva, siendo totalmente dependiente para las actividades de la vida diaria.
+La paciente es traída a Urgencias al detectar la familia un empeoramiento de su desorientación habitual y cierta desviación de la comisura bucal. Refieren que en los días previos ha presentado episodios de fiebre, así como orina de color oscuro y olor fuerte.
+
+Exploración física
+Regular estado general, desorientación, grandes dificultades de comunicación con la paciente. Deshidratada, eupneica. Temperatura de 38o, tensión arterial 110/70 mmHg. Auscultación cardiopulmonar: soplo sistólico II/IV, con murmullo conservado; la exploración neurológica no indica focalidad; la exploración abdominal muestra un abdomen distendido, moderadamente timpánico, con leve- moderado dolor en la zona periumbilical.
+
+Pruebas complementarias
+• Electrocardiograma: normal.
+• Radiografía de tórax sugestiva de pinzamiento bilateral.
+• Radiografía abdominal: dilatación leve del marco cólico izquierdo. Densidad aire a nivel intravesical.
+• En la analítica destacan: creatinina 2,66 mg/dl (previas normales), urea 125 mg/dl, sodio 129 mEq/l, potasio 3,9 mEq/l, glucemia 304 mg/dl, creatina kinasa 1.538 UI/l. Resto sin anormalidades.
+• Sedimento urinario: 500 leucocitos por campo, 200 hematíes por campo, con presencia de nitritos.
+• Tomografía computarizada (craneal): sin alteraciones significativas al margen de los diagnósticos neurológicos previos de la paciente.
+• TC abdómino-pélvica: consolidaciones pulmonares bibasales, vesícula biliar distendida, con numerosos cálculos en su interior, aunque sin signos inflamatorios, granuloma hepático calcificado en el segmento VIII, riñones sin anomalías, signos degenerativos de columna vertebral, ateromatosis aortoilíaca calcificada; vejiga urinaria repleccionada, con pared engrosada que presenta gas en su interior, que se acompaña de un aumento de la grasa circundante, sin observarse líquido libre ni colecciones intraabdominales.
+
+Diagnóstico
+Cistitis enfisematosa.
+
+Tratamiento
+En un primer momento se realiza un tratamiento general de la paciente, con hidratación y corrección de las alteraciones metabólicas, especialmente glucémicas e iónicas. Por parte de Urología, se indica sondaje urinario, objetivándose neumaturia y obteniéndose una muestra para cultivo y antibiograma. Se inicia tratamiento antibiótico empírico con ceftriaxona 2 g cada 24 horas intravenosa, hasta que se obtengan los resultados de Microbiología. En vista de la situación de la paciente y de los resultados del escáner, se descarta, al menos inicialmente, el tratamiento quirúrgico.
+
+Evolución
+Tras las primeras 24 horas de tratamiento, la paciente mejoró considerablemente su estado general, estando desde entonces afebril y con una normalización progresiva de los parámetros analíticos, si bien los valores referentes a la función renal tardaron 10 días en normalizarse (achacándose en todo momento a causas prerrenales). El urocultivo del día del ingreso tuvo un resultado negativo, pese a haberse tomado antes de iniciar el tratamiento antibiótico, al igual que los posteriores. Transcurrido ese tiempo, se solicitó una ecografía abdominal de control, donde se confirma la ausencia de aire en la pared vesical.
+Tras 11 días de ingreso hospitalario, la paciente presenta un restablecimiento completo de su estado, sin requerir siquiera mantener tratamiento antibiótico domiciliario.

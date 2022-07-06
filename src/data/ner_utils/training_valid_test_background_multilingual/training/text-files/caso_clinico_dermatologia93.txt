@@ -1,0 +1,23 @@
+Anamnesis
+Mujer de 84 años con antecedentes personales destacables de hipertensión arterial, diabetes mellitus y osteoporosis todas ellas en tratamiento farmacológico. Acude a urgencias por fiebre de 48 horas de evolución, asociada a clínica urinaria y lesiones cutáneas en glúteo y pierna derecha de menos de 12 horas de evolución. Los familiares referían que desde hacía mes y medio la paciente presentaba dolor de carácter neuropático en ese mismo miembro para el que recibía tratamiento con tramadol y lyrica oral y por el que había acudido en varias ocasiones a urgencias habiendo recibido la semana previa tratamiento con metamizol intramuscular (IM).
+
+Exploración física
+Paciente estuporosa con hipotensión de 80/60, taquicardia de 150 lpm y febrícula de 37,7 oC. En glúteo, región trocánterica y cara lateral externa de muslo derecho placa de eritema rosado extenso y difuso, no palpable y de limites no netos, con disminución de la temperatura local respecto al resto del miembro. Sobre ella varias placas, unas de blanco nacaradas de menor tamaño y otras violáceas de varios centímetros; con un halo blanco periférico de bordes geográficos y muy netos, no infiltradas y no palpables. Destacaba en cuadrante superoexterno de glúteo una zona eritematosa más intensa, mal delimitada con un punto central violáceo puntiforme.
+
+Exploraciones complementarias
+Se realizó una analítica en la que se objetivaron: • Datos de fallo renal agudo (urea 180 mg/dL y creatitina 2,30 mg/dl), PCR mayor de 90 con procalcitonina de 46,34 ng/mL.
+• En orina piuría con bacteriuria.
+• En hemograma anemia de 10.8 gr/dL de hemoglobina y plaquetopenia de 114.000 plaquetas/mL, así como la presencia de una cifra de leucocitos dentro de la normalidad (8.400/mL) pero una neutrofilia absoluta y relativa (8.000 y 94,8%, respectivamente) con un 84% de sementados y un 4% de cayados.
+• Coagulación con fibrinógeno derivado de 917 mg/dL.
+• Se realizó una radiografía simple de cadera y pelvis observándose aumento de volumen de glúteo y muslo derecho respecto de contralateral, así como engrosamiento y reticulación del tejido celular subcutáneo con una zona delimitada de burbujas de gas agrupadas.
+Se tomó una muestra cutánea para estudio microscópico en el que se observaron cambios isquémicos agudos y crónicos con atrofia epidérmica, edema e inflamación aguda y crónica; así como púrpura y signos de vasculitis en las estructuras vasculares del tejido celular subcutáneo.
+
+Diagnóstico
+Shock séptico en el contexto de una fascitis necrotizante secundaria a inyección IM de metamizol.
+
+Tratamiento
+Se procedió al ingreso de la paciente para tratamiento antibiótico intravenoso, así como se realizó fasciotomía y desbridamiento quirúrgico de urgencia por el servicio de traumatología.
+
+Evolución
+Durante la cirugía se drenó gran cantidad de material líquido maloliente, tras lo cual se consiguió una mejoría clínica inicial de la paciente con buen nivel de conciencia, normalización de la función renal y de los parámetros de sepsis. Durante la misma se tomaron muestras para cultivo microbiológico que resultaron positivos para Escherichia coli, iniciándose terapia antimicrobiana dirigida.
+A pesar de esta mejoría inicial, durante los días posteriores las lesiones cutáneas siguieron extendiéndose, apareciendo nuevas placas de necrosis y precisando hasta cuatro desbridamientos quirúrgicos más. En todos ellos se obtuvieron muestras para estudio microbiológico siendo positivas de forma repetitiva para Acinetobacter baumannii multirresistente, solo sensible a tigeciclina. A pesar del esfuerzo terapéutico la paciente continuó empeorando acabando con el éxitus a los 7 días del último drenaje quirúrgico.

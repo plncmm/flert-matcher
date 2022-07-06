@@ -1,0 +1,39 @@
+Motivo de consulta
+Paciente de 43 años que acude a consulta de primaria por cefaleas holocraneales intermitentes y cansancio de 2-3 semanas de evolución.
+
+Enfoque individual (anamnesis, exploración, pruebas complementarias)
+Anamnesis: paciente de 43 años con antecedentes personales de hipertiroidismo y miomas uterinos en tratamiento en el momento actual con tiamazol, que acude por cefaleas intermitentes de varios días de evolución, que describe como opresión holocraneal que ceden parcialmente con analgesia habitual acompañado de cansancio de varias semanas de evolución.
+No fiebre, no clínica infectiva por aparatos y sistemas.
+
+Exploración: buen estado general, bien hidratada, perfundida y coloreada.
+NRL: PINLA, MOEC, campimetría normal. No alteraciones de pares craneales, no dismetrías, no alteraciones de la fuerza ni de la sensibilidad, no adiadococinesias ni disdiadococinesia. Reflejos normales. No alteraciones de la marcha.
+ACR: Rítmica, no soplos. Murmullo vesicular conservado sin ruidos sobreañadidos. Abdomen: blando y depresible, no doloroso a la palpación, sin signos de irritación peritoneal. MMII: No edemas ni signos de TVP. No pérdida de fuerza, no alteraciones de la sensibilidad
+
+Seguimiento: tras dos meses la paciente vuelve a acudir a consulta por continuar con cefaleas de mayor intensidad y cada vez más resistentes a analgesia habitual, además de acompañarse de sensación de mareo rotatorio ocasional. La exploración sigue siendo normal por lo que se solicita analítica completa, TAC craneal y se deriva a neurología.
+
+Pruebas Complementarias
+Analítica: Bioquímica, hemograma y hormonas tiroideas normales.
+TAC Cráneo: Gran masa de aparente localización extra-axial a nivel de convexidad frontal derecha sugerente de probable meningioma atípico o maligno que desplaza parénquima y condiciona efecto masa.
+RM de cráneo: Gran masa de aproximadamente 58x52x57 mm, de aparente localización extra-axial a nivel de convexidad frontal derecha, que desplaza medialmente los vasos corticales y asocia hiperostosis en calota adyacente (cambios óseos reactivos). Se trata de una masa sólida con áreas quísticas de gran tamaño en su interior y con realce heterogéneo tras la administración de CIV. Condiciona importante efecto de masa sobre el parénquima cerebral adyacente con herniación subfalcial de 17 mm hacia la izquierda. No evidencia de edema perilesional. Los hallazgos descritos son sugerentes de probable meningioma atípico y/o maligno como primera posibilidad, sin poder descartar otras entidades menos probables (metástasis, hemangioblastomas, neuroblastomas y tumores gliales con componente quístico).
+
+Enfoque familiar y comunitario
+Es una familia nuclear, la pareja y sus dos hijos. Ella procede de otra provincia, pero la familia de su esposo vive en la misma localidad por lo que tienen parientes cercanos. Sus padres están enfermos y viven en otra ciudad a unas 4h de su domicilio y eso le ocasiona muchos viajes los fines de semana para poder atenderlos.
+
+Juicio Clínico
+Lista de problemas: hipertiroidismo.
+
+Diagnóstico diferencial:
+Causas neurológicas: Migraña sin aura o con aura, cefalea tensional.
+Causas no neurológicas: Afecciones otorrinolaringológicas (sinusitis, mastoiditis...), afecciones oftálmicas (glaucoma, astigmatismo...), neuralgias (trigeminal, glosofaríngea...), arteritis, hipertiroidismo, hipotiroidismo.
+Causas asociadas a enfermedades generales: HTA, procesos infecciosos, enfermedades neumológicas.
+Cefalalgias psicógenas.
+
+Plan de acción y evolución
+Ante la mala evolución de la cefalea y dada la aparición de nueva sintomatología realizamos otra exploración neurológica:
+NRL: PINLA, campimetría normal. No alteraciones de pares craneales, no dismetrías, no alteraciones de la fuerza ni de la sensibilidad, no adiadococinesias ni disdiadococinesia. Reflejos normales. No alteraciones de la marcha.
+La única diferencia con la exploración anterior, es que la cefalea se ha hecho de mayor intensidad, se presenta también de noche y no cede con la analgesia habitual.
+Se piden diferentes pruebas complementarias (analítica + solicitud de TAC craneal) y damos cita para neurología.
+
+Evolución
+Tras leer en consulta el informe del TAC, derivamos a la paciente a nuestro hospital de referencia para valoración urgente por parte de neurología/neurocirugía donde se decide ingreso para tratamiento urgente.
+Se realiza craneotomía y craniectomía con extirpación de LOE sin complicaciones. Al día siguiente, la paciente comienza a presentar una actitud desinhibida y eufórica, que se resuelve a los 2-3 días durante el ingreso.

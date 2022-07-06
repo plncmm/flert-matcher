@@ -1,0 +1,28 @@
+Anamnesis
+Mujer de 36 años, sin antecedentes de interés, que consulta por cefalea y visión borrosa. En las 3 semanas previas al ingreso presentó un síndrome febril con temperaturas de hasta 38 oC, y 5 días antes del ingreso cefalea de predominio frontal y visión borrosa bilateral con dolor retroocular.
+
+Examen físico
+Febrícula de 37,5 oC. Destacaba agudeza visual de 0,2 en ambos ojos y edema de papila bilateral. El resto de la exploración neurológica y sistémica era normal. Borrosidad de los bordes papilares y elevación papilar bilateral. Se visualizan varias lesiones nodulares pequeñas amarillentas en la retina nasal.
+
+Pruebas complementarias
+• Analítica: normal. VSG 22 mm, PCR normal. Beta-2-microglobulina 2,81.
+• Autoinmunidad (ANA y ACA) negativa.
+• Angiofluoresceína ocular: compatible con neuritis óptica bilateral.
+• RM cerebral: lesión frontal de pequeño tamaño compatible con meningioma como único hallazgo.
+• Punción lumbar al ingreso: presión de apertura normal, glucosa 45 (sanguínea simultánea 110). Hiperproteinorraquia de 126, 70 células de predominio mononuclear (97%), hematíes 3.600, ADA 7,9. BOC negativas. Punciones lumbares seriadas similares, compatibles con meningitis linfocitaria.
+• Punción lumbar (tras tratamiento tuberculostático): glucosa 53 (simultánea 114), 66 proteínas, leucocitos 7, hematíes 6.
+• Serologías en suero y LCR de Borrelia, Brucella, lúes, VIH, Bartonella, herpes, antígeno de criptococco: negativos.
+• Mantoux, cultivo de micobacterias, PCR para tuberculosis negativos.
+• Radiografía de tórax: sin alteraciones destacables.
+• ECG: ritmo sinusal normal.
+• TC tóraco-abdominal: pequeñas adenopatías mediastínicas inespecíficas, y única adenopatía abdominal cerca del tronco celíaco, sin que sugieran datos de anormalidad.
+
+Diagnóstico
+Diagnóstico inicial: meningitis y neuritis óptica tuberculosa como primera posibilidad.
+Diagnóstico definitivo: sarcoidosis.
+
+Tratamiento
+Inicialmente se inicia tratamiento con fármacos antituberculosos y corticoides (durante un mes). A los 7 meses tras el nuevo diagnóstico inicia corticoterapia e inmunosupresión con metotrexato.
+
+Evolución
+Desde el primer ingreso se revalúa mediante ingreso a los 2 meses, donde se encuentra afebril y asintomática, salvo leve déficit visual bilateral. A pesar de los resultados negativos que confirmen meningitis tuberculosa, la mejoría clínico-analítica (se repite la punción lumbar) orienta a mantener el tratamiento con tuberculostáticos. Siete meses después reingresa una tercera vez por parálisis facial periférica izquierda. En este ingreso se replantea el diagnóstico y se repiten las pruebas. La punción lumbar es similar a las previas (persiste hiperproteinorraquia, glucosa en el límite y escasa celularidad con 8 células mononucleares), la ECA en LCR es negativa y en suero es de 54 (valor de referencia de normalidad 52); sin embargo, la TC tóraco-abdominal muestra aumento del tamaño de las adenopatías mediastínicas y abdominales con aparición de infiltrados pulmonares bilaterales. Ante este hallazgo se realiza fibrobroncoscopia de las adenopatías con lavado broncoalveolar y toma de biopsias, con hallazgo de cociente CD4/CD8 bajo (que no favorece, aunque tampoco excluye, el diagnóstico de sarcoidosis). Pendiente todavía en ese momento de la anatomía patológica y de ser revisada en consultas externas con los resultados, vuelve a ingresar una cuarta vez 2 meses después por parálisis facial derecha, antes de que llegase a resolverse en el lado contralateral. Los resultados de la anatomía patológica desvelaron inflamación granulomatosa no necrotizante de tipo sarcoideo. En ese momento se suspende el tratamiento tuberculostático y se decide iniciar tratamiento inmunosupresor con corticoides y metotrexato.

@@ -1,0 +1,31 @@
+Anamnesis
+Diagnosed in December 2012 with renal cell carcinoma after a chance finding on ultrasound examination. The case was presented to the Urological Tumour Committee, which, as it was a localised disease, without involvement at another level in the extension study, decided to perform a radical nephrectomy with curative intent. The pathological anatomy confirmed the diagnosis of clear cell renal carcinoma and staged as T3aN0M0.
+The patient continued to be monitored in the oncology department by means of imaging tests and remained in complete response until March 2014 when, in a re-evaluation CT scan, progression was identified in the lungs with multiple bilateral pulmonary nodules with a maximum size of 11 mm.
+The patient was classified as having a good prognosis according to Heng's classification, and first-line antiangiogenic treatment was started with pazopanib: 800 mg/day orally. As toxicity secondary to pazopanib, he presented with skin pallor and white hair, grade 3 asthenia, grade 2 dysgeusia and grade 2 diarrhoea that required a dose reduction to 600 mg/day with good tolerance.
+She continued treatment with pazopanib, with a partial response during the first few months and subsequently stable disease with mediastinal adenopathy and a single visible lung lesion in the upper lobe, and it was decided to continue with pazopanib. After four years with stable disease maintained with pazopanib, in February 2018 she presented with new progression at the pulmonary level in CT scan with reappearance of the pulmonary lesions at diagnosis.
+She started second-line treatment with immunotherapy with nivolumab, achieving stabilisation of her oncological disease until June 2018 (five months after starting nivolumab), when she was admitted to the oncology ward for severe thrombocytopenia (5,000 platelets) and external bleeding consisting of epistaxis and petechiae in the lower limbs. On suspicion of immune-mediated haematological toxicity, direct and indirect Coombs tests were requested, both of which were negative, as well as virus serology, detecting positivity for parvovirus B19. The possibility of grade 4 immune thrombocytopenic purpura secondary to nivolumab was assessed, and treatment was prescribed with corticotherapy with recovery of platelet counts.
+Given the doubt that the haematological symptoms were secondary to antibiotics that the patient had received in the previous month for a respiratory infection or were triggered by a viral infection, it was decided to restart treatment with nivolumab.
+One month later, the patient came to the emergency department with fever of 39°C, increased cough without expectoration, dyspnoea on moderate exertion for four days.
+
+Physical examination
+ECOG 1. Haemodynamically stable. Tachypnoea during conversation. During cardiopulmonary auscultation: rhythmic heart tones, bibasal crackles. Lower extremities: increased oedema with discrete fovea without signs of deep vein thrombosis.
+
+Complementary tests
+Haemogram and blood biochemistry including ionogram, renal function and liver function tests without alterations. Arterial blood gases: respiratory failure, respiratory alkalosis.
+Chest X-ray: pulmonary infiltrates predominantly on the right.
+Chest CT scan: extensive interstitial involvement predominantly in the right hemithorax with a predominantly reticular pattern secondary to immunotherapy. Areas of consolidation in the right upper lobe related to superinfection.
+During admission, she reported persistent fatigue, generalised weakness, nausea and vomiting. A hormonal profile was requested, highlighting secondary hypothyroidism and adrenal insufficiency of new onset. It was decided to complete the study with magnetic resonance imaging (MRI) of the brain with gadolinium without finding pathological uptake, the pituitary gland was normal in size, morphology and situation.
+
+Diagnosis
+"Grade 3 immune-mediated pneumonitis secondary to treatment with nivolumab.
+"Panhypopituitarism secondary to grade 2 hypophysitis due to nivolumab.
+
+Treatment
+Regarding the management of the pneumonitis, collaboration with the Infectious Diseases Unit was requested to rule out the aetiology of atypical superinfection. Treatment with nivolumab was suspended. Intravenous methylprednisolone 1 mg/kg/day was administered, empirical antibiotherapy was added and bronchoscopy was performed with negative microbiological results.
+For the management of panhypopituitarism, work was carried out in conjunction with endocrinology and corticoid treatment and hormone supplementation was prescribed.
+
+Evolution
+The patient presented a torpid evolution with a long admission complicated by decompensation of heart failure and the appearance of rapid de novo atrial fibrillation that required treatment adjustment by Cardiology.
+As complications secondary to high doses and prolonged use of corticotherapy, the patient developed iatrogenic Cushing's syndrome and manic-depressive symptoms that required monitoring by Psychosomatics.
+After recovery from the clinical condition for which he required admission, and despite there being no progression of his oncological disease in imaging tests, given the impossibility of continuing with immunotherapy due to secondary toxicity (grade 4 immune thrombocytopenic purpura/grade 3 pneumonitis/grade 2 hypophysitis), third line cabozantinib was started in October 2018 and the disease has remained stable until the present time. The clinical manifestations that have limited her quality of life during this time have been persistent grade 3 asthenia and exacerbation of her usual dyspnoea, for which reason she has required follow-up by Cardiology, with a control echocardiogram detecting a left ventricular ejection fraction of around 20%.
+Currently, the risk-benefit of maintaining treatment with cabozantinib must be assessed, even knowing that such treatment would worsen her dyspnoea and asthenia, and it has been decided to restart cabozantinib at a reduced dose (40 mg/day).

@@ -1,0 +1,26 @@
+Anamnesis
+48-year-old woman, with no known drug allergies, smoker of 20 cigarettes a day, consumer of about 80 g of alcohol a day and sporadic cocaine user. Diagnosed with extrinsic asthma being treated with inhaled corticosteroids. Independent and active at work. She presented at home with an abrupt decrease in the level of consciousness together with involuntary movements of the extremities lasting one hour, suggestive of generalised tonic-clonic status epilepticus. A few hours before the onset, he reported alcohol abuse. On arrival at the ED, status epilepticus persisted, requiring intravenous treatment with benzodiazepines (10 mg diazepam) and levetiracetam (1,000 mg), with cessation of the episode. The patient was admitted to the ICU for haemodynamic and respiratory stabilisation, with orotracheal intubation.
+
+Physical examination
+On initial assessment, blood pressure was 124/80 mmHg, heart rate 120 bpm, blood glucose 90 mg/dl, oxygen saturation 98% with oxygen therapy; the patient had no fever. General examination was normal. Neurologically she was in a post-critical state, with a Glasgow scale score of 8/15 (O4V1M3), without neurological focality or meningeal signs.
+
+Complementary tests
+- General laboratory tests: macrocytic anaemia (haemoglobin 12.2 g/dl, MCV 104 fl), thrombopenia (99,000/mm3), acute renal failure (creatinine 1.93 mg/dl), hyponatraemia (130 mmol/l), hypertransaminasemia (GOT 310 IU/l, GPT 100 IU/l, GGT 2. 123 IU/l and alkaline phosphatase 230 IU/l), hyperkalaemia (CPK 901 IU/l, CKMB 64 IU/l) and slightly increased cardiac enzymes (ultrasensitive troponin T 51.43 ng/l). Total cholesterol 218 mg/dl, LDL cholesterol 119 mg/dl and HDL cholesterol 82 mg/dl.
+- Urine system: no findings of interest.
+- Serology: hepatitis B and C virus and human immunodeficiency virus negative.
+- Electrocardiogram: sinus rhythm at 113 bpm, ST-segment elevation in V1 to V3 with T-wave inversion in these leads and QT interval of 560 ms.
+- Chest X-ray: no alterations of interest.
+- Baseline and contrast-enhanced brain CT: no relevant findings or pathological enhancements.
+- The initial transthoracic echocardiogram showed severe left ventricular systolic dysfunction with an ejection fraction of 25-30%. Contractility was preserved at the level of the basal segments with generalised akinesia of the remaining segments. The right ventricle and valves were normal. A mild anterior pericardial effusion with fibrinous content was also visualised.
+- Coronary angiography was performed, with mild vasospasm of the anterior descending coronary artery, which subsided with intravenous infusion of nitroglycerine.
+- Electroencephalogram at 48 hours: tracing within normal limits. Electrocardiogram showing ST-segment elevation and T-wave inversion in V1 to V3. Cardiac MRI with signs of intramyocardial oedema.
+
+Diagnosis
+Tako-tsubo stress cardiomyopathy secondary to status epilepticus.
+
+Treatment
+Maintenance antiepileptic treatment with levetiracetam was maintained, with good response, and the patient did not present new seizures. Vitamin B1, B6, B12 and folic acid replacement therapy was also started, and alcohol deprivation prophylaxis was initiated with tiaprizal and dipotassium clorazepate.
+
+Evolution
+During her admission, the patient showed progressive improvement in the level of consciousness in the first 24 hours, with no neurological focality and haemodynamically stable, and she was extubated. Renal function and ionic alterations normalised in the first 48 hours. Hypertransaminasemia, macrocytic anaemia and thrombocytopenia persisted, most likely of enolic origin, suggesting chronic alcoholic liver disease.
+Both the elevation of cardiac enzymes and the electrocardiographic and echocardiographic changes were within the normal range over the next 72 hours. A cardiac MRI was performed, which showed globally preserved systolic function and signs of intramyocardial oedema in the anterior aspect and septum of the left ventricle reinforcing the diagnosis of transient apical dyskinesia syndrome. No macroscopic myocardial necrosis or fibrosis was evident after gadolinium administration. Given the tendency to vasospasm seen on coronary angiography, it was decided to add calcium antagonist treatment at discharge.

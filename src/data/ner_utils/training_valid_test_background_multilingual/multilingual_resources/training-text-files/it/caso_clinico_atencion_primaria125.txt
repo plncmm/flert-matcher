@@ -1,0 +1,40 @@
+Motivo della consultazione
+Un paziente di 19 anni è venuto alla clinica di assistenza primaria per una tosse continua di tre settimane.
+
+Approccio individuale (anamnesi, esame, test complementari).
+19 anni, cittadino spagnolo, studente insegnante. Storia personale di blocco di branca destro, rinocongiuntivite allergica e asma lieve. Nessuna storia familiare di interesse. In trattamento con salbutamolo su richiesta. Nessuna allergia ai farmaci. Beve bevande alcoliche occasionalmente. Non fumatore.
+
+Il paziente arriva in clinica con una tosse secca di tre settimane di evoluzione di intensità crescente che interferisce con il riposo notturno. Aumenta con l'esercizio. Leggera rinorrea. Nessuna dispnea e l'auscultazione è normale. Parziale miglioramento usando salbutamolo su richiesta. Data la storia personale, è stato deciso di iniziare budesonide 160 mcg/formoterolo fumarato diidrato 4,5 mcg 2 inalazioni ogni 12 ore.
+
+Tornò due mesi dopo con una tosse con espettorazione verdastra e febbre di due giorni. L'auscultazione ha mostrato crepitii nella base sinistra, quindi Amoxicillina 875mg/acido clavulanico 125mg ogni 8 ore è stato prescritto per 7 giorni con miglioramento. Nonostante questo, è tornato tre settimane dopo perché la tosse persisteva, con un aumento degli accessi nell'ultima settimana e un'espettorazione biancastra. La stessa mattina, espettorazione emoptotica. Inoltre, si è presentato di nuovo con una febbre inconsistente, raggiungendo 39-40o, prevalentemente di sera e con sudorazioni notturne. Dolore pleuritico nella parte anteriore dell'emitorace destro. Nessuna dispnea. Inoltre, su ulteriori anamnesi, i genitori hanno riferito una perdita di peso di 6-7 kg negli ultimi mesi. Non ha viaggiato.
+
+Esame: buone condizioni generali, normoidratato, normoperfuso, eupneico a riposo. Vitali: Pressione: 114/59, HR 104lpm, SatO2 99%, T 37.8o.
+Auscultazione cardiopolmonare: ritmica, nessun soffio. Il murmure della vescica è stato conservato senza altri suoni.
+
+È stata richiesta una radiografia urgente, che mostra:
+Estesa lesione cavitata nel lobo superiore destro con un livello idro-aereo. Altre lesioni più piccole alla base. Infiltrato alveolare-interstiziale nodulare nell'emitorace sinistro, suggestivo di disseminazione broncogena.
+
+Il paziente è stato indirizzato al dipartimento di emergenza per ulteriori test e valutazione da parte della medicina respiratoria. I risultati più rilevanti dei test effettuati sono stati i seguenti:
+CBC: proteina C-reattiva 142, procalcitonina 0,07, leucociti 14590/μL con neutrofilia 93%. Emoglobina 12 g/dl, ematocrito 36%, volume corpuscolare medio 76.7fL, piastrine 430000/μL.
+
+Microscopia dello striscio dell'espettorato: il DNA del Mycobacterium tuberculosis è stato rilevato con sensibilità a tutti i farmaci di prima linea testati.
+Durante la sua permanenza nel dipartimento di emergenza, il paziente è rimasto in buone condizioni generali, emodinamicamente stabile, con poca espettorazione e una piccola quantità di detriti ematici.
+Il paziente ha un buon supporto familiare, con una buona comprensione della diagnosi. Era necessario prevenire la trasmissione della malattia, quindi è stata decisa la dimissione con trattamento domiciliare e isolamento.
+
+Approccio familiare e comunitario
+Struttura familiare nucleare intatta, il paziente vive con entrambi i genitori e il fratello maggiore. Anche se il paziente era inizialmente ansioso a casa data la possibilità di trasmissione della malattia, c'è stato un buon supporto familiare in ogni momento, che ha promosso il trattamento a domicilio.
+
+Giudizio clinico (elenco dei problemi, diagnosi differenziale)
+Tubercolosi polmonare cavitaria. Il caso ha sollevato diverse diagnosi differenziali: iperreattività bronchiale o infezione delle vie respiratorie. Dobbiamo anche considerare altre patologie che presentano emottisi, come il carcinoma broncogeno; o lesioni cavitate, con cause infettive (Klebsiella pneumoniae, Streptococcus pneumoniae, Haemophilus influenzae, Nocardiosi, Actinomicosi, Aspergillosi o Istoplasmosi), neoplastiche (cancro bronchioalveolare e carcinoide), reumatologiche (granulomatosi con poliangioite) e altre.
+
+Piano d'azione ed evoluzione
+Il paziente ha iniziato un trattamento domiciliare con rifampicina 150/isoniazide 75/pirazinamide 400/etambutolo cloridrato 275mg 4 compresse/24h per due mesi con una buona tolleranza, poi è passato a rifampicina 300/isotiazide 150mg 2 compresse/24h, che sta assumendo attualmente e che rimarrà per 4-7 mesi. Ha passato il primo mese a casa a causa dell'isolamento respiratorio.
+Evoluzione
+Il paziente è stato visto una settimana dopo per un controllo. Ha continuato con febbre e tosse occasionali. Era in ansia per la sua condizione, soprattutto perché sua madre e suo fratello di 22 anni erano stati testati con l'IGRA (interferon gamma release assay), ed entrambi erano positivi, quindi aveva sentimenti di colpa.
+Finora è stato visto quattro volte da Pneumologia. Buona evoluzione dei sintomi, attualmente tosse occasionale.
+I test analitici sono stati eseguiti a tutte le consultazioni, con un miglioramento dei reagenti di fase acuta, sierologia negativa per HIV ed epatite, e un nuovo test dello striscio dell'espettorato due mesi dopo negativo per BAAR.
+Una radiografia di controllo a quattro mesi e mezzo ha mostrato un miglioramento significativo, con la scomparsa degli infiltrati nel polmone sinistro. Il polmone destro sta regredendo, con un aspetto cicatriziale, e c'è ancora l'immagine di una cavità nel lobo superiore destro.
+In attesa di ulteriori esami da parte del reparto di pneumologia.
+Tutta la famiglia convivente si è sottoposta al test IGRA, che è risultato positivo per la madre e il fratello.
+Il padre è stato testato di nuovo otto settimane dopo ed era ancora negativo.
+La tubercolosi attiva è stata esclusa nella madre e nel fratello, che sono stati sottoposti a una radiografia del torace e a una coltura dell'espettorato. Hanno iniziato un trattamento chemioprofilattico con isoniazide 300mg/24h per 9 mesi, con una tolleranza adeguata.

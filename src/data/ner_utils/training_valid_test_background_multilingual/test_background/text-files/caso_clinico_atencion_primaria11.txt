@@ -1,0 +1,32 @@
+Ámbito del caso
+Presentamos un caso clínico acerca del manejo a nivel ambulatorio de un paciente con insuficiencia cardíaca, donde participan los especialistas en Medicina Familiar y Comunitaria, evitando ingreso innecesario al paciente.
+
+Motivo de consulta
+Insuficiencia cardiaca descompensada, disnea en reposo.
+
+Enfoque individual (anamnesis, exploración, pruebas complementarias)
+
+Anamnesis: varón de 76 años. Antecedentes familiares sin interés. No alergias medicamentosas conocidas. Exfumador con inicio en la juventud y hasta hace 13 años, 10 cigarrillos al día (ICAT 23 paquetes/año). Disnea grado III/IV mMRC (no valorado por Neumología). HTA y DM tipo 2 en tratamiento con antidiabéticos orales, con afectación de órganos diana (retinopatía e insuficiencia renal estadio 3 en seguimiento por Nefrología, última revisión en Agosto 2019). Anemia de trastorno crónico. Infección pasada de Virus de Hepatitis B (Ac anticore y antiHBs positivos). Síndrome depresivo.
+El paciente acude en el último mes con mayor demanda, por empeoramiento de su cuadro depresivo, con astenia intensa, que el paciente atribuye a su depresión. Sin embargo, en una consulta, el paciente refiere disnea a leves esfuerzos, con claro empeoramiento de su disnea basal, además de edemas con fóvea en ambos miembros inferiores desde tercio distal a medios y ortopnea de 3 almohadas.
+
+Exploración física: buen estado general, taquipneico en reposo, bien hidratado y perfundido. Normocloreado.
+Auscultación: tonos cardíacos rítmicos con soplos sistólico en foco aórtico III/IV. Buen murmullo vesicular con crepitantes gruesos de bases a medios
+Abdomen: blando y depresible, no masas, no megalias, no doloroso a palpación, no signos de irritación peritoneal
+Miembros inferiores: edema con fóvea hasta tercio medio.
+Neurologico: orientado en las tres esferas, funciones superiores conservadas. No focalidad neurológica
+
+Pruebas complementarias:
+TA: 145/90 FC: 104 lpm. Saturación O2: 98% A/A
+ECG: ritmo sinusal a 72 lpm, eje izquierdo, PR sin alteraciones, QRS estrecho con datos de hipertrofia ventricular izquierda. No alteraciones isquémicas agudas
+Rx Tórax: bien inspirada, con índice cardiotorácico dentro de los limites superiores, sin aumento de densidad, con pinzamiento de senos costofrénicos y derrame pleural bilateral con signos de congestión cardíaca
+Rx tórax de control tras tratamiento: bien inspirada, con índice cardiotorácico dentro de los limites superiores, sin aumento de densidad, y senos costofrénicos conservados.
+
+Enfoque familiar y comunitario
+Paciente de 73 años, independiente para actividades básicas de la vida diaria, maneja el dinero y la medicación, funciones superiores conservadas y Barthel 75 puntos, con buen apoyo familiar. Nivel socio-económico elevado.
+
+Plan de acción y evolución
+Tras la valoración de la exploración se decide realizar Radiografía urgente de tórax y analítica urgente para la mañana siguiente, una vez que se visualiza en derrame pleural, y los resultados de la analítica con pro péptido atrial natriurético, se decide aumentar la Furosemida 40 mg vía oral, de 1 comprimidos a 2 y medio al día, y volver a los 3 días a la consulta para reevaluar.
+Pasados estos tres días, el paciente acude a consulta de nuevo, con clara disminución de edemas en ambos miembros inferiores. Se pauta radiografía de control de carácter urgente. En la radiografía podemos observar gran mejoría clínica del paciente, sin visualización de derrame pleural, a la par que la disnea que presenta el paciente.
+Tras reevaluar al paciente, se procede a la reducción escalonada de la dosis de furosemida, explicando al paciente, la necesidad de correcta adherencia al tratamiento, además de medidas higienico-dieteticas y pesarse cada día.
+Tras 10 días de tratamiento intensivo deplectivo, volvemos a citar al paciente, y observamos resolución del cuadro por completo, con total desaparición de edemas en miembros inferiores, además de buena auscultación pulmonar y no visualización de derrame pleural.
+Meses después, el paciente presenta buen control de sus patologías crónicas en consulta.

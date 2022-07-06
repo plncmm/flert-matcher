@@ -1,0 +1,24 @@
+Anamnese
+Mulher de 84 anos com um historial pessoal de hipertensão, diabetes mellitus e osteoporose, todas elas sob tratamento farmacológico. Veio para o departamento de emergência com febre de 48 horas de evolução, associada a sintomas urinários e lesões cutâneas na nádega e na perna direita de menos de 12 horas de evolução. Os familiares relataram que no último mês e meio a paciente tinha apresentado dor neuropática no mesmo membro pelo qual tinha recebido tratamento com tramadol e lírica oral e pelo qual tinha visitado o departamento de emergência em várias ocasiões, tendo recebido tratamento com metamizol intramuscular (IM) na semana anterior.
+
+Exame físico
+Paciente estuporoso com hipotensão de 80/60, taquicardia de 150 bpm e febre de 37,7 oC. Na nádega, região trocantérica e aspecto lateral externo da coxa direita, placa de eritema rosado extenso e difuso, não palpável e com limites pouco claros, com uma diminuição da temperatura local em relação ao resto do membro. Nele havia várias placas, algumas brancas peroladas mais pequenas e outras arroxeadas, de vários centímetros de tamanho; com uma auréola branca periférica de fronteiras geográficas muito claras, não infiltradas e não palpáveis. Havia uma área eritematosa mais intensa no quadrante superior exterior da nádega, mal demarcada, com uma mancha central, puntiforme e violácea.
+
+Exames complementares
+Foi efectuado um teste de sangue que revelou: - Insuficiência renal aguda (ureia 180 mg/dL e creatina 2,30 mg/dL), CRP superior a 90 com procalcitonina 46,34 ng/mL.
+- Pyuria de urina com bacteriuria.
+- Em hemograma anemia de 10,8 g/dL de hemoglobina e plaquetas de 114.000 plaquetas/mL, bem como a presença de uma contagem de leucócitos dentro da gama normal (8.400/mL) mas neutrofilia absoluta e relativa (8.000 e 94,8%, respectivamente) com 84% de sémen e 4% de glóbulos brancos.
+- Coagulação com fibrinogénio derivado de 917 mg/dL.
+- Uma radiografia simples da anca e da pélvis mostrou um aumento do volume da nádega e da coxa direita em comparação com o lado contralateral, bem como um espessamento e reticulação do tecido celular subcutâneo com uma área delimitada de bolhas de gás agrupadas.
+Foi colhida uma amostra de pele para exame microscópico mostrando alterações isquémicas agudas e crónicas com atrofia epidérmica, edema e inflamação aguda e crónica; bem como púrpura e sinais de vasculite nas estruturas vasculares do tecido celular subcutâneo.
+
+Diagnóstico
+Choque séptico no contexto da fascite necrotizante secundária à injecção de metamizol IM.
+
+Tratamento
+O paciente foi admitido para tratamento antibiótico intravenoso e a fasciotomia e o desbridamento cirúrgico de emergência foi realizado pelo departamento de traumatologia.
+
+Evolução
+Durante a cirurgia, foi drenada uma grande quantidade de material líquido malodoroso, após o que o paciente mostrou uma melhoria clínica inicial com um bom nível de consciência, normalização da função renal e parâmetros de septicemia. Durante o mesmo período, foram recolhidas amostras de cultura microbiológica, que foram positivas para Escherichia coli, e foi iniciada uma terapia antimicrobiana orientada.
+Apesar desta melhoria inicial, durante os dias seguintes as lesões cutâneas continuaram a espalhar-se, com o aparecimento de novas placas necróticas e a necessidade de até mais quatro desbridamentos cirúrgicos. Em todas elas, foram obtidas amostras para estudo microbiológico e foram repetidamente positivas para Acinetobacter baumannii multirresistente, apenas sensível à tigeciclina. Apesar do esforço terapêutico, o paciente continuou a piorar, terminando na saída 7 dias após a última drenagem cirúrgica.
+

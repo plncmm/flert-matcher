@@ -1,0 +1,27 @@
+Anamnèse
+Femme de 81 ans ayant des antécédents d'hyperuricémie, d'hyperthyroïdie, de dyslipidémie, de diabète sucré-II avec atteinte organique (rétinopathie diabétique) et de cardiopathie ischémique. Son traitement médical comprenait des antiagrégants plaquettaires, des hypolipémiants, des hypouricémiants et des antidiabétiques oraux.
+Elle est arrivée aux urgences avec une instabilité de la démarche après une chute accidentelle quelques heures auparavant. Dans les 24 heures suivant son admission en médecine interne, il a subi une nouvelle chute, commençant par une hématurie macroscopique.
+
+Examen physique
+A l'admission, il présentait des bruits cardiaques arythmiques avec une fréquence de 100 bpm. L'abdomen était mou, dépressible, indolore et sans palpation de masses ou de mégalithes. L'examen physique 24 heures après l'admission était inchangé, à l'exception d'une hématurie macroscopique.
+
+Tests complémentaires
+A l'entrée :
+- Biochimie : glycémie 244 mg/dl, créatinine 0,94 mg/dl, urée 54 mg/dl, ck 5,091 IU/l, CRP 3,30 mg/dl. Hémogramme : 11.600 leucocytes/l (82 neutrophiles, 8 lymphocytes, 10 monocytes). Coagulation : fibrinogène 499 mg/dl. Sédiment urinaire et système urinaire : hématies +++, glycosurie ++, protéines +. Hématurie légère (5-10 H x C).
+- Electrocardiogramme : fibrillation auriculaire, 125 bpm.
+- Tomodensitométrie (TDM) du cerveau sans contraste : pas de saignement ni d'autres images évoquant une pathologie intracrânienne aiguë.
+Vingt-quatre heures après l'admission :
+- Microbiologie : culture d'urine et deux hémocultures dans lesquelles a été isolée une Escherichia coli multisensible.
+- Scanner thoracico-abdominal : reins avec bassin extrarénal. Petite quantité de liquide libre. Épaississement de la paroi rectale, épaississement de l'espace présacré. Parois de la vessie épaissies avec du gaz à l'intérieur.
+
+Diagnostic
+- Cystite emphysémateuse.
+- Décompensation diabétique.
+- Fibrillation auriculaire avec réponse ventriculaire rapide.
+- Rhabdomyolyse.
+
+Traitement
+Après confirmation de la suspicion clinique de cystite emphysémateuse, elle a reçu un traitement médical conservateur consistant en un cathéter urétral avec lavage, une antibiothérapie par pipéracilline/tazobactam et une insulinothérapie.
+
+Evolution
+L'évolution clinique et radiologique a été satisfaisante, avec une amélioration de la glycémie, qui est restée inférieure à 150 mg/dl, et une disparition presque totale des images de gaz dans la paroi de la vessie dans le scanner de contrôle réalisé 12 jours après l'admission. Malgré cela, elle a été victime d'un arrêt cardio-respiratoire dans le service, en présence du personnel soignant, qui a commencé les manœuvres de réanimation et a transféré la patiente dans l'unité de soins intensifs, où elle est décédée d'un arrêt cardio-respiratoire secondaire à une fibrillation ventriculaire en relation probable avec un événement ischémique, étant donné ses antécédents personnels de cardiopathie ischémique de type infarctus.

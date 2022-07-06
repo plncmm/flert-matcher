@@ -1,0 +1,35 @@
+Anamnesi
+Una donna di 39 anni, senza allergie note ai farmaci o storia medica di interesse. Cerotto contraccettivo come unico trattamento.
+È arrivata in ospedale con un quadro clinico di insorgenza improvvisa di una sensazione di crampo emilipedale destro e disfagia, accompagnata da formicolio all'ala del naso destro e alle prime due dita della mano destra. Non c'era nessuna perdita di forza associata, o alterazione del linguaggio o della vista. Non ha riferito alcun mal di testa di accompagnamento. Una settimana prima si era sottoposto a manovre di allungamento cervicale per una "contrattura cervicale".
+
+Esame fisico
+Esame neurologico: cosciente e orientato nelle tre sfere. Linguaggio: fluente, capisce, nomina e ripete. Disartria lieve. Pupille isocoriche e normoreattive. Movimenti oculari esterni normali. Nessuna alterazione campimetrica. Nessuna diplopia. Paralisi facciale sopranucleare destra e ipoestesia facciale destra. Ipofonia. Paralisi del XII nervo cranico destro. Nessuna alterazione motoria o sensoriale. Riflessi osteotendinei normali con RCPFB. Nessuna dismetria o disdiadochinesia. Romberg negativo con andatura normale. NIHSS = 2. Lesioni eritematose violacee su mani e piedi con un aspetto marmorizzato, che sembrava livedo reticularis. Il resto dell'esame generale era normale.
+
+Test complementari
+- Pressione sanguigna 160/98 mmHg; frequenza cardiaca 108 bpm; saturazione O2 99%. Afebrile.
+- Esami di laboratorio: emocromo completo, biochimica, ormoni tiroidei, omocisteina, pattern lipidico e renale normale.
+- Sierologia: epatite B e Brucella negativi. Borrelia: inizialmente positivo (IgG + IgM) ma non successivamente confermato nel liquido cerebrospinale o nel siero.
+- Studio immunologico: anticorpi anticardiolipina, antinucleari, anti-DNA, ANCA, crioglobulina e lupus anticoagulante: negativi.
+- Studio della trombofilia: negativo.
+- Biochimica e immunoelettroforesi del liquido cerebrospinale: normale. Sierologia del liquido cerebrospinale: negativa.
+- Elettrocardiogramma: ritmo sinusale senza alterazioni della ripolarizzazione.
+- Tomografia computerizzata cranica: lesione corticale ipodensa valutabile in una singola fetta nella regione temporo-parietale destra senza effetto massa significativo e con un leggero allargamento di un solco vicino. Una profonda lesione lacunare ipodensa è stata identificata anche nell'emisfero cerebellare sinistro. Allargamento marcato con un sulcus parietale sul lato sinistro con una piccola area di ipodensità corticale nella profondità del sulcus. Riassunto: Lesioni ischemiche di aspetto vecchio-evoluto nel lobo parietale sinistro, nella regione temporo-occipitale destra e nell'emisfero cerebellare sinistro. Si trattava di eventi ischemici a piccoli vasi e multiterritoriali. Inoltre, è stata identificata una diffusa retrazione cerebrale, che era maggiore di quella prevista per la fascia d'età del paziente.
+- Studio neurosonologico: tronchi sovra-aortici duplex: alberi carotidei brevettati, ispessimento intimale nella carotide comune destra. Non sono state osservate placche ateromatose. Vertebre brevettate con dominanza sinistra. Duplex transcranico: arteria cerebrale media e arteria cerebrale posteriore brevettate e simmetriche. Fossa posteriore: basale normale, vertebre permeabili, dominanza sinistra.
+- Bubble test: negativo a riposo e con le manovre di Valsalva.
+- Angiografia TC cervicale e poligono arterioso cerebrale: non sono state identificate lesioni aterosclerotiche carotidee o vertebrali significative. Nella circolazione anteriore, non sono state identificate alterazioni delle arterie cerebrali anteriori, con dominanza sinistra come variante anatomica della normalità e nessuna alterazione delle arterie cerebrali medie nei segmenti M1-M2. Nella circolazione, non sono state osservate alterazioni di entrambe le arterie PICA, AICA, cerebellare superiore e cerebrale posteriore, con apparente pervietà millimetrica delle arterie comunicanti posteriori.
+- RM cranica: nel compartimento sopratentoriale c'era un'area di iperintensità nelle sequenze T2 e FLAIR che coinvolgeva la corteccia cerebrale nel solco rolandico laterale sinistro, immediatamente caudale alla posizione teorica dell'area motoria della mano secondo l'omuncolo di Penfield. Quest'area ha mostrato una marcata iperintensità nell'immagine di diffusione con una diminuzione dei coefficienti di diffusione apparente. C'erano altre aree di iperintensità periferica sulle sequenze FLAIR, nessuna delle quali ha mostrato restrizione di diffusione, una delle quali era situata in profondità nel giro parietale di sinistra, con un marcato allargamento del giro, indicando una componente di retrazione della cicatrice. C'era anche una sottile iperintensità che interessava uno dei gyri temporali, ma senza perdita di volume associata e con estensione delle alterazioni nella materia bianca adiacente. Inoltre, nella fossa posteriore, un focus di iperintensità millimetrica è stato visualizzato nell'emisfero cerebellare sul lato sinistro, anche con nessuna diminuzione apparente dei coefficienti di diffusione. Conclusione: lesione ischemica acuta che colpisce parte dell'area motoria primaria di sinistra. Sono state identificate altre lesioni, una di aspetto cronico e un'altra evoluta, localizzate nella corteccia cerebrale dei lobi parietale sinistro e temporale destro, rispettivamente. Vecchio infarto lacunare nell'emisfero cerebellare sinistro.
+- Angioresonanza del poligono di Willis: nessuna alterazione di particolare significato patologico è stata osservata nel poligono di Willis. Lo studio cervicale non ha identificato ematomi murali nei segmenti cervicali di entrambe le arterie vertebrali.
+- Arteriografia dei tronchi sovra-aortici e HF: alterazione dei rami distali delle arterie cerebrali suggestiva di vasculite delle arterie di medio/piccolo calibro.
+- Ecocardiogramma (ECG): nessuna alterazione.
+- ECG Holter: non sono state identificate alterazioni del ritmo cardiaco.
+- È stata eseguita una biopsia cutanea dal ginocchio destro: istologicamente processo infiammatorio perivascolare aspecifico di lieve intensità dermica superficiale. Non c'erano prove di vasculite o occlusione vascolare.
+
+Evoluzione
+Non si sono verificati nuovi episodi di carenza.
+
+Diagnosi
+- Ictus ischemico nel territorio dell'arteria cerebrale media sinistra di causa infrequente.
+- Infarti territoriali evoluti (parietale sinistro e temporale destro), clinicamente silenti.
+- Vasculopatia cerebrale, con coinvolgimento del piccolo e medio calibro.
+- Livedo reticularis.
+- Sospetto di sindrome di Sneddon.

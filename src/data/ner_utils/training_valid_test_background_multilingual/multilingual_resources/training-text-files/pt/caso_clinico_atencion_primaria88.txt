@@ -1,0 +1,48 @@
+Motivo da consulta
+O paciente chegou à clínica de cuidados primários há aproximadamente um mês com sintomas caracterizados pela parestesia, disestesia e espasmo muscular desde os joelhos até ao nível distal dos membros inferiores, especialmente nos músculos da panturrilha.
+
+Abordagem individual (anamnese, exame, testes complementares)
+Homem de 51 anos com uma história pessoal de dores lombares crónicas, insuficiência venosa nos membros inferiores, fumador de 1 maço/dia, bebedor de 1 - 2 copos de vinho/dia, sem factores de risco cardiovascular, síndrome ansio-depressiva e trabalhador numa tipografia com tintas e solventes. Como tratamento habitual, toma Sertralina 100mg/24h e Omeprazole 20mg/24h.
+Consultou por sintomas de parestesia, disestesia e cãibras musculares nos membros inferiores, predominantemente nos músculos da barriga da perna, que se prolongava há um mês. Em consultas sucessivas dos cuidados primários, os sintomas progrediram e estenderam-se ao território nervoso mediano da mão esquerda apesar do tratamento analgésico e adjuvante.
+
+Exame sistemático
+Bom estado geral, eupneico em repouso, normohidratado e cor normal, consciente, orientado e cooperativo.
+Auscultação cardiorespiratória: tons rítmicos sem murmúrios, fricção ou extratones. Murmúrio da bexiga preservado sem sons patológicos.
+Abdómen: macio e depressável sem palpação de massas ou megalitismo. Não é doloroso à palpação. Sem defesa peritoneal.
+Exame neurológico: pupilas isocóricas normoreactivas, sem alteração dos nervos cranianos, sem perda de força ou tónus, paraestesia e aumento da sensibilidade à dor em ambos os membros inferiores. Sem dismetria. Romberg negativo. Andamento normal.
+Membros: Lassegue negativa e discreta livedo reticularis com atrofia cutânea nos membros inferiores, como prova de insuficiência venosa. Leguminosas preservadas. Abolido aqui o ROT e exaltado o styloradialis esquerdo, o resto normal.
+
+Testes complementares
+Os cuidados primários realizaram testes analíticos com:
+Hemograma normal.
+Bioquímica com ligeira alteração de GGT (88 U/L) e CPK (281 mcg/L). Iões dentro do intervalo normal.
+Serologia da sífilis negativa.
+B12 e ácido fólico dentro do normal.
+Hormonas da tiróide normais.
+Foi também realizada uma radiografia lombar, onde não foram observadas imagens patológicas.
+
+Dada a persistência dos sintomas e a fraca resposta às medidas higieno-dietéticas, analgesia e coadjuvantes, foi decidido remeter o caso para o especialista para análises complementares e testes complementares.
+Na análise que encontrámos:
+Hemograma normal.
+Bioquímica: Chumbo 3,5 mcg/dl (N < 40mcg/dL), Cobre 135mg/L (N 70 - 140), Creatinina e ureia dentro do intervalo normal, iões normais, ligeiro aumento em GOT, BPL e GGT, LDH 182 U/L (135 - 225U/L), ECA 50 U/L (8 - 52 U/L), Proteína 6. 8 g/dL (6,6 - 8,7 g/dL), albumina 4,6 g/dL (3,4 - 4,8 g/dL), CRP 0,2 mg/dL (0 - 0,5 mg/dL), antistreptolysina O 78 U/mL (0 - 200U/mL), RF 67,8 U/mL (0 - 14 U/mL), C4 e C3c normal.
+Urina 24H: Creatinina, cálcio, fosfato e urate dentro do intervalo normal. Porfirinas normais.
+Imunologia:
+Imunofixação: componente monoclonal em soro normal.
+Autoimunidade: IgA, IgM, IgG, ANA, anti-MPO, anti-PR3, membrana de porão anti aglomerular negativa. HCV RNA carga viral 2450000 (Positivo 1b).
+Serologia: (Anti - HBc) núcleo HB negativo, Ac contra HCV positivo, Ac contra HIV 1/2 negativo.
+Proteinograma: proteínas totais, albumina, globulinas dentro da gama normal.
+Foi também realizada uma ENG - EMG dos membros, mostrando uma polineuropatia sensorial-motora axonal moderada com predominância sensorial nos membros inferiores, e uma RM do crânio e da coluna lombar não mostrou quaisquer achados patológicos.
+Com o diagnóstico da doença hepática do HCV, foi iniciado o tratamento com interferão e Ribavirina. Apesar do tratamento correcto e após a sua conclusão, o paciente continuou a apresentar os mesmos sintomas clínicos, mesmo um agravamento dos sintomas. Dada a fraca evolução, outros diagnósticos diferentes foram considerados e foi então que nos apercebemos que o nosso paciente usava amálgamas de enchimento há muitos anos, pelo que prolongámos o estudo analítico novamente com outro metal pesado não considerado anteriormente, o mercúrio. Foi encontrado mercúrio total no sangue a 22 mcg/L (N < 10 mcg/L), e foi encontrado mercúrio total na urina a 2 mcg/g de creatinina (N < 30mcg/L).
+
+Tendo em conta estas novas descobertas, foi iniciado o tratamento com D - penicilamina 250mg/6h e remoção das próteses dentárias de amálgama. Em controlos analíticos sucessivos, o nível de mercúrio no sangue diminuiu e encontrámos uma melhoria clínica significativa.
+
+Abordagem familiar e comunitária
+Independente para ABVD. Casado, sem filhos e de nível sócio-económico médio. Tem um trabalho numa empresa gráfica.
+
+Julgamento clínico (lista de problemas, diagnóstico diferencial)
+Diagnóstico: intoxicação crónica por mercúrio e doença hepática por HCV.
+
+Diagnóstico diferencial: insuficiência venosa, anemia, enólica ou outras causas tóxicas (ocupacional, preenchimento de amálgamas...), alterações iónicas, diagnóstico diferencial de polineuropatia (DM, porfírias...), esclerose múltipla ou outras alterações cerebrais, sífilis, radiculopatia ou neuropatia de aprisionamento, alterações da tiróide.
+
+Plano de acção e evolução
+Devido ao tratamento com D - Penicilamina, o paciente mostrou uma melhoria progressiva, com menos cãibras, melhoria da sensibilidade das pontas dos dedos das mãos e dos pés, a alternância entre hiperalgesia - a hipoalgesia anterior normalizou, persiste apenas um ligeiro entorpecimento. Subsequentemente, durante os check-ups no consultório médico, os sintomas aumentaram em surtos, e as análises de controlo revelaram um novo aumento do nível de mercúrio, razão pela qual o tratamento com D-Penicilinamina teve de ser retomado em várias ocasiões. Além disso, após tratamento com Interferon e Ribavirin, a carga viral foi confirmada como negativa.

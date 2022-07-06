@@ -1,0 +1,11 @@
+Anamnèse
+Un homme de 47 ans, fumeur, sans autre antécédent médical intéressant, s'est présenté aux urgences pour une détérioration cognitive et une fièvre de 40oC. A l'examen, il était tachycardique, tachypnéique, avec une obnubilation et une agitation psychomotrice importante. Analyses de laboratoire : leucocytes 8810/μL avec neutrophilie (86,6 %), plaquettes 64000/μL et réactifs de phase aiguë élevés, avec CRP 88 mg/dl et procalcitonine 1,79 mg/j. Un scanner crânien a été demandé, sans résultat, avant de réaliser une ponction lombaire, et le liquide céphalo-rachidien a montré : des protéines totales 184 mg/dl, des leucocytes 245 /μL, avec une prédominance de cellules polymorphonucléaires (67 %), et du glucose 85 mg/dl. Une antibiothérapie empirique a été mise en place avec de la Ceftriaxone et de la Vancomycine.
+
+Evolution
+Le patient a commencé à présenter des symptômes convulsifs avec une atteinte respiratoire nécessitant une intubation orotrachéale, pour laquelle il a été admis dans l'unité de soins intensifs. Une méningite aiguë due à Listeria monocytogenes a été confirmée par PCR du fluide, avec une bactériémie secondaire dans les cultures sanguines prélevées à l'arrivée. Une antibiothérapie ciblée à base d'ampicilline et de gentamicine a été mise en place, avec une évolution infectieuse et neurologique favorable, sans nouvelles crises une fois dans le service hospitalier. La rhombencéphalite et l'abcès cérébral ont été écartés par l'imagerie par résonance magnétique.
+En guise d'incidence, le patient a présenté une ototoxicité due aux aminoglycosides qui était partiellement réversible à la sortie de l'hôpital.
+
+
+Diagnostic
+Méningo-encéphalite aiguë à Listeria monocytogenes chez un patient immunocompétent.
+Ototoxicité due aux aminoglycosides.

@@ -1,0 +1,27 @@
+Anamnesis
+Male child aged 8 years, with no drug allergies, no personal history or surgical interventions of interest, except for recurrent wheezing in early childhood. He has no family history of oncological disease. He is an only child, both parents are healthy and live with a dog. He does not take medication regularly.
+In August 2016, the child suffered a minor trauma to the dorsolumbar area. Since then, he has had localised pain in the lumbosacral region which, two months later, radiates to the left leg, increases with sitting and limits flexion of the axial skeleton. She also associated pain in the scapula and right subcostal area, as well as unquantified weight loss, hyporexia and asthenia. In October 2016, the patient had harder stools with mucous content and strands of red blood. She had no fever or consumption of unpasteurised products throughout the process, as well as other symptoms due to equipment.
+The outpatient paediatrics department requested an MRI of the lumbosacral spine on 06/10/16, which showed generalised infiltration of the bone marrow in the axial and appendicular skeleton, and an anterior epidural soft tissue mass in relation to L3-L5 and T12, as well as an anterolateral thecal sac imprint in T3, without significant involvement of the spinal canal; bone scan (GGO) on 14/10/16 showing involvement of the axial skeleton, pelvis, scapulae and rib cage; and bone marrow biopsy and aspirate (AMO/BMO) on 10/10/16 confirming invasion by cells of non-hematopoietic origin, with predominant signet ring cellularity and positivity for CDX2 (gastrointestinal tract) EMA +, pancytokeratin +, S100 +, enolase and vimentin negative.
+Given the surprising finding of suspicion of digestive neoplasia with the tests performed, the patient was referred to the Paediatric Oncology service to complete the study.
+
+Physical examination
+Weight: 26 kg, height: 126 cm. Pale skin and mucous membranes. No adenopathies. Sweaty. Cardiopulmonary auscultation normal. Abdomen soft, not painful on palpation, no masses or megaliths. Pain in the right sacroiliac joint and on rotation of the left hip. Limitation of flexion at lumbar level. Intense pain on getting off the stretcher. Wrapped posture with impossibility of standing upright, weakness of the lower limbs and severe pain when standing upright.
+
+Complementary tests
+After the visit to the Paediatric Oncology Department, the following tests were obtained:
+"Blood tests (16/10/16): biochemistry, haemogram and coagulation without relevant alterations.
+"Proteinogram: normal. Iron metabolism: ferritin 1,416 μg/l (30-400), the rest normal.
+"Upper endoscopy (19/10/16): oesophagus, stomach and duodenum normal.
+"Colonoscopy (19/10/16): ulcerated mass about 3 cm long from 2 cm anal margin to 5 cm in right rectal margin biopsied with well-defined limits. Rest of colon in ileum without lesions.
+"Pathology of rectal biopsy (19/10/16): adenocarcinoma of the colon-rectum with signet ring cells with apparent loss of PMS2 expression and microsatellite stability. Mutation in exon 4 of the KRAS gene (25/11/16).
+"Chest CT scan (21/10/16): left pleural effusion without evacuation criteria with pleural implant at the level of the 4th rib of 10 mm, metastases in ribs already evidenced in scintigraphy. No parenchymal lung metastases.
+"Abdominopelvic MRI (24/10/16): tumour in the lower and middle rectum 15 mm from the anal margin in contact with the internal anal sphincter, of annular, eccentric and ulcerated morphology, affecting the right wall with extramural extension and infiltrating the mesorectal and vascular fascia, reaching a length of 50 mm. It is accompanied by multiple adenopathies mesorectal chains (5 mm) and bilateral internal iliac (9 mm). Heterogeneity of the bone marrow suggestive of bone metastatic dissemination and small amount of free peritoneal fluid (T3dN2M1).
+
+Diagnosis
+KRAS signet ring cell adenocarcinoma of the rectum (exon 4), stage IV with lymph node, bone, pleural and bone marrow involvement. Spinal cord compression syndrome in this context, with associated neuropathic pain.
+
+Treatment
+After confirming the existence of metastatic rectal adenocarcinoma, treatment with chemotherapy (QT) was initiated on 21/10/2017 according to FOLFOXIRI scheme (folinic acid, 5-FU,oxaliplatin and irinotecan) + biweekly bevacizumab, receiving a total of 12 cycles until 30/03/17, with good tolerance, obtaining in abdominopelvic CT (03/04/17) partial response of the disease at local and lymph node level according to RECIST 1. 1, with absence of disease in bone marrow confirmed by AMO/BMO (09/01/17), normalisation of tumour markers (CEA 64.3 ng/ml on 09/01/17 to 5.9 ng/ml on 10/04/17), ambulation without support or corticoids after the third cycle and cessation of rectorrhagia, but with progression of bone metastases. In terms of toxicity, only G1 diarrhoea and neurotoxicity in fingertips G1 should be highlighted.
+
+Evolution
+Given the persistence of bone metastatic disease and the probable toxicity in the case of treatment with RT, continuation with QT based on FOLF (folinic acid, 5-FU) + biweekly bevacizumab was determined, starting on 10/04/17, receiving 6 cycles to date with excellent tolerance; and extension of the PMS2 study to assess subsequent treatment with pembrolizumab on an experimental basis.

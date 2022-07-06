@@ -1,0 +1,36 @@
+Anamnesis
+Varón de 19 años de edad, fumador de 10 cigarrillo/día, sin otros antecedentes de interés. Consulta por dolor en la fosa renal derecha de 10 días de evolución acompañado de hematuria de aproximadamente 12 días. No refiere otra sintomatología asociada.
+
+Examen físico
+A la exploración física se palpa efecto masa en la fosa renal derecha, con puñopercusión renal derecha positiva. Se realiza exploración testicular, siendo esta normal.
+
+Pruebas complementarias
+• Bioquímica: LDH 1.180 UI/l.
+• Sedimento urinario de 20-50 hematíes/campo.
+• Marcadores tumorales testiculares dentro de la normalidad.
+• Ecografía: gran masa renal derecha con conglomerados adenopáticos retroperitoneales e hilio hepático.
+• Tomografía computarizada (TC): informa de una masa renal derecha de 9,8 x 8 x 8 cm (AP x T x CC) con extensión extracapsular con afectación de grasa perirrenal, posiblemente arteria y vena renal homolaterales, adenopatías en el hilio renal y retroperitoneales, así como metástasis pulmonares múltiples. Angiomiolipomas y quistes en el riñón izquierdo.
+• Por la sospecha de posible infiltración de los vasos del hilio renal, se solicita una resonancia magnética (RM), que confirma la presencia de grandes conglomerados adenopáticos retroperitoneales que desplazan la vena renal derecha y la vena cava inferior, pero sin existir imágenes concluyentes de infiltracion tumoral.
+
+Diagnóstico
+Criterios diagnósticos necesarios para considerar el tumor de Wilms del adulto, que fueron formulados por Kilton:
+• Edad mayor de 15 años.
+• Presencia de neoplasia renal primaria en ausencia de elementos glandulares maduros de carcinoma de células renales.
+• Confirmación histológica de componente celular primitivo blastematoso y estructuras embrionarias tubulares o glomerulares.
+La National Wilms Tumor Study Group (NWTS) lo estadifica de este modo:
+I. Tumor limitado al riñón y completamente extirpado. La cápsula renal está intacta y el tumor no sufrió ruptura antes de la escisión. Sin tumor residual.
+II. Tumor que se extiende a través de la cápsula perirrenal, pero completamente extirpado. Puede haber siembra local combinada al flanco o el tumor pudo haber sido biopsiado. Los vasos extrarrenales pueden contener trombos de tumor o puede estar infiltrado por este.
+III. Tumor residual no hematógeno confinado al abdomen: compromisos de ganglios linfáticos, siembra peritoneal difusa, implante peritoneal, tumor más allá del margen quirúrgico macro o microscópico, o tumor no por completo.
+IV. Metástasis hematógenas en el pulmón, hígado, hueso, cerebro u otros órganos.
+V. Compromiso renal bilateral en el momento del diagnóstico.
+El paciente presentado se encuentra en un estadio IV, debido a las metástasis pulmonares.
+
+Tratamiento
+El paciente es sometido a cirugía, hallándose la vena cava comprimida por un bloque adenopático de gran tamaño interaortocava. Se extirpó en bloque el riñón y la glándula suprarrenal. Disección y extirpación de masas adenopáticas interaortocavas hasta la bifurcación aórtica en su límite inferior.
+La anatomía patológica revela que la neoplasia se extiende a la grasa perirrenal, sin alcanzar el borde quirúrgico en la pieza de nefrectomía, pero emboliza la vena renal, apreciándose además múltiples imágenes de embolia vascular intra y extrarrenal.
+Metastatiza en 1-2 ganglios periaórticos proximales y extensamente en los ganglios aortocavos. La suprarrenal no está afectada.
+El examen microscópico informa de tumoración formada por células de tamaño pequeño-intermedio, con núcleos redondeados o poligonales, que muestran escaso citoplasma y escasos signos de diferenciación, creciendo formando sábanas difusas. Entre estas se aprecian formaciones tubulares y rosetoides y componente estromal. Hay abundantes imágenes de mitosis con presencia de algunas mitosis atípicas.
+
+Evolución
+Con buena evolución postoperatoria, el paciente fue dado de alta al séptimo día postoperatorio.
+Enel momento actual, el paciente se encuentra siguiendo protocolo quimioterápico de nefroblastoma de la International Society of Paediatric Oncology (SIOP) 2001.

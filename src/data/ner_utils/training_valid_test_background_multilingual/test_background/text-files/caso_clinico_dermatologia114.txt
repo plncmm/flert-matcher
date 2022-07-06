@@ -1,0 +1,22 @@
+Anamnesis
+Mujer de 50 años derivada por sospecha de dermatomiositis por historia de debilidad muscular y ANA positivos.
+La paciente no refería síntomas cutáneos, aunque sí había notado cambios progresivos en su aspecto físico sin poder definirlos ni concretarlos temporalmente.
+La paciente no presentaba antecedentes dermatológicos previos, excepto una consulta varios meses antes por tendencia a equimosis espontánea en antebrazos, sin otra clínica asociada, con hallazgo de niveles bajos de vitamina C en la analítica sanguínea y que, tras la adecuada suplementación vitamínica, presentó cierta mejoría clínica. Además, se realizó una revisión exhaustiva de su historia clínica y se descubrió que la paciente presentaba hipertensión arterial de reciente aparición, inicio de menopausia y que estaba siendo tratada también por labilidad emocional e insomnio en los últimos meses.
+
+Exploración física
+A la exploración física presentaba hiperpigmentación cutánea de predominio en región facial y escote, leve hirsutismo en zonas dependientes de andrógenos como laterales faciales, atrofia cutánea con aspecto poiquilodérmico, reaparición de equimosis y sobrepeso de marcado predominio troncular, con acúmulo de grasa cervical y fascies de luna llena.
+
+Exploraciones complementarias
+Ante la sospecha clínica de síndrome de Cushing (hipercortisolismo), se solicitó una analítica sanguínea con perfil hormonal en la que destacaban niveles de cortisol y ACTH elevados, por lo que la paciente fue derivada a Endocrinología para estudio.
+Se completó el estudio por parte de Endocrinología y en los resultados destacaban niveles elevados de cortisol libre en orina de 24 horas, cortisol en saliva a las 23 horas, ACTH, andostendiona y DHEA-S. El test de Nugent resultó compatible con síndrome de Cushing.
+Además, presentaba Hb1AC alterada a pesar de glucemias normales en las analíticas sanguíneas previas, hallazgo diagnóstico de diabetes mellitus.
+Se realizó una resonancia magnética que evidenció una lesión de 1,8x1x1,1 cm en la glándula hipofisaria, compatible con macroadenoma hipofisario.
+
+Diagnóstico
+Enfermedad de Cushing por macroadenoma hipofisario.
+
+Tratamiento
+Se llevó a cabo la resección tumoral completa vía transesfenoidal mediante abordaje endoscópico. El análisis histopatológico de la pieza quirúrgica confirmó el diagnóstico de adenoma hipofisario productor de ACTH.
+
+Evolución
+Tras el tratamiento, la paciente experimentó una mejoría gradual y progresiva a lo largo de varios meses de sus síntomas y sus alteraciones analíticas.

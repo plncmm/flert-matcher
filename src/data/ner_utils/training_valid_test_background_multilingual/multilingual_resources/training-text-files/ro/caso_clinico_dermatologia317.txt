@@ -1,0 +1,21 @@
+Anamneză
+Un băiat în vârstă de 8 luni s-a prezentat la departamentul de dermatologie pentru investigarea unui limfedem congenital al mâinilor. Antecedentele obstetricale ale mamei sale au fost notabile pentru polihidramnios fără diabet gestațional. Părinți fără consangvinitate. În istoricul său personal, s-a născut prematur la 36 de săptămâni de gestație prin inducerea travaliului, cu o greutate la naștere de 4 470 g și o înălțime de 50 cm. Istoricul familiei sale includea un frate mai mare născut cu transpoziție a vaselor mari. De la naștere a prezentat episoade ușoare și recurente de infecții ale tractului respirator superior și otită externă. În plus, la vârsta de 7 luni a început să aibă episoade frecvente de scaune cu mucus și substanțe nedigerate.
+
+Examinarea fizică
+Examenul fizic a evidențiat limfedem segmentar și asimetric predominant la ambele mâini, regiunea cervicală, membrul inferior drept, pubis și hidrocel. Picioarele au fost respectate. Palparea a evidențiat un conglomerat adenopatic în axila dreaptă.
+
+Examinări complementare
+Testele de laborator au arătat niveluri de limfocite la limita inferioară a normalității, hipoproteinemie cu hipoalbuminemie și hipogammaglobulinemie (IgG 254 mg/dL, IgA 13 mg/dL). Toate celelalte teste de laborator, inclusiv colesterolul, trigliceridele, coagularea, imunoglobulina E, funcția tiroidiană, ceruloplasmina, serologia pentru hepatita C, hepatita B, virusul imunodeficienței umane, sifilisul, toxoplasma, virusul Epstein-Barr, citomegalovirusul, virusul varicela zoster și rubeola au fost normale sau negative. Studiul subpopulației limfocitare a arătat o creștere anormală a limfocitelor T și B virgine. Studiul de digestie a scaunelor a fost modificat, cu o creștere a fibrelor celulozice, de amidon și musculare, deși nivelurile fecale de alfa-1-antitripsină au fost normale. Radiografia toracică a fost normală. Radiografia coloanei vertebrale și a membrelor inferioare nu a evidențiat nicio dismetrie. Ecografia abdominală și ecocardiograma au arătat un lichid liber peritoneal și respectiv pericardic ușor. O ecografie ganglionară a evidențiat adenopatii axilare și inghinale bilaterale, predominant pe partea dreaptă.
+S-a efectuat un RMN fără contrast al craniului, care a fost normal. RMN-ul trunchiului și al extremităților a evidențiat dilatații artrozomatoase ale vaselor limfatice superficiale la nivelul membrelor superioare, membrului inferior drept și regiunii cervicale. Canalul toracic era dilatat și exista o cantitate discretă de ascită. În plus, a existat un edem al mucoasei în principal la nivelul jejunului și prezența vaselor ectatice în peretele jejunului.
+S-a efectuat un cariotip și a fost normal. Testul de mutație a genei FLT4 (VEGFR-3) pentru boala Milroy a fost negativ.
+O biopsie cutanată a piciorului a evidențiat limfangiectazii ale vaselor superficiale. Examenul histologic al unui ganglion limfatic axilar drept a arătat un ganglion limfatic înlocuit în întregime de canale vasculare de natură limfatică, în unele dintre acestea existând agregate limfoide intraluminale care nu au format foliculi secundari. Aceste canale aveau endoteliu cu imunomarcație pozitivă pentru D2-40. Acest țesut a alternat cu zone de țesut gras matur. Capsula ganglionară a fost păstrată. Stroma densă era formată în cea mai mare parte din celule fusiforme care corespundeau țesutului muscular neted.
+Având în vedere triada de diaree, hipoproteinemie și hipogammaglobulinemie, s-a efectuat o endoscopie orală unde s-au observat vilozități dilatate și perlate cu un model peticular în duoden, restul examenului fiind normal. A fost prelevată o biopsie a mucoasei intestinale cu histologie compatibilă cu limfangiectazia intestinală.
+
+Diagnostic
+Conform clasificării ISSVA din 2014, pacientul a avut o anomalie limfatică primară generalizată cu limfedem și limfangectasie intestinală, deci avem de-a face cu un sindrom de limfangectasie-limfedem sau sindrom Hennekam.
+
+Tratament
+Am început tratamentul cu sirolimus oral în doză de 0,8 mg/m2 la fiecare 24 de ore, menținând nivelul medicamentului în sânge între 5-7 ng/mL.
+
+Evoluție
+Pacientul a urmat un tratament cu sirolimus oral timp de 2 luni, cu remiterea diareei și o ușoară ameliorare a limfedemului cutanat.

@@ -1,0 +1,28 @@
+Motivo de consulta
+Masa en el cuello.
+
+Enfoque individual (anamnesis, exploración, pruebas complementarias)
+Anamnesis: mujer de 17 años sin antecedentes de interés que acude al centro de salud rural por aparición en los últimos 7 días de masa laterocervical sin otros síntomas acompañantes. Niega episodios previos.
+
+A la exploración buen estado general, presenta adenopatía en región supraclavicular izquierda no adherida a planos profundos e indolora a la palpación. No se palpan otras adenopatías, ni axilares ni inguinales. Sin aparente síndrome constitucional, no disnea ni disfagia, exploración faringe sin alteración de amígdalas.
+
+Se solicita Hemograma con leucocitos 11.440/mm3 resto normal. Coagulación normal. Bioquímica con LDH 287, IgA 587 mg/dL, IgG 17480 mg/dL, IgM 318 mg/dL, Hierro 17, ferritina normal. Estudio ecográfico con presencia de múltiples adenopatías en lateral izquierdo de cuello aumentadas de tamaño programándose biopsia ecodirigida. En el estudio anatomopatológico se obtiene como resultado: Linfoma de Hodgkin Clásico, Subtipo celularidad mixta.
+
+Juicio clínico (listado de problemas, diagnóstico diferencial)
+Juicio clínico: Linfoma de Hodgkin. Diagnóstico diferencia: Lipoma.
+
+Plan de acción y evolución
+Tras la obtención del diagnóstico anatomopatológico la paciente es derivada a consultas de hematología donde se solicita serología, analítica general, test de embarazo, ecocardiografía, PET/TC para el enfoque terapéutico y es derivada a consultas de reproducción para preservación ovárica.
+
+Serologia: Citomegalovirus IgG positivo, IgM negativo. V. Epstaein Barr IgG positivo, IgM negativo. Hepatitis A IgG negativo, IgM negativo. Hepatitis B Ag superficie negativo, HBc negativo, HBs negativo. Hepatitis C IgG negativo. Parvovirus IgG negativo, IgM negativo. Rubeola IgG inmune. Sifilis IgG negativo. Toxoplasma IgG negativo. VIH 1⁄2 - AG P24 negativo.
+Analitica 16.4.19:
+Hemograma: leucocitos 11440/mm3, resto normal.
+Bioquímica: LDH 287 UI/l, IgA 587 mg/dL, IgG 17480 mg/dL, IgM 318 mg/dL, Hierro 17, ferritina normal.
+Tiroides normal. Coagulación normal. Prueba de embarazo negativa.
+Ecocardio 25.4.19: Ventrículos izquierdo y derecho, aurículas y raíz aórtica de dimensiones normales con grosos de paredes normales. Función sistólica global conservada. No patología valvular.
+PET/TC 22.4.19: Afectación linfática supradiafragmática destacando conglomerados adenopáticos localizados en región laterocervical izquierda supraclaviculares con diámetro de hasta 4 cm, así como en regiones retropectorales y axilares izquierdas y mediastínicas anterosuperiores prevasculares y en cadena mamaria interna bilateral. Bazo presenta muy ligero incremento de captación. Resto de organismo no se aprecia alteraciones en la distribución del radiofármaco.
+
+Se realiza tratamiento oncológico con la pauta ABVD llegando a recibir 6 ciclos.
+Ultimo control PET/TC el día 12.12.19 que presenta una excelente respuesta metabólica con presencia de mínimos restos a nivel supradiafragmático, adenopatías hipermetabólicas que sugieren persistencia de la enfermedad, así como aumento de actividad en región tímica y en médula ósea, sin claro acúmulos focales. Compatibles con reactivación secundaria al tratamiento. Actualmente pendiente de radioterápia.
+
+Por otro lado en consultas de ginecología se realiza una exploración ginecológica con ecografía transvaginal sin hallar patología ginecológica alguna y se inicia procedimiento de preservación ovárica.

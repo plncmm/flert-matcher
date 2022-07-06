@@ -1,0 +1,27 @@
+Anamnesis
+Varón de 74 años de edad con los siguientes antecedentes personales: no reacciones alérgicas medicamentosas conocidas; niega hábitos tóxicos; hipertensión arterial en tratamiento; diabetes mellitus tipo II; obesidad; fibrilación auricular paroxística anticoagulada con acenocumarol; doble lesión en la válvula mitral; síndrome de apnea-hipopnea obstructiva del sueño; enfermedad renal crónica estadio 3; hiperuricemia con crisis de podagra; poliartrosis; temblor esencial y shock séptico de origen pulmonar hace dos años. Intervenido por prótesis de rodilla izquierda hace 4 años. Intervenido por herniorrafia inguinal bilateral. Tratamiento habitual: enalapril 20 mg, tamsulosina, torasemida 5 mg, pramipexol, acenocumarol 4 mg según pauta, alopurinol 300 mg, bisoprolol fumarato 10 mg, pantoprazol 20 mg, metformina 850 mg, lercanidipino hidrocloruro 20 mg.
+El paciente acude al Servicio de Urgencias por malestar general de 2 horas de evolución, acompañado de sensación distérmica sin termometrar, náuseas sin vómitos y clínica miccional consistente en polaquiruria, sin otra sintomatología.
+
+Exploración física
+Tensión arterial 164/97 mmHg; frecuencia cardíaca 69 lpm; temperatura 37,5 oC. Consciente y orientado en las tres esferas. Sequedad mucocutánea. Auscultación cardíaca rítmica y sin soplos ni ruidos sobreañadidos. Auscultación pulmonar con murmullo vesicular conservado y ausencia de ruidos adventicios. Ruidos hidroaéreos abdominales presentes y de intensidad normal. Abdomen blando y depresible, no doloroso a la palpación, sin signos de peritonismo, no se palpan masas ni megalias. Hernia inguinoescrotal derecha irreductible, hernia inguinal izquierda irreductible. Puñopercusión renal bilateral negativa. Tacto rectal: próstata de bordes regulares, no dolorosa, no heces en la ampolla rectal. Miembros inferiores sin edemas ni signos de trombosis venosa profunda.
+
+Pruebas complementarias
+● Analítica de sangre: en la que destaca leucocitosis de 15,74 103/μl, con neutrofilia (89,40%), aumento de reactantes de fase aguda y deterioro de la función renal con urea 71 mg/dl y creatinina 1,60 mg/dl.
+● Sistemático de orina: pH 5,5, densidad 1.010 g/l, proteínas 20 mg/dl; glucosa negativo; cuerpos cetónicos negativo; bilirrubina 0 mg/dl; urobilinógeno negativo; nitritos positivo; leucocitos 500 cel/μl; hematíes 300 céls./μl.
+● Sedimento urgente: > 100 leucocitos/campo, células de vías b aisladas y bacteriuria.
+● Hemocultivos y urocultivo: Escherichia coli multisensible.
+
+Tratamiento
+Se diagnosticó al paciente de infección del tracto urinario complicada, iniciándose tratamiento con ceftriaxona 1 g/12 horas por vía intravenosa, y se dejó en observación para valorar la respuesta al tratamiento, a pesar de lo cual persistió la clínica y la fiebre.
+Dados los antecedentes del paciente, y al existir empeoramiento de la función renal del paciente, cuya creatinina sérica basal era de 1,3 mg/dl, se decidió solicitar una ecografía abdómino-pélvica, donde se objetivó en el riñón derecho una hidronefrosis con ectasia pielocalicial grado III, con dilatación del uréter en su recorrido, dirigiéndose a la región inguinal, donde el paciente portaba una hernia inguinoescrotal recidivada; en la región yuxtavesical el uréter presentaba un calibre normal. Para valorar un posible compromiso de la vía urinaria como causante del fracaso renal agudo, se decide solicitar una tomografía computarizada, en la que se observó uropatía obstructiva con hidronefrosis grado III y dilatación significativa del uréter derecho hasta alcanzar una voluminosa hernia inguinal, donde se aloja; a la salida de la hernia presenta un cambio de calibre causante de la patología, que condiciona un retraso en la eliminación de dicho riñón y una hernia inguinal izquierda de contenido graso. El paciente requirió ingreso hospitalario y antibioterapia intravenosa.
+
+Diagnóstico
+● Infección del tracto urinario febril.
+● Ureterohidronefrosis derecha grado III por herniación del uréter derecho.
+● Hernia inguinal bilateral recidivada.
+
+Evolución
+Tres meses después el paciente se sometió a un tratamiento quirúrgico, practicándose:
+● Hernioplastia con malla de polipropileno 30 x 30 por vía preperitoneal según técnica de Stoppa, mediante incisión de laparotomía media infraumbilical.
+● Cateterización del meato ureteral derecho con colocación de catéter doble J 6 x 30.
+Tras la intervención quirúrgica el paciente recuperó sus niveles de creatinina sérica basales en torno a 1,3-1,5 mg/dl, y fue dado de alta tras 4 días desde la intervención. En el postoperatorio precoz presentó un hematoma en la región quirúrgica y edema escrotal. A las cuatro semanas de la intervención quirúrgica se procede a la retirada del catéter doble J sin incidencias. La evolución del paciente ha sido satisfactoria.

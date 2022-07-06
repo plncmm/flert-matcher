@@ -1,0 +1,16 @@
+ANTECEDENTES, ENFERMIDADE ACTUAL E EXPLORACIÓN FÍSICA
+Varón de 56 anos, sen alergias, exfumador e esquizofrenia paranoide tratado no pasado con TEC e múltiples antipsicóticos. É atopado polo seu irmán inconsciente; ao chegar a ambulancia presenta tensión arterial de 60/40 mmHg con saturación de Ou2 do 65%, temperatura de 34,8 °C. Á auscultación crepitantes e roncus en ambos campos pulmonares. Realízase intubación orotraqueal e iníciase perfusión de catecolaminas (noradrenalina e adrenalina). Á súa chegada ao servizo de urxencias solicítase valoración cardiológica por electrocardiograma (ECG) suxestivo de infarto inferolateral. O ECG mostra ritmo nodal con QRS de 120 ms e morfología de rSR de V2-V6 con última R empastada co ST. Ecocardioscopia con función do ventrículo esquerdo (VIN) conservada e sen alteracións segmentarias. Analítica descrita en probas. A radiografía de tórax é compatible con neumonía multilobar. Cardiología mantén unha actitude expectante, e o paciente ingresa no servizo de medicina intensiva para tratamento do proceso infeccioso respiratorio.  
+
+PROBAS COMPLEMENTARIAS
+ECG de chegada: ritmo nodal con QRS de 120 ms e morfología de rSR de V2-V6 con última R empastada co ST.
+ECG tras corrección de temperatura: práctica desaparición das ondas de Osborn, recuperando o ritmo sinusal normal.
+ANALÍTICA: hemograma: hemoglobina 14,4 g/dl, hematocrito 41,6%, leucocitos 1700x10^3/μl, neutrófilos 93,3%, plaquetas 133.000x10^3/μl. Coagulación: INR 1,61, IQ 52%, TP 17,1, APTT 42,9, dímero D 708 ngr/ml.
+BIOQUÍMICA: glucosa 163 mg/dl, urea 57 mg/dl, creatinina 0,39 mg/dl, GFR MDRD4; 60 ml/min/1,73m2, sodio 127 mm/l, potasio 4,4 mm/l, magnesio 2,2 mm/l. Creatín kinasa 672 Ou/L. Lactato 2,37 mm/l. Procalcitonina 0,96 ng/ml. Troponina I < 0,01 ng/dl. CK-MB masa 139,93 ng/ml. Gasometría arterial: pH 7,29. pCO2 67 mmHg. pO2 42 mmHg. HCO3 32,2 mm/l. Exceso de base 3,36 mm/l.
+RADIOGRAFÍA DE TÓRAX: é compatible con neumonía multilobar (imaxe 2).
+ECOCARDIOSCOPIA: ventrículo esquerdo non dilatado con función conservada. Non alteracións segmentarias da contractilidad. Non valvulopatía aórtica. Mínima insuficiencia mitral. Cavidades dereitas con morfología e función normal. Non derrame nin masas intracardiacas.
+
+EVOLUCIÓN CLÍNICA
+O equipo de intensivistas solicita nova valoración do paciente por dúbidas sobre a decisión tomada por cardiología. Tras reevaluar os electrocardiogramas solicítase nova temperatura do paciente que é, nese momento, indetectable. Quéntase gradualmente ao paciente con mantas térmicas e soro morno. Aos 32 °C obsérvase corrección parcial das ondas, que desaparecen por completo aos 36 °C. Facendo o diagnóstico de ondas de Osborn por hipotermia e acidosis. O paciente finalmente falece por fracaso respiratorio.
+
+DIAGNÓSTICO
+Neumonía multilobar adquirida na comunidade. Insuficiencia respiratoria aguda. Hipotermia e acidosis, con ondas de Osborn no electrocardiograma. Función ventricular esquerda conservada, non cardiopatía estructural. Morte.

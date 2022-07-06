@@ -1,0 +1,31 @@
+Anamnesis
+Mujer de 55 años de edad, valorada en Unidad de Patología Mamaria tras hallazgo de nódulo en mama izquierda por autopalpación dejado a libre evolución durante un año. Es remitida a consulta de Oncología Médica para valorar tratamiento neoadyuvante donde se completa estudio de extensión con PET. Se diagnostica de carcinoma lobulillar infiltrante cT3N+M1 (afectación hepática) RE +++ RP+ Mib1 +++ Her-2+. Entre marzo y octubre de 2011, recibe quimioterapia con varios esquemas de tratamiento con estabilización de la enfermedad y con toxicidad acumulada. Por los malos accesos venosos se coloca port-a-cath en agosto de 2011. Durante el tratamiento se realiza reevaluación con TC, en la que se objetivan lesiones pulmonares, algunas de ellas cavitadas, que se consideran enfermedad metastásica. Desde octubre de 2011 se continúa con hormoterapia (exemestano).
+Presenta cuadro de fiebre y escalofríos tras la manipulación del catéter central. El mes previo presentó astenia, anorexia y malestar generalizado.
+Niega tos o expectoración. No presenta disuria ni síndrome miccional. No se observa dolor torácico ni abdominal.
+
+Exploración física
+Tensión arterial 94/66 mm Hg; frecuencia cardíaca 125 lpm; temperatura 38 oC. Consciente y orientada. Caquexia. Cabeza y cuello: PVY normal.
+Carótidas rítmicas. Catéter en pared torácica derecha.
+Auscultación cardíaca: rítmica. Auscultación pulmonar: crepitantes en base izquierda y campo anterior derecho. Abdomen: blando, depresible, no doloroso. No se palpan masas ni megalias. RHA+.
+No presenta signos de irritación peritoneal. Extremidades inferiores: edemas bilaterales. Sin signos de trombosis venosa profunda.
+
+Pruebas complementarias
+• Bioquímica: glucosa 98 mg/dL; urea 15,2 mg/dL; creatinina 0,36 mg/dL; ácido úrico 3,3 mg/dL; proteínas totales 4,21 g/dL; albúmina 1,9 g/dL; colesterol 159 mg/dL; HDL 9 mg/dL; LDL 75 mg/dL; triglicéridos 233 mg/dL; bilirrubina 0,34 mg/dL; sodio 140 mEq/L; potasio 2,67 mEq/L; cloro 107 mEq/L; calcio 7,3 mg/dL; GOT 23 mU/mL; GPT 6 mU/mL; GGT 173 mU/mL; CK 20 mU/mL; fosfatasa alcalina 110 mU/mL; PCR >90 mg/L.
+• Hemograma: hemoglobina 9,1 g/dL; leucocitos 8.800 (neutrófilos76,4%, linfocitos 15,5%; monocitos 6,7%; basófilos 0,1%; eosinófilos 1,3%).
+• Coagulación: TP 63%; INR 1,38; TTPA 26,9 s (control 30 s); fibrinógeno 737 mg/dL.
+• Estudio bacteriológico del catéter vascular: Staphylocaccus aureus oxacilin sensible.
+• Hemocultivos: Staphylocaccus aureus oxacilin sensible.
+• Radiografía de tórax: infiltrados pulmonares bilaterales con afectación predominante del lóbulo superior izquierdo.
+• Ecocardiograma transtorácico: sin alteraciones.
+• Ecocardiograma transesofágico: sin imágenes de endocarditis.
+
+Diagnóstico
+Carcinoma lobulillar infiltrante de mama estadio IV.
+Bacteriemia por Staphylocaccus aureus oxacilin sensible asociada a catéter complicada con neumonía y osteomielitis condral.
+
+Evolución
+Se trata de una paciente que ingresa por bacteriemia asociada a catéter. Al ingreso se retira catéter y se inicia antibioterapia empírica y posteriormente se ajusta al antibiograma con cloxacilina. Ante la mala evolución clínica y la persistencia de fiebre, así como la aparición de tumefacción costal, se realiza estudio para descartar endocarditis y émbolos sépticos (TC toracoabdominopélvica: afectación parenquimatosa pulmonar observándose nodulillos centrolobulillares con ramificaciones lineales de distribución difusa bilateral y predominio en lóbulos superiores alguno de ellos con cavitación. Fracturas del 9.o, 10.o y 11.o arcos costales derechos englobadas por una colección en pared de flanco derecho compatible con absceso. Metástasis hepáticas sin cambios). Se continúa tratamiento antibiótico con cloxacinlina y se asocia un aminogluclósido.
+Se realiza un drenaje del absceso costal (cultivo exudado de la pared costal: Staphylocaccus aureus oxacilin sensible).
+Tras consulta con la Unidad de Infecciosas de Medicina Interna se completa tratamiento según antibiograma con trimetoprin-sulfametoxazol oral.
+A la semana de inicia esta pauta de tratmiento la paciente ingresa por deterioro de la función renal, hipercalcemia e hiperuricemia, que se resuelve, tras suspender trimetoprin-sulmetaxaxol, descartándose etiología paraneoplásica.
+Coincidiendo con ello, se aisla en esputo M. tuberculosis, por lo que posteriormente se continúa el tratamiento antituberculoso específico con cuatro fármacos y hormonoterapia.

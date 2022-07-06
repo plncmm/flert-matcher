@@ -1,0 +1,30 @@
+Anamnesi
+Pacient home de 63 anys, exfumador des de fa 14 anys de 60 paquets/any, hipertens en tractament amb hidroclorotiazida/telmisartán una vegada al dia.
+
+Història oncològica: intervingut a l'agost del 2012 per neoplàsia renal esquerra, se li va realitzar nefrectomía radical, sense complicacions quirúrgiques. L'anatomia patològica (AP) informava d'una lesió nodular de 2,7 cm de diàmetre major ben delimitada; l'estudi immunohistoquímic (IHQ) va mostrar forta expressió positiva per a CK7 i CK Cam 5.2, tot això compatible amb carcinoma papil·lar de cèl·lules clares multifocal amb extenses àrees de necrosis, grau de Fuhrman 2. Estadi Clínic I (T1N0M0). A l'ésser un tumor indolent, es decideix seguir controls semestrals a càrrec d'Urologia, sense evidència de recidiva fins a desembre de 2013 (TC abdominal).
+
+La malaltia actual comença al març del 2014, moment en el qual el pacient acudeix a Urgències per tos amb expectoració hemoptoica limitada d'una setmana d'evolució i síndrome constitucional d'un mes.
+
+Exploració física
+ECOG 1. Bon estat general, pal·lidesa mucocutánea, eupneico en repòs. Hemodinámicamente estable.la auscultació pulmonar estava conservada, sense sorolls sobreañadidos; en l'abdomen s'observa la cicatriu de lumbotomía esquerra, extremitats sense edemes. Resta normal.
+
+Proves complementàries
+El pacient és ingressat en el Servei de Pneumologia per a completar l'estudi:
+» Analítica: hemoglobina 7,7 g/dl, leucòcits 6.300 (limfòcits 1.000), resta sense alteracions.
+» TC de tòrax: massa sòlida amb contorns lobulats de 70 x 70 mm en el mediastí posterior, centrada en la regió subcarinal, que s'introdueix en el bronqui dret; a més, estenosa i oblitera el bronqui intermediari. Adenomegalias hiliares dretes de fins a 14 mm.
+» PET-TC: massa bilobulada i irregular hipermetabólica de 7 cm a nivell subcarinal i hiliar dret compatible amb massa neoplàsica, sense poder discernir si és conglomerat adenopático o lesió primària bronquial.
+» Es realitzen dos broncofibroscopias: les citologies són indicatives de carcinoma, però les biòpsies no són diagnòstiques.
+» Es presenta el cas en la sessió del Comitè de Maneig Multidisciplinari de Tumors Toràcics i es decideix realitzar mediastinoscopia diagnòstica, davant la disjuntiva de ser la massa un segon tumor primari o metàstasi metacrónica de l'anterior. Es realitza la mediastinoscopia amb biòpsia d'adenopatia subcarinal. L'AP informa: metàstasi de carcinoma, IHQ amb positivitat per a vimentina, CD 10 i PAX 8 que suggereix origen renal.
+
+Diagnòstic
+Metàstasi mediastínica de carcinoma renal primari.
+
+Tractament
+Al juny de 2013 va iniciar quimioteràpia dins d'un assaig clínic, rebent pazopanib 800 mg/dia, amb avaluacions mensuals.
+
+Evolució
+A l'agost de 2013 és hospitalitzat per un quadre d'infecció respiratòria no condensante, amb cultius d'esput positius per a Stenotrophomonas maltophilia, rebent tractament antibiòtic específic segons antibiograma (sensibilitat a amoxicilina/àcid clavulánico i sulfametoxazol/trimetoprima), en seguiment conjunt amb la Unitat de Patologia Infecciosa.
+Durant l'ingrés es realitza una TC (segons protocol d'assaig clínic) que descriu disminució de la grandària de la massa mediastínica infracarinal, amb presència de bombolles en el seu interior i amb augment de grandària de l'adenopatia ilíaca comuna i ilíaca externa esquerres.
+Davant la persistència de símptomes respiratoris i que el pacient refereix ennuegar-se cada vegada que ingereix aliments, amb crisis de tos posterior, es realitza una radiografia de tòrax, observant-se condensació basal dreta (no visualitzada prèviament). Davant la sospita de fistula esofàgica, se sol·licita una endoscòpia digestiva alta, que informa que en el terç mitjà de l'esòfag s'identifica una compressió extrínseca ulcerada de 5 cm de longitud, per la qual cosa en el mateix acte es col·loca una pròtesi esofàgica. Després de la millora progressiva dels símptomes és donat d'alta.
+Es reinicia pazopanib i ho rep durant 2 mesos més; no obstant això malgrat la bona resposta radiològica, el pacient presenta deterioració de l'estat general de manera progressiva (ECOG 4), i per aquest motiu es decideix suspendre el tractament a la fi de novembre de 2014.
+Finalment, el pacient va morir al desembre de 2014, als 7 mesos del diagnòstic de la recidiva.

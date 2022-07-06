@@ -1,0 +1,44 @@
+Anamnesis
+Varón de 69 años de edad con antecedentes personales de hipertensión arterial e insuficiencia renal crónica secundaria a glomerulopatía por IgA. Recibió su primer trasplante renal en julio de 1996, con rechazo agudo corticosensible en el primer mes postrasplante. En la actualidad el injerto es normofuncionante.
+En julio de 2012 acude al Servicio de Urgencias por presentar fiebre, dolor en la fosa iliaca izquierda (FII) y disminución de la fuerza en el miembro inferior izquierdo.
+
+Examen físico
+Tensión arterial 128/77 mmHg, temperatura 39,7oC. Abdomen levemente doloroso a la palpación en la FII. Miembros inferiores: muslo izquierdo aumentado de tamaño respecto al contralateral, con leve empastamiento.
+
+Pruebas complementarias
+Pruebas realizadas en el primer ingreso:
+• Analítica de sangre: creatinina 1 mg/dl, hemoglobina 11 g/dl. Leucos: 6.500 (fórmula normal).
+• Ecografía abdominal: colección perirrenal, subcapsular, anecoica, que rodea al riñón con un espesor máximo de 4 cm. Dilatación calicial media: 2,5 cm.
+• Ecografía de los miembros inferiores: no signos de trombosis venosa profunda.
+• Tomografía computarizada (TC) y URO-TC: imagen de probable infarto renal en el mesorriñón con hematoma subcapsular con dilatación calicial en el área del infarto/rotura renal.
+• Gammagrafía renal: hipocaptación en el mesorriñón con defecto cortical. Pruebas realizadas en el segundo ingreso:
+• Análisis del líquido drenado: aspecto seroso, amarillento claro. Glucosa 107 mg/dl, creatinina 1 mg/dl, sodio 144 UmEq/l, potasio 4 mEq/l, proteínas 0,59 mg/dl, albúmina 0,6 g/dl, colesterol 6 mg/dl, triglicéridos 4 mg/dl y amilasa 6 UI7l. Cultivo estéril y estudio citológico: negativo para malignidad.
+• Linfogammagrafía de miembros inferiores y abdomen: normal.
+• Inmunoelectroforesis (IEF) en suero: 42,2% Alb; 9,9% alfa-1; 19,2% alfa-
+2; 12,2% beta; 15,7% gamma; 1.110 IgG; 694 IgA; 271 IgM.
+• Inmunofijación en suero: banda monoclonal IgM lambda (no cuantificable).
+• IEF en orina: normal (Bence-Jones: negativo).
+• IEF líquido de drenaje: no bandas monoclonales. Niveles de EPO: 8,43
+(4-20).
+• Beta-2 microglobulina: 2,7 (0,8-2,2).
+• Biopsia de médula ósea: normal.
+• Estudio citológico de médula ósea: 3% células plasmáticas sin atipias.
+
+Diagnóstico
+El análisis del líquido de drenado nos ayudó a descartar diversos factores etiológicos como hematoma, absceso, urinoma o linfocele.
+Ante la ausencia de un claro factor etiológico causante de la colección perrirenal y la persistencia de la misma pese al intento de escleroterapia con povidona yodada, revisamos la bibliografía científica, hallando la descripción de un nuevo síndrome bajo el acrónimo de TEMPI que reunía los siguientes hallazgos clínicos: telangiectasias, eritrocitosis, gammapatía monoclonal, colección perirrenal y shunt pulmonar con hipoxemia.
+Aunque en nuestro caso el paciente no cumplía alguno de los ítems, como la presencia de eritrocitosis o la hipoxemia, la presencia de colección perirrenal con sangrado de su superficie y la paraproteína monoclonal nos obligaron a realizar una biopsia de médula ósea, en la cual se descartó mieloma múltiple; nos encontrábamos, entonces, ante una gammapatía monoclonal de significado incierto (MGUS).
+Pese a no cumplir todos los criterios del síndrome de TEMPI, pensamos que los hallazgos anteriormente descritos y la respuesta del paciente al tratamiento con rituximab nos hicieron pensar en el papel etiológico de la gammapatía monoclonal como responsable del cuadro clínico.
+
+Tratamiento
+En el primer ingreso, se decide iniciar tratamiento ATB con meropenem y daptomicina y drenaje de la colección mediado por TC.
+Posteriormente, se produce una recidiva de la colección, por lo que se decide marsupialización quirúrgica y esclerosis con povidona yodada, con colocación de tubo de drenaje, con persistencia de alto débito.
+Tras el hallazgo de bandas monoclonales en la IEF del suero, se decide iniciar tratamiento con rituximab (350 mg/dl), con desaparición de la colección y clara mejoría clínica del paciente.
+
+Evolución
+En agosto de 2012 se produce una mejoría clínica muy importante tras 15 días de tratamiento ATB. Con el estudio de hipercoagulabilidad negativo y virus de Epstein-Barr negativo, se decide realizar una nueva TC y seguimiento ambulatorio.
+En septiembre de 2012, el paciente acude de nuevo por impotencia funcional del miembro inferior izquierdo, que le impide la deambulación, con eritema local y mal control de la tensión arterial.
+A la exploración física presenta una tensión arterial de 189/104 mmHg. Afebril. Abdomen con injerto renal en la FII aumentado de tamaño, con palpación de una masa perirrenal.
+En la analítica de sangre se aprecia un leve deterioro de la función renal, con creatinina de 1,2 mg/dl. Se realizó una ecografía urgente, en la que se objetivó recidiva de la colección subcapsular.
+Se decidió entonces llevar a cabo cirugía con intención curativa: marsupialización de la colección de gran tamaño, probablemente subcapsular al peritoneo, con colocación de tubo en T. El riñón tenía aspecto friable, sangrante al roce, y requirió hemostasia intensa. El aspecto del líquido drenado era seroso claro. Tras la cirugía, el débito fue mayor de 1.500 ml durante una semana, con posterior reducción tras una semana a <1.000 ml/día, con desaparición de la impotencia funcional.
+Tras la constatación de gammapatía monoclonal en el suero del paciente, se inició tratamiento con la primera dosis de rituximab, observándose un descenso del débito con <200 ml/día. Con la segunda dosis de rituximab se observó un descenso a <50 ml/día, procediéndose a la retirada del drenaje y al alta del paciente.

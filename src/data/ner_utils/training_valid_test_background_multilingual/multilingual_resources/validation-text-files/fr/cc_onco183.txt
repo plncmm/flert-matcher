@@ -1,0 +1,29 @@
+Anamnèse
+Une femme de 34 ans s'est présentée aux urgences avec des douleurs abdominales suprapubiennes. Pas d'antécédents familiaux. Antécédents pathologiques : IA fumeur 10 paquets/an. Non-buveur. FUR : 6/1/2014. Pas d'allergies connues aux médicaments.
+
+Examen physique
+Tête et cou : pas d'adénopathies cervicales palpables. AC : rythmique, pas de murmures. PA : murmure vésiculaire préservé, pas de bruits surajoutés. Abdomen : souple, dépressible, non douloureux à la palpation, plaie de laparotomie en bon état. Membres inférieurs : pas d'œdème.
+
+Tests complémentaires
+" IQ a été réalisée le 24/2/2013, observant une tumeur de 10 cm du côté gauche, une annexectomie gauche et une tumorectomie ont été réalisées, avec un résultat anatomopathologique de cystoadénocarcinome papillaire séreux de 11 cm limité à l'ovaire (pT1a).
+" Suite à ces constatations, un scanner CT-CT a été réalisé montrant une masse pulmonaire solide avec des zones hypodenses au niveau du LSD spiculé mesurant 5 x 3 x 4 cm, une masse surrénalienne droite de 3 cm suspectée de métastase, des adénopathies pathologiques dans l'espace portocave, rétropéritonéal, para-aortique.
+" Compte tenu de la possibilité d'une tumeur synchrone, elle a été évaluée par la Pneumologie, et le 31/12/2013 une bronchoscopie a été réalisée, au cours de laquelle une lésion endobronchique a été observée au niveau du LSD.
+" Des biopsies ont été réalisées, avec pour résultat un carcinome infiltrant peu différencié et un profil immunohistochimique compatible avec un adénocarcinome pulmonaire (TTF-1 +, p63 négatif, kératine CK56 : négatif, CEA, chromogranine et calcitonine positifs, thyroglobuline : négatif).
+" Un PET-CT scan a été réalisé, montrant des zones d'hyper uptake au niveau du LSD, cutané, ganglionnaire, osseux, sous-cutané et surrénalien droit, avec le diagnostic de cystadénocarcinome ovarien E IC et d'adénocarcinome pulmonaire E IV, et elle a été envoyée au service d'oncologie médicale.
+"L'EGFR et l'ALK ont été demandés (résultats négatifs) et des biopsies du nodule SC ont été réalisées, avec pour résultat une métastase cutanée d'un carcinome neuroendocrine modérément différencié.
+" Au vu des résultats, une échographie thyroïdienne a été demandée, montrant une zone irrégulière mal définie de 1,3 x 1,5 x 0,9 cm dans l'hémithyroïde droite, ainsi qu'une adénopathie dans la chaîne jugulo-carotidienne controlatérale. Calcitonine : 776 .
+"Compte tenu du doute diagnostique, une biopsie de la thyroïde a été demandée, avec pour résultat un carcinome médullaire de la thyroïde. En raison de l'atteinte des surrénales, la possibilité d'un phéochromocytome a été suspectée et des catécholamines ont été demandées dans le sang et les urines, qui étaient positives. PTH : normal.
+"Proto-oncogène RET : mutation de novo du gène RET.
+
+Diagnostic
+"Carcinome médullaire métastatique de la thyroïde".
+"Phéochromocytome suspecté en association avec le syndrome MEN 2B.
+"Cystadénocarcinome ovarien et HF.
+
+Traitement
+Avec le résultat d'une thyroïde médullaire probable, le traitement a été commencé (janvier 2014) avec vandetanib 300 mg/24h. Elle s'est présentée à un contrôle un mois plus tard, avec une amélioration de sa situation fonctionnelle et une diminution des nodules sous-cutanés. Lors du contrôle de mars, elle a signalé une augmentation de la circonférence abdominale et des douleurs lombaires. Une IRM a donc été réalisée, montrant un syndrome de la cauda equina, et une IC à RT a été effectuée avec un traitement de 30 Gy. Devant la suspicion de progression, un scanner a été réalisé, montrant une progression de la maladie avec augmentation des adénopathies sus-claviculaires bilatérales, augmentation des nodules pulmonaires, augmentation de la masse surrénalienne droite et apparition d'une masse surrénalienne gauche, apparition d'une masse au niveau de l'ovaire droit, calcitonine 1,455 (précédemment 776). Compte tenu du doute diagnostique et de la progression de la maladie sous vandetanib (première ligne dans la thyroïde médullaire), le cas a été présenté à la session d'oncologie et il a été décidé de commencer le traitement par carboplatine + taxol (première ligne d'origine inconnue). La patiente a reçu trois cycles de carbo-taxol et le scanner destiné à évaluer la réponse à la progression de la maladie a montré une augmentation des adénopathies supraclaviculaires, une augmentation de la masse pulmonaire du LSD, une augmentation de la masse surrénalienne droite et gauche, une augmentation de la masse annexielle droite et une augmentation des métastases osseuses. Compte tenu du fait que la tumeur présente des caractéristiques neuroendocrines et de la faible réponse au vandétanib, un traitement par gemcitabine + 80 % d'irinotécan a été mis en place en mars 2014. Elle a reçu un traitement pendant trois cycles et le 7/7/2014, le scanner d'évaluation de la réponse a montré une diminution des adénopathies supraclaviculaires, une diminution des métastases cutanées, une diminution de la masse du LSD, une diminution des masses surrénaliennes bilatérales, une diminution des adénopathies abdomino-pelviennes et une diminution de la masse annexielle droite. Le 18/7/2014, le patient a été admis pour syndrome fébrile et apparition de métastases cérébrales multiples bilatérales, recevant un TDR holocranien.
+
+Evolution
+Patient atteint d'un carcinome médullaire métastatique de la thyroïde avec atteinte des surrénales. Le traitement de première ligne a été initié avec le vandetanib avec une progression après trois cycles. On est passé à une ligne de QT d'origine inconnue, avec une nouvelle progression. La troisième ligne de traitement a été initiée avec la gemcitabine + CPT 11, avec une réponse après trois cycles et une progression du SNC.
+
+Admis le 26/8/2014 en raison d'une détérioration neurologique, mourant pendant l'admission. Une nécropsie a été demandée, mais la famille n'en a pas voulu.

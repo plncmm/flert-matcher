@@ -1,0 +1,22 @@
+Anamnesis
+Varón de 33 años de edad que acude a Urgencias por dolor en el hemiescroto izquierdo de 2 meses de evolución y aumento de tamaño en los últimos 2 días. El paciente no presenta antecedentes médicos de interés, ni hábitos tóxicos ni tratamiento crónico habitual. Intervenciones quirúrgicas realizadas: amigdalectomía y extirpación de osteocondroma humeral derecho. No otros antecedentes urológicos de interés.
+
+Examen físico
+A la palpación de evidencia aumento de tamaño y consistencia del testículo izquierdo de forma generalizada. Testículo derecho de características normales.
+
+Pruebas complementarias
+• Se solicita una ecografía escrotal, en la que se observa el testículo izquierdo de mayor tamaño, con una lesión hipoecogénica de contornos bien definidos de 38,4 x 23,9 x 36,2 mm. El testículo derecho es de tamaño normal, con imágenes nodulares hipodensas de contornos bien definidos, de tamaño que oscila entre 3 y 7 mm.
+• También se realiza una analítica de sangre con marcadores tumorales: beta-HCG 0,34 mUI/ml, alfa-fetoproteína 1,45 ng/ml; LDH: 339 UI/l.
+
+Diagnóstico
+Posible neoplasia primaria testicular izquierda.
+
+Tratamiento
+Orquiectomía izquierda + biopsia intraoperatoria de testículo derecho.
+Anatomía patológica de la orquiectomía izquierda: tumor estromal de cordones sexuales (forma pura): tumor de células de Leydig. Diámetro transversal máximo: 4,5 cm. No focos de necrosis ni atipia significativa; no infiltración vascular. Fenotipo inmunohistoquímico: positividad para inhibina y vimentina con patrón citoplasmático granular difuso. ALC, CD20 y CD3: positivo en el componente inflamatorio crónico circundante con predominio de CD3 sobre CD20. Margen quirúrgico libre de infiltración neoplásica.
+Anatomía patológica de la biopsia del testículo derecho: hipoespermatogénesis con hiperplasia secundaria de células de Sertoli intratubular.
+
+Evolución
+Se realiza una tomografía computarizada (TC) postoperatoria, en la que no se evidencian lesiones compatibles con metástasis, pero se describe hepatoesplenomegalia homogénea. Posteriormente, se solicita su valoración por el Servicio de Oncología, que desestima tratamiento ni seguimiento al tratarse de un tumor de células de Leydig sin signos de malignidad.
+Dos meses tras la orquiectomía, el paciente acude de nuevo a Urgencias por dolor en las extremidades, sudoración nocturna, vómitos, hiporexia y pancitopenia, por lo que ingresa en el Servicio de Hematología y se llega al diagnóstico de leucemia linfoide aguda-B Ph. Se realiza la reevaluación anatomopatológica de la pieza quirúrgica de la orquiectomía, que se informa como: infiltrado linfoide con inmunoexpresión intensa CD34, CD79 y CD10, compatible con infiltración por LLA.
+El paciente es tratado mediante protocolo LLA-AR03. Se administra radioterapia testicular con un total de 24 Gy. Se indica la realización de un trasplante alogénico de células de cordón intraóseo con compatibilidad HLA 4/6 e incompatibilidad menor ABO. Secundariamente, presentó toxoplasmosis cerebral, sospecha de cistitis hemorrágica y finalmente fallo del injerto. El paciente falleció tras un año y 10 meses del primer diagnóstico.

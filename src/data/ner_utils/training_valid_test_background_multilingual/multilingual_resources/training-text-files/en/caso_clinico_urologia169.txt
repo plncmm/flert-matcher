@@ -1,0 +1,28 @@
+Anamnesis
+A 43-year-old male, with no medical history of interest and with a single surgical history of appendectomy in adolescence.
+The patient reported that on the first day he started with low back pain in the context of overexertion at work. On the 11th day, the previous low back pain was associated with an afternoon low-grade fever, so he decided to see his primary care doctor; after the examination, there was a single finding of low back pain with mechanical characteristics and a fever of 37.5oC; a dorsal and lumbar spine X-ray was requested (which was reported as normal) and he started treatment with anti-inflammatory drugs.
+On the 16th the patient attended the Emergency Department due to worsening febrile fever (he now had fever peaks of up to 39oC) and also began to experience pain in the left hemiscrotal region.
+
+Physical examination
+On examination, he had an axillary temperature of 38.6oC and swelling of the left epididymis and testicle.
+
+Additional tests
+- Blood tests: leukocytosis with neutrophilia and elevated C-reactive protein.
+- Urine sediment: normal.
+- Scrotal ultrasound: ultrasound findings compatible with left orchiepididymitis with some focal hypoechoic area requiring evolutionary controls until complete resolution.
+- Blood and urine cultures were requested. Treatment and evolution
+The patient was diagnosed with left orchiepididymitis and treatment was started with ciprofloxacin 500 mg/12 hours, requesting an outpatient consultation with the Urology Department. On day 20, due to the persistence of the clinical picture, with no symptomatic improvement, the patient returned to the Emergency Department, where the results of the cultures taken previously were consulted:
+- Blood culture: positive for Brucella melitensis.
+- Urine culture: negative.
+With suspicion of brucellosis, the patient was admitted to the Internal Medicine Department, where he remained for 10 days:
+- Intravenous antibiotic treatment was started with gentamicin 240 mg/day + doxycycline 200 mg/day oral + rifampicin 600 mg/day oral.
+- The anamnesis was extended: the only possible source of contact was the ingestion of homemade curd in a restaurant in Navarra (last time a month ago).
+- Blood cultures on two new occasions: positive for Brucella melitensis.
+- Serology for Brucella: positive.
+- Rose Bengal: positive.
+- New testicular ultrasound: progression of the imaging findings in relation to left orchiepididymitis, compared to the previous study. No images suggestive of abscess are seen.
+- Sacro-iliac MRI: radiological findings compatible with bilateral mild sacroiliitis.
+- Transthoracic echocardiogram: normal.
+
+Diagnosis
+Brucellosis with genital (orchiepididymitis) and bone (bilateral mild sacroiliitis) involvement. As he required intravenous antibiotic treatment with gentamicin for the first 15 days (in addition to oral treatment with doxycycline and rifampicin for 2 months), he was referred to an intermediate care hospital to continue and complete the intravenous treatment.

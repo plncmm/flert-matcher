@@ -1,0 +1,31 @@
+Anamnesi
+Es tracta d'una dona de 37 anys amb antecedents personals de leucèmia mieloide aguda i aplàsia medul·lar. Recentment havia estat ingressada en la Unitat de Vigilància intensiva (UCI) durant un llarg període degut a una sèpsia per Serratia.
+
+Motiu de consulta
+Després de despertar del coma induït, referia disminució de l'agudesa visual (AV) bilateral, més acusada en l'ull dret (OD).
+
+Exploració i proves complementàries
+La pacient presentava mal estat general, estava una mica atordida i no col·laborava molt bé en l'exploració.
+La AV en el OD era de 0,1 difícil i en l'ull esquerre (OI) de 0,5-0,6. La tensió ocular era de 15 mmHg en tots dos ulls. La biomicroscopía del segment anterior no mostrava troballes d'interès. Es va constatar l'absència de cèl·lules en cambra anterior de tots dos ulls.
+En l'exploració del fons d'ull (FO) del OD s'apreciava una intensa vitritis i una lesió macular sobreelevada blanquinosa de 3 àrees papil·lars, envoltada d'un halo hemorràgic. En el FO del OI s'observava la presència d'escassa celularidad vítria i una lesió macular de similar aspecte a la del OD.
+La tomografia de coherència òptica (OCT) del OD tenia un senyal de mala qualitat per opacitat vítria. La OCT del OI mostrava una lesió sobreelevada amb reflectivitat mitjana en la retina interna i hiporreflectividad en la retina externa, que interpretem com un fenomen de «ombra posterior».
+
+Diagnòstic diferencial i procediments
+Davant aquestes troballes, en una pacient amb antecedents de malaltia greu hematològica, sèpsia i ingrés llarg en UCI, ens plantegem el següent diagnòstic diferencial:
+• Podria tractar-se d'una recidiva de la leucèmia mieloide aguda amb afectació macular bilateral i infiltració vítria.
+• O bé podria haver-se produït una hemorràgia macular bilateral i hemorràgia vítria (alguna cosa hemolizada), associada a l'aplàsia medul·lar.
+• Finalment, ens plantegem la possibilitat de què es tractés d'una endoftalmitis endògena amb afectació macular bilateral, possiblement per Serratia, que va ser l'agent causal de la sèpsia que va sofrir, o potser per Candida, a causa del llarg període en què havia portat un catèter intravenós, tot això associat al seu estat d'immunodepressió per aplàsia medul·lar.
+
+En aquest moment, sol·licitem anàlisi de sang i ressonància magnètica nuclear (RMN) amb gadolini de cervell i òrbites, i realitzem vitrectomia pars plana (VPP) diagnòstica 23 G del OD.
+
+Consultem al Servei d'Hematologia, que va descartar la possibilitat de realitzar una biòpsia de medul·la òssia pel mal estat general de la pacient. No obstant això, van dur a terme una punció lumbar.
+
+RESULTATS
+El cultiu de la mostra vítria va ser negatiu per a bacteris i fongs. Les anàlisi anatomopatològica, citològic i immunohistoquímic van ser negatius per a malignitat. Només va poder detectar-se la presència d'hematies.
+Els resultats de l'anàlisi de sang no van aportar dades d'interès. Es va detectar la presència de pancitopenia, dada que ja es coneixia. La punció lumbar no va secundar que es tractés d'una recidiva de la leucèmia mieloide aguda. La RMN de cervell i òrbites no mostrava troballes significatives.
+
+EVOLUCIÓ
+Donats els resultats, decidim mantenir una actitud expectant i observar l'evolució, que va ser favorable. Després de diverses setmanes, vam poder apreciar la resolució espontània bilateral del quadre. En la OCT del OD, s'observa l'engruiximent de la membrana limitant interna despresa en l'àrea foveal.
+
+JUDICI CLÍNIC
+Considerem que aquest és un cas d'hemorràgia macular bilateral associada a hemorràgia vítria en pacient crítica amb pancitopenia.

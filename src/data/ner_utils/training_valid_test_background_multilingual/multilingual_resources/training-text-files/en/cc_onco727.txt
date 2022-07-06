@@ -1,0 +1,36 @@
+Anamnesis
+The patient consulted for fever up to 38.6 oC of 24 hours of evolution accompanied by dystrophic syndrome and vomiting. She had received a second course of pembrolizumab seven days before. She presented with occasional mild self-limited abdominal pain without alterations in bowel habits. Occasional cough with whitish expectoration. The patient was receiving wound dressings on the right thigh, due to suppuration. She was treated with clindamycin for this reason.
+
+Physical examination
+"BP: 155/63 mm Hg, HR 91 bpm, Ta: 38.1 oC, SatO2: 92 %, PS 1.
+"General condition: fair. Eupneic at rest. Skin pallor. Well hydrated.
+"Head and neck: small bilateral laterocervical lymphadenopathies. They are not painful on palpation. Oral cavity with lesions compatible with thrush. No tonsillar exudates. Normal bilateral otoscopy. No nuchal rigidity.
+"AC: rhythmic at a good frequency. No murmurs were heard.
+"AP: mvc in both hemithoraxes with scarce dry bibasal crackles.
+"Abdomen: globular, soft, depressible. No palpable masses or megaliths. Pain on palpation in CDH with doubtful Murphy. Normal RHA. No hernial stitches or blowing pulses. In the right inguinal region there is a small excrescent lesion on the basis of a surgical lesion. On the inner side of the right lower limb (MID) there were 3 punctate suppurative lesions with granulation tissue with purulent secretion and perilesional inflammatory signs. Oedema with scant perimalleolar fovea in the MID. Homans negative.
+
+Complementary tests
+Among the complementary tests performed on arrival at the emergency department, the following were of note:
+"Haemogram: red blood cells 3.68 haemoglobin 9.2. Haematocrit 30.2. Mean corpuscular volume 82.1.
+"Mean erythrocyte corpuscular haemoglobin 25. Erythrocyte mean corpuscular haemoglobin concentration 30.5. Erythrocyte distribution range 15.8. Leucocytes 0,2. Neutrophils % 6,2.
+"Neutrophils 0. Lymphocytes % 93.8. Lymphocytes 0,2. Monocytes % 0. Eosinophils % 0. Eosinophils 0. Basophils % 0. Basophils 0. Platelets 312.
+"Coagulation: prothrombin time ratio 1,31. Prothrombin activity 72. Prothrombin time 14.7. INR 1.31. Activated partial thromboplastin time (aPTT) 38. aPTT ratio 1,16. Derivative fibrinogen 7.35.
+"Biochemistry: urea 40 blood creatinine 0.95. Total protein 6.7. Total bilirubin 0,35. Sodium
+"135. Potassium 4,59. Creatine kinase 30. Aspartate amino transferase (GOT) 13. Amylase 46. CRP 195.
+"Urine: specific gravity 1.020. pH 6. Ketones 10. Glucose negative. Nitrite negative. Bilirubin negative. Proteins 100. Urobilinogen 0.2. Red cells negative. Leucocytes negative.
+"Venous blood gases: Ph 7.42. nA 136. k 4.5. cA 1.10. gLUC 220. lAC 1.4. hTCO 3 4%. hco3- 24.0.
+"tHBC 9.9.
+"Posteroanterior plain chest X-ray: no images of infiltrates or condensation were identified.
+Blood cultures x 2, urine culture, MID wound culture and oral mucosal plaque culture were taken.
+
+Diagnosis
+The patient's diagnostic judgement was compatible with grade IV (profound) febrile neutropenia, surgical wound infection and oropharyngeal candidiasis.
+
+Treatment
+Hospital admission was decided. Reverse isolation, rest and absolute diet were recommended, as well as administration of G-CSF and empirical antibiotic therapy with intravenous meropenem and vancomycin.
+After positive wound culture in MID for pseudomona aeruginosa, treatment was adjusted according to the antibiogram, de-escalating to intravenous ceftazidime. Intravenous fluconazole was added to the treatment due to Candida albicans growth in oral mucosal plaque culture.
+
+Evolution
+The patient showed clear clinical improvement, maintaining her usual BP. However, after more than ten days of admission, the serum neutrophil count remained at 0 mil/mm3. The case was discussed with haematology, who recommended a bone marrow study. A bone marrow aspirate was performed, which was reported as a phenotypic study without evidence of infiltration by haemopathy and absence of myeloid series (agranulocytosis).
+Flow cytometry analysis of the sample obtained from the aspirate was requested, with findings consistent with agranulocytosis, striking plasmacytosis and relative increase in red series. A population of cells was also described, not negligible in some areas, with a non-hematological appearance, without forming nests, possibly related to metastatic melanoma.
+In view of the confirmation of MO infiltration by melanoma and given that the patient is still (one month after admission) with absolutely no neutrophil count, we ruled out further active oncological treatment. Referral to the Palliative Care Unit for symptomatic treatment was agreed with the patient and family.

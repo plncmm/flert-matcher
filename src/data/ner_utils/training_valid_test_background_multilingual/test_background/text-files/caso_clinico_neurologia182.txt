@@ -1,0 +1,23 @@
+Anamnesis
+Paciente varón de 12 años con antecedentes de meningitis aséptica el año previo. Refiere cuadro de cefalea parieto-occipital bilateral pulsátil y con sensación punzante periorbitaria, EVA 7/10, acompañada de malestar general y fiebre de hasta 39 oC. Unas horas más tarde comienza con visión doble que desaparece al taparse cualquiera de los dos ojos, a lo que se asocia posteriormente ptosis palpebral derecha. Por todo esto se decide el ingreso hospitalario en nuestro servicio.
+
+Examen físico
+A la exploración general destacaba fiebre de 39 oC, siendo el resto de la exploración general normal. La exploración otorrinolaringológica no mostró alteraciones. En la exploración neurológica, el paciente estaba alerta, consciente, orientado en tiempo, espacio y persona, no presentaba signos de irritación meníngea, midriasis pupilar derecha, con reflejo fotomotor directo y consensuado alterado, limitación de todas las ducciones del ojo derecho, ptosis palpebral derecha con disminución de la función del elevador del párpado superior e hipoestesia en la segunda rama del nervio trigémino derecho. No proptosis, no quemosis conjuntival. Fondo de ojo normal. Resto de la exploración neurológica normal.
+
+Pruebas complementarias
+• Analítica general: leucocitosis de 28.400 x 103/ul, con neutrofilia (84%), trombocitosis (413.000 plaquetas x 103/ul), PCR 30,6 mg/dl y fibrinógeno 816 mg/dl.
+• Punción lumbar con líquido cefalorraquídeo (LCR) claro y transparente con presión de apertura de 20 cm H2O sin bloqueos manométricos, 100 hematíes/ul; 39 leucocitos/ul, 39,7 mg/dl de proteínas y glucorraquia de 56 mg/dl (con glucemia capilar de 91 mg/dl).
+• Cultivos y tinción de gram de LCR: negativos.
+• Radiografía simple de tórax: normal.
+• RM cerebral: proceso inflamatorio-infeccioso que afectaba al seno esfenoidal, nasofaringe, y que se extiende a las estructuras de la vecindad, senos cavernosos, región selar y supraselar, con intenso realce de las meninges de la vecindad y región silviana derecha y con posible afectación del seno cavernoso derecho. Resonancia magnética cerebral. Axial T2. Se aprecia ocupación del seno esfenoidal por proceso inflamatorio-infeccioso, con extensión a la órbita derecha.
+• TC de peñascos, mastoides y CAI: ocupación del seno esfenoidal por material inflamatorio y leve engrosamiento mucoso de la celda etmoidal posterior sin apreciar erosión ósea y estando el resto de senos sin alteraciones.
+• Estudio de autoinmunidad e inmunología: negativo.
+
+Diagnóstico
+Oftalmoparesia completa dolorosa del ojo derecho con afectación pupilar. Síndrome del seno cavernoso derecho de origen infeccioso.
+
+Tratamiento
+Ante la evidencia de un proceso infeccioso en el seno esfenoidal se inició tratamiento con antibioterapia de amplio espectro durante 6 semanas (ceftriaxona, metronidazol y, durante la primera semana, vancomicina) y corticoterapia (dexametasona). Asimismo, se consultó el caso con los Servicios de M. Infecciosas y Otorrinolaringología y se decidió realizar una esfenoidotomía endoscópica (CENS) tras 4 días de tratamiento antibiótico, para drenaje de las posibles colecciones purulentas, en la que únicamente se observó un pólipo esfenoidal con aspecto inflamatorio sin apreciar material purulento ni mucoide.
+
+Evolución
+El paciente evolucionó de forma favorable. Cedió el cuadro febril y mejoró la oftalmoparesia del ojo derecho, aunque persistió una leve diplopía discontinua. Se realizó una RM cerebral de control con una angio-RM apreciando mejoría con disminución de la captación de contraste de las paredes de los senos cavernosos, que presentaban un grosor normal y desaparición de la captación aracnoidea basal en la fosa media que se veía en el estudio previo. Persistía la ocupación del seno esfenoidal, con engrosamiento de la mucosa y captación de contraste, y también aparecía engrosada la mucosa de las celdillas etmoidales y el seno maxilar derecho. No se apreciaron signos de trombosis del seno cavernoso.

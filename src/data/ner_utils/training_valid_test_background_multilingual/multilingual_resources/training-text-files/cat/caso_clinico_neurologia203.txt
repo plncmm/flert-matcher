@@ -1,0 +1,23 @@
+Anamnesi
+Dona de 42 anys d'edat. Violoncel·lista de professió, amb antecedents personals d'histerectomia més doble anexectomía, per endometriosi, en 2008 i diagnosticada d'esclerosi múltiple remitent recurrent (EMRR) en 1997, en tractament amb interferó beta 1a 44 mg, paroxetina, bromazepam, doxilamina succinato i anticonceptius orals. No consumeix productes d'herbolari. Acudeix al Servei d'Urgències per presentar un quadre de dolor abdominal de gran intensitat i vòmits, de 2 dies d'evolució. Els 15 dies previs la pacient refereix sensació de pesadesa gàstrica, nàusees i astènia. No refereix consum de tòxics. Un mes abans li havien augmentat la dosi d'interferó beta 1b de 22 mg a 44 mg, després de presentar un quadre clínic compatible amb brot troncoencefálico d'esclerosi múltiple que es va tractar amb 5 bitlles d'1 g de metilprednisolona intravenosa.
+
+Examen físic
+Normotensa, afebril (36,8 oc), lleu deshidratació mucocutánea i escleras ictèriques. Auscultació cardiopulmonar normal. Abdomen globulós, dolorós a la palpació en el quadrant superior dret. Palpació de vora hepàtica, dolorós, 2 cm per sota del vorell costal. Polsos perifèrics conservats. No edemes ni signes d'insuficiència venosa crònica.
+Exploració neurològica: hipoestesia tàctil lleu en les extremitats esquerres i reflexos osteotendinosos exaltats, reflex cutani-plantar extensor esquerre. Sense una altra focalidad (EDSS 1.5).
+
+Proves complementàries
+• Analítica de sang: elevació de transaminasas sèriques (GOT/GPT 625 UI/l/1.055 UI/l, GGT 471 UI/l, LDH 628 UI/l) i bilirubina total 2,7 mg/100 ml (directa 1,3 mg/100 ml, indirecta 0,8 mg/100 ml). En l'hemograma destaca 11.300 leucòcits amb 70% neutròfils, plaquetes 450.000. VSG 53 mm. Perfil fèrric sense alteracions ni altres troballes rellevants.
+• Serologies: VHA, VHB i VHC negatius. CMV i VEB negatius.
+• Estudi immunològic: ANA, SMA, anti-LKM1, pANCA, anti-LC1 i MESTRESSA negatius.
+• Estudi genètic: negatiu per a mutacions del gen HFE, de hemocromatosis hereditària.
+• Ecografia abdominal: fetge augmentat de grandària, hiperecogenicidad posada pegats. Sense líquid lliure en la cavitat abdominal.
+• Biòpsia hepàtica: necrosi i inflamació portal i periportal, amb hepatitis d'interfase, amb mínima fibrosi. No concloent.
+
+Diagnòstic
+Hepatitis aguda grau 4 secundària a hepatotoxidad per interferó beta.
+
+Tractament
+Retirada del tractament previ. Prednisona 60 mg al dia per via intravenosa durant 5 dies i posteriorment per via oral, reduint gradualment la dosi en unes 6 setmanes fins a la seva retirada.
+
+Evolució
+La pacient és ingressada en el Servei d'Aparell Digestiu. Es retira tot el tractament que prenia fins a aquest moment i s'instaura corticoterapia a altes dosis (1 mg/kg/dia) per via intravenosa. Experimenta una millora clínica progressiva del quadre. En l'analítica de control una setmana després s'evidencia disminució marcada dels nivells de transaminasas (GOT/GPT 225 UI/l/398 UI/l, GGT 240 UI/l) i normalització de les mateixes als 15 dies. Un mes després la pacient roman asimptomàtica, sense noves complicacions, per la qual cosa es decideix reprendre el tractament modulador de la malaltia per a l'esclerosi múltiple amb acetat de glatirámero.

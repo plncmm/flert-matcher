@@ -1,0 +1,25 @@
+Anamnesi
+Un uomo di 42 anni, ecuadoriano, è venuto al pronto soccorso per una cefalea frontale e periorbitale sinistra, di una settimana di evoluzione, della durata di 3-5 minuti e con cinque episodi al giorno, di intensità e frequenza crescente, senza fotofobia, rinorrea, lacrimazione, o modifica dopo le manovre di Valsalva. È stato progressivamente accompagnato da diplopia quando si guarda orizzontalmente a sinistra, così come ipoestesia facciale superiore e media sinistra, e durante il suo ricovero ha anche presentato ipoestesia e paresi della muscolatura mandibolare, così come una completa paralisi facciale sinistra, senza febbre o altri sintomi sistemici o neurologici.
+La sua storia personale non includeva alcun fattore di rischio cerebrovascolare, ma c'era un episodio simile a quello attuale di cefalea e diplopia 5 anni prima, per il quale ha frequentato un altro ospedale, senza una chiara diagnosi, che si è risolto completamente. Viveva in Spagna da 15 anni, l'ultimo viaggio nel suo paese d'origine risale a 3 anni fa. Lavorava nell'edilizia. Il padre è morto di ictus. Non ha riferito l'assunzione di sostanze tossiche, droghe o prodotti erboristici.
+
+Esame fisico
+Consapevole e orientato in tutte e tre le sfere. Ben idratato e nutrito. Temperatura 36,8 oC, pressione sanguigna 140/96 mmHg, frequenza cardiaca 64 bpm. Buona perfusione distale. Eupneico. Assenza di lesioni cutaneo-mucose. Pupille isocoriche e normoreattive alla luce, nessun meningismo. Fondo degli occhi senza alterazioni. Paresi del VI nervo, con ipoestesia nel territorio V1,V2,V3, paresi della muscolatura mandibolare e paralisi facciale superiore e inferiore omolaterale sul lato sinistro, senza altre alterazioni. Forza e sensibilità in tutte le sue modalità conservate simmetricamente in tutte e quattro le estremità. Riflessi miotatici simmetrici e normoattivi, con riflesso cutaneo plantare flessore bilaterale. Coordinazione, postura e andatura nei limiti della norma.
+
+Test complementari
+- Biochimica generale, emogramma, coagulazione, autoimmunità, CRP, VES, spettro elettroforetico e immunoelettroforetico, enzima di conversione dell'angiotensina, marcatori tumorali, sedimento delle urine, elettrocardiogramma e radiografia del torace furono eseguiti senza alterazioni.
+- Puntura lombare: pressione di apertura 14 cm di acqua. Fluido cristallino, nessun blocco. Citobiochimica del fluido cerebrospinale entro limiti normali, citometria a flusso e citologia negativa per le cellule maligne. Indice IgG del CSF normale e assenza di bande oligoclonali.
+- Microbiologia: sierologia negativa per sifilide, HIV, Borrelia, virus epatotropi. Mantoux negativo. Espettorato BAAR negativo.
+- Tomografia computerizzata (TC) cranica (senza contrasto): asimmetria nella regione del seno cavernoso sinistro rispetto al destro, così come l'ispessimento della mucosa del seno mascellare sinistro. TAC craniale assiale senza contrasto. 1B. Risonanza magnetica assiale craniale pesata in T1 con contrasto soppresso nel grasso. C'è un'immagine iperdensa nel seno cavernoso sinistro che raccoglie il contrasto alla RM.
+- Risonanza magnetica cranica (MRI) senza e con contrasto: c'è un ispessimento della regione del seno cavernoso sinistro, che appare isointenso in T2 e con enhancement omogeneo dopo somministrazione di contrasto. È associata all'ispessimento e all'assorbimento della dura che copre la base del lobo temporale sinistro, così come il bordo libero del tentorio. C'è anche un ispessimento e un assorbimento del nervo cranico sinistro V alla sua uscita attraverso il forame ovale, senza coinvolgimento delle strutture perineurali. Risonanza magnetica craniale coronale T1 con contrasto e soppressione del grasso. Pre-trattamento. Due mesi dopo il trattamento. Diminuzione dell'assorbimento nel seno cavernoso e nella dura madre che sovrasta la base del lobo temporale.
+- TAC toraco-addominale-pelvica: nessuna alterazione.
+- PET-CT scan: aumento bilaterale e simmetrico dell'attività metabolica nelle tonsille palatine, di natura infiammatoria-infettiva. Non sono state osservate adenopatie con attività metabolica o altri focolai che suggeriscono un'attività metabolica anormale.
+- Biopsia tonsillare bilaterale: nessun riscontro di cellule maligne.
+
+Diagnosi
+Sindrome di Tolosa-Hunt.
+
+Trattamento
+Il trattamento è stato iniziato con analgesici non steroidei e prednisone 1 mg/kg/die per una settimana, con una buona risposta, e continuato con un regime discendente graduale.
+
+Evoluzione
+Miglioramento della cefalea e del coinvolgimento dei nervi cranici, risolvendosi completamente. I controlli radiologici successivi sono stati eseguiti per mezzo della risonanza magnetica cranica che ha mostrato una significativa diminuzione delle dimensioni delle lesioni.

@@ -1,0 +1,17 @@
+Um paciente do sexo masculino de 58 anos com histórico de hipertensão, diabetes mellitus tipo 2 e depressão em tratamento. Consultou durante cerca de dois anos de deterioração cognitiva progressiva. À admissão, estava hemodinamicamente estável e afebril. O exame neurológico revelou desorientação espaço-temporal, déficit de atenção, deficiência de memória e ligeira anisocoria, sem qualquer outra focalização neurológica. Os testes laboratoriais mostraram uma função renal e hepática inalterada, níveis de tiamina e vitamina B12 na gama normal e nenhum parâmetro inflamatório elevado.
+
+Diagnóstico:
+Neurosífilis com manifestações de formas meningovasculares e neuropsiquiátricas.
+
+ 
+
+Resultado
+Uma RM do cérebro mostrou uma lesão lentículo-capsular direita hiperintensa em T2 e T2 FLAIR, com realce após a administração de Gadolínio e ligeira hiperintensidade de sinal na sequência de difusão, mas sem restrições no mapa ADC, compatível com lesão isquémica em fase subaguda de evolução. A hiperintensidade do sinal é também observada nas sequências T2 e T2 FLAIR a nível cortico-subcortical na região temporal mesial esquerda, envolvendo o uncus e estendendo-se até ao pólo temporal anterior, sem representação na sequência de difusão, com alterações semelhantes no lado direito, mas de menor quantidade. A atrofia difusa moderada do parênquima encefálico é evidente, como evidenciado por ventrículos maiores e sulcos corticais mais largos do que o esperado para a idade do paciente.
+
+Lesão lenticulocapsular direita hiperintensa em T2 FLAIR e hipointensa em T1, com melhoramento após administração de Gadolinium e ligeira hiperintensidade de sinal em sequência de difusão, mas sem restrições no mapa ADC, compatível com lesão isquémica em fase subaguda de evolução.
+
+Hiperintensidade do sinal em sequências T2 FLAIR a nível cortico-subcortical na região temporal mesial esquerda, envolvendo o uncus e estendendo-se até ao pólo temporal anterior, com alterações semelhantes no lado direito, mas em menor medida. A lesão descrita mostrou uma ligeira hipointensidade de sinal nas sequências T1, sem qualquer aumento após a administração de Gadolínio.
+
+Uma punção lombar mostrou um LCR claro com 5 leucócitos/mm3 (100% mononuclear), hiperproteinúria (256 mg/dL), glicocacia normal (62 mg/dL) e coloração negativa de Gram, coloração de tinta da China e microscopia de esfregaço. Com base nos resultados da RM do cérebro, a PCR para o vírus do herpes simplex tipo 1 e 2 no LCR foi negativa e VDRL e FTA-ABS no LCR foram reactivos (diluição VDRL 1:64). Um electroencefalograma realizado no mesmo dia mostrou um ritmo de base lento sem actividade epileptiforme. O teste de infecção pelo VIH foi negativo.
+
+Foi feito um diagnóstico de neurosífilis e iniciado o tratamento com Penicilina G 24 mU/dia durante 14 dias, com o qual o paciente mostrou uma melhoria parcial da sua deterioração cognitiva e resolução da sua anisocoria. Recebeu alta assim que o tratamento antibiótico foi concluído.

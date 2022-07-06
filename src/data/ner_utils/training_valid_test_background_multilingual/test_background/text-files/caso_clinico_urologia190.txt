@@ -1,0 +1,26 @@
+Anamnesis
+Varón de 32 años de edad, sin antecedentes clínicos de interés, que acude al Servicio de Urgencias por dolor lumbar derecho de tipo cólico, irradiado a la fosa ilíaca derecha, acompañado de náuseas, vómitos y escalofríos.
+
+Exploración física
+En Urgencias, el paciente permanece estable hemodinámicamente, con temperatura termometrada de 37,8 oC. Respecto a la exploración física, destaca lo siguiente: malestar general, escalofríos e importante cortejo vegetativo; abdomen depresible, no distendido, sin signos de irritación peritoneal; dolor en la fosa lumbar derecha irradiado a los genitales; sucusión renal derecha positiva (izquierda negativa); exploración genital sin hallazgos patológicos de interés; no se palpan hernias ni adenopatías.
+
+Pruebas complementarias
+Ante la sospecha de cólico renal derecho se solicitan las siguientes pruebas complementarias:
+● Analítica sanguínea: destaca una leve elevación de la creatinina (1,5 mg/dl) y leucocitosis con desviación izquierda (13.500 leucocitos/mm3). No se muestran otras alteraciones clínicamente relevantes.
+● Sedimento urinario: leucocituria (10-20 leucocitos/campo) y microhematuria (20-40 hematíes/campo).
+● Ecografía: dilatación pielocalicial derecha grado III, que continúa hasta el uréter proximal, sin lograr visualizar el uréter distal. No se aprecia imagen endoluminal obstructiva, ni litiasis. Riñón izquierdo de tamaño y morfología normales.
+● Urocultivo: Escherichia coli (sensible a betalactámicos).
+
+Diagnóstico
+Con la tomografía computarizada (TC) se constata el diagnóstico de uréter retrocavo. Este tipo de patología es el resultado de una alteración vascular durante el período embrionario. A consecuencia de ello, el uréter se medializa, pasando por detrás de la cava, y posteriormente vuelve a su posición anatómica, cruzando por delante de la misma.
+Es característica la medialización ureteral a nivel de L3-L4. La urografía intravenosa muestra dilatación del uréter proximal en forma de "J" invertida o anzuelo, y con frecuencia no se logra visualizar la porción distal del uréter retrocavo. En caso de duda diagnóstica, la prueba de elección es la TC con contraste. El tratamiento de elección, si el paciente presenta síntomas, es quirúrgico.
+
+Tratamiento
+Tras la resolución del cuadro clínico agudo, se programó la intervención quirúrgica del uréter retrocavo, llevándose a cabo una transposición ureteral derecha laparoscópica.
+Bajo anestesia general, y con el paciente colocado en posición de decúbito lateral izquierdo, se procede a la colocación de un primer trócar supraumbilical (12 mm) y generación de neumoperitoneo. Bajo visión directa, se coloca otro trócar subcostal derecho (12 mm) y dos trócares más (5 mm) en la fosa ilíaca derecha, y flanco derecho. Se lleva a cabo la decolación derecha, hasta descubrir el duodeno y el músculo psoas. Tras identificar el uréter, se procede a la disección del mismo en todo su trayecto retrocavo. A continuación se secciona el uréter (respetando en este caso el catéter ureteral). Tras colocar el uréter en posición anatómica, se procede a anastomosar los extremos ureterales. Es importante asegurar la viabilidad del uréter, resecando los extremos estenóticos y espatulizando los bordes previamente a la anastomosis. Finalmente, se realiza una anastomosis término-terminal mediante doble hemisutura continua con monofilamento reabsorbible (4/0). El tiempo operatorio fue de 110 minutos.
+El postoperatorio inmediato transcurrió sin incidencias. El paciente fue dado de alta al tercer día postoperatorio. Actualmente permanece asintomático, con función renal conservada.
+
+Evolución
+Con el diagnóstico de cólico renal derecho complicado, se indicó derivación urinaria urgente, con catéter ureteral doble J. En la radioscopia intraoperatoria de control, se aprecia catéter ureteral derecho correctamente colocado, con medialización del mismo a nivel de L3-L4. Ante este hallazgo se solicita una TC para descartar patología compresiva extrínseca.
+Tras la intervención el paciente permanece ingresado para continuar tratamiento analgésico y antibioterapia intravenosa con ceftriaxona. Durante su estancia hospitalaria, el paciente evoluciona favorablemente, permanece apirético y asintomático. Las analíticas de control muestran una importante mejoría, con normalización de la leucocitosis y de las cifras de creatinina.
+La TC abdómino-pélvica realizada durante su ingreso muestra: riñones de tamaño y morfología normales; catéter ureteral derecho correctamente colocado; variante anatómica: uréter derecho retrocavo. No se aprecian adenopatías abdominales ni líquido libre peritoneal.

@@ -1,0 +1,33 @@
+Mujer de 63 años sin hábitos tóxicos, con antecedentes personales de obesidad, diabetes mellitus (DM) tipo 2 con edema macular, dislipemia mixta en tratamiento con atorvastatina (40 mg/d) desde hacía 3 años, tosferina a los 36 años con asma/hiperreactividad bronquial desde entonces, pero sin tratamiento ni episodios en los últimos años. Fue remitida a Digestivo en agosto de 2017 desde el Servicio de Medicina Interna debido a alteración en las pruebas de función hepática, en probable relación con enfermedad del hígado graso no alcohólica.
+Presentaba astenia que le impedía realizar una actividad normal desde hacía dos años, y en los últimos meses presentó dolor en cuádriceps con impotencia funcional. Refería pérdida de fuerza y dolor en cara anteroexterna de ambos muslos, sin dolor en sedestación ni en reposo, que aparecía a los 10 minutos de la bipedestacióndeambulación.
+En la exploración física presentaba: TAS: 183 mmHg TAD: 81 mmHg FC: 83 lpm Sat O2: 98 % Peso: 88.800 kg Talla: 144 cm IMC: 42.8 (PC 123) Obesidad grado III. CyC: sin alteraciones relevantes. ACR normal. Abdomen globuloso, blando, doloroso a la palpación profunda en hipocondrio derecho con Murphy negativo. No se detectan masas accesibles. Ruidos +. EE sin edemas ni datos de TVP. Pedios presentes. Exploración de aparato cardiocirculatorio y función pulmonar normal.
+
+PRUEBAS COMPLEMENTARIAS
+Entre las pruebas complementarias destacaban:
+— Estudio de anemia: LDH en suero 837 U/L (105-215) hierro en suero 56 μg/dl (50-145) ferritina en suero 56 ng/ml (10-291), coombs directo e indirecto y crioaglutininas negativos.
+— Creatinina kinasa (CK) elevada 4007 U/L (24-190 U/L). El resto del estudio bioquímico es normal.
+— VHC y VHB negativos.
+— Estudio de la médula ósea que revela un posible Síndrome mielodisplásico (SMD) por displasia leve en megacariocitos, sin alteraciones citogenéticas y frotis de sangre periférica normal.
+— Ecografía abdominal compatible con hígado graso.
+— PET: sin captación.
+— TC colono: normal. Inmunoglobulinas y complemento en rango normal.
+— Resonancia magnética (RM) muscularse detectan alteraciones de señal muy sutiles, que podrían ser compatibles con la sospecha clínica de miopatía.
+— Estudio neurofisiológico: no se observan anomalías.
+— Autoinmunidad incluyendo: anticuerpos antinucleares, anti-músculo liso, anti-mitocondriales, estudio anticuerpos miositis y esclerodermia (anti-Scl70, Jo-1, PL7, PL12, OJ, EJ, SRP, PM-Scl, SRP54 y Ku) negativos.
+Se comprueba presencia de anemia coincidiendo con la introducción de las estatinas por lo que se clasifica como anemia propia de trastorno inflamatorio crónico en paciente con DM, con dudoso SMD y ante la sospecha de una miopatía por estatinas se retira la atorvastatina y se monitorizan los niveles de LDH, CK y aldolasa.
+
+DIAGNÓSTICO DIFERENCIAL
+La paciente presentaba dolor en cuádriceps con impotencia funcional, con pérdida de fuerza y dolor en ambos muslos con elevación de CK, sugerente de miopatía. El estudio bioquímico, microbiológico, la detección de anticuerpos y los resultados de la RM y la electromiografía descartaron miositis por causas neurológicas, metabólicas, infecciosas o tumorales.
+
+PRUEBAS DIAGNÓSTICAS
+— Ac anti HMGCoAR: positivos (283,5 U/L).
+— Estudio de histocompatibilidad: HLA DRB1*07/11 HLA DRQA1*02/05 HLA DQB1*02*03.
+— Biopsia muscular de cuádriceps evidenció un músculo moderadamente afectado, con predominio de fibras en necrosis, fibras con vacuolas autofágicas, alguna fibra en regeneración, y pequeños grupos de fibras atróficas redondeadas. El colágeno endomisial incrementado de forma muy focal y sutil en los puntos de atrofia. Sin inflamación evidente ni vasculitis. El estudio inmunohistoquímico de moléculas HLA de clase I presentó discreto marcaje en los citoplasmas de ocasionales fibras musculares.
+Ocasionales capilares muestran depósito de complemento de tipo granular disperso por los fascículos.
+Se aprecia infiltrado perivascular de forma ocasional de linfocitos T, infiltrado histiocitario a nivel peri y endomisial, así como en las fibras en necrosis.
+
+DIAGNÓSTICO DEFINITIVO
+— Miopatía necrotizante inmunomediada anti HMGCoAR positivo.
+
+TRATAMIENTO Y EVOLUCIÓN
+Se decidió iniciar tratamiento con Ig IV (0,4 gr/kg/d durante cuatro días). Se realiza seguimiento clínico en los meses posteriores y tras varios ciclos de tratamiento con una excelente respuesta clínica, aumento de la fuerza muscular y normalización de los niveles de CK, se retira el tratamiento. Tras la retirada de tratamiento se observa un aumento de los parámetros analíticos, por lo que se decide realizar la administración de Ig IV cíclica espaciada, valorando según se observe respuesta clínica y enzimática.

@@ -1,0 +1,25 @@
+Anamnesis
+Presentamos el caso de una paciente de 84 años de edad que acude al Servicio de Urgencias por un episodio de hematuria franca monosintomática de 48 horas de evolución no asociado a síndrome miccional, fiebre ni otra sintomatología. Entre sus antecedentes personales destacan hipertensión arterial, migraña y glaucoma bilateral. Otros antecedentes personales son artrosis, mal de Pott en la infancia y apendicectomía a los 15 años. Sigue tratamiento habitual con paracetamol, pantoprazol (1 comprimido diario), nimodipino (1 comprimido diario) y calcio. La paciente no refiere síndrome constitucional ni otra sintomatología acompañante.
+
+Examen físico
+Sobrepeso. Palidez mucocutánea. Abdomen blando y depresible, no doloroso, identificándose una masa hipogástrica a la palpación profunda, no dolorosa ni fluctuante. No organomegalias ni signos de irritación peritoneal. Puñopercusión renal bilateral negativa. No edemas de miembros inferiores.
+
+Pruebas complementarias
+• Analítica de sangre: hemoglobina 10,4 g/dl, creatinina 0,99 mg/dl. FG: 66 ml/s. Resto sin hallagos significativos.
+• Ecografía del aparato urinario: quistes corticales simples renales bilaterales. Vejiga distendida, con imagen ecogénica en su interior, de unos 47 x 45 mm, compatible con neoplasia.
+
+Diagnóstico
+Con el diagnóstico de hematuria por masa exofítica intravesical, se realizó el una resección transuretral-biopsia (RTUv) de una lesión de aspecto sólido que ocupaba toda la pared lateral izquierda y se extendía hacia el trígono. Se reseca por completo la masa, con toma de biopsia de la base por separado.
+La anatomía patológica se informa como un carcinoma neuroendocrino de célula pequeña, con invasión de la lámina propia y muscular (estadio pT2). Descripción: patrón de crecimiento en nidos y organoide compuesto de células de pequeño tamaño, citoplasma escaso y núcleo hipercromático con cromatina granular en sal y pimienta, sin observarse nucléolos, áreas de necrosis y no asociación con otros tipos de carcinoma urotelial. Perfil inmunohistoquímico: CD56+, sinaptofisina+, cromogranina+.
+Se realiza una tomografía computarizada tóraco-abdómino-pélvica de estadiaje: no se observan imágenes metastásicas, presentando micronódulos pulmonares bilaterales, menores de 5 mm de características inespecíficas, adenopatía iliaca izquierda en el límite alto de la normalidad (9 mm) y lesiones blásticas esclerosas en el sacro y el hueso iliaco derecho de probable origen benigno.
+
+Tratamiento
+Planteamiento terapéutico multimodal:
+• Cirugía (previamente descrito mediante RTUv).
+• Quimioterapia. Se administran seis ciclos de carboplatino y etopósido a dosis estándar los tres primerios ciclos, reduciendo el 20% la dosis a partir del tercer ciclo para mejorar la tolerancia (astenia y emesis leve).
+• Radioterapia. Administración de radioterapia externa sobre la vejiga y el campo pélvico, recibiendo siete sesiones (14 Gy). Como complicación presenta rectitis actínica con rectorragia asociada, por lo que no se llegan a completar las diez sesiones programadas.
+
+Evolución
+En la TC de reestadiaje se informa estabilidad radiológica de las lesiones pulmonares, crecimiento de una adenopatía iliaca izquierda hasta 14 mm y aparición de nuevas adenopatías paraaórticas izquierdas, la mayor de 11 mm. En la cistoscopia no se objetiva lesión macroscópica.
+A continuación se realiza una PET-TC, que demuestra recidiva ganglionar paraaórtica izquierda e iliaca común izquierda y un engrosamiento difuso de la pared lateral izquierda vesical. Estabilidad de los hallazgos torácicos.
+Con el diagnóstico de recidiva local y ganglionar recibe cuatro ciclos de carboplatino y etopósido, detectándose en el primer control radiológico realizado 4 meses después la progresión de la enfermedad a expensas de una adenopatía iliaca izquierda y la aparición de una nueva adenopatía justo por encima de la bifurcación de la iliaca común, por lo que se planifica una segunda línea de quimioterapia con topotecán y gemcitabina, recibiendo dos ciclos hasta la fecha con buena tolerancia y encontrándose las adenopatías estables en el último control radiológico.

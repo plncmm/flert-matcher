@@ -1,0 +1,54 @@
+We present the case of a 16-year-old male patient presenting for consultation due to pubertal and growth retardation.
+
+FAMILY HISTORY
+Father and brother with normal height and puberty. Maternal grandfather died of glioblastoma.
+Mother consulted gynaecology in 2004 due to menstrual disorders. Pathology was ruled out and she was discharged. In 2007, with headache symptoms, an MRI showed a 1cm pituitary macroadenoma, non-functioning, and she remained asymptomatic and with a normal pituitary axis, so expectant management was decided.
+
+CURRENT DISEASE
+The family reports that the patient presented with headache, nausea and vomiting since the age of seven. Pregnancy and delivery were normal (birth weight: 3,150 kg, height: 50 cm).
+On examination, weight 51.7 kg, height 154 cm (<p5). Testes in 2cc pouch, pubarche 3, axillarche 1.
+
+COMPLEMENTARY TESTS
+CBC: CBC and biochemistry without alterations, TSH 0.31μUI/mL, T4L 11.7 pml/L, FSH 3.04 mIU/mL, LH 0.12 mIU/mL, testosterone 0.49 ng/mL, cortisol 60ng/mL, IGF-1 192 ng/mL. Prolactin 8649 ng/mL is highlighted.
+Exercise test and clonidine test without GH response. Bone age: 12 years.
+
+EVOLUTION
+In view of the results, substitutive treatment of the thyrotropic and corticotropic axes was started and an MRI of the pituitary gland with gadolinium was requested, with the finding of a pituitary mass measuring 47.6x22x47.2 mm that eroded the sellar floor, extending into the left prepontine cistern and surrounding the carotid artery.
+
+Treatment was started with progressively increasing doses of cabergoline, up to a maximum tolerated dose of 1.5mg weekly. After a few months there was no biochemical response, and prolactin remained elevated, so surgical treatment was finally decided.
+
+Pathological anatomy revealed that it was indeed a prolactinoma. In vitro functional analysis showed that, although a decrease in prolactin production and DRD2 receptor expression was observed with exposure to cabergoline, the inhibition was not total and the reduction in tumour cell proliferation was not complete. This would explain the resistance to treatment demonstrated in vivo.
+
+Four months after surgery, MRI still showed a 30x20x30 mm mass, with hypopituitarism and hyperprolactinaemia (PRL 178.9 ng/ml).1
+Replacement therapy was continued with choriogonadotropin alfa and follitropin alfa, levothyroxine and hydrocortisone. Cabergoline was maintained at the maximum tolerated dose at that time (3.5 mg weekly) and the possibility of treatment with radiotherapy was considered, and the patient is currently awaiting radiotherapy.
+Simultaneously, the patient's mother was followed up in our department for the previously diagnosed pituitary macroadenoma. During this time, the mass maintained the same volume, without invasion of the surrounding structures and with an unaltered pituitary axis.
+
+With the diagnosis of prolactinoma in the son, and therefore the presence of pituitary adenomas in two family members not associated with any other endocrine alteration, a genetic study was requested which showed a mutation of the AIP2 gene in exon 6: 974G OA (p.Arg325Gln), which was also found in another son, brother of our index case. The rest of the family was negative for this mutation.
+
+EVOLUTION
+During follow-up, the mother's non-functioning pituitary macroadenoma maintained the same volume and the pituitary axis was normal.
+Two years ago, a routine analysis of the mother showed hypercalcaemia, finally confirming hyperparathyroidism and an image suggestive of right lower parathyroid adenoma on MIBI scan. A right lower parathyroidectomy was performed, with pathological findings of parathyroid gland adenoma.
+After surgery, intact PTH remained in the high range, with calcium at the upper limit.
+
+Following these findings, and considering the possibility of multiple endocrine neoplasia, a genetic study of MEN7,8 was requested, which was initially rejected by the genetics department. In any case, a thoracoabdominal CT scan and gastrointestinal and pancreatic hormones were requested.
+
+The results were normal in both children, except for the finding of normocalcaemic hyperparathyroidism in both.
+
+In the mother, the determinations were normal except for a glucagon of 267 pg/mL (VN 59-150) and a pancreatic polypeptide >200 pmol/L (VN <100).
+
+Two pancreatic LOES of 26x41mm and 70x81mm were detected on abdominal CT. An ongoing study was used to obtain 68Ga DOTA-NOC PET images. No other suspicious images were found.
+
+In view of these findings, a genetic study was again requested for MEN-1 by MLPA (multiple ligand-dependent probe amplification), which revealed a profile compatible with a heterozygous deletion in the chromosomal region 11q13, where the MEN1 gene is located, covering at least the region between positions chr11:64571868-64578482, corresponding to exons 1 to 11.
+
+This result is compatible with the clinical suspicion of endocrine neoplasia. The study was positive for both the mother and the two siblings.
+
+With the diagnosis of non-functioning pancreatic neuroendocrine tumours, the mother underwent corporocaudal pancreatectomy plus splenectomy. Pathology showed a well-differentiated (G1) multifocal PNET (two tumours, one at body level of 7.2 cm and one at tail level of 4.2 cm) with mitotic index <2 mitoses per 10 fields and Ki 67 <2%. With the presence of vascular invasion but with tumour limited to the pancreas, without invading extrapancreatic tissue and with resection margins free of neoplasia, it was classified as pT2 N0 M0.
+Weeks after the operation, he presented a late complication with bridle obstruction that required surgical reintervention.
+In extension studies, a suspicious axillary adenopathy was detected and biopsied, confirming the presence of an infiltrating ductal carcinoma pT2 N1a M0. This association is also described in the literature.9
+Lumpectomy and sentinel lymph node biopsy was performed, with no signs of extension. Currently in treatment with QT+RT+HT, under follow-up by Medical Oncology and Radiation Oncology, with good evolution.
+
+CURRENT SITUATION
+The situation of the three relatives at the time of publication of this case is as follows:
+- Patient case. Giant prolactinoma operated on and relapsed, pending radiotherapy. Primary hyperparathyroidism with normocalcaemia and expectant attitude.
+- Mother. Primary hyperparathyroidism, under surveillance. Intervention for neuroendocrine tumour with episode of flange obstruction in 2017. Undergoing QT and RT treatment for breast carcinoma, with good evolution.
+- Youngest child. Non-functioning pituitary microadenoma under surveillance. Primary hyperparathyroidism with normocalcaemia and expectant attitude.

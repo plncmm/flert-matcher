@@ -1,0 +1,37 @@
+Anamnese
+Um fumador masculino de 61 anos de idade apresentou ao departamento de emergência uma crise tónico-clónica generalizada de movimento que durou vários minutos, com um subsequente estado pós-crítico.
+Era um homem solteiro que vivia sozinho num ambiente rural. Não tinha qualquer outro historial médico de interesse ou contactos relevantes.
+O paciente e a família relataram que tinha anteriormente apresentado sintomas gerais de febre, perda de peso e astenia com anorexia.
+
+Exame físico
+"BP 120/70 mm Hg. Ta 37.7 oC. HR 80 bpm. Saturação de oxigénio 95 % basal.
+"Eupneic". Sem gânglios linfáticos palpáveis.
+"Auscultação pulmonar com rhonchi disperso em todos os campos".
+"Auscultação cardíaca rítmica sem murmúrios ou extratonos.
+"Abdómen suave e depressável, com sons hidro-aéreos normais.
+"Nenhum edema ou sinais de trombose venosa.
+"O exame cutâneo não revelou alterações relevantes.
+
+Testes complementares
+Uma hemograma, coagulação e bioquímica sanguínea eram normais.
+A radiografia ao tórax mostrou uma massa pulmonar de aproximadamente 3 cm no lobo médio em contacto com a pleura parietal compatível com a neoplasia pulmonar primária, e a tomografia ao cérebro mostrou LOES frontal direito com edema vasogénico associado sugerindo metástase cerebral.
+O paciente foi admitido em Medicina Interna onde um TAC toracoabdomino-pelvico mostrou uma massa pulmonar na língula e um nódulo no segmento LSD com evidência de enfisema parasseptal e provável fibrose pulmonar. Não houve provas de envolvimento a outros níveis.
+Foi realizada uma biopsia guiada por TAC à massa da língula, que foi considerada compatível com material constituído por clusters glandulares tridimensionais atípicos compatíveis com adenocarcinoma. Não foi detectada nenhuma mutação EGFR ou translocação ALK. As serologias do HIV e da hepatite foram negativas.
+
+Diagnóstico
+Com o diagnóstico de adenocarcinoma pulmonar de fase IV devido ao envolvimento cerebral num paciente com ECOG-0, foi feito um encaminhamento para a Oncologia.
+
+Tratamento
+O tratamento foi iniciado com dexametasona na dose de 4 mg por via oral a cada 8 horas, levetiracetam 500 mg por via oral a cada 12 horas e omeprazole 20 mg por via oral diariamente. Recebeu radioterapia holocraniana e, subsequentemente, um primeiro ciclo de quimioterapia com Carboplatina AUC-5-paclitaxel 175 mg /m2-bevacizumab 15 mg iv.
+
+Evolução
+Quinze dias após completar a radioterapia holocraniana, o paciente assistiu ao departamento de emergência para sintomas respiratórios que consistiam de dispneia e tosse produtiva, febre alta e desorientação.
+O paciente apresentava uma deficiência significativa do estado geral com taquipneia e reboque. Era febris (39oC) e taquicardíaco (HR 120 bpm) com BP 130/70 mm Hg. A auscultação pulmonar mostrou rhonchi bilateral. O resto do exame físico não foi notável.
+Testes laboratoriais mostraram leucocitose com reagentes de fase aguda elevada e gases do sangue arterial mostraram insuficiência respiratória hipoxémica com uma PaO2 de 45 mm Hg. Foram feitas culturas de sangue e cultura de expectoração.
+Uma nova radiografia ao tórax mostrou infiltrado intersticial bilateral para além da lesão pulmonar conhecida.
+Foi admitido na enfermaria de oncologia com oxigenoterapia às 15 bpm, tratamento intravenoso com corticosteróides, broncodilatadores e antibióticos de largo espectro à base de meropenem 1 g a cada 8 horas, uma vez que o doente foi considerado imunocomprometido.
+A evolução clínica não foi satisfatória nos dois primeiros dias, permaneceu febril e hipoxémico, pelo que foi decidido adicionar sulfametoxazol-trimetoprim (160 mg/32 mg a cada 6 horas) ao tratamento para cobrir uma possível infecção oportunista por Pneumocystis jirovecii, dado que era um doente oncológico a ser tratado com altas doses de corticosteróides.
+Após 24 horas, o paciente tornou-se afebril e, subsequentemente, a sua oxigenação melhorou, tornando possível reduzir o consumo de oxigénio e as doses de corticóides.
+Cinco dias após a admissão, o resultado da cultura da saliva foi recebido, o que foi positivo para Nocardia spp.
+Com estes dados e revendo a história natural da infecção por Nocardia, decidimos consultar o Departamento de Doenças Infecciosas e solicitámos uma nova tomografia cerebral, que foi realizada 21 dias após o início do tratamento com sulfametoxazol. A tomografia ao cérebro mostrou uma regressão completa das lesões cerebrais. O tratamento antibiótico intravenoso foi concluído durante 4 semanas e, finalmente, o paciente teve alta com tratamento antibiótico oral e acompanhamento no ambulatório de oncologia, recebendo um total de 7 ciclos do referido regime de tratamento.
+Subsequentemente, a doença progrediu e ele finalmente morreu do seu tumor 9 meses após o diagnóstico.

@@ -1,0 +1,30 @@
+Background
+A 37-year-old man of South American origin who had been living in Spain for 5 years. No drug allergies. Active life. No cardiovascular risk factors. No toxic habits. No family history of cardiomyopathy or other hereditary diseases. No relevant medical-surgical history.
+
+Current illness
+The patient came to the Cardiology department referred by his company doctor after a routine medical check-up revealed striking electrocardiographic alterations. He reported only sporadic episodes of regular palpitations of short duration (2-3 minutes) unrelated to exertion that subsided spontaneously, with a weekly frequency. She denies chest pain or dyspnoea. She has not presented syncope.
+
+Physical examination
+Good general condition.
+BP: 110/60 mmHg.
+HR: 60 bpm.
+Cardiac auscultation: rhythmic, fixed splitting of the second sound. No murmurs or extratonos. 
+Pulmonary auscultation: preserved vesicular murmur without rales.
+Abdomen: soft and depressible, not painful on palpation, no masses or organomegaly.
+Lower limbs: no oedema. Symmetrical paedial pulses.
+
+COMPLEMENTARY TESTS
+ECG: sinus rhythm at 60 bpm, first-degree atrioventricular block (PR 210 ms), complete right bundle branch block and left anterior hemiblock, convex ST-segment elevation and T-wave inversion in precordial leads.
+24-hour Holter: no supra- or ventricular arrhythmias were detected. No evidence of advanced atrioventricular block. Laboratory tests: glucose 98 mg/dL, urea 32 mg/dL, creatinine 0.86 mg/dL (CrCl 110 ml/ min/1.73 m2 -CKD-EPI), sodium 143 mEq/L, potassium 4 mEq/L, NT-proBNP 102 pg/ml, CK 387 ng/ml, CK-MB 9.8 ng/ml, TnT 0.01, haemoglobin 14 g/dL, haematocrit 45%, MCV 85 fL, leucocytes 7980 /mm3, platelets 270000 /mm3, INR: 0,9.
+Chest X-ray: normal cardiothoracic index, no pulmonary infiltrates, free costophrenic sinuses, normal mediastinum. 
+Transthoracic echocardiography: LV slightly dilated (LVEDD indexed by CS of 3.3 cm/m2) with normal wall thickness. No alterations in segmental contractility. LVEF 52%. Transmitral Doppler filling pattern of impaired relaxation. RV of normal dimensions with systolic function by longitudinal parameters at the lower limit of normality. Cardiac MRI: minimal dilatation of both ventricles (LVEDV 181/VTSVI 96 ml) with slightly depressed biventricular systolic function (LVEF 50%). The late enhancement sequence shows multiple foci of transmural enhancement with patchy distribution of septal, basal lateral and apical predominance suggestive of fibrosis.
+
+EVOLUTION
+Taking into account that the patient came from a Chagas disease endemic area, serological tests were performed to detect circulating antibodies against Trypanosoma cruzi: both were positive (ELISA 8 and immunofluorescence >1/160), confirming the diagnosis of chronic infection by this parasite. Oesophagogastric barium transit and abdominal radiography were also performed, which ruled out gastrointestinal involvement.
+The patient was diagnosed with chronic chagasic cardiomyopathy (CCM) based on the results of serology, ECG, transthoracic echocardiogram and cardiac MRI; and treatment with benznidazole 100 mg/8h for two months was indicated and completed with good tolerance.
+Ten months after diagnosis, the patient died suddenly while playing tennis.
+He was attended by the emergency services who detected asystole as the first rhythm on arrival. Advanced CPR manoeuvres were unsuccessful and the patient finally died. As death occurred in an out-of-hospital environment, a forensic autopsy was performed. Macroscopic and microscopic examination of the heart confirmed the characteristic involvement of CCM.
+
+DIAGNOSIS
+Chronic chagasic cardiomyopathy. Dilatation and mild biventricular systolic dysfunction with transmural patchy LV fibrosis.
+Sudden cardiac death.

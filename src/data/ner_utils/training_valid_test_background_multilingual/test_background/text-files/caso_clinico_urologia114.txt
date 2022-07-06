@@ -1,0 +1,26 @@
+Anamnesis
+Paciente de 24 años de edad, que acude a la consulta de Urología Pediátrica por hematuria de un mes de evolución y oliguria, acompañadas de palidez cutánea y edemas en los miembros inferiores.
+Se trata de un varón, tercer hijo con embarazo y parto normales, 2.800 g de peso al nacimiento, con agenesia sacra y paraplejia con recuperación progresiva.
+Con 6 años de edad, y como consecuencia de su vejiga neurógena, se practicó una gastrocistoplastia de aumento con reimplante vésico-ureteral izquierdo. En el postoperatorio inmediato desarrolló una fistula vésico-cutánea, que se trató de forma conservadora, cerrándose por sí misma tras la colocación de una sonda vesical. Desde entonces, el paciente presentó incontinencia urinaria con una vejiga de baja capacidad y síndrome hematúrico-disúrico, así como una importante ureterohidronefrosis izquierda y dolor lumbar izquierdo.
+Con 11 años de edad se practicó una colocistoplastia con sigma, reimplante ureteral izquierdo según la técnica de Le Duc y apendicovesicostomía continente de Mitrofanoff.
+Desde entonces realizaba cinco autocateterismos al día por conducto de Mitrofanoff, con sondas autolubricadas de 12 F. Entró en protocolo de seguimiento anual de vejiga de ampliación con cistoscopia, citología de orina y ecografía renovesical. Durante el inicio de su seguimiento se evidenció
+
+moderada hidronefrosis izquierda, mantenida a lo largo de los años. Sin evidencia de infecciones urinarias ni formación de litiasis en el reservorio.
+En los últimos 3 años, las pruebas realizadas se encontraron dentro de la normalidad, incluyendo biopsias endoscópicas negativas para malignidad. El último control normal fue 7 meses antes del inicio de su sintomatología.
+
+Examen físico
+En la exploración física presenta un abdomen blando, no doloroso a la palpación, sin signos de irritación peritoneal. Puñopercusión renal bilateral negativa y marcado edema de ambos miembros inferiores con fóvea a nivel pretibial. Constantes vitales normales.
+
+Pruebas complementarias
+El hemograma muestra una hemoglobina de 9 g/ml, con 29% de hematocrito, sin leucocitosis ni neutrofilia; las cifras de plaquetas son normales. Bioquímica de sangre con creatinina sérica de 456 mmol/l y filtrado glomerular estimado de 13 ml/min con iones sodio y potasio normales. Cultivo de orina negativo.
+A raíz de los hallazgos se solicita una ecografía abdominal, que demuestra ureterohidronefrosis bilateral con vejiga de ampliación de escasa repleción. Se decide llevar a cabo una nefrostomía percutánea bilateral y una tomografía computarizada (TC) abdominal.
+La TC tóraco-abdominal describe una masa de contornos mal definidos, con captación de contraste ocupando la cara posterolateral derecha y apical del reservorio vesical. Marcado adelgazamiento cortical renal izquierdo que no permite el paso de contraste al reservorio a través de la nefrostomía izquierda y el riñón derecho compensador. Múltiples lesiones focales hepáticas, la mayor de ellas de 5,5 cm compatibles con metástasis. Asimismo, existen adenopatías paraaórtica izquierda, iliaca derecha e inguinal derecha. Cavidad pleural y exploración torácica normales.
+
+Diagnóstico
+Dada la sospecha de neoplasia en la cistoplastia de aumento,se decide realizar una exploración bajo anestesia con RTU-biopsia para aclarar el origen gástrico, colónico o vesical. En la endoscopia a través de la uretra se demuestra la existencia de varias lesiones exofíticas, polipoides, localizadas en la vertiente derecha del reservorio correspondiente al área gástrica, sin llegar a visualizar claramente los orificios ureterales. Se resecan las lesiones y se envían para su estudio histopatológico. El informe describe la presencia de adenocarcinoma de tipo gastrointestinal que infiltra extensamente la muscular propia y alcanza el tejido adiposo, con intensa invasión linfovascular. A su vez, se describen fragmentos de mucosa gástrica y mucosa colónica sin evidencia de neoplasia.
+
+Tratamiento
+Ante la alta probabilidad de neoplasia de la porción gástrica de la cistoplastia con extensión nodal y metastásica, se decide instaurar tratamiento quimioterápico un vez mejore la función renal, la cual se normaliza en 7 días gracias a la colocación de nefrostomías bilaterales. Diez días tras la realización de la biopsia, se inicia quimioterapia con cisplatino, una dosis cada 3 semanas, y 5-fluorouracilo diario durante 3 semanas. Adicionalmente, y debido a la expresión tumoral del gen Her2 se complementa el tratamiento con el anticuerpo monoclonal trastuzumab.
+
+Evolución
+Dos meses después del inicio de la quimioterapia el paciente se encuentra estable, asintomático y con la función renal corregida. El primer ciclo de quimioterapia fue bien tolerado, sin notorias modificaciones en el estado general del paciente ni en su analítica.

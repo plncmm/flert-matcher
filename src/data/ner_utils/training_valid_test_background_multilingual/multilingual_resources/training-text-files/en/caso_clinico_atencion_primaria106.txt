@@ -1,0 +1,23 @@
+Reason for consultation
+Headache and dizziness.
+
+Individual approach (anamnesis, examination, complementary tests).
+A 52-year-old man with no other personal history than HIV infection of more than 10 years of evolution, with good immunovirological control (CD4 950 cells/μl, CD8 853 cells/μl, leukocytes 5,010 x103/μl, undetectable viral load) on treatment with nucleoside analogue reverse transcriptase inhibitors, without having suffered AIDS-defining complications; therefore at stage A1. He consulted for a holocranial headache and dizziness of 15 days' duration, with associated daytime-predominant somnolence, asthenia and anorexia increasing in recent weeks and weight loss of 5 kg, as well as profuse sweating without shivering and afebrile. The patient expressed feeling overwhelmed because he felt that in recent weeks he had forgotten everyday things and reported spontaneous unmotivated crying.
+
+On examination he was conscious, oriented and cooperative, eupneic at rest and haemodynamically stable, with cardiopulmonary auscultation and an unremarkable abdominal examination. On a neurological level, only the presence of a pathological Romberg and minimal facial gestural paralysis was notable, with no nuchal rigidity or other signs of meningeal irritation at the time, nor any other neurological focality at the level of the cranial pairs, nor sensory-motor alterations, and the patient had a normal gait, not ataxic, without lateralisations or dysmetria, but with a certain lethargy of movement, which was evident even to the patient.
+
+- CBC: haemoglobin 17.9g/dl, platelets 235x103/μl, leukocytes 9.76 x103/μl, lymphocytes 3.26 x103/μl, neutrophils 5.72 x103/μl.
+Coagulation: Fibrinogen 511mg/dl, rest normal.
+Biochemistry: Glucose 86 mg/dl, Albumin 4.6 g/dl, Urea 7.1 mg/dl, Glomerular filtration rate 69 mL/min, Creatinine 1.18 mg/dL, hydroelectrolyte and liver profile normal.
+CRP: 0.14 mg/L
+Arterial blood gases: Ph 7,469, PaCO2 31.1 mmHg, PaO2 126 mmHg, SaO2 98.3% , HCO3 22.6 mmol/L.
+Urine: normal.
+- Cranial CT scan: hyperdense cerebral LOE, at the level of the corpus callosum, crossing the midline and contacting the ependymis, with perilesional oedema and slight mass effect on the posterior horn of the lateral ventricles, highly suggestive of Primary Cerebral Lymphoma.
+
+Clinical judgement (list of problems, differential diagnosis)
+The first diagnosis given in the ED for subsequent admission was a brain lesion compatible with Primary Cerebral Lymphoma in an HIV stage A1 patient, who after this finding was classified as stage C1.
+
+Action plan and evolution
+He was admitted to Internal Medicine for further study with cranial MRI with contrast, BodyTAC (both imaging tests with no different findings to those of the cranial CT) and a blood test with serology IgG CMV positive with IgM negative, IgG Toxoplasma positive IgM negative, lymphocyte subpopulations with CD4 954 cells/μl with undetectable viral load. On admission, she reported feeling much better with regard to her headaches after treatment with corticosteroids. Right facial paralysis persisted with positive Romberg's, which was negative after several days of corticosteroid treatment.
+Neurosurgery was contacted for evaluation of oncological treatment.
+From an ethical point of view, the following dilemma arises, since the relatives, who are unaware of the immunodeficiency associated with the patient's HIV infection, request that the patient not be informed of his current illness or its severity. Faced with this double pact of silence, the family doctor who will continue to assess the patient in successive consultations has an intermediary and communicative role in giving the relevant explanations to the patient and relatives without speaking directly about his pathology, at least until the patient himself refers it to us.

@@ -1,0 +1,21 @@
+Anamnesis
+Mujer de 21 años, puérpera de 2 días de evolución, que tras un parto no complicado con anestesia epidural, presenta un cuadro subagudo de cefalea y vómitos que mejoran con el ortostatismo, encontrándose asintomática en decúbito supino. No se acompaña de diplopía ni de otra sintomatología neurológica. Afebril. Tras realizar una tomografía computarizada (TC) craneal, se establece el diagnóstico de cefalea postpunción lumbar, realizándose parche autólogo hemático, con resolución parcial de la cefalea en las horas posteriores. Durante el ingreso se objetivan cifras tensionales elevadas (190/115 mmHg), presentando la paciente en el quinto día del puerperio tres episodios de crisis generalizadas de inicio focal, que consisten en rigidez del miembro superior izquierdo y automatismos con la mano izquierda, con desconexión del medio y rigidez generalizada con movimientos tónico-clónicos de las cuatro extremidades, con mordedura de la cara lateral de la lengua y confusión postcrítica.
+
+Examen físico
+Tensión arterial 130/60 mmHg, temperatura 36,4 oC, frecuencia cardiaca 90 lpm, frecuencia respiratoria 18 rpm, saturación de O2 100%. Auscultación cardiopulmonar: rítmica, sin soplos. Murmullo vesicular conservado, sin ruidos patológicos. Abdomen: blando y depresible, no doloroso. No se palpan masas ni megalias. No signos de irritación peritoneal. Extremidades inferiores: no edemas ni signos de trombosis venosa profunda. Alerta y orientada en tiempo, espacio y persona. Fondo de ojo normal. No trastorno del lenguaje. Campimetría por confrontación normal. PICNR. No limitación de MOE. Facial centrado. Resto de pares craneales normales. No déficit motor. No trastorno sensitivo. ROT simétricos. RCP flexor bilateral. Marcha y coordinación normales.
+
+Pruebas complementarias
+• Laboratorio (ingreso): bioquímica, proteínas, hormonas tiroideas, ácido fólico, vitamina B12, autoinmunidad y coagulación normales. Hemograma: 12.450 leucocitos, a expensas de neutrófilos. Serología IgG positiva para varicela y CMV, resto de serologías (toxoplasmosis, VIH, lúes, Brucella, Lyme y hepatitis) negativas.
+• Radiografía de tórax: no cardiomegalia. No infiltrados. Senos costofrénicos libres.
+• Tomografía computarizada (TC) craneal sin contraste: sin alteraciones neurorradiológicas.
+• Angio-TC craneal (quinto día puerperio): hipodensidades en el lóbulo frontal derecho y parietal posterior parasagital izquierdo. Senos venosos y venas corticales permeables. No imágenes de vasoespasmo en las arterias del polígono de Willis.
+• Resonancia magnética (RM) cerebral con contraste: lesiones parcheadas, bilaterales, hiperintensas en secuencias T2-FLAIR, de predominio en las regiones posteriores, sin zonas que restrinjan en la secuencia de difusión ni captaciones patológicas de contraste. Resonancia magnética, corte axial de secuencia FLAIR en la que se muestran lesiones parcheadas, bilaterales, hiperintensas, de predominio en las regiones posteriores.
+
+Diagnóstico
+Leucoencefalopatía posterior reversible.
+
+Tratamiento
+Antihipertensivos (labetalol, nifedipino, doxazosina y captopril) y antiepilépticos (levetiracetam).  
+
+Evolución
+Tras iniciar el tratamiento con antiepiléticos y antihipertensivos, se controlan las cifras de tensión arterial y no presenta nuevos episodios de crisis. Al alta, la paciente está asintomática. A los 6 meses la paciente es vista en consultas externas, permaneciendo asintomática y con buen control de las cifras de tensión arterial con un fármaco. Se realiza una RM cerebral, en la que hay una importante disminución del tamaño y del número de lesiones. Resonancia magnética, corte coronal de secuencia FLAIR: importante disminución del número y del tamaño de las lesiones en la imagen de control a los 6 meses. Se inicia disminución de dosis progresiva de levetiracetam y se solicita una nueva RM para comprobar la resolución completa de las lesiones.

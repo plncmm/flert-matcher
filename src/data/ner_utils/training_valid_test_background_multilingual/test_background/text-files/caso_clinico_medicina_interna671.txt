@@ -1,0 +1,24 @@
+Varón de 83 años con antecedentes de fibrilación auricular paroxística, EPOC, insuficiencia renal crónica, y Miastenia Gravis, en tratamiento con Azatioprina y prednisona a dosis de 75 mg/día; que refería debilidad generalizada, sensación de mareo y embotamiento generalizado, cefalea leve y lateralización derecha. A las 24 horas de su ingreso presentó pico febril de 38.5o, junto a desorientación y agitación; con saturación 91%. ACP: Hipoventilación generalizada, Mingazinni positivo por claudicación de miembro inferior derecho (4/5), reflejo cutano-plantar extensor derecho, marcha hemiparética derecha, autónoma con apoyo.
+
+Pruebas Complementarias
+- Analítica al ingreso: Hemograma normal, bioquímica: Glucemia 235mg/dl, Urea 68mg/ dl, Creatinina 1,25mg/dl, PCR 34mg/dl, procalcitonina 0,5mg/dl, iones normales. Gasometría arterial: ph 7,45, pO2 91mmHg, pCO2 35mmHg, HCO3 27mmol/l. Orina normal.
+- Radiografía Tórax: patrón retículonodulillar bilateral.
+- TC craneal: hipodensidad parcheada sugestiva de enfermedad isquémico crónica. 
+
+Diagnóstico Diferencial
+Dada la clínica neurológica, antecedente de miastenia gravis, fibrilación auricular y tratamiento inmunosupresor con azatioprina y corticoide, se realizó el siguiente diagnóstico diferencial:
+- Nuevo brote de Miastenia Gravis.
+- Ictus isquémico
+- Encefalitis infecciosa
+- Endocarditis infecciosa: embolismos sépticos.
+Ante la sospecha diagnóstica inicial se realizaron las siguientes pruebas:
+- Punción lumbar:
+Bioquímica: Leucocitos 225 (mononucleares 93% y polimorfonucleares 7%), hematíes 235, Proteínas 205, Glucosa 15, ADA 21.
+Ticción de Tinta china positiva para Cryptococcus y antígeno de Cryptococcus positivo. - Hemocultivos: positivos para Cryptococcus neoformans.
+- RM cerebral sin lesiones isquémicas agudas.
+- Ecocardiograma Transesofágico sin imágenes sugestivas de endocarditis.
+ - TAC BODY: se objetivan infiltrados bilaterales en vidrio deslustrado con derrame pleural asociado, sin adenopatías mediastínicas, lesiones quísticas hepáticas múltiples, nódulo hipodenso en bazo, sin otros hallazgos.
+- Broncoscopía: con cultivos positivos de BAL para Cryptococcus neoformans.
+
+Diagnóstico Final
+Cryptococosis sistémica (afectación pulmonar, meningoencefalitis, fungemia).

@@ -1,0 +1,28 @@
+Anamnesis
+Varón de 59 años de edad, que acude a Urgencias en noviembre de 2007 por sensación de plenitud gástrica y saciedad precoz posprandiales. Añade cuadro constitucional con pérdida de peso de 10 kg en los tres meses previos sin causa aparente. Como antecedentes, era un fumador de 30 paquetes/año, no refiriendo otros antecedentes relevantes. No había antecedentes familiares de interés.
+
+Exploración física
+PS 1; índice de Karnofsky 80%; estigmas de desnutrición subaguda; peso 55 kg; talla 170 cm (IMC 19 kg/m2). Abdomen: blando y depresible, doloroso a la palpación, distendido y con signos de ascitis. Ruidos hidroaéreos conservados, ausencia de signos de peritonitis.
+Resto de la exploración física sin hallazgos.
+
+Pruebas complementarias
+• Se remite a consultas externas de Medicina Digestiva donde se realiza una endoscopia digestiva alta, diagnosticándose de una tumoración gástrica difusa a nivel de cuerpo y antro. El estudio patológico de la neoplasia confirmó un adenocarcinoma mucinoso poco diferenciado, con abundantes células en anillo.
+• El hemograma y bioquímica solicitadas al diagnóstico no presentan alteraciones significativas, excepto por una albúmina de 3,2 g/dL.
+• Los marcadores tumorales mostraban un discreto aumento: CEA 8 ng/mL y CA-19.9 108 U/mL.
+• TC toracoabdominal: conglomerados adenopáticos en antro gástrico y signos de carcinomatosis peritoneal. Líquido libre perihepático y en pelvis. Resto normal.
+• Tránsito gastroduodenal: afectación de características neoplásicas de forma circunferencial de prácticamente todo el antro y parte del cuerpo gástrico.
+
+Diagnóstico
+Adenocarcinoma gástrico, subtipo difuso, estadio IV (carcinomatosis peritoneal).
+
+Tratamiento
+Dada la dificultad en la ingesta oral, se practica una laparotomía exploradora en diciembre del 2007 evidenciándose una carcinomatosis peritoneal extensa.
+La lesión gástrica era localmente avanzada e irresecable por infiltración de estructuras vecinas.
+No se realizó exéresis del tumor primario ni cirugía derivativa. El análisis patológico de la afectación peritoneal confirmó la afectación por un adenocarcinoma con abundantes células en anillo de sello.
+El paciente acude a las consultas externas de Oncología Médica en enero de 2008. La ingesta oral estaba conservada, pero claramente disminuida. Su PS era de 1. Maximizamos el soporte nutricional oral con ayuda del Servicio de Nutrición. Decidimos inicio de quimioterapia de primera línea con el triplete de 5-fluorouracilo-docetaxel-cisplatino, administrándose ocho ciclos desde enero a junio de 2008. La tolerancia fue buena y como única toxicidad eritrodisestesia palmo-plantar grado tres que se resolvió sin incidencias.
+El paciente presentó rápidamente una mejoría de la clínica de ocupación gástrica y mejoró su estado nutricional, con una ganancia de peso progresiva. La evaluación de la respuesta al tratamiento mostró en la TC una aparente respuesta completa y una negativización de los marcadores tumorales.
+
+Evolución
+En junio de 2008 inicia seguimiento. No hay evidencia de progresión en dos años. En diciembre de 2010, ante una PET normal, entre otras pruebas de imagen y una gastroscopia que muestra una única úlcera residual gástrica, cuya biopsia fue negativa para malignidad, se evalúa como respuesta completa.
+En marzo de 2012, continuando el seguimiento, tanto las pruebas de laboratorio con marcadores tumorales como de imagen resultan normales, permaneciendo el paciente paucisintomático hasta la actualidad.
+Dado lo atípico del caso se decidió en esta última visita, solicitar la determinación de Her-2-neu en la muestra inicial. El resultado es el siguiente: expresión inmunohistoquímica de Her-2-neu: resultado positivo (2+) y estudio del estado de la molécula Her-2-neu mediante la técnica de hibridación fluorescente in situ (FISH): amplificado.

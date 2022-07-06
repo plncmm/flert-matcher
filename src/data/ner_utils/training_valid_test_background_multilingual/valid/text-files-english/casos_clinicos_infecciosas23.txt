@@ -1,0 +1,52 @@
+A 53-year-old male patient with diabetes mellitus undergoing emergency treatment with metformin, active smoker, drinker and cocaine abuse, presented to the emergency department with fever of up to 39oC, with a four-day history of holplopia
+There were no other relevant data in the anamnesis by organs and systems.
+Physical examination revealed: Ta 38oC; TA 160/102 mmHg; HR 99 bpm.
+SpO2 94% (Fi02 21%), eupneic, regular general condition.
+Neurologically he is conscious and oriented, presents facial paralysis of the right Vll nerve, dysmetria in the right upper limb and gait with increased support base with the right atrium.
+Force and sensitivity were preserved in all four limbs.
+No signs of meningeal irritation, non-painful hepatomegaly of 2 cm to abdominal palpation, the rest of the physical and neurological examination was normal, except gynecomastia, erythema palmodutre bilateral and contracturen fifth.
+The results of the first tests performed in the emergency room were as follows: Blood tests showed leukocytosis (13,000mm3) with neutrophilia (N 81%), other series and normal coagulation.
+Biochemistry: CRP 44 mg/l, glucose 124 mg/dl, renal function, LDH, liver function normal.
+Chest radiography (Rx) and cranial computed tomography (CT) without contrast were normal.
+Lumbar puncture was performed and cerebrospinal fluid (CSF) was obtained at normal pressure with a somewhat cloudy appearance, with marked increase of proteins: leukocytes (87mg/dl), differential count (39mg/mm3) and leukocytes (39mg/mm3).
+Blood and urine samples were collected and requested in CSF, ADA, Gram stain and resistant alcohol bacillus (BAAR), cultures and PCR for herpes simplex virus (HSV), varicella zoster virus (TBV).
+Initial Gram stain was reported as negative.
+After starting empirical antibiotic therapy, she was admitted to the Infectious Diseases Unit with a diagnosis of acute meningitis.
+Differential diagnosis of febrile meningitis with neurological involvement is discussed.
+The first diagnostic approach is made taking into account the characteristics of CSF (figure 1), where there is a predominance of mononuclear cells, a characteristic that differentiates meningitis of bacterial etiology that usually have a predominance of polymorphonuclear cells.
+The importance of this initial classification lies in the possibility of ruling out entities that involve specific management of both the patient and his environment as well as meningococcal meningitis.
+This approach is highly recommended when interpreting CSF or when there is minimal doubt starting empirical antibiotic treatment, since it is an entity that compromises the patient's life and CSF can alter its characteristics if it has received antibiotics prior to the procedure.
+When mononuclear cells▁predominate, non-infectious causes are distinguished in the etiology, such as different autoimmune diseases, vasculitis,▁neoplasms or drug toxicity; or more frequently, infectious causes, so it is always necessary to rule out them.
+The most common causative infectious agents are viruses; in our environment the most common are enterovirus, HSV type 2, VZV and Toscana.
+Other less common microorganisms are Lis and Mycobacterium tuberculosis (TBC), Trepon tuberculosis elimination: Brucella and Cryptococcus.
+Our patient, however, is associated with symptoms of involvement of the brainstem, a condition known as romboencephalitis and a CSF with high proteins and glucose consumption, which perhaps discards the most common etiology Lilan monogene.
+Other less common causes include HSV, TBC, toxoplasmosis, cryptococcosis, Lyme disease, brucellosis, and JC virus.
+The patient's clinical history and different patterns of exposure can help us to discriminate some of them at first.
+• Lissettes, as we have said, are the most common cause and affect primarily healthy middle-aged patients.
+The clinical course usually starts with prodromes of nonspecific symptoms (cephala, general▁malaise, nausea, vomiting and fever of days of evolution) followed by progressive dysfunction of the brainstem nerves, occasional impairment of consciousness and sensory seizures.
+The definitive diagnosis is established by the positivization of CSF or blood cultures.
+• TBC: it usually affects adults, generally as secondary reactivation in an immunosuppression situation; less frequently it follows a pathophysiologic infection.
+The phase of florid involvement of the brainstem is preceded by a prodromal period of subacute febrile illness of 2-3 weeks associated with general▁malaise, asthenia, headache and behavioral changes.
+About a third of patients associate miliary TBC in which case the inspection of the eye fundus can often show▁choroid tubers, a very valuable clue for the etiological diagnosis.
+Abnormalities in chest X-ray can be seen in up to 50% of cases, and generally we will have a positive mantoux but its negativity does not exclude this etiology.
+Staining and culture for AFB is the best diagnostic method, with these being initially positive in 37% of cases, increasing to 87% if new samples are examined on successive days despite having initiated tuberculostatic therapy.
+ADA determination helps us to establish a possible diagnosis although the cut-off point is not well established.
+• ESR: it usually gives a picture of necrotizing encephalitis in bilateral and asymmetric temporal lobes, however, in rare occasions it courses restricted involvement to the brainstem.
+• Toxoplasmosis: it is the most common opportunistic brain infection in HIV patients.
+At CT or magnetic resonance imaging (MRI), nodular lesions are usually observed, which capture ring contrast, with edema in the acute phase.
+• Lyme disease: it is important to consider it in spite of having a greater distribution at the Cantá County and the Northeast of Spain, since cases have been reported in the area of Lyme disease.
+The initial manifestations are usually self-limiting and sometimes go unnoticed and can even occur without the appearance of the lesion as characteristic as erythema migrans, which appears in only a quarter of patients.
+Therefore we can receive a patient in a stage of early disseminated infection where neurological symptoms may appear as described in our case.
+• Cryptococcosis and other fungal infections are rare and affect immunosuppressed patients.
+In the case of Cryptococcus, the clinical findings of CSF suggest the differential diagnosis with tuberculous meningitis.
+▁Definitive diagnosis is based on the identification of the parasite by staining with Chinese ink, antigen or culture.
+The patient was managed according to local guidelines for empirical antibiotic treatment, and linezolid, ceftriaxone, and Arsenic were administered.
+During admission, the tests requested in the emergency department were received; PCR for HSV type 1 and 2, enterovirus, VZV and TBC, all of which were negative, so that the ANT was suspended.
+Serology for HCV, HBV, syphilis and HIV were also negative.
+After 48 hours of admission, the patient reported growth of CSF due to antibiotics. Treatment was adjusted according to antibiogram. Ampicillin IV was started in association with high doses of gentamicin.
+Days later, an ADA of 53.7 U/L was received, although this did not modify our therapeutic attitude.
+MRI showed an abscess in the right hemiprotuberance and pedunculated brain with mass effect on the right half of the v ventricle compatible with cerebral abscess.
+Despite treatment with ampicillin and gentamicin, the patient's neurological deficit continued to progress and worsened, so he required hemodynamic management associated with instability in the Intensive Care Unit (ICU)
+After several weeks of stay in the ICU, the patient developed recurrent cough and, despite a diaphyseal extubation, with partial recovery of the neurological deficit, maintaining a right facial paralysis right hemiparesis residual cranial nerve and Vl.
+Control MRI showed a significant decrease in the lesion at the trunk.
+Final diagnosis: Lipid embolism associated with cerebral abscess.

@@ -1,0 +1,33 @@
+Anamnese
+Mulher de 56 anos, fumadora activa até ao diagnóstico, com um consumo acumulado de tabaco de 20 maços de tabaco por ano. Em Janeiro de 2016, começou com manifestações clínicas de tosse com expectoração purulenta sem febre, ortopneia ou dispneia nocturna paroxística, inicialmente tratada como uma infecção respiratória com broncodilatadores e antibióticos.
+Apresentou uma evolução clínica fraca com as medidas implementadas, pelo que foi ao departamento de urgências do seu hospital de referência a 9 de Fevereiro de 2018 devido a uma dispneia grave.
+Após diagnóstico de SVCS secundária a uma grande massa supra-hilar direita, superinfecção respiratória e insuficiência respiratória global com acidose que requer suporte ventilatório, foi transferida urgentemente para o Departamento de Pneumologia do nosso centro de ventilação mecânica não invasiva (VNI), estudo da massa e tratamento específico.
+Na manhã seguinte, foi contactada a Anatomia Patológica, que fez a biopsia do bloqueio adenopático supraclavicular, confirmando histologicamente o carcinoma microcítico do pulmão.
+
+Exame físico
+BP 128/72 mm Hg. HR 120 bpm. O2 Sat. O2 97% com oxigenoterapia com VNI com FiO2 50%. Consciente, orientada e cooperativa. Fraca perfusão periférica, com lividez e cianose acidental. Trabalho respiratório significativo, com taquipneia e utilização de músculos acessórios. Grande linfadenopatia supraclavicular direita, pedregoso em consistência, fixado a planos profundos. Auscultação pulmonar com rhonchi disperso e crepitações na base esquerda. Auscultação cardíaca com sons cardíacos rítmicos.
+Extremidades inferiores sem edema ou sinais de trombose venosa profunda.
+
+Testes complementares
+"Bioquímica: sódio, potássio, ureia e creatinina normal, creatina-cinase 186 U/l, troponina I 6,1 ng/l, CRP 32,54 mg/dl.
+"Hemoglobina 15,7 g/dl, plaquetas 252,000/mcl, leucócitos 23,000/mcl, 87% polimorfonucleares.
+"Coagulação: taxa de protrombina 50 %.
+"Gasometria arterial de base: pO2 25,4 mm Hg, pCO2 70,7 mm Hg, SatO2 43,6 %, pH 7,287.
+"Controlo de gases sanguíneos com VNI: pO2 138 mm Hg, pCO2 55,2 mm Hg, pH 7,38, excesso de base 3,2, bicarbonato 29 mmol/l.
+"Electrocardiograma: taquicardia sinusal a 120 bpm.
+"Radiografia de tórax portátil: infiltrado alveolar na base pulmonar esquerda, com broncograma de ar, sugestivo de consolidação pulmonar. Massa supra-hilar direita.
+"TAC ao tórax: grande massa supra-hilar direita infiltrando as estruturas mediastinais que se estendem até ao lado contralateral e em direcção à região supraclavicular, com linfadenopatias infracarcinais, hilares bilaterais e axilares direitas em alcance patológico, todas sugestivas de neoplasia pulmonar primária. Massa cavitada no lobo superior direito e nódulos pulmonares no lobo superior esquerdo, sugestivo de metástase. Infiltrados do tipo alveolar com áreas de consolidação no lobo inferior esquerdo e na língula, bem como no lobo médio, de provável origem inflamatória aguda-infecciosa. Abundante circulação colateral na parede costal e perivertebral esquerda, secundária ao colapso da veia cava inferior pela massa anteriormente descrita.
+"Aspiração fina da lesão na região supraclavicular direita: carcinoma neuroendócrino pulmonar de pequenas células (carcinoma microcítico).
+
+Diagnóstico
+Síndrome da veia cava superior secundária ao carcinoma do pulmão de pequenas células, doença extensiva devido ao envolvimento supraclavicular que se estende até à região cervical e axilar.
+
+Tratamento
+Após a biopsia ter sido realizada pela Anatomia Patológica, foi contactada a Radioterapia Oncológica, que administrou um flash de 8 Gy de radioterapia descompressiva sobre a lesão hilar, e a Medicina Oncológica, que, após confirmação histológica do carcinoma microcítico pulmonar, prescreveu com urgência o primeiro ciclo de carboplatina 4 AUC + etoposida 80 mg/m2 (a 80% de intensidade de dose e evitando a cisplatina devido ao mau estado geral do paciente). Dose total para uma superfície corporal de 1,5 m2: carboplatina 500 mg iv dia 1 + etoposida 120 mg iv dias 1, 2 e 3.
+
+Evolução
+A paciente permaneceu no Departamento de Pneumologia com melhoria progressiva do estado geral e menor dependência de ventilação mecânica não invasiva, que foi retirada e teve alta após 14 dias no hospital, sem necessidade de oxigenoterapia domiciliária. Durante a admissão, foi realizado um TAC ao crânio, tórax e abdómen, que mostrou uma ligeira redução da massa mediastinal (7 dias após o início do tratamento).
+Em regime ambulatório, foi realizado um exame PET-CT que mostrou o envolvimento de gânglios linfáticos locais e distantes, bem como uma lesão retroperitoneal hipermetabólica sugestiva de metástase.
+O paciente veio ao ambulatório na data do segundo ciclo relatando dispneia e tosse produtiva, com leucocitose e neutrofilia nas análises ao sangue, requerendo novamente internamento hospitalar devido a insuficiência respiratória. Devido à suspeita de infecção respiratória de origem nosocomial, foi iniciada a oxigenoterapia e o tratamento antibiótico de largo espectro. Tendo em conta a fraca evolução nas horas seguintes, contactou a Pneumologia e foi decidido realizar uma ventilação mecânica não invasiva até à reavaliação radiológica da doença.
+Um TAC ao tórax, abdómen e pélvis mostrou uma diminuição do tamanho da massa mediastinal e hilar direita, mas como consequência foi observada necrose com destruição da parede traqueal direita, que comunicou com uma cavidade de ar de 4 cm, que fistulae a uma cavitação periférica de 5 cm. Há também uma resposta de dois nódulos pulmonares, com cavitação e a presença de um nível hidro-aéreo no interior. O aparecimento da consolidação do espaço aéreo com broncograma no lobo inferior direito e múltiplos nódulos centrolobulares e um padrão em forma de árvore no surto, predominantemente nos lobos inferiores, compatível com um processo infeccioso-inflamatório associado.
+Dado o mau prognóstico a curto prazo devido às alterações apresentadas no TAC e ao sofrimento físico do paciente apesar das medidas postas em prática, a VNI foi retirada e iniciou-se a sedação paliativa, e o paciente morreu finalmente.

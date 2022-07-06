@@ -1,0 +1,42 @@
+Motivo della consultazione
+Dolore all'emitorace sinistro e febbre. Storia personale:
+- Allergia alla penicillina e derivati
+- Fumatore di 20 sigarette al giorno per 36 anni. Ex bevitore pesante dal 1992.
+- Nessuna ipertensione o DM conosciuti. DL nel trattamento farmacologico.
+- Miopia magna operata con il laser.
+- Trattamento abituale: Simvastatina 20 mg (0-0-1), Hemovas (1-0-0).
+- Situazione di base: vive con sua moglie, indipendente per le attività della vita quotidiana. Dispnea da sforzo. Nessuna ortopnea, nessun edema o DPN. Lavora in un ufficio.
+- Storia familiare: il padre è morto di cancro laringeo metastatico all'età di 56 anni, la madre è morta di cancro al pancreas all'età di 83 anni. Ha 3 fratelli sani.
+
+Malattia attuale
+Un paziente di 56 anni si è presentato al dipartimento di emergenza per 3 giorni di dolore alla scapola sinistra che si irradiava alla regione precordiale, con caratteristiche pleuritiche, accompagnato da febbre fino a 37,8oC e una sensazione di distrofia. Consultato il suo MAP che ha prescritto un trattamento con Paracetamolo senza miglioramento clinico, il paziente ha riferito un progressivo peggioramento con febbre persistente e aumento della dispnea fino al minimo sforzo. Nessuna tosse o espettorazione. Nessun aumento dell'ortopnea o dell'edema. Nessun altro sintomo di interesse.
+
+Esame fisico
+Pressione 97/64 mmHg, frequenza cardiaca 95 bpm, satO2 basale 94%, T 37.2oC. Cosciente e orientato in tutte e 3 le sfere, ben idratato e perfuso, sudato, eupneico, cooperativo, buona colorazione della pelle e delle mucose. Testa e collo: pulsazioni carotidee +, nessun IY o RHY, nessun gozzo o adenopatia. AC: ritmico senza mormorii. PA: ipoventilazione nei 2/3 inferiori dell'emitorace sinistro, nessun affanno. Addome: nessuna alterazione significativa. MMII: nessun edema, nessun segno di flebite o DVT, pulsazioni conservate.
+
+ Test complementari all'arrivo
+Test di laboratorio
+- Emoglobina 14,3 g/dl, ematocrito 40,8%, MCV 95,3 fl, MCH 33,4 pg,
+Leucociti 22530/uL, neutrofili 91%, linfociti 4%, monociti 5,5%, eosinofili 4%, basofili 1%, piastrine 210.000/mm3.
+- Striscio di sangue: 73% segmentato, 15% striato e 6% metamielociti.
+- Biochimica: Glucosio 138 mg/dl, Urea 70 mg/dl, Creatinina 1,3 mg/dl, GOT 22 U/I, GPT 20 U/I, Br totale 0,66 mg/dl, CPK 36 U/I, Amilasi 50 U/I, Calcio 10,6 mg/dl, Sodio 136 mEq/l, Potassio 4,4 mEq/l, Mioglobina 29,75 ng/ml, Troponina T US <3 ng/l.
+- Coagulazione: INR 1.13, tempo di protrombina 73.77 %, tempo di tromboplastina attivata 28.2 sec, fibrinogeno 960 mg/dl, D-Dimer 2.08 mg/L.
+- Emogasanalisi arteriosa basale: pH 7,44, pCO2 29,1 mmHg, pO2 72,1 mmHg, HCO3 effettivo 19,4 mEq/l, satO2 98%.
+- Urine: pH 5.5, proteine ++ mg/dl, glucosio negativo, corpi chetonici negativi, bilirubina bassa, sangue negativo, nitriti negativi, urobilinogeno normale. Sedimento: leucociti isolati.
+- Emocoltura x2: negativa.
+- Coltura delle urine: negativa. Antigene della legionella e pneumococco nelle urine negativo.
+- ECG: ritmo sinusale a 90 bpm, asse normale. Nessuna alterazione significativa della ripolarizzazione.
+- Radiografia del torace
+- TAC del torace: nessun difetto di rifornimento nelle arterie polmonari principali, lobari e segmentali. Versamento pleurico bilaterale, minimo sul lato destro e maggiore sul lato sinistro. Pneumotorace minimo nel segmento anteriore della LSI e della lingula. Piccole bolle subpleuriche apicali bilaterali. Modifiche apicali polmonari residue bilaterali. Atelettasia di LII con broncogramma aereo suggestivo di atelettasia passiva a causa della presenza di effusione e la grande ernia iatale senza poter escludere la condensazione pneumonica. Due adenopatie infracarine, una di 15 mm e l'altra calcificata. Adenopatia ilare sinistra di 10 mm, che impronta il bronco della lingula. Ernia iatale voluminosa.
+
+Evoluzione
+Durante la sua permanenza nel dipartimento di emergenza, il paziente è rimasto ipotensivo, richiedendo una fluidoterapia e prostrazione senza focalità neurologica. Dopo la stabilizzazione emodinamica il paziente è stato ricoverato in Medicina Interna con una diagnosi clinica di sepsi di origine respiratoria e CAP in LII, ed è stato iniziato un trattamento antibiotico con levofloxacina, azitromicina e clindamicina, oltre a ossigenoterapia e broncodilatatori. Ventiquattro ore dopo il suo arrivo in reparto, si presentò con un aumento del dolore toracico, desaturazione improvvisa e instabilità emodinamica, per cui furono richiesti studi radiologici urgenti, che mostravano un peggioramento radiologico nella radiografia del torace con la comparsa di nuovi livelli idro-aerei. La TAC ha mostrato la perforazione del diverticolo epifrenico sinistro con associata pleuro-mediastinite e idrotorace sinistro secondario a quanto sopra, quindi la diverticolectomia è stata eseguita tramite toracotomia sinistra con posizionamento di un sacchetto per la successiva chiusura della fistola esofagocutanea. Il paziente non ha avuto complicazioni nell'immediato periodo postoperatorio, anche se ha richiesto un soggiorno in terapia intensiva per 5 giorni e farmaci vasoattivi durante le prime 24 ore dopo l'operazione. Ha completato la terapia antibiotica con tigeciclina e fluconazolo con risoluzione dei sintomi settici associati. Alla dimissione il paziente era termodinamicamente stabile, portatore di PEG, buona tolleranza ai liquidi con poca perdita di materiale attraverso la fistola come mostrato nelle immagini di transito GI.
+
+Giudizio clinico
+- Diverticolo esofageo perforato epifrenico, con associata pleuro-mediastinite e shock settico.
+- Idropneumotorace sinistro secondario a quanto sopra risolto.
+- Il versamento pleurico destro si è risolto
+
+Trattamento alla dimissione
+-Mantenere il suo precedente trattamento abituale senza cambiamenti -Trattamento regolare nel servizio di chirurgia toracica -Controllo da parte del suo MAP
+

@@ -1,0 +1,46 @@
+A 77-year-old male from Ceuta came to the emergency room of this center with fever and diarrhea without pathological products of 5 days duration.
+Among its antecedents, the presence of multiple cardiovascular risk factors stands out: hypertension, diabetes mellitus with micro and macrovascular complications in the form of neuropathy, diabetic nephropathy and ischemic heart disease that required 20% of left ventricular systolic dysfunction on several occasions.
+In addition, in 2013 an automatic implantable cardioverter-defibrillator (ICD) was placed.
+Regarding the diarrheal condition, she had not committed dietary transgress nor reported consumption of unpasteurized products.
+He had traveled to Morocco several times in his life, and had not visited him in the last two years.
+Due to the significant deterioration of her general condition with tachycardia and hypotension on examination, we decided to admit her to the hospital at this time, starting empirical treatment with piperacillin tazodone, after obtaining microbiological samples for culture.
+Two days later, the patient grew both in hemocultive and in coprocultive Salmonella enteritidis resistant only to the aminoglycosides after home therapy, so bitherapy with ceftazidime and levofloxacin was initiated.
+Eleven days after discharge, the patient came to the emergency department again because of fever of up to 38.5ยบ with a 4-day history of titre without apparent focality.
+On physical examination, crackles were heard in both lung bases, attributed to a heart failure diagnosis, without murmurs.
+No masses or organomegaly were detected in the abdomen, and no signs of phlebitis were observed.
+Blood count and basic biochemical tests were requested in the emergency room, highlighting: creatinine 1.52 mg/dL (with creatinine levels around 1.5-2.0 mg/dL at baseline), CRP 176 mg/L, Hb 79 12.2 g/dL other
+Chest and abdominal X-rays were also performed, with no anomalies being observed.
+Once established, the clinical instability of the underlying pathology was determined, admission was decided to study the origin of the fever, extracting hemocultive emergencies from the area and starting empirical treatment with pipeacilzoate.
+Once in the plant, it was found that in the emergency hemocultives the same germ was isolated again as in the previous admission, Salmonella enteritidis, with identical antimicrobial sensitivity.
+Differential diagnosis The differential diagnosis of fever of intermediate duration without focus includes a wide variety of pathologies ranging from infectious to non-infectious causes (inflammatory, drug-related...).
+However, in the case of our patient, the epidemiological history of previous hospitalization for enteroinvasive diarrhea due to Salmonella enteritidis with associated bacteremia makes us restrict the differential diagnosis to secondary infectious complications of this germ.
+Among them, given their cardiovascular history and especially the placement of a foreign material at cardiac level susceptible to infection (DAI), it is essential to rule out both endocarditis on a native valve and on AID.
+Endocarditis due to Salmonella spp is a rare entity.
+In a review by Cheng WL et al, they found only a total of 87 cases of endocarditis by Salmonella spp in a period between 1976 and 20142.
+Normally, there is usually some cardiac abnormality that acts as a predisposing factor for infection, such as previous valve (53% of cases), or endocardium (30%) involvement.
+The most affected valve is usually the mitral valve (16.6%) followed by the aortic valve (16.6%)3.
+Salmonella spp endocarditis tends to be a very destructive process, associating valvular or atrioventricular perforation and abscess formation in a significant number of cases.
+Initially, mortality was very high (up to 42% of those diagnosed) reducing these mortality rates over time to 13%.
+The infection of intracardiac devices by this germ, such as cables of mental disorders, has also been described in the literature, although infection by Gram-positive bacteria is much more frequent.
+Its management is not entirely clear, although it is recommended to remove the device whenever possible in case of persistent hidden gram-negative bacteremia.
+Extra-intestinal infections due to Salmonella occur in up to 5-10% of bacteremias due to this germ, and multiple organs such as lung involvement or Salmonella spp have been described.
+There are special hosts who have a greater tendency to develop distant infections by Salmonella spp., such as central nervous system (CNS) involvement in the form of meningitis in children under one year old, or the highest risk of osteomyelitis.
+Urine infections are also described and usually occur in elderly patients with underlying immunosuppression (diabetes, therapy).
+In addition, some studies have also described a significant association with the existence of urological▁neoplasms.
+Primary non-focal bacteremias should alert us to the existence of some possible immunosuppression, especially the possibility that the patient has an unknown HIV infection with low CD4 counts.
+In fact, recurrent bacteraemia due to Salmonella spp is considered an AIDS-defining disease, and it is believed that it is apparently due to incomplete elimination of primary infection by the alteration of cell-mediated immunity and proinflammatory cytokines release6.
+In case of epidemiological sprout, it is necessary to investigate the host or food that causes it.
+If there are no signs of infection that could identify the origin of Salmonella spp infection, it could be useful to perform fecal culture in household contacts involved in direct food handling, to perform screening of chronic carriers.
+This chronic carrier state is defined as the persistence of Salmonella species in feces or urine over 12 months after an acute infection.
+The fact of being a chronic carrier of Salmonella spp is associated with the excretion of a large number of microorganisms in the feces, but with the absence of clinical disease, which is related to high levels of systemic immunity.
+The frequency of chronic carrier status is higher in women and in people with biliary tract anomalies or concurrent infection with Schistosoma haematobium.
+The use of antibiotics during the course of diarrhea due to Salmonella spp also increases the carrier state time, so it is not recommended to treat with antibiotics except in special cases such as patients older than 50 years or those with an extratestinal valve disease.
+Ev in the suspect of endocarditis, a transthoracic echocardiogram was initially requested, which did not show signs of infection at the valve level, and later an abdominal ultrasound showed the presence of a mass suggestive of
+An abdominal computed tomography (CT) study was completed, which showed the presence of a juxtarenal mycotic aneurysm measuring 1.3 x 2.5 cm in diameter. The patient was referred to the outpatient vascular surgery service of our hospital.
+Due to the high comorbidity of the patient, and the high vital risk involved in the repair of this aneurysm.
+it was decided not to perform an open surgical intervention to eliminate infected aortic tissue, and instead a vascular stent was placed.
+After two weeks of antibiotic treatment with ceftriaxone, an endoprosthesis was placed, maintaining the same antibiotic therapy for another month.
+Subsequently, the oral treatment with ciprofloxacin 500 mg/12h was continued, and a scintigraphy with marked leukocytes was performed on the fourth month of treatment, which did not show pathological uptake suggestive of recurrence of infection.
+An oral month was maintained until the normalization of acute analytical phase reactants and clinical signs of infection disappeared, as well as discontinuation of ciprofloxacin.
+It was decided to repeat the scintigraphy with marked leukocytes after the patient had been taking 3 months without antibiotics to determine the existence of recurrence of infection; however, before performing the IA scintigraphy, an acute myocardial infarction showed recurrence as a consequence of infection.
+Final diagnosis Mycotic aneurysm by Salmonella enteritidis.

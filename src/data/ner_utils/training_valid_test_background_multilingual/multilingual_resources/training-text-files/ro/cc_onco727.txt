@@ -1,0 +1,36 @@
+Anamneză
+Pacientul a consultat pentru febră de până la 38,6 oC de 24 de ore de evoluție, însoțită de sindrom distrofic și vărsături. Ea primise o a doua cură de pembrolizumab cu șapte zile înainte. Ea a prezentat dureri abdominale ocazionale ușoare și autolimitate, fără modificări ale obiceiurilor intestinale. Tuse ocazională cu expectorație albicioasă. Pacientul primea pansamente la nivelul coapsei drepte, din cauza unei supurații. Din acest motiv a fost tratată cu clindamicină.
+
+Examinarea fizică
+"TA: 155/63 mm Hg, FC 91 bpm, Ta: 38,1 oC, SatO2: 92 %, PS 1.
+"Stare generală: bună. Eupneică în repaus. Paloarea pielii. Bine hidratat.
+"Cap și gât: mici limfadenopatii laterocervicale bilaterale. Acestea nu sunt dureroase la palpare. Cavitatea bucală cu leziuni compatibile cu aftele. Nu există exudate amigdaliene. Otoscopie bilaterală normală. Fără rigiditate nucală.
+"AC: ritmic la o frecvență bună. Nu s-a auzit niciun murmur.
+"AP: mvc în ambele hemitorace cu rare fisuri bibasale uscate.
+"Abdomen: globular, moale, depresibil. Nu există mase palpabile sau megaliți. Durere la palpare în HCC cu Murphy îndoielnic. RHA normal. Fără cusături hernale sau pulsuri de suflare. În regiunea inghinală dreaptă există o mică leziune excrescentă pe baza unei leziuni chirurgicale. Pe fața internă a membrului inferior drept (MID) erau 3 leziuni supurative punctate cu țesut de granulație cu secreție purulentă și semne inflamatorii perilesionale. Edem cu fovea perimaleolară slabă în MID. Homans negativ.
+
+Teste complementare
+Dintre testele complementare efectuate la sosirea la departamentul de urgență, s-au remarcat următoarele:
+"Hemogramă: globule roșii 3,68 hemoglobină 9,2. Hematocrit 30,2. Volumul corpuscular mediu 82,1.
+"Hemoglobina eritrocitară corpusculară medie 25. Concentrația medie a hemoglobinei corpusculare eritrocitare 30,5. Intervalul de distribuție a eritrocitelor 15,8. Leucocite 0,2. Neutrofile % 6,2.
+"Neutrofile 0. Limfocite % 93,8. Limfocite 0,2. Monocite % 0. Eozinofile % 0. Eozinofile 0. Basofile % 0. Basofile 0. Basofile 0. Trombocite 312.
+"Coagulare: raportul timpului de protrombină 1,31. Activitatea protrombinei 72. Timp de protrombină 14,7. 1,31 INR. Timpul de tromboplastină parțială activată (aPTT) 38. Raportul aPTT 1,16. Derivat de fibrinogen 7.35.
+"Biochimie: uree 40 creatinină în sânge 0,95. Proteine totale 6,7. Bilirubina totală 0,35. Sodiu
+"135. Potasiu 4,59. Creatin kinaza 30. Aspartat amino transferază (GOT) 13. Amilază 46. CRP 195.
+"Urină: greutate specifică 1,020. pH 6. Cetone 10. Glucoză negativă. Nitriți negativ. Bilirubina este negativă. Proteine 100. Urobilinogen 0,2. Celulele roșii sunt negative. Leucocite negative.
+"Gazele din sângele venos: Ph 7,42. nA 136. k 4,5. cA 1,10. gLUC 220. lAC 1,4. hTCO 3 4%. hco3- 24,0.
+"tHBC 9.9.
+"Radiografie toracică simplă posteroanterioară: nu au fost identificate imagini de infiltrate sau condensare.
+Au fost prelevate 2 hemoculturi x 2, o cultură de urină, o cultură a plăgii MID și o cultură a plăcii mucoasei bucale.
+
+Diagnostic
+Judecata diagnostică a pacientului a fost compatibilă cu neutropenia febrilă de gradul IV (profundă), infecția plăgii chirurgicale și candidoza orofaringiană.
+
+Tratament
+S-a decis internarea în spital. Au fost recomandate izolarea inversă, repaus și dietă absolută, precum și administrarea de G-CSF și terapie antibiotică empirică cu meropenem și vancomicină intravenos.
+După ce cultura plăgii a fost pozitivă la MID pentru pseudomona aeruginosa, tratamentul a fost ajustat în funcție de antibiogramă, trecând la ceftazidimă intravenoasă. Fluconazolul intravenos a fost adăugat la tratament din cauza creșterii Candida albicans în cultura plăcii mucoasei bucale.
+
+Evoluție
+Pacienta a prezentat o ameliorare clinică clară, menținându-și tensiunea arterială obișnuită. Cu toate acestea, după mai mult de zece zile de la internare, numărul de neutrofile serice a rămas la 0 mil/mm3. Cazul a fost discutat cu cei de la hematologie, care au recomandat un studiu al măduvei osoase. A fost efectuat un aspirat de măduvă osoasă, care a fost raportat ca fiind un studiu fenotipic, fără dovezi de infiltrare prin hemopatie și absența seriilor mieloide (agranulocitoză).
+A fost solicitată analiza prin citometrie în flux a probei obținute din aspirat, cu rezultate în concordanță cu agranulocitoza, plasmocitoză marcantă și creșterea relativă a seriei roșii. De asemenea, a fost descrisă o populație de celule, deloc neglijabilă în unele zone, cu aspect nehematologic, fără a forma cuiburi, posibil legată de melanomul metastatic.
+Având în vedere confirmarea infiltrării MO de melanom și având în vedere că pacientul este în continuare (la o lună de la internare) fără absolut niciun număr de neutrofile, am exclus continuarea tratamentului oncologic activ. A fost convenită cu pacientul și familia trimiterea la Unitatea de îngrijiri paliative pentru tratament simptomatic.

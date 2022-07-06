@@ -1,0 +1,32 @@
+Anamnesi
+Dona de 68 anys d'edat amb carcinoma ductal infiltrante (CDI) de mama, estadi IIIA. En tractament oncològic actiu amb quimioteràpia neoadjuvant, acudeix al Servei d'Urgències per febre i esgarrifances persistents.
+
+Història oncològica
+Dona de 68 anys, de raça caucàsica, jubilada en l'actualitat (hostessa de vol en la seva vida professional). Entre els seus antecedents personals, ressalta hipertensió arterial, hipotiroïdisme i diversos episodis depressius menors. No presenta hàbits tòxics coneguts, reaccions adverses medicamentoses ni antecedents quirúrgics personals. No mostra antecedents oncològics familiars. Com a tractament domiciliari, manté enalapril/hidroclorotiazida 20/12,5 mg/dia, levotiroxina 75 mcg/dia i lorazepam 1 mg/dia.
+Al gener de 2019, amb 67 anys, és valorada en Ginecologia per lesió en mugró dret tipus "eritema-èczema", de diversos mesos d'evolució i asimptomàtica. Inicia estudi per sospita de neoplàsia mamària, sent diagnosticada de CDI de mama, grau histològic 3, receptor d'estrògens positiu, receptor de progesterona negatiu, receptor 2 del factor de creixement epidèrmic humà (HER-2) negatiu i Ki67 del 50% (luminal B), estadi IIIA (T3N1M0, segons la classificació TNM de la American Joint Committee on Cancer, 8a edició). Les proves complementàries descriuen un augment de densitat mamària dreta (lesió tipus BI-RADS 4) i adenopaties axil·lars ipsilaterales (per mamografia i ecografia mamària i axil·lar, respectivament). El diagnòstic de carcinoma és confirmat per biòpsia amb agulla gruixuda (BAG), tant de la mama com d'una de les adenopaties axil·lars. L'estudi d'extensió (ressonància magnètica mamària, la TC de tòrax, abdomen i pelvis amb contrast i gammagrafia òssia) descarta la presència de malaltia a distància.
+Es planteja tractament neoadjuvant basat en paclitaxel setmanal (rebent 12 cicles) i, posteriorment, doxorrubicina liposomal pegilada + ciclofosfamida (1 cicle fins al moment).
+
+Història actual
+Dues setmanes després de rebre quimioteràpia, acudeix a Urgències per cremor uretral, disuria i sensació d'esgarrifances intermitent, de tres dies d'evolució. L'exploració física i les proves complementàries sol·licitades demostren signes compatibles amb neutropènia febril de baix risc i infecció no complicada del tracte urinari inferior, per la qual cosa és donada d'alta amb antibiòtic oral, tres dosis de factor estimulant de colònies granulocítiques (G-CSF) i mesures higiènic-dietètiques.
+No obstant això, acudeix en una segona ocasió, deu dies després, per persistència de la disuria, empitjorament de les esgarrifances i aparició de febre (màxim de 38,2o termometria), a la qual s'ha afegit sensació diatèrmica, artromiàlgies generalitzades, dolor lumbar inespecífic i insomni pertinaç.
+
+Exploració física
+Constants: TA 183/63 mm Hg, FC 110 lpm, FR 15 rpm, SatO2 97% (basal) i Ta 37,7oC.
+Inspecció general: nivell 1 del Eastern Cooperative Oncology Group (ECOG). Aparent bon estat general. Eupneica en repòs. Normocoloreada. Adequada perfusió distal.
+Exploració per aparells i sistemes: els exàmens neurològics, de cap i coll, cardiorespiratori, abdominal i d'extremitats no demostren signes patològics destacables ni revelen troballes anòmales.
+
+Proves complementàries
+En la bioquímica urgent destaquen una proteïna C reactiva (PCR) elevada (426,4 mg/l; NV 0-5), una procalcitonina elevada (1,2 ng/ml; VN < 0,25) i una LDH elevada (321 O/l; VN 40-240). L'hemograma sanguini revela anèmia (Hb 8,5 g/dl; VN 12-16) normocítica normocrómica i trombocitosis (504.000/μl; VN 150.000-450.000). La xifra de neutròfils s'ha recuperat. La coagulació és normal.
+L'electrocardiograma i la radiografia de tòrax PA i lateral no demostren dades d'isquèmia ni revelen consolidacions parenquimàtiques ni vessament pleural, respectivament.
+El sediment urinari és patològic, revelant la presència d'hematúria microscòpica, piuria i bacteriuria abundant. Els nitrits són negatius. L'urinocultiu sol·licitat en l'anterior visita a Urgències és negatiu.
+Se sol·liciten, així mateix, hemocultivos diferencials i urinocultiu.
+
+Diagnòstic
+Sospita de ITU complicada resistent a antibioterapia oral en pacient immunodeprimida.
+
+Tractament
+Ingrés hospitalari amb antibioterapia intravenosa dirigida a focus urinari, consistent en ceftriaxona 2 g/24 hores, i realització preferent d'ecografia urològica.
+
+Evolució
+La pacient ingressa amb estabilitat clínica i hemodinàmica. Durant l'ingrés s'administra antibioterapia dirigida a focus urinari. L'ecografia urològica no demostra col·leccions suggeridores d'abscés ni dilatació de la via excretora. Malgrat l'absència d'aïllaments microbiològics, la pacient continua amb febre, distermia associada i empitjorament de l'estat clínic general, amb astènia limitant. S'augmenta la cobertura antibiòtica amb piperacilina-tazobactam i vancomicina, i s'extreuen nous cultius. Els extrets en urgències són negatius.
+Se sol·licita llavors ecocardiograma transtorácico i TC de tòrax, abdomen i pelvis amb contrast per a descarti de complicacions que justifiquin el quadre clínic. La primera descriu un discret engruiximent periaórtico, de dubtosa significació; la segona revela la presència d'un cridaner engruiximent i realç del gaiato aòrtic, de l'aorta descendent i dels troncs supraaórticos, suggeridors de vasculitis de grans gots. Amb aquesta sospita com a possible causa de la síndrome febril, se sol·licita estudi immunològic i d'autoimmunitat, serologia viral i estudi de possibles fàrmacs desencadenants de iatrogenia. Com a resultats destacables, crida l'atenció una velocitat de sedimentació globular elevada (VSG; 140 mm; VN 1-20) i un títol positiu baix (1/80) d'anticossos antinuclears (ANA), tots dos inespecífics. El títol de IgG4 és normal. Totes les serologies són negatives i la pacient no compleix criteris per a diagnòstic de malaltia reumatològica. Una vegada descartades les altres causes, es considera el diagnòstic de vasculitis de grans gots secundària a fàrmacs (més probable, G-CSF). Es prohibeix l'administració d'aquest fàrmac i s'inicia tractament amb prednisona oral a dosis altes.

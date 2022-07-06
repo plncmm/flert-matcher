@@ -1,0 +1,26 @@
+Anamnèse
+Le patient s'est présenté aux urgences pour une exacerbation de ses douleurs abdominales habituelles, situées dans l'épigastre et irradiant vers les deux hypocondres, sourdes et sévères, 8 sur 10, qui ne se sont pas calmées avec une analgésie de première intention, sans autres symptômes associés.
+
+Examen physique
+À l'arrivée aux urgences, la tension artérielle était de 200/110 mm Hg. Douleur abdominale à la palpation dans l'hémiabdomen droit, sans signe d'irritation péritonéale. Le reste de l'examen, y compris l'examen neurologique, était sans particularité.
+
+Tests complémentaires
+Aux urgences, on a observé une aggravation de son tableau habituel de cholestase (bilirubine 1,67, FA 406, GGT 739), une augmentation des enzymes de cytolyse (GOT 766, GPT 694) et des troponines 0,7 et une coagulopathie (INR 1,37 et fibrinogène 244).
+Compte tenu de l'altération analytique et des douleurs abdominales, un scanner de l'abdomen a été réalisé, montrant des infarctus rénaux bilatéraux et une thrombose d'une branche de l'artère hépatique, avec des zones ischémiques ultérieures.
+En raison de la présence d'une coagulopathie et d'infarctus viscéraux, une anticoagulation avec une héparine de faible poids moléculaire (HBPM) a été mise en place. En outre, compte tenu de l'altération du profil hépatique, un test de dépistage des virus hépatotropes (HBV, HCV, CMV et EBV) a été demandé, qui s'est révélé négatif.
+Le patient a été admis dans le service d'oncologie médicale pour des examens complémentaires.
+
+Diagnostic
+Endocardite marneuse (EM) avec atteinte embolique systémique (splénique, hépatique, rénale et système nerveux central), se manifestant par des douleurs abdominales, un épisode d'amnésie globale transitoire et une altération paroxystique du niveau de conscience chez un patient atteint d'un carcinome canalaire infiltrant de stade IV de haut grade du pancréas muco-sécrétant par atteinte hépatique.
+
+Traitement
+HPBM pour MS.
+
+Evolution
+Une échoendoscopie a été réalisée avec une biopsie pour identifier le processus tumoral, qui s'est avéré être un carcinome canalaire infiltrant de haut grade de stade IV du pancréas muqueux-sécrétant en raison d'une atteinte hépatique.
+Lors de son admission, le patient a présenté un épisode de vertiges, de sueurs et une sensation de perte de force dans la main gauche, avec une tension artérielle élevée et un ECG normal. Un bilan cardiologique urgent a été demandé, notamment une échocardiographie transthoracique (ETT) qui a montré une image douteuse de végétation sur la valve aortique et une insuffisance aortique modérée. Il a été décidé de prolonger l'étude par une échocardiographie transoesophagienne (ETO). Finalement, l'ETO a montré une image compatible avec une endocardite.
+Suite à ce constat, des cultures microbiologiques ont été réalisées et une antibiothérapie empirique a été mise en place avec de la vancomycine, de l'ampicilline et de la gentamicine. Les hémocultures étaient stériles et le patient a continué sans fièvre. Un ETT et un ETO de suivi ont été effectués, où une masse adhérente persistait sur le côté ventriculaire du feuillet coronaire droit, qui semblait avoir augmenté de taille. L'étude des microorganismes responsables de l'endocardite a été étendue aux hémocultures négatives : sérologie pour la fièvre Q, Brucella et Chlamydia pneumoniae ; et PCR pour Bartonella, Borrelia, Coxiella et Rickettsia. Tous étaient négatifs.
+Étant donné l'association entre les épisodes paroxystiques d'altération du niveau de conscience (qui avaient tendance à coïncider avec les moments où l'HBPM était occasionnellement suspendue) et une image d'endocardite, un scanner crânien a été demandé, qui s'est avéré normal.
+A cette époque, un épisode d'amnésie globale transitoire survenu 4 mois plus tôt a été pris en considération et qui, a priori, n'était pas lié à la maladie tumorale, puisque ce symptôme précédait les symptômes constitutionnels. Vu en perspective, il ne pouvait être exclu que cet événement soit lié à la SEP actuelle, une IRM crânienne a donc été demandée, qui a montré des infarctus supra- et infratentoriels avec un profil lacunaire et un temps d'évolution différent, suggérant une origine thromboembolique cardiaque.
+Malheureusement, le profil hépatique du patient a commencé à se dégrader progressivement. Ceci, associé à une aggravation clinique marquée, signifiait que le patient n'était pas un candidat pour un traitement par chimiothérapie et que le contrôle symptomatique seul était choisi.
+

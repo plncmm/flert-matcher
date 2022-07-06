@@ -1,0 +1,29 @@
+Anamnesi
+Dona de 34 anys que acudeix a Urgències per dolor abdominal suprapúbico. Sense antecedents familiars. Antecedents patològics: fumadora IA 10 paquet/any. No bevedora. FUR: 6/1/2014. No al·lèrgies medicamentoses conegudes.
+
+Exploració física
+ECOG 1. Cap i coll: no adenopaties cervicals palpables. AC: rítmic, no soplos. AP: murmuri vesicular conservat, no sorolls sobreñadidos. Abdomen: tou, depresible, no dolorós a la palpació, ferida quirúrgica de laparotomia en bon estat. Membres inferiors: no edemes.
+
+Proves complementàries
+» Es realitza IQ el 24/2/2013, observant-se tumoració oen el vari esquerre de 10 cm, es realitza anexectomía esquerra i tumorectomia, amb resultat anatomopatològic de cistoadenocarcinoma serós papil·lar d'11 cm limitat a l'ovari (pT1a).
+» Després de les troballes es realitza una TC-TAP amb resultat de massa pulmonar sòlida amb àrees hipodensas a nivell del LSD espiculado de 5 x 3 x 4 cm, massa suprarenal dreta de 3 cm sospitosa de metàstasi, adenopaties patològiques en l'espai portocava, retroperitoneales, paraaórticas.
+» Donada la possibilitat de tumoració sincrònica, és valorada per Pneumologia, realitzant-se el 31/12/2013 una broncoscòpia, en la qual s'observa una lesió endobronquial a nivell del LSD.
+» Es prenen biòpsies, amb resultat de carcinoma infiltrante pobrament diferenciat i perfil immunohistoquímic compatible amb adenocarcinoma de pulmó (TTF-1 +, p63 negatiu, queratina CK56: negatiu, CEA, cromogranina i calcitonina positiu, tiroglobulina: negatiu).
+» Es realitza una PET-TC, on s'observen àrees de hipercaptación a nivell del LSD, cutània, ganglionar, òssia, subcutània i suprarenal dreta, amb el diagnòstic de cistoadenocarcinoma d'ovari I IC i adenocarcinoma de pulmó I IV, i és enviada a la consulta d'Oncologia Mèdica.
+» Se sol·licita EGFR i ALK (resultat negatiu) i es realitzen biòpsies del nòdul SC, amb resultat de metàstasi cutània de carcinoma neuroendocrí moderadament diferenciat.
+» Donats els resultats, se sol·licita ecografia de tiroides, objectivant-se en el hemitiroides dret una àrea irregular mal delimitada de 1,3 x 1,5 x 0,9 cm, així com adenopaties en la cadena yugulo-carotídea contralateral. Calcitonina: 776 .
+» Donada el dubte diagnòstic, se sol·licita biòpsia de tiroides, amb resultat de carcinoma medul·lar de tiroides. A causa de l'afectació suprarenal se sospita possibilitat de feocromocitoma i se sol·liciten catecolaminas en sang i orina, que resulten positives. PTH: normal.
+» Protooncogén RET: mutació gen RET de novo.
+
+Diagnòstic
+» Carcinoma medul·lar de tiroides metastásico.
+» Sospita de feocromocitoma en relació amb síndrome MEN 2B.
+» Cistoadenocarcinoma d'ovari i IC.
+
+Tractament
+Amb el resultat de probable medul·lar de tiroides s'inicia tractament (gener de 2014) amb vandetanib 300 mg/24 h. Acudeix al mes a control, amb millora de la seva situació funcional, disminució de nòduls subcutanis. En el control de març refiereaumento del perímetre abdominal i dolor lumbar, per la qual cosa es realitza una RM, on s'observa síndrome de cua de cavall, es realitza IC a RT realitzant tractament amb 30 Gy. Donada la sospita de progressió, s'avança la TC-TAP, observant-se progressió de la malaltia amb augment d'adenopaties supraclaviculars bilaterals, augment de nòduls pulmonars, augment de massa suprarenal dreta i aparició de massa suprarenal esquerra, aparició de massa a nivell de l'ovari dret, calcitonina 1.455 (prèviament 776). Donada el dubte diagnòstic i la progressió de la malaltia a vandetanib (primera línia en medul·lar de tiroides) es presenta el cas en sessió d'Oncologia i es decideix iniciar tractament amb carboplatí + taxol (primera línia d'origen desconegut). La pacient rep tres cicles de carbo-taxol i en la TC de valoració de resposta a la progressió de la malaltia es constata augment d'adenopaties supraclaviculars, augment de la massa pulmonar del LSD, augment de la massa suprarenal dreta i esquerra, augment de la massa anexial dreta i augment de metàstasi oseas. Atès que el tumor té trets neuroendocrins i l'escassa resposta a vandetanib, al març de 2014 s'inicia tractament amb gemcitabina + irinotecán al 80%. Rep tractament durant tres cicles i el 7/7/2014, en la TC de valoracion de la resposta s'observa disminució d'adenopaties supraclaviculars, disminució de mestástasis cutànies, disminució de la massa del LSD, disminució de les masses suprarenals bilaterals, disminució de les adenopaties abdominopélvicas i disminució de la massa anexial dreta. El 18/7/2014 la pacient ingressa per síndrome febril i aparició de metàstasis cerebrals múltiples bilaterals, rebent RDT holocraneal.
+
+Evolució
+Pacient amb diagnòstic de carcinoma medul·lar de tiroides metastásico amb afectació suprarenal. Es va iniciar tractament de primera línia amb vandetanib amb progressió després de tres cicles. Es canvia a línia de QT d'origen desconegut, amb nova progressió. S'inicia tercera línia de tractament amb gemcitabina + CPT 11, amb resposta després de tres cicles i progresion a nivell del SNC.
+
+Ingressa el 26/8/2014 per deterioració neurològica, morint durant l'ingrés. Se sol·licita necropsia, però la família no ho desitja.

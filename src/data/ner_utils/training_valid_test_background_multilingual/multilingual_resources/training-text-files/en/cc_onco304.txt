@@ -1,0 +1,27 @@
+Anamnesis
+A 47-year-old man with no past history of interest was brought to the emergency department for blunt abdominal trauma following a traffic accident. On arrival, an acute abdomen was observed and he underwent exploratory laparotomy which revealed a large amount of free blood in the peritoneal cavity secondary to a rupture of the inferior polar splenic artery. During surgery, a retroperitoneal adenopathic conglomerate was observed and biopsies were taken. The pathological anatomy revealed grade 1 follicular lymphoma. A PET-CT scan was performed which showed hypermetabolic foci in bilateral axillary, mediastinal and iliac lymph nodes and a large retroperitoneal conglomerate compatible with lymphoma. Bone marrow biopsy showed infiltration by follicular lymphoma.
+Re-historying the patient, no presence of B symptoms or constitutional syndrome, referring only to minor low back pain which he considered normal in his job as a lorry driver.
+He started chemotherapy with CHOP-Rituximab of which he received 6 cycles with good tolerance. In a re-evaluation PET scan, partial response with persistence of disease at retroperitoneal level. Second line with FMD-R (Fludarabine - Mitoxantrone - Dexamethasone - Rituximab) with complete response by PET-CT after 4 cycles although with great haematological toxicity with several delays due to neutropenia and plateletopenia. A bone marrow biopsy was performed which showed no lymphoma infiltration and so maintenance Rituximab was started. Clinical improvement since the end of chemotherapy, although with persistent neutropenia and grade 1 plateletopenia. After 19 months of treatment, the patient consulted for painless haematuria.
+
+Physical examination
+Patient in good general condition although somewhat pale. No B symptoms.
+No peripheral lymph nodes palpable.
+Cardiorespiratory auscultation: normal.
+Abdominal examination: normal. Lower lumbar discomfort
+No malleolar oedema
+Complementary tests
+Laboratory tests: Normal liver and renal profile. No electrolyte alterations. Haemoglobin 11.2 g/dL,
+Leukocytes 2650/μL (Neutrophils 1410/μL), Platelets 123000.
+Chest CT: Calcifications in coronary arteries. Right paratracheal and left para-aortic lymph nodes of non-significant size. No mediastinal adenopathies of significant size were observed. No pleuropulmonary alterations of interest were observed.
+Abdomen and pelvis CT scan: Hepatomegaly with moderate steatosis, without evidence of focal lesions.
+Homogeneous splenomegaly. No free fluid or intra-abdominal adenopathies of significant size were seen. Pancreas and right kidney without alterations of interest. Occupation of the left renal pelvis by a mass of soft tissue density, approx. 40x44x51 mm (apxtxl) with contrast uptake, not present in previous CT scans. It caused dilatation of the calyces, especially in the upper group, without ureteral dilatation compatible with urothelial tumour.
+The findings were presented to the Urology Committee and a nephrectomy was performed, showing infiltration of the renal pelvis by a small cell neoplasm with regular morphology. Immunohistochemistry showed positivity for CD 45, CD 20, CD 10, Bcl 2, Bcl 6 and negativity for CD 138, CD5 and Cyclin D1. The proliferative index by Ki 67 is approximately 10%.
+
+Diagnosis
+Infiltration of the renal pelvis by follicular lymphoma as the sole focus of relapse.
+
+Treatment
+In view of the results, A repeat PET-CT scan was performed, confirming the absence of other foci. CT scan confirmed the absence of other foci and a new bone marrow biopsy was performed which showed no infiltration by lymphoma but showed a hypocellular marrow with marked hyperplasia of the erythroid series with marked dysplastic features (tendency to group in nests and presence of The remaining series were poorly represented with a predominance of immature myeloid forms with 3% of blast forms and the presence of polytypic plasma cells suggestive of myelodysplastic syndrome of the refractory cytopenia type with multilineage dysplasia. In view of these findings, the case was presented to the haematology committee and a decision was taken to perform a mini-transplant from an unrelated donor as there were no compatible siblings.
+
+Evolution
+During conditioning, the patient suffered a diabetic debut with glycaemia over 1000 mg/dL. After conditioning, he was admitted to the ICU for severe diarrhoea with pre-renal renal failure and suspected thrombotic microangiopathy probably related to Tacrolimus used as prophylaxis for graft-versus-host disease. Poor evolution of the condition with decreased level of consciousness, appearance of de novo atrial flutter with rapid ventricular response to 150 beats per minute and febrile condition with isolation in blood culture of multiresistant Escherichia coli together with poor recovery of haematological parameters, resulting in multiorgan failure at day + 16 of transplantation leading to the patient's exitus.

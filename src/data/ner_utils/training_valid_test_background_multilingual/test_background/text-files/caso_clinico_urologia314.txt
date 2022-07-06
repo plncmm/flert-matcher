@@ -1,0 +1,19 @@
+Anamnesis
+Paciente varón de 83 años de edad derivado desde otro centro por oliguria con edemas en los miembros inferiores y empeoramiento progresivo de la función renal. Entre sus antecedentes personales destacan hipertensión arterial, diabetes y marcapasos por cardiopatía isquémica crónica.
+
+Exploración física
+A la exploración se objetiva un abdomen distendido, ligeramente doloroso a la palpación en el flanco derecho y una masa de consistencia dura a nivel del hipogastrio.
+
+Pruebas complementarias
+• Las pruebas de laboratorio revelaron una alteración de la función renal con valores de creatinina de 7,39 mg/dl y urea 158 mg/dl. El resto de parámetros no mostraban alteraciones significativas.
+• Se realiza una ecografía abdominal, objetivándose ambos riñones de ecogenicidad y estructura normales, con dilatación del sistema excretor, sin poder objetivarse una causa obstructiva. El riñón izquierdo presenta una ectasia pielocalicial con una pelvis de 20 mm, y el riñón derecho presenta una pelvis de 24 mm y un uréter de 8 mm, no consiguiéndose seguir el trayecto del uréter.
+El paciente es ingresado en el Servicio de Urología con el diagnóstico de uropatía obstructiva bilateral de causa no filiada.
+• Para completar el estudio se solicita una tomografía computarizada (TC) abdominal sin contraste, que se informa como aumento de la grasa retroperitoneal por delante de la aorta y la cava, sin claras imágenes de masa, que produce retracción hacia atrás del duodeno y parece desplazar medialmente los uréteres de ambos lados, todo ello compatible con fibrosis retroperitoneal. Los riñones se muestran de tamaño y morfología normales, con ligera dilatación pielocalicial de ambos riñones. Como otros hallazgos destaca la presencia de un engrosamiento de la pared del colon de ángulo hepático y colon ascendente, con aumento de la densidad de la grasa circundante de aspecto inflamatorio. Se observa también un aumento de la densidad de los músculos rectos anteriores en la región suprapúbica y aumento de densidad de la grasa prevesical en el espacio de Retzius.
+
+Tratamiento y evolución
+Se colocan catéteres doble J bilaterales con gran dificultad técnica para tratar de resolver el problema obstructivo, consiguiendo una mejoría inicial de la función renal pero sin llegar a alcanzarse valores dentro de la normalidad.
+Se inicia tratamiento médico con corticoides, ante la sospecha diagnóstica de fibrosis retroperitoneal, dado el empeoramiento de la función renal. El paciente es sometido a hemodiálisis por parte de Nefrología.
+Se realiza una colonoscopia para estudiar las imágenes sospechosas, objetivándose un atrapamiento del colon por fibrosis/adherencias externas muy intenso a nivel del sigma. Se realiza asimismo una endoscopia alta, observándose el bulbo duodenal con mucosa pálida, muy friable al roce, con lesiones petequiales y pequeños hematomas submucosos, tomándose biopsias múltiples, primera rodilla duodenal con estenosis que cuesta franquear, y que parece secundaria a retracción-compresión extrínseca.
+Se decide completar el estudio con una ecoendoscopia alta, hallándose abundante líquido ascítico perihepático, periesplénico y entre las asas, que se punciona. Se objetiva retroperitoneo muy hiperecogénico y una adenopatía de aspecto patológico en el tronco celíaco, que se punciona.
+La anatomía patológica de las lesiones puncionadas en el bulbo duodenal muestra fragmentos de mucosa artefactada por infiltración tumoral por un linfoma no Hodgkin de probable tipo no Malt; asimismo, la histología del aspirado de líquido ascítico y de la adenopatía parapancreática muestra afectación en ambos por linfoma no Hodgkin B de alto grado de origen folicular.
+Con el diagnóstico final de fibrosis retroperitoneal secundaria a linfoma no Hodgkin de células B de alto grado el paciente se deriva al Servicio de Hematología para tratamiento.

@@ -1,0 +1,34 @@
+Anamnese
+Homem, 73 anos de idade, independente para actividades básicas da vida diária. Ex-fumador há 22 anos e nenhum outro hábito tóxico. História médica de interesse: hipertensão arterial de longa duração, fibrilação atrial permanente anticoagulada com acenocumarol e doença pulmonar obstrutiva crónica grave (DPOC) com oxigenoterapia domiciliária. No tratamento regular com anti-hipertensivos, pantoprazol e aerossolterapia.
+Foi diagnosticado em Outubro de 2014 com adenocarcinoma do terço distal do esófago (T3Nx, M0 c-erb2 negativo), sendo apresentado ao Comité de Oncologia para avaliar a resecabilidade, que foi rejeitada devido à elevada comorbidade pulmonar e elevado risco cirúrgico que exigia esofagastrectomia total. Por esta razão, foi finalmente decidido tratar com quimioterapia concomitante e radioterapia radical.
+Recebeu tratamento com paclitaxel + carboplatina semanal, bem como radioterapia (50Gy) de Fevereiro a Abril de 2015. A estabilização da doença foi observada tanto na TC como na gastroscopia, pelo que foi decidido dar seguimento em consulta.
+Foi admitida em Setembro de 2016 por síndrome febril de alta qualidade acompanhada de arrepios e tremores sem foco aparente. Durante o mesmo, testes de imagem (TAC) revelaram uma nova lesão hipodensa esplénica, que poderia estar relacionada com uma lesão metastásica.
+Tendo em conta estas descobertas, a doença foi considerada como progredindo e a quimioterapia FOLFIRI foi iniciada com intenção paliativa (recebeu até três ciclos).
+Em Outubro de 2016, o doente foi readmitido devido a um pico de febre sem identificar qualquer causa. Foi realizado um estudo com leucócitos rotulados sem detectar qualquer lesão com avidez para o traçador, pelo que foi descartado um foco infeccioso nesta altura. Foi realizada uma TAC abdominal repetida para reavaliação, mostrando um aumento do tamanho da lesão esplénica em relação a estudos anteriores (de 22 mm para 35 mm).
+O paciente foi novamente admitido em Outubro de 2016, com uma nova condição febril de até 38,5oC, com mau fecho da ferida cirúrgica após a implantação do reservatório (porto a catarata), embora sem sinais de superinfecção. Iniciou-se o tratamento com Streptococcus intermedius e antibióticos isolados, e o reservatório foi removido e colocado no lado contralateral sem incidentes.
+Em Dezembro de 2016, foi readmitido com choque séptico, necessitando de tratamento com noradrenalina devido a uma nova síndrome febril de alto grau com 24 horas de evolução, acompanhada de arrepios e tremores. Não houve evidência de foco: o paciente não relatou sintomas respiratórios, alterações nos hábitos gastrointestinais, micturição ou qualquer outro tipo de manifestações clínicas.
+
+Exame físico
+À chegada à DE, o paciente estava febril (38,7oC), com tensão arterial de 110/65 mm Hg. Mantém uma boa diurese e saturação aceitável com óculos nasais a 3L.
+O paciente é consciente, orientado e cooperante. O estado geral não é afectado. Boa perfusão e hidratação. Durante a auscultação cardiorrespiratória, são apreciados os tons arrítmicos e a hipoventilação na base esquerda. O abdómen é escavado, suave e depressivo, indolor, sem massas palpáveis ou megalíticos, sem sinais de peritonismo e sem sons hidro-aéreos.
+A região do reservatório não mostra sinais de superinfecção e nenhuma dor à palpação.
+
+Testes complementares
+Testes laboratoriais na admissão: leucocitose leve (10,3 x 10,9/l) com elevação elevada de procalcitonina (22,84 ng/ml) e CRP (114 mg/l).
+Além disso, foi realizado um raio-x de admissão, que não mostrou imagens claras de condensação ou efusão.
+Na enfermaria, foi realizada ecocardiografia, que foi negativa para endocardite, bem como um TAC toracoabdominal mostrando três grandes lesões hipodensas com densidade de fluido distribuídas desde o hilo até à periferia, das quais não se podia excluir infecção, bem como derrame pleural moderado.
+Tendo em conta estes resultados, foi realizado um estudo de eco abdominal, que revelou duas áreas heterogéneas visíveis (predominantemente hipoecogénicas) medindo até 45 x 39 mm de diâmetro, que pareciam ser abcessos esplénicos.
+Foram feitas culturas de sangue diferencial (reservatório e via periférica), nas quais Staphylococcus epidermidis cresceu sem tempo de crescimento diferencial significativo.
+
+Diagnóstico
+Dadas estas descobertas nos testes complementares e com base nas manifestações clínicas do doente, foi feito um diagnóstico de bacteremia devido ao Streptococcus intermedius multisensível, causando a febre, e as três lesões esplénicas foram diagnosticadas como abcessos, sendo provavelmente o foco infeccioso inicial, com derrame pleural associado.
+
+Tratamento
+Inicialmente, dado o quadro de choque séptico e elevação elevada dos reagentes de fase aguda, o paciente recebeu cobertura antibiótica empírica com cefepime, desescalando para ceftriaxona após isolamento de S. epidermidis em hemoculturas. Após estabilização clínica, Pleur-evac foi colocado e foi realizada a drenagem por ultra-som de duas das três colecções esplénicas (uma delas persistiu por não ser acessível), cuja cultura também foi positiva para S. intermedius.
+Dado o estado geral do paciente e o quadro infeccioso significativo, foi decidido fazer uma pausa no tratamento de quimioterapia por enquanto.
+
+Evolução
+O paciente mostrou uma evolução clínica muito boa, com desaparecimento da febre e melhoria do estado geral. Além disso, houve uma evolução radiológica favorável dos abcessos esplénicos com uma redução significativa no tamanho em resposta ao tratamento antibiótico. O paciente teve alta em casa com o mesmo tratamento antimicrobiano.
+Quatro semanas mais tarde, o estado geral continuou a deteriorar-se, e um TAC mostrou lesões esplénicas persistentes que nos levaram a assumir uma origem metastásica com superinfecção das lesões.
+Foi solicitada uma reavaliação tomográfica, mostrando a progressão da doença oncológica com um aumento do tamanho do tumor no esófago distal que se estende até à junção esofagogástrica e fundus, bem como nódulos epiplóicos sugestivos de implantes nodulares.
+Devido a estas descobertas e ao mau estado geral do paciente, foi decidido suspender definitivamente o tratamento de quimioterapia e encaminhar o paciente para a Unidade de Cuidados Continuados para acompanhamento.

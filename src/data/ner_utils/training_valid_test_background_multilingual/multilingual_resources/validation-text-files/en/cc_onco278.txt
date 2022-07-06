@@ -1,0 +1,36 @@
+Anamnesis
+60-year-old male, ex-smoker for 25 years, for approximately 20 years (ICAT 40 paq-years), with no other personal history of interest, who attended the emergency department in July 2014, due to generalised abdominal and rectal pain of a few weeks' evolution, together with altered bowel habits (alternating constipation with liquid stools with mucus).
+
+Physical examination
+The abdominal examination revealed abdominal impaction in the hypogastrium and significant pain in the left iliac fossa.
+
+Complementary tests
+-An abdominal CT scan was performed in the ED with IV contrast showing thickening and parietal uptake of a segment of the sigmoid colon with increased density of the surrounding fat and a 6x4cm image suggestive of a neoformative process.
+-Following the results, an outpatient chest CT scan was requested, along with a complete analysis and a preferential appointment with the Digestive Department.
+-Preferential colonoscopy was performed, finding a mamelonated, friable mass 18 cm from the anal margin, which bled when rubbed with the colonoscope, occupying almost the entire circumference, leaving a small lumen that was totally impassable. Biopsies are taken from the area.
+-No metastases are seen in the thoracic CT scan.
+
+Diagnosis
+Pathological findings: adenomatous lesion with high grade dysplasia.
+
+Treatment
+Given the results of the complementary tests, the patient is referred to surgery.
+
+Progress
+While awaiting surgery, on 4 August, the patient returned to the emergency department for abdominal distension, accompanied by nausea and constipation and absence of flatulence for 3 days.
+The abdominal X-ray showed dilatation of the entire colic framework from the sigma up to 8 cm in the cecum with air-fecal content with a competent ileocecal valve, so he was admitted to the surgical ward and a non-covered prosthesis was placed (transitional), with immediate exit of semi-liquid stool.
+Finally, the following day, sigmoidectomy with T-T anastomosis and phantom ileostomy was performed.
+The anatomopathological result was: stenosing adenocarcinoma of the rectosigmoid junction (with stenting), moderately differentiated with signet ring cells infiltrating the wall overlying it (pT4). Perineural and lymphatic vascular infiltration with involvement of 24 isolated lymph nodes ( pN1). Free surgical limits.
+Following the results, the patient was referred to the Oncology department, with clinical judgement: Adenocarcinoma of the colon pT4pN1, stage III, for which adjuvant treatment with FOLFOX x 12 cycles of chemotherapy was prescribed.
+A new extension study was requested with a negative thoracoabdominal-pelvic CT scan for metastatic disease and analyses with normal tumour markers (CEA and Ca 19.9).
+Adjuvant Folfox was started in September 2014 with excellent tolerance.
+In February 2015, after administration of the last cycle of FOLFOX, the patient attended the emergency department after the appearance of sudden onset of dyspnoea at rest, with persistent dry cough and severe respiratory failure, without associated chest pain, chest sounds or febrile syndrome, and in the previous days asymptomatic from a respiratory point of view.
+On examination, the patient presented tachypnoea at rest at 26 rpm with 88-90% satO2 and 2 bpm. Respiratory auscultation showed marked hypophonesis in both hemithorax with some dry crackles in both bases and flat right midfield postero-lateral.
+CT angiography was performed on admission after obtaining a high D-dimer in which PET was ruled out and after reviewing the images, there was evidence of a diffuse alveolar pattern (in ground glass) with confluent areas, predominantly peripheral subpleural with air bronchogram; bilateral but with greater involvement in the right lung. Also signs of moderate PHT.
+On admission, blood cultures, sputum cultures, pneumococcal and Legionella antigenuria, PCR for respiratory viruses and serology were negative. Despite empirical antibiotic therapy, corticoids and oxygen therapy with MV at 31%, the patient presented tachypnoea 30 rpm and sat 89%, without fever or mucocupurulent expectoration or increase in acute phase reactants, so given the patient's lack of clinical improvement, assessment by Pneumology was requested.
+Finally, the patient was transferred to the Pneumology department with the clinical judgement: ``severe acute respiratory failure secondary to acute pneumonitis due to chemotherapy (chemical pneumonitis),`` as a review of the literature shows that platinum salts can be associated with the appearance of pulmonary fibrosis due to drugs.
+Furthermore, comparing with previous radiological studies, it should be noted that the thoracic CT scan of July 2014 was strictly normal with no pleuropulmonary alterations or mediastinal adenopathies.
+During his admission, the patient was treated with high-dose iv corticosteroids, bronchodilators and acetylcysteine 600/8hours, evolving slowly but favourably, although with poor tolerance to minimal effort (walking in the room).
+Finally, it was decided to discharge him from hospital with a baseline arterial blood gas reading of p02 63 and the need for home oxygen therapy, and he underwent check-ups at both the Pneumology and Oncology departments.
+After more than a year of check-ups, the patient is slowly improving, without the need for oxygen therapy 24 hours a day, and with 10 mg of prednisone every 24 hours, tolerating some exercise. The withdrawal of oxygen therapy will be assessed at the next review in Pneumology.
+As for the reviews by Oncology, the last one in May 2016 with thoracoabdominal CT and colonoscopy with no evidence of disease and blood tests with normal tumour markers, only to highlight the persistence of neurotoxicity in the lower limbs grade-II.

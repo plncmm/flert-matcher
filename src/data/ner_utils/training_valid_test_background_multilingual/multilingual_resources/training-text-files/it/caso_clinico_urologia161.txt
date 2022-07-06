@@ -1,0 +1,26 @@
+Anamnesi
+Donna di 25 anni, senza allergie ai farmaci, ex-fumatrice da un anno, con anemia cronica da carenza di ferro di causa sconosciuta diagnosticata nel 2008, in trattamento con ferro orale, emicrania dall'età di 17 anni e ricovero nel 2010 per mononucleosi infettiva.
+Ha consultato il dipartimento di emergenza per febbre fino a 40oC per una settimana e dolore lombare sinistro nelle ultime 48 ore, accompagnato da vomito e diarrea, senza altri sintomi di accompagnamento. Il paziente è stato ricoverato in Medicina Interna per lo studio e il follow-up della febbre.
+
+Esame fisico
+Le condizioni generali erano discrete. Colore normale e idratazione normale. Temperatura 38 oC, pressione sanguigna 110/60, frequenza cardiaca 99 bpm. Auscultazione cardiaca senza mormorii. Auscultazione polmonare: murmure vescicolare conservato, nessun crepitio. Addome morbido e depressibile, senza difesa, con peristalsi conservata e percussione del pugno renale sinistro positiva. Nessuna focalità neurologica. Nessuna adenopatia significativa. Nessuna lesione cutanea.
+
+Test complementari
+- Gli esami di laboratorio hanno mostrato una linfopenia assoluta con linfociti attivati (già noti nel paziente) nell'esame del sangue all'ammissione e microematuria nelle urine.
+- Radiografia del torace: nessun risultato patologico.
+- Ecocardiogramma: l'endocardite è stata esclusa.
+- Tomografia computerizzata (TC) dell'addome: aspetto edematoso del rene sinistro con presenza di alterazioni infiammatorie dovute a pielonefrite acuta complicata da ischemia e comparsa di infarti renali segmentari.
+- Ecografia addominale: infarto nel polo superiore e inferiore del rene sinistro.
+- Colture del sangue e delle urine: negative.
+- Sierologia: IgM CMV positivo, IgG EBV positivo, IgM negativo, HAV negativo, HBV negativo, HCV negativo, HIV negativo, CMV PCR nel plasma negativo.
+
+Diagnosi
+Infarto renale secondario a un quadro clinico di pielonefrite acuta complicata. In attesa di escludere l'immunodeficienza primaria.
+
+Trattamento
+Dieta con molti liquidi e antibioterapia con piperacillina-tazobactam e amikacina.
+
+Evoluzione
+Con una diagnosi di febbre neutropenica, il trattamento è stato iniziato con piperacillina-tazobactam e amikacina, per via endovenosa, ed è stata somministrata una dose di c-GSF con una buona risposta clinica immediata. In seguito agli studi radiologici e alla conferma della presenza di un infarto renale secondario a una pielonefrite acuta complicata, il Dipartimento di Urologia è stato avvisato e ha indicato un follow-up con una TAC ambulatoriale, visto il miglioramento clinico del paziente.
+Alla dimissione, la paziente era in buone condizioni generali, afebrile, con buoni segni vitali e test clinici e di laboratorio stabili, mantenendo la sua nota anemia da carenza di ferro.
+Il paziente è stato valutato 3 mesi dopo la dimissione nel reparto di urologia ambulatoriale, con una TAC di controllo che mostrava una perfusione renale sinistra eterogenea con aree cicatrizzate nel polo superiore e inferiore del rene sinistro. Gli esami di laboratorio hanno mostrato una funzione renale normale. Il paziente non ha riportato alcun sintomo. In attesa di ulteriori nomine.

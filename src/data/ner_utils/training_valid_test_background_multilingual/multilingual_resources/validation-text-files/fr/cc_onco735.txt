@@ -1,0 +1,28 @@
+Antécédents oncologiques
+Homme avec des antécédents personnels au moment du diagnostic oncologique de dyslipidémie en traitement avec atorvastatine 40 mg par jour, tabagisme actif avec une consommation cumulée de 30 paquets-années, infection par le virus de l'hépatite B en 1998 sans données de réactivation ultérieure, ulcère gastrique secondaire à des anti-inflammatoires non stéroïdiens et résection chirurgicale d'un sinus pilonidal.
+Dans sa famille, sa mère a eu un cancer du sein.
+Il a été diagnostiqué en octobre 2013 à l'âge de 51 ans, suite à des épisodes répétés consistant en des céphalées, des vertiges et des blocages du langage, d'une lésion cérébrale pariéto-temporale gauche avec effet de masse. Une biopsie a été réalisée et un diagnostic anatomopathologique d'astrocytome de grade II avec une composante oligodendrogliome de grade II, négatif pour la délétion 1p/19q, qui, selon la dernière classification de l'OMS des tumeurs primaires du système nerveux central (2016), est actuellement considéré comme un astrocytome de grade II. L'ablation chirurgicale de la lésion a été rejetée car elle était située dans une zone éloquente et il a reçu un traitement par radiothérapie, qui s'est achevé en janvier 2014, obtenant une amélioration clinique et une stabilité radiologique de la maladie, maintenue lors de contrôles successifs par imagerie par résonance magnétique (IRM) cérébrale jusqu'en juin 2017.
+A cette date, le patient étant asymptomatique, une nouvelle IRM du cerveau a été réalisée, qui a montré une progression de la tumeur au niveau du lobe frontal gauche, les données radiologiques suggérant une augmentation du grade. Le cas a été présenté au comité des tumeurs neurologiques et une biopsie a été programmée pour confirmer le grade et l'administration ultérieure d'une chimiothérapie systémique.
+
+Anamnèse
+Un homme de 55 ans avec les antécédents précédemment décrits s'est présenté aux urgences le 30 juillet 2017 avec un trouble de la parole d'une durée d'environ trois jours, ainsi qu'une déviation de la commissure orale droite apparue au cours des dernières 24 heures.
+
+Examen physique
+Le patient est stable sur le plan hémodynamique. Il n'y a pas d'engorgement jugulaire. L'auscultation cardio-pulmonaire ne montre aucune altération. L'examen abdominal est normal. Il n'y a pas d'œdème dans les membres inférieurs ni de signes de thrombose veineuse profonde.
+L'examen neurologique a révélé une aphasie motrice et une parésie faciale centrale droite, sans autre altération.
+
+Tests complémentaires
+Un scanner crânien urgent sans contraste a été réalisé, montrant un important œdème vasogène frontal gauche, probablement lié à la progression de la lésion connue, sans autre complication apparente.
+
+Diagnostic
+Progression clinique et radiologique, avec un important œdème vasogène cérébral gauche, d'un astrocytome cérébral de grade II.
+
+Traitement
+Compte tenu des répercussions cliniques de la progression tumorale, avec la présence d'un œdème vasogène important, une corticothérapie intraveineuse a été mise en place avec de la dexaméthasone à la dose de 4 mg toutes les 6 heures.
+
+Evolution
+Le patient a été admis dans le service de neurochirurgie pour une surveillance clinique étroite et une nouvelle IRM du cerveau, qui a montré une progression de la tumeur au niveau sous-cortical frontal gauche, avec des données radiologiques de haut grade, et s'accompagnait d'un important œdème vasogène et d'un effet de masse sur les sillons de la convexité et la ligne médiane.
+Pendant l'admission, l'évolution clinique du patient a été favorable, avec une diminution progressive de la dose de corticoïdes. Au moment de sa sortie, il était en bonne condition fonctionnelle, avec un score ECOG de 0.
+Du point de vue oncologique, compte tenu des résultats radiologiques de progression avec une augmentation du grade et de l'aggravation neurologique à court intervalle, il a été décidé de ne pas effectuer de biopsie cérébrale et de commencer un traitement de chimiothérapie avec du témozolamide à une dose de 150 mg/m2 par voie orale pendant 5 jours (dose totale : 280 mg) tous les 28 jours. Le 07/08/2017, le premier cycle a été commencé avec une bonne tolérance.
+La maladie a été réévaluée après quatre cycles de traitement, l'IRM cérébrale montrant la résolution de pratiquement tous les œdèmes vasogènes et la disparition des lésions frontales présentes dans l'IRM précédente. Compte tenu de la réponse radiologique favorable, le traitement a été poursuivi avec le témozolamide à la même dose, recevant un total de sept cycles, le dernier le 07/03/2018. Pendant cette période, le patient était cliniquement asymptomatique, à l'exception d'un léger épisode de vertiges, et n'a pas eu de réactions indésirables au témozolamide.
+Cependant, depuis l'administration de la dernière cure de témozolamide, le patient a montré une détérioration clinique significative, avec des troubles de la parole et de l'écriture. Un traitement a été mis en place avec de la dexaméthasone 2 mg toutes les 12 heures par voie orale et une nouvelle IRM a été demandée (09/04/2018) qui a montré une progression tumorale importante, principalement au niveau de la convexité inférieure et des structures operculaires sylviennes. Une fois la progression confirmée, une seconde ligne de traitement par fotemustine a été mise en place, le premier cycle ayant été reçu le 10/04/2018. Le patient est actuellement asymptomatique et est en attente de consultation pour une surveillance clinique et de toxicité.

@@ -1,0 +1,22 @@
+Histoire personnelle
+Patient de sexe masculin, 63 ans, avec un diabète sucré de type 2 et une épilepsie partielle sensorielle en 2006 sous traitement par lamotrigine. Missionnaire au Pérou pendant plusieurs années jusqu'à un an avant son admission. En janvier 2008, il a été admis en neurologie pour instabilité, et une IRM crânienne a été réalisée, montrant une hydrocéphalie triventriculaire due à une obstruction de l'aqueduc de Sylvius, et une valve de dérivation péritonéale a été placée. L'examen du liquide céphalo-rachidien a révélé un exsudat lymphocytaire inflammatoire (90 leucocytes dont 80 % de mononucléaires et 54 g/dL de glucose).
+
+Maladie actuelle
+Le patient s'est présenté à nouveau en septembre 2008 en raison de manifestations cliniques persistantes. Il présentait une instabilité de la démarche et une ataxie, ainsi que des nausées, des vomissements et une diminution de la force dans les membres inférieurs depuis un mois, ainsi qu'une fièvre allant jusqu'à 38oC depuis la semaine précédente. Il n'y a pas eu d'autres symptômes notables.
+
+Examen physique
+L'examen général n'a révélé aucun résultat pathologique. L'examen neurologique a révélé une diplopie bilatérale et une diminution généralisée de la force dans les membres inférieurs. Il n'y avait pas de signes méningés ni de dysmétrie.
+
+Examens complémentaires
+L'hémogramme, la coagulation et les paramètres biochimiques déterminés dans le sang étaient dans les limites normales. La biochimie du liquide céphalo-rachidien, extrait par ponction lombaire, a montré 20 leucocytes/μL (40 % de polymorphonucléaires, 60 % de mononucléaires), 48 g/dL de glucose et 106 mg/dL de protéines. Une nouvelle IRM a montré un élargissement de l'ensemble du système ventriculaire et une exsudation transépendymaire de liquide. Après l'administration de produit de contraste, la possibilité diagnostique d'une épendymite a été évoquée. Lors de l'admission précédente, une culture du liquide céphalorachidien pour les bactéries et les mycobactéries a été réalisée, avec PCR pour les mycobactéries, culture pour les champignons et détection de parasites frais et sérologie pour Trypanosoma cruzi. Tous ces tests étaient négatifs. Une sérologie sanguine a été réalisée pour Blastomyces dermatitidis, Coccidioides immitis et Histoplasma capsulatum, qui étaient négatifs, et pour Paracoccidioides brasilensis, qui était positif. La PCR pour Paracoccidioides brasilensis dans le liquide céphalo-rachidien était négative. Une sérologie VIH a été réalisée et s'est avérée négative.
+
+Test de diagnostic
+PCR pour Histoplasma capsulatum dans le liquide céphalo-rachidien : positif.
+
+Jugement clinique
+Méningite chronique à Histoplasma capsulatum.
+
+Evolution
+Avant d'obtenir les résultats microbiologiques, et compte tenu de la possibilité d'une infection associée à la valve de la dérivation ventriculo-péritonéale, un traitement empirique a été mis en place avec de la vancomycine et du méropenem, sans rémission de la fièvre ni amélioration clinique, de sorte que des tuberculostatiques et des corticostéroïdes ont été ajoutés empiriquement, car la tuberculose est l'une des causes les plus fréquentes de méningite lymphocytaire chronique dans notre environnement.
+Après des tests microbiologiques positifs pour Histoplasma capsulatum, un traitement à l'amphotéricine B liposomale (300 mg par jour) a été instauré pendant quatre semaines, avec une nette amélioration de l'état, avec disparition de la fièvre et des altérations neurologiques. Une légère neurotoxicité est apparue pendant le traitement, qui s'est résolue à la fin du traitement. Après l'arrêt de l'amphotéricine, on a commencé à administrer de l'itraconazole par voie orale pendant onze mois.
+Pendant cette période, plusieurs ponctions lombaires ont été effectuées, avec une amélioration progressive de tous les paramètres. Après six mois sous itraconazole, il avait cinq leucocytes (95 % de mononucléaires), 88 g/dL de protéines et un glucose de 54,6 g/dL. Une PCR d'Histoplasma a également été déterminée et s'est avérée négative. Un scanner de suivi a été réalisé en juillet 2009, qui a révélé une hydrocéphalie active, nécessitant le remplacement de la valve. Après l'achèvement du traitement par l'itraconazole en janvier 2010, le patient reste asymptomatique et ne présente aucun signe de récidive.

@@ -1,0 +1,32 @@
+Motivo de Consulta
+Gestiones relacionadas con una familiar con dependencia total.
+
+Enfoque Individual (anamnesis, exploración, pruebas complementarias)
+Paciente varón de 51 años sin antecedentes patológicos de interés que acude a consulta para renovar la medicación de su mujer. Revisamos analíticas previas de este paciente y nos cercioramos de que presenta una leucocitosis con desviación a la izquierda en dos analíticas previas y le indicamos repetirse la analítica. El paciente se encuentra completamente asintomático en el momento actual. Sin presencia de síntomas B. En el último año ha tenido dos episodios de artritis gotosa en la primera falange del pie derecho que se han resuelto con AINEs y colchicina.
+En septiembre de 2015 tenía un hemograma con 16650/μL leucocitos a expensas de neutrófilos (13020/μL), en marzo de 2016 bajaron a 12160/μL (neutrófilos 8950/μL).
+
+Exploración física: TA 120/80 sat 98% aa FC 70 FR 16 Cavidad oral normal. No se palpan adenopatías submandibulares, supraclaviculares, tampoco en región axilar ni en región inguinal. Auscultación cardiopulmonar: Tonos rítmicos sin soplos, murmullo vesicular conservado sin ruidos sobreañadidos. Abdomen: blando, depresible, no doloroso a la palpación no se palpan masas ni visceromegalias. Extremidades normales sin edemas
+
+Pruebas complementarias (junio 2017):
+- Hemograma: leucocitos 15555/μL (neutrólifos 11150/μL y basófilos 3600/μL), resto de fórmula normal
+- Bioquímica; ácido úrico 8, LDH 450. Resto dentro de los parámetros de la normalidad
+- Frotis sangre periférica: leucocitosis con desviación a la izquierda: mielocitos 3% metamielocitos 5% cayados 8% basofilia comprobada 4%
+- Serologías VHC negativo, CMV negativo, VIH negativo Parvovirus B19 IgG positiva, IgM negativa, HBsAg negativo, anti-HBsAg negativo
+- Anticuerpos antinucleares negativos
+- Anticuerpo antígeno nuclear extraíble positivo
+- Proteinograma: dentro de los valores de la normalidad
+
+Enfoque Familiar y Comunitario
+M es el marido y cuidador principal de otra paciente de nuestro cupo de 49 años que se encuentra en estado vegetativo tras sufrir hace 10 años una hemorragia subaracnoidea grave. M se encuentra completamente volcado en el cuidado de su mujer y siempre acude a nuestra consulta para gestiones del cuidado de ella. Mi tutora y yo acudimos periódicamente a valorar a su mujer en domicilio. M es poco consultador y, a pesar de las numerosas ocasiones en la que le hemos atendido por consultas referidas a su mujer, él apenas tiene abiertas hojas de consulta. Su preocupación y su esfuerzo diario están en el cuidado impecable de su mujer. Infravalora su estado de salud y sus propios problemas. M es un paciente cumplidor y colaborador pero en ocasiones falta a extracciones de sangre o a citas porque antepone el cuidado de su mujer a su propia salud. Resulta extremadamente complejo abordar temas psicológicos con respecto al reciente diagnóstico de su enfermedad pues para él no es un problema, para él sólo sería un problema que a su mujer le pasara algo, a pesar de que ella se encuentra desconectada del medio desde hace años.
+
+Juicio Clínico (lista de problemas, diagnóstico referencial)
+Leucocitosis con neutrofilia mantenida a estudio.
+Problemas psicosociales del cuidador principal de paciente con gran dependencia
+
+Plan de Acción
+Ante los resultados obtenidos en el frotis de sangre periférica y la leucocitosis mantenida, se remitió al paciente a la consulta de Hematología y Hemoterapia.
+
+Evolución
+En la consulta de Hematología y Hemoterapia le han completado el estudio y ha sido diagnosticado de una Leucemia Mieloide Crónica con cromosoma Filadelfia positivo.
+En noviembre de 2017 se inició tratamiento con quimioterapia, prescriben Hydrea a dosis de 1000 mg alternando con 500 mg ya que, aunque estando asintomático, el recuento leucocitario había ascendido a 46480/μL con una neutrofilia de 84000/μL, y trombocitosis de 404000/μL. Además pautaron alopurinol 300 mg en desayuno e hidratación abundante por la hiperuricemia que presentaba debido a la lisis celular (ácido úrico 8). En la cita de revisión, la fórmula leucocitaria se mantenía en niveles similares por lo que modifican el tratamiento e inician nilotinib 300 mg c/ 12 horas.
+Este último tratamiento lo ha tolerado correctamente y ha sido efectivo. Actualmente el paciente se encuentra asintomático y con una fórmula leucocitaria normal: leucocitos 8700/μL neutrófilos 6500/μL y plaquetas 300000/μL.

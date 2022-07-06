@@ -1,0 +1,21 @@
+Anamnesis
+Se trata de una mujer de 77 años, con antecedentes personales de hipertensión arterial en tratamiento farmacológico, y cataratas intervenidas en el año 2008. Acudió al Servicio de Urgencias por un cuadro clínico de 4 días de evolución de cefalea holocraneal opresiva de intensidad moderada con náuseas, sin vómitos, sin aumento del dolor con las maniobras de Valsalva y sin dificultad para conciliar el sueño. Refería un mareo inespecífico y torpeza al caminar, con frecuentes tropiezos, y según referían sus familiares estaba algo desorientada en tiempo. No había tenido fiebre ni otros síntomas. La paciente refería, acompañando al cuadro, figuras humanas con sombrero en el campo visual temporal izquierdo que ella criticaba como irreales, y visión deformada de las figuras reales (puertas pequeñas, sonrisas alargadas...), que aparecían de manera intermitente, en múltiples ocasiones a lo largo del día, de varios minutos de duración cada una de ellas.
+
+Exploración física
+A su llegada al Servicio de Urgencias se encontraba normotensa, afebril y con frecuencia cardiaca en los límites normales. La glucemia capilar era de 110 mg/dl. La auscultación cardiaca y pulmonar era normal. La paciente estaba orientada, con buen nivel de consciencia y su lenguaje era normal. No había restricciones en los movimientos oculares, las pupilas eran simétricas con reflejos pupilares conservados. No había déficit de fuerza ni sensibilidad, ni alteraciones en la coordinación. Destacaba únicamente hemianopsia homónima izquierda en campimetría por confrontación. En el fondo de ojo se objetivó papila de bordes nítidos no sobreelevados bilateral, con máculas normales. Agudeza visual: 0,8 bilateral.
+
+Pruebas complementarias
+• Analítica: bioquímica, hemograma y coagulación normales.
+• Radiografía de tórax: sin alteraciones.
+• Tomografia computarizada (TC) craneal: área de isquemia subaguda en el territorio de la arteria cerebral posterior derecha.
+• Resonancia magnética (RM) craneal: infarto agudo occipital derecho. Múltiples lesiones hiperintensas con tendencia a confluir en ambos centros semiovales y sustancia blanca periventricular en relación con microangiopatía.
+• Electrocardiograma: fibrilación auricular a 80 lpm.
+• Dúplex carotídeo: ateromatosis carotídea leve-moderada.
+• Electroencefalograma: ondas lentas bilaterales de carácter inespecífico.
+• Campimetría: hemianopsia homónima izquierda.
+
+Diagnóstico
+Crisis comiciales parciales simples visuales secundarias a infarto occipital derecho de origen cardioembólico.
+
+Tratamiento y evolución
+La paciente ingresa en la planta de Neurología, donde permanece estable. Se comenzó tratamiento con carbamazepina a dosis bajas, por la posibilidad de que se tratara de crisis parciales, dado que se limitaban únicamente al campo hemianóptico. Los síntomas se resolvieron por completo al tercer día. Al alta, se mantuvo la pauta de carbamazepina, y se indicó tratamiento anticoagulante con dabigatrán.

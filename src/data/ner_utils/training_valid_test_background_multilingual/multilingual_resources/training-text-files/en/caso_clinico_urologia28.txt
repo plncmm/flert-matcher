@@ -1,0 +1,44 @@
+Anamnesis
+A 69-year-old man with a personal history of arterial hypertension and chronic renal insufficiency secondary to IgA glomerulopathy. He received his first kidney transplant in July 1996, with acute corticosensitive rejection in the first month post-transplant. The graft is currently functioning normally.
+In July 2012, she presented to the emergency department with fever, pain in the left iliac fossa (LIF) and decreased strength in the left lower limb.
+
+Physical examination
+Blood pressure 128/77 mmHg, temperature 39.7oC. Abdomen slightly painful on palpation in the LIF. Lower limbs: left thigh increased in size with respect to the contralateral one, with slight impingement.
+
+Complementary tests
+Tests performed on first admission:
+- Blood tests: creatinine 1 mg/dl, haemoglobin 11 g/dl. Leukocytes: 6,500 (normal formula).
+- Abdominal ultrasound: perirenal collection, subcapsular, anechoic, surrounding the kidney with a maximum thickness of 4 cm. Average calyceal dilatation: 2.5 cm.
+- Ultrasound scan of the lower limbs: no signs of deep vein thrombosis.
+- Computed tomography (CT) and URO-CT: image of probable renal infarction in the mesorenum with subcapsular haematoma with calcific dilatation in the area of renal infarction/rupture.
+- Renal scintigraphy: hypocaptation in the mesorenum with cortical defect. Tests carried out on second admission:
+- Analysis of the drained fluid: serous appearance, light yellowish. Glucose 107 mg/dl, creatinine 1 mg/dl, sodium 144 UmEq/l, potassium 4 mEq/l, protein 0.59 mg/dl, albumin 0.6 g/dl, cholesterol 6 mg/dl, triglycerides 4 mg/dl and amylase 6 UI7l. Sterile culture and cytological study: negative for malignancy.
+- Lymphoscintigraphy of the lower limbs and abdomen: normal.
+- Immunoelectrophoresis (IEF) in serum: 42.2% Alb; 9.9% alpha-1; 19.2% alpha-
+2; 12.2% beta; 15.7% gamma; 1,110 IgG; 694 IgA; 271 IgM.
+- Serum immunofixation: monoclonal IgM lambda band (not quantifiable).
+- IEF urine: normal (Bence-Jones: negative).
+- IEF drainage fluid: no monoclonal bands. EPO levels: 8.43
+(4-20).
+- Beta-2 microglobulin: 2.7 (0.8-2.2).
+- Bone marrow biopsy: normal.
+- Bone marrow cytological study: 3% plasma cells without atypia.
+
+Diagnosis
+Analysis of the draining fluid helped us to rule out various aetiological factors such as haematoma, abscess, urinoma or lymphocele.
+In the absence of a clear aetiological factor causing the perirenal collection and its persistence despite attempted sclerotherapy with povidone iodine, we reviewed the scientific literature and found a description of a new syndrome under the acronym TEMPI which included the following clinical findings: telangiectasias, erythrocytosis, monoclonal gammopathy, perirenal collection and pulmonary shunt with hypoxaemia.
+Although in our case the patient did not meet any of the items, such as the presence of erythrocytosis or hypoxaemia, the presence of a perirenal collection with bleeding from its surface and monoclonal paraprotein forced us to perform a bone marrow biopsy, which ruled out multiple myeloma; we were therefore faced with a monoclonal gammopathy of uncertain significance (MGUS).
+Despite not fulfilling all the criteria for TEMPI syndrome, we thought that the findings described above and the patient's response to treatment with rituximab led us to believe that monoclonal gammopathy was the aetiological cause of the clinical picture.
+
+Treatment
+On first admission, it was decided to start ATB treatment with meropenem and daptomycin and CT-mediated drainage of the collection.
+Subsequently, there was a recurrence of the collection, so it was decided to perform surgical marsupialisation and sclerosis with povidone iodine, with placement of a drainage tube, with persistent high debit.
+After finding monoclonal bands in the serum FTI, it was decided to start treatment with rituximab (350 mg/dl), with disappearance of the collection and clear clinical improvement of the patient.
+
+Evolution
+In August 2012, there was a significant clinical improvement after 15 days of ATB treatment. With the hypercoagulability test negative and the Epstein-Barr virus negative, it was decided to perform a new CT scan and outpatient follow-up.
+In September 2012, the patient again presented with functional impotence of the left lower limb, which prevented him from walking, with local erythema and poor blood pressure control.
+Physical examination revealed a blood pressure of 189/104 mmHg. Afebrile. Abdomen with an enlarged renal graft in the IFJ, with palpation of a perirenal mass.
+Blood tests showed a slight deterioration of renal function, with creatinine of 1.2 mg/dl. An urgent ultrasound scan was performed, which showed recurrence of the subcapsular collection.
+It was then decided to perform surgery with curative intent: marsupialisation of the large collection, probably subcapsular to the peritoneum, with placement of a T-tube. The kidney had a friable appearance, bleeding on friction, and required intense haemostasis. The appearance of the drained fluid was clear serous. After surgery, the debit was greater than 1,500 ml for one week, with subsequent reduction after one week to <1,000 ml/day, with disappearance of functional impotence.
+After finding monoclonal gammopathy in the patient's serum, treatment was started with the first dose of rituximab, with a decrease in debit rate to <200 ml/day. With the second dose of rituximab, a decrease to <50 ml/day was observed, and the drain was removed and the patient was discharged.

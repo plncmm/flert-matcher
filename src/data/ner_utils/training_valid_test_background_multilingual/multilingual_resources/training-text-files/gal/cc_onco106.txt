@@ -1,0 +1,34 @@
+Anamnesis
+Muller de 65 anos diagnosticada en 1993 de carcinoma ductal infiltrante de mama esquerda T2N2M0 e tratada mediante cirugía radical, radioterapia locorregional, quimioterapia (adriamicina catro ciclos e ciclofosfamida, metotrexato e fluorouracilo oito ciclos) e hormonoterapia (tamoxifeno de 1997-1999, toremifeno 1999-2002).
+
+En abril de 2014 se evidencia recidiva pleuropulmonar, ganglionar mediastínica e ósea. Iníciase tratamento con paclitaxel-bevacizumab máis acedo zoledrónico e letrozol. En novembro dese ano se evidencia progresión radiológica da enfermidade, con aumento do derrame pleural, e iníciase tratamento con everolimus-exemestano. Durante o tratamento prodúcese unha mejoría radiológica e de marcadores tumorales. Aos 3 meses comeza cun cadro leve de disnea subaguda e tos seca e realízase unha TC con resposta parcial, polo que se mantén o tratamento.
+
+En febreiro de 2015, a paciente acode ao Servizo de Urxencias, hemodinámicamente estable por febre, disnea de moderados esforzos e tos. Na radiología simple de tórax obsérvase un leve derrame pleural esquerdo xa coñecido como único achado. Tras sacar cultivos, sospéitase foco infeccioso respiratorio e ingrésase no Servizo de Oncología con tratamento con levofloxacino.
+
+Aos 3 días de ingreso en Oncología persiste con febre elevada e presenta tendencia á hipotensión e taquipnea, polo que se amplía a cobertura a oseltamivir, meropenem e vancomicina. Malia a antibioterapia, a paciente presenta empeoramiento franco con disnea intensa, hipoxia grave, hipotensión e taquicardia, polo que se realiza unha TC urxente que describe achados suxestivos de neumonía bilateral como primeira posibilidade. En situación de insuficiencia respiratoria aguda, ingresa na Unidade de Coidados Intensivos (UCI).
+
+Exploración física
+Consciente, orientada. Febril, taquipneica; tensión arterial 85/55 mm Hg; frecuencia cardíaca 130 lpm.
+Saturación do 80% sen oxigenoterapia. Auscultación cardiopulmonar: tons rítmicos sen soplos. Hipoventilación xeneralizada. Abdomen e extremidades sen achados de interese.
+
+Probas complementarias
+» Hemograma: leucocitosis con neutrofilia.
+» Bioquímica: elevación de reactantes de fase aguda.
+» Gasometría arterial: insuficiencia respiratoria aguda.
+» Radiografía simple de tórax: infiltrados alveolointersticiales bilaterales de etiología non filiada.
+» Hemocultivos, urocultivos, antígeno de neumococo e Legionella en ouriña, serología en lavado bronquioloalveolar, galactomanano en soro.
+
+Diagnóstico
+Dada a situación clínica da paciente e a mala evolución en planta a pesar do tratamento, comeza a tomar forma a posibilidade de que o cadro sexa debido a unha neumonitis farmacológica no contexto do tratamento con everolimus.
+
+Tratamento
+Por ese motivo, ademais de manter antibioterapia de amplo espectro (oseltamivir, meropenem e cotrimoxazol), iníciase corticoterapia a dose de 2mg/kg/día.
+
+Evolución
+Nas primeiras horas de ingreso na UCI, a paciente permanece consciente, hemodinámicamente estable con tendencia á hipotensión e necesidade de ventilación mecánica non invasiva (VMNI), con boa adaptación á mesma.
+
+Tras 48 horas presenta mala evolución clínica, con empeoramiento dos parámetros hemodinámicos e inicio de tratamento vasoactivo con noradrenalina e necesidade de intubación orotaqueal (IOT). Chama a atención a aparición dun rash cutáneo eritematoso en tórax, abdomen e extremidades.
+
+Nos seguintes días do seu ingreso na UCI se evidencia unha mejoría hemodinámica e clínica, o que permitiu a retirada da noradrenalina e o avance no destete ata extubar á paciente e permanecer con VMNI progresando nas desconexións. Analíticamente, se objetivó descenso de reactantes de fase aguda e os resultados de todos os cultivos resultaron negativos.
+
+Dada a estabilidade, deuse a alta da UCI, con reingreso en planta de Oncología, onde se declarou a toxicidade grado IV a everolimus á Axencia Española de Medicamentos e levouse a cabo a redución progresiva da corticoterapia e a rehabilitación intensiva por miopatía grave do paciente crítico ata a alta ao seu domicilio e seguimiento en consultas externas.

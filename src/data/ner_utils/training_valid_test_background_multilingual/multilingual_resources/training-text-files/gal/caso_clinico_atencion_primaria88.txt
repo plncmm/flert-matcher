@@ -1,0 +1,48 @@
+Motivo de consulta
+Paciente que acode a consulta de atención primaria por presentar desde fai aproximadamente un mes cadro caracterizado por parestesias, disestesias e espasmo muscular desde xeonllos ata nivel distal de membros inferiores, sobre todo en gemelos.
+
+Enfoque individual (anamnesis, exploración, probas complementarias)
+Varón de 51 anos con antecedentes persoais de lumbalgia crónica, insuficiencia venosa en membros inferiores, fumador de 1 paquete/día, bebedor de 1 – 2 copas de viño/día, sen factores de risco cardiovascular, síndrome ansiosa – depresivo e traballador nunha imprenta con tintas e disolventes. Como tratamento habitual toma Sertralina 100mg/24h e Omeprazol 20mg/24h.
+Consulta por presentar cadro de parestesias, disestesias e calambres musculares en membros inferiores, predominante en gemelos, dun mes de evolución. En consultas sucesivas desde atención primaria os síntomas han ir progresando e estendéronse ao territorio do nervio mediano da man esquerda malia tratamento analgésico e coadyuvante.
+
+Exploración sistemática
+Bo estado xeral, eupneico en repouso, normohidratado e normocoloreado, consciente, orientado e colaborador.
+Auscultación cardiorrespiratoria: tons rítmicos sen soplos, rozamentos nin extratonos. Murmullo vesicular conservado sen ruídos patológicos.
+Abdomen: brando e depresible sen palpación de masas nin megalias. Non doloroso á palpación. Sen defensa peritoneal.
+Ex neurológica: pupilas isocóricas normoreactivas, non alteración de pares craneales, non perda de forza nin ton, parestesias e aumento de sensibilidade dolorosa en ambos membros inferiores. Non dismetrías. Romberg negativo. Marcha normal.
+Membros: Lassegue negativo e discreto livedo reticularis con atrofia cutánea a nivel de membros inferiores, como datos de insuficiencia venosa. Pulsos conservados. ROT aquíleos abolidos e estiloradial esquerdo exaltado, resto normais.
+
+Probas complementarias
+Desde atención primaria realizouse analítica con:
+Hemograma normal.
+Bioquímica con leve alteración de GGT (88 Ou/L) e CPK (281 mcg/L). Iones dentro da normalidad.
+Serología para sífilis negativa.
+B12 e ácido fólico dentro da normalidad.
+Hormonas tiroideas normais.
+Tamén se realizou, unha radiografía a nivel lumbar onde non se observan imaxes patológicas.
+
+Ante a persistencia dos síntomas e a escasa resposta a medidas higiénico-dietéticas, analgesia e coadyuvantes decídese derivar o caso ao especialista para ampliación analítica e probas complementarias.
+En dita analítica atopamos:
+Hemograma normal.
+Bioquímica: Plomo 3.5 mcg/dl (N < 40mcg/dL), Cobre 135mg/L (N 70 – 140),Creatinina e urea dentro da normalidad, iones normais, aumento discreto de GOT, GLP e GGT, LDH 182 Ou/L (135 – 225Ou/L), ECA 50 Ou/L (8 – 52 Ou/L), Proteína 6.8 g/dL (6.6 – 8.7 g/dL), albumina 4.6 g/dL (3.4 – 4.8 g/dL), PCR 0.2 mg/dL (0 – 0.5 mg/dL), antiestreptolisina Ou 78 Ou/mL (0 -200Ou/mL), FR 67.8 Ou/ml (0 – 14 Ou/mL), C4 e C3c normais.
+Ouriña de 24H: Creatinina, Calcio, fosfato e urato dentro da normalidad. Porfirinas normais.
+Inmunología:
+Inmunofijación: compoñente monoclonal en soro normal.
+Autoinmunidad: IgA, IgM, IgG, ANA, antiMPO, antiPR3, anti membrana basal glomerular negativa. Carga viral RNA VHC 2450000 (Positivo 1b).
+Serología: (Anti - HBc) core HB negativo, Ac fronte VHC positivo, Ac fronte a VIH 1/2 negativo.
+Proteinograma: proteínas totais, albúmina, globulinas dentro da normalidad.
+Tamén se realizou un ENG – EMG de membros, onde se evidencia unha polineuropatía sensitivo-motora axonal moderada de predominio sensitivo en membros inferiores, e unha RNM de cráneo e de columna lumbar que non mostran achados patológicos.
+Ante o diagnóstico de hepatopatía por VHC comézase tratamento con Interferón e Ribavirina. A pesar do tratamento correcto e tralo seu finalización, o paciente segue presentando a mesma clínica, incluso un empeoramiento dos síntomas. Ante a mala evolución, pénsase noutros diagnósticos diferenzas e é entón cando nos damos conta de que o noso paciente porta empastes de amalgama desde fai moitos anos, polo que se volve a ampliar estudo analítico con outro metal pesado non contemplado anteriormente, o mercurio. Se evidenció un Mercurio total en sangue de 22 mcg/L (N < 10 mcg/L), e Mercurio total en ouriña de 2 mcg/g creatinina (N < 30mcg/L).
+
+Ante estes novos achados, iníciase tratamento con D – penicilamina 250mg/6h e retirada de prótesis dentales de amalgama. Nos sucesivos controis analíticos o nivel de Mercurio en sangue vai descendendo e achamos unha mejoría clínica significativa.
+
+Enfoque familiar e comunitario
+Independente para ABVD. Casado, sen fillos e nivel socioeconómico medio. Posúe posto de traballo nunha imprenta.
+
+Xuízo clínico (listado de problemas, diagnóstico diferencial)
+Diagnóstico: Intoxicación crónica por mercurio e Hepatopatía por VHC.
+
+Diagnóstico diferencial: insuficiencia venosa, anemia, causa enólica ou outros tóxicos (ocupacional, empastes de amalgama...), alteracións iónicas, diagnósticos diferenciales de polineuropatía (DM, porfirias...), Esclerosis múltiple ou outras alteracións cerebrais, sífilis, radiculopatía ou neuropatía por atrapamiento, alteracións tiroideas.
+
+Plan de acción e evolución
+Debido ao tratamento con D – Penicilamina o paciente foi presentando mejoría progresiva, con menos calambres, mejoría da sensibilidade da xema dos dedos e dos pés, hase normalizado a alternancia entre hiperalgesia – hipoalgesia previa, só persiste un lixeiro entumecimiento. Posteriormente en revisiones en consulta, padeceu a modo de brotes aumento da sintomatología, e en analíticas de control púidose observar novo aumento do nivel de mercurio, polo que se ha ter que volver ao tratamento con D – Penicilinamina en varias ocasións. Ademais, tralo tratamento con Interferon e Ribavirina a carga viral confirmouse como negativa.

@@ -1,0 +1,44 @@
+Nena de dos anys que és traslladada a l'Hospital Verge de la Salut de Toledo per pneumònia en lòbul superior dret (LSD) amb vessament pleural associat per a drenatge d'aquest. Traslladada en ambulància no medicalitzada amb oxigen en ulleres nasals a 3 lpm. En tractament antibiòtic intravenós amb ampicil·lina a 200 mg/kg/dia durant 48 hores al qual s'afegeix cefotaxima les últimes 24 hores. Les constants de la pacient són freqüència cardíaca (FC): 160 lpm, tensió arterial (TA): 100/50 mmHg, SatO2 99% amb ulleres nasals a 3 lpm, temperatura (Ta) de 38,6 °C, freqüència respiratòria (FR) 40 rpm. A la seva arribada es troba amb regular estat general, pal·lidesa intensa de pell i mucoses, gradient tèrmic de 3 °C en genolls i colzes, farcit capil·lar de 5 s. Dificultat respiratòria amb tiraje sub i intercostal moderat. Auscultació cardíaca rítmica sense soplos i pulmonar amb marcada hipoventilació en camp pulmonar dret. L'abdomen és tou i depresible, hepatomegàlia de 2 cm de vorell costal, exploració neurològica conscient i orientada, meningis negatius. Inicialment s'expandeix a 20 ml/kg, millorant la perfusió i desapareixent el gradient tèrmic però persisteix la taquicàrdia.
+
+Davant aquestes troballes hem de sospitar:
+a. Síndrome de resposta inflamatòria sistèmica (SRIS).
+b. Sèpsia.
+c. Sèpsia greu.
+d. Xoc sèptic.
+e. Pneumònia en LSD aïllada.
+
+En el nostre cas existeixen criteris de sèpsies amb disfunció de dues o més òrgans però sense arribar a complir criteris de xoc sèptic.
+
+Arriben els resultats del control analític:
+• Hemograma: hemoglobina 6,9 g/dl, hematòcrit 19,2%, plaquetes 18.000x106/L, leucòcits 15.500x106/L.
+• Bioquímica: glucosa 91 mg/dl, urea 105 mg/dl, creatinina (Cr) 1,29 mg/dl, GOT 227 O/L, GPT 55 O/L.
+• Gasometria venosa: pH 7,31, pCO2 45 mmHg, pO2 134 mmHg, HCO3 – 22,7 mmol/L, excés de bases -3,3.
+Coagulació: T. protrombina 83%, INR 1,1, T. cefalina 54,4 s, fibrinogen 954 mg/dl.
+
+Es transfunde un concentrat de plaquetes a 20 ml/ kg i es canalitza vena femoral dreta. Comença amb major treball respiratori, i epistaxis important difícil de controlar. Es decideix avisar a otorrinolaringologia, que col·loca tamponament anterior. Malgrat el tamponament persisteix sagnat i comença amb obnubilació i disminució del nivell de consciència. Davant el baix nivell de consciència i el sagnat important es procedeix a sedoanalgesiar a la pacient i assegurar la via aèria amb intubació. Posteriorment, una vegada estabilitzada, es comprova la presència de vessament pleural amb ecografia, evidenciant vessament pleural encapsulat de 3 cm des d'escàpula fins a diafragma. Es col·loca tub de drenatge pleural en zona de major acúmulo; 5o espai intercostal i línia axil·lar posterior. Després de la intubació es hipotensa presentant signes de gradient tèrmic, fredor distal i dolenta perfusió, per la qual cosa s'inicia dopamina a 5 μg/kg/min S'àmplia l'analítica que presenta LDH elevada, bilirubina elevada, augment dels reticulòcits i descens d'haptoglobina.
+
+Ens plantegem com a possible etiologia del quadre:
+a. Síndrome hemolítica urèmica (SHU) secundari a pneumococ.
+b. Xoc sèptic secundari a pneumònia complicada.
+c. Anèmia hemolítica autoimmune (AHAI).
+d. Porpra trombocitopénicatrombótica (PTT).
+e. Glomerulonefritis aguda postinfecciosa (GNAPI).
+
+Pensaríem en primer lloc en el SHU ja que el xoc sèptic cursa amb coagulopatía que no hi ha en el nostre cas. El SHU secundari a pneumococ causa el 40% dels SHU no E. coli. En la seva patogènia la neuraminidasa del pneumococ degrada l'àcid siàlic que cobreix el Ag T en les membranes d'hematies, plaquetes i endoteli glomerular que queda exposat. El reconeixement de Ag T per AutoAc (IgM): causa hemòlisi, agregació plaquetar i mal endotelial: Cooms directe +.
+
+Davant la nostra sospita probablement sàrria positiu:
+a. Cooms directe i Ag pneumococ en líquid pleural.
+b. Coprocultiu per a E. coli.
+c. Activitat ADAMTS 13 < 5%.
+d. Estudi genètic amb mutació del factor H.
+e. Test ràpid per a H1N1 positiu.
+
+El diagnòstic etiològic del SHU ha d'incloure estudi de:
+• E. coli: test ràpid (ELISA) de detecció de STx en femta, coprocultiu, cultiu en agar sorbitol Mac Conkey, PCR, serologies, hemocultivo.
+• Pneumococ: Test ràpid de detecció de Ag de pneumococ en líquid pleural, Coombs directe positiu, cultius (sang, esput, LCR...), test de Coombs.
+• VIH, H1N1: serologies.
+• MOLT IMPORTANT DAVANT SOSPITA DE SHU prendre mostra de plasma prèvia a transfusions per a SOL·LICITAR: activitat ADAMTS 13 i estudi del complement C3, C4, CH50, FH, FI, FB, per si es presenta un cas de SHU atípic.
+
+La nostra pacient va elevar les xifres d'urea fins a 114 i de creatinina fins a 1,33 malgrat tractament diürètic, amb hiperfosforemia i hiperpotassèmia refractària, amb balanç de +1.000 ml i diüresi de 0,7 cc/kg/h.
+
+La pacient es va connectar a HDFVVC durant 72 hores, retirant-se després de descens de Cr a 0,97 i Urea a 91, i recuperar una diüresi de 3 cc/kg/h amb furosemida. Per al tractament de la pneumònia es manté inicialment amb cefotaxima i vancomicina. Al 5o dia d'ingrés rere empitjorament amb elevació de RFA es passa a meropenem i linezolid. S'afegeix amikacina 4 dies més tard (8o dia VM). Manté amikacina 4 dies (fins a 48 hores després de extubación), linezolid durant 10 dies i meropenem 13 dies. Davant sospita de pneumònia paredada s'administren tres dosis d'urocinasa. Com a complicació secundària al 4o dia de VM realitza atelectasia massiva de pulmó esquerre i pneumotòrax dret que precisa VAFO durant 5 dies, i posteriorment continuar amb VMC durant 48 hores més. La TA es va mantenir en valors alts de la normalitat du rante 48 hores, sense arribar a requerir tractament antihipertensiu. Es retira tractament diürètic al 18o dia d'ingrés, amb normalització de la funció renal Donada la persistència del pneumotòrax es manté el tub de drenatge fins al 28o dia d'ingrés. Revisada en consultes de pneumologia amb persistència de 2 bombolles de pneumotòraxs en camps anteriors drets, amb persistència de paquipleuritis. Funció renal normalitzada.

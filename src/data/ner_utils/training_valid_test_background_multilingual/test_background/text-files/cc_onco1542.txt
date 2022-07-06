@@ -1,0 +1,23 @@
+Anamnesis
+Mujer de 54 años de edad, sin alergias y con antecedentes de prolapso mitral, insuficiencia mitral ligera, taquicardia paroxística supraventricular, fibrilación auricular, bloqueo auriculoventricular grado I y miomatosis uterina. En tratamiento con bisoprolol fumarato 2,5 mg cada 12 horas.
+Desde mayo de 2010 presentaba tos seca sin respuesta al tratamiento sintomático y anorexia progresiva.
+En agosto consultó por dolor pleurítico derecho de 15 días de evolución. Se realizó una radiografía de tórax que mostraba un derrame pleural del tercio inferior del hemitórax derecho e ingresó para estudio.
+Se practicó una toracocentesis diagnóstica, cuya citología fue sospechosa de malignidad y el coágulo obtenido presentaba elementos compatibles con carcinoma escamoso. La inmunohistoquímica resultó negativa para estrógenos y TTF1 y positiva para p63 y Ki-67. Se solicitó la determinación de mutaciones del EGFR, que fueron negativas para los exones 18, 19 y 21.
+La analítica sanguínea (que incluía bioquímica general, hemostasia, gasometría venosa y coagulación) era normal. Se cuantificaron marcadores tumorales, siendo los valores los siguientes: CEA 1,77 ng/mL; CA-19.9 307,6 UI/mL; CYFRA 21.1 6,6 ng/mL; SCC 9,4 ng/mL; NSE 13,1 ng/mL, CA-12.5 124 UI/L.
+La TC torácica informaba de la presencia de una masa de 4 cm en segmento medial del lóbulo medio derecho extendida a la cisura mayor, un derrame pleural derecho y engrosamientos focales de la pleura anterior y paramediastínica en ápex. Otra masa de 4,5 cm en mediastino medio, adyacente al pericardio y a la aurícula derecha, y una masa de 2 cm a nivel de la vena cava superior.
+La punción-aspiración con aguja fina de la masa de lóbulo medio confirmó el diagnóstico de carcinoma escamoso pulmonar, y la malignidad del resto de lesiones fue comprobada con TC-PET: SUV máx. 7 g/mL en la lesión medial, SUV 12,7 g/mL en los engrosamientos pleurales y SUV 10,6 g/mL en la masa del receso pleuropericárdico.
+Ni la fibrobroncoscopia ni la TC craneal mostraron alteraciones.
+Con el diagnóstico de carcinoma escamoso pulmonar estadio IV, inició quimioterapia con esquema cisplatino más gemcitabina en septiembre de 2010 y acudió a nuestra consulta el día 8 del primer ciclo refiriendo intensa astenia y disnea.
+
+Exploración física
+La paciente presentaba un franco deterioro del estado general respecto a la última visita, con una puntuación de 2 en la escala ECOG, una tensión arterial de 85/55 mm Hg y una frecuencia cardíaca de 137 lpm. Destacaban además una importante palidez cutánea y sequedad de mucosas. No se palpaban adenopatías periféricas. A la auscultación cardíaca presentaba taquicardia, con los tonos apagados y soplo sistólico. En la auscultación pulmonar destacaba hipofonesis en base derecha.
+
+Pruebas complementarias
+• La analítica realizada mostraba una hemoglobina de 7,2 g/dL, sin otras alteraciones valorables.
+• Radiografía de tórax se apreciaba un derrame pleural derecho inferior a un tercio en el hemitórax y un abombamiento que deformaba la silueta cardíaca.
+• El electrocardiograma correspondía a una fibrilación auricular, con disminución del voltaje en todas las derivaciones y sin alteraciones agudas de la repolarización.
+• Ante la sospecha de derrame pericárdico, se solicitó un ecocardiograma que evidenció una ligera-moderada dilatación biauricular, un engrosamiento y redundancia de los velos mitrales, mixomatosos y prolapsados. Insuficiencia mitral moderada-alta, insuficiencia tricuspídea moderada, presión arterial pulmonar moderadamente elevada (gradientes VDAD entre 35-40 que llegan a 50 aisladamente) y una fracción de eyección del ventrículo izquierdo en torno al 70-75%.
+
+Diagnóstico y tratamiento
+El ecocardiograma confirmó la presencia de un derrame pericárdico severo de predominio inferoposterolateral, con leve bamboleo cardíaco y compromiso hemodinámico incipiente: vena cava inferior dilatada (21 mm) sin colapso inspiratorio y variaciones de flujo aórtico en torno al 40% y del flujo mitral.
+Ante estos hallazgos compatibles con un taponamiento cardíaco, se procedió a realizar una pericardiocentesis evacuadora, en la que se extrajeron 300 cc de contenido hemático, mejorando inicialmente la misma las cifras tensionales, pero sin recuperación del estado general de la paciente, que presentó un deterioro rápido y falleció horas después.

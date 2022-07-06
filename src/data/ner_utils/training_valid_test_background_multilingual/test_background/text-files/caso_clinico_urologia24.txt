@@ -1,0 +1,26 @@
+Anamnesis
+Paciente varón de 48 años de edad, con antecedente de cólicos renales de repetición (con expulsión de litiasis de oxalato cálcico) tratados de forma ambulatoria, que acude a Urgencias por presentar dolor tipo cólico en la fosa renal derecha de 24 horas de evolución, irradiado a los genitales, náuseas y vómitos, siendo tratado con ibuprofeno, aunque sin clara mejoría. No refiere fiebre termometrada, síndrome miccional ni hematuria. Llama la atención un importante hábito asténico, debilidad generalizada, dificultad en el paso de sedestación a bipedestación, mialgias y artralgias generalizadas.
+En febrero de 2013 acudió a su médico de Atención Primaria por clínica de lumbalgia, y se le derivó a consulta de Traumatología, sin hallazgos; a la exploración presentaba un nódulo de 2 cm aproximadamente en la cara lateral derecha del cuello, por lo que se solicitó una ecografía cervical y tiroidea, que no se realizó por el episodio actual intercurrente.
+
+Examen físico
+Paciente con buen estado general, visiblemente débil, con correcta hidratación de piel y de mucosas, abdomen amplio a expensas de importante panículo adiposo, no se palpan masas ni organomegalias, es depresible y blando, presenta dolor en el flanco derecho, sin signos de reacción peritoneal irritativa. La puñopercusión renal derecha, así como el signo de Guyón derecho, resultaron ser positivos. Extremidades inferiores sin edemas. El resto de la exploración no ofrecía hallazgos de interés.
+
+Pruebas complementarias
+• Analítica sanguínea: destacan calcemia de 16,5 mg/dl, fósforo de 3,8 mg/dl, PTH intacta 2.574 pg/ml, fosfatasa alcalina 222 UI/l, creatinina de 3,31 mg/dl con un filtrado estimado de 20 ml/min. Resto sin hallazgos.
+• Hemograma: hemoglobina 9,5 g/dl. Hematocrito 28%.
+• Coagulación sin alteraciones.
+• Sedimento de orina 1-5 leucocitos por campo.
+• Radiografía abdominal: nefrocalcinosis, a nivel del esqueleto pélvico se visualiza irregularidad de la superficie iliaca de las articulaciones sacroiliacas, por resorción y esclerosis subcondral y ampliación del espacio articular. Resorción subcondral en el margen derecho de la sínfisis pubiana.
+• Serie ósea: dados los hallazgos anteriores, el servicio de Radiodiagnóstico considera la posibilidad de completar el estudio con radiografía craneal y de falanges, en la primera, y se evidencia cráneo con aspecto "en sal y pimienta" (patrón granular difuso de desmineralización craneal), mientras que en la segunda se objetiva resorción subperióstica del borde radial de las falanges medias de los dedos e incipiente resorción de los penachos distales de los dedos de las manos primero, segundo y tercero.
+• Ecografía urológica: nefrocalcinosis renal bilateral sin ectasia de la vía excretora; se halla un pequeño quiste de 12 mm polar superior renal izquierdo. Resto sin hallazgos de interés.
+• Ecografía del cuello: adyacente al lóbulo tiroideo derecho se identifica una lesión nodular hipoecoica con áreas quísticas/degeneradas, en su interior compatible con adenoma paratiroideo. Presenta unas medidas aproximadas de 39 x 25,2 x 47 mm (T x AP x L). En el lado izquierdo se identifica otro nódulo inferomedial respecto al lóbulo tiroideo izquierdo, hipoecoico sugestivo de adenoma paratiroideo izquierdo, con unas medidas aproximadas de 37 x 12,6 x 16,2 mm (L x AP x T). Glándula tiroidea de tamaño y morfología dentro de la normalidad, con ecogenicidad conservada. Se identifican al menos dos nódulos en el LTD de 7,8 y 12 x 7,4 mm, respectivamente. Todo ello compatible, dada la localización y el contexto, con adenomas paratiroideos derecho e izquierdo.
+• SPECT/TC cervicomediastínico: en la imagen planar precoz se aprecian dos focos de aumento de captación de 99mTc-MIBI: un foco a nivel del polo superior del lóbulo tiroideo derecho y otro foco en el polo inferior del lóbulo tiroideo izquierdo que persisten en la imagen tardía una vez lavado el tejido tiroideo. En la imagen de fusión SPECT-TC de baja dosis, el foco de mayor tamaño se localiza por fuera del hueso hioides (lado derecho) y el foco de menor tamaño se localiza paratraquel izquierdo por debajo y posterior del lóbulo tiroideo izquierdo; dichas imágenes son compatibles con adenoma paratiroideo doble.
+• Densitometría mineral ósea: en el cuello del fémur Z-score –2,1 DE. Lumbar Z-score –2,9 DE.
+
+Diagnóstico
+Hiperparatiroidismo primario por adenoma doble paratiroideo. Insuficiencia renal crónica secundaria a nefrocalcinosis.
+
+Tratamiento
+El paciente evolucionó favorablemente del cólico renal con analgesia endovenosa, no requiriendo derivación urinaria.
+Se instaura abundante hidratación mediante sueroterapia intravenosa, así como administración de ácido zolendrónico, cinacalcet, calcio por vía oral y darbepoetina alfa. Tras la estabilización clínica del paciente, llegando a calcemia de 8,3 mg/dl y PTH intacta de 53,3 pg/ml, se programa para paratiroidectomía, que se lleva a cabo sin incidencias, observando un descenso rápido de las concentraciones intraoperatorias de PTH en sangre.
+Actualmente se encuentra pendiente de ser dado de alta en el Servicio de Cirugía general, así como de seguimiento en consultas de Endocrinología, tras la normalización del PTH y del calcio sérico.

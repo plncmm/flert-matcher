@@ -1,0 +1,32 @@
+Anamnesis
+Paciente varón de 15 años con antecedentes personales de síndrome de Prune Belly con uraco permeable y trasplante renal de 12 años de evolución, sin alergias medicamentosas conocidas.
+En el episodio actual, el paciente acude al Servicio de urgencias por presentar incremento de un dolor recurrente, de características cólicas, en el hemiabdomen izquierdo de años de evolución.
+El paciente, tras su nacimiento, fue diagnosticado de displasia renal bilateral, vejiga de gran capacidad y divertículo parauretral. En su primera semana de vida se instauró una insuficiencia renal grado IV y desarrolló progresivamente una uropatía obstructiva debido a válvulas de uretra posterior tipo II, y a una estenosis de uretra.
+A los dos años de edad, entró en programa de diálisis peritoneal y seis meses después en hemodiálisis. Un año más tarde se le implantó un riñón derecho de donante cadáver adulto, mediante neoureterocistostomía tipo Woodruff. Desde entonces ha permanecido con sondajes intermitentes por el uraco permeable y en tratamiento inmunosupresor con prednisona, micofenolato mofetilo y tacrólimus.
+A los cinco años de edad se le realizó una nefroureterectomía derecha del riñón nativo, por presentar varios episodios de pielonefritis y gran hidronefrosis del uréter ectópico, que produjeron una disfunción aguda del injerto en una ocasión. Cuatro años más tarde fue diagnosticado de una litiasis vesical, resuelta mediante litotricia endoscópica.
+Varios años después, comenzó con infecciones del tracto urinario de repetición y dolor recurrente en la fosa iliaca izquierda, además de un deterioro lento y progresivo de la función renal hasta llegar a unos niveles de creatinina de 4,78 mg/dl y un filtrado glomerular de 25 ml/min/1,73 m2, previamente a su último ingreso.
+
+Examen físico
+A su ingreso, el paciente presenta 47 kg de peso, una talla de 155 cm, tensión arterial 140/90 mmHg y se mantiene afebril. Presenta abdomen blando y depresible, con su hipotonía ya conocida y dolor a la palpación en el hemiabdomen izquierdo, sin signos de irritación peritoneal.
+
+Pruebas complementarias
+• A su ingreso se le realiza una analítica, en la que destacan valores como 5,5 mg/dl de creatinina, 9,88 mg/dl de calcio, 49,3 de PCR y 16,12 x 109/l leucocitos. Y presenta un urocultivo con resultado positivo para Escherichia coli (100.000 UFC/ml).
+• Se realiza una ecografía abdominal, en la que se observa el injerto renal con una leve ectasia piélica, buena vascularización e índice de resistencia normal, así como uréter distal derecho distendido con tres cálculos en su interior.
+• Tras estos hallazgos, se realiza una tomografía computarizada (TC) abdominal sin contraste, con resultados similares. Por último, se practica un enema opaco, en el que se observa un stop en la región proximal del sigma en relación con una obstrucción intestinal baja.
+
+Diagnóstico
+Tras las pruebas complementarias realizadas es diagnosticado de:
+• Obstrucción intestinal.
+• Litiasis ureteral del injerto renal.
+• Insuficiencia renal crónica grado IV.
+
+Tratamiento
+A su ingreso, el paciente es tratado con antibioterapia intravenosa (imipenem) y se le retira el tratamiento inmunosupresor. El sexto día de ingreso es intervenido quirúrgicamente. Se le realiza una laparotomía media, observando gran distensión de asas intestinales que se descomprimen hasta observar una brida a nivel del colon descendente, que se libera. También se realiza una desrotación intestinal a este nivel.
+Tras resolver el problema digestivo, se constata una vejiga de grandes dimensiones. Tras la apertura de su cara anterior, se observa el meato ureteral derecho que elimina abundante orina, pero al intentar cateterizarlo aparece un stop proximal que solo puede superarse con una guía teflonada. Se decide realizar una meatotomía, tras la cual se libera la estenosis que producía el stop y se cateteriza el uréter. Tras esto, se libera el uréter distal, observando la impronta de la litiasis justo antes del trayecto intramural del uréter. Se lleva a cabo la extracción del cálculo de mayor tamaño (1,5 cm), realizando una ureterotomía, y se extraen otras litiasis de menor tamaño y situación más proximal utilizando un catéter de Fogarty® de 4 F.
+Finalmente, se coloca un catéter ureteral doble J y un tutor ureteral que se extrae por contraincisión, así como una sonda vesical a través del uraco permeable.
+
+Evolución
+El paciente presenta buena evolución posquirúrgica, con niveles de creatinina 2 días tras la intervención de 5,37 mg/dl.
+Se mantiene la antibioterapia con imipenem hasta completar 8 días, siendo el urocultivo posterior negativo. El resultado del examen del cálculo extraído fue carbonato cálcico.
+El tutor ureteral es retirado 8 días tras la intervención, así como la sonda vesical. Es dado de alta 12 días tras la cirugía, manteniendo la profilaxis antibiótica. Una semana más tarde acude a revisión, presentando una creatinina de 4,28 mg/dl y un tránsito intestinal normalizado.
+Actualmente, continúa en revisiones por el Servicio de nefrología, habiendo comenzado el estudio para un nuevo trasplante de donante vivo (madre), que se realizará en fase de prediálisis.

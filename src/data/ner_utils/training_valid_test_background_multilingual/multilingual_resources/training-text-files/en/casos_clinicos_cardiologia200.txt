@@ -1,0 +1,28 @@
+A 35-year-old woman with a history of interest including active smoking of more than 20 cigarettes a day for the last 20 years, herpes zoster in 2009, thrush in 2015 and diagnosis of Human Immunodeficiency Virus infection in 2006.
+
+Current history
+We present the case of a 35-year-old female patient whose history of interest includes active smoking of more than 20 cigarettes a day for the last 20 years, herpes-zoster in 2009, thrush in 2015 and diagnosis of Human Immunodeficiency Virus infection in 2006. The patient started antiretroviral treatment that same year with zidovudine + lamivudine + saquinavir/ritonavir, although adherence was erratic and she stopped treatment completely in 2017.
+She now presents with asthenia, a loss of eleven kilograms in the last few months and oral bleeding.
+
+Physical examination
+Physical examination revealed marked thinness, fair general condition, rhythmic tachycardia and haemorrhagic gingivostomatitis compatible with thrush.
+
+Complementary tests
+The results were negative for hepatotropic viruses (A, B and C) and syphilis, and positive for HIV, with a detectable viral load of over seven million copies and a CD4 lymphocyte count of 16 (2%).
+In addition, an electrocardiogram is requested and shown below (electrocardiogram 1).
+
+Evolution
+Treatment of the thrush was started with fluconazole, which soon improved and the patient's pancytopenia (which progressively worsened) began to be studied, as well as screening for the main opportunistic infections and the various causes of the additional constitutional symptoms.
+On the one hand, infections by microorganisms such as Mycobacterium tuberculosis, Cytomegalovirus, Pneumocystis jirovecii, Leishmania, Toxoplasma and Cryptococcus are ruled out, and on the other hand, the main tumour and immunological causes are ruled out, leaving HIV infection itself, reactivation of Epstein-Barr Virus and Parvovirus B19 infection as the main causes of the whole picture.
+In view of this and the progressive worsening of the patient's clinical and laboratory findings (even requiring red blood cell and platelet transfusions), it was decided to start antiretroviral treatment with darunavir/cobicistat + emtricitabine + alafenamide on 7/10, after consultation with the hospital HIV Unit.
+A few days after starting antiretroviral therapy, the patient experienced improvement in asthenia and general malaise, as well as recovery of analytical parameters. However, with particular emphasis on the anamnesis and physical examination, she reports a predominance of dyspnoea (with inability to walk more than 100 metres on level ground asymptomatically) over the asthenia and "dizziness" that she had experienced at the beginning, and a third-tone gallop on cardiac auscultation. A new electrocardiogram was repeated (electrocardiogram 2) and blood tests were requested with troponin (normal) and NT-proBNP (2,522 pg/m).
+Due to these findings, the patient consulted the Cardiology Department specialists, who recommended a transthoracic echocardiogram, which revealed a dilated and hypertrophic right ventricle, with moderate systolic dysfunction, paradoxical septal movement and increased eccentricity index of the right ventricle over the left, as well as mild pericardial effusion.
+In view of these findings, it was decided to perform a right heart catheterisation that confirmed the diagnosis of moderate precapillary pulmonary hypertension and to consult the Pulmonary Hypertension Unit. With the presumptive diagnosis of pulmonary hypertension secondary to HIV, treatment was started with tadalafil at a dose of 20 mg/day.
+With the start of this therapy and antiretroviral treatment, in less than 3 weeks the patient experienced substantial clinical improvement, initially allowing her to ambulate and carry out daily activities without dyspnoea. Furthermore, there was an improvement in NT-proBNP levels and in the echocardiographic study, which showed normalisation of right ventricular size, less paradoxical septal motion, and normalisation of the RV/LV eccentricity index. A control electrocardiogram is also attached (electrocardiogram 3).
+Once the study of pulmonary hypertension has been completed, having ruled out other causes such as rapeseed oil intoxication, left heart disease, pneumopathy or thromboembolic disease, the diagnosis of HIV-associated pulmonary hypertension is confirmed.
+
+Diagnosis
+Pancytopenia secondary to infection with Human Immunodeficiency Virus, Epstein-Barr Virus and Parvovirus B19.
+HIV-associated pulmonary hypertension.
+QT prolongation in the context of HIV infection, pulmonary hypertension and drug toxicity.
+

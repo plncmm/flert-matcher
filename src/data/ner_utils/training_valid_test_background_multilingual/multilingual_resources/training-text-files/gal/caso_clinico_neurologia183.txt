@@ -1,0 +1,27 @@
+Anamnesis
+Muller de 41 anos de idade con cambios, desde fai 3 meses, nos seus cefaleas tensionales habituais. As que en principio describía como holocraneales e leves pasaron a ser hemicraneales esquerdas, opresivas e de intensidade moderada-severa. Asociaban ademais prurito, dor ao mínimo estímulo táctil e sensación de hormigueo na hemicara esquerda, máis acentuada na zona frontoorbitaria, con fotofobia e sonofobia, así como menor alivio coa analgesia habitual (ibuprofeno e paracetamol) e visión borrosa no hemicampo temporal do ollo esquerdo. Realizouse unha tomografía computarizada (TC) craneal no Servizo de Urxencias, sen mostrar alteracións e unha resonancia magnética (RM) cerebral ambulatoria noutro centro ao pouco tempo de comezar coa clínica descrita que foi informada como normal. Dada a frecuencia das cefaleas, iniciouse tratamento con amitriptilina con mejoría clínica no mes seguinte, aínda que con persistencia da alodinia e o prurito facial.
+
+Acode nuevamente a Urxencias por incremento na intensidade da dor hemicraneal esquerdo nas últimas 2 semanas con puntuación de 8 na escala analógica visual (EVA). Descríbeo como pulsátil, asociado a fotofobia e sonofobia, aínda que o que máis lle incapacita é o prurito e a hipersensibilidad da zona periorbitaria e frontoparietal esquerda. Ante pequenos estímulos táctiles ela sente sensación de intenso escozor, resultándolle imposible apoiar a cabeza sobre devandita zona. A disminución da agudeza visual polo hemicampo temporal esquerdo progresou cara á perda absoluta da visión por devandito ollo (non distinguía nin sequera luces ou sombras). Ademais, refería dificultade para ver con normalidad polo hemicampo temporal do ollo dereito e dor cos movementos oculares. Negaba náuseas, vómitos, empeoramiento da cefalea con manobras de Valsalva ou interferencia co soño. Negaba febre ou outra clínica infecciosa, así como viaxes recentes. Nega alteración esfinteriana. A paciente recordou que, coincidindo co inicio da cefalea e os síntomas visuales, sentira adormentada a rexión mamaria e braquial esquerda durante varias semanas, resolvéndose de forma espontánea e completa.
+
+Exame físico
+Amaurosis do ollo esquerdo. Agudeza visual de 0,8/1 no ollo dereito con hemianopsia temporal e discromatopsia. Defecto pupilar aferente relativo no ollo esquerdo. Pupila de ollo dereito reactiva. Fondo de ollo normal. Movementos oculares extrínsecos conservados, sen restricciones aínda que refire dor ao mobilizar o ollo esquerdo. Alodinia no territorio teórico da primeira rama do trigémino (V1) esquerdo. Hipoestesia no territorio C2-C4 esquerda. Resto normal.
+
+Probas complementarias
+• Hemograma, hemostasia, perfil hepático, perfil lipídico, perfil renal, iones, reactantes de fase aguda, hormonas (TSH, T4) e vitaminas (B12, A, E, D, acedo fólico) normais.
+• Inmunoquímica: discreto aumento de IgM (339 mg/dl, rango normal 49-302), resto normal. Non bandas oligoclonales en soro.
+• Estudo de autoinmunidad normal.
+• Serología en soro (VHB, VHC, sífilis, Borrelia, Brucella, VIH, antígeno criptococo) negativa.
+• Líquido cefalorraquídeo (LCR): bioquímica con leve aumento de proteínas (37 mg/dl, rango normal 10-30) sen células. ADA negativo. Cociente de albúmina e índice de IgG normal. Non se detectan bandas oligoclonales en LCR. Serología (sífilis, Borrelia, Brucella, criptococo) negativa.
+• RM de columna cervical: alteración do sinal na secuencia T2 na medula cervical nos niveis C1-C2 localizada fundamentalmente na rexión cordonal posterior dereita e rexión lateral esquerda compatible con lesión desmielinizante. Resonancia magnética cervical, secuencia T2, corte longitudinal onde se visualiza hiperintensidad en nivel C1-2, compatible con lesión desmielinizante.
+• RM cerebral: hiperintensidad anómala en secuencias FLAIR que afecta á porción intracanalicular do nervio óptico no lado esquerdo na súa porción posterior e que se estende ata o quiasma, con extensión cara ao lado esquerdo. Resonancia magnética cerebral secuencia FLAIR, corte coronal. Visualízase hiperintensidad no quiasma óptico.
+• Potenciais evocados visuales (PEV): ausencia de resposta con estímulo desde o ollo esquerdo. Normais no ollo dereito.
+• Anticorpos antiacuaporina 4 (antiNMO) positivos.
+
+Diagnóstico
+Neuromielitis óptica autoinmune (enfermidade de Devic).
+
+Tratamento
+Trala administración de 1 g de metilprednisolona diario durante 7 días e seis sesións de plasmaféresis a paciente experimentou unha mejoría completa da agudeza visual do ollo dereito. Con todo, co ollo esquerdo só era capaz de distinguir luces e sombras. Foi dada de alta con azatioprina 50 mg cada 12 horas e topiramato 50 mg cada 24 horas.
+
+Evolución
+Nos seguintes 6 meses requiriu ingreso en dúas ocasións por visión borrosa no ollo dereito, precisando nuevamente de varios ciclos de metilprednisolona con resolución completa dos síntomas de devandito ollo. A visión polo ollo esquerdo mantívose similar ao primeiro ingreso, con distinción tan só de luces e sombras. A alodinia e as cefaleas melloraron ao aumentar a dose de topiramato e reintroducir amitriptilina, sen chegar a desaparecer por completo, pendente de ser valorada pola Unidade da Dor.

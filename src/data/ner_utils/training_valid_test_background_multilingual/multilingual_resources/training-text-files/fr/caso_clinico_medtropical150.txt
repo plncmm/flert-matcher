@@ -1,0 +1,126 @@
+Une femme de 25 ans originaire du Honduras a consulté le service des urgences pour une fièvre fébrile, une odynophagie et des arthralgies d'une évolution de 48 heures.
+
+Au cours des 10 dernières heures, elle a développé une céphalée holocranienne intense, une éruption maculopapulaire généralisée et un œdème des mains et des pieds.
+
+- Histoire personnelle :
+- Pas d'hypertension. Pas de DM. Pas de LD.
+- Non Iqx.
+- Pas de traitement habituel. Pas de RAMc
+
+- Contexte épidémiologique :
+- Séjour au Honduras pendant 2 mois (séjour à Tegucigalpa et Choluteca) en VFR.
+- Pas de conseil préalable. Pas de vaccination contre la fièvre jaune.
+- Consommation d'eau potable. Pas de consommation d'aliments insuffisamment cuits ou crus. Aucun contact avec les animaux. Aucun souvenir de piqûres de moustiques. Pas de contact avec des personnes malades. Pas de relations sexuelles à risque.
+
+- Lors d'un nouvel interrogatoire, le patient a rapporté un épisode aux caractéristiques similaires début janvier, avec fièvre, malaise, arthromyalgie et éruption cutanée généralisée.
+- Elle a consulté son pays et s'est vu prescrire un traitement symptomatique avec un diagnostic de viriase probable. Résolution complète après 72h.
+- Frère, à cette époque, avec des symptômes similaires.
+
+17/11/15 Arrivée au Honduras : Asymptomatique. 
+02/01/16 Début de la fièvre : Asymptomatique.
+16/01/16 Retour en Espagne
+20/01/16 Nouvelle maladie fébrile
+22/01/17 Salle d'urgence
+
+A la sortie : PA 130/78 HR 110lpm SatO2 100% basal T 37.2o
+- Conjonctivite bilatérale non suppurative.
+- Éruption généralisée non prurigineuse. Injection conjonctivale bilatérale.
+- ENT : pas d'énanthème. Aucune autre lésion de la muqueuse buccale. Pharynx hyperémique sans exsudats blanchâtres.
+- Adénopathie minime dans les chaînes cervicales.
+- AP : mvc sans bruits superposés. AC : rythmique et sans murmure.
+- ABD : normal. RHA+. Pas de viscéromégalie.
+- Œdème sur le dos des mains et bimalléolaire.
+
+Diagnostic différentiel : fièvre et éruption.
+
+Tests complémentaires
+LYMPHOCYTES 0,76
+
+Demande urgente au micro :
+Cultures sanguines et test rapide du paludisme. 2.
+2. test rapide pour le paludisme et la dengue.
+3. Les hémocultures ne sont pas nécessaires parce que le patient a "quelque chose de viral".
+4. Sérologie VIH urgente et test rapide pour la dengue.
+5. Cultures sanguines et test rapide pour le paludisme et la dengue.
+
+- HCx2 extrait et test rapide pour la Dengue et le Plasmodium négatif.
+
+Tests complémentaires à effectuer :
+1. sortie avec traitement symptomatique et suivi en consultation.
+2. nous sommes certains qu'il s'agit de la dengue, même si le test rapide est négatif, nous laissons le patient en observation pendant 24 heures.
+3. Sortie avec ciprofloxacine et suivi en consultation.
+4. Admission avec ceftriaxone pour suspicion de leptospirose.
+5. Admission avec traitement symptomatique pour l'étude.
+
+Diagnostics suspectés
+1. la fièvre typhoïde.
+2. la rougeole ou la rubéole.
+3. Infection virale importée.
+4. Paludisme à P. vivax.
+5. Il s'agit d'une infection à rickettsies et je ne l'aurais pas laissé sortir sans doxycycline.
+
+RÉSUMÉ
+- Patient VFR avec éruption cutanée, fièvre, arthralgies, œdème et conjonctivite.
+- Séjour au Honduras. Zone urbaine et rurale.
+- Les symptômes ont commencé 4 jours après le retour du voyage.
+- Antécédents de maladie fébrile similaire 3 semaines auparavant.
+
+Jour +5 de l'apparition des symptômes
+L'EXAMEN EN CONSULTATION :
+- Le patient est déjà AFebrile.
+- Persistance d'un exanthème généralisé avec pétéchies dans les zones distales et augmentation des arthralgies et des œdèmes des mains et des pieds avec impotence fonctionnelle empêchant une déambulation correcte.
+- Examen neurologique sans signe d'altération de la sensibilité ou de la force. ROT préservé.
+- Contrôler les tests de laboratoire :
+- CRP 17.7 ; neutropénie 1480/ lymphocytes 3,090 ; plaq 314,000 ; coag normal.
+- Résultats HCx2 négatifs.
+- Tests sérologiques effectués dans les Urgences :
+- VIH : négatif. IgG VHA positif. VHB : Ac HBs positif, le reste négatif. VHC : négatif. Syphilis : négatif.
+
+L'étude microbiologique a été étendue avec :
+- PCR de la Dengue, du Chikungunya et du Zika v. dans le sérum.
+- PCR dans l'urine pour v. Zika.
+- Sérologies pour v. Dengue, Chikungunya et Zika.
+- Sérologies pour Leptospira, Rickettisia, Borrelia, rubéole, rougeole, oreillons, parvovirus B19, CMV, HAV, HBV et HCV.
+
+Jour + 6 de l'apparition des symptômes
+
+PCR SERUM ZIKA Positif
+PCR URINE ZIKA Positif
+IgM ZIKA positif
+IgG ZIKA
+PRNT Indéterminé
+
+SÉRUM DENGUE PCR Négatif
+DENGUE URINE PCR -
+DENGUE IgM Négatif
+DENGUE IgG Positif
+PRNT DENGUE -
+
+SÉRUM CHIK PCR Négatif
+PCR URINE CHIK Négatif
+IgM CHIK positif
+IgG CHIK Positif
+PRNT CHIK Positif 1/256
+
+Jour + 17 de l'apparition des symptômes
+PCR URINE ZIKA Positif
+Urine PCR CHIK Négatif
+
+Jour + 34 apparition des symptômes
+IgM ZIKA positif
+IgG ZIKA Positif
+PRNT ZIKA Positif 1/512
+
+IgM CHIK positif
+IgG CHIK Positif
+PRNT CHIK Positif 1/512
+
+
+DIAGNOSTIC FINAL
+1. l'infection aiguë par le virus Zika.
+2. une infection récente par le virus du Chikungunya.
+3. Infection antérieure probable par le virus de la dengue 
+
+ÉVOLUTION DU PATIENT
+- Favorable avec résolution des arthralgies en 3 semaines.
+- Elle est restée légèrement asthénique. Aucun symptôme après deux mois de suivi.

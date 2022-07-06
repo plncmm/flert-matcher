@@ -1,0 +1,24 @@
+Anamnèse
+Un homme de 24 ans ayant des antécédents de polypose intestinale, angiome de l'avant-bras gauche et de la fesse droite. Il s'est présenté aux urgences pour une hématurie d'un mois d'évolution avec de multiples consultations antérieures, associée à une aggravation de l'état général, une fièvre de 38oC de 12 heures d'évolution, des frissons, des sueurs, des douleurs de la fosse rénale et du flanc gauche, une diminution de la diurèse.
+
+Examen physique
+Examen physique à l'admission : tension artérielle 154/99 mmHg, fréquence cardiaque 109 bpm, température 37,7 oC. Abdomen douloureux à la palpation dans le flanc gauche et percussion positive du poing rénal ipsilatéral ; à l'auscultation, il y avait un souffle abdominal perceptible. Une hématurie macroscopique est mise en évidence par un cathétérisme vésical.
+
+Tests complémentaires
+- Les tests de laboratoire ont montré une leucocytose de 15 100 milliers/mm3, des plaquettes 136 000 milliers/mm3, un sédiment urinaire avec >100 globules rouges et leucocytes par champ. Les autres résultats sont restés inchangés.
+- Échographie abdominale : grande malformation artério-veineuse (MAV) dans le rein gauche avec dilatation anévrismale secondaire de 9,5 cm. Rein gauche de taille normale, échogénicité et différenciation corticomédullaire légèrement augmentée.
+- Angiographie par tomodensitométrie : formation dans le rein gauche, d'aspect vasculaire, avec de gros vaisseaux et une formation anévrismale dans son pôle inférieur mesurant 92 x 95 mm, compatible avec une MAV. Quatre vaisseaux artériels de l'aorte alimentant la malformation et le rein gauche ont été observés. La formation anévrismale communique par la veine rénale gauche avec la veine cave, dont le calibre est augmenté. Le rein droit n'est pas altéré.
+- L'étude est complétée d'un point de vue cardiologique pour déterminer les répercussions de la lésion rénale sur l'état hémodynamique du patient.
+- Échographie transthoracique : légère dilatation des quatre cavités cardiaques d'épaisseur normale, compatible avec une surcharge volumétrique. Fraction d'éjection ventriculaire gauche normale, valves normales. Pléthore de la cavité (dilatation sévère de 38 mm sans collapsus respiratoire) en relation avec l'hyperdébit.
+- IRM cardiaque : cardiomégalie aux dépens des chambres droites avec des signes de surcharge ipsilatérale. Dilatation du tronc de l'artère pulmonaire, hypertrabéculation des deux ventricules, principalement du VG avec une fonction systolique réduite.
+
+Diagnostic
+Un diagnostic de MAV du rein gauche a été établi, avec hypertension artérielle et hématurie, compliquée par une pyélonéphrite aiguë gauche.
+
+Traitement
+Une fois le diagnostic établi, un traitement antibiotique de l'état infectieux a été mis en place. Par la suite, le cas a été évalué par la radiologie interventionnelle, qui a exclu l'intervention en raison des caractéristiques morphologiques de la lésion et de l'impossibilité technique, procédant à l'embolisation des artères rénales subsidiaires gauches par accès percutané avec des dispositifs Amplatzer et du pédicule inférieur de la malformation avec des coils par la chirurgie vasculaire, L'embolisation de la troisième branche n'a pas été possible car elle présentait un très petit collet par rapport à la paroi aortique, et le scanner de contrôle a montré un remplissage par contraste de la lésion similaire aux études précédentes.
+Au vu des résultats, il a été décidé de réaliser une intervention conjointe entre la chirurgie vasculaire et l'urologie. Une néphrectomie gauche en bloc a été réalisée avec la MAV et l'anévrisme.
+
+Evolution
+Il a présenté une évolution postopératoire favorable, étant libéré quelques jours plus tard, avec des révisions ultérieures qui ont montré que le patient était en bon état général et avait connu une amélioration de ses paramètres cardiologiques ; il a été évalué par le service de génétique, qui a réalisé une étude pour déterminer l'étiologie de la lésion vasculaire.
+Il est actuellement asymptomatique et hémodynamiquement stable, suivi par la médecine interne pour un goitre multinodulaire et par le système digestif pour une polypose colique.

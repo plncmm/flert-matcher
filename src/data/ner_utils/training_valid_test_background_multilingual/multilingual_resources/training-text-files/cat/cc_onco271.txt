@@ -1,0 +1,26 @@
+Anamnesi
+Es tracta d'un home de 47 anys sense antecedents mèdics ni quirúrgics d'interès. No pren cap medicació. Natural de Londres i treballa de professor d'anglès. El seu pare va morir per amiloidosis pulmonar als 74 anys i el seu pare d'un càncer renal als 70 anys.
+En 2010 va consultar per augment progressiu del perímetre abdominal de 12 mesos d'evolució, associat a dolor epigàstric i sensació de plenitud precoç després de la ingesta. Presentava una pèrdua de 15 Quilograms de pes en els últims 6 mesos.
+
+Exploració física
+A l'exploració física, destacava un índex de Karnosky el 90%, bon estat general i una auscultació cardiorespiratòria anodina. La troballa més destacable era semiologia d'ascites moderada.
+
+Proves complementàries
+A continuació es va sol·licitar un hemograma, bioquímica i hemostàsia i únicament destacava una elevació de Lactat deshidrogenada (600 O/L) i Creatina proteïna cinasa (280 O/L). També es van realitzar serologies per a virus hepatotrópos (B i C) i virus de la immunodeficiència humana, sent tots dos negatius i anàlisis del líquid ascítico amb positivitat per a celularidad maligna.
+En l'estudi amb una tomografia axial informatitzada toràcica, abdominal i pelviana (TAC-TAP), on es va objectivar una gran massa d'aspecte quístic que ocubaba gran part de l'abdomen, així com gran quantitat de líquid intraperitoneal suggestiu d'ascites, a més d'implants peritoneals múltiples. Es va completar amb tomografia per emissió de positrons, mostrant la gran massa abdominal ja coneguda sense activitat metabòlica.
+
+Diagnòstic
+Finalment es va realitzar una biòpsia mitjançant punció per agulla fina de la lesió, arribant al diagnòstic d'un tumor de cèl·lules fusiformes. L'estudi immunohistoquímic mostrava positivitat per a vimentina, actina, CD-117, CD-34 i aïlladament per a S-100. Negatiu per a desmina. L'índex de proliferació cel·lular valorat mitjançant Ki-67 era del 5%. Per tant el perfil immunohistoquímic suggeria el diagnòstic d'un tumor de l'estroma gastrointestinal (GIST).
+
+Tractament
+Degut al gran volum tumoral, es va decidir iniciar tractament amb neoadjuvant, amb imatinib 400 mil·ligrams al dia i posterior avaluació als 2 mesos per a possible rescat quirúrgic. La tolerància inicial al imatinib va ser adequada, solament va presentar lleu edema palpebral, però l'ascites no va cedir i va requerir de la col·locació d'un drenatge peritoneal permanent a causa de les paracentesis de repetició requerides.
+
+Evolució
+Als dos mesos de tractament el pacient romania amb abundant dèbit de líquid ascítico pel drenatge. Es va realitzar TAC abdominal d'avaluació on persistia la gran massa peritoneal, amb mínima reducció del component quístic i disminució de l'afectació peritoneal, la qual cosa suposava una escassa resposta tant clínica com radiològica. Amb això, es va decidir en comitè multidisciplinari de Cirurgia Digestiva realitzar laparotomia exploradora, on s'observava la gran massa de 50x30 centímetres (cm) que ocupava tot l'abdomen i sent el seu origen la curvatura major gàstrica. D'aquesta manera, durant el mateix acte quirúrgic es va realitzar resecció radical de la massa.
+La biòpsia quirúrgica feia referència a un tumor GIST d'alt risc, de 21 cm de diàmetre màxim.
+Àrees de necrosis del 30% i l'índex de proliferació cel·lular amb Ki67 era del 3%.
+En TAC-TAP de control posterior a la intervenció, es va objectivar desaparició de la massa peritoneal, però augment de la densitat del greix intraperitoneal i gotieras paracólicas en relació amb carcinomatosis peritoneal.
+Per tant, existia una clara indicació de tractament amb imatinib pseudoadjuvant, a causa de la gran grandària, malgrat la localització gàstrica i el baix índex de mitosi. Donada l'escassa resposta inicial i la persistència de malaltia decidim començar tractament amb imatinib 800 mg.
+Després de la cirurgia i amb l'inici de tractament a dosis altes, el pacient experimento una gran millora des del punt de vista clínic. Es va produir la desaparició per complet de l'ascites i el dolor epigàstric i va començar a guanyar pes progressivament. Igualment la tolerància al tractament a dosis més altes va ser excel·lent. L'única incidència ressenyable va ser l'aparició d'edema palpebral. Des del punt de vista analític, el perfil tiroidal es va mantenir estable.
+Després de 16 setmanes de tractament, es va objectivar, mitjançant TAC-TAP, la completa desaparició de l'afectació peritoneal, no existint així evidència de malaltia en la prova d'imatge. Continuem tractament amb similar tolerància a la prèvia. A causa de l'atipicitat del quadre, sol·licitem l'estat mutacional. Els resultats van ser de mutació c-kit negatiu i mutació de l'exó 18 de PDGFR-A positiva, sent la mutació pD842V.
+En l'actualitat després de 54 setmanes de imatinib, persisteix sense evidència de malaltia.

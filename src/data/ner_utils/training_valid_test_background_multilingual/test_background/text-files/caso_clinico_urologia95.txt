@@ -1,0 +1,24 @@
+Anamnesis
+Varón de 26 años de edad, en seguimiento de unas lesiones residuales retroperitoneales de un tumor germinal tras orquidectomía radical derecha y tratamiento quimioterápico. No alergias medicamentosas conocidas. Sindrome de Down con dependencia parcial. Antecedentes urológicos: intervenciones de orquiectomía inguinal derecha (tumor germinal tipo seminoma clásico de testículo derecho, estadio IIIB [T1N3M0S2)] de inicio, buen pronóstico según la clasificación IGCCCG, diagnosticado por biopsia) e hidronefrosis terminal derecha por atrapamiento secundario del uréter derecho.
+
+Examen físico
+Paciente en aparentes buenas condiciones generales, eupneico, normohidratado, abdomen blando, depresible, no doloroso a la palpación, no se palpan masas ni visceromegalias, RH (+), llama la atención PPD (+), miembros inferiores edema I/IV. Urológico: ausencia de teste en la bolsa escrotal derecha (orquidectomía previa), teste izquierdo de tamaño y consistencia normales, no adenopatias inguinales palpables.
+
+Pruebas complementarias
+• Alfa-fetoproteína: 5,1 ng/dl.
+• B-HCG: <6 mUI/ ml.
+• Tomografía computarizada (TC): masa en el hemiabdomen derecho, de densidad heterogénea, con áreas quísticas en probable relación con necrosis y otras áreas hiperdensas en probable relación con calcificaciones puntiformes, de aproximadamente 14,5 x 13,5 x 9 cm de diámetros. La masa desplaza las asas intestinales y rechaza el riñón derecho cranealmente y el músculo psoas, comprimiendo la vena cava inferior y comprimiendo o englobando el uréter derecho en su práctica totalidad. Importante dilatación pielocalicial derecha en relación con hidronefrosis secundaria a uropatía obstructiva por compromiso del uréter derecho, comprimido o englobado por la masa abdominal. Adenopatías mesentéricas de aproximadamente 1,2 cm de diámetro en su eje corto transversal, adyacentes a la masa. Importante alteración de la grasa mesentérica.
+• PET/TC: masa hipermetabólica en el margen lateral del músculo psoas, con una actividad metabólica superior al 20%. Aumento de actividad en las glándulas suprarrenales, en relación con posible disfunción.
+• Marcada hidronefrosis renal derecha.
+
+Diagnóstico
+Masa residual retroperitoneal por tumor testicular derecho de tipo seminoma clásico, estadio IIIB (T1N3M0S2).
+
+Tratamiento
+Intervención: nefrectomía derecha y linfadenectomía en bloque de los ganglios precavos, interaortocavos y laterocavos y resección de masas residuales adheridas al musculo psaas derecho.
+Anatomía patológica: riñón derecho hidronefrótico, con gran atrofia parenquimatosa, cortical y medular, que incluye intensa nefritis túbulo- intersticial crónica. Sin evidencia de tumor residual. Dilatación/ectasia del sistema pielocalicial y uréter derecho. Intensa fibrosis periureteral, con numerosos focos de necrosis, microcalcificaciones y reacción histiocitaria con presencia de células gigantes tipo cuerpo extraño en relación con áreas de necrosis y cristales de colesterol. Seis adenopatías periureterales con linfadenitis reactiva, libres de tumor.
+Quimioterapia: bleomicina 30 mg semanales x 9 dosis, cisplatino 20 mg/m2 30 mg x 5 días cada 21 días, y etopósido 100 mg/m2 153 mg x 5 días cada 21 días previa a la cirugía.
+
+Evolución
+El paciente presenta un curso postoperatorio sin complicaciones, con retirada de drenajes a las 72 horas de la intervención y alta hospitalaria al séptimo día del postoperatorio.
+Tras 6 meses de segumiento en consulta externa de Urología, el paciente presenta una evolución clínica y radiológica favorable, sin evidencia de enfermedad residual y/o recidiva, la función renal se ha normalizado.

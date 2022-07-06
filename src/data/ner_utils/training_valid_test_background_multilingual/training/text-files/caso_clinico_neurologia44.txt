@@ -1,0 +1,34 @@
+Anamnesis
+Mujer de 67 años de edad que acude a Urgencias por cefalea continua de 2 semanas de evolución localizada a nivel retroocular e irradiación frontal, sin síntomas vegetativos acompañantes, que dificultaba el descanso nocturno y no cedía con analgesia convencional. Además, al cuadro de cefalea se le fue añadiendo de forma progresiva diplopía en los días previos. Presenta como antecedentes personales alergia a corticoides, hipertensión arterial, tuberculosis pulmonar y ganglionar tratada durante 9 meses y cardiopatía isquémica.
+
+Examen físico
+La exploración física general no objetiva alteraciones. En la exploración neurológica se observa una campimetría normal con limitación para la abducción más importante que a la aducción, con afectación de la supra e infraducción del ojo izquierdo1, y leve discromatopsia. En el examen del fondo de ojo se describe una papila de bordes nítidos. La paciente es valorada por Oftalmología, describiendo estos una leve alteración del epitelio retiniano macular, PIO 18 mmHg, no vitritis ni vasculitis.
+
+Pruebas complementarias
+En el Servicio de Urgencias se solicitan:
+• Analítica sanguínea, en la que destaca ionograma con una hiponatremia de 124 mmol/l y creatinina de 93 mmol/l, con fórmula y coagulación normales.
+• Radiografía de tórax y electrocardiograma sin alteraciones.
+• Tomografía computarizada (TC) craneal sin signos de alteraciones parenquimatosas, hemorragias, masas o ventriculomegalia.
+• En la punción lumbar se obtienen 0 células, glucorraquia y proteinorraquia dentro de los valores normales, y no se observan gérmenes en tinción de gram, bacilos ácido-alcohol resistentes ni hongos.
+
+Durante la hospitalización en planta de Neurología se solicitan:
+• Analítica con marcadores inmunofenotípicos, electroforesis de proteínas, factor reumatoide y estudio de complemento, sin alteraciones. Se obtienen ANA y c-ANCA positivos a un título de 1/80.
+• Proteína de Bence-Jones en orina, negativa.
+• Serologías de VIH y lúes, negativas.
+• Resonancia magnética: se observa asimetría de los senos cavernosos con engrosamiento de la pared del seno izquierdo, con captación de contraste en la paquimeninge de la fosa craneal media izquierda, base del cráneo hasta la fosa pterigomaxilar.
+• Valoración otorrinolaringológica: dismorfia septal izquierda, con meatos medios libres bilaterales, receso esfenoetmoidal libre y cavum normal.
+• TC torácica de alta resolución: se objetivan múltiples opacidades nodulares subcentimétricas, que en estudios previos ya se encontraban presentes, pero hallando algunas nuevas que orientan a reactivación de tuberculosis latente.
+• TC abdominal sin alteraciones.
+• Biopsia de fosa pterigomaxilar: muestra material granulomatoso, tejido fibroso y células inflamatorias.
+
+Diagnóstico
+Tras la exploración neurológica se orienta el caso como síndrome del seno cavernoso. Se plantean tres hipótesis:
+• Reactivación tuberculosa. La paciente había sido diagnosticada y tratada correctamente para tuberculosis y, dado que no se llegaron a aislar micobacterias, se decidió ampliar el diagnóstico diferencial a otras enfermedades granulomatosas.
+• Proceso neoformativo, que se descarta mediante marcadores inmunofenotípicos y biopsia.
+• Enfermedad sistémica inflamatoria, que dada la presencia de anticuerpos tipo c-ANCA, la insuficiencia renal leve y las imágenes de afectación del seno cavernoso con extensión al territorio ORL, orientan hacia una granulomatosis con poliangeítis (enfermedad de Wegener). No obstante, la paciente no cumple los criterios clásicos de enfermedad de Wegener, aunque existe una fuerte sospecha de una forma limitada de la misma.
+
+Tratamiento
+Dado el antecedente de tuberculosis y la posible alergia a corticoides, se decide no iniciar tratamiento empírico. A medida que la orientación diagnóstica se aproxima a una vasculitis, se plantea la posibilidad de realizar terapia de desensibilización con corticoides, pero la paciente es reacia y la cefalea mejora con analgesia convencional, aunque persisten la oftalmoparesia y la discromatopsia.
+
+Evolución
+La paciente es dada de alta con buen control del dolor, aunque persiste la diplopía en la visión binocular. Pasados 15 días, la paciente reconsulta por lesiones petequiales en las extremidades, presentando deterioro de las cifras de función renal, por lo que se practica una biopsia renal, en la que se objetiva necrosis fibrinoide sin semilunas, añadiéndose clínica de hemoptisis con imágenes de TC sugerentes de hemorragia alveolar. Se comienza tratamiento con ciclofosfamida y prednisona en bolos, y dada la afectación pulmonar, se inician plasmaféresis y hemodiafiltración vena-vena. Tras 3 semanas de tratamiento, se consigue la remisión de la clínica, la movilidad ocular es normal y no dolorosa, y es dada de alta a su domicilio con controles ambulatorios. Doce meses después, a causa de una infección respiratoria vírica complicada por la inmunosupresión y la sobreinfección bacteriana, la paciente fallece en la Unidad de Cuidados Intensivos.

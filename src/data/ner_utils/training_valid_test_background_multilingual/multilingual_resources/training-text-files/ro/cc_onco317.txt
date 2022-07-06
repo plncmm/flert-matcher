@@ -1,0 +1,27 @@
+Anamneză
+Un bărbat în vârstă de 55 de ani s-a prezentat la ambulatoriul de medicină internă în mai 2013 pentru o stare generală de rău și o senzație de apăsare toracică. Anamneza sa personală de interes includea diabet zaharat de tip 2 tratat cu antidiabetice orale, hipertensiune arterială și hipercolesterolemie, fumător de 80 de pachete/an. Independent în activitățile vieții de zi cu zi, lucrează într-o măcelărie.
+
+Examinarea fizică
+Avea o stare generală bună, cu PS-ECOG 1, cu un examen fizic neremarcabil.
+
+Teste complementare
+Testele de laborator au evidențiat leucocitoză cu deviație spre stânga, restul valorilor fiind neremarcabile, iar markerii tumorali în limite normale. Radiografia toracică a evidențiat o lărgire mediastinală superioară cu densitate crescută în zona retrotraheală și s-a efectuat o tomografie computerizată care a evidențiat o masă / limfadenopatie cu captare eterogenă la nivelul paramediastinului drept din lobul superior, cu diametrul de 6 cm, care contacta peretele posterolateral drept al traheei și peretele lateral al esofagului, cu infiltrarea probabilă a ambelor.
+Adenopatii subcentimetrice paratraheale și retrotraheale subcentimetrice drepte superioare drepte.
+Completând studiul cu PET-CT, a fost confirmată neoformația pulmonară malignă în lobul superior drept cu infiltrare mediastinală fără alte semne de extensie.
+Anatomia patologică a fost compatibilă cu adenocarcinomul (EGFR -, ALK-).
+
+Diagnostic
+A fost un adenocarcinom pulmonar T4N1MO, EIIIA, EGFRwt și ALK rearanjat.
+
+Tratament
+În perioada iunie-septembrie 2013 a primit tratament cu chimioterapie (CDDP 75 mg/m2 iv d1 + Navelbină orală 60mg/m2 vo d1 și 8 la fiecare 21 de zile) și radioterapie concomitentă, cu răspuns radiologic parțial. În octombrie 2014, a prezentat progresie a bolii din cauza măririi masei pulmonare în lobul superior drept (LSD), tratat cu chimioterapie cu Carboplatin AUC5 iv d1 + Paclitaxel 175mg/m2 iv d1 la fiecare 21 zile x 3 cicluri, urmată de reiradierea tumorii primare, care s-a încheiat în ianuarie 2015 cu stabilitate a bolii. În mai 2015, s-a observat progresia bolii la nivel ganglionar local și medistinal, cu o creștere a dimensiunii leziunilor și hipermetabolism la PET-CT. Pacientul a raportat astenie intensă și dureri osteoarticulare generalizate care îi limitau activitatea zilnică. A început tratamentul de linia a treia cu Nivolumab 3mg/kg la fiecare 14 zile. A prezentat o ameliorare clinică rapidă și stabilitate radiologică a leziunilor tumorale, cu răspuns metabolic complet la PET-CT după al cincilea ciclu de tratament.
+
+Evoluție
+În aprilie 2016, după 18 cicluri de Nivolumab, pacientul a raportat reapariția asteniei, împreună cu dispnee progresivă de câteva zile de evoluție până la efort moderat și tuse uscată, neproductivă. Examenul fizic a fost fără semne particulare.
+A fost efectuată o tomografie computerizată care a arătat persistența masei pulmonare în LSD, cu semne de invazie mediastinală și de înglobare a bronhiei principale drepte. A fost asociată cu condensări periferice subpleurale și minim peribronșice limitate de cistole plus prezența unor imagini nodulare multiple bilaterale în sticlă mată, cu semnul halo invers în contextul unei pneumonii organizatoare. S-a observat o creștere adenopatică hilară și mediastinală semnificativă. Având în vedere contextul pacientului, aceste constatări ar putea corespunde unei prezentări atipice a bolii pulmonare mediastinale și a ganglionilor limfatici vs. modificări secundare toxicității pulmonare datorate QT. Evaluați mediul infecțios.
+În plus, având în vedere rezultatele tomografiei computerizate, s-a decis efectuarea fibrobronhoscopiei, cu un arbore drept cu ocluzie completă a segmentului apical al bronhiei lobului superior și ocluzie aproape completă a celuilalt segment, din cauza edemului intens al mucoasei. Studiul a fost completat cu lavajul bronhoalveolar al bronhiei lobare superioare, obținându-se rezultate negative la citologie pentru celule maligne, rezultate negative la PCR M. Tuberculosis și B.A.A.R. și nicio creștere la cultura bacteriologică și cultura fungică.
+În urma rezultatelor testelor complementare, fără a se găsi un proces infecțios evident și cu suspiciunea anti-PD1 ca fiind cauza patologiei pulmonare, s-a decis suspendarea Nivolumabului și începerea tratamentului cu Dexametazonă 12mg/zi, în mod descrescător.
+Din punct de vedere clinic, prin urmare, a fost o pneumonită de gradul 2, iar pacientul a fost simptomatic și nu a necesitat oxigenoterapie.
+Pacientul s-a ameliorat rapid din punct de vedere clinic, cu o scădere a asteniei și dispariția simptomelor respiratorii, și a rămas asimptomatic.
+O lună mai târziu a fost efectuată o reevaluare CT, care a arătat o condensare reziduală minimă subpleurală și peribronșică în LSD cu o reducere semnificativă față de studiul anterior, plus dispariția leziunilor nodulare cu aspect de sticlă măcinată cu semnul haloului invers. Nu au fost observate modificări semnificative în masa pulmonară. Îmbunătățire radiologică semnificativă datorită dispariției complete a imaginilor pseudonodulare bilaterale și dispariției subtotale a condensărilor subpleurale și peribronșice în LSD.
+Datorită faptului că a fost vorba de o pneumonită de gradul 2 cu rezoluție completă după tratament și a răspunsului bun al bolii tumorale care se obținea cu Nivolumab, s-a decis reintroducerea acestuia din nou, programându-se astfel al 19-lea ciclu de tratament.

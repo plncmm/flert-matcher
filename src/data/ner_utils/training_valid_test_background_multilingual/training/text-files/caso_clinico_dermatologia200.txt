@@ -1,0 +1,16 @@
+Anamnesis
+Mujer caucásica de 45 años, afecta de una artritis reumatoide grave, seropositiva, muy erosiva y limitante, en tratamiento con abatacept, ciclosporina y metilprednisolona y que además asociaba una insuficiencia respiratoria crónica por neumopatía intersticial grave, ya en fase de fibrosis pulmonar y que requería oxigenoterapia domiciliaria mantenida, ingresada por insuficiencia respiratoria agudizada a causa de una neumonía sin microorganismo identificado. En tratamiento antibiótico empírico con meropenem y trimethoprim/sulfametoxazol, pese a lo que seguía una evolución tórpida.
+
+Exploración física
+En la cara dorsal del antebrazo derecho presentaba 5 nódulos de entre 1 y 3 cm, eritematosos, de consistencia elástica y levemente dolorosa, aparecidos hacía 2 meses y que se distribuían en patrón esporotricoide, siguiendo un trayecto linfático y culminando en 2 adenopatías epitrocleares, dolorosas y de consistencia elástica. La zona afecta había sido manipulada por venopunciones repetidas para infusión de medicamentos en los últimos meses. Estos nódulos no se habían alterado con los tratamientos antibióticos.
+
+Exploraciones complementarias
+Una analítica de sangre destacaba una anemia crónica normocítica y normocrómica de 98 g/L, creatinina de 3.27 mg/dL, con el resto de ionograma, bioquímica hepática y renal correctos. Una radiografía de tórax mostraba una intensa deformidad de la caja torácica y un parénquima, imposible de valorar por la intensa neumopatía intersticial que ya presentaba la paciente y que no permitía observar cambios respecto a exploraciones previas.
+El estudio anatomopatológico de uno de los nódulos cutáneos reveló un infiltrado mixto en todo el grosor de la dermis, con presencia de granulomas supurativos escasamente formados y múltiples vacuolas o pseudoquistes en la que destacaban incontables microorganismos baciliformes, de 5 micras y dispuestos en hilera en las tinciones de Kinyoun, PAS diastasa y Gomori. La tinción de Ziehl-Neelsen de material de la biopsia cutánea mostró a bacilos ácido-alcohol resistentes.
+Tanto los cultivos bacterianos y en medios adecuados para crecimiento de micobacterias fueron negativos. Una PCR, obtenido a partir de una parte de la biopsia cutánea del nódulo, fue positiva para Mycobacterium chelonae.
+
+Diagnóstico
+Se diagnosticó de infección cutánea, localmente diseminada con linfangitis por M. chelonae. No se pudo descartar la afectación pulmonar por la incapacidad de obtener muestras por la incapacidad de expectorar y la imposibilidad de obtener muestras por métodos invasivos dado el grave estado de la paciente.
+
+Tratamiento
+Se añadió claritromicina 500 mg cada 12 horas por vía oral al tratamiento antibiótico (en ese momento meropenem, rifabutina y etambutol), lo que conllevó una práctica resolución de los nódulos en tan solo 14 días. Pese a ello, la paciente falleció por empeoramiento del cuadro respiratorio 23 días después de añadir la claritromicina.

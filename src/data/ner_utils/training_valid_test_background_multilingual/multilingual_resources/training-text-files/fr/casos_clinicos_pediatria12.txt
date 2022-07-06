@@ -1,0 +1,44 @@
+Une fillette de deux ans a été transférée à l'hôpital Virgen de la Salud à Tolède pour une pneumonie du lobe supérieur droit (RUP) avec un épanchement pleural associé pour un drainage. Elle a été transférée dans une ambulance non médicalisée avec de l'oxygène dans des lunettes nasales à 3 bpm. Antibiothérapie intraveineuse avec ampicilline à 200 mg/kg/jour pendant 48 heures avec ajout de céfotaxime pendant les dernières 24 heures. Les signes vitaux du patient sont les suivants : fréquence cardiaque (FC) : 160 bpm, pression artérielle (PA) : 100/50 mmHg, SatO2 99% avec lunettes nasales à 3 bpm, température (Ta) 38,6°C, fréquence respiratoire (RF) 40 rpm. À son arrivée, il était en bon état général, pâleur intense de la peau et des muqueuses, gradient thermique de 3°C aux genoux et aux coudes, remplissage capillaire de 5 secondes. Détresse respiratoire avec tirage sous-costal et intercostal modéré. Auscultation cardiaque rythmique sans souffle et auscultation pulmonaire avec hypoventilation marquée dans le champ pulmonaire droit. L'abdomen est souple et dépressible, hépatomégalie de 2 cm du rebord costal, examen neurologique conscient et orienté, méninges négatives. Le patient est passé à 20 ml/kg, la perfusion s'est améliorée et le gradient thermique a disparu, mais la tachycardie a persisté.
+
+Compte tenu de ces résultats, nous devrions soupçonner :
+a. Le syndrome de réponse inflammatoire systémique (SIRS).
+b. Sepsis.
+c. Septicémie sévère.
+d. Choc septique.
+e. Pneumonie isolée au LSD.
+
+Dans notre cas, il existe des critères de septicémie avec dysfonctionnement de deux organes ou plus, mais sans répondre aux critères de choc septique.
+
+Les résultats du contrôle analytique sont arrivés :
+- Numération sanguine : hémoglobine 6,9 g/dl, hématocrite 19,2%, plaquettes 18 000x106/L, leucocytes 15 500x106/L.
+- Biochimie : glucose 91 mg/dl, urée 105 mg/dl, créatinine (Cr) 1,29 mg/dl, GOT 227 U/L, GPT 55 U/L.
+- Gaz du sang veineux : pH 7,31, pCO2 45 mmHg, pO2 134 mmHg, HCO3 - 22,7 mmol/L, excès de bases -3,3.
+Coagulation : T. prothrombine 83%, INR 1,1, T. céphaline 54,4 s, fibrinogène 954 mg/dl.
+
+Un concentré de plaquettes a été transfusé à 20 ml/kg et une veine fémorale droite a été canulée. Il a commencé par une détresse respiratoire accrue et une épistaxis sévère, difficile à contrôler. Il a été décidé de prévenir l'ORL, qui a placé une tamponnade antérieure. Malgré la tamponnade, l'hémorragie a persisté et il a commencé à devenir somnolent et son niveau de conscience a diminué. Compte tenu du faible niveau de conscience et de l'hémorragie importante, le patient a été sédoanalgésié et les voies respiratoires ont été sécurisées par intubation. Par la suite, une fois stabilisée, la présence d'un épanchement pleural a été vérifiée par échographie, montrant la preuve d'un épanchement pleural encapsulé mesurant 3 cm de l'omoplate au diaphragme. Un tube de drainage pleural a été placé dans la zone de plus grande accumulation ; 5e espace intercostal et ligne axillaire postérieure. Après intubation, le patient était hypotendu, montrant des signes de gradient thermique, de froid distal et de mauvaise perfusion, la dopamine a donc été commencée à 5 μg/kg/min. L'analyse sanguine a été prolongée et a montré une LDH élevée, une bilirubine élevée, une augmentation des réticulocytes et une diminution de l'haptoglobine.
+
+L'étiologie possible de cette affection était la suivante :
+a. Syndrome hémolytique et urémique (SHU) secondaire au pneumocoque.
+b. Choc septique secondaire à une pneumonie compliquée.
+c. Anémie hémolytique auto-immune (AHAI).
+d. Purpura thrombocytopénique-thrombotique (PTT).
+e. Glomérulonéphrite aiguë post-infectieuse (GAPN).
+
+Nous penserions tout d'abord à un SHU puisque le choc septique est associé à une coagulopathie, qui n'est pas présente dans notre cas. Le SHU secondaire au pneumocoque cause 40 % des SHU non liés à E. coli. Dans sa pathogenèse, la neuraminidase du pneumocoque dégrade l'acide sialique qui recouvre l'Ag T dans les membranes des globules rouges, des plaquettes et de l'endothélium glomérulaire, qui est exposé. Reconnaissance de l'Ag T par l'AutoAc (IgM) : provoque une hémolyse, une agrégation plaquettaire et des lésions endothéliales : Cooms + direct.
+
+Nous pensons qu'elle sera probablement positive :
+a. Cooms directs et Ag pneumococcique dans le liquide pleural.
+b. Culture des selles pour E. coli.
+c. Activité ADAMTS 13 < 5 %.
+d. Étude génétique avec mutation du facteur H.
+e. Test rapide positif pour le H1N1.
+
+Le diagnostic étiologique du SHU doit inclure l'étude de :
+- E. coli : test rapide (ELISA) pour la détection de STx dans les selles, culture de selles, culture sur gélose au sorbitol Mac Conkey, PCR, sérologie, hémoculture.
+- Pneumocoque : test rapide de détection de l'Ag pneumococcique dans le liquide pleural, test de Coombs direct positif, cultures (sang, expectorations, LCR...), test de Coombs.
+- VIH, H1N1 : sérologie.
+- TRES IMPORTANT EN CAS DE SHU SUSPECTÉ, prélever un échantillon de plasma avant les transfusions pour demander : l'activité ADAMTS 13 et l'étude du complément C3, C4, CH50, FH, FI, FB, en cas de SHU atypique.
+
+L'urée de notre patient est montée à 114 et la créatinine à 1,33 malgré le traitement diurétique, avec une hyperphosphatémie et une hyperkaliémie réfractaire, avec un bilan de +1 000 ml et une diurèse de 0,7 cc/kg/h.
+
+Le patient a été connecté à l'HDFVC pendant 72 heures, se retirant après que la Cr ait diminué à 0,97 et l'urée à 91, et récupérant une diurèse de 3 cc/kg/h avec du furosémide. La pneumonie a été initialement traitée avec du céfotaxime et de la vancomycine. Le 5e jour de son admission, après une aggravation de son état avec un taux d'AFR élevé, elle a été mise sous méropenem et linezolid. L'amikacine a été ajoutée 4 jours plus tard (8e jour de MV). L'amikacine a été maintenue pendant 4 jours (jusqu'à 48 heures après l'extubation), le linézolide pendant 10 jours et le méropénème pendant 13 jours. En raison d'une suspicion de pneumonie septique, trois doses d'urokinase ont été administrées. Comme complication secondaire, le 4e jour de la MV, une atélectasie massive du poumon gauche et un pneumothorax droit ont nécessité une VAFO pendant 5 jours, puis une poursuite de la MV pendant 48 heures supplémentaires. La tension est restée à des valeurs normales élevées pendant 48 heures, sans nécessiter de traitement antihypertenseur. Le traitement diurétique a été arrêté le 18e jour d'admission, avec normalisation de la fonction rénale. Compte tenu de la persistance du pneumothorax, le tube de drainage a été maintenu jusqu'au 28e jour d'admission. Elle a été revue dans le service de pneumologie avec persistance de 2 bulles de pneumothorax dans les champs antérieurs droits, avec persistance d'une pachypleurite. La fonction rénale s'est normalisée.

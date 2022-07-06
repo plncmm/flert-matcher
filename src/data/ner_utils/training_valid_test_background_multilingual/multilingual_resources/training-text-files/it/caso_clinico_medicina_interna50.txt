@@ -1,0 +1,18 @@
+Presentiamo il caso di una donna di 37 anni, con l'unica storia clinica di sindrome ansioso-depressiva trattata con lorazepam e fluoxetina, che ha consultato il dipartimento di emergenza una settimana dopo aver subito un processo tonsillare manifestato con odinofagia e trattato con antibioterapia dal suo medico di base, con una sensazione di intorpidimento dell'emiborpo sinistro, diplopia e instabilità di andatura. Alla luce di questi sintomi, è stata eseguita una TAC cranica, che era normale, e il paziente è stato dimesso. Tuttavia, a casa c'è stato un progressivo peggioramento dei sintomi, con una sensazione generalizzata di intorpidimento, incapacità di deambulare e diplopia, per cui è stata ricoverata nel reparto ospedaliero. Dopo 24 ore dal ricovero continuò a peggiorare, con la comparsa di intensa sonnolenza, disorientamento, oftalmoparesi bilaterale (con ptosi e limitazione di tutti i movimenti oculari) e tetraparesi prevalentemente crurale, con Babinski bilaterale; in questa situazione la paziente fu trasferita in Terapia Intensiva, richiedendo l'intubazione orotracheale.
+
+Test complementari
+- Emogramma e biochimica senza alterazioni significative. Anti-NMDA e anti-recettore dell'acetilcolina negativi. Anticorpi antiganglioside negativi (compresi gli antiGQ1B).
+- CSF: biochimica normale. PCR di enterovirus, Herpes virus e Varicella Zoster negativa. Colture batteriche e fungine negative. BAAR negativo.
+- TAC cranica: normale.
+- Risonanza magnetica cranica: normale.
+- RM cranica di controllo (eseguita 2 settimane dopo l'ammissione): nessuna alterazione significativa nel tronco o nel cervelletto. Deboli immagini focali simmetriche di segnale aumentato in Flair possono essere viste a livello di entrambe le capsule interne, senza restrizioni nella diffusione, così come altre immagini sottocorticali a livello parietooccipitale di caratteristiche simili, di natura non specifica.
+- Risonanza magnetica della colonna cervicale: protrusioni discali posteriori discali a livello di C5-C6 e C6-C7.
+- Studio elettrofisiologico: normale.
+- Studio elettrofisiologico di controllo: conduzione sensoriale, motoria e F-risposta di entrambe le MMII normali.
+F di entrambi gli MMII normali. EEG: attività bioelettrica rallentata di media tensione senza altre anomalie sovrapposte. EMG a fibra singola: studio normale. VEPs: studio normale. Calcolo del VA di OI:1.
+
+Evoluzione
+La paziente è stata ricoverata in terapia intensiva per 2 settimane, dove si è evoluta favorevolmente rispetto ai sintomi precedentemente descritti. Quando è tornata al reparto ospedaliero convenzionale, era cosciente e vigile, con oftalmoparesi completa e ptosi sinistra, limitazione dello sguardo orizzontale e verticale bilaterale nell'occhio sinistro, senza nistagmo. Inoltre, tetraparesi di intensità 4/5 negli arti superiori e 3/5 negli arti inferiori, ROT un po' vivo negli arti superiori, rotula debole e Achille conservato, Babinski destro, e riflesso cutaneo plantare sinistro indifferente. Nei giorni seguenti continuò a progredire favorevolmente, e la tracheostomia fu chiusa senza incidenti, con progressivo recupero del deficit motorio, tornando a poter deambulare, e con lento miglioramento dell'oftalmoplegia, ma con persistente ptosi palpebrale sinistra e limitazione dello sguardo verticale superiore dell'occhio sinistro.
+
+Diagnosi
+Encefalite di Bickerstaff.

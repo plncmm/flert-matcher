@@ -1,0 +1,28 @@
+On February 2, 2020, a 28-year-old and 30-week-old woman came to an infectious disease clinic of the municipal hospital in Suzhóu, reporting intermittent fever of one week duration.
+He informed that he had arrived in Suzhóu on January 24, after visiting his family at Wuhan three weeks before.
+Taking into account the history of the patient with fever and displacement to Wuhan, two pharyngeal swabs were collected, which gave negative results for the SARS-CoV-2 when analyzed with the WHO Control-Chinese Disease Control kit.
+A chest CT scan on February 4 showed patchy subpleural consolidations on the left side and ground-glass opacities on the right side.
+He was placed in isolation in the same hospital.
+On February 6, the results of the second RT-PCR of the sputum of the patient to detect these SARS-CoV-2 were positive, so that she was transferred to the University Hospital Infection - Hospital of SuchIDowz in
+On admission, physical examination showed a temperature of 36.2 °C, blood pressure of 95/64 mmHg, pulse of 92 l.p.m., and oxygen saturation of 97% with venturi mask at 5 minutes.
+Pulmonary auscultation revealed roncus in the left lower lung field.
+Other laboratory findings were: white blood cell count of 10.60*109/L; neutrophil count of 9.14*109/L; lymphocyte count of 0.86*109/L; serum albumin of 19.6 pg/L
+Creatinine and aminotransferase concentrations were within the normal range.
+A fetal ultrasound showed an intrauterine fetus with normal anatomical characteristics of about 30 weeks of gestation.
+As SARS-CoV-2 is a newly identified virus, it is not known whether it is transmitted during childbirth or if there is vertical transmission.
+A number of referrals were made and it was concluded that, taking into account the current situation (especially TAC and low lymphocyte and seroalbumin concentrations), the patient's condition could possibly worsen the risk of premature delivery at any time.
+Treatment was initiated with arbidol (0.2 g orally every 8 hours), lopinavir and ritonavir tablets (400 mg orally every 8 hours), cefoperazone and sulfonylureas (3.0 g IV).
+every 8 hours) and human serum albumin (20 g IV.
+each day); dexamethasone and magnesium sulfate were also administered as prophylaxis for the fetus and an emergency cesarean section was prepared.
+On the morning of the third day of hospitalization (8 February), a chest CT scan showed multiple bilateral ground-glass opacities, a sign consistent with severe pneumonia.
+During the afternoon, fetal movement disappeared and fetal heart rate variability was not observed; no improvement was observed with maximal assisted breathing for four hours.
+After several consultations, informed consent was obtained and an emergency cesarean section with epidural anesthesia was performed with an estimated hemorrhage of 200 ml in an isolation operating room with negative pressure; all staff wore more protective equipment.
+The patient gave birth without complications a preterm child of 1.83 kg, with Apgar scores of 9 and 10 at 1 and 5 minutes, respectively.
+The child was kept under observation in the neonatal ICU without contact with his mother after delivery.
+The newborn was given artificial milk instead of breast milk.
+During delivery, amniotic fluid, placenta, umbilical cord blood, gastric juice and pharyngeal swabs were collected from the child to perform SARS-CoV-2 tests by RT-PCR; all negative results were obtained.
+On the third day after cesarean section (11 February), RT-PCR analysis of the pharyngeal and fecal smears of the newborn were negative.
+On February 15 and 17, RT-PCR of the pharyngeal smears of the mother and child were negative.
+Three chest CT scans of the mother on February 12, 15 and 18 showed the elimination of the infiltrates in both lung fields.
+All health professionals in contact with the child during delivery and subsequent care remained asymptomatic.
+The patient and her child had a puerperal and neonatal evolution without complications.

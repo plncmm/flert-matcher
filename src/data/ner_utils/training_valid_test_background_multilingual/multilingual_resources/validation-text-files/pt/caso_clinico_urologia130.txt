@@ -1,0 +1,22 @@
+Anamnese
+Um homem de 48 anos, sem historial de interesse, chegou ao departamento de emergência com dores abdominais, febre, dificuldade em passar as fezes e o início do micturição com 2 semanas de duração.
+
+Exame físico
+Abdómen: suave, depressivo, doloroso à palpação na fossa ilíaca direita e hipogastrio. Exame rectal: próstata ligeiramente aumentada de consistência normal, ligeiramente dolorosa à palpação.
+
+Testes complementares
+- Radiografia abdominal: sinais de densidade nodular do metal furado que, devido à sua distribuição, sugerem diverticula com conteúdo de bário, embora também possam corresponder aos restos de estilhaços ou pellets.
+- Bioquímica: proteína C-reactiva 24,5 mg/dl, creatinina 1,55 mg/dl, o resto normal. Sistema de urina: microhaematúria. Haemograma: sem alterações.
+
+Diagnóstico
+Prostatite aguda.
+
+Tratamento
+Ciprofloxacina 500 mg a cada 12 horas durante 21 dias.
+
+Evolução
+Quatro dias depois, o paciente foi readmitido devido a manifestações clínicas persistentes, associadas a dores nas nádegas direitas que irradiam para a coxa, limitação funcional da anca ipsilateral e pollakiuria. As análises de sangue e urina permaneceram inalteradas, com urina e culturas de sangue negativas. Uma tomografia computorizada (TAC) abdominal revelou um abcesso do psoas ilíaco direito, que foi tratado com antibioterapia intravenosa de largo espectro e drenagem percutânea da colecção. O Enterococcus faecium multirresistente foi isolado. Apesar de ter tido alta com terapia antibiótica oral com três antibióticos ajustados ao antibiograma, foi readmitido em mais duas ocasiões devido à recorrência e persistência da febre. Foi tentada uma nova punção percutânea, mas não foi obtido material fluido.
+Uma tomografia de seguimento um mês após a última admissão revelou uma área hipodensa medindo 4,8 x 1,6 cm na porção mais medial do psoas direito, diverticula do sigma com sinais de diverticulite aguda e contacto do sigma com o psoas ipsilateral, que ele atribuiu como origem do abcesso.
+Durante os meses seguintes, o doente visitou o serviço de urgência em numerosas ocasiões com sintomas clínicos compatíveis com infecção urinária, microhaematuria e piúria, bem como dores abdominais persistentes no hipogastrio, exacerbadas pela valsalva ao passar pelas fezes; foi tratado com vários antibióticos de largo espectro, devido à descoberta de Escherichia coli BLEE, sem qualquer melhoria clínica. Finalmente, o paciente foi avaliado no Departamento de Urologia para sintomas de micção irritante, e foi realizada uma ecografia do tracto urinário, que revelou espessamento da mucosa, além da cistoscopia, que revelou edema do chão da bexiga de provável origem extrínseca.
+Dado o quadro clínico persistente, foi decidido realizar um enema opaco, com evidência de diverticula e sem evidência de diverticulite, e uma segunda tomografia computadorizada, que mostrou espessamento da parede do ureter direito, sem dilatação, secundário ao abcesso de psoas pré-existente, bem como a presença de uma imagem linear hiperdensa não específica no interior da bexiga.
+Finalmente, foi submetido a cistoscopia flexível de diagnóstico, que revelou um palito de dente que foi removido utilizando uma pinça de corpo estranho. Após a sua remoção, o paciente recebeu alta com o desaparecimento completo dos sintomas de micturição.

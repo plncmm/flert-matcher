@@ -1,0 +1,16 @@
+Anamnesis
+Mujer de 71 años de edad, diagnosticada de artropatía psoriásica, en tratamiento con leflunomida desde hacía un mes y medio.
+Ingresó por presentar un cuadro de fiebre, astenia y odinofagia de una semana de evolución acompañado de una erupción cutánea desde hacía dos días, pruriginosa y de predominio en tronco.
+
+Exploración física
+Se objetivó un exantema maculopapular confluente, de aspecto morbiliforme, con eritema y descamación que comprometía más del 90% de la superficie corporal así como fiebre termometrada de 38,5oC e hipotensión arterial (90/60 mmHg). En la mucosa oral presentaba placas blanquecinas que se desprendían con facilidad. La faringe se mostraba hiperémica sin exudado ni hipertrofia amigdalar. No se palparon adenopatías cervicales.
+
+Exploraciones complementarias
+En el estudio analítico durante el ingreso se apreció leucocitosis (17600/μL) con eosinofilia (19%) y trombocitopenia (61000/μL). Se objetivó elevación de las pruebas de función hepática (GOT 1700 U/L, GPT 1400 U/L, GGT 1137 U/L). Las serologías mostraron positividad para VHS-6 IgM siendo negativas el resto de determinaciones. Los hemocultivos fueron positivos para E. Coli. Se realizó TC abdomino-pélvico que evidenció adenopatías subcentimétricas a nivel del ligamento gastrohepático e hilio hepático, raíz del mensenterio y paracecales así como adenopatías inguinales bilaterales.
+La biopsia realizada mostró una hiperqueratosis ortoqueratósica con parches de paraqueratosis sobre una epidermis permeada por abundantes linfocitos, queratinocitos necróticos y degeneración vacuolar de la basal. En dermis superficial se apreciaba un infiltrado inflamatorio polimorfo compuesto principalmente por linfocitos de diferente tamaño, algunos ligeramente grandes con núcleos irregulares, hipercromáticos, ligeramente atípicos.
+
+Diagnóstico
+Síndrome de DRESS por leflunomida.
+
+Evolución y tratamiento
+La paciente permaneció ingresada durante un mes y medio en el servicio de medicina interna durante el cual ni la fiebre, ni la hipotensión, ni las lesiones cutáneas llegaron a regresar completamente pese a la suspensión de la leflunomida y al tratamiento tópico y sistémico con corticoides. Tras el diagnóstico inicial de "bacteriemia por Escherichia coli" se pautó ceftriaxona con resolución de la misma. Igualmente, se administró fluconazol para el tratamiento de su muguet oral con resolución satisfactoria del cuadro. Durante el ingreso se objetivó una llamativa eosinofilia así como una hepatitis aguda que se resolvió parcialmente con tratamiento esteroideo. Finalmente, la paciente presentó un cuadro de empeoramiento brusco, con obnubilación, coagulopatía y astenia global, por lo que fue derivada a UCI con fallecimiento posterior por shock séptico y fallo multiorgánico con sobreinfección por Staphilococcus aureus meticilín resistente.

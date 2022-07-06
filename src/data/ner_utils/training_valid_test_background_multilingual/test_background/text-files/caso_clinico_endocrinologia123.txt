@@ -1,0 +1,39 @@
+Paciente de 35 años remitida a consulta para control de su diabetes de reciente diagnóstico.
+
+Antecedentes Familiares
+Tía abuela diagnosticada de Ataxia de Friedreich.
+Abuelo materno y padre diagnosticados de diabetes tipo 2.
+Dos tíos diagnosticados de Ataxia de Friedreich, ambos fallecidos. Hermano con Ataxia de Friedreich, también fallecido.
+
+Antecedentes Personales
+Alérgica a Penicilina.
+Antecedentes pediátricos: Parto y embarazo normal, periodo perinatal normal.
+
+Enfermedad Actual
+Mujer de 35 años con antecedentes de Ataxia de Friedreich de inicio a los 7 años, presentando dificultad para la marcha de forma progresiva, ataxia cerebelosa estática y apendicular incapacitante, desplazándose en silla de ruedas desde los 14 años.
+Se realizó pruebas complementarios en Clínica Universitaria de Navarra en 1989 a los 9 años, con estudio de Neuroimagen, PESS (aumento de las latencias), ECG (Hipertrofia de VI), con diagnóstico de Ataxia de Friedreich de inicio precoz.
+Es derivada a la edad de 35 años a consulta de endocrinología por diabetes de tres meses de evolución, en tratamiento con Metformina 850 mg tres comprimidos diarios, con mal control metabólico y pérdida de peso progresiva. Presenta anorexia y dificultad para conciliar el sueño.
+
+Pruebas Complementarias
+-Bioquímica (2015): Glucemia * 343 mg/dl, urea-s 29 mg/dl, creatinina-s 0.50 mg/dl, acido úrico 2.2 mg/dl, colesterol total 175 mg/dl, triglicéridos 74 mg/dl, colesterol HDL 66 mg/dl , colesterol LDL 94.2 mg/dl, proteínas totales-s 7.2 g/dl, sodio 139 meq/l, potasio 5 meq/l, magnesio-s 1.8 mg/dl, AST 17 u/l, ALT 9 u/l, GGT 5 u/l, FA 45 u/l, Hemoglobina glicosilada * 8.2 % (resultado previo 7.8 * %), Péptido C * 0.96 ng/ml, filtrado glomerular estimado 127 ml/min/1,73 m2
+-Autoinmunidad pancreática: Ac Anti GAD 3.1 u/ml [ 0 - 5 ], Ac Anti IA2 0.1 u/ml [ 0 - 15 ], Ac Anti Insulina no se detectan (p.f. 3,8 %)
+-Sistemático orina: Nitritos negativos, proteínas orina 0 mg/dl. Glucosa * 1000 mg/dl [normal], C. Cetónicos * 15 mg/dl [ 0 - 5 ].
+-Sedimento urinario: leucocitos 0 /l [ 0 - 10 ], eritrocitos 0l [ 0 - 25 ], albuminuria <3 mg/l.
+
+Exploración
+Peso 53 Kg. Talla 170 cm IMC 17.3 Kg/m2. Perímetro braquial 19 cm. Palidez mucocutánea. Delgadez. No signos de insulinorresistencia.
+-Semiología neurológica:
+Ataxia cerebelosa estática en sedestación, con incapacidad para bipedestación y apendicular con importante dismetría I-N con descomposición del movimiento. Disartria cerebelosa, escandida, Nistagmus. Tetraparesia de predominio crural. MMSS: Distal y dorsiflexión: 3-4/5.Manos en garra. Atrofia de interóseos. Flexores de manos 5/5.
+MMII: Distal, dorsiflexión del pie 0/5. Flexión plantar del pie 0/5. Pies cavos. Proximal: 3-4/5. REM abolidos. RCP extensor bilateral.
+
+Diagnóstico Diferencial
+Diabetes mellitus insulinopénica en la Ataxia de Friedreich Vs. Diabetes Tipo 1b
+
+Tratamiento
+Se indica que ante el agotamiento de la reserva pancreática, las glucemias elevadas (>300 mg/dl), así como presencia de cetonuria, es necesario iniciar terapia insulínica, pero la paciente rechaza el inicio de la administración de insulinas porque asociaba el tratamiento al fallecimiento de su hermano a causa de complicaciones de su Ataxia de Friedrich. Ante el deterioro progresivo de la paciente, con pérdida de peso progresiva, finalmente acepta el tratamiento. Se recomienda inicialmente insulina Degludec 10 unidades en la mañana. De inicio rechaza análogos de insulina rápida prandiales.
+
+Evolución
+Tratamiento con Insulina Degludec 18 U a las 22:00 horas, presenta hipoglucemias antes del desayuno de <70 mg/dl, sin pérdida de conocimiento. Controles pre y postprandiales >250 mg/dl a lo largo del día.
+Proponemos añadir análogos de insulina rápida en comidas, e inicio de insulina Glargina U300 en la cena. A partir de entonces presentó muy ocasionales hipoglucemias leves, y sin hipoglucemias nocturnas, ni hiperglucemias >200 mg/dl. Analítica mayo 2018: HbA1C 5%. Glucemia 111 mg/dl. Creatinina 0,55 mg/dl. Ac úrico 2,8. CT 36. HDL 92. LDL 66.
+Fondo de Ojo sin hallazgos de retinopatía diabética en 2017.
+Se solicitó estudio genético en octubre 2016 que aún está pendiente.

@@ -1,0 +1,36 @@
+Anamnesi
+Dona de 68 anys, al·lèrgica a tetraciclinas. Casada i amb 3 filles. Sense antecedents familiars d'interès. Antecedents personals d'hipertensió arterial, dislipèmia, obesitat i síndrome d'apnea del son. Portadora de marcapassos definitiu per bloqueig auriculoventricular tipus Mobitz II des de juny de 2014.
+En tractament amb enalapril/hidroclorotiazida 20 mg/12,5 mg (1-0-0), simvastatina 20 mg (0-0-1), omeprazol 20 mg (1-0-0).
+La seva història oncològica comença al setembre de 2014, quan és diagnosticada de adenocarcinoma de còlon estadi IV (hepàtiques), KRAS mutat (G12A). La pacient va ser inclosa en assaig clínic aleatoritzat doble cec FOLFOX + bevacizumab vs. FOLFOX + RO5520985.
+Rep 11 cicles (C) fins a abril de 2015, amb resposta parcial (RP) com a millor resposta, sent intervinguda al juny de 2015 mitjançant hepatectomía dreta.
+En el seu primera TC després de la cirurgia, s'objectiva defecte de repleció suggestiu de trombe en vena subclàvia dreta adjacent al catèter, així com augment del número i grandària de lesions micronodulars pulmonars bilaterals suggestives de metàstasis.
+Es decideix inici de segona línia amb FOLFIRI sense antiangiogénico ni bitlla de 5-FU per trombosi associada al catèter, així com anticoagulació amb heparines de baix pes molecular. Després de C3, i una vegada es va aconseguir control de la trombosi i amb bon control tensional, s'afegeix aflibercept. Com a toxicitat més destacable la pacient va presentar diarrea G3 que va requerir ingrés i com a millor resposta malaltia estable (EE).
+Després de C25, recidiva hepàtica, per la qual cosa es proposa tractament dins de EC RE-ARRANGE. La pacient accepta i, després d'aleatorització, és inclosa en braç de tractament C (regorafenib 160 mg/dia 1 setmana on/1 setmana off, primer cicle, segon cicle 160 mg/dia 3 setmanes on/ 1 setmana off). Progressió hepàtica en primera TC de control al novembre de 2016.
+Es decideix retractament amb FOLFOX del qual rep 3 cicles, ingressant en dues ocasions per pneumònia i dolor lumbar en relació a afectació metastásica òssia lumbar. La pacient va rebre al març de 2017 primera administració d'àcid zoledrónico i radioteràpia pal·liativa lumbar (22Gy sobre L2-L3 i dosi única de 8Gy en L4). També, es va prescriure cotilla per part de traumatologia.
+A l'abril de 2017, la pacient ingressa en àrea d'Urgències per cefalea de 48 hores d'evolució sense resposta a analgèsia de tercer graó. Es realitza TC cranial sense alteracions i s'inicia perfusió i.v. amb opioides a dosis equianalgésicas a les quals tenia la pacient via transdèrmica per al control del dolor. La pacient experimenta de manera progressiva deterioració del nivell de consciència amb aparició de febre, així com agitació que va precisar antipsicòtics per al seu control. Es realitza sondatge vesical sense orina patològica, s'extreuen hemocultivos i urinocultius, s'inicia aïllament i antibioterapia empírica.
+
+Exploració física
+En la nostra primera valoració en planta, la pacient està prostrada en el llit amb mal estat general. Patró respiratori eupneico en repòs amb oxigen en ulleres nasals. Pal·lidesa cutània. Mal perfundida. Puntuació Glasgow 8 (obertura ocular a la crida, retirada al dolor, absència de resposta verbal).
+Moviments no coordinats de membres superiors. No obeeix ordres. Absència de reflex cutani-plantar bilateral. Pupil·les en posició intermèdia reactives. Signe de Brudzinski present. Rigidesa cervical. Sorolls de secrecions.
+
+Proves complementàries
+» TC de columna lumbar (febrer de 2017): pèrdua d'altura dels cossos vertebrals de L2-L5 que orientaven a petites fractures-aixafaments per insuficiència vertebral, sent menys probable el seu origen metastásico. Per contra, el cos vertebral de L4 presentava una major pèrdua d'altura i una esclerosi global en la seva densitat amb àrees mal definides internes d'aspecte lític formant un patró clapejat, sent suggestius de possible afectació metastásica.
+» TC cranial urgent (abril de 2017): absència de lesions ocupants d'espai intra o extraxiales, sense signes de sagnat, ni desviació de línia mitjana.
+» Analítica dia 1o d'ingrés (abril 2017): leucocitosis amb desviació esquerra. PCR 245 mg/l (en Urgències 100 mg/l). Hemoglobina 9,8g/dl. La resta, sense alteracions d'interès.
+
+Diagnòstic
+» Meningoencefalitis aguda per listèria monocytogenes.
+» Sèpsia i bacteriemia per Listeria monocytogenes.
+» Adenocarcinoma de còlon estadi IV (hepàtiques, òssia, pulmonars).
+
+Tractament
+Des del servei de Microbiologia, ens comuniquen el creixement en hemocultivos de Listeria monocytogenes, per la qual cosa, després de comentar el cas amb Infeccions i Neurologia, decidim posposar de moment la realització de punció lumbar, a causa de les lesions lumbars recentment irradiades i a la deterioració clínica de la pacient, assumint a aquest germen com el causant de la clínica neurològica de la pacient.
+Es decideix inici de antibioterapia dirigida amb ampicil·lina i gentamicina, així com teràpia coadjuvant amb dexametasona.
+Aquesta mateixa nit, la pacient comença amb crisis focals en hemicuerpo dret, per la qual cosa pauta midazolam per al control d'aquestes, i s'afegeix al tractament levetiracetam 500 mg cada 12 hores.
+Malgrat això, la pacient continuava presentant crisi subintrantes, per la qual cosa es decideix, donada la disfunció hepàtica, associar lacosamida 50 mg/12 h, que, per persistència d'aquestes, es va augmentar finalment a 100 mg/12 h.
+
+Evolució
+Es va sol·licitar nova TC cranial urgent sense canvis respecte al previ. La pacient va continuar amb deterioració neurològica progressiva i, després de 8 dies d'ingrés sense cap millora malgrat totes les mesures realitzades, decidim de forma consensuada amb la família limitació de l'esforç terapèutic.
+La pacient va ser exitus sense signes de sofriment després de 15 dies d'hospitalització.
+Aquesta mateixa nit, la pacient comença amb crisis focals en hemicuerpo dret, per la qual cosa pauta midazolam per al control d'aquestes, i s'afegeix al tractament levetiracetam 500 mg cada 12 hores.
+Malgrat això, la pacient continuava presentant crisi subintrantes, per la qual cosa es decideix, donada la disfunció hepàtica, associar lacosamida 50 mg/12 h, que, per persistència d'aquestes, es va augmentar finalment a 100 mg/12 h.

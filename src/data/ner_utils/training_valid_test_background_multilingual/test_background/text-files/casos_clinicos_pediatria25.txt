@@ -1,0 +1,51 @@
+MOTIVO DE CONSULTA
+• Niño de 6 años que consulta el día 13-03-20 en urgencias del hospital por tos continua de 3 días de evolución y hallazgo de infiltrado en radiografía de tórax solicitada por su pediatra privado.
+• En tratamiento con salbutamol desde hace 24 horas sin mejoría.
+• Sin fiebre ni otra sintomatología acompañante.
+• No hay historia de contacto con casos de COVID-19 ni ambiente epidémico domiciliario.
+
+ANTECEDENTES PERSONALES
+• Recién nacido a término. Periodo neonatal normal.
+• Detección fetal de ectasia piélica derecha. En seguimiento por Nefrología infantil con diagnóstico de megauréter derecho.
+• Asma inducido por virus en tratamiento con salbutamol a demanda.
+
+EXPLORACIÓN FÍSICA
+Ta: 37oC Sat.O2: 98% FR: 24 r.p.m FC:90 l.p.m
+• Buen estado general. Coloración cutáneo mucosa normal. No exantemas. No signos de dificultad respiratoria.
+• ACR: Normal. Buena ventilación bilateral. No ruidos patológicos.
+• Abdomen: Normal.
+• ORL: Orofaringe eritematosa sin exudados.
+
+EXPLORACIONES COMPLEMENTARIAS
+RX TÓRAX (informada por radiólogo):
+Infiltrado retrocardiaco izquierdo con aumento de broncograma aéreo. Patrón intersticial bilateral hiliar asociado. Senos libres.
+
+ANALÍTICA:
+EXPLORACIONES COMPLEMENTARIAS
+ • Hemograma: Hb 13,8, leucocitos 9880 (N 4841, L 3062)
+• Bioquímica: Glucosa 101, GPT 11, CK 103, • PCR:14,7mg/L
+• Gasometría venosa: PH 7,35, PCO2 36,5
+Desde urgencias ante radiología compatible con posible caso COVID-19 se decide solicitar:
+PCR SARS-CoV-2: POSITIVA
+
+EVOLUCIÓN
+• Permanece afebril y asintomático, manteniendo adecuada saturación de O2 sin precisar oxigenoterapia.
+• Tras resultado positivo de PCR SARS-CoV-2, y dada la escasa sintomatología, se decide alta el mismo día de ingreso.
+• Tras explicar medidas de aislamiento, se realiza seguimiento domiciliario.
+
+DIAGNÓSTICOS
+• Infección respiratoria por SARS-CoV-2 con sintomatología leve.
+• Tos, equivalente asmático.
+
+TRATAMIENTO
+• Salbutamol con cámara espaciadora a demanda.
+• Paracetamol, si fiebre.
+• Se dan pautas de alarma y hoja informativa de recomendaciones.
+• Se insiste en el aislamiento domiciliario.
+• Se realizará seguimiento telefónico de evolución de enfermedad por su pediatra de atención primaria.
+
+SEGUIMIENTO
+• Se realizó seguimiento telefónico por su pediatra de atención primaria, no precisando consulta presencial ni pruebas complementarias, dada la buena evolución del proceso.
+• No presentó fiebre ni otros síntomas en las semanas posteriores.
+• No hubo casos de COVID-19 en el resto de familiares, ni antes ni después de este caso.
+• Se preguntó sobre el posible contacto del niño con algún caso pero no se identificó, atribuyéndose al colegio el lugar más probable de contagio.

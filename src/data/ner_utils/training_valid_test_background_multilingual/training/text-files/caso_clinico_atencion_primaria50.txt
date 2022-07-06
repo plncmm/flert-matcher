@@ -1,0 +1,27 @@
+Motivo de consulta
+Disnea, tos y fiebre.
+
+Enfoque individual (anamnesis, exploración, pruebas complementarias)
+Anamnesis: varón de 84 años que acude a nuestra consulta refiriendo disnea junto a tos, expectoración blanquecina en aumento así como febrícula termometrada de 37.1oC de 48 horas de evolución.
+
+Como antecedentes personales más relevantes, destacan una EPOC de larga evolución en tratamiento con Oxígeno domiciliario, Hipertensión arterial con cardiopatía hipertensiva e Insuficiencia cardiaca congestiva así como hipertrofia benigna de próstata. Actualmente anticoagulado con sintrom.
+
+Exploración: el paciente presentaba buen estado general, estaba bien hidratado y perfundido y se mostraba consciente, orientado en las tres esferas y colaborador.
+Destacaba una auscultación cardiopulmonar con roncus y sibilancias dispersas en ambos campos pulmonares junto a una SaO2 de 90% y marcado trabajo respiratorio con tiraje y taquipnea. Temperatura en consulta de 38oC.
+Los miembros inferiores no estaban edematosos ni con signos sugestivos de trombosis venosa profunda.
+
+Pruebas complementarias: se realizó una radiografía en proyecciones postero-anterior y lateral de tórax de manera ambulatoria, en centro de salud, donde se evidenció una condensación pulmonar derecha junto a derrame pleural izquierdo. De este modo, y dada la exploración presentada por el paciente, se decide su derivación a urgencias de hospital de referencia para ampliación de pruebas analíticas.
+
+Se solicita hemograma y bioquímica sanguínea junto a serología para neumococo, legionella pneumofila. La serología para los anteriores microorganismos resultó negativa. En hemograma se evidencian 15000 leucococitos con el resto de las series sanguíneas normales. En cuanto a la bioquímica, destacó una PCR en 20.45, siendo la función renal así como el resto de aparatos normales.
+
+Enfoque familiar y comunitario
+Vive con su mujer y es independiente para las ABVD y AIVD. Tiene buen soporte familiar, con nivel socio-económico medio-bajo. Realiza seguimiento regular de su patología crónica en centro de salud.
+
+Juicio clínico (listado de problemas, diagnóstico diferencial)
+Juicio clínico 1: Neumonía adquirida en la comunidad.
+Juicio clínico 2: Insuficiencia cardiaca descompensada.
+
+Plan de acción y evolución
+Se ajusta tratamiento antibiótico empírico y se deriva al paciente a hospital de referencia, donde finalmente ingresa tras confirmarse reagudización de EPOC secundaria a neumonía adquirida en la comunidad, así como insuficiencia cardiaca descompensada.
+
+Evolución: tras una estancia hospitalaria de 11 días, el paciente fue evolucionando adecuadamente de su sintomatología, siendo dado de alta con ajuste de tratamiento y seguimiento posterior por el servicio de neumología.

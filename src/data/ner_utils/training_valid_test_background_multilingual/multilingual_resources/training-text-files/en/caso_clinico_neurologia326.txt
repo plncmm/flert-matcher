@@ -1,0 +1,23 @@
+Anamnesis
+A 44-year-old patient consulted the Emergency Department for weakness of the left limbs of about two weeks' evolution. He is semi-independent for activities of daily living. His past history includes being an injecting drug user until he was 30 years old and a smoker until just one year ago. He has chronic hepatitis C virus liver disease with portal hypertension. In 2011 he underwent an emergency tracheostomy and subsequent total laryngectomy for moderately differentiated squamous cell carcinoma of the larynx, accompanied by cervical lymph node removal and radiotherapy, which was completed about a month ago. It was complicated by a left cervical abscess and cranial herpes zoster. He has had a nasogastric tube since then. The latest thoraco-abdominal computed tomography (CT) scan showed a left pulmonary nodule and mediastinal adenopathies, and a hepatic nodule suggestive of hepatocarcinoma. He was treated with spironolactone and fentanyl patches.
+
+Physical examination
+Blood pressure 126/78 mmHg and temperature 37.2 oC. There is an evident deterioration of the general condition and cutaneous signs of radiation in the cervical area. Speech is not assessable due to laryngectomy, he understands complex commands. There is effacement of the left nasolabial fold, an oculocephalic preference to the right and left hemianopsia in the visual field examination by confrontation. Left hemiparesis of brachial and distal predominance. Left hemihypoesthesia. Bilateral plantar flexor response. The rest of the neurological examination is normal.
+
+Complementary tests
+- Blood count and basic coagulation study: normal.
+- Electrocardiogram: sinus rhythm at 80 bpm.
+- Chest X-ray: diffuse disease with a bilateral reticular appearance.
+- Brain CT scan: hypodensities in the subcortical white matter in the bilateral parietal and left occipital regions, with no pathological enhancements observed in the postcontrast study. CT scan: bilateral hypodensities in the parietooccipital white matter.
+- Brain magnetic resonance imaging (MRI): hyperintense lesion in T2 and FLAIR sequences without mass effect affecting the bilateral parietooccipital subcortical white matter, predominantly right, and hypointense in T1 sequence with minimal enhancement after administration of intravenous contrast. Brain MRI. Hypersignal in FLAIR sequence. Minimal enhancement after contrast administration in T1 sequence.
+- Supra-aortic trunk duplex study: no evidence of haemodynamically significant stenosis. Orthodromic ophthalmic images.
+- Study of lymphocyte subpopulations: total lymphocytes 500 cells/uL; CD 4 4 cells/uL (500-2,500); CD 4/CD 8 ratio 0.01 (0.85-3.5).
+- HIV-viral load: 123,705 cp/ml.
+- Cerebrospinal fluid (CSF) study: 1 cell/uL; 45 mg/dl glucose; 0.3 g/dl total protein. 
+- Polymerase chain reaction (PCR) for JC virus in CSF: negative.
+
+Diagnosis
+Progressive multifocal leukoencephalopathy (PML) in HIV-positive patient.
+
+Evolution
+After starting triple antiretroviral therapy, the patient's general condition improved, although the neurological symptoms persisted at the time of discharge. He was reviewed one month later by the Infectious Diseases Unit, with improvement in CD 4 and viral load levels.

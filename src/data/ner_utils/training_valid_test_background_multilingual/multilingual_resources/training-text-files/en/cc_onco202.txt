@@ -1,0 +1,33 @@
+Anamnesis
+21-year-old male with a history of congenital jejuno-ileum atresia and lentiginous melanocytic nevus on his back at the age of 16. Left hydrocele in childhood, which resolved without treatment. No drug allergies or other history of interest. No family history of cancer.
+Oncological history: initially, the patient consulted the urology department for a slowly growing mass in the left testicle, which had evolved over 2 years.
+
+Physical examination
+Physical examination at the time revealed a mass in the anterosuperior pole of the left testicle. ECOG 0. Rest without alterations of interest.
+
+Complementary tests
+"A testicular ultrasound was requested, which showed two areas, a more peripheral one in the upper pole, which was the largest, with an average diameter of about 2 cm, together with another in the area closest to the centre of the testicle measuring about 8 mm in diameter.
+"A complete blood test showed: haemoglobin 20.3 g/dl, haematocrit 59.9%, red blood cells 6,550,000. Alpha-fetoprotein 77.2 ng/ml, beta-HCG 100.4 mU/ml, LDH 392 IU/l.
+"The patient was referred to haematology for polyglobulia and scheduled for radical orchiectomy, after cryopreservation of sperm.
+"A thoracoabdomino-pelvic CT scan was performed and no lymph node involvement or metastases were detected (N0M0).
+
+Diagnosis
+Non-seminomatous germinal testicular carcinoma pT1N0M0, S0, stage IA, good prognosis subgroup.
+
+Treatment
+Radical orchiectomy via the inguinal route is performed; pathology is reported as mixed malignant teratoma with areas of embryonal carcinoma, yolk-sac, choriocarcinoma and intratubular germinal neoplasm pT1.
+
+Evolution
+Initially, as the prognosis was good, follow-up was proposed.
+Postoperative blood tests showed haemoglobin 18 g/dl, with negative tumour markers, so the patient was S0.
+At 14 months, a control CT scan showed at least two retroperitoneal lymphadenopathies measuring between 2 and 3 cm. Beta-HCG 16 mIU/ml and alpha-fetoprotein 8 ng/ml. Given the suspicion of recurrence, treatment with four cycles of BEP (bleomycin, etoposide and cisplatin) was proposed. She received all four cycles of treatment, presenting very good tolerance (grade I nausea, grade II asthenia, grade II neutropenia and grade II thrombopenia).
+Two weeks after receiving the last cycle, he was admitted to the Intensive Care Unit (ICU) after an episode of coma and cardiorespiratory arrest. An urgent CT scan was performed, which showed an apparently single lesion in the posterior fossa, highly vascularised, suggestive of metastasis. Other possibilities could not be ruled out. In addition to tetraventicular hydrocephalus. A lumbar puncture was performed and CSF biochemistry showed elevated proteins 118 mg/dl and glycaemia 154 mg/dl, the rest of the parameters being within normal limits. A CSF sample was sent for cytology, with negative results. A differential diagnosis of metastasis versus second primary tumour was suggested. After discussion with Radiation Oncology and Neurosurgery, it was decided to wait for the results of the MRI to decide on the therapeutic approach. The MRI showed a heterogeneous lesion measuring approximately 28 x 32 x 37 mm in the AP, T and CC axes, respectively, located in the midline, inferior to the fourth ventricle, with an appearance similar to mixed germ lineage tumours (consider the possibility of metastasis of the testicular tumour, or of a second primary tumour of germ lineage origin in this situation). There were no other images suggestive of metastasis in the rest of the study.
+In addition, there was truncal oedema, tetraventricular hydrocephalus and cervical syringomyelia, secondary to the mass effect lesion.
+Laboratory tests and tumour markers on admission were normal. A first operation was performed, which was incomplete, according to the MRI, leaving tumoural remains, with haematic foci inside. It was decided to perform a second operation a week later, after which the hydrocephalus improved, but pseudonodular persistence was observed on the lower slope of the fourth ventricle, which intensely enhanced after the administration of intravenous contrast, measuring 6 x 11 x 10 mm in AP, TR and Cc diameters, respectively, suggestive of another tumour remnant.
+On day + 10 of the first surgery, he was readmitted to the ICU in coma with a Glasgow scale score of 4. An urgent cranial CT scan identified hydrocephalus and signs of trans-stentorial herniation, due to tumour haemorrhage, so urgent surgery was performed by means of a ventriculo-peritoneal shunt (Mitronic variable pressure).
+
+After a month in the ICU, the patient was taken to the ward stabilised with a GCS of 15/15. Complications during his stay in the ICU included colonisation by Acinetobacter baumanii and dysphagia secondary to complete paralysis of the right vocal cord, requiring placement of a nasogastric tube.
+The definitive pathological anatomy was: mesenchymal tissue with prominent vascularisation compatible with cerebellar haemangioblastoma.
+During the following months the patient improved progressively, he walked with a walker and the nasogastric tube was removed and he was able to feed himself.
+The testicular tumour continues to be monitored, and the last CT scan showed a growing teratoma (25 months after the orchiectomy), which will be referred for surgery.
+He was referred for genetic counselling for suspected Von Hippel-Lindau syndrome, the results of which are pending.

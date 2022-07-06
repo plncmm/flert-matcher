@@ -1,0 +1,36 @@
+Anamnèse
+Homme, 48 ans.
+
+HISTORIQUE PERSONNEL : Allergie au Céfuroxime et au Septrim (réaction cutanée). Fumeur de 15 paquets/an et buveur de 2 vins par semaine. VIH+ depuis 1992 sous contrôle de l'Unité des Maladies Infectieuses (UDI) avec CDC stade C3 ; en 1994 plusieurs admissions pour pneumonie récurrente (bactérienne et Pneumocystis carinii), tuberculose pulmonaire et ganglionnaire. Traitement habituel : Raltegravir 400 1/12h, Maraviroc 150 1/12h, Ritonavir 100 1/24h, Darunavir 400 2/24h, Fer oral avant le petit déjeuner, Oméprazole 40 mg/24h.
+
+MALADIE ACTUELLE :
+En février 2011, elle est venue pour un contrôle à l'unité de soins intensifs et a commenté l'apparition d'un certain degré d'asthénie progressive avec des épigastralgies depuis plusieurs mois, accompagnée depuis un mois de selles méléniques, pour lesquelles elle a subi une analyse montrant une hémoglobine (Hb) de 4,7, pour laquelle ils ont décidé de l'admettre pour étude.
+
+Examen physique
+Hémodynamiquement stable, afébrile. Conscient, orienté, bien hydraté et perfusé, eupnéique. Pâleur cutanée et muqueuse. AC : Rythmique. AP : Murmure vésiculaire préservé. Abdomen : Douce, dépressible, légère douleur dans la région épigastrique à la palpation profonde avec sensation de masse à ce niveau. Aucun signe d'irritation péritonéale. Péristaltisme présent. Membres inférieurs : Pas d'œdème ni de signe de thrombose veineuse profonde.
+
+Tests complémentaires
+- ANALYSE (07/02/2011) : Albumine 31.2, CRP 14.4, Hb 4.7, Plaquettes 418000, Leucocytes 9380, Neutrophiles 5720. Coagulation normale.
+- MARQUEURS TUMORAUX : Antigène carcinoembryonnaire (CEA) ; CA 125 et Ca 19.9 : Négatif.
+- GASTROSCOPIE : Grande masse ulcérée dans la petite courbure avec un aspect néoplasique, avec des biopsies prises dans la zone suspecte.
+- ANATOMIE PATHOLOGIQUE : biopsie gastrique positive pour un adénocarcinome.
+- CT ABDOMINAL-PELVIQUE : Masse au niveau de la petite courbure de l'estomac, avec des adénopathies dans le ligament gastro-hépatique, le tronc cœliaque et l'espace portocaval.
+- ECOGRAPHIE ABADOMINALE : Hémangiome hépatique dans le segment V.
+- CT THORACIQUE : Aucun signe de pathologie.
+
+Diagnostic
+Adénocarcinome gastrique localement avancé cT2 (douteux M1 en raison d'adénopathies rétropéritonéales par CT).
+
+Traitement
+Le comité des tumeurs gastro-œsophagiennes a décidé qu'en raison de la présence d'une masse importante et d'adénopathies, un PET-CT scan serait demandé pour vérifier le comportement des adénopathies ; si elles étaient détectées, une chimiothérapie palliative serait commencée car elles étaient considérées comme des métastases ; si elles n'étaient pas détectées, une chimiothérapie néoadjuvante serait commencée et après réévaluation du cas, une chirurgie serait envisagée.
+- PET-CT (02/03/2011) : une captation a été observée au niveau gastrique sans captation des adénopathies rétropéritonéales.
+Le 28/02/2011, le traitement a commencé par le premier cycle de QT néoadjuvant avec Cisplatine (75 mg/m2), Docetaxel (75 mg/m2) et 5-Fluorouracil (750 mg/m2).
+
+Evolution
+Cinq jours après le premier cycle de QT, le patient a présenté une toxicité importante, avec une entérite et une insuffisance rénale pré-rénale, une anémie nécessitant une transfusion et une mucosite. Une analyse génétique a été effectuée pour rechercher des mutations dans les enzymes qui catabolisent le 5-Fluorouracile (5-FU), et le résultat a été hétérozygote pour MTHFR C677T, ce qui a provoqué une intolérance à l'administration de 5-FU.
+Compte tenu de la toxicité, le régime a été modifié en CPT-11 (Irinotecan 125 mg/m2) hebdomadaire, en administrant 4 doses du 1er avril au 22 avril, avec une tolérance modérée, car pendant l'administration il a commencé à présenter une hyperbilirubinémie et une augmentation des enzymes hépatiques, sans autre étiologie que le traitement de chimiothérapie.
+Un mois après la fin du TQ, elle est retournée au service d'oncologie médicale pour une analyse, où l'on n'a observé qu'une légère anémie avec une Hb de 11,1, une amélioration de la fonction hépatique et des marqueurs tumoraux négatifs, avec un scanner montrant la masse dans l'estomac et des lymphadénopathies rétropéritonéales sans changement ; et un PET-CT montrant la masse dans l'estomac et aucune lymphadénopathie.
+Pour toutes ces raisons, le patient a été défini comme ayant une maladie stable, et les lymphadénopathies étaient liées à son histoire de maladie VIH et non à la maladie tumorale, donc la chirurgie a été décidée.
+Le 13/06/2011, il a subi une gastrectomie partielle de 70%, une lymphadénectomie de D2 et une omentectomie. Le résultat de l'anatomie pathologique était un adénocarcinome peu différencié et des zones modérément différenciées, affectant la couche musculaire, avec des bords de résection libres et 47 ganglions lymphatiques exempts de métastases. Stadification définitive ypT2 ypN0. Stage IB.
+Compte tenu de la mauvaise tolérance au traitement par chimiothérapie, il a été décidé de ne pas administrer de chimiothérapie adjuvante, et depuis lors, elle subit des contrôles.
+Actuellement sans signe de maladie 5 ans après la chirurgie, en contrôle annuel avec CT scan, analyse et marqueurs tumoraux.

@@ -1,0 +1,74 @@
+Un paziente maschio di 70 anni è arrivato al pronto soccorso con una febbre di due settimane, con brividi, brividi, fino a 39oC, prevalentemente di sera, che si è risolta bene con il paracetamolo ma è ricomparsa poche ore dopo. La febbre è accompagnata da astenia e dolore osteoarticolare generalizzato.
+Nessuna tosse, nessuna espettorazione, nessuna dispnea, nessun dolore al petto. Nessuna nausea o vomito. Feci morbide, senza prodotti patologici nelle ultime settimane. Nessun sintomo di minzione.
+Dall'arrivo al dipartimento di emergenza, in trattamento con levofloxacina per 5 giorni con miglioramento clinico, ma ricaduta di febbre e malessere generale 48 ore dopo aver finito l'antibiotico.
+Nessun viaggio all'estero. Nessuna lesione cutanea o intervento dentale. La famiglia riferisce che il paziente è stato più depresso negli ultimi 6 mesi, in coincidenza con l'ultima sostituzione del pacemaker. Da allora, la sua attività è andata progressivamente diminuendo, con la comparsa di dolori articolari. Perdita di peso, ma nessuna perdita di appetito.
+
+
+BACKGROUND
+- ADR: Ipersensibilità ai beta-lattami.
+- Abitudini tossiche: Non fumatore. Bevitore di 2 bicchieri di vino al giorno per 3-4 mesi.
+- Anamnesi personale: AHT, IIDM, dislipidemia, iperuricemia con gotta, FA permanente dal 2013 (anticoagulato con Acenocumarolo), cardiopatia ischemica cronica dal 2004, PROSTESI AOTECA J-21, ipersensibilità del seno carotideo di eziologia sconosciuta. Portatore di pacemaker DDDR dal dicembre 2004 e dal 2013 in modalità VVIR a causa della FA. Ultima sostituzione del pacemaker nel luglio 2016, senza complicazioni. Iperostosi anchilosante vertebrale e gotta, vista in reumatologia nel novembre 2016 e in follow-up dal medico di base. Polmonite acquisita in comunità nel 2015.
+- Anamnesi chirurgica: appendicectomia, protesica.
+- Pensionato, ex riparatore di carrozzerie, vive a El Palmar. Lavoratore autonomo per tutti gli ABVD, guida la sua auto, ha un piccolo orto.
+
+
+ESAME FISICO
+- Pressione: 120/40mmHG FC: 70lpm T: 37"2 oC. Eupneico a riposo
+- Nessuna adenopatia nei principali gruppi di linfonodi.
+- Colore normale. Non idratato. Nessun ittero.
+- Bocca settica. Faringe normale senza essudato.
+- Nessun crepitio, nessun segno di infiammazione sulla pila del pacemaker.
+- AC: Ritmico. Murmure da rigurgito mitrale e click valvolare nel murmure aortico.
+- AP: suoni respiratori normali.
+- Addome: morbido, tenero, non dolente, nessuna massa palpabile o visceromegalia.
+- Estremità senza edema, con pulsazioni palpabili, nessun segno di DVT.
+- Nessuna lesione cutanea o perdita di continuità della pelle.
+- Cosciente, orientato, cooperativo, parla normalmente, mobilita tutti e 4 gli arti, nervi cranici normali. Segni meningei negativi.
+
+ESPLORAZIONI COMPLEMENTARI
+- ECG: ritmo pacemaker a 70lpm, con stimolazione ventricolare, blocco di branca sinistra.
+- Radiografia del torace: cardiomegalia globale, segni di LVI. Pacemaker con elettrodi in AD e VD.
+- Biochimica: glucosio 168 mg/dl Urea: 78 mg/dl Creatinina: 1"65 mg/dl Ck: 48 ui/l
+- Sodio 131 CRP: 134 FG: 41 Fibrinogeno: 667
+- Gas sanguigni
+- Ematologia: leucociti: 15"2x10e9/lneutrofili 11"9x10e9/l
+- Brucellamelitensisrosa de bengala: negativo
+- Anormale e sedimento: normale.
+
+SOSPETTO DIAGNOSTICO: ENDOCARDITE BATTERICA.
+
+PIANO
+- Colture del sangue
+- Esame del sangue completo
+- Ecocardiogramma
+- Consultazione allergologica
+
+
+COLTURE DEL SANGUE
+- Pallone anaerobico -> Enterococcus faecalis
+- Sensibile alla penicillina
+- Resistente a :
+- Quinupristina/dalfopristina
+- Cefuroxima-axetil
+- Cefuroxime
+- Trimetoprim/sulfametossazolo
+- Clindamicina
+- Eritromicina
+
+ECOCARDIOGRAMMA
+- Impossibilità di eseguire un ecocardiogramma TE per mancanza di collaborazione.
+- Esecuzione dell'ecocardiogramma TT -> Lieve dilatazione atriale sinistra, il resto delle camere di dimensioni normali, con EF conservato. Presenza di ipertrofia concentrica del LV. Vegetazione di 12x7mm a livello del segmento atriale del foglietto mitrale posteriore senza ripercussioni emodinamiche. Protesi aortica biologica non funzionante, senza segni suggestivi di coinvolgimento endocardico.
+
+CONCLUSIONI:
+Endocarditismo. Colture ematiche positive + conferma ecocardiografica.
+
+PET CT SCAN
+- A causa del TTE limitato
+- RISULTATO: aumento focale dell'attività sulla valvola mitrale. Mentre nella protesi biologica della valvola aortica non si osserva alcun assorbimento metabolico focale, suggerendo l'infezione nello studio attuale.
+
+ALLERGOLOGIA INTERCONSULTO
+- Inizialmente: allergia ai beta-lattami, trattamento con VANCOMICIN/GENTAMYCIN Dopo la consultazione: nessuna allergia -> AMPICYLINE 2G/4H + CEFTRIAXONE 2G/12H
+
+TRATTAMENTO
+- Infezione sulla valvola nativa -> 4 settimane di trattamento
+- Infezione in paziente complesso, con valvola protesica e pacemaker -> estendiamo il trattamento a 6 settimane.

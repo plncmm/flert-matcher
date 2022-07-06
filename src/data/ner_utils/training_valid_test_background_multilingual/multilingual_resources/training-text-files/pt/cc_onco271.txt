@@ -1,0 +1,26 @@
+Anamnese
+O paciente é um homem de 47 anos de idade sem antecedentes médicos ou cirúrgicos de interesse. Não toma qualquer medicação. É um nativo de Londres e trabalha como professor de inglês. O seu pai morreu de amiloidose pulmonar aos 74 anos de idade e o seu pai de cancro renal aos 70 anos de idade.
+Em 2010 consultou para um aumento progressivo da circunferência abdominal ao longo de 12 meses de evolução, associado à dor epigástrica e a uma sensação de plenitude precoce depois de comer. Ela tinha perdido 15 quilos de peso nos últimos 6 meses.
+
+Exame físico
+O exame físico revelou um índice de Karnosky de 90%, bom estado geral e uma auscultação cardiorrespiratória sem precedentes. A descoberta mais notável foi uma semiologia de ascite moderada.
+
+Testes adicionais
+Foi então solicitado um hemograma, bioquímica e hemostasia e os únicos resultados notáveis foram a elevação da desidrogenase láctica (600 U/L) e proteína quinase de creatina (280 U/L). Foi também realizada a serologia para vírus hepatotrópicos (B e C) e vírus da imunodeficiência humana, ambos negativos, e a análise do fluido ascítico foi positiva para a celularidade maligna.
+Foi realizada uma tomografia axial computorizada torácica, abdominal e pélvica (CT-PAT), mostrando uma grande massa cística cobrindo uma grande parte do abdómen, bem como uma grande quantidade de líquido intraperitoneal sugestivo de ascite, para além de múltiplos implantes peritoneais. A tomografia por emissão de positrões foi concluída, mostrando a grande massa abdominal conhecida sem actividade metabólica.
+
+Diagnóstico
+Finalmente, foi feita uma biópsia da lesão com agulha fina e diagnosticado um tumor de células fusiformes. A imuno-histoquímica mostrou positividade para vimentina, actina, CD-117, CD-34 e em isolamento para S-100. Negativo para desmin. O índice de proliferação celular avaliado por Ki-67 foi de 5%. Por conseguinte, o perfil imuno-histoquímico sugeriu um diagnóstico de tumor estromal gastrointestinal (GIST).
+
+Tratamento
+Devido ao grande volume do tumor, foi decidido iniciar o tratamento neoadjuvante com imatinib 400 miligramas por dia e avaliação adicional aos 2 meses para possíveis salvamentos cirúrgicos. A tolerância inicial ao imatinibe era adequada, apresentava apenas edema ligeiro das pálpebras, mas as ascite não diminuíram e exigiam a colocação de um dreno peritoneal permanente devido à paracentese repetida exigida.
+
+Evolução
+Dois meses após o tratamento, o paciente permaneceu com abundante débito de fluido ascítico da drenagem. Foi realizado um TAC abdominal para avaliação, onde a grande massa peritoneal persistiu, com uma redução mínima da componente cística e uma diminuição do envolvimento peritoneal, o que significou uma má resposta tanto clínica como radiológica. Com isto, a comissão multidisciplinar de Cirurgia Digestiva decidiu realizar uma laparotomia exploratória, onde foi observada a grande massa medindo 50x30 centímetros (cm), ocupando todo o abdómen, com a sua origem na maior curvatura gástrica. A ressecção radical da massa foi realizada durante o mesmo procedimento cirúrgico.
+A biopsia cirúrgica mostrou um tumor de alto risco de GIST com um diâmetro máximo de 21 cm.
+As áreas de necrose eram de 30% e o índice de proliferação celular com Ki67 era de 3%.
+O seguimento pós-operatório do TAC-CT mostrou o desaparecimento da massa peritoneal, mas aumentou a densidade de gordura intraperitoneal e as gotículas paracólicas em relação à carcinomatose peritoneal.
+Portanto, havia uma indicação clara de tratamento com pseudoadjuvant imatinib, devido ao grande tamanho, apesar da localização gástrica e da baixa taxa de mitose. Dada a fraca resposta inicial e a doença persistente, decidimos iniciar o tratamento com imatinib 800 mg.
+Após a cirurgia e com o início do tratamento em doses elevadas, o paciente experimentou uma grande melhoria do ponto de vista clínico. As ascite e dor epigástrica desapareceram completamente e ele começou a ganhar peso progressivamente. A tolerância ao tratamento em doses mais elevadas foi também excelente. A única incidência notória foi o aparecimento de edema das pálpebras. De um ponto de vista analítico, o perfil da tiróide permaneceu estável.
+Após 16 semanas de tratamento, a tomografia computadorizada mostrou o desaparecimento completo do envolvimento peritoneal, sem qualquer evidência de doença no teste de imagem. Continuámos o tratamento com uma tolerância semelhante à anterior. Devido à natureza atípica do quadro, solicitámos o estatuto mutacional. Os resultados foram uma mutação c-kit negativa e uma mutação PDGFR-A exon 18 positiva, sendo a mutação pD842V.
+Actualmente, após 54 semanas de imatinibe, ela persiste sem provas de doença.

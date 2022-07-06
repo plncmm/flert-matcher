@@ -1,0 +1,40 @@
+Anamnesis
+Initially, the patient tolerated the treatment well. After three weeks, she began to experience general malaise, pain in the perianal area, nausea and decreased appetite, so symptomatic treatment and food supplements were started. Despite these measures, the patient presented progressive weight loss, as well as vomiting, oral intolerance and abundant yellowish liquid stools, so she was hospitalised with parenteral nutrition, water and electrolyte supplementation and discontinuation of capecitabine (although she did complete treatment with RT up to 50.4 Gy). The patient evolved favourably, remaining for a total of 15 days, with improvement of the enteritis, and reintroducing the oral diet with good tolerance.
+Unfortunately, the patient was readmitted two days later, reporting intense anorexia, with hardly any food or liquid intake, asthenia, a feeling of dystrophy, cough with some phlegm without clear pain or dyspnoea.
+
+Physical examination
+Poor general condition. Orientation in the three spheres. Tendency to sleep. Blood pressure 90/58 mm Hg. Heart rate 117 bpm. Respiratory rate: 15 rpm. SatO2: 89 % on room air. Afebrile.
+Auscultation: tachycardic, with hypoventilation in the right base, with scattered rhonchi. Abdomen not painful, with noises of progression. Oedema in the lower extremities up to the knees.
+Desquamation of skin on palms and soles.
+
+Complementary tests
+Initially, the following tests are performed
+"Blood count and biochemistry: haemoglobin (Hb) 10.4 g/dl, leukocytes 6. 400 cells/mm3, lymphocytes 200 cells/mm3, creatinine 0.48, sodium 128 mmol/l, potassium 2.9 mmol/l, chlorine 91 mmol/l, calcium 6 mg/dl, albumin 1.5 g/dl (VN 3.5-5.2), protein 4 g/dl (VN 6.4-8.3), protein-corrected calcium 7.5 mg/dl, procalcitonin (PCT) 6 ng/ml, C-reactive protein (CRP) > 320 mg/l, lactate 39.3 mg/dl.
+"Chest X-ray: condensation was observed in the right base to midfield.
+Antibiotic treatment with levofloxacin and aztreonam, fluid therapy, and nasogastric tube nutrition was started. Over the next few days, the patient became very asthenic and generally unwell, with persistent diarrhoeal stools (grade IV) and oedema progressing up to the upper limbs. Linezolid was added to the treatment and a chest computed tomography (CT) scan was performed:
+"Chest CT scan: findings compatible with necrotising pneumonia in the right lower lobe, bilateral effusion predominantly right, with several bilateral pulmonary atelectasis.
+With this, clindamycin is added to the treatment, and diagnostic thoracentesis is performed, which is sent to microbiology:
+"Pleural fluid: culture negative. Gram stain: moderate number of polymorphonuclear leukocytes.
+The patient continues to present poor general condition, with asthenia, episodes of dyspnoea and marked distress. She had abundant diarrhoeic stools, which worsened her fragility, erythema and palmo-plantar desquamation (grade IV), cheilitis, stomatitis (grade IV), and oedema evolved into anasarca. Other complementary tests are performed:
+"Clostridium difficile toxin and virus nucleic acid detection in stool: negative.
+"Chest X-ray: worsening of the pneumonia, with increased bilateral pleural effusion.
+"Haemogram and biochemistry: Hb 10.1 g/dl, leukocytes 8,000 cells/mm3 , albumin 1.4 g/dl, protein 3.9 g/dl, CRP 124 mg/l.
+After two weeks, the patient expressed a desire to rest, she did not want any more suffering or active treatment. A morphine infusion was started for symptomatic control of dyspnoea and costal pain secondary to pneumonia, which left the patient calm and pain-free. Levofloxacin and aztreonam were maintained.
+Unexpectedly, she showed clinical improvement two days later; somewhat more lively, with a good night's rest, and no bowel movements in the last 24 hours. She persists with anasarca, and continues with occasional dyspnoea, glossitis, mucositis of the hard palate, and cheilitis. In this situation, the plan was reconsidered, and parenteral nutrition was restarted.
+Dihydropyrimidine dehydrogenase (DPD) deficiency was suspected and a genetic study was requested. Chest CT scan was repeated:
+"Chest CT scan: increased pleural effusion, with greater atelectasis component in right middle and upper lobes, with persistence of findings compatible with necrotising pneumonia.
+A chest drainage tube was placed, with 470 ml of pleural fluid with a haematic appearance and biochemical characteristics of transudate, which was removed after three days due to cessation of leakage.
+As the days went by, the patient showed progressive clinical improvement, with a decrease in dyspnoea and oedema in the extremities. New analytical control tests and genetic results:
+"Haemogram and biochemistry: Hb 8 g/dl, leukocytes 12,300 cells/mm3, lymphocytes 1,100 cells/mm3, Proteins 5.1 g/dl, CRP 97.8 mg/l.
+"Determination of DPD (dihydropyrimidine dehydrogenase) polymorphisms: there is a mutation by substitution of a guanine nucleotide for an adenine nucleotide in the first nucleotide of intron 14 of the DPD gene, which is associated with increased toxicity to fluoropyrimidines.
+
+Diagnosis
+This is therefore a patient with several simultaneous and interrelated pathologies. Given her T3c cN1 cM0 stenosing adenocarcinoma of the middle rectum, neoadjuvant treatment with RT and capecitabine was started. She developed severe capecitabine toxicity secondary to a mutation in the dihydropyrimidine dehydrogenase gene. In this context, he developed severe malnutrition, which aggravated his infectious complication: nosocomial necrotising pneumonia.
+
+Treatment
+On the second admission, the malnutrition was initially treated with a nasogastric tube, but was later replaced by parenteral nutrition, with improvement. In turn, fluid therapy was administered to correct electrolyte disturbances and antibiotherapy for pneumonia, receiving levofloxacin and aztreonam (a total of 28 days), linezolid (7 days) and clindamycin (6 days). A pleural drainage tube was also placed with an output of 470 ml of pleural fluid.
+
+Evolution
+Despite the patient's fragility, and further manoeuvres having been ruled out, the clinical course took an unexpected turn towards a slow and progressive recovery.
+After four weeks of admission, nutritional parameters improved to albumin 3.2 g/dl and protein 6.6 g/dl, oedema, oropharyngeal lesions and diarrhoea decreased, pulmonary auscultation improved, and the sensation of dyspnoea disappeared. She was started on an oral diet, which was well tolerated, and parenteral nutrition was withdrawn after the fifth week of admission.
+In view of this improvement, the patient was transferred to a long-stay hospital for convalescence and rehabilitation, where she remained for three weeks, with good functional recovery, and then continued with her surgery.

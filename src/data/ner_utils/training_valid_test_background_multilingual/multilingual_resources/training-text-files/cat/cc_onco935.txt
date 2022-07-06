@@ -1,0 +1,34 @@
+Anamnesi
+Dona de 53 anys, natural de l'Equador, exfumadora de 15 cigarrets/dia durant 15 anys, amb un IMC de 25 i dislipèmia. Colecistectomizada per còlics biliars. No realitza tractament habitual (tom atorvastatina durant uns mesos, abandonant el tractament per decisió pròpia). 4 fills sans, sense antecedents familiars oncològics d'interès.
+Va consultar al febrer de 2015 per esteatorrea i pèrdua de 10 kg de pes en un any. Es va iniciar estudi de malabsorció i colonoscòpia sense troballes. En TC es va objectivar esteatosis hepàtica lleu i imatge quística d'1 cm al capdavant de pàncrees. Es va completar estudi amb colangiorresonancia i RM de pàncrees, amb massa pancreàtica de 3 cm sospitosa de tumoral. Per a confirmar el diagnòstic, es va realitzar ecoendoscopia alta, objectivant-se massa mal definida de 3 cm, les biòpsies del qual que no van ser representatives. Per la sospita de tumor pancreàtic, es va intervenir al desembre de 2015 mitjançant duodenopancreatectomía cefàlica programada, amb resecció completa i anatomia patològica de adenocarcinoma infiltrante de pàncrees de 1,3 cm associat a neoplàsia mucinosa intraductal papil·lar amb displàsia d'alt grau, infiltració de teixit adipós peripancreático, vores quirúrgiques lliures i absència de metàstasi en 31 ganglis aïllats, estadi pT3, N0, Mx.
+L'estudi d'extensió va ser negatiu, i al gener 2016 va començar adyuvancia amb gemcitabina, rebent 6 cicles fins a juny de 2016, amb bona tolerància.
+Al juliol 2016 consulta per dolor en hipocondrio dret i ascites.
+
+Exploració física
+A la seva arribada a Urgències:
+» Constants estables amb tendència a la taquicàrdia. TA 109/82 mm Hg, FC 105 lpm, SpO2 97% basal. Afebril. Icterícia mucocutánea.
+» ACP: crepitantes fins bibasales. MVC.
+» ABD: molt distès, sense ascites en la tensió. Dolor en HCD i epigastrio a la palpació profunda, Murphy negatiu. Sense Blumberg. Puny percussió renal bilateral negatiu.
+» MMII: edema amb fòvea fins a arrel de membres, sense signes TVP, polsos presents.
+
+Proves complementàries
+Analíticament destaca hiperbilirrubinemia, amb bilirubina total 3,3 mg/dl (en la seva majoria directa), amb colèstasi (GGT 220 O/L) i normalitat d'enzims de citólisis (GPT 22 O/l, GOT 43 O/l), al costat d'anèmia macrocítica (Hb 8,8 g/dl amb VCM 103 fL) i coagulopatía de nova aparició (activitat protrombina 32% i APTT 55,7 segons).
+Ingressa per a estudi i s'estableix diagnòstic diferencial:
+» Es descarta etiologia infecciosa: líquid ascítico sense dades de peritonitis. Es descarten virus hepatitis A (IgM negatiu, IgG positiu), hepatitis B (HBs Ag negatiu, HBcIgG negatiu), hepatitis C (VHC Ac negatiu), hepatitis E (IgG, IgM i PCR negatius), virus de Epstein-Barr (IgM negatiu), citomegalovirus (IgM positiu, PCR < 150 còpies), VIH (blego negatiu).
+» Es descarta etiologia enólica per la història clínica i l'absència de dades clínic-analítiques que facin sospitar aquesta etiologia.
+» Es descarta etiologia tumoral: citologia de líquid ascítico negativa per a cèl·lules malignes. Es realitzen TC i RM sense objectivar recidiva tumoral, mostrant en canvi "possible toxicitat hepàtica sobre esteatosis greu amb fracció de greix de 43,5%". Es realitza PET amb única troballa de "captació patològica hepàtica".
+» Es descarta etiologia vascular (Budd-Chiari, trombosi) per absència de troballes en les proves d'imatge i hematològica amb única troballa d'augment policlonal de IgG en relació a cirrosi.
+» Es descarta etiologia autoimmune: 2 mostres negatives per a anticossos antimitocondrials, anti-musculo llis, anti-LKM. Antinuclears (ENA, DNA) positius 1/80 de manera granular i poc significativa.
+» Es descarten causes genètiques: dèficit d'alfa-1-antitripsina per normalitat de nivells.
+» Inicialment se sospita malaltia de Wilson per ceruloplasmina < 10U/l, normalitzant-se en segona mostra i amb coure en orina de 24 h normal (i absència de dipòsits de coure en biòpsia hepàtica).
+» Es descarten altres causes poc freqüents i menys probables: hemocromatosis (funció hepàtica, ferritina i saturació de transferrina normals prèvies a l'inici de tractament quimioteràpic), celiaquia, malalties granulomatoses, insuficiència cardíaca (ecocardiograma amb funció ventricular normal).
+» Fàrmacs: una vegada descartades altres causes probables, es van analitzar els fàrmacs rebuts en els últims 6 mesos (ciprofloxacino per infecció urinària durant 10 dies durant el tractament amb gemcitabina, atorvastatina durant poques setmanes que la pacient va abandonar per decisió pròpia, gemcitabina).
+
+Diagnòstic
+Amb la sospita de esteatohepatitis aguda no alcohòlica (NASH) es va realitzar biòpsia hepàtica: necrosi hepàtica submasiva amb balonización dels hepatòcits, altament suggestiu de NASH de probable causa farmacològica. Atès que, a excepció de la gemcitabina, els altres fàrmacs van ser administrats en un curt espai de temps, aquesta complicació es va atribuir a la gemcitabina, notificant-se a l'agència del medicament.
+
+Tractament
+Durant l'ingrés, la pacient va rebre tractament de suport, presentant diversos episodis d'encefalopatia hepàtica que es van manejar conservadoramente, així com pneumònia nosocomial que va precisar antibioterapia endovenosa i oxigenoteràpia, amb millora progressiva.
+
+Evolució
+Després de 3 mesos d'ingrés, la pacient va ser donada d'alta a l'octubre de 2016 amb millora clínica i continua seguiment en Oncologia Mèdica i Digestiu, sense nous episodis de descompensació i sense dades de recidiva tumoral fins avui.

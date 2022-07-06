@@ -1,0 +1,26 @@
+Anamnesis
+O paciente acode a Urxencias por exacerbación da súa dor abdominal habitual, localizado en epigastrio e irradiado a ambos hipocondrios, xordo e de forte intensidade, de 8 sobre 10, que non cede con analgesia de primeiro chanzo, sen outros síntomas asociados.
+
+Exploración física
+Á súa chegada a Urxencias, destaca unha tensión arterial de 200/110 mm Hg. A nivel abdominal, presenta dor á palpación en hemiabdomen dereito, sen signos de irritación peritoneal. Resto de exploración, incluída a neurológica, anodina.
+
+Probas complementarias
+En Urxencias se obxectiva un empeoramiento do seu patrón habitual de colestasis (bilirrubina de 1,67, FA 406, GGT 739), aumento das enzimas de citólisis (GOT 766, GPT 694) e aumento de troponinas 0,7 e coagulopatía (INR 1,37 e fibrinógeno de 244).
+Dada a alteración analítica e a dor abdominal, realízase unha TC de abdomen onde se observan infartos renales bilaterales e trombosis dunha rama da arteria hepática, con áreas subsecuentes isquémicas.
+Debido á presenza de coagulopatía e infartos viscerales, iníciase anticoagulación con heparina de baixo peso molecular (HBPM). Así mesmo, dada a alteración do perfil hepático, solicítase estudo de virus hepatotropos (VHB, VHC, CMV e VEB) que resulta ser negativo.
+O paciente ingresa en planta de Oncología Médica para estudo.
+
+Diagnóstico
+Endocarditis marántica (EM) con afectación embólica sistémica (esplénica, hepática, renal e do sistema nervioso central), manifestada por dor abdominal, episodio de amnesia global transitoria, e alteración do nivel de conciencia de forma paroxística en paciente con carcinoma ductal infiltrante de páncreas mucosecretor de alto grado estadio IV por afectación hepática.
+
+Tratamento
+HPBM para a EM.
+
+Evolución
+Realízase ecoendoscopia con toma de biopsia para filiación do proceso tumoral, que resulta ser un carcinoma ductal infiltrante de páncreas mucosecretor de alto grado estadio IV por afectación hepática.
+Durante o ingreso, o paciente presenta un episodio de mareo, sudoración e sensación de perda de forza da man esquerda, con elevación de e con ECG normal. Solicítase unha valoración cardiológica urxente que inclúe unha realización de ecocardiograma transtorácico (ETT) na que se obxectiva unha imaxe dubidosa de vegetación na válvula aórtica e unha insuficiencia aórtica moderada. Decídese ampliar o estudo con ecocardiograma transesofágico (ETE). Finalmente, o ETE mostra unha imaxe compatible con endocarditis.
+Tras este achado, tómanse cultivos microbiológicos e iníciase antibioterapia empírica con vancomicina, ampicilina e gentamicina. Os hemocultivos resultaron estériles e o paciente continuou sen presentar febre. Realízanse ETT e ETE de control, onde persiste unha masa adherida na cara ventricular do veo coronario dereito que impresionaba de aumentar de tamaño. Ampliouse o estudo de microorganismos causantes de endocarditis con hemocultivos negativos: serología de febre Q. Brucella e Chlamydia pneumoniae; e PCR de Bartonella, Borrelia, Coxiella e Rickettsia. Todos eles resultaron negativos.
+Dada a asociación entre episodios de alteración do nivel de conciencia paroxísticos (que adoitaban coincidir con momentos nos que se suspendía a HBPM puntualmente) e imaxe de endocarditis, solicítase TC craneal, resultando esta normal.
+Nese momento, tívose en consideración un episodio de amnesia global transitoria que había ter lugar 4 meses atrás e que, a priori, non se relacionou coa enfermidade tumoral, posto que devandito síntoma precedeu á clínica constitucional. Visto en perspectiva, non podía descartarse que devandito suceso tivese relación co cadro de EM actual, polo que se pediu unha resonancia magnética craneal onde se observaron infartos supra e infratentoriales de perfil lacunar e distinto tempo de evolución, que suxerían orixe tromboembólico cardiaco.
+Lamentablemente, o perfil hepático do paciente comezou a empeorar de forma progresiva. Isto, asociado a un marcado empeoramiento clínico, fixo que o paciente non fose candidato a tratamento con quimioterapia e que se optase por control sintomático exclusivo.
+

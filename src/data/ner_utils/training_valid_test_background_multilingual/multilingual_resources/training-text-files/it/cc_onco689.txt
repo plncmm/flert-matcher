@@ -1,0 +1,23 @@
+Anamnesi
+Donna di 36 anni, fumatrice attiva da 5 pacchetti di anni, immigrata: esposta all'incidente di Chernobyl. Consultazione nell'aprile 2017 per dispnea improvvisa e dolore toracico pleuritico destro.
+
+Esame fisico
+All'esame fisico, spicca un ECOG 1, e il resto senza altri risultati.
+
+Test complementari
+I test di laboratorio non hanno mostrato risultati rilevanti.
+Radiografia del torace: lesione nodulare cavitata nel LID.
+Angiografia CT del torace: PET bilaterale. Massa cavitata nel segmento apicale del LID che misura 3,2 cm. Adenopatie paratracheali bilaterali, in finestra aortopolmonare e adenopatie ilari bilaterali.
+Broncoscopia: normale con spazzolatura e BAS negativo per la malignità.
+PET/CT: lesione ipermetabolica nella LID. Adenopatie ipermetaboliche paratracheali inferiori destra e sinistra, finestra aortopolmonare bilaterale, subcarinica e ilare. Linfadenopatie multiple retroperitoneali ipermetaboliche.
+La biopsia Tru-cut della massa polmonare ha mostrato un'infiltrazione di adenocarcinoma di modello micropapillare TTF1 +++, PD-L1 (Ac 22C3) negativo, con forte espressione immunoistochimica di ALK coerente con l'espressione della proteina di traslocazione.
+EGFR nativo.
+
+Diagnosi
+Viene quindi diagnosticato come un adenocarcinoma polmonare cT2aN3M1c (ottava edizione TNM) che porta la traslocazione ALK.
+
+Trattamento
+Il trattamento di prima linea con crizotinib è stato iniziato a luglio 2017 a una dose giornaliera di 250 mg ogni 12 ore. La risposta parziale è stata confermata sulla TAC toracica addominale secondo i criteri RECIST 1.1 e la risposta metabolica completa sulla PET/CT a 8 settimane.
+
+Evoluzione
+Dall'inizio del trattamento, la paziente ha presentato una nausea di grado 1-2 associata, alla settimana 15, a un'emesi di grado 1. Nel novembre 2017, dopo 19 settimane, si è consultata per una disfagia progressiva di 15 giorni accompagnata da un dolore toracico centrale. È stata eseguita una gastroscopia urgente, che ha rivelato una diffusa mucosa esofagea grigiastra con aree in rilievo a vari livelli. La biopsia esofagea ha mostrato un epitelio esofageo con distruzione dello strato basale, senza funghi o inclusioni virali. Con la diagnosi di esofagite G3 secondaria al trattamento con crizotinib, il trattamento è stato sospeso e il paziente è stato ricoverato in ospedale per cure di supporto. L'evoluzione è stata favorevole, con un miglioramento sintomatico il quarto giorno; tuttavia, il decimo giorno c'è stato un peggioramento della sintomatologia consistente in un dolore addominale a livello epigastrico, che non ha risposto al trattamento analgesico nonostante il progressivo aumento della dose di oppioidi prescritti. L'esame fisico era irrilevante.

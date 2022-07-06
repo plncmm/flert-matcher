@@ -1,0 +1,32 @@
+Anamneză
+Pacient în vârstă de 66 de ani, cu următorul istoric personal: fără alergii cunoscute. Obiceiuri toxice: fost fumător până acum 14 ani, IPA 30, fost băutor excesiv de peste 20 de ani, în prezent bea un pahar de vin pe zi; nu călătorește, în prezent nu are contact cu animalele, vânător, mănâncă ceea ce a vânat, dar sub control, hipertensiune arterială, hipercolesterolemie, hipergamaglobulinemie policlonală, osteoartroză, artrită gutoasă, episoade de lombosciatică, operație de osteosinteză a membrului inferior stâng (accident de muncă). Tratamentul obișnuit: fluvastatină, diacereină, omeprazol, enalapril + hidroclorotiazidă. Nivel de bază: ARVD. Nu există tulburări cognitive. Deplasarea autonomă. Pensionar, angajat la o fermă de pui. Istoricul familiei: fără interes. Pacienta a fost adusă la Urgențe din cauza unei manifestări clinice observate de familie în aceeași zi dimineața, constând în tulburări de vorbire, cu limbaj incoerent și tulburări de înțelegere. În plus, a prezentat dezorientare în timp și spațiu, deviere a colțului gurii spre stânga și tulburări de mers cu deviere laterală nesistematică. În noaptea precedentă a prezentat mai multe vărsături alimentare și scaune moi fără produse patologice. Nu are febră. Nici o altă focalizare neurologică în anamneză.
+În aceeași zi fusese evaluat de medicul său de familie, care a descris în raport că pacientul avea un mers ataxic și o deviere a comisurii orale spre stânga, fără semne meningeale, și l-a trimis la serviciul de urgență pentru o examinare suplimentară.
+
+Examinarea fizică
+Examenul neurologic în serviciul de urgență: conștient, dezorientat în timp. Pupilele sunt izocorice și reactive în mod normal. Nistagmus orizontal. Fără rigiditate nucală, fără semne meningeale, ataxie a mersului cu lateropulsie mai ales spre dreapta. Testul Romberg pozitiv. Restul examinării fără constatări.
+La internarea în secția de neurologie a doua zi: alert. Conștient. Se supune comenzilor axiale. Limbaj cu puțină fluență și cuvinte izolate. Ușor de intoxicat cu comanda anterioară și cu comenzi în doi pași. Nominalizează 1/3. Nu se repetă. Se supune comenzilor prin imitație după ce sunt repetate de mai multe ori. Dezorientat în timp și spațiu. Perseverență. Nu există defecte campimetrice datorate reflexului de amenințare. FO: mișcări necooperante, continue, compatibile cu nistagmusul. Elevii sunt izocorici și nici mai mult nici mai puțin activi. EOM: cooperare inadecvată, fără oftalmopareză. O ușoară pareză facială centrală stângă. Nici o claudicație în Barré sau Mingazzini. Sensibilitate tactoalgezică: se retrage ca răspuns la stimulii nociceptivi. REM +/++++ și simetrice. RCP: flexor bilateral. Imposibilitatea de a se menține în poziție șezândă și în picioare. Coordonare: nu există dismetrie deget-naz. Nu există semne meningeale. Tensiunea arterială 160/90 mmHg, frecvența cardiacă 82 bpm, saturația bazală a O2 90%, eupneic, afebril.
+Examenul somatic: nu există leziuni cutanate. Cap și gât: nu există constatări. Auscultația cardiacă: ritmică, fără murmure. Auscultația pulmonară: murmur vezicular conservat, crepitații bibasale mai intense în baza dreaptă, rezonanțe diseminate. Abdomen: nu a fost găsit nimic. Extremități: deviație osoasă la nivelul supramaleolar extern stâng post operatorie. Odihnă normală.
+
+Teste complementare
+- Hemogramă: normală. Coagulare: deficit de ATIII (68%). Proteinograma normală. IgG 2211 și IgA 533. Beta-2-microglobulină: 1559. Markerii tumorali negativi. Studiul autoimunității normale. Hemocultura și urocultură: negative. Serologia sângelui: Brucella, HIV hepatita B și C și lues negativ. LCR: celule: 5 globule roșii: 1 glucoză: 84 proteine: 183 acid lactic: 2,8 alb: 102,8 adal: 4 grame.
+- LCR: nu s-au observat microorganisme. Cultură: ciuperci și micobacterii sterile. PCR virusul herpetic: nu a fost detectat nici HSV, nici VZV.
+- Electrocardiogramă (ECG): ritm sinusal la 67 bpm, axa electrică normală, fără alterări de repolarizare.
+- Radiografie toracică postero-anterioară: rotație, CTI crescută, fără vizualizare a sinusului costo-frenic stâng, cu infiltrat bazal stâng.
+- Ecocardiografie: cavități cardiace de dimensiuni normale. Funcția biventriculară păstrată. Nu există valvulopatii semnificative. Nu există imagini anormale.
+- Ecografie abdominală completă: normală.
+- Gastroscopie: limfangiectazie. Cavitatea gastrică poate fi evaluată parțial în ceea ce privește conținutul alimentar.
+- Electroencefalograma (EEG): activitate cerebrală încetinită pentru vârsta pacientului.
+- Tomografie computerizată (CT) cerebrală de urgență: nu s-a observat nicio hemoragie acută intra sau extra-axială în prezent. Linia mediană păstrată. Sulci, cisterne și ventricule simetrice. Nicio alterare parenchimatoasă evaluabilă.
+- IRM cerebral: în FLAIR și T2, se observă zone extinse de alterare a semnalului la nivelul trunchiului cerebral, girusurilor subcallosale și regiunilor hipocampale bilateral, periferic la ambii nuclei lenticulari și foarte discret în talamusul stâng. RMN cerebral în secțiune axială FLAIR, care arată hiperintensitate periferică la ambii nuclei lenticulari.
+
+Diagnostic
+- Encefalopatia Wernicke-Korsakoff.
+- Infecția tractului respirator inferior.
+- Deficitul de antitrombină III.
+- Hipergamaglobulinemie policlonală.
+
+Tratament
+Tiamină intravenoasă 300 mg/8 h.
+
+Evoluție
+Pe lângă tratamentul cu tiamină intravenoasă, inițial a fost inițiat un tratament cu aciclovir și ampicilină pentru a se proteja împotriva unei probabile neuroinfecții cu virusul herpetic și Listeria. După efectuarea unui RMN cerebral, care a fost compatibil cu diagnosticul de encefalopatie Wernicke, și având în vedere rezultatele negative ale culturilor și PCR pentru virusul neurotropic, tratamentul a fost continuat doar cu tiamină intravenoasă și ulterior pe cale orală. Ca o complicație în timpul internării, a prezentat o infecție a tractului respirator inferior care a cedat după tratamentul cu antibiotice, bronhodilatatoare și mucolitice. IRM-ul cerebral de control 8 zile mai târziu a arătat o îmbunătățire radiologică clară, cu persistența doar a unei ușoare creșteri a semnalului FLAIR în hipocampus. Examenul neurologic la externare a arătat doar un tandem instabil, restul examenului fiind normal. Revizuit la 3 luni, pacientul a rămas asimptomatic, cu un examen neurologic normal.

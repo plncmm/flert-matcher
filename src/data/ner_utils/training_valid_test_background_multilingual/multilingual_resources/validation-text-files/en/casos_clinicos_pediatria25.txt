@@ -1,0 +1,51 @@
+REASON FOR CONSULTATION
+- A 6-year-old boy consulted on 13-03-20 in the hospital emergency department for a continuous cough of 3 days' evolution and the finding of an infiltrate on chest X-ray requested by his private paediatrician.
+- He had been treated with salbutamol for 24 hours with no improvement.
+- No fever or other accompanying symptoms.
+- No history of contact with COVID-19 cases or epidemic environment at home.
+
+PERSONAL HISTORY
+- Newborn at term. Normal neonatal period.
+- Fetal detection of right pyelic ectasia. Follow-up by paediatric nephrology with diagnosis of right megaureter.
+- Virus-induced asthma being treated with salbutamol on demand.
+
+PHYSICAL EXAMINATION
+Ta: 37oC Sat.O2: 98% FR: 24 r.p.m FC:90 l.p.m
+- Good general condition. Normal skin and mucous membrane colouring. No exanthema. No signs of respiratory distress.
+- ACR: Normal. Good bilateral ventilation. No pathological sounds.
+- Abdomen: Normal.
+- ENT: Erythematous oropharynx without exudates.
+
+COMPLEMENTARY EXPLORATIONS
+Chest X-ray (reported by radiologist):
+Left retrocardiac infiltrate with increased air bronchogram. Associated bilateral hilar interstitial pattern. Free sinuses.
+
+ANALYTICS:
+COMPLEMENTARY EXPLORATIONS
+ - Haemogram: Hb 13.8, leucocytes 9880 (N 4841, L 3062).
+- Biochemistry: Glucose 101, GPT 11, CK 103, - CRP:14,7mg/L
+- Venous blood gas: PH 7.35, PCO2 36.5
+In view of the radiology compatible with a possible COVID-19 case, it was decided to request the following from the ED:
+PCR SARS-CoV-2: POSITIVE
+
+EVOLUTION
+- He remained afebrile and asymptomatic, maintaining adequate O2 saturation without requiring oxygen therapy.
+- After a positive result for SARS-CoV-2 PCR, and given the scarce symptomatology, discharge was decided on the same day of admission.
+- After explaining the isolation measures, home monitoring was carried out.
+
+DIAGNOSIS
+- Respiratory infection by SARS-CoV-2 with mild symptoms.
+- Cough, asthmatic equivalent.
+
+TREATMENT
+- Salbutamol with spacer chamber on demand.
+- Paracetamol, if fever.
+- Alarm guidelines and information sheet with recommendations are given.
+- Insist on home isolation.
+- Telephone monitoring of the evolution of the disease by the primary care paediatrician.
+
+FOLLOW-UP
+- Telephone follow-up by her primary care paediatrician was carried out, and no in-person consultation or complementary tests were required, given the good evolution of the process.
+- She did not present fever or other symptoms in the following weeks.
+- There were no cases of COVID-19 in the rest of the family members, either before or after this case.
+- The child was asked about possible contact with a case but was not identified, with the school being attributed as the most likely site of infection.

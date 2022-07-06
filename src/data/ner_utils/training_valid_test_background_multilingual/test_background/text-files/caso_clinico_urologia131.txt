@@ -1,0 +1,28 @@
+Anamnesis
+Se trata de un varón de 40 años de edad que acude a nuestras consultas externas remitido desde Dermatología por el hallazgo en una ecografía de control de una masa paravesical. Antecedentes médicos de interés: hernia de hiato, hemorragia digestiva alta (EDA) con ingreso hospitalario en octubre de 2012 y erosión gástrica. En control por Dermatología por neurofibromatosis tipo I, con varias intervenciones para exéresis de neurofibromas con anestesia local. El paciente estaba asintomático desde el punto de vista urológico.
+
+Examen físico
+A la exploración física no hay masas abdominales palpables, los genitales externos son normales, al igual que el tacto rectal.
+
+Pruebas complementarias
+• Ecografía: se aprecia una masa de 70 x 68 mm, supravesical, sólida, con abundante flujo Doppler, de ecogenicidad heterogénea, lobulada y de bordes bien definidos. No se observa dependencia de asas. No se aprecian otras alteraciones.
+• Se comentó el caso con el Servicio de Radiología y se decidió realizar una resonancia magnética (RM) para mejor caracterización de la masa: masa supravesical con dependencia de la pared vesical superior a la que está unida mediante un pedículo estrecho. Esta masa mide aproximadamente 10,8 x 6,8 x 6,5 cm de diámetro y presenta zonas quísticas, vasos macroscópicos y algunos pequeños focos hemorrágicos en su interior. Tras la administración de contraste tiene realce positivo del mismo. Los hallazgos de imagen, junto con los antecedentes de neurofibromatosis del paciente, sugieren que se trate de un paraganglioma extraadrenal de origen vesical.
+• Con este diagnóstico se remite a Endocrinología para completar el estudio y se solicitan metanefrinas en orina de 24 horas, gammagrafía con 123I-MIBG y octreoscán, con los siguientes resultados:
+− Metanefrina orina: 102,0 μg/l.
+− Normetanefrina orina: 105 μg/l.
+− Metanefrina orina 24 horas: 210 μg/24 h.
+− MIBG: se observa depósito de radiotrazador de leve intensidad a nivel supravesical.
+− Octreoscán: tumor supravesical con débil expresión de receptores de somatostatina sin evidencia de enfermedad metastásica.
+Finalmente, con el diagnóstico de paraganglioma vesical, Endocrinología recomendó el inicio de bloqueo alfa, a pesar de no haber hipertensión arterial ni clínica de crisis hipertensivas durante la micción. Se pauto doxazosina 4 mg/24 h durante los 15 días previos a la intervención quirúrgica.
+
+Diagnóstico
+Diagnóstico de sospecha: paraganglioma extraadrenal de origen vesical. Diagnóstico anatomopatológico: tumores del estroma gastrointestinal (GIST).
+
+Tratamiento
+Se programa intervención quirúrgica para la resección del paraganglioma. Durante la intervención se evidencia una gran masa hipogástrica que contacta y descansa sobre el peritoneo parietal perivesical sin infiltrarlo, y que se diseca con facilidad, dependiente del intestino delgado mediante un pedículo estrecho. Asimismo, se evidencian múltiples implantes más en la superficie de asas, meso, diafragma, bazo, así como adenopatías en el meso del intestino delgado.
+Decidimos contactar con el Servicio de Cirugía, quienes finalmente realizaron una doble resección intestinal de yeyuno con doble anastomosis término- terminal.
+
+Evolución
+El postoperatorio inmediato transcurre sin incidencias destacables, con adecuada recuperación del tránsito intestinal y de la tolerancia. Se fue de alta a la semana de la intervención quirúrgica.
+Al mes de la intervención se visitó al paciente en consultas externas. La anatomía patológica informa de múltiples tumores del estroma gastrointestinal (GIST), sin mitosis, con riesgo moderado de progresión de la enfermedad, dependientes de la serosa, subtipo de células fusiformes, escasas atipias, sin necrosis y Ki-67 positivo en el 2% de las células. Inmunohistoquímica: CD117 (+), CD34 (+), actina (–), desmina (–), enolasa (–), S-100 (–), cromogranina (–), CKAE1/AE3 (–), CAM5.2 (–) y con hiperplasia de las células intersticiales de Cajal en el intestino no tumoral.
+Con este diagnóstico anatomopatológico se remite al paciente a consultas de Oncología para la valoración de tratamiento adyuvante.

@@ -1,0 +1,26 @@
+Anamnesis
+Paciente mujer de 71 años de edad sin alergias medicamentosas conocidas, intervenida en 2008 por nefrectomía renal izquierda con incisión de lumbotomía por una masa renal izquierda de 15 x 13 cm. Anatomía patológica: pieza de nefrectomía radical izquierda con angiomiolipomas múltiples, el mayor de 12 cm de ejes máximos, variante angiomiolipoma epiteloide con extensión al sistema venoso intrarrenal, estructuras vasculares del hilio renal, 17 ganglios linfáticos aislados en el mismo y uréter sin evidencia de infiltración neoplásica, suprarrenal sin evidencia de infiltración neoplásica. Antecedentes familiares de lipomatosis familiar (padre, hermanos y primos).
+La paciente acude al Servicio de Urgencias por febrícula vespertina, dolor pleurítico izquierdo y esputo hemoptoico.
+
+Exploración física
+Consciente, orientada, colaboradora, buen estado general, eupneica. Auscultación cardíaca: rítmico, sin soplos ni ruidos sobreañadidos. Auscultacion pulmonar: murmullo vesicular conservado. Abdomen blando, depresible, no masas ni megalias, cicatriz de lumbotomía izquierda. Extremidades superiores con lipomas subcutáneos más en el hombro derecho y el brazo izquierdo. Extremidades inferiores: sin edemas.
+
+Pruebas complementarias
+• Analítica: hemoglobina 12,2 g/dl, 7.500 leucocitos/mm3, con 53% de neutrófilos, resto de hemograma normal. En la bioquímica destaca creatinina 1,13 mg/dl, alanina aminotransferasa (ALT/GPT) 194 UI/l, aspartato aminotransferasa (AST/GOT) 171 UI/l y velocidad de sedimentación globular: 43. Coagulación con fibrinógeno de 882, resto dentro de los parámetros de la normalidad.
+• Radiografía de tórax: masa parailíaca derecha de localización mediastínica anterior. Múltiples nódulos.
+• Tomografía computarizada (TC) tóraco-abdominal con contraste: se identifican múltiples imágenes nodulares sólidas de diferentes tamaños en ambos hemitórax que captan contraste, compatible con metástasis (la mayor de 3 cm en el lóbulo inferior derecho). Gran masa de 5,3 cm localizada en el mediastino anterior lateralizada a la derecha, sólida, muestra realce tras administrar contraste, que pudiera corresponder a un conglomerado adenopático. Riñón derecho compensador con pequeños quistes corticales y una imagen de 6 mm compatible con angiomiolipoma. No adenopatías retroperitoneales ni en el abdomen. No signos de recidiva local. No líquido ascítico.
+• Fibrobroncoscopia: algunas placas dispersas con mucosa violácea rosada o antracosa de superficie lisa y jugosa, movible sin aparente significado patológico, pero que se biopsia. Anatomía patológica: sin evidencia de infiltración neoplásica y BAS negativo para células tumorales.
+• Tomografía por emisión de positrones (PET): múltiples focos con depósito patológico de F-18 FDG en ambos campos pulmonares compatibles con metástasis pulmonares. Masa en el mediastino anterior (suprahiliar derecha), un foco en la región subcarinal del mediastino medio y otro foco en el hilio pulmonar derecho con captación patológica de F-18 FDG de probable naturaleza neoplásica maligna, compatibles con adenopatías/conglomerado adenopático metastásico. Foco con depósito patológico de F-18 FDG con colon ascendente (localización entre la región caudal del lóbulo hepático derecho y el riñón derecho) con características metabólicas de muy probable naturaleza neoplásica maligna, que podría estar en relación con neoplasia primaria de colon.
+• Colonoscopia: exéresis de pólipo pediculado de 3 cm en el colon ascendente. Anatomía patológica: adenoma velloso con displasia moderada en el colon ascendente, pedículo libre.
+• Punción de masa mediastínica TC-dirigida: la anatomía patológica informa de metástasis de angiomiolipoma epiteloide. Las características histológicas e inmunohistoquímicas son superponibles a las identificadas en la muestra de esta paciente que correspondía a un angiomiolipoma renal epiteloide.
+
+Diagnóstico
+Metástasis de angiomiolipoma epiteloide.
+
+Tratamiento
+Inhibidor mTOR: sirolimus 6 mg/día, por vía oral.
+
+Evolución
+La paciente, tras 2 meses de tratamiento, no presenta toxicidad gastrointestinal aparente, reacción cutánea leve, bien controlada de forma tópica y osteoartralgias que controla con fármacos del primer escalón de la escala analgésica.
+En la analítica de control se observa una mejoría en la aminotransferasa (ALT/GPT), bajando hasta 40 UI/l, y la aspartato aminotransferasa (AST/GOT), hasta 46 UI/l. En la radiografía de tórax de control se observa una estabilización de las lesiones.
+En la PET de control realizada al mes de tratamiento se observa captación en el mediastino anterior-suprahiliar derecho (aproximadamente 6 x 5 cm), con SUV 3,1 (previo 6,2). Presenta una zona central de hipometabolismo en probable relación con necrosis. Han desaparecido los múltiples acúmulos focales patológicos en ambos campos pulmonares, los focos del hilio pulmonar derecho y en el mediastino subcarinal; también ha desaparecido un acúmulo previo hemiabdominal derecho, en la región del colon ascendente. Respuesta metabólica evidente.

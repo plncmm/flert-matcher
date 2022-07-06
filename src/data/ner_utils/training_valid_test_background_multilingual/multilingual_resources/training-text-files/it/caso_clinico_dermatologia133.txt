@@ -1,0 +1,22 @@
+Anamnesi
+Una donna di 81 anni è arrivata al dipartimento di emergenza con lesioni cutanee disseminate di 2 settimane di evoluzione. Queste lesioni erano apparse progressivamente e stavano evolvendo verso l'ulcerazione e la suppurazione. Ha riferito un dolore locale come unica sintomatologia associata; non c'era malessere generale; non c'era stata febbre o brividi associati, né altri sintomi ad altri livelli. La storia medica includeva: allergia all'acido clavulanico, ipotiroidismo in terapia sostitutiva con levotiroxina, dislipidemia in terapia con statine, ipertensione in trattamento con indapamide e osteoporosi trattata con acido risendronico. L'anamnesi recente includeva una frattura rotulea trattata in modo conservativo, che aveva obbligato la paziente a rimanere per 3 mesi in una casa di media permanenza per il trattamento riabilitativo; era stata dimessa a casa 3 settimane prima.
+
+Esame fisico
+Presentava lesioni nodulari multiple di 1-4 cm di diametro, localizzate sull'addome e sugli arti, in diversi stadi di evoluzione: alcune erano di aspetto molto infiammatorio con una significativa cellulite perilesionale, e altre erano aperte verso l'esterno, che drenavano contenuto purulento con la minima compressione. In alcune lesioni, si potevano vedere diversi orifizi di drenaggio. Inoltre, nella zona dei peli pubici, sono state osservate pustole centrate da follicoli piliferi.
+
+
+Esami complementari
+Le lesioni sono state messe in coltura ed è stata eseguita una biopsia oculare, una parte della quale è stata inviata per lo studio microbiologico e l'altra per lo studio anatomopatologico. Nei due campioni di tampone diretto e nella coltura della biopsia è cresciuto lo Staphylococcus aureus meticillino-resistente (MRSA).
+La biopsia cutanea ha mostrato densi infiltrati di leucociti polimorfonucleati con microabcessificazione e alcuni focolai di necrosi. Non c'erano granulomi o segni di vasculite.
+Durante il ricovero in ospedale, il paziente ha avuto un picco febbrile, quindi sono state fatte delle emocolture che sono risultate negative.
+Con l'isolamento microbiologico e la storia dell'episodio febbrile, è stato deciso di escludere il coinvolgimento dello Staphylococcus aureus ad altri livelli: sono stati eseguiti un ecocardiogramma, una radiografia del torace e uno studio del fundus in oculistica, tutti senza risultati di metastasi settiche.
+
+Diagnosi
+Ascessi multipli di MRSA.
+
+Trattamento
+Si è deciso di ricoverare il paziente con un trattamento antibiotico empirico utilizzando piperacillina-tazobactam 4 g/500 mg ogni 8 ore associato a linezolid 600 mg ogni 12 ore, con l'intenzione di coprire i germi multiresistenti sia gram-positivi che gram-negativi.
+Una storia di recente istituzionalizzazione a lungo termine è stata la ragione della scelta di questa combinazione. Sono state eseguite medicazioni giornaliere con pomata all'acido fusidico, medicazioni in silicone e bendaggi non compressivi. Una volta confermato l'isolamento di MRSA, è stato deciso di ritirare la peracillina-tazobactam e di mantenere il trattamento solo con linezolid, che è stato mantenuto per due settimane.
+
+Evoluzione
+Con la terapia antibiotica, le lesioni si sono risolte completamente. Durante il suo ricovero, la paziente è stata sottoposta a un trattamento di medicina preventiva e a un trattamento specifico di decolonizzazione.

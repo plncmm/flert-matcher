@@ -1,0 +1,26 @@
+Anamnèse
+Un homme de 48 ans avec des antécédents de coliques néphrétiques répétées (avec expulsion d'une lithiase d'oxalate de calcium) traitées en ambulatoire, qui s'est présenté aux urgences avec une douleur colique dans la fosse rénale droite d'une évolution de 24 heures, irradiant vers les organes génitaux, des nausées et des vomissements, traité à l'ibuprofène, mais sans nette amélioration. Il n'a pas signalé de fièvre thermométrique, de syndrome mictionnel ou d'hématurie. On note un habitus asthénique important, une faiblesse généralisée, une difficulté à passer de la position assise à la position debout, des myalgies et des arthralgies généralisées.
+En février 2013, elle a consulté son médecin traitant pour des symptômes cliniques de lombalgie, et a été adressée au service de traumatologie, sans résultat ; à l'examen, elle présentait un nodule d'environ 2 cm sur la face latérale droite du cou, pour lequel une échographie cervicale et thyroïdienne a été demandée, qui n'a pas été réalisée en raison de l'épisode intercurrent actuel.
+
+Examen physique
+Patient en bon état général, visiblement faible, avec une hydratation correcte de la peau et des muqueuses, abdomen volumineux avec un tissu adipeux important, pas de masses palpables ni d'organomégalie, dépressible et mou, avec une douleur dans le flanc droit, sans signes de réaction irritative péritonéale. La percussion du poing rénal droit et le signe de Guyon droit étaient positifs. Membres inférieurs sans œdème. Le reste de l'examen n'a rien révélé d'intéressant.
+
+Tests complémentaires
+- Analyses sanguines : calcémie 16,5 mg/dl, phosphore 3,8 mg/dl, PTH intacte 2 574 pg/ml, phosphatase alcaline 222 UI/l, créatinine 3,31 mg/dl avec un taux de filtration estimé à 20 ml/min. Repos sans constatations.
+- Numération sanguine : hémoglobine 9,5 g/dl. Hématocrite 28%.
+- Coagulation sans altération.
+- Sédiment urinaire 1-5 leucocytes par champ.
+- Radiographie abdominale : néphrocalcinose, au niveau du squelette pelvien, irrégularité de la surface iliaque des articulations sacro-iliaques due à la résorption et à la sclérose sous-chondrale et élargissement de l'interligne articulaire. Résorption sous-chondrale sur le bord droit de la symphyse pubienne.
+- Série osseuse : compte tenu de ces constatations, le service de radiodiagnostic a envisagé la possibilité de compléter l'étude par des radiographies du crâne et des phalanges, la première montrant un crâne " poivre et sel " (motif granuleux diffus de déminéralisation crânienne), tandis que la seconde montrait une résorption sous-périostée du bord radial des phalanges moyennes des doigts et un début de résorption des touffes distales des premier, deuxième et troisième doigts des mains.
+- Echographie urologique : néphrocalcinose rénale bilatérale sans ectasie de la voie excrétrice ; il existe un petit kyste de 12 mm dans la région polaire rénale supérieure gauche. Aucun autre constat d'intérêt.
+- Échographie du cou : à côté du lobe droit de la thyroïde, une lésion nodulaire hypoéchogène avec des zones kystiques/dégénérées est identifiée, compatible avec un adénome parathyroïdien. Il mesure environ 39 x 25,2 x 47 mm (T x AP x L). Du côté gauche, il y a un autre nodule inféromédial au lobe thyroïdien gauche, hypoéchogène, suggérant un adénome parathyroïdien gauche, mesurant approximativement 37 x 12,6 x 16,2 mm (L x AP x T). Glande thyroïde de taille et de morphologie normales, avec échogénicité préservée. Au moins deux nodules ont été identifiés dans la LTD mesurant respectivement 7,8 et 12 x 7,4 mm. Tout ceci est compatible, compte tenu de la localisation et du contexte, avec des adénomes parathyroïdiens droit et gauche.
+- TEMP/TDM cervicomédiastinale : l'image planaire précoce montre deux foyers de captation accrue de 99mTc-MIBI : un foyer au niveau du pôle supérieur du lobe thyroïdien droit et un autre foyer au niveau du pôle inférieur du lobe thyroïdien gauche, qui persistent sur l'image tardive une fois que le tissu thyroïdien a été lavé. Sur l'image de fusion SPECT-CT à faible dose, le plus gros foyer est situé à l'extérieur de l'os hyoïde (côté droit) et le plus petit foyer est situé en dessous du paratrachéal gauche et en arrière du lobe thyroïdien gauche ; ces images sont compatibles avec un double adénome parathyroïdien.
+- Densitométrie minérale osseuse : score Z du col du fémur -2,1 SD. Score Z lombaire -2,9 SD.
+
+Diagnostic
+Hyperparathyroïdie primaire due à un double adénome parathyroïdien. Insuffisance rénale chronique secondaire à une néphrocalcinose.
+
+Traitement
+Le patient a évolué favorablement de la colique néphrétique sous analgésie intraveineuse, ne nécessitant pas de dérivation urinaire.
+Une hydratation abondante au moyen d'une sérumothérapie intraveineuse a été mise en place, ainsi que l'administration d'acide zolendronique, de cinacalcet, de calcium oral et de darbépoétine alfa. Après la stabilisation clinique du patient, qui a atteint une calcémie de 8,3 mg/dl et une PTH intacte de 53,3 pg/ml, il a été programmé pour une parathyroïdectomie, qui a été réalisée sans incident, avec une diminution rapide des concentrations peropératoires de PTH dans le sang.
+Il attend actuellement sa sortie du service de chirurgie générale, ainsi que son suivi en consultation d'endocrinologie, après normalisation de la PTH et du calcium sérique.

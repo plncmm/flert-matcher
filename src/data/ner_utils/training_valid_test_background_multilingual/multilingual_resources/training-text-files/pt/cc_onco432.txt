@@ -1,0 +1,32 @@
+Anamnese
+Uma mulher de 68 anos com carcinoma ductal infiltrante (IDC) da mama, fase IIIA. Em tratamento oncológico activo com quimioterapia neoadjuvante, veio para o Departamento de Emergência com febre e arrepios persistentes.
+
+História oncológica
+Uma mulher caucasiana de 68 anos, actualmente reformada (hospedeira de bordo na sua vida profissional). A sua história pessoal inclui tensão arterial elevada, hipotiroidismo e vários episódios depressivos menores. Ela não tem hábitos tóxicos conhecidos, reacções adversas a medicamentos ou historial cirúrgico pessoal. Ela não tem antecedentes familiares de cancro. Como tratamento caseiro, ela mantém enalapril/hidroclorotiazida 20/12,5 mg/dia, levothyroxina 75 mcg/dia e lorazepam 1 mg/dia.
+Em Janeiro de 2019, com 67 anos, foi avaliada em ginecologia por uma lesão assintomática no mamilo direito do tipo "eritema-eczema", que estava presente há vários meses. Foi-lhe diagnosticado IBC mamário, histológico grau 3, receptor de estrogénio positivo, receptor de progesterona negativo, receptor de factor de crescimento epidérmico humano 2 (HER-2) negativo e Ki67 de 50% (luminal B), fase IIIA (T3N1M0, segundo a classificação TNM do Comité Conjunto Americano do Cancro, 8ª edição). Testes adicionais descreveram um aumento da densidade mamária direita (lesão tipo BI-RADS 4) e uma linfadenopatia axilar ipsilateral (por mamografia e ultra-som de mama e axila, respectivamente). O diagnóstico de carcinoma foi confirmado por biopsia do núcleo da agulha (CNB) tanto da mama como de um dos gânglios linfáticos axilares. O estudo de extensão (RM mamária, TAC do peito, abdómen e pélvis com contraste e cintilografia óssea) descartou a presença de doença distante.
+É proposto o tratamento neoadjuvante baseado em paclitaxel semanal (recebendo 12 ciclos) e, subsequentemente, doxorubicina peguilada + ciclofosfamida (1 ciclo até agora).
+
+História actual
+Duas semanas após ter recebido quimioterapia, veio ao departamento de emergência para queimaduras uretrais, disúria e sensação de tremor intermitente, de três dias de evolução. O exame físico e testes complementares mostraram sinais compatíveis com neutropenia febril de baixo risco e infecção do tracto urinário inferior sem complicações, pelo que teve alta com antibióticos orais, três doses de factor estimulante da colónia de granulócitos (G-CSF) e medidas higiénico-dietéticas.
+No entanto, foi vista uma segunda vez, dez dias depois, devido à disúria persistente, ao agravamento dos arrepios e ao início da febre (máximo 38,2o termometria), a que se acrescentou a sensação diatérmica, artromialgia generalizada, dor lombar não específica e insónia persistente.
+
+Exame físico
+Sinais vitais: BP 183/63 mm Hg, HR 110 bpm, FR 15 rpm, SatO2 97 % (linha de base) e Ta 37,7oC.
+Inspecção geral: Grupo Cooperativo de Oncologia Oriental (ECOG) nível 1. Aparentemente bom estado geral. Eupneic em repouso. Cor normal. Perfusão distal adequada.
+Exame por aparelhos e sistemas: exames neurológicos, de cabeça e pescoço, cardiorespiratórios, abdominais e de extremidades não mostram quaisquer sinais patológicos notáveis ou achados anormais.
+
+Testes complementares
+A bioquímica urgente mostra proteína C-reactiva elevada (CRP) (426,4 mg/l; VN 0-5), procalcitonina elevada (1,2 ng/ml; VN < 0,25) e LDH elevada (321 U/l; VN 40-240). O hemograma revelou anemia normocítica normocrómica (Hb 8,5 g/dl; VN 12-16) e trombocitose (504,000/μl; VN 150,000-450,000). A contagem de neutrófilos recuperou. A coagulação é normal.
+O electrocardiograma e a radiografia de PA e do tórax lateral não mostram indícios de isquemia e não revelam consolidação parenquimatosa ou efusão pleural, respectivamente.
+O sedimento de urina é patológico, revelando hematúria microscópica, piúria e bacteriúria abundante. Os nitritos são negativos. A cultura de urina solicitada na visita anterior da ED foi negativa.
+Foram também solicitadas culturas de sangue e de urina diferencial.
+
+Diagnóstico
+Suspeita de UTI complicada resistente à antibioterapia oral num doente imunocomprometido.
+
+Tratamento
+Internamento hospitalar com antibioterapia intravenosa dirigida ao foco urinário, consistindo de ceftriaxona 2 g/24 horas, e de preferência ultra-som urológico.
+
+Evolução
+O doente foi admitido com estabilidade clínica e hemodinâmica. Durante a admissão, a antibioticoterapia foi administrada ao foco urinário. A ecografia urológica não mostrou colecções sugestivas de abscesso ou dilatação do tracto excretor. Apesar da ausência de isolamento microbiológico, o doente continuou com febre, distermia associada e agravamento do estado clínico geral, com astenia limitadora. A cobertura antibiótica foi aumentada com piperacilina-tazobactam e vancomicina, e foram tomadas novas culturas. As culturas tomadas na ED foram negativas.
+Foi solicitado um ecocardiograma transtorácico e uma tomografia computorizada com contraste do tórax, abdómen e pelve para excluir complicações que pudessem justificar o quadro clínico. O primeiro descreve um espessamento periaórtico discreto, de significado duvidoso; o segundo revela a presença de um espessamento impressionante e de um aumento do arco aórtico, aorta descendente e troncos supra-aórticos, sugestivo de vasculite dos grandes vasos. Com base nesta suspeita como possível causa da síndrome febril, foram solicitados estudos imunológicos e auto-imunes, serologia viral e um estudo de possíveis drogas iatrogénicas desencadeantes. Os resultados notáveis foram uma elevada taxa de sedimentação eritrocitária (ESR; 140 mm; VN 1-20) e um baixo título positivo (1/80) de anticorpos antinucleares (ANA), ambos não específicos. O título IgG4 é normal. Todas as sorologias são negativas e o doente não preenche os critérios para o diagnóstico de uma doença reumatológica. Após excluir outras causas, é considerado um diagnóstico de vasculite de grandes vasos secundários a fármacos (muito provavelmente G-CSF). A administração deste medicamento é proibida e o tratamento com prednisona oral de alta dose é iniciado.

@@ -1,0 +1,30 @@
+Anamneză
+Un bărbat în vârstă de 80 de ani s-a prezentat la serviciul de urgență cu instabilitate a mersului și greață în ultimele 2 zile, cu debut brusc în timpul mersului și agravare a simptomelor în ultimele 24 de ore. De asemenea, el a prezentat cefalee oprimantă bitemporală de intensitate moderată în ultimele 10 zile și astenie de o lună de zile.
+
+Antecedente personale: fost fumător, dislipidemie sub tratament dietetic, hiperplazie benignă de prostată, infecții repetate ale tractului urinar. Istoricul familiei: fără interes. Independent pentru activitățile de bază ale vieții cotidiene. Scala Barthel de 100 de puncte.
+
+Examinarea fizică
+Stare generală: stare generală bună, tensiune arterială 162/86 mmHg, ritm cardiac 72 bpm, temperatură 35,7 oC. Colorație muco-cutanată normală, perfuzie și hidratare normală, eupneică. Indurație a ambelor artere temporale, mai accentuată în partea dreaptă; arterele carotide ritmice, fără murmur; tonuri cardiace ritmice, fără murmur; murmur vezicular conservat, fără zgomot adăugat; abdomen globulos, moale și depresibil, fără mase, megalite sau semne de iritație peritoneală; pulsuri prezente, fără edeme la extremități sau semne de tromboză venoasă profundă.
+
+Examenul neurologic: orientat, vorbire normală, fără apraxie sau agnosie. Pupile izocorice și normoreactive, hemianopsie omonimă dreaptă în campimetria de confruntare, motilitatea oculară extrinsecă fără alterări, fără asimetrie facială, restul nervilor cranieni fără alterări; tonus, trofism și echilibru muscular conservate, reflexe miotatice vii în mod generalizat, reflexul flexor cutanat-plantar bilateral, Hoffmann bilateral negativ; sensibilitate tactilă, algebrică și vibratorie păstrată; disdicokinezie și dismetrie în testele bilaterale vârf-naz și călcâi-genunchi, predominant la membrele stângi; testele Romberg și Barany negative; mers instabil, fără lateralizare clară, cu baza de sprijin crescută. NIHSS: 4 puncte.
+
+Teste complementare
+- Date de laborator: biochimie, glucoză 158 mg/dl, uree 61 mg/dl, CRP 20,4 mg/l, colesterol total 229 mg/dl (HDL 57 mg/dl, LDL 151 mg/dl), hemoleucograma 21.900/μl (79,4% neutrofile, 11,8% limfocite), trombocite 376.000/μl, fibrinogen 638 mg/dl; celelalte valori în limite normale. ESR 17 mm/h. Gazele sanguine venoase fără modificări semnificative. Studiu sistematic de urină, normal. Sistemul hipofizo-tiroidian, fără modificări. PSA 21,49 mg/ml, fără modificări la restul markerilor tumorali. Serologie negativă pentru lues, VHC, VHB și HIV.
+- ECG: ritm sinusal. QRS 0,13. Blocaj de ramură dreaptă cu alterări secundare de repolarizare.
+- Radiografie toracică: indicele cardiotoracic în limitele normale, fără consolidare sau efuziune.
+- Doppler transcranian: accelerare a ambelor artere cerebrale medii (ACM), mai accentuată la nivelul M1 dreaptă, fără a identifica artera cerebrală posterioară (APC) stângă. Reducerea semnificativă a fluxului în ambele artere vertebrale (VA), cu inversarea fluxului în artera bazilară (BA).
+- Duplexul trunchiurilor supra-aortice (TSA): studiu carotidian normal. Modelul undei de șoc în ambele AV, compatibil cu ocluzia distală a acestora.
+- Eco-Doppler al arterelor temporale: halo hipoecogen în ambele artere temporale și în ramurile lor.
+- Ecocardiogramă transtoracică: ușoară dilatare a atriului stâng, fără alte anomalii semnificative.
+- Tomografie computerizată cerebrală: hipodensități compatibile cu infarcte în teritoriul ambelor artere cerebeloase postero-inferioare (PICA) și al APC stâng.
+- Imagistica prin rezonanță magnetică cerebrală (IRM): leziuni hiperintense în secvențele T2 și FLAIR, cu efect de masă ușoară asupra parenchimului adiacent și cu ștergerea sulciilor, compatibile cu infarctul în teritoriul atât al PICA, cât și al PCA stâng. Imagini de rezonanță magnetică cerebrală în secvență T2 care arată semne de infarct cerebral în teritoriul ambelor PICA și PCA stâng.
+- Angiografie CT cerebrală și TSA: ocluzie a segmentului V2 al ambelor VAs. PCA și AB permeabile, cu persistența arterei comunicante posterioare. Sistemul carotidian nu a prezentat modificări. Imagini angio-TC ale trunchiurilor supraaortice care arată ocluzia V2 dreapta proximală și V2 stânga distală. Flux filiform în AV stânga la nivelul lui C2.
+
+Diagnostic
+Infarct cerebral în teritoriul ambelor PICA și PCA stânga, de etiologie neobișnuită. Arterita cu celule gigante.
+
+Tratament
+A fost internat în Unitatea de Stroke. În urma rezultatelor la tomografia computerizată cerebrală și la studiul neuropsihologic, a primit tratament steroidic empiric (metilprednisolon 1 g/zi, 5 zile pe cale intravenoasă) și recomandări de îngrijire și terapie conform căii clinice. Diagnosticul a fost confirmat ulterior. Pe lângă terapia antiplachetară, a continuat tratamentul cu prednison în doză descrescătoare, asociat cu tratament profilactic pentru osteoporoză și statine.
+
+Evoluție
+Pacientul a prezentat o ameliorare progresivă în timpul internării, fără alte complicații, cu un scor mRS de 3 puncte la externare. La examinările ulterioare, nu a raportat simptome noi, reactanții de fază acută erau în limite normale și semnul halo a devenit negativ, deși a persistat cu un scor mRS de 2 la 3 luni.

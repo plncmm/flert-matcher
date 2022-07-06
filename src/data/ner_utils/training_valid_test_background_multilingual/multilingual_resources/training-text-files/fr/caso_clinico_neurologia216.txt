@@ -1,0 +1,28 @@
+Anamnèse
+Un homme de 58 ans, sans allergies médicamenteuses connues ni consommation de substances toxiques. Les facteurs de risque cardiovasculaire sont les suivants : hypertension, dyslipidémie et obésité de type I. Les antécédents médicaux et chirurgicaux comprenaient : HBP, RGO, migraines sans aura, phakectomie bilatérale, septoplastie pour déviation de la cloison nasale et chirurgie nasosinusienne endoscopique avec polypectomie pour polypose résistante au traitement topique. Il suit un traitement régulier par énalapril/hydrochlorothiazide, simvastatine et dutastéride/tamsulosine.
+
+Elle s'est présentée aux urgences avec une céphalée d'apparition soudaine, accompagnée de nausées et de vomissements, une fièvre thermométrique allant jusqu'à 38oC, un malaise général marqué, avec des troubles concomitants du langage, sous forme de blocs et de paraphasies, avec une diminution progressive du niveau de conscience. Lors de l'entretien avec la famille, en examinant les antécédents médico-chirurgicaux, on nous signale le fait fortuit d'un écoulement nasal sporadique de liquide cristallin par la narine gauche, depuis plus de 3 ans, après une intervention chirurgicale ORL.
+
+Examen physique
+Hémodynamiquement stable, eupnéïque, fébrile, bien hydraté, normoperfusé, de couleur normale. L'auscultation cardio-pulmonaire est normale. Abdomen sans altération. Membres inférieurs normaux.
+Examen neurologique : conscient, avec une somnolence marquée, nécessitant des stimuli vigoureux pour maintenir la vigilance, inattentif, partiellement désorienté dans le temps et l'espace, orienté dans la personne. Il obéit à des commandes simples, répond aux questions, nomme, mais dans le langage spontané, il émet des paraphasies phonémiques et sémantiques. Nerfs crâniens : VA normale, FO normale et campimétrie conflictuelle. MOI et MOE sans altérations, pas de ptosis ni de nystagmus. V moteur et sensoriel préservé. Pas d'asymétries faciales. Couples inférieurs normaux. Force avec équilibre musculaire 5/5 dans les quatre extrémités, avec REM global ++ sans asymétries, RCPF bilatéral. Sensibilité préservée à tous les niveaux et dans toutes les modalités. Pas de dysmétrie ou de dysdiadochokinésie. Démarche et statique non évaluées pour le moment. Pas de résultats extrapyramidaux. Légère rigidité nucale, signe de Kernig positif.
+
+Tests complémentaires
+- Hémogramme : leucocytose 27 x 1.000/mm3 (neutrophiles 25,1 x 1.000/l).
+- Coagulation : normale.
+- Biochimie : profil rénal et profil hépatique sans altération. CRP 1,8 mg/dl.
+- Radiographie du thorax et ECG sans résultats significatifs.
+- Ponction lombaire : liquide céphalo-rachidien d'aspect trouble, avec une pression de 29 cm H2O, avec la cytobiochimie suivante : 1 620 cellules/mm3 (78% PMN, 21% MN), 478 globules rouges/mm3, glucose 19 mg/dl, protéines 4,22 g/l. - Gram (LCR) : cocci G+, en grappes, comme résultat préliminaire, mis en culture en moins de 24 heures, groupe Streptococcus Viridans, sans résistance significative dans l'antibiogramme.
+- Pneumocoque PCR négatif. PCR pour HSV et VZV négative.
+- Sérologie : VHA, anticorps IgG positifs (13,62). VHB : Ag-HBs négatif. Anti-HBc : IgG négatif. HCV : anticorps négatifs. VIH : VIH (1,2) : Ac. et Ag. négatifs.
+- Scanner crânien : étude sans résultats significatifs, sauf la présence d'une occupation partielle du sinus sphénoïde gauche et des deux sinus maxillaires (du côté droit avec des formations polypoïdes).
+- IRM crânienne : fistule de LCR à travers la lamina cribrosa et dans les cellules ethmoïdales. IRM crânienne : séquence coronale FLAIR, montrant une fistule de LCR à travers la lamina cribrosa et dans les cellules ethmoïdales. Aucune altération inflammatoire de la méninge n'est détectée.
+
+Diagnostic
+Méningo-encéphalite bactérienne avec culture positive pour Streptococcus viridans, peut-être liée à une fistule de LCR après une chirurgie ORL.
+
+Traitement
+Devant la suspicion de symptômes cliniques compatibles avec une méningo-encéphalite, et dans l'attente des résultats microbiologiques, une antibiothérapie a été mise en place avec de la vancomycine et du céfotaxime, ainsi que de l'acyclovir, et le patient a été admis dans le service de neurologie, où, après la découverte du micro-organisme responsable et de l'antibiogramme, le traitement au céfotaxime a été maintenu pendant 10 jours.
+
+Evolution
+Le patient a évolué de manière très satisfaisante, étant asymptomatique, afébrile et présentant un examen neurologique rigoureusement normal dans les 48 heures suivant le début des symptômes. Compte tenu de l'histoire d'un écoulement nasal chronique après une septoplastie/polypectomie en 2009, avec une suspicion de fistule de LCR, l'ORL a été consulté, et la fibroscopie a révélé un liquide clair sortant de la narine gauche, sans pouvoir définir le site de sortie. Le patient était programmé pour une chirurgie ORL, demandant l'utilisation compassionnelle de la fluorescéine pour le diagnostic et le traitement, avec fermeture endoscopique.

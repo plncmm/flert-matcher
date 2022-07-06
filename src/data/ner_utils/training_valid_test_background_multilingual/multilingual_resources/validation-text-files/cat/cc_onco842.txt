@@ -1,0 +1,34 @@
+Anamnesi
+Pacient de 81 anys diabètic, amb antecedents de tromboembolisme pulmonar (TEP) i fumador actiu, que inicia quadre de dolor i edematización de membre inferior esquerre, per la qual cosa acudeix a Urgències, on se li realitza Eco-Doppler i es diagnostica de trombosi venosa profunda (TVP) esquerra, iniciant tractament amb rivaroxabán.
+Pocs dies després acudeix a consulta novament per dispnea de diversos dies d'evolució, associada a tos sense expectoració i sense dolor toràcic. En Urgències es realitza angio-TC per sospita TEP, que es confirma, observant-se defecte de repleció en artèria lingular compatible amb TEP. A més, en la angio-TC es visualitzen adenopaties axil·lars/retropectorales esquerres de grandària significativa (18 i 20 mm) sospitoses de malignitat, adenomegalia prevascular en finestra aortopulmonar i hiliar amb eix curt inferior a 10 mm, no significativa, així com micronòdul de 4 mm en segment medial de lòbul mitjà (LM).
+A causa d'aquests resultats, ingressa a càrrec de Medicina Interna per a ampliar estudi.
+Durant l'ingrés, l'evolució és favorable, romanent asimptomàtic des del punt de vista respiratori. Es realitzen una bateria de proves complementàries, per a filiar les adenopaties observades en la TC, entre elles una analítica general amb marcadors tumorals, sense observar alteracions rellevants excepte CEA (antigen carcinoembrionario) de 327 i un PET-TC on es descriu un focus hipermetabólico hiliar pulmonar esquerre (SUVmax 11,4) que sembla correspondre's a l'adenopatia en finestra aortopulmonar, que s'esmenta en la angio-TC, diversos focus hipermetabólicos axil·lars esquerres (SUVmax 14,11), coincidents amb adenopaties de grandària significativa en angio-TC. Petit focus hipermetabólico (SUVmax 3,9) retroparotídeo esquerre que pogués correspondre's amb una altra adenopatia subcentimétrica.
+Davant aquests resultats de la PET/TC, es decideix consultar amb Cirurgia General per a presa de biòpsia d'adenopatia axil·lar.
+Els resultats anatomo-patològics de la biòpsia axil·lar corresponen a metàstasi ganglionar de carcinoma pobrament diferenciat amb comedonecrosis. L'estudi immunohistoquímic de les cèl·lules tumorals mostra negativitat per a CK20, TTF1, PSA, GATA3, S100 i p40, no podent establir l'origen del tumor primari.
+Davant aquestes troballes es deriva a Oncologia per a valoració.
+
+Exploració física
+Pacient amb un performance estatus (PS) de 1, amb auscultació cardiorespiratòria normal, tons rítmics sense soplos audibles, murmuri vesicular conservat sense sorolls sobreañadidos; abdomen tou, depresible, no dolorós en la palpació, sense masses ni megalias. No es palpen adenopaties supraclaviculars ni axil·lars. En la inspecció s'observa signes de TVP en membre inferior esquerre.
+
+Proves complementàries
+Marcadors tumorals realitzats: alfa-fetoproteína, CA 15,3, CA 19,9, CA 72,4, enolasa específica neuronal i PSA. Tots sense alteracions rellevants excepte el CEA que mostra un clar descens des del diagnòstic.
+» CEA: 327,5 (realitzat el 5/06/2017) >> 132,8 (realitzat el 7/08/2017) >> 59,7 (realitzat el 19/02/2018).
+PET-TC realitzades durant el seguiment.
+» PET-TC inicial, realitzada al juny de 2017, ja descrit en l'anamnesi.
+» PET-TC al novembre/2017: metàstasis limfàtiques estables, excepte la citorreducción en axil·la esquerra. No s'identifiquen altres focus.
+» PET-TC al febrer/2018: adenopaties que suggereixen metàstasis limfàtiques en remissió. No s'identifiquen nous focus que resultin sospitosos d'activitat tumoral.
+Inmunodiagnóstico infecciós
+» Serologies realitzades a l'agost/2017: virus de les hepatitis negatius excepte IgG i IgM per al virus de l'hepatitis A positiu.
+» Serologies realitzades al febrer/2018: virus de les hepatitis negatius excepte IgG i IgM per al virus de l'hepatitis A i E positius.
+
+Diagnòstic
+Metàstasis ganglionars (retroparotídea esquerra, mediastínica i axil·lar esquerra) de carcinoma pobrament diferenciat d'origen desconegut.
+
+Tractament
+Davant aquests resultats, se li ofereix al pacient la possibilitat d'iniciar tractament quimioteràpic amb l'esquema carbo-paclitaxel, primera línia de tumors d'origen desconegut, però el pacient rebutja el tractament i desitja només seguiment.
+
+Evolució
+Durant el seguiment el pacient roman asimptomàtic. Nega canvis en el seu estil de vida o alimentació.
+En les proves complementàries realitzades s'observa una clara regressió espontània del tumor. Fet que s'objectiva en les imatges del PET-TC i en l'accentuat descens dels marcadors tumorals.
+Com a troballa casual s'observa una seroconversión del virus de l'hepatitis A i E, sense repercussió clínica (no hi ha síndrome febril, ni simptomatologia associada), ni analítica (sense augment de reactants de fase aguda, ni elevació de transaminasas).
+A causa del resultat de les proves i a l'estat clínic del pacient, es proposa continuar amb seguiment. S'estableix una visita en dos mesos amb analítica de control i marcadors tumorals.

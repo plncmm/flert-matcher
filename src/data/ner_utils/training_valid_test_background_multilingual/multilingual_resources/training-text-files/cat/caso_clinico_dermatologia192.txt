@@ -1,0 +1,27 @@
+Anamnesi
+Es presenta el cas d'una pacient de 40 anys que va acudir a la consulta de Dermatologia per lesions doloroses al tacte en el primer dit del peu dret de 2 mesos d'evolució, que se li va inflamar en diverses ocasions. Com a antecedents personals d'interès destacava un lupus eritematós sistèmic i una anèmia ferropènica. Havia rebut prèviament tractament tòpic i oral amb diversos cicles d'antibiòtic, entre ells Cloxacilina i Levofloxacino, durant menys de dues setmanes, pràcticament sense millora.
+No havia presentat febre ni sensació distérmica des de l'inici del quadre, i negava qualsevol altra simptomatologia per aparells d'interès. La pacient no referia episodis previs similars i relacionava aquest quadre amb un traumatisme amb un ferro durant la seva estada en un parc aquàtic.
+
+Exploració física
+La pacient presentava bon estat general i es trobava afebril i hemodinámicamente estable.
+A l'exploració física dermatològica presentava en cara superoexterna i inferior de primer dit dempeus dret petites pápulas eritematovioláceas, una de major grandària que a la punció drenava material purulent. No presentava lesions en altres dits ni en peus contralateral, i mancava d'afectació ungueal.
+
+Exploracions complementàries
+En l'estudi micològic, l'examen directe va resultar negatiu i en el cultiu es van aïllar 5 colònies de Candida lusitaniae, sense rellevància en relació a la clínica.
+El cultiu microbiològic de la presa de mostra de pus amb hisop va ser negatiu.
+Es va realitzar biòpsia cutània de la lesió per a estudi histològic i microbiològic.
+L'estudi histopatológico va mostrar a nivell de l'epidermis discreta hiperplàsia acompanyada de hiperqueratosis i paraqueratosis, amb ocasionals pústules en la capa còrnia. En dermis superficial, es va identificar infiltrat inflamatori granulomatós amb cèl·lules gegants multinucleades que a vegades formaven granulomes, advertint-se aïllats focus de necrosi supurativa.
+El cultiu microbiològic de la biòpsia al mig líquid (a 37oC) va ser negatiu als 45 dies. En el cultiu al mig sòlid (coletsos) a temperatura ambient es van aïllar dues unitats formadores de colònies (UFC) d'una micobacteria atípica fotocromógena. Posteriorment, una colònia groga cromógena es va sotmetre a anàlisi genètica molecular mitjançant el mètode GenoType Mycobacterium, que inclou 27 espècies de micobacterias diferents. El procediment es divideix en tres passos: aïllament del DNA procedent del cultiu, una amplificació amb primers marcats amb biotina (sense incloure la DNA polimerasa termoestable) i una hibridació reversa. El sistema es basa en l'amplificació d'una zona genètica concreta amb posterior hibridació del producte d'amplificació en les diferents sondes disposades en una tira de nitrocel·lulosa. Una plantilla assegura la interpretació senzilla i ràpida de l'esquema de bandes obtingut. Segons aquest esquema, en el nostre cas es va aïllar la micobacteria no tuberculosa (MNT) Mycobacterium marinum.
+L'obtenir una mostra adequada per a cultiu permet aïllar el germen amb major facilitat, sent el material purulent on està la major concentració d'aquest. D'altra banda, la temperatura del cultiu també és fonamental, ja que el Mycobacterium marinum té una temperatura òptima de creixement entre 30 i 33oC.
+La pacient va abandonar el tractament als 18 dies de l'inici del mateix per diarrea secundària a antibiòtics, per la qual cosa es va afegir un probiòtic i es va canviar la pauta a una càpsula de Doxiciclina 100 mg cada 24 hores durant un mínim de 4 mesos una vegada confirmat el diagnòstic.
+En la majoria de les micobacterias no tuberculoses no es recomanen les proves de sensibilitat convencionals a fàrmacs, excepte en unes certes espècies o davant el fracàs terapèutic. Aquestes proves no estan recomanades en aquesta espècie, que és normalment sensible a claritromicina, rifampicina, etambutol, tetraciclinas, sulfamidas i cotrimoxazol. Alguns aïllaments són resistents a ciprofloxacino, i la monoteràpia amb fluoroquinolonas pot facilitar el desenvolupament de resistències, per la qual cosa no és aconsellable utilitzar aquests fàrmacs en monoteràpia en el tractament inicial.
+
+
+Evolució
+Després d'un mes i mig amb probiòtics i Doxiciclina 100 mg cada 24 hores amb una bona tolerància, les lesions havien tornat marcadament, presentant en aquest moment lesions violàcies planes d'aspecte residual, sense evidenciar pústules, però sí alguna crosta d'aspecte mielicérico. El tractament d'aquesta mena d'infeccions s'ha de mantenir per un mínim de quatre mesos.
+
+Diagnòstic
+Infecció per Mycobacterium marinum o granuloma de les piscines.
+
+Tractament
+Abans de tenir el resultat del cultiu i donada l'alta sospita diagnòstica s'inicia tractament amb un comprimit de Doxiciclina 100 mg cada 12 hores.

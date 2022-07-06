@@ -1,0 +1,27 @@
+Anamnesis
+Muller de 31 anos, sen hábitos tóxicos (consumo esporádico de alcohol), con hipertrigliceridemia e hipercolesterolemia leves. Ten 4 cans, 2 gatos e é florista. Tres meses antes presentou un cadro febril (ata 40 oC) e vómitos, polo que tomou tratamento antibiótico e antiemético, resolvéndose en 3 días. Tras 2 semanas presentou unha nova síndrome emético e sedimento urinario patológico, recibindo nova tanda de antibióticos. É valorada por un digestólogo por un novo cadro de 3 días de vómitos alimenticios acompañados de calambres nos membros superiores, sen febre. Ecografía abdominal sen achados patológicos. Os calambres se achacaron a trastorno electrolítico por vómitos e se pautó tratamento con domperidona e pantoprazol. Aos 4 días acode ao Servizo de Urxencias por hormigueos distales e persistencia dos calambres. Sen focalidad neurológica na exploración é dada de alta e remitida para nova valoración polos especialistas de Aparello Digestivo. Á mañá seguinte, a paciente inicia debilidade xeneralizada de predominio esquerdo e inferiores, arrastre do pé esquerdo e dificultade para a micción, polo que acode nuevamente a Urxencias. Non refería cefalea, síndrome infeccioso-febril ou vacunas recentes, fenómenos trombóticos, fotosensibilidad, aftas orais/genitales, artritis/ artralgias, serositis, alteracións visuales, cutáneas, conductuales ou convulsiones.
+
+Exame físico
+Afebril, hemodinámicamente estable. Nivel de consciencia normal, rixidez nucal sen outros signos meníngeos. Pares craneales normais. Tetraparesia leve IV/V nas extremidades dereitas e III/V nas esquerdas, sen amiotrofia nin fasciculaciones. Reflexos osteotendinosos exaltados, cutáneo-abdominales e signos de Hoffman e Babinsky presentes bilateralmente. Hipoestesia tactoalgésica no membro superior dereito (MSD) e nivel desde D8 de predominio esquerdo. Sensibilidade vibratoria e artrocinética conservadas. Inexactitud en dedo-nariz con MSD. Romberg negativo e marcha parética con perna esquerda. Resto de exploración neurológica e xeneral sen achados patológicos.
+
+Probas complementarias
+• Hemograma, coagulación básica, bioquímica, vitamina B12, folato e hormonas tiroideas: normais.
+• Serologías infecciosas en sangue (VIH, VHC, VHB, Herpesvirus, Mycoplasma, Borrellia, Brucella), PCR de VHS, enterovirus e tuberculosis: negativas.
+• Anti-AQP4: negativos.
+• ECA sérica: niveis normais.
+• Estudo de líquido cefalorraquídeo (LCR): claro, 17 cm de H2Ou de presión, sen bloqueos. Bioquímica: hematíes 10/mm3, leucocitos 155/mm3 (neutrófilos 15%, linfocitos 85%), proteínas 125 mg/dl, glucosa 49 mg/dl, acedo láctico 2,3 mmol/l. Serologías VDRL, FTA, Mycoplasma, Borrellia, VHS 1 e 2, CMV, VEB e VVZ: negativas. Cultivo, tinción Gram, aglutinaciones e tinta chinesa: negativos ou sen microorganismos. BOC: negativas.
+• Estudo inmunológico: ANA positivo, patrón homogéneo 1/160; anti-DNA 181 Ou/ml; antihistonas positivo; anticardiolipinas IgG e anti beta-2-glicoproteína IgG positivo (IgM negativo); ANCA, antigliadina, antifosfolípidos, Russell: negativo.
+• Electrocardiograma (ECG) e radiografía de tórax: normais.
+• Resonancia magnética (RM) cerebral con gadolinio: pequeno angioma venoso frontal dereito.
+• RM medular. Hiperseñal desde a unión protuberancial ata D6 na resonancia magnética sagital secuencia T2, con áreas parcheadas de captación de gadolinio en T1.
+• Estudo neurofisiológico: potenciais evocados somatosensoriales: atraso da condución medular desde o nervio tibial posterior esquerdo; potenciais evocados visuales e de tronco cerebral normais.
+
+Diagnóstico
+Mielitis cérvico-dorsal longitudinalmente extensa secundaria a enfermidade autoinmune non diferenciada: probable lupus eritematoso sistémico.
+
+Tratamento
+Ante a rápida e importante afectación clínica e os achados no LCR e a RM, ingresa na UVI para monitorización, sen progresión clínica nas horas seguintes. Iniciouse cobertura antibiótica e antivírica ata descartar etiología infecciosa, que foi suspendida tralos resultados no LCR e pola ausencia doutros datos de infección. O perfil inmunológico orientaba cara a unha orixe inflamatorio-desmielinizante e administráronse bolos diarios de megadosis de corticoides durante 5 días. Conjuntamente con Reumatología, continuouse tratamento con tappering de prednisona ata dose de mantemento. Tratáronse as alteracións sensitivas con gabapentina e posterior oxcarbazepina por falta de eficacia.
+
+Evolución
+A paciente mellorou rápidamente tralo inicio do tratamento. Ao alta non mostraba afectación motora e presentaba franca mejoría sensitiva. Continuou seguimiento por Neurología e Reumatología. Aos 3 meses mostraba disestesias distales (membros superiores e "cinto" a múltiples niveis) e episodios distónicos flexores nas mans, no contexto da remielinización, que melloraron con antiepilépticos.
+Actualmente, na RM medular persiste hiperseñal na unión bulbomedular, C6 e C7. Na RM cerebral non se aprecian cambios. Tras 20 meses segue tratamento con prednisona e antiepilépticos. Non presentou nova clínica neurológica nin sistémica, persisten as disestesias no membro superior esquerdo e a área pectoral. Aos parámetros inmunológicos alterados uniuse un descenso do complemento, sen outras alteracións analíticas.

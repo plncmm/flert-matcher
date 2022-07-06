@@ -1,0 +1,21 @@
+Motivo de ingreso: Fiebre
+Antecedentes personales: No alergias, VIH estadio C3 con mala adherencia al tratamiento, carcinoma anal tratado con QT,RT y cirugía. Infección por citomegalovirus y candidiasis oral y esofágica.
+Tratamiento: Elvitegravir/Cobicistat/Emtricitabina/Tenofovir alafenamida:1/24 horas, Darunavir:1/24 horas, Sulfametoxazol/Trimetoprima: 1/48 horas.
+
+Enfermedad Actual
+Varón de 43 años, ingresa por fiebre intermitente de hasta 39oC, de una semana de evolución acompañada de sudoración nocturna, tiritona y orina oscura no colúrica sin clínica miccional. El paciente refiere no cumplir correctamente el TAR. Exploración: Regular estado general, eupneico en reposo y febril. Abdomen: Esplenomegalia. Resto, sin datos relevantes.
+
+Pruebas Complementarias
+Analítica: Hb: 13,3 g/dl, leucocitos: 2240 (67,4%N, 18,8%L), plaquetas: 96000. Linfocitos T CD4: 30/mm3. PCR: 80,7 mg/l, GOT: 136 mU/ml, GPT: 190 mU/ml, resto normal.
+Orina: leucocitos: 75/ul y nitritos positivos.
+Microbiología: Hemocultivo: negativo, Urocultivo: negativo. PCR TBC Complex: negativo, PCR Leishmania en Sangre Periférica: negativa. PCR Leishmania en médula ósea: positiva.
+Cultivo del aspirado de médula ósea: No se observan B.A.A.R ni parásitos (sensibilidad 80%).
+PCR Citomegalovirus: negativa.
+Adenopatía cervical: No se observan B.A.A.R.
+Ecografía abdominal: Esplenomegalia homogénea de 16 cm. Resto normal.
+
+Diagnóstico
+Leishmaniasis visceral en paciente en tratamiento con tar con pésima adherencia.
+
+Tratamiento
+Se inició tratamiento empírico con Ceftriaxona durante 5 días, por primera sospecha de ITU, persistiendo la fiebre. Tras obtener la PCR de Leishmaniasis en médula ósea positiva modificamos el tratamiento a Anfotericina B liposomal (4mg/kg/día) a dosis de 200 mg/día los días 1,2,3,4,5,10,17,24,31,38.

@@ -1,0 +1,24 @@
+Historia clínica. Anamnesis
+Se trata de una mujer joven de 19 años que acude a consultas de Medicina Interna derivada desde el servicio de Urgencias para la evaluación de múltiples erupciones cutáneas en diferentes fases, dolorosas, focalizadas en tobillo derecho junto con artralgia, de meses de evolución. No existía desencadenante aparente ni proceso infeccioso reciente. Afebril. Tampoco antecedentes claros gastrointestinales ni respiratorios ni picadura de artrópodos. No otra clínica acompañante.
+
+Antecedentes Personales y/o familiares
+No RAM conocidas. No refiere hábitos tóxicos. No enfermedades médicas de interés Se excluyeron antecedentes reumáticos en familiares de primer grado.
+
+Exploración física
+Paciente con buen estado general. Consciente, orientada y colaboradora. Constantes normales. Afebril. Bien hidratada y perfundida. No adenopatías cervicales. Eupneica. ACP: Tonos puros y rítmicos. Murmullo vesicular conservado. Abdomen: Anodino. A nivel de miembros inferiores destaca la presencia de placas induradas poco exudativas, dolorosas, con vesiculación central, coalescentes entre ellas, de distribución ventral y bilateral a ambos miembros inferiores. Sin lesiones plantares ni otros hallazgos.
+
+Pruebas complementarias
+· Analítica: Hemograma que fue anodino. Una velocidad de sedimentación glomerular (VSG) algo elevada: 14/46. Coagulación normal. Bioquímica: glucosa, función renal, bilirrubina total, GOT, GPT, GGT, LDH, FA, amilasa, lipasa, inmunoglobulinas, complemento, PCR, FR y proteinograma dentro de la normalidad. Anticuerpos antifosfolípidos negativos, ANA y antiDNA negativos.
+· Mantoux negativo. Rx tórax: anodina.
+· TAC Tórax: Nódulo milimétrico de alta densidad en lóbulo inferior izquierdo, compatible con granuloma, inespecíficos.
+· ANCA negativos, se descartó colagenosis, ASLO negativo.
+· Espirometría con FEV1: 77%; FVC: 78%; IT: 0.81.
+· Anatomía patológica (biopsia de la lesión): Edema dermis superior con denso infiltrado inflamatorio de polimorfonucleares neutrófilos) que sugieren el diagnóstico de síndrome de Sweet y descartan linfoma cutáneo primario o infección subyacente.
+
+Diagnóstico diferencial en Urgencias y/o en consultas de Medicina Interna y Dermatología: Infección cutánea (fúngica y micobacterias), Pioderma gangrenoso, Sarcoma de Kaposi primario, vasculitis (Poliarteritis nodosa cutánea, Granulomatosis de Wegener), Eritema nodoso...
+
+Diagnóstico final
+Síndrome de Sweet (Dermatosis neutrofílica febril aguda)
+
+Evolución
+A lo largo del ingreso se remite al Servicio de Dermatología con diagnóstico inicial de eritema nodoso por reactivación desde donde se solicita biopsia de la lesión que confirma el diagnóstico de Síndrome de Sweet. Tras el despistaje de malignidad subyacente, se inició tratamiento de inmunosupresión con glucocorticoides sistémicos (prednisona 5 mg/24 h oral inicialmente, que se aumentó ante la no mejoría a 25 mg/24 h oral) a los que posteriormente se añadió indometacina (25 mg/12 h, oral), sin éxito. Al cabo de los meses, la paciente presentó mala evolución clínica de dichas lesiones con ulceración y añadiéndose al tratamiento colchicina (2 mg/24 h oral) y una pauta de 2 semanas de doxiciclina (100 mg/12 h, oral), obteniéndose una discreta mejoría. Más tarde se tuvo que retirar colchicina por intolerancia de la paciente, continuándose con corticoterapia (prednisona 25 mg/24h, oral). Tras revisión de la biopsia por parte de Dermatología y confirmándose el diagnóstico de SS, la paciente inició tratamiento con ciclosporina A dosis de 3.5mg/kg/día, mientras iniciaba pauta descendiente de corticoides hasta llegar a dosis mínima de 5mg de prednisona al día. Tras 10 semanas de tratamiento, la paciente presentaba excelente función renal y tolerancia al fármaco. Actualmente se mantiene con dicha dosis y sin lesiones activas desde la semana 3 de dicha terapia, notando clara mejoría desde la semana 5.

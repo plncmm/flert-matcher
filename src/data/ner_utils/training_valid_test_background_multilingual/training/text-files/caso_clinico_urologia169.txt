@@ -1,0 +1,28 @@
+Anamnesis
+Varón de 43 años de edad, sin antecedentes médicos de interés y con un único antecedente quirúrgico de apendicectomía en la adolescencia.
+El paciente refiere que el primer día comienza con un cuadro de dolor lumbar en el contexto de sobreesfuerzo en el trabajo. El día 11 al dolor lumbar previo se asocia febrícula vespertina, por lo que decide acudir a su médico de Atención Primaria; tras la exploración existe un único hallazgo de dolor lumbar de características mecánicas y febrícula de 37,5 oC; se solicita una radiografía de raquis dorsal y lumbar (que es informada como normal) y comienza tratamiento con antiinflamatorios.
+El día 16 el paciente acude al Servicio de Urgencias por empeoramiento de la febrícula (ahora tiene picos de fiebre de hasta 39 oC) y haber comenzado además con dolor a nivel del hemiescroto izquierdo.
+
+Exploración física
+A la exploración, presenta una temperatura axilar de 38,6 oC e inflamación del epidídimo y testículo izquierdos.
+
+Pruebas complementarias
+• Analítica de sangre: leucocitosis con neutrofilia y proteína C reactiva elevada.
+• Sedimento de orina: normal.
+• Ecografía escrotal: hallazgos ecográficos compatibles con orquiepididimitis izquierda con algún área focal hipoecoica que requiere controles evolutivos hasta su resolución completa.
+• Solicitados hemocultivos y urocultivo. Tratamiento y evolución
+Se diagnostica al paciente de orquiepididimitis izquierda y se comienza tratamiento con ciprofloxacino 500 mg/12 horas, solicitando consulta ambulatoria con el Servicio de Urología. El día 20, frente a la persistencia del cuadro clínico, sin mejoría sintomática, el paciente acude de nuevo al Servicio de Urgencias, donde se consultan los resultados de los cultivos realizados previamente:
+• Hemocultivo: positivo para Brucella melitensis.
+• Urocultivo: negativo.
+Con la sospecha de un cuadro de brucelosis se ingresa al paciente en el Servicio de Medicina Interna, donde permaneció durante 10 días:
+• Se comienza tratamiento antibiótico intravenoso con gentamicina 240 mg/día + doxiciclina 200 mg/día oral + rifampicina 600 mg/día oral.
+• Se amplía la anamnesis: la única posible fuente de contacto es la ingesta de cuajada casera habitual en un restaurante de Navarra (última vez hace un mes).
+• Hemocultivos en dos nuevas ocasiones: positivos para Brucella melitensis.
+• Serología para Brucella: positiva.
+• Rosa de Bengala: positiva.
+• Nueva ecografía testicular: progresión de los hallazgos de imagen en relación con orquiepididimitis izquierda, comparado con el estudio previo. No se aprecian imágenes sugestivas de absceso.
+• Resonancia magnética sacro-ilíaca: hallazgos radiológicos compatibles con sacroileítis leve bilateral.
+• Ecocardiograma transtorácio: normal.
+
+Diagnóstico
+Brucelosis con afectación genital (orquiepididimitis) y ósea (sacroileítis leve bilateral). Dado que precisa de tratamiento antibiótico intravenoso con gentamicina los 15 primeros días (además de tratamiento oral con doxiciclina y rifampicina durante 2 meses) es derivado a un hospital de cuidados intermedios para continuar y finalizar el tratamiento intravenoso.

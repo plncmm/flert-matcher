@@ -1,0 +1,40 @@
+ANTECEDENTES, ENFERMEDAD ACTUAL Y EXPLORACIÓN FÍSICA
+Mujer de 61 años que acude a consultas externas de cardiología.
+
+ANTECEDENTES:
+Independiente para actividades básicas de la vida diaria. Vida activa, aunque limitada por disnea de medianos esfuerzos en últimos meses.
+Factores de riesgo cardiovascular: hipercolesterolemia. Sin hábitos tóxicos.
+Historia cardiológica: cirugía de sustitución valvular aórtica 6 meses antes de la consulta, realizándose recambio valvular aórtico por prótesis mecánica ATS del número 20. La cirugía había sido indicada por estenosis aórtica grave sintomática con fracción de eyección de ventrículo izquierdo (FEVI) conservada y volumen ventricular izquierdo normal, sin otras valvulopatías añadidas. La coronariografía precirugía no había mostrado lesiones coronarias significativas.
+Otros antecedentes personales: fractura de húmero intervenida. Bocio multinodular con tiroidectomía total a tratamiento sustitutivo.
+Tratamiento crónico: levotiroxina 125 mcg, simvastatina 20 mg, bisoprolol 2,5 mg, furosemida 40 mg, omeprazol 20 mg, acenocumarol.
+
+ENFERMEDAD ACTUAL:
+Durante la cirugía de recambio valvular aórtico el cirujano describe la imposibilidad para el correcto vaciamiento cardiaco pese a entrar en circulación extracorpórea. Con posicionamiento de la cánula de salida a nivel auricular derecho y de retorno en aorta ascendente se observaba retorno sanguíneo hacia cavidades izquierdas.
+Clínicamente la paciente refiere disnea de medianos esfuerzos que persiste pese a la cirugía de recambio valvular. Episodios ocasionales de palpitaciones de minutos de duración, con poca limitación funcional.
+
+EXPLORACIÓN FÍSICA:
+Obesidad. Consciente y orientada. Temperatura 36o. Saturación de oxígeno 97% basal.
+Frecuencia cardiaca 85 lpm. Tensión arterial 120/55. Auscultación cardiaca rítmica con soplo de escasa intensidad continuo durante todo el ciclo. Auscultación pulmonar con murmullo vesicular conservado. Miembros inferiores sin edemas, con pulsos femorales y pedios palpables.
+
+PRUEBAS COMPLEMENTARIAS
+ECG: ritmo sinusal a 75 lpm con signos de crecimiento de cavidades izquierdas.
+RADIOGRAFÍA DE TÓRAX: índice cardiotorácico aumentado con redistribución vascular.
+ECOCARDIO TRANSTORÁCICO:
+Ventrículo izquierdo leve-moderadamente dilatado (volumen telediastólico 87 ml/m2), previamente en el límite alto de la normalidad (74 ml/m2). FEVI conservada. Datos de elevación de presiones en cavidades izquierdas.
+Aurícula izquierda severamente dilatada (42 ml/m2), previamente levemente dilatada.
+Ventrículo derecho no dilatado con función conservada.
+Prótesis aórtica mecánica bien posicionada con gradientes normales.
+Insuficiencia mitral leve.
+Insuficiencia tricuspídea trivial.
+La ventana sonográfica no permite estimar gradiente sistólico entre ventrículo y aurícula derecha, ni una correcta visualización del plano paraesternal eje corto de grandes vasos.
+ANGIO-TC de aorta torácica con sincronización cardiaca: ductus arterioso persistente de 5 mm de longitud que comunica la aorta descendente proximal y la arteria pulmonar inmediatamente proximal a su bifurcación. El diámetro del orificio aórtico es de 10 x 6 mm y el pulmonar de 8 x 6 mm.
+
+EVOLUCIÓN CLÍNICA
+La paciente continúa con disnea de medianos esfuerzos tras ajuste de tratamiento médico, lo que limita su vida diaria de forma importante. Dada la clínica y la evolución ecocardiográfica con dilatación progresiva de cavidades izquierdas, se decide cierre percutáneo del ductus arterioso persistente.
+Para dicho procedimiento se canalizan vías venosa femoral derecha y arterial femoral izquierda.
+Se objetiva paso importante de contraste tras entre aorta descendente y arteria pulmonar tras inyección con catéter pig-tail desde arco aórtico. Se consigue paso de ductus desde aorta descendente hacia arteria pulmonar con guía hidrofílica. Se captura la guía a nivel de arteria pulmonar principal con lazo para crear un loop arteriovenoso. Se pasa sistema de liberación por vía venosa hasta aorta descendente a través del ductus. Se libera dispositivo Occlutech de cierre de ductus arterioso. Las maniobras de comprobación muestran un correcto posicionamiento, con mínimo shunt residual.
+
+DIAGNÓSTICO
+Sospecha de shunt izquierdo-derecho extracardiaco durante circulación extracorpórea.
+Ductus arterioso persistente.
+Cierre percutáneo de ductus arterioso.

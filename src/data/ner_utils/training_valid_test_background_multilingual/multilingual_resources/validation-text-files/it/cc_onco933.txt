@@ -1,0 +1,40 @@
+Anamnesi
+La piometra è una patologia rara definita come la presenza di materiale purulento nella cavità uterina secondaria a una difficoltà nel suo drenaggio, che porterebbe a un aumento del volume della cavità uterina, all'assottigliamento della sua parete e anche alla rottura della parete con il materiale purulento che sfugge nella cavità addominale, scatenando la peritonite.
+Presentiamo il caso di una paziente di 58 anni senza storia medica di interesse, indipendente per le attività di base della vita quotidiana, che ha frequentato il dipartimento di emergenza in diverse occasioni nel marzo 2016 con sintomi di dolore nell'ipogastrio insieme a disuria, tenesmo e pollachiuria. È stata trattata con antibiotici e cateterizzazione della vescica per la ritenzione urinaria in entrambe le occasioni, su base ambulatoriale. Poiché non c'è stato alcun miglioramento, il paziente è andato al dipartimento di emergenza una terza volta per gli stessi sintomi che sono ricomparsi quando il catetere vescicale è stato rimosso.
+
+Esame fisico
+La piometra è una patologia rara che si definisce come la presenza di materiale purulento nella cavità uterina secondaria a una difficoltà nel suo drenaggio, che porterebbe a un aumento del volume della cavità uterina, all'assottigliamento della sua parete e persino alla rottura della parete con la fuoriuscita del materiale purulento nella cavità addominale, scatenando la peritonite.
+Presentiamo il caso di una paziente di 58 anni senza storia medica di interesse, indipendente per le attività di base della vita quotidiana, che ha frequentato il dipartimento di emergenza in diverse occasioni nel marzo 2016 con sintomi di dolore nell'ipogastrio insieme a disuria, tenesmo e pollachiuria. È stata trattata con antibiotici e cateterizzazione della vescica per la ritenzione urinaria in entrambe le occasioni, su base ambulatoriale. Poiché non c'è stato alcun miglioramento, il paziente è andato al dipartimento di emergenza una terza volta per gli stessi sintomi che sono ricomparsi quando il catetere vescicale è stato rimosso.
+"Normonutrito, normo-idratato, normo-colorato, cosciente e orientato nel tempo, nello spazio e nella persona. Eupneico.
+"AC: ritmico, senza mormorii.
+"AP: murmure vescicolare conservato, nessun suono extra.
+"Addome: doloroso alla palpazione nell'ipogastrio, con difesa alla palpazione. Nessuna massa o megalite è palpabile.
+"Arti inferiori: nessun edema o segni di trombosi venosa profonda.
+"Neurologico: Glasgow 15/15. Pupille isocoriche e normoreattive. Nervi cranici conservati.
+Nessun segno di focalità neurologica. Nessuna rigidità nucale. Si richiede anche una valutazione da parte della ginecologia:
+"Esame dello speculum: nessuna visualizzazione della cervice o sanguinamento vaginale.
+"Esame bimanuale: cervice cancellata in antiversione forzata, parametrium destro libero, parametrium sinistro appare ispessito.
+
+Test complementari
+Al dipartimento di emergenza:
+"CBC e biochimica di base senza alterazioni, tranne che per i reattori elevati.
+"Il sedimento delle urine non era patologico.
+"Radiografia addominale semplice: massa pelvica apparente con il resto dello studio normale. Alla luce dei risultati descritti sopra, è stata richiesta un'ecografia addominale.
+"Ecografia addominale completata da TAC addominopelvica: liquido libero nella cavità addominale insieme a una massa eterogenea che sembra corrispondere a una crescita uterina con ispessimento murale e un centro cistico/necrotico, con uno spessore della parete di circa 12 mm, e vascolarizzazione della parete. Ha dimensioni di 100 x 100 x 90 cm e sposta le strutture adiacenti, con una vescica anterolaterale. Data l'età della paziente e la presenza di liquido ascitico, la lesione neoformativa endometriale è considerata la prima opzione, ma non si possono escludere altre entità, e lo studio deve essere completato con ecografia ginecologica e risonanza magnetica.
+"Ecografia ginecologica: utero di 10 cm, con immagine intracavitaria di ecorefrangenza mista, circa 45 mm di spessore endometriale. Miometrio omogeneo, appendici atrofiche, liquido libero.
+La paziente è stata ricoverata nel reparto di ginecologia:
+Dati i reperti precedentemente descritti, si richiede la risonanza magnetica della pelvi: neoplasia endometriale di 35 mm che si trova nel fondo dell'utero, dove c'è una discontinuità miometriale che è legata al fatto che il tumore è chiaramente visibile sul piano sagittale. La cervice appare normale. C'è anche una distensione della cavità endometriale dovuta alla presenza di liquido che potrebbe essere ematico. Ascite probabilmente carcinomatosa.
+Una biopsia uterina è stata eseguita per isteroscopia, e l'anatomia patologica ha rivelato un epitelio endocervicale con la presenza di una lesione intraepiteliale di tipo CIN-3, con estensione intraglandolare. L'espressione intensa e diffusa di p16 suggerisce l'origine cervicale, e la diagnosi era quindi un carcinoma della cervice.
+Il paziente ha avuto un'evoluzione tortuosa durante l'ammissione, e una nuova TAC è stata richiesta per la valutazione, che ha rivelato raccolte di liquido intraperitoneale localizzato sospetto di coinvolgimento infiammatorio/infettivo, e si è deciso di eseguire una puntura ecoguidata della raccolta addominale per lo studio microbiologico, biochimico e anatomopatologico.
+La coltura del fluido addominale ha mostrato la presenza di Trichosporon jirovecii.
+
+Diagnosi
+La perforazione uterina secondaria alla piometra è stata diagnosticata come un carcinoma cervicale minimo in stadio FIGO IIB, CT2B CN0 CMX, con peritonite secondaria all'evacuazione del contenuto uterino infetto nella cavità addominale.
+
+Trattamento
+Nel sospetto di un fluido compatibile con un'infezione, è stata eseguita una laparotomia esplorativa con lavaggio e posizionamento di drenaggi, con miglioramento dei reagenti di fase acuta nei giorni successivi, ed è stata trattata con antibiotico empirico per via endovenosa e voriconazolo, visti i risultati della coltura del fluido addominale.
+Una volta risolto il processo infettivo, è stata indirizzata al reparto di oncologia medica. Il trattamento con radioterapia e chemioterapia concomitante (cisplatino 40 mg/m2 settimanale) è stato proposto e accettato, seguito da brachiterapia ginecologica.
+
+Evoluzione
+Il paziente ha presentato una buona tolleranza al trattamento, senza tossicità significativa. La valutazione della risposta del tumore tramite TAC ha mostrato una remissione completa del tumore, e una distensione persistente della cavità addominale con un contenuto ipodenso all'interno, in relazione alla mucometria secondaria nota. Per evitare possibili complicazioni future, la commissione per i tumori ginecologici ha deciso di eseguire un'isterectomia totale + doppia annessectomia + eventroplastica, che è stata eseguita senza incidenti immediati.
+Tre settimane dopo l'intervento, la paziente si è presentata al pronto soccorso di ginecologia lamentando un borbottio intestinale ed episodi occasionali di dolore insieme a sanguinamento vaginale. La TAC di follow-up ha mostrato una raccolta idro-aerea suggestiva di ascesso pelvico post-chirurgico, insieme a una significativa dilatazione dell'intestino tenue con transito ritardato suggestivo di occlusione intestinale. Ha richiesto diversi interventi a causa della sindrome adesiva e attualmente è ricoverata in ospedale per la sindrome adesiva.

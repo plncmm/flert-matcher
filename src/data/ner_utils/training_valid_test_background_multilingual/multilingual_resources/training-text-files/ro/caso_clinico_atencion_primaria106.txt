@@ -1,0 +1,23 @@
+Motivul consultării
+Dureri de cap și amețeli.
+
+Abordare individuală (anamneză, examinare, teste complementare).
+Bărbat în vârstă de 52 de ani, fără alte antecedente personale decât infecția cu HIV de peste 10 ani de evoluție, cu un control imunovirologic bun (CD4 950 celule/μl, CD8 853 celule/μl, leucocite 5 010 x103/μl, încărcătură virală nedetectabilă) sub tratament cu inhibitori de transcriptază inversă cu analogi nucleozidici, fără a fi suferit complicații definitorii pentru SIDA; deci în stadiul A1. A consultat pentru o cefalee holocraniană și amețeli de 15 zile, cu somnolență asociată cu predominanță diurnă, astenie și anorexie în creștere în ultimele săptămâni și pierdere în greutate de 5 kg, precum și transpirație abundentă fără frisoane și afebrilitate. Pacientul s-a declarat copleșit, deoarece simțea că în ultimele săptămâni a uitat lucrurile de zi cu zi și a raportat plâns spontan și nemotivat.
+
+La examinare era conștient, orientat și cooperant, eupneic în repaus și stabil hemodinamic, cu auscultație cardiopulmonară și un examen abdominal neremarcabil. La nivel neurologic, s-a remarcat doar prezența unui Romberg patologic și a unei minime paralizii gestuale faciale, fără rigiditate nucală sau alte semne de iritație meningeală în acel moment, nici alte focalități neurologice la nivelul perechilor craniene, nici alterări senzitivo-motorii, iar pacientul avea un mers normal, nu ataxic, fără lateralizări sau dismetrie, dar cu o anumită letargie a mișcărilor, evidentă chiar pentru pacient.
+
+- Hemogramă: hemoglobină 17,9g/dl, trombocite 235x103/μl, leucocite 9,76 x103/μl, limfocite 3,26 x103/μl, neutrofile 5,72 x103/μl.
+Coagulare: Fibrinogen 511mg/dl, restul normal.
+Biochimie: Glucoză 86 mg/dl, Albumină 4,6 g/dl, Uree 7,1 mg/dl, Rata de filtrare glomerulară 69 ml/min, Creatinină 1,18 mg/dl, profil hidroelectrolitic și hepatic normal.
+CRP: 0,14 mg/L
+Gazele din sângele arterial: Ph 7,469, PaCO2 31,1 mmHg, PaO2 126 mmHg, SaO2 98,3% , HCO3 22,6 mmol/L.
+Urină: normală.
+- CT cranian: LOE cerebral hiperdens, la nivelul corpului calos, care traversează linia mediană și contactează ependimul, cu edem perilesional și ușor efect de masă pe cornul posterior al ventriculilor laterali, foarte sugestiv pentru limfom cerebral primar.
+
+Judecata clinică (listă de probleme, diagnostic diferențial)
+Primul diagnostic pus în Urgență pentru o internare ulterioară a fost o leziune cerebrală compatibilă cu limfom cerebral primar la un pacient HIV în stadiul A1, care după această constatare a fost clasificat în stadiul C1.
+
+Planul de acțiune și evoluția
+A fost internat la Medicină Internă pentru continuarea studiului cu RMN cranian cu contrast, BodyTAC (ambele teste imagistice fără rezultate diferite față de cele de la CT cranian) și o analiză de sânge cu serologie IgG CMV pozitivă cu IgM negativ, IgG Toxoplasma pozitivă IgM negativ, subpopulații limfocitare cu CD4 954 celule/μl cu încărcătură virală nedetectabilă. La internare, aceasta a declarat că se simțea mult mai bine în ceea ce privește durerile de cap după tratamentul cu corticosteroizi. Paralizia facială dreaptă a persistat cu Romberg pozitiv, care a fost negativ după câteva zile de tratament cu corticosteroizi.
+Neurochirurgia a fost contactată pentru evaluarea tratamentului oncologic.
+Din punct de vedere etic, apare următoarea dilemă, deoarece rudele, care nu sunt conștiente de imunodeficiența asociată cu infecția cu HIV a pacientului, solicită ca pacientul să nu fie informat cu privire la boala sa actuală sau la gravitatea acesteia. Confruntat cu acest dublu pact al tăcerii, medicul de familie care va continua să evalueze pacientul în consultații succesive are un rol intermediar și comunicativ, dând explicațiile necesare pacientului și rudelor fără a vorbi direct despre patologia acestuia, cel puțin până când pacientul însuși ne-o va sesiza.

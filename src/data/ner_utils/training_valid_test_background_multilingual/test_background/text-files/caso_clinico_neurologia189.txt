@@ -1,0 +1,23 @@
+Anamnesis
+Mujer de 41 años de edad, diseñadora gráfica de profesión. Como antecedentes personales presenta HTA esencial, diabetes mellitus tipo II, dislipemia, obesidad, asma bronquial, anemia ferropénica y trombocitosis reactiva, trastorno mixto de ansiedad depresión, hernia diafragmática, varices en las extremidades inferiores, roncadora con hipersomnia diurna asociada, dismenorrea. No presenta alergias conocidas a medicamentos ni hábitos tóxicos. En tratamiento con metformina 850 mg, insulina glargina, amitriptilina 25 mg, fluoxetina 20 mg y omeprazol 20 mg cuando se inicia la clínica.
+
+Diez días antes del ingreso hospitalario, acude al Servicio de Urgencias por presentar de forma brusca, encontrándose previamente bien, cefalea acompañada de náuseas, vómitos, diarreas y visión doble horizontal. La cefalea se inició en la región retroocular izquierda para, posteriormente, irradiarse a la zona occipital y, finalmente, hacerse holocraneal; la cualidad era pulsátil, empeoraba con los movimientos cefálicos y se acompañaba de fotofobia. Dicha cefalea fue mejorando con el paso de los días, de manera tal que en los 3 días previos al ingreso la paciente ya no presentaba dolor de cabeza, aunque sí persistía visión doble horizontal continua. A la anamnesis dirigida refería caída del párpado superior izquierdo durante el día anterior al ingreso. Por otra parte, la anamnesis descubre una paciente que ya presentaba dolores de cabeza recurrentes, preferentemente perimenstruales, localizados a nivel holocraneal y de carácter opresivo, que no aumentaban con los movimientos, intensidad de 7/10 (EAV) y que aliviaba parcialmente con fármacos analgésicos. Estas cefaleas se acompañan de sonofobia y fotofobia, aunque sin náuseas ni vómitos asociados. Refiere que la cefalea actual es de características distintas a su cefalea habitual.
+
+Examen físico
+En la exploración destacaba una temperatura de 37,6 oC, con un fondo de ojo normal y una paresia del músculo recto externo izquierdo con diplopía binocular oblicua en todas las direcciones de la mirada, salvo a la mirada superior. Resto dentro de la normalidad.
+
+Pruebas complementarias
+• Hemograma: sin alteraciones significativas. VSG 4 mm. Coagulación normal.
+• Bioquímica: Glucosa 157 g/dl, HbA1c 7,1%, ácido úrico 10,09 mg/dl, colesterol total 269 mg/dl, HDLc 29 mg/dl, LDLc 172 mg/dl, triglicéridos 340 mg/dl, iones normales, GOT 61 UI/l, GPT 99 UI/l, GGT 99 UI/l, LDH 191 UI/l, vitamina B12 normal, folato normal. Hormonas: normales. Inmunología: ANA positivos (1/160; patrón moteado fino), anticuerpos antitiroideos negativos. Serologías negativas.
+• Líquido cefalorraquídeo: presión de salida de 24 cm H2O. Sin otras alteraciones.
+• Radiografía simple de tórax: normal.
+• ECG: normal.
+• TC craneal: asimetría en la visualización del margen izquierdo del seno cavernoso, sin que se objetive afectación orbitaria ipsilateral. No afectación de agujeros lacerum carotídeos. Se sugiere evaluación con RM craneal para el despistaje de patología intracavernosa izquierda.
+• RM cerebral (abierta por crisis de ansiedad): presencia de un adenoma hipofisario de 9 x 8 x 5 mm, que está lateralizado hacia la izquierda y que presenta una hemorragia subaguda en su interior.
+• PEV: normales.
+
+Diagnóstico
+Síndrome de oftalmoplejía dolorosa secundario a adenoma hipofisario con hemorragia secundaria. Apoplejía hipofisaria.
+
+Tratamiento y evolución
+Durante su ingreso en la planta de hospitalización la paciente permaneció estable, persistiendo la diplopía binocular oblicua en todas las direcciones de la mirada salvo en la mirada hacia arriba, con cese paulatino de la cefalea. Se inicia tratamiento corticoideo tras la caracterización del cuadro, con mejoría lenta de la clínica oculomotora, y es evaluada por los Servicios de Endocrinología y Neurocirugía, decidiéndose mantener el tratamiento sintomático inicialmente, con reevaluación según su evolución (no se ha considerado cirugía hasta el momento).

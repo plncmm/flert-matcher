@@ -1,0 +1,26 @@
+Anamnesis
+Mujer de 51 años de edad, sin factores de riesgo vascular conocidos ni hábitos tóxicos, con un ingreso el año previo por anemia ferropénica secundaria a metrorragias por adenomiosis uterina, que fue valorada por presentar cefalea y crisis comiciales. La paciente consultó inicialmente en Atención Primaria por un cuadro de malestar general y otalgia de 24 horas de evolución, que no mejoró con tratamiento tópico y antiinflamatorios sistémicos. Horas después comenzó con cefalea occipital, acompañada de sensación nauseosa intensa y dos vómitos biliosos, por lo que decidió acudir al Servicio de Urgencias. Durante el traslado, sufrió un episodio de desconexión del medio y sacudidas en las cuatro extremidades, con recuperación en 1-2 minutos. En Urgencias presentó un nuevo episodio de desconexión del medio y rigidez generalizada.
+
+Examen físico
+La exploración sistémica solo mostró, como hallazgo patológico, una tensión arterial de 190/90 mmHg. Desde el punto de vista neurológico, la paciente estaba postcrítica, aunque presentaba apertura ocular espontánea, respondía con facilidad a estímulos verbales y comprendía y obedecía órdenes sencillas. El resto de la exploración no mostraba hallazgos significativos.
+
+Pruebas complementarias
+• Hemograma: 14.700 leucocitos con 13.100 neutrófilos y 1.300 linfocitos; hemoglobina 10,7 g/dl, VCM 68,8 fl; 405.000 plaquetas.
+• Coagulación básica y bioquímica sanguínea: normales.
+• Sistemático, sedimento y bioquímica de orina de 24 horas: normales.
+• Tóxicos en orina: negativos.
+• TC craneal (al ingreso): lesión hipodensa occipital izquierda.
+• TC craneal de control (12 horas después del primer estudio): aumento del área de baja atenuación occipital izquierda y aparición de un área de baja atenuación occipital derecha. Tomografía computarizada craneal de control: hipodensidad occipital bilateral.
+• Resonancia magnética cerebral: hiperintensidad subcortical en FLAIR y T2 en ambos lóbulos occipitales, asimétrica, más significativa en el lado izquierdo, con mínima afectación cortical. Las lesiones no muestran restricción de la difusión. Resonancia magnética craneal (FLAIR coronal): hiperintensidad occipital bilateral. 
+• Electrocardiograma: normal.
+• Radiografía de tórax: normal.
+• Ecocardiograma: aneurisma del septo interauricular sin paso de suero agitado ni basal ni tras maniobra de Valsalva. Ventrículo izquierdo de dimensiones y grosores normales. Válvulas normales.
+
+Diagnóstico
+Encefalopatía posterior reversible, secundaria a hipertensión arterial.
+
+Tratamiento
+Se inició tratamiento hipotensor al ingreso, inicialmente con captopril y posteriormente con losartán, con buen control de las cifras tensionales.
+
+Evolución
+Durante las primeras horas de ingreso, la paciente desarrolló un cuadro de ceguera cortical, coincidiendo con la progresión radiológica demostrada en la TC de control. Tras lograr un correcto control de la tensión arterial, la paciente quedó completamente asintomática. Se realizó una resonancia magnética cerebral de control que demostró la desaparición de las lesiones.

@@ -1,0 +1,22 @@
+Anamnesis
+Mujer de 34 años con atresia biliar congénita intervenida a los 2 meses de vida. Trombosis e hipertensión portal presinusoidal con múltiples complicaciones secundarias. Insuficiencia renal crónica secundaria a glomerulonefritis mesangial IgA, habiendo recibido dos trasplantes renales fallidos, en hemodiálisis crónica.
+
+Ingresada en nuestro centro tras recibir su tercer trasplante renal y primer trasplante hepático. Seguía tratamiento inmunosupresor con corticosteroides, micofenolato mofetilo, timoglobulina y altas dosis de tacrolimús por síndrome de hiperinmunización. Tras dos crisis tónico-clónicas generalizadas, desarrolla en las horas siguientes cefalea, vómitos y un cuadro de encefalopatía progresiva con somnolencia hasta el estupor, episodios de agitación y alucinaciones visuales. En días previos se habían registrado cifras tensionales elevadas respecto a sus habituales y objetivado niveles séricos altos de tacrolimús.
+
+Examen físico
+Afebril. Ojos cerrados, con apertura al estímulo táctil vigoroso únicamente. No emitía lenguaje ni obedecía órdenes. No establecía contacto visual ni seguía con la mirada. No se evidenciaron oftalmoparesias evidentes ni movimientos oculares erráticos. Isocoria reactiva. No asimetrías faciales. Movilizaba las cuatro extremidades de forma simétrica al estímulo doloroso. RCP flexor bilateral. ROT simétricos, normoactivos. Dudosos signos de irritación meníngea.
+
+Pruebas complementarias
+• En la analítica destacaba creatinina 1,5 mg/dl, iones normales. Enzimas hepáticas y coagulación normales. Niveles de tacrolimús 16,4 ng/ml.
+• En la tomografía computarizada (TC) craneal se objetivó una hipodensidad córtico-subcortical parietooccipital bilateral, más evidente en el lado izquierdo, sin claro efecto masa local, salvo parcial amputación de surcos corticales. Se acompañaba de hemorragia subaracnoidea en los surcos occipitales y parietales del lado izquierdo.
+• Ante la sospecha de estatus epiléptico no convulsivo se realizó un EEG urgente, donde se observaron descargas epileptiformes lateralizadas periódicas (PLEDS), que ocasionalmente recordaban a PLEDS-plus, en la región témporo-occipital izquierda. En dos momentos del registro se transmitieron al hemisferio contralateral. El trazado era compatible con estatus focal témporo-occipital izquierdo.
+• Resonancia magnética cerebral: aumento de la intensidad de señal en las secuencias de TR largo del córtex parieto-occipital bilateral y temporal derecho, así como en el pulvinar de ambos tálamos. Múltiples focos hiperintensos de sustancia blanca bilateral de predominio parieto-occipital. Además, imágenes lineales, hiperintensas en secuencia FLAIR, occipitales izquierdas sugestivas de hemorragia subaracnoidea y algún foco puntiforme hiperintenso en T2 en la sustancia blanca periatrial izquierda sugestivo de foco hemorrágico. Estos hallazgos eran compatibles con PRES hemorrágica. En la secuencia potenciada en difusión (DWI) se observó restricción de la difusión, sin descenso del ADC, en áreas córtico-subcorticales parieto-occipitales y pulvinar talámico bilateralmente e ínsula derecha, en relación con edema local.
+
+Diagnóstico
+Encefalopatía posterior reversible (PRES) asociada a toxicidad por tacrolimús e hipertensión arterial relativa. Estatus epiléptico focal secundario.
+
+Tratamiento
+La paciente ingresó en la UCI. Se inició tratamiento antiepiléptico con levetiracetam, se suspendió el tacrolimús y se controló la tensión arterial. Registros electroencefalográficos diarios revelaron la persistencia del trazado compatible con estatus epiléptico, requiriendo la adición de lacosamida y topiramato.
+
+Evolución
+Diez días después del inicio del cuadro, desapareció el patrón de estatus eléctrico y la paciente recuperó de manera progresiva el nivel de consciencia hasta quedar asintomática. Se confirmó la mejoría radiológica en una resonancia magnética (RM) craneal realizada un mes después del inicio de los síntomas, aunque persistía una pequeña imagen de infarto en la región témporo-occipital izquierda, considerada el foco epileptógeno.

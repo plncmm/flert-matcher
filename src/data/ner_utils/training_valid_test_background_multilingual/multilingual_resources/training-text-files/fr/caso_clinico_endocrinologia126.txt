@@ -1,0 +1,32 @@
+Nous présentons le cas d'un homme de 48 ans qui a commencé par des symptômes de frontalisation et de trouble de la marche, et qui a été adressé au service de neurologie, avec une aggravation progressive nécessitant un fauteuil roulant, et une altération du comportement consistant en une désinhibition, une irritabilité, une perte du contrôle sphinctérien, une indifférence affective et une apathie.
+
+Des analyses de sang générales, une sérologie, des anticorps antinucléaires (ANA) et des anticorps anti-cytoplasme des neutrophiles (ANCA) ainsi qu'une ponction lombaire ont été effectuées, sans aucune anomalie.
+Une imagerie par résonance magnétique (IRM) cervicale et crânienne a été demandée, montrant une atrophie diffuse au niveau de la moelle épinière sans signification pathologique et au niveau crânien de nombreuses lésions hypointense en T1 et hyperintense en T2, affectant les deux voies cortico-spinales, les noyaux dentés cérébelleux et les pédoncules cérébelleux supérieurs, ainsi qu'une rupture de la barrière hémato-encéphalique (BHE).
+
+Une électromyographie (EMG) a été réalisée, montrant des signes de polyneuropathie mixte dans les membres inférieurs, avec une faible amplitude sensorielle et des vitesses motrices réduites.
+
+Compte tenu de l'atteinte symétrique de la substance blanche, un trouble métabolique a été suspecté et des analyses ont été demandées, sans modification de la quantification des acides aminés ou des acylcarnitines, mais avec une élévation des acides gras à très longue chaîne (AGTLC) dans le sang, en particulier de l'acide hexacosanoïque (C26 : 0), avec un résultat de 2,18 micromol/litre (μmol/l), la limite supérieure du laboratoire de référence étant de 0,17 μmol/l, et de l'acide tétracosanoïque (C24:0), avec des niveaux de 47 μmol/l, la limite étant de 14 μmol/l.
+En outre, il y avait une inversion du rapport entre ces AGTLC et l'acide béhénique C22:0 (C26:0/C22:0 de 0,071 et C24:0/C22:0 de 1,54, avec des limites de laboratoire de 0,77±0,12 et 0,012±0,004 respectivement), ce qui a permis d'établir le diagnostic de X-ALD.
+Pour confirmer le diagnostic, une étude génétique de ABCD1 a été réalisée, observant une délétion en hémozygotie en position c.1415_1416delAG, donnant un codon prématuré p.GLn472ArgfsX83 et conduisant à une protéine tronquée avec une perte de 26% de ses acides aminés, compatible avec le diagnostic établi.
+Le patient a suivi une éducation diététique et les taux sanguins de testostérone et de cortisol étaient normaux.
+La sévérité de cette entité est plus intense chez les mâles hémozygotes et moindre chez les femelles hétérozygotes. Il y a un déficit de la bêta-oxydation perixisomale des AGTLC, conduisant secondairement à l'accumulation d'AGTLC (surtout C26:0 et C24:0)
+
+dans le système nerveux central, la moelle épinière, le cortex surrénalien et le tissu testiculaire. Cette déficience est due à des mutations du gène ABCD1 (xq28) sur le chromosome X, qui entraînent un dysfonctionnement de la protéine ALDp (lignoceryl-CoA synthétase), essentielle au transport des AGTLC du cytoplasme vers la lumière du peroxysome.
+Une variabilité phénotypique apparaît, en fonction de l'atteinte neurologique et de l'âge de survenue :
+
+- Cérébrale : progression la plus rapide. Elle touche les enfants âgés de 2,5 à 12 ans, étant rare chez les adolescents (<7%) ou les adultes (<5%). On observe un déficit cognitif modéré, une surdité de perception, une ataxie cérébelleuse, une hémiplégie, une insuffisance surrénale primaire subclinique, des convulsions et une démence.
+
+- Adrénomyéloneuropathie (AMN) : deuxième et quatrième décennie. On observe une paraparésie spastique avec des troubles de la marche, un dysfonctionnement sexuel et une insuffisance surrénale chez 2/3 des patients.
+
+- Maladie d'Addison : environ 10 % des patients présentent une insuffisance surrénale, sans atteinte cérébrale, bien qu'il existe un risque de la développer4.
+- Femmes hétérozygotes : 50 % ont une atteinte neurologique lentement progressive. L'insuffisance surrénale est rare.
+
+Le diagnostic repose sur les résultats cliniques, l'IRM, la démonstration de l'accumulation d'AGTLC dans le sérum, en particulier de C26:0 et C24:0, et l'inversion du rapport avec C22:0.
+L'examen d'imagerie le plus sensible est l'IRM, qui montre une atteinte bilatérale et symétrique de la substance blanche centrale. Une hyperintensité T2 est observée, notamment dans la région temporo-occipitale et le corps calleux. Selon la localisation de la lésion, elle est classée comme suit :
+
+1. Lobe pariéto-occipital et splénium du corps calleux. 2. Lobe frontal et genou du corps calleux.
+3. Frontopontine et corticospinale.
+4. Cérébelleux.
+5. Lobe frontal et pariéto-occipital combinés.
+
+Le seul traitement utile dans la prévention de la progression neurologique est la transplantation allogénique de cellules souches hématopoïétiques (HSCT) provenant de la moelle osseuse, du sang de cordon ou du sang périphérique. Le principal inconvénient réside dans la morbidité et la mortalité de la procédure. La thérapie génique, consistant à transférer le gène ABCD1 dans des fibroblastes et des cellules hématopoïétiques à l'aide d'un vecteur lentiviral dérivé du virus VIH, a donc été proposée, bien que des études supplémentaires soient nécessaires pour étendre son application. Une HSCT est indiquée en présence de nouvelles lésions, d'un renforcement des lésions existantes à l'IRM ou de nouveaux symptômes neurologiques.

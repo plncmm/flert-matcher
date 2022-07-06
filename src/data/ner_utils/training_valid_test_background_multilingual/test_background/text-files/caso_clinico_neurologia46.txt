@@ -1,0 +1,33 @@
+Anamnesis
+Varón, 57 años, fumador de 20 cigarrillos al día desde hace más de 40 años, bebedor moderado y con antecedente de infecciones dentarias de repetición sin otras enfermedades médico-quirúrgicas de interés. Presenta cuadro rápidamente progresivo, no brusco, de aproximadamente 72 horas de evolución, consistente en debilidad cada vez más intensa en la extremidad superior izquierda, sin dolor ni síntomas sensitivos. El paciente negaba cefalea y/o cervicalgia. Unos 20 días antes refería haber presentado un episodio autolimitado en 48 horas de dolor punzante de características pleuríticas en la región costal izquierda que irradiaba al hombro y a la raíz de la extremidad superior ipsilaterales. Desde este episodio manifestaba tos productiva ocasional con esputo amarillento y hebras de sangre, acompañada de fiebre en picos de hasta 38 oC. Asimismo, relataba pérdida ponderal de unos 8 kg en los últimos 4 meses asociado a astenia, sin hiporexia.
+Como antecedente previo al síndrome constitucional había sufrido un flemón dentario con abundante supuración, tratado con amoxicilina y antiinflamatorios.
+
+Examen físico
+Exploración general: temperatura 36 oC, tensión arterial 174/96 mmHg, frecuencia cardiaca 99 lpm. Saturación de O2 basal 99%. Glucemia capilar: 250 mg/dl. Piel y mucosas: no estigmas cutáneos de endocarditis ni de venopunción. Cabeza y cuello: no adenopatías palpables. Caries dentales. Tórax, abdomen y extremidades: normales. Exploración neurológica: funciones corticales normales. Pares craneales normales. Sistema motor: hemiparesia braquio-crural izquierda desproporcionada (0/5 ESI con afectación global de la musculatura distal y proximal; 4+/5 EII). REM simétricos, presentes en las cuatro extremidades, vivos (+++/++++). RCP flexor bilateral. Sistema sensitivo: normal. Función extrapiramidal y cerebelosa: normales. Marcha y bipedestación: leve paresia con EII. Signos meníngeos: ausentes.
+
+
+Pruebas complementarias
+• Bioquímica: destacaba glucemia de 266 mg/dl, hemoglobina glicada de 11,3% y elevación de reactantes de fase aguda (RFA) como PCR (3,94 mg/dl); resto de parámetros dentro de la normalidad.
+• Hemograma: destacaba leucocitosis (14.100/μl) con neutrofilia (74,9% neutrófilos), macrocitosis (VCM 102,6 fl) sin anemia y serie plaquetaria normal.
+• Coagulación: normal.
+• Estudio microbiológico en suero: negativo para VIH, sífilis, VHC y VHB.
+• Sistemático de orina y sedimento: normales. Estudio pulmonar:
+• Radiografía de tórax posteroanterior y lateral: imagen bien delimitada de consolidación en el lóbulo inferior izquierdo (LII).
+• Tomografía computarizada (TC) torácica con CIV: lesión de 5,3 x 3,4 cm localizada en la base pulmonar izquierda, de pared gruesa y contenido hidroaéreo sugestiva de absceso pulmonar. Radiografía de tórax posteroanterior que muestra una imagen consolidante bien delimitada en el lóbulo inferior izquierdo. Imagen de la tomografía computarizada torácica con visualización del absceso pulmonar en el LII.
+• Espirometría: normal.
+• Estudio microbiológico del esputo y LBA por fibrobroncoscopia: tinciones para bacterias, micobacterias (BAAR) y hongos negativas. Cultivos (x2) negativos.
+• Biopsia transbronquial por fibrobroncoscopia: biopsia del segmento 9 del LII negativa para neoplasia, compatible con proceso inflamatorio abscesificado.
+• PAAF guiada por TC torácica: punción de la masa pulmonar en el segmento 9 del LII con estudio citológico compatible con material purulento y cultivo bacteriano positivo para Streptococcus intermedius (miembro del grupo Streptococcus anginosus). Estudio cardiológico:
+• Electrocardiograma basal: ritmo sinusal a 90 lpm, onda P mitral, con intervalo P-R y QRS normales, sin alteraciones en la repolarización.
+• Ecocardiograma transtorácico: sin evidencia de endocarditis ni cardiopatía estructural. Función biventricular normal. Estudio cerebral:
+• TC craneal con CIV: se visualizan dos lesiones ocupantes de espacio cerebrales frontales derechas (una cortical y otra subcortical) con captación de contraste en anillo y edema perilesional.
+• RM cerebral con administración de contraste: lesión subcortical en el centro semioval y lesión satélite cortical frontales derechas, con captación de contraste en anillo y edema vasogénico perilesional. La lesión subcortical presenta intensa restricción en secuencias de difusión. Resonancia magnética cerebral. A. Se observa corte axial de secuencia T1w con contraste que muestra una lesión frontal derecha subcortical con captación en anillo y edema perilesional. B. Se visualiza secuencia de difusión que muestra una marcada restricción de la misma lesión.
+
+Diagnóstico
+Abscesos piógenos pulmonar y cerebrales por Streptococcus intermedius, con foco odontógeno.
+
+
+Tratamiento Se inició tratamiento antibiótico empírico con meropenem y metronidazol, sustituido por ceftriaxona y metronidazol tras obtener los resultados del antibiograma. No obstante, debido a la aparición de un rash cutáneo con eosinofilia, se volvió a modificar la antibioterapia a linezolid 600 mg/12 h (3 semanas de tratamiento) y moxifloxacino 400 mg/24 h (90 días de tratamiento). Durante los primeros días fue necesario asociar corticoterapia (dexametasona) para disminuir el edema vasogénico cerebral. Para el adecuado control glucémico el paciente precisó tratamiento con insulinoterapia (insulina lispro e insulina glargina).
+
+Evolución
+El paciente presentó una muy buena evolución clínica, con resolución completa de la focalidad neurológica tras iniciar tratamiento antibiótico y corticoideo. En los estudios posteriores de seguimiento con RM cerebral se objetivó una progresiva disminución del tamaño de los abscesos cerebrales hasta su desaparición, así como del edema cerebral vasogénico y del absceso pulmonar.

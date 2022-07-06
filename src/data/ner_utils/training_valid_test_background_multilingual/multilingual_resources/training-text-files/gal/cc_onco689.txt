@@ -1,0 +1,23 @@
+Anamnesis
+Muller de 36 anos, fumadora activa de 5 paquetes-ano, inmigrante: exposta ao accidente de Chernóbil. Consulta en abril 2017 por disnea brusca e dor torácica pleurítico dereito.
+
+Exploración física
+Á exploración física, destaca un ECOG 1, e o resto sen achados.
+
+Probas complementarias
+Analíticamente non presenta achados relevantes.
+Radiografía de tórax: lesión nodular cavitada en LID.
+Angio-TC de tórax: TEP bilateral. Masa cavitada en segmento apical do LID de 3,2 cm. Adenopatías paratraqueales bilaterales, en fiestra aortopulmonar e hiliares bilaterales.
+Broncoscopia: normal con cepillado e BAS negativo para malignidad.
+PET/TC: lesión hipermetabólica en LID. Adenopatías hipermetabólicas paratraqueales inferiores dereitas e esquerdas, fiestra aortopulmonar, subcarinal e hiliar bilateral. Múltiples adenopatías hipermetabólicas retroperitoneales.
+Realízase biopsia Tru-cut de masa pulmonar que informa de infiltración por adenocarcinoma de patrón micropapilar TTF1 +++, PD-L1 (Ac 22C3) negativo, con forte expresión inmunohistoquímica de ALK concordante con expresión proteica de translocación.
+EGFR nativo.
+
+Diagnóstico
+Se diagnóstica, xa que logo, dun adenocarcinoma de pulmón cT2aN3M1c (8a edición TNM) portador da translocación ALK.
+
+Tratamento
+Iníciase tratamento con crizotinib en primeira liña en xullo 2017 a unha dose diaria de 250 mg cada 12 horas. Confírmase resposta parcial en TC torácica abdominal segundo criterios RECIST 1.1 e resposta completa metabólica en PET/TC realizada ás 8 semanas.
+
+Evolución
+Desde o inicio do tratamento, a paciente presenta náuseas grado 1-2 asociadas, na semana 15, a emesis grado 1. En novembro de 2017, tras 19 semanas, consulta por cadro de disfagia progresiva de 15 días de evolución acompañada de dor centrotorácico. Realízase gastroscopia urxente que mostra unha mucosa esofágica de coloración grisácea difusa con áreas sobreelevadas a varios niveis. A biopsia de esófago mostra un epitelio esofágico con destrución da capa basal, non observándose hongos, nin inclusións víricas. Co diagnóstico de esofagitis G3 secundaria a tratamento con crizotinib, procédese a suspender tratamento e ao seu ingreso hospitalario para tratamento de soporte. A evolución é favorable, con mejoría sintomática ao cuarto día; con todo, ao décimo día existe un empeoramiento sintomático consistente en dor abdominal a nivel de epigástrico, que non responde ao tratamento analgésico a pesar do incremento progresivo da dose de opioides pautada. A exploración física era anodina.

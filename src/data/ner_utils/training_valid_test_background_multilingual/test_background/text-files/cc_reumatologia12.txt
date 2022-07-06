@@ -1,0 +1,35 @@
+Mujer de 33 años con antecedentes personales de esclerosis múltiple diagnosticada en 1998 en tratamiento con interferón (INF) desde 2003 de forma ininterrumpida, salvo un periodo de suspensión transitoria durante su embarazo en 2009. En julio de 2011 se suspendió de forma definitiva por mala tolerancia y escasa actividad clínica y radiológica de su enfermedad. Acudió a urgencias del hospital en septiembre de 2011 por debilidad intensa, calambres en miembros inferiores, pérdida de sensibilidad en región distal de piernas y sensación de inestabilidad en la marcha desde hacía 2-3 semanas. En la anamnesis dirigida refería tos escasa no productiva con pérdida ponderal de 10 kg de peso en el último año.
+En la exploración física presentaba un aceptable estado general, afebril, normotensa, hiperemia conjuntival, sin edemas en miembros inferiores, resto de la exploración sin hallazgos destacables.
+Entre las pruebas complementarias destacaban:
+— Hemograma: anemia leve normocítica normocrómica, siendo el resto normal.
+— Bioquímica con deterioro de la función renal (Cr 2,72 mg/dl) e hipercalcemia (15,28 mg/dl), fosforo: 6 mg/dl, proteínas totales: 9,6 g/dl.
+— PTH intacta: 9,5 pg/ml
+— Vitamina D normal: 61 nmol/l
+— ECA 146 UI/l (valores normales: 18-55).
+— Orina con hipercalciuria (782 mg/24 horas) y reabsorción tubular de fosfato baja (42%).
+— Rx PA tórax con infiltrado reticuloalveolar difuso bilateral con marcada cisuritis derecha sin pinzamiento de senos costofrénicos.
+— Ecografía abdominal: ambos riñones con tamaño normal y aumento de la ecogenicidad cortical, no imágenes sugestivas de nefrocalcinosis ni litiasis.
+— TAC de tórax: alteraciones pulmonares compatibles con sarcoidosis tipo II
+— Fibrobroncoscopia con lavado broncoalveolar y biopsia transbronquial que no aportaron hallazgos destacables.
+
+DIAGNÓSTICO DIFERENCIAL
+Nos planteamos el diagnóstico diferencial de una hipercalcemia grave sintomática. Las causas más frecuentes de hipercalcemia son el hiperparatiroidismo primario y las neoplasias, representando aproximadamente el 90% de los casos, y en menor proporción otras entidades menos frecuentes como la hipercalcemia hipocalciúrica familiar (FHH), enfermedades granulomatosas, aportes externos de vitamina D, hipertiroidismo, así como discrasias de células plasmáticas. Tras la confirmación de la hipercalcemia se determina la concentración de la hormona paratiroidea intacta (iPTH).
+Unos niveles elevados de PTH (>20 pg/ml) podrían corresponder a:
+— Hiperparatiroidismo primario: en nuestro caso la hiperfosforemia (a pesar del fracaso renal agudo) iría en contra de este diagnóstico, que suele cursar con hipofosfatemia.
+— Hiperparatiroidismo secundario, poco probable ya que se trata de un fracaso renal agudo y suele ir con hipocalcemia.
+— Hereditarias: FHH, en la que debería de presentar una calciuria baja (nuestro caso tenia valores elevados de calciuria) y síndromes MEN (poco probable).
+Unos niveles bajos de PTHi (<20 pg/ml) podrían corresponder a:
+— Neoplasias: hematológicas como el mieloma (se solicitó proteinograma e inmunofijación en sangre y orina así como radiografía lateral craneal que fueron normales); linfomas (no había adenopatías en la exploración), destrucción de hueso por metástasis o por mediación humoral por PTH-r (se solicitó TAC para despistaje de neoplasias, así como marcadores tumorales que fueron normales).
+— Hipervitaminosis D: solicitamos niveles de 25 OH Vit D que se encontraban en rango normal.
+— Enfermedades granulomatosas (por activación de 1,25 hidroxi-vitamina D en macrófagos): se solicitaron niveles de ECA ante la sospecha de sarcoidosis y por el antecedente de haber sido tratada con INF, tos persistente y pérdida de peso, cuyo valor fue elevado. Además, la TAC de tórax se objetivaron lesiones pulmonares compatibles con sarcoidosis tipo II.
+— Medicamentosas: debemos considerar el antecedente de tratamiento con INF y la relación que se ha visto en varias publicaciones con las enfermedades granulomatosas como la sarcoidosis en estos pacientes, tanto de forma concomitante como después de dicho tratamiento; además se describe en la literatura que la primera manifestación de la sarcoidosis en pacientes tratados con INF puede ser una hipercalcemia sintomática.
+— Misceláneas: hipertiroidismo, enfermedades reumáticas.
+En cuanto al fracaso renal agudo que presentó la paciente se asoció al daño tubular secundario a la vasoconstricción renal por hipercalcemia, descartándose causa obstructiva mediante ecografía
+
+DIAGNÓSTICO DEFINITIVO
+— Sarcoidosis asociada a empleo de interferón con afectación pulmonar y ocular.
+— Hipercalcemia con fracaso renal agudo por disfunción tubular secundario a vasoconstricción renal por hipercalcemia
+
+
+TRATAMIENTO Y EVOLUCIÓN
+A su ingreso se inició tratamiento con solución salina al 0,9% y furosemida intravenoso. Ante la sospecha de sarcoidosis se iniciaron esteroides a dosis de 0,5 mg/kg/día con mejoría progresiva de la función renal, de la calcemia y de la sintomatología. Fue valorada por el servicio de Oftalmología que objetivó una queratopatía en banda con depósito de calcio. Se recomendó tratamiento tópico con colirios de tobramicina-esteroides y lágrimas artificiales. Desde el punto de vista neurológico la paciente continuaba estable sin clínica en relación a esclerosis múltiple. Al alta presentaba mejoría de la función renal (Cr: 1,36 mg/dl, FGe CKD-EPI: 51 ml/min/1,73 m2) y de la calcemia (Calcio 9,96 mg/dl). Durante su seguimiento en consultas de Nefrología, presentó evolución favorable con recuperación completa de función renal (Cr 0,75 mg/dl, FGe CKD-EPI: 103 ml/min/1,73 m2) y calcemia normal. Se trató con esteroides durante 8 meses, sin presentar recidivas posteriores.

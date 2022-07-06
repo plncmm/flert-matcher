@@ -1,0 +1,10 @@
+Mujer de 47 años, natural de Marruecos, lleva 10 años en España. NAMC. Sin antecedentes de interés.
+Consulta por cuadro de cefalea intensa, asociando nauseas sin vómitos, así como postración e importante afectación del estado general. No fiebre ni semiología infecciosa asociada.
+TA 200/120mmHg. Taquipnea (40rpm), taquicardia (150lpm). Marcada diaforesis. Importantes signos de deshidratación. ACR anodina. Deterioro del nivel de consciencia sin clara focalidad neurológica.
+
+Pruebas Complementarias Iniciales
+- Analítica: Serie blanca, serie roja y plaquetas sin alteraciones. Glucosa 333 mg/dl. Función renal y hepática normales. Ligera hipopotasemia (2.8 mEq/L). Gasometría venosa con acidemia metabólica (pH 7.1, HCO3 14 mmol/l, PCO2 28 mmHg). Cetonuria negativa.
+- TAC craneal: sin hallazgos patológicos
+Se ingresa en UCI con sospecha de descompensación diabética aguda no cetósica. Tras inicio de tratamiento con sueroterapia intensiva, perfusión de insulina y bicarbonato 1M, mejoría del estado general y control de las glucemias. Aun así, persiste cefalea, importante diaforesis, tendencia a la taquicardia (110lpm) y HTA con difícil control (tratamiento con IECAs, diuréticos, calcioantagonistas y NTG) junto con episodios de hipotensión ortostática. Ante la sintomatología presentada por la paciente, y la sospecha de feocromocitoma, se solicita RNM de glándulas suprarrenales en la que se objetiva una masa suprarrenal derecha (60x45mm), bien delimitada e hiperintensa en T2, sugerente de feocromocitoma.
+En el estudio de función suprarrenal (previa retirada de fármacos que pudieran interceder en dicho estudio), se objetiva una importante elevación de metanefrinas (778 mcg/24h) y normetanefrinas (10.053 mcg/24h) en orina. Por lo que se confirma el diagnostico de FEOCROMOCITOMA SUPRARRENAL DERECHO.
+Se inicia tratamiento con alfa (doxazosina) y beta (bisoprolol) bloqueo y se interconsulta con Urología para extirpación de la lesión.

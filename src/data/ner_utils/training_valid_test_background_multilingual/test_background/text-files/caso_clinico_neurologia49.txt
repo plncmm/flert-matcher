@@ -1,0 +1,20 @@
+Anamnesis
+Mujer de 84 años, reacción medicamentosa a la azitromicina, sin confirmación de alergia, con antecedentes personales de hipertensión arterial, diabetes mellitus tipo 2, dislipemia y accidente isquémico transitorio tipo afasia motora en 2011. Acude a Urgencias por cefalea intensa junto a vómitos persistentes en las últimas 48 horas, así como alteraciones de la conducta, oscilaciones del nivel de consciencia y episodios autolimitados de dificultad para la movilización de las extremidades derechas junto con alteración en la emisión del lenguaje. Refiere a su vez sensación distérmica y anorexia, sin sintomatología infecciosa de ningún aparato.
+
+Examen físico
+Tensión arterial 100/50 mmHg, frecuencia cardiaca 100 lpm, saturación de oxígeno 96%. Temperatura 36,5 oC. Consciente, regular estado general, palidez mucocutánea. Bien hidratada. Auscultación cardiaca: tonos rítmicos sin soplos. Auscultación respiratoria: murmullo vesicular conservado en todos los campos pulmonares. Abdomen blando, depresible, sin masas ni organomegalias. Ruidos hidroaéreos conservados. Extremidades inferiores sin edemas ni signos de trombosis venosa profunda. Exploración neurológica: bradipsiquia con dificultad ocasional para la comprensión y ejecución de órdenes sencillas, lenguaje conservado pero con limitaciones ocasionales en la comprensión y respuesta a veces en cierto modo incongruente. Limitación en la abducción de ambos ojos sugerente de paresia del sexto par bilateral. Paresia facial central derecha leve. Balance muscular en las extremidades derechas 4/5, izquierdas sin alteraciones. Reflejos osteotendinosos presentes y simétricos. Sensibilidad sin alteraciones.
+
+Pruebas complementarias
+• Análisis sanguíneo urgente: hemoglobina 9,3 g/dl, hematocrito 28,6%, volumen corpuscular medio 105,8 fl, leucocitos 11,4 mil/mm3, plaquetas 4 mil/mm3, bilirrubina total 1,4 mg/dl, bilirrubina directa 0,3 mg/dl, proteínas totales 6,1 g/dl, lactato deshidrogenasa 1.645 UI/l, sodio 131,5 mEq/l, calcio 7,8 mg/dl, calcio iónico 1,1 mmol/l, con resto de bioquímica y coagulación normales. Orina: flora bacteriana 2+, proteinuria 2+.
+• Análisis sanguíneo diferido: hemoglobina 12,5 g/dl, hematocrito 33,7%, volumen corpuscular medio 102,3 fl, reticulocitos 12,09%, reticulocitos 269,4 mil/mm3, leucocitos 14 mil/ mm3, plaquetas 57 mil/mm3. Morfología sangre periférica: esquistocitos 3-4 y esferocitos 2%. Haptoglobina 7,56 mg/dl. Estudio de inmunidad celular, inmunoglobulinas, complemento, estudio de autoinmunidad, serologías (brucela, toxoplasma, virus inmunodeficiencia humana, virus Epstein-Barr, citomegalovirus, virus herpes simple, virus varicela zóster y borrelia), vitamina B12 y ácido fólico sin alteraciones.
+• Análisis sanguíneo al alta: hemoglobina 10,3 g/dl, hematocrito 31,6%, volumen corpuscular medio 105 fl, leucocitos 12,7 mil/mm3, plaquetas 202 mil/mm3.
+• Resonancia magnética cerebral urgente: sin alteraciones significativas.
+
+Diagnóstico
+Púrpura trombótica trombocitopénica.
+
+Tratamiento
+Transfusión de plaquetas. Transfusión de hematíes. Plasmaféresis. Levetiracetam 500 mg cada 12 horas, y calcio.
+
+Evolución
+Dada la inestabilidad clínica de la paciente, se decide su ingreso en la Unidad de Cuidados Intensivos para su estudio y control evolutivo. Al ingreso se comienza transfusión de concentrados de hematíes y de plaquetas y se inicia tratamiento con corticoides intravenosos, antiepiléptico (levetiracetam 500 mg cada 12 horas) y calcio, tras lo cual la paciente mejora clínicamente, con desaparición de la focalidad. Debido a la persistencia de la alteración a nivel de los parámetros analíticos, se valora el caso conjuntamente con Hematología, que recomienda la realización de plasmaféresis diaria (15 en total). Tras la estabilización del cuadro clínico, la paciente es trasladada al Servicio de Hematología. Con buen estado general y recuperación de cifras analíticas, se decide el alta a su domicilio tras 30 días de hospitalización.

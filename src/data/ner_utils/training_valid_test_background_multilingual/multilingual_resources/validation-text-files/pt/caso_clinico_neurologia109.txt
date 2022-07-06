@@ -1,0 +1,20 @@
+Anamnese
+Um homem de 36 anos com uma história de rinossinusite recorrente e pneumotórax espontâneo. Era um fumador activo, utilizador ocasional de cannabis e antigo utilizador de cocaína (nasal e fumador). Veio ao departamento de emergência para uma história de 7 dias de dores de cabeça graves e contínuas (também nocturnas), localizadas na região periocular direita. Nos últimos dias a dor tinha-se intensificado, tornando-se holocraniana e associada a lágrimas no olho direito, tremores nocturnos e febre com picos de 40°C. Tinha náuseas e algumas náuseas e vómitos. Tinha tido náuseas e algum vómito, que o doente associou ao ibuprofeno. Não relatou sintomas de gripe, mialgias ou sintomas a outros níveis. Aparentemente, 2 meses antes, tinha sofrido um quadro semelhante, com dor de cabeça ocular direita, à noite, com as mesmas características do episódio actual mas sem febre, que tinha baixado espontaneamente em cerca de 10 dias.
+
+Exame físico
+O exame físico geral revelou um doente febril, asténico, embora em bom estado geral. O exame neurológico revelou rigidez nucal final e manobra positiva bilateral de Lassègue. Havia dor à palpação do olho direito e seios paranasais, e dor com movimentos oculares. O resto do exame neurológico e do aparelho não mostrou alterações a qualquer nível, excepto no caso de uma boca séptica com a presença de cárie.
+
+Testes complementares
+- Os testes laboratoriais mostraram leucocitose (21,000/mcl) com um turno esquerdo, CRP e procalcitonina significativamente elevados, e anomalias de coagulação significativas. Foi solicitado um teste Rosa Bengala, que foi negativo.
+- Foi realizada uma tomografia computorizada craniana (TAC), na qual apenas a presença de pequenas bolhas de ar extracerebral esparsas na região frontal direita foi notável.
+- Uma punção lombar revelou a presença de células no líquido cefalorraquidiano (220 leucócitos/campo) com predominância de células segmentadas (95%), proteína de 86 mg/dl e glicose na gama normal. A coloração de Gram foi negativa. Com o diagnóstico de meningite aguda devido a um germe não filiado, foi prescrito um tratamento empírico de largo espectro (ceftriaxona, vancomicina e ampicilina).
+
+Diagnóstico
+Empiema subdural frontal e meningite asséptica relacionada com o foco parameníngeo, secundário à pansinusite.
+
+Tratamento
+24 horas após a admissão, e devido a um agravamento clínico com tendência para a sonolência, foi solicitado um novo TAC centrado nos seios paranasais, que mostrou pansinusite direita associada a empiema subdural direito de 5 mm, com ar no seu interior devido a uma ligação com o seio frontal direito. Foi solicitada uma avaliação pela Otorrinolaringologia, que foi submetida a cirurgia urgente com abertura e drenagem dos seios maxilares, etmoidais e frontais direitos, tendo o Departamento de Neurocirurgia decidido manter uma atitude de espera e observação. Devido a um novo agravamento clínico e a uma convulsão epiléptica, foi realizada uma nova tomografia craniana, que mostrou uma ocupação persistente dos seios paranasais direitos e um aumento do tamanho do empiema (13 mm) com um desvio da linha média cerebral de aproximadamente 6 mm, bem como dois focos corticais frontais hipodensos compatíveis com enfartes cerebrais. Após a drenagem urgente do empiema, as tomografias sucessivas mostraram a extensão do empiema ao nível temporal direito, insinuando-se na convexidade parietal, o que exigiu uma reoperação e uma craniectomia muito ampla.
+A cultura de LCR e material purulento extraído tanto do empiema como dos seios nasais drenados foi negativa, mas o paciente foi tratado com antibioticoterapia de largo espectro durante 8 semanas, com boa evolução clínica. Uma ressonância magnética (MRI) mostrou uma redução substancial do empiema a nível temporal.
+
+Evolução
+A ressonância magnética posterior mostrou uma melhoria radiológica do empiema, embora a pansinusite tenha persistido. Teve alta enquanto aguardava a reoperação para a colocação de um implante de abóbada craniana. Como sequela do episódio ele sofre de epilepsia sintomática que está actualmente a ser tratada.

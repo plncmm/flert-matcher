@@ -1,0 +1,24 @@
+Anamnesis
+Presentamos el caso de una paciente de 57 años que se remite al Servicio de Urología tras el hallazgo de una masa renal derecha. La paciente no refiere alergias medicamentosas ni enfermedades médicas. Como única intervención quirúrgica refiere legrado uterino por aborto.
+La paciente es remitida al hallarse en el estudio tomográfico abdómino-pélvico solicitado por el Servicio de Cirugía General tras ser vista en la consulta por sensación de masa abdominal en el flanco derecho, una lesión compatible con teratoma dependiente del riñón derecho de 15 x 16 x 20 cm. Se halla asintomática desde el punto de vista urológico; no refiere síndrome miccional ni hematuria.
+
+Examen físico
+A la exploración física, la paciente se encuentra asintomática: abdomen blando, no doloroso, se palpa una masa en el flanco derecho.
+
+Pruebas complementarias
+• Analítica: creatinina 0,9 mg/dl, hemoglobina 15 g/dl, hematocrito 44,3%, leucocitos 6,40 x 103/μl. Coagulación sin alteraciones.
+• Marcadores tumorales: antígeno carcinoembrionario b-HCG 2, 87 ng/ml (0-5). Ca 19.9 74,83 UI/ml (0-37). Alfa-fetoproteína 1,64 ng/ml (0-8).
+• Tomografía computarizada (TC) abdómino-pélvica: localizada entre el lóbulo hepático derecho y el riñón derecho, y probablemente dependiendo del riñón, se identifica una lesión de morfología ovoidea que mide 15 x 16 x 20 cm, con nivel líquido graso. En su revestimiento medial se identifica un área pseudonodular calcificada. En su revestimiento más inferior hay otro foco de calcificación. La pared presenta calcificaciones periféricas. Todo ello está en probable relación con un teratoma.
+• Resonancia magnética (RM): gran masa con nivel grasa de líquido y área nodular heterogénea parcialmente calcificada en su vertiente más inferomedial, todo ello en consonancia con el diagnóstico de presunción referido en los datos clínicos (teratoma).
+
+Diagnóstico
+Ante los hallazgos radiológicos se diagnostica a la paciente de teratoma dependiente del riñón derecho.
+
+Tratamiento
+Tras informar de las posibles opciones, se decide de forma conjunta realizar nefrectomía radical y extirpación de la masa, lo cual se lleva a cabo bajo anestesia general y por vía subcostal. Durante el postoperatorio, la paciente evoluciona de forma favorable, precisando control del dolor. Presenta anemización, que requiere transfusión de dos concentrados de hematíes e interconsulta a Cirugía Torácica por derrame pleural en la radiografía de tórax, que indica tratamiento conservador. Finalmente, es dada de alta el día de la fecha, con buena tolerancia oral, orina clara y afebril.
+
+Evolución
+El estudio anatomopatológico de la pieza revela: teratoma quístico maduro, tipo quiste dermoide de 21 cm de diámetro en el riñón. Pieza de nefrectomía derecha que mide 11 x 2 cm que viene unida a una formación quística de 21 x 14 cm de diámetros máximos y pesan en conjunto 560 g. El espesor de la pared del quiste variaba entre 1 y 3 mm. La superficie era granujienta y de coloración parduzca, y en el interior tenía abundante material sebáceo, pelos y tres dentículos. A la apertura, el riñon mide 11 x 2 cm y el parénquima renal no presenta alteraciones macroscópicas.
+Descripción microscópica: extensa reacción granulomatosa (tipo queratogranuloma) que se extiende al tejido adiposo perirrenal. El tumor tiene un crecimiento expansivo, no observándose infiltración tumoral del tejido adiposo perirrenal, tejido adiposo del seno renal ni estructuras vasculares. Parénquima renal no tumoral sin lesiones. Uréter y pelvis renal sin lesiones. Suprarrenal sin lesiones adyacente a la pared del teratoma.
+En ausencia de historia clínica de tumor gonadal o de otra localización, esta tumoración puede considerarse como un tumor primario renal de células germinales. Punción de riñón (citología): frotis del contenido de la tumoración renal con presencia de material proteico acelular sin evidencia de malignidad en el material remitido.
+Actualmente, la paciente se encuentra en seguimiento por parte del Servicio de Oncología, está clínicamente asintomática, y se ha recuperado de la intervención satisfactoriamente. No se ha indicado el tratamiento quimioterápico al tratarse de un teratoma maduro.

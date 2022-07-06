@@ -1,0 +1,20 @@
+Anamnesis
+Paciente varón de 64 años de edad, exfumador (IPA 35) y exbebedor a dosis moderadas, con EPOC, hipertensión arterial, cardiopatía hipertensiva, sin dislipemia ni diabetes mellitus. Diagnosticado en julio de 2010 de carcinoma de próstata grado 4 de Gleason (Vacurg 8) por resección transuretral con metástasis hepáticas y retroperitoneales. Se trató con bloqueo hormonal con respuesta parcial durante seis meses tras los que progresó a nivel óseo y bioquímico, y se inició nueva línea de tratamiento con docetaxel-ácido zoledrónico en marzo de 2011. A las 24 horas de la administración del primer ciclo, presentó dolor abdominal intenso que no cede con la analgesia habitual por lo que acudió a Urgencias a las 48 horas. Fue valorado por el Servicio de Medicina Interna que, tras objetivar dolor abdominal difuso con defensa en el hemiabdomen izquierdo, solicitó valoración al Servicio de Cirugía General.
+
+Exploración física
+Consciente, orientado y colaborador. Afebril, eupneico; tensión arterial 85/60 mm Hg; frecuencia cardíaca 130 lpm. Auscultación cardiopulmonar: ruidos cardíacos rítmicos sin soplos. Murmullo vesicular conservado sin ruidos sobreañadidos. Abdomen: globuloso, distendido, doloroso de forma difusa, con signos de irritación peritoneal y defensa en hemiabdomen izquierdo. Miembros inferiores: sin edemas. Pulsos pedios presentes.
+
+Pruebas complementarias
+• Analítica: hemoglobina 10,4 g/dl; leucocitos 3.000 mm3 (87,5% de neutrófilos); plaquetas 85.000 mm3; actividad de protrombina 57%; INR 1,43; fibrinógeno 621 mg/dl; creatinina 1 mg/dl; GOT 46 UI/l; GPT 27 UI/l; PCR > 90.
+• Sedimento: hematuria intensa con bacteriuria leve y 15-20 leucocitos por campo.
+• Radiografía de abdomen: dilatación de asas intestinales.
+• Tomografía computarizada de abdomen y pelvis: hígado de tamaño y morfología normales, con presencia de una lesión hipodensa de 3,8 cm en el segmento 8 y otra lesión hiperdensa con área central hipodensa de 3,2 cm en el segmento 6 en relación con metástasis. Se observaron adenomegalias retrocrurales de 12 mm, interaortocava de 14 mm, paraaórticas izquierdas de 13 mm, y en promontorio de 18 mm, ilíacas externas derechas de 2,8 mm e izquierdas de 3,1 cm. La próstata estaba muy heterogénea con extensión anterior hacia el suelo vesical donde se observó una masa heterogénea de 4,6 x 3,4 cm, sugestiva de recidiva local de su adenocarcinoma de próstata con extensión a la vejiga. Se observó de forma difusa un realce y un leve engrosamiento de las paredes de todo el colon hasta el sigma y el recto, con contenido líquido en su interior, leve engrosamiento de la grasa del mesenterio y moderada cantidad de líquido libre a nivel del periesplénico perihepático y mínima cantidad en ambas gotieras paracólicas con engrosamiento de las fascias lateroconales y en pelvis. No se visualizaron imágenes de neumoperitoneo ni de carcinomatosis peritoneal.
+
+Diagnóstico
+Colitis isquémica.
+
+Tratamiento
+El paciente fue valorado por el Servicio de Cirugía General que, objetivando el empeoramiento clínico del paciente durante su estancia en Urgencias y las pruebas complementarias, decidieron realizar una laparotomía urgente. Encontraron líquido turbio en la cavidad abdominal, colon de aspecto isquémico con placas de necrosis en descendente y sigma y colon ascendente de aspecto dudoso, por lo que realizaron una colectomía subtotal con cierre del muñón distal y colostomía terminal en fosa ilíaca derecha.
+
+Evolución
+El paciente evolucionó favorablemente desde el punto de vista quirúrgico, manteniéndose afebril y con buena tolerancia oral, por lo que se fue de alta hospitalaria para control ambulatorio. En dichos controles se ha objetivado buen estado general, buena tolerancia oral y buen mantenimiento del ritmo deposicional. Dada la complicación del tratamiento con docetaxel, se solicitó una tomografía computarizada y una analítica general con marcadores tumorales, objetivándose respuesta bioquímica y por imagen por la retirada del antiandrógeno, por lo que continúo con ácido zoledrónico y controles periódicos.

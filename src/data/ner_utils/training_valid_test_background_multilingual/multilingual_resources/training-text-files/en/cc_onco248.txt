@@ -1,0 +1,33 @@
+Anamnesis
+The patient is a 58-year-old woman, with no toxic habits, with a personal history of allergic asthma and anxious syndrome being followed up by Psychiatry and being treated with bromazepam, paroxetine and escitalopram. Surgical history: appendectomy, saphenectomy.
+Brought by her relatives to the Emergency Department due to confusional symptoms and cognitive deterioration of several days' evolution. The family reported that the patient presented progressive cognitive deterioration of three weeks' duration, accompanied in the last few days by memory impairment, visual hallucinations and self-injurious thoughts. In addition, she presented the appearance of a right submandibular tumour of several months' evolution that has progressively increased in size with no other accompanying symptoms.
+
+Physical examination
+ECOG 1. Conscious and oriented. Palpation of a mass in the right mandibular angle with a hard, non-painful consistency, without peripheral adenopathies. Neurological examination showed bradypsychia, tremor in the upper limbs without loss of strength, amnesia and body dysaesthesia, no other neurological focality was observed and the rest of the physical examination was normal.
+
+Complementary tests
+- BLOOD ANALYTICS: no alterations. Urine toxins were negative.
+- THYROID AND NECK ULTRASOUND,
+In the right cervical region coinciding with a palpable lesion, solid infiltrative lymph node lesions were seen, the largest of 3.8 cm in diameter, the largest heterogeneous.
+- NECK CT SCAN: Laterocervical mass medial to the right sternocleidomastoid muscle and lateral to the main cervical vessels which it displaces medially, approximately 3.1 cm in anteroposterior diameter and 2.3 cm in transverse diameter with heterogeneous contrast uptake suggestive of metastatic adenomegaly, in addition the posterior contour of the base of the tongue on its left side appears protruding, asymmetrical with respect to the contralateral one.
+- FIBROBRONCOSCOPY: At the level of the right glossopharyngeal fold a rough image is observed, a biopsy is taken without evidence of malignant cells.
+- Cranial CT: No findings suggestive of acute intracranial pathology.
+- FINE NEEDLE ASPIRATION PUNCTURE (FNA) of right laterocervical mass: Infiltration of poorly differentiated carcinoma.
+Immunohistochemical study: Positive for CK AE1/AE2 and CD 56, focal positive for CK 7 and CK 5/6, negative for CK 20, Vimentin and CD 45.
+- PET-CT: Confirms the presence of 36 mm single major axis adenopathy with pathological SUVmax.
+
+Diagnosis
+Metastatic adenopathic undifferentiated metastatic carcinoma of unknown origin (probable ENT area).
+
+Treatment
+A right radical emptying was performed, removing a right subdigastric lymph node bundle, which infiltrated the internal jugular vein, with removal of 3 positive nodes for poorly differentiated carcinoma.
+Pathology results: Poorly differentiated carcinoma. Immunohistochemistry: Positive for PAN-CK, EMA, P63 and focally and faintly for CD10. and negative for CK7, CK20, TTF1, RE, VIMENTIN, CD45, ALK, CDK5/6, CK34BE12 and S100.
+In view of the diagnosis of metastatic undifferentiated adenopathic metastatic carcinoma of probable otorhinolaryngological origin, chemotherapy treatment with Carboplatin at a weekly dose of area under the curve of 2 (AUC 2) and concomitant radiotherapy was proposed.
+
+Evolution
+In the days following the surgery, prior to the start of treatment, she presented a clinical worsening with progressive memory impairment, insomnia with parasomnias and significant bradypsychia and bradykinesia with the appearance of paralysis of the left facial nerve. Magnetic Resonance Imaging (MRI) was requested, with findings suggestive of limbic encephalitis with bilateral and symmetrical involvement of the amygdala and hippocampus.
+An aetiological study was started with an autoimmunity panel (antiphysin antibodies, CV2, PNMA2 Anti Ri, Anti Yo, Anti Hu) and serology (HIV 1 and 2, Syphilis and Hepatitis) and determination of Vitamin B12 and folic acid as well as lumbar puncture with bacteriological determination, enterovirus and herpes virus, all with normal results, thus ruling out autoimmune and infectious causes.
+The patient started adjuvant treatment with Carboplatin AUC 2 weekly concomitant with IMRT radiotherapy receiving a total of 60 Gy on gagglionic levels Ib, II, III and V and a total of 54 Gy on high II and IV right ganglionic levels. She presented as relevant toxicity G2 dermitis.
+After the start of treatment, the patient showed progressive improvement in her symptoms, but persisted with slight left facial paralysis, tremor in the right upper limb, amnesia and dysaesthesia, and improvement in memory disorders, visual hallucinations and bradykinesia.
+Brain MRI was performed two months after diagnosis, showing improvement of the encephalitis without evidence of foci with anomalous uptake.
+The patient showed progressive improvement in symptoms and currently only has persistent tremor in the right upper limb. She continues regular check-ups at the Medical Oncology Department, with no evidence of relapse after 12 months of follow-up.

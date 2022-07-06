@@ -1,0 +1,31 @@
+Anamnèse
+Une femme de 44 ans a consulté pour des maux de tête et de la fièvre depuis 2 semaines. Son seul antécédent personnel intéressant remonte à 5 ans, lorsqu'elle a présenté un carcinome canalaire infiltrant du sein hormonodépendant, de stade pT2N0M0, qui a été traité par tumorectomie, radiothérapie, chimiothérapie et hormonothérapie, et qui est en rémission complète depuis lors. En ce qui concerne les antécédents familiaux, elle a vécu avec une sœur qui a souffert d'une tuberculose pulmonaire traitée il y a 26 ans. Elle maintient un traitement par triptoréline (analogue de la GnRH) et exemestane (inhibiteur de l'aromatase). L'histoire actuelle a commencé deux semaines avant que la patiente ne se présente aux urgences, lorsqu'elle a commencé par une fièvre légère qui s'est transformée en une fièvre allant jusqu'à 39,5oC au cours des derniers jours, associée à une céphalée oppressive, principalement dans les régions occipitale et cervicale, bien qu'avec une extension holocranienne, dont l'intensité a progressé de sorte que lors de l'évaluation initiale, elle présentait un score VAS de 7/10, et qui ne s'est pas améliorée avec le traitement analgésique conventionnel. Elle a également présenté des nausées et quelques vomissements du contenu des aliments. Elle nie tout symptôme suggérant une focalité neurologique, ainsi que tout autre symptôme systémique dans l'anamnèse par appareil.
+
+Examen physique
+Examen physique général : température 38,9 oC, pression sanguine 130/80 mmHg, fréquence cardiaque 120 bpm. Aucune autre modification d'intérêt. Examen neurologique : légère rigidité nucale, avec signes de Kernig et de Brudzinski négatifs. Le reste était normal.
+
+Tests complémentaires
+- Aux urgences, des analyses ont été effectuées (biochimie de base, hémogramme, étude de la coagulation) qui n'ont montré aucune altération, à l'exception d'un taux de LDH de 201 UI/l, avec une CRP < 0,3 mg/dl et une procalcitonine de 0,069 ng/ml.
+- La tomographie crânienne était normale, de même que la radiographie pulmonaire et l'examen systémique des urines.
+- Une ponction lombaire a été effectuée avec une pression d'ouverture de 300 mm H2O, sans blocage et avec un liquide céphalo-rachidien clair. Le résultat de l'étude cytobiochimique était de 50 leucocytes/mm3 (15% polymorphonucléés, 85% mononucléés), 0 globules rouges/mm3, glucose 21 mg/dl (glycémie capillaire 133 mg/dl), protéine 1,26 g/l. Le reste de l'étude a été obtenu à partir du sang.
+- Le reste de l'étude a été obtenu tout au long de l'admission du patient, dont le plus pertinent était la culture positive du LCR pour le complexe Mycobacterium tuberculosis sensible à la streptomycine, l'éthambutol, le pyrazinamide, l'isoniazide et la rifampicine.
+- Interféron gamma dans le LCR : 166 pg/ml.
+- PCR pour les mycobactéries, HSV et entérovirus dans le LCR : négatif.
+- Culture du LCR pour les bactéries : négative.
+- Cytologie du LCR négative pour les cellules malignes.
+- Sérologie du LCR pour le lupus, Borrelia, Brucella et Cryptococcus neoformans : négative.
+- Taches de fluorescence et cultures mycobactériennes dans les expectorations et les urines : négatives.
+- Sérologie dans le sérum/plasma pour VIH, VHC, VHB, syphilis, Brucella, Toxoplasma : négative.
+- Test de Mantoux : négatif.
+- Imagerie par résonance magnétique (IRM) crânienne avec contraste intraveineux : captation leptoméningée au niveau des deux hémisphères cérébraux et des structures de la fosse postérieure. Coupe axiale d'une séquence FLAIR avec IRM à contraste intraveineux montrant une absorption leptoméningée au niveau du tronc cérébral.
+- Scanner thoracico-abdomino-pelvien : aucun signe de récidive ganglionnaire ou de dissémination à distance de son néoplasme mammaire.
+- Marqueurs tumoraux : normaux.
+
+Diagnostic
+La méningite tuberculeuse.
+
+Traitement
+Au départ, étant donné le tableau de méningite avec pléiocytose à prédominance lymphocytaire, hypoglycorrhée et hyperprotéinorrhée d'apparition subaiguë, un traitement antimicrobien empirique a été instauré avec de l'ampicilline (2 g/4 h intraveineuse), de l'acyclovir (10 mg/kg/8 h intraveineuse), de la ceftriaxone (2 g/12 h intraveineuse) et des tuberculostatiques oraux, ainsi que de la dexaméthasone (8 mg/6 h intraveineuse). Après avoir écarté d'autres étiologies infectieuses (virales et bactériennes), en plus d'une tumeur (carcinomatose méningée) et d'une inflammation non infectieuse, il a été maintenu uniquement sous traitement antituberculeux : isoniazide 300 mg/24 h (avec pyridoxine 300 mg/semaine), rifampicine 600 mg/24 h, pyrazinamide 2 g/24 h et lévofloxacine 500 mg/12 h.
+
+Evolution
+La patiente a montré une amélioration progressive jusqu'à ce qu'elle soit asymptomatique et afébrile 10 jours après le début du traitement. Comme effet secondaire pharmacologique, elle a présenté une hépatopathie progressive asymptomatique avec un profil cytolytique, avec des valeurs de GOT et GPT allant jusqu'à 141 et 208 UI/l, respectivement, 15 jours après le début du traitement, ce qui a rendu nécessaire le remplacement de l'isoniazide, de la rifampicine et du pyrazinamide par un traitement antituberculeux de deuxième ligne (linézolide, éthambutol et amikacine, en plus de la lévofloxacine). Compte tenu de la bonne évolution du profil hépatique, le traitement pharmacologique a été progressivement modifié, de sorte qu'elle est sortie de l'hôpital avec de l'isoniazide, de la rifampicine et de la lévofloxacine pendant 2 mois supplémentaires, puis de l'isoniazide et de la rifampicine pendant 9 mois. Lors du suivi ambulatoire ultérieur, le patient est resté asymptomatique et n'a pas présenté d'autres complications.

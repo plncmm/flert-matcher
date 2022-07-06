@@ -1,0 +1,53 @@
+Our patient is a 56-year-old man with end stage renal disease secondary to IgA nephropathy, confirmed by biopsy, on hemodialysis since the end of 2016.
+The patient developed coronary artery disease with ischemic cardiomyopathy and underwent percutaneous coronary intervention in the right coronary artery and anterior descending coronary artery shortly after the start of dialysis.
+The fraction of cardiac output improved from 44% in 2016 to 52% under optimal medical therapy.
+She started treatment with losartan 25 mg daily when she was diagnosed with ischemic cardiomyopathy, which then increased to the maximum dose of 100 mg daily approximately 12 months before admission.
+The patient is an active professional and complies with the prescribed medication and treatments.
+Until now, he was included in the kidney transplant lists.
+The patient had recently traveled to South Korea in early January 2020 and had returned to the United States by the end of January, but before the outbreak of COVID-19 in Daegu was identified.
+Until the beginning of March 2020 he was in good health, without relevant symptoms.
+Five days before admission, the patient came to the emergency department complaining of nausea, vomiting, intestinal colic, and fever symptoms.
+Viral gastroenteritis was diagnosed, recommendations were given for symptom management and was discharged.
+That same afternoon he went to our emergency department with the same symptoms.
+She had a 37.8 °C febricula and her analytical tests, including electrolytes, liver functional tests, lactic acid and blood count, did not show any remarkable results.
+His chest X-ray at that time showed no significant focal consolidations, but mild patchy interstitial plots were observed in the bilateral lung bases, indicating possible atelectasis.
+Her nausea subsided while she was in the emergency room and her symptoms were again attributed to viral gastroenteritis caused by a "bad-state sushi" that she had eaten the day before.
+After discharge from the emergency department, she went home and said she was better, except for mild diarrhea.
+Two days later he came to his usual outpatient hemodialysis treatment, where he reported to be better since discharge from the emergency room, but he still had intermittent diarrhea, about twice a day.
+At that time, she reported no cough or respiratory symptoms.
+At the end of dialysis, the patient had a fever of 38 °C and hemocultives were performed, which showed no bacterial growth.
+That same morning, after dialysis, he went to the cardiology office for a scheduled appointment, in which coughing was observed in the waiting room and his essential precautions were taken into account when he was told about it.
+The next day the patient traveled in a commercial airline.
+From southern California to Utah, where he came to an emergency department with repeated intermittent vomiting and fever, but now he also reported mild congestion and cough.
+A new chest X-ray showed "mild interstitial prominences and vague infiltrates in the base of the right lung".
+Her influenza tests were negative and she was prescribed a medication based on the results.
+The next day he attended his scheduled hemodialysis session as a passenger visitor in a local dialysis center in Utah, where he reported fever and general▁malaise, but was anxious to return to California due to his condition.
+He returned to southern California that same evening in a commercial airline, before expected, because he felt quite ill, with continuous fever and gastrointestinal symptoms.
+In addition, her respiratory symptoms, which were initially minimal, had progressed rapidly and her dyspnea increased.
+Shortly after returning to southern California, he came to our emergency department for reassessment.
+In the emergency department, a new chest X-ray showed subtle patchy opacities in both lungs, which appeared again compared to the images of 5 days before.
+A chest CT scan showed patchy ground glass opacities, multifocal and bilateral, predominantly with peripheral distribution, which led to suspicion of pneumonia and possible viral infection.
+A COVID-19 test was carried out, which would take 48 hours, along with usual biochemical tests and controls, which revealed no anomalies, except for a high procalcitonin value.
+An evaluation of other causes of pneumonia aassociated with pneumonia was simultaneously sent, with no additional results so far.
+The images showed an evolution of interstitial pneumonitis due to COVID-19, with consequent ARDS.
+The sequence of chest X-rays with increasing patchy opacities in both lungs is consistent with the evolution of the infectious process.
+A chest CT scan showed new patchy, multifocal, bilateral ground-glass opacities with a basically peripheral distribution.
+A centrilobular septal biphasic thickening was observed.
+No pleural effusion or pneumothorax was observed.
+Small biapical subpleural bullae and mild pulmonary emphysema were observed in the upper lobes.
+There was no evidence of atelectasis.
+These results are more consistent with pneumonia aassociated pneumonia that can be secondary to an overinfection.
+The differential diagnosis includes pulmonary edema.
+The patient was admitted to the hospital taking into account precautions for droplets and eyes.
+Initially, a temperature of 38.1 °C was observed, but otherwise, with normal vital signs.
+Antimicrobial therapy was initiated with ceftriaxone and beta blockers.
+During the following 24 h, the patient continued to be febrile, with a temperature up to 38.3 °C, and a rapid deterioration in her respiratory status.
+Repeated chest X-rays showed the evolution of bilateral multifocal opacities consistent with pneumonia a and seized a possible pulmonary edema.
+The patient underwent dialysis the afternoon of the second day of hospitalization, but tolerated the treatment poorly, suffering atrial fibrillation with high ventricular rate, despite minimal ultra high frequency.
+Her respiratory condition worsened rapidly during the night and she had to be intubated and admitted to the intensive care unit (ICU) with acute hypoxic respiratory failure and shock.
+His lung condition continued to worsen acute respiratory distress syndrome (ARDS) and the patient did not undergo mechanical ventilation with high positive pressure telespirator (PEEP > 10 cm and FiO2 > 60%), as well as pre-intervention.
+To maintain a close control of its volemia and its parameters, continuous metabolic venovenous parameters were applied.
+Taking into account ARDS, it was considered that he was not a candidate for a compassionate use trial of remdesivir, so that treatment with high interleukin-6 levels was started, hemodynamically unstable on day 6 of hospitalization taking into account his
+With the impossibility of ruling out a candidiasis infection, broad-spectrum antibiotic treatment was also administered with vancomycin and piperacillin-tazodone since day 6 of hospitalization.
+Its evolution is being closely followed by a multidisciplinary team and, depending on its development, it may require paralysis, as well as more aggressive hemodynamic and pulmonary care with extracorporeal membrane fixation and prone position.
+Currently, its requirements for vasopressive action remain variable, as well as the PaO2/FiO2 ratio, which has become critical during the last 5 days.

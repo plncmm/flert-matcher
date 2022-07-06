@@ -1,0 +1,23 @@
+Anamnesi
+Pacient de 71 anys sense al·lèrgies medicamentoses, antecedents personals de malaltia pulmonar obstructiva crònica tipus enfisematoso, pneumotòrax esquerre en 1994 secundari a ruptura de gatzares que va requerir pleurodesis, adenoma de pròstata I hipertensió arterial en tractament amb betabloqueantes. El començament clínic s'inicia al maig de 2009al desenvolupar un quadre de dispnea a moderats esforços de 48 hores i esputs hemoptoicos.
+
+Exploració física
+S'aprecia una disminució del murmuri vesicular en el lòbul superior dret, amb roncus aïllats associats; no es palpen adenopaties ni megalias. Resta de l'exploració dins de la normalitat.
+
+Proves complementàries
+» Se sol·licita un estudi inicial amb radiografia de tòrax, on s'evidencia una massa paratraqueal dreta.
+» En la tomografia computada (TC) de maig de 2009 es visualitza una tumoració pulmonar en el lòbul superior dret (LSD) de 88 mm amb infiltració mediastínica, de l'artèria pulmonar del lòbul superior i una adenopatia mediastínica en situació anterior al bronqui principal dret de 20 mm, confirmat per tomografia d'emissió de positrons (PET).
+» Es completa l'estudi amb una biòpsia amb agulla fina, amb resultat anatomopatològic de adenocarcinoma de pulmó,EGFR no mutat.
+
+Diagnòstic
+El cas és discutit en comitè multidisciplinari de patologia pulmonar, i amb el judici clínic de adenocarcinoma de pulmó cT4 N2 M0, estadi IIIB, es decideix radioteràpia (RT) concomitant amb quimioteràpia amb intenció neoadjuvant, per a valorar posteriorment la possibilitat quirúrgica.
+
+Tractament
+Es realitza preplanificació però el volum 20 de 43%, el patró d'emfisema centrolobulillar bilateral, així com la pèrdua de volum del hemitórax esquerre amb retracció mediastínica desaconsellen l'inici de RT. El pacient inicia quimioteràpia d'inducció amb carboplatí-gemcitabina, sent avaluat després de tres cicles al juliol de 2009 en resposta parcial radiològica pulmonar i ganglionar. La lesió en el lòbul superior dret ha disminuït de 88 a 47 mm i l'adenopatia mediastínica dreta ha disminuït de 20 a 14 mm.
+
+El cas és replantejat en comitè de tumors i es desestima tractament quirúrgic per evidenciar-se en la gammagrafia de difusió pulmonar una distribució heterogènia amb funció pulmonar dreta del 41%i esquerra del 59%. Es repeteix la preplanificació, sent el V20de 28%, i es decideix quimioterapiaen règim setmanal amb carboplatí-paclitaxel concomitant amb radioteràpia utilitzant cinc camps de fotons de 6 Mev conformats amb col·limador a raó de 2 Gy/dia, 5 dies a la setmana fins a 60 Gy sobre la lesió pulmonar i mediastínica. La tolerància va ser bona, amb esofagitis grau 2 i dermitis grau 1. Després de finalitzar el tractament a l'octubre de 2009 presenta una resposta parcial radiològica, amb una disminució de 47 a 35 mm de la lesió en el lòbul pulmonar dret i de 14 a 9 mm de l'adenopatia mediastínica dreta.
+
+Evolució
+Després d'un interval lliure de progressió de 30 mesos, s'objectiva en la TC de control d'abril de 2012 un nòdul pulmonar en l'LSD d'11 mm. El cas és comentat de nou en el si del comitè multidisciplinari, i es considera que és abordable mitjançant termoablación per radiofreqüència pulmonar amb elèctrode de Le Veen amb obertura màxima de 25 mm, objectivant després de la realització de la mateixa una remissió.
+
+Després d'un segon interval lliure de progressió de 8 mesos, al desembre de 2012se evidencia progressió en la paret anterior del nòdul prèviament tractat amb radiofreqüència, que presenta un diàmetre màxim de 16 mm. Es presenta el cas en comitè de tumors i es proposa una segona termoablación del nòdul en el LSDsobre l'àrea de cavitacióncon elèctrode de Le Veen amb obertura màxima de 30 mm de diàmetre en dues sessions mitjançant retirada progressiva de l'elèctrode, produint-se un pneumotòrax, que és drenat. Al març de 2014, un any i tres mesos després del procediment, es duu a terme un control radiològic mitjançant TC toràcica amb contrast que no evidencia signes de progressió. El pacient va ser diagnosticat d'una leucèmia mieloblástica aguda associada a una pneumònia bilateral per Candida krusei i insuficiència respiratòria global, sent exitus el 2/4/2015.

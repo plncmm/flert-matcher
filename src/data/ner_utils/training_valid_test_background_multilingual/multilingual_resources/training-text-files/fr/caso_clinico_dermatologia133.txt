@@ -1,0 +1,22 @@
+Anamnèse
+Une femme de 81 ans s'est présentée aux urgences avec des lésions cutanées disséminées ayant évolué pendant deux semaines. Ces lésions étaient apparues progressivement et évoluaient vers l'ulcération et la suppuration. Il a signalé une douleur locale comme seule symptomatologie associée ; il n'y avait pas de malaise général ; il n'y avait pas eu de fièvre ou de frissons associés, ni d'autres symptômes à d'autres niveaux. Les antécédents médicaux comprenaient : une allergie à l'acide clavulanique, une hypothyroïdie sous traitement de substitution à la lévothyroxine, une dyslipidémie sous traitement par statine, une hypertension sous traitement par indapamide et une ostéoporose traitée par acide risendronique. Les antécédents médicaux récents comprenaient une fracture de la rotule traitée de manière conservatrice, qui avait obligé la patiente à rester pendant 3 mois dans un foyer de moyen séjour pour un traitement de rééducation ; elle était sortie de chez elle 3 semaines plus tôt.
+
+Examen physique
+Elle présentait de multiples lésions nodulaires de 1 à 4 cm de diamètre, situées sur l'abdomen et les membres, à différents stades d'évolution : certaines avaient un aspect très inflammatoire avec une importante cellulite périlésionnelle, et d'autres étaient ouvertes sur l'extérieur, qui drainaient un contenu purulent à la moindre compression. Dans certaines des lésions, plusieurs orifices de drainage ont pu être observés. En outre, dans la zone des poils pubiens, des pustules centrées par les follicules pileux ont été observées.
+
+
+Examens complémentaires
+Les lésions ont été mises en culture et une biopsie de l'œillet a été réalisée, dont une partie a été envoyée pour une étude microbiologique et l'autre pour une étude anatomopathologique. Dans les deux échantillons prélevés par écouvillonnage direct et dans la culture de la biopsie, le Staphylococcus aureus résistant à la méthicilline (SARM) s'est développé.
+La biopsie cutanée a révélé un infiltrat dense de leucocytes polymorphonucléaires avec une microabcédation et quelques foyers de nécrose. Il n'y avait pas de granulomes ou de signes de vasculite.
+Lors de son admission à l'hôpital, le patient a présenté un pic fébrile, des hémocultures ont donc été réalisées et se sont révélées négatives.
+Compte tenu de l'isolement microbiologique et de l'histoire de l'épisode fébrile, il a été décidé d'exclure une implication de Staphylococcus aureus à d'autres niveaux : un échocardiogramme, une radiographie du thorax et une étude du fond d'œil par ophtalmologie ont été réalisés, tous sans constatation de métastases septiques.
+
+Diagnostic
+Abcès multiples à SARM.
+
+Traitement
+Il a été décidé d'admettre le patient avec une antibiothérapie empirique à base de pipéracilline-tazobactam 4 g/500 mg toutes les 8 heures associée à du linézolide 600 mg toutes les 12 heures, dans l'intention de couvrir les germes multirésistants à la fois gram-positifs et gram-négatifs.
+Le choix de cette combinaison s'explique par des antécédents récents d'institutionnalisation à long terme. Des pansements quotidiens avec de l'acide fusidique en pommade, des pansements en silicone et des bandages non compressifs ont été réalisés. Une fois l'isolement du SARM confirmé, il a été décidé de retirer la peracilline-tazobactam et de poursuivre le traitement avec le linezolid uniquement, qui a été maintenu pendant deux semaines.
+
+Evolution
+Sous traitement antibiotique, les lésions ont complètement disparu. Lors de son admission, la patiente a été traitée en médecine préventive et a subi un traitement spécifique de décolonisation.

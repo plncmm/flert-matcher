@@ -1,0 +1,32 @@
+Paciente de 49 años con antecedentes personales de alergias medicamentosas a metamizol y ketorolaco trometamol. En el año 2009 se diagnosticó de una esclerodermia sistémica difusa (ESd) siguiendo sus revisiones hasta el 2019. Durante el seguimiento se diagnosticó de enfermedad por reflujo gastroesofágico, fenómeno de Raynaud sin presencia de úlceras, y enfermedad pulmonar intersticial tipo NINE fibrosante de extensión indeterminada en TCAR con pruebas funcionales respiratorias con IT 71%, FEV1 62%, FVC 58%, TLC 85%, DLCO 39%, KCO 66%). Desde hacía varios años presenta datos de malabsorción intestinal (en 2016 necesitó nutrición parenteral), actualmente más exacerbada, gran delgadez y caquexia pese a suplementos alimentarios, con una pérdida ponderal de 1Kg al mes, descartándose una enfermedad celiaca.
+Seguía tratamiento domiciliario con omeprazol 20mg/12h, domperidona 10mg/8h, azatioprina 50mg/24h, calcifediol 3mg/24h, rifaximina 200mg/24h una semana al mes y suplementos nutricionales.
+La paciente acudió al Servicio de Urgencias del Hospital Torrecárdenas por presentar vómitos en posos de café y rectorragia de un día de evolución. Refería que no había tenido episodios previos similares, aunque sí emesis, que en el momento actual se encontraban parcialmente controlados (1-2 episodios de vómitos al mes).
+Desde hacía meses tenía diarrea acuosa, acompañada de una importante sensación de astenia y mareos que le impedían el desempeño normal de su vida diaria. También refería alteraciones visuales con dificultad para enfocar objetos cercanos y distorsión de los colores.
+En la exploración, la paciente se encontraba consciente, orientada, hemodinámicamente estable, normotensa, eupneica, bien hidratada, con palidez mucocutánea. Caquexia. Facies hipomímica con microstomía.
+Auscultación cardiorrespiratoria rítmica sin soplos, murmullo vesicular conservado sin ruidos patológicos sobreañadidos. Abdomen: distendido, dolor a la palpación generalizada, sin claros signos de peritonismo, ruidos hidroaéreos disminuidos. Miembros superiores con úlcera isquémicas. Miembros inferiores sin edemas, lesiones isquémicas ni signos de trombosis venosa profunda.
+
+PRUEBA COMPLEMENTARIAS
+— Hemograma con leve anemia normocítica de 11.2 g/dl
+— Bioquímica conperfil nutricional donde destaca desnutrición proteico-calórica con 2-3 puntos en escala MUST.
+— Autoinmunidad con ANA, ENAS, antitransglutaminasa y antigliadina negativos.
+— Radiografía de tórax: índice cardiotorácico normal, leve infiltrado intersticial de predominio basal, senos costofrénicos libres, sin masas ni condensaciones.
+— Radiografía de abdomen: dilatación de asas intestinales con aire y heces en todo el marco cólico sin niveles hidroaéreos.
+— Coprocultivo: no desarrollo bacteriano ni parasitario. Antígeno Clostridium difficile negativo.
+— Endoscopia digestiva alta: ulceraciones esofágicas con detección negativa de CMV.
+— Endoscopia digestiva baja con ileoscopia: asas dilatadas, con zonas de mucosa con atrofia de vellosidades, azulada, de aspecto inespecífico. Biopsia con telangiectasias.
+— EnteroRM: distensión de asas de yeyuno e íleon, cambio progresivo de calibre en vacío derecho sugerente de dificultad de paso o posible rotación del meso.
+— EnteroTC: distensión global de asas de intestino delgado sin signos de oclusión mecánica y sugerente todo ello de afectación por esclerodermia.
+
+DIAGNÓSTICO DIFERNENCIAL
+El diagnóstico diferencial en esta paciente incluye todas las entidades que pueden producir diarrea crónica y síndrome de malabsorción.
+
+PRUEBAS DIAGNÓSTICAS
+— Prueba xilosa normal.
+— Elastasa normal.
+— Prueba H2 glucosa sugestiva de sobrecrecimiento bacteriano
+
+DIAGNÓSTICO FINAL
+— Sobrecrecimiento bacteriano
+
+TRATAMIENTO Y EVOLUCIÓN
+Presentó un abdomen agudo, realizánodese un TC de abdomen urgente en el que se evidenció un vólvulo intestinal con colapso de asas intestinales, que condicionó una isquemia mesentérica. La paciente fue sometida a una laparotomía de urgencia con resección intestinal y colostomía de descarga. Finalmente fue dada de alta de planta de Cirugía General con colostomía, soporte nutricional y con revisión en consulta para programar una segunda intervención colónica.

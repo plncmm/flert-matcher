@@ -1,0 +1,44 @@
+Anamnesis
+Varón de 70 anos:
+» Sen alergias medicamentosas coñecidas.
+» Hiperplasia benigna de próstata.
+» Hiperuricemia.
+» Diagnosticado de hepatitis por virus C genotipo 1 en 2004, recibindo tratamento con sofosbuvir e daclatasvir, sendo posteriormente a carga viral indetectable tralo tratamento.
+» Tratamento habitual: lansoprazol, tamsulosina, alopurinol.
+
+HISTORIA ONCOLÓGICA
+
+Antecedente oncológico
+En marzo de 2014, o paciente acode ás consultas de Dermatoloxía ao presentar lesión nodular de 2,5 cm de diámetro, en cara posterior de brazo esquerdo de 4 meses de evolución e crecemento progresivo. Nun principio móstrase asintomático, sendo a lesión de cor pel inicialmente, e posteriormente tornou a coloración violácea.
+O paciente foi tratado con cirugía co seguinte resultado anatomopatológico trala resección da lesión: carcinoma de Merkel cutáneo, de morfología nodular que infiltra en profundidade 1,8 cm alcanzando tecido adiposo subcutáneo. Queda a menos de 1 mm do bordo quirúrgico profundo. O resto de bordos atópanse libres. Obsérvanse imaxes de invasión vascular e/ou linfático.
+Realízase biopsia selectiva de ganglio centinela, que foi positiva para células tumorales, polo que se leva a comisión de tumores para suscitar linfadenectomía e ampliación de marxes quirúrgicos.
+En mayo de 2014, realizouse linfadenectomía axilar esquerda estándar con anatomía patológica negativa para os 10 ganglios resecados.
+Posteriormente, recibe tratamento con radioterapia do 2 de xuño ao 5 de setembro con dose de 60 Gy, presentando como toxicidade unha epitelitis grado 3, quedando posteriormente en seguimiento polas consultas de oncología médica.
+
+Enfermidade actual
+Durante o seguimiento en consultas de Oncología médica, realízase TC de tórax-abdomen-pelvis de control en setembro de 2015, objetivándose masa en rexión pancreática con AP positiva para metástasis de carcinoma de Merkel, a partir de toma de biopsia mediante ecoendoscopia.
+
+Exploración física
+» Consciente e orientado. Eupneico en repouso. mucosa oral sen alteracións. ECOG 0.
+» AC: rítmica sen soplos. AP: MVC sen ruídos sobreañadidos. Abdomen: RHA+, brando, depresible, sen signos de irritación peritoneal. Non hai datos de lesións na pel en membros superiores nin inferiores.
+» Peso: 80 kg.
+
+Probas complementarias
+Analítica completa: sen alteracións.
+
+Diagnóstico
+Carcinoma de células de Merkel con recidiva pancreática.
+
+Tratamento
+Co diagnóstico de carcinoma de células de Merkel con recidiva pancreática, o paciente inicia tratamento con quimioterapia con dobre platino: carboplatino-taxol cada 21 días. Como complicaciones presenta neutropenia grado I e mucositis grado I.
+
+Evolución
+Recibe un total de 6 ciclos de carboplatino-taxol, obténdose nun principio resposta ao tratamento e disminución da masa pancreática nas probas de imaxe de control.
+Máis adiante, na TC de maio de 2016, presenta datos de progresión do seu patología de base, visualizándose un nódulo suprarrenal esquerdo xunto coa masa pancreática residual previa.
+Nese momento, debido á progresión da enfermidade, suscítase segunda liña de tratamento con cisplatino-etopósido, recibindo un único ciclo debido á mala tolerancia, requirindo ingreso hospitalario por neutropenia febril grado III e trombopenia grado III.
+Coméntanse co paciente as opcións terapéuticas. Nese momento hai descrito na bibliografía un ensaio en fase II de pembrolizumab para carcinoma de células Merkel. Con esta información, decídese usar pembrolizumab en monoterapia a dose de 2 mg/kg cada 3 semanas fóra de indicación de ficha técnica.
+Recibe o primeiro ciclo en xullo de 2016, presentando aos 10 días mejoría sintomática da dor. Realízase TC de control en setembro, tralo terceiro ciclo de tratamento, apreciándose marcada mejoría respecto de previo, con práctica resolución da masa retroperitoneal esquerda e do nódulo suprarrenal esquerdo.
+O paciente continúa posteriormente, acudindo a recibir ciclo de pembrolizumab cada 21 días, presentando como complicaciones en xullo de 2017 lesións eritematosas, redondeadas con fondo esbrancuxado en cara anterior de ambas pernas e brazo dereito, compatibles con psoriasis sendo valorado polo Servizo de Dermatoloxía.
+Realízase PET TC de control en outubro dese ano, sendo informado como ausencia de enfermidade macroscópica maligna desde o punto de vista metabólico.
+Na última TC toracoabdominopélvica realizada en febreiro de 2018 non se objetivan cambios respecto ao previo.
+Actualmente, o paciente continúa recibindo tratamento con pembrolizumab, habendo recibido o ciclo número 29 recientemente. Atópase asintomático, con bo estado xeral e presenta unha resposta maior mantida da súa patología tumoral.

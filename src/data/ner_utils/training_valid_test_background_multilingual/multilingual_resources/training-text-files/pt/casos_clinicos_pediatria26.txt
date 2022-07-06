@@ -1,0 +1,44 @@
+MOTIVO DE CONSULTA
+- Uma criança de 14 meses de idade veio ao departamento de emergência em 15-03-20 devido a problemas respiratórios.
+- Tinha vindo a sofrer de sintomas catarrais durante uma semana com broncoespasmo associado ao tratamento com salbutamol 4 puff a cada 8 horas. Relatam dificuldades acrescidas nas últimas horas.
+
+MOTIVO DE CONSULTA
+- Febre de 37,7oC com pico febril isolado de 38oC nas últimas 48 horas. Algum vómito de conteúdo mucoso, desencadeado pela tosse. Fezes normais.
+- Mãe em isolamento devido ao contacto directo com a COVID-19.
+
+HISTÓRIA PESSOAL
+- Recém-nascido a termo. Período neonatal normal.
+- Asma induzida por vírus a ser tratada com salbutamol a pedido.
+
+EXAME FÍSICO
+- À chegada ao serviço de urgências, o O2 Sat do paciente. O2 de 86% juntamente com a taquipneia e a taquipneia universal. Ta 37.5oC.
+- Estado geral aceitável. Coloração normal da pele e mucosa. Sem erupções cutâneas ou petéquias.
+- AP: Entrada de ar bilateral aceitável com subcrepitante disperso.
+- Resto do exame físico normal.
+
+EXPLORAÇÕES COMPLEMENTARES
+THORAX X-RAY
+Infiltração bilateral intersticial. Infiltração alveolar retrocardíaca. Seios costofrénicos livres.
+- Gases venosos: pH 7,36, pCO2 40,4 mmHg, pO2 40,9 mmHg, Bicarbonato 22,7 mmol / L, Exc Base -2,4
+- Vírus da Gripe PCR: NEGATIVO.
+- PCR VRS: POSITIVO
+Devido à estação epidémica COVID-19 e à mãe em contacto com o doente positivo, a PCR SRA-CoV-2 é solicitada.
+
+EVOLUÇÃO
+- À chegada, a oxigenoterapia foi administrada com uma máscara de venturi a um caudal de 8 bpm (FiO2 31%), bem como o tratamento com broncodilatador (Salbutamol + Brometo de Ipratrópio) + Metilprednisolona a 2mg/kg por boca.
+- A hospitalização foi decidida devido à necessidade de oxigenoterapia adicional devido à hipoxemia persistente.
+- Na admissão, os testes de sangue de rotina mostraram uma leve leucocitose 11310 (5940N 4160L), CRP: 8,7 mg/L, LDH 284, CK 49, GPT 12, glucose 116 e ureia 31. Nas primeiras 24 horas, foi obtido um resultado NEGATIVO de PCR para a SARS-CoV-2.
+- Durante a admissão permaneceu afebril, em tratamento com Ampicilina 200mg/kg/dia devido à infiltração do lobo médio, bem como tratamento com broncodilatador (Salbutamol e brometo de Ipratrópio) em câmara juntamente com metilprednisolona num padrão descendente.
+- Necessitou de oxigenoterapia de alto fluxo (máximo 12 l.p.m. com FiO2 55%) para manter as saturações no intervalo, que poderia ser progressivamente reduzido até ser descontinuado 48 horas antes da descarga. Descarga no terceiro dia de admissão devido a boa evolução.
+
+DIAGNÓSTICO
+- Crise asmática moderada secundária à infecção por RSV.
+- Pneumonia JMD.
+
+TRATAMENTO
+- Salbutamol, com câmara espaçadora e máscara, a pedido.
+- Paracetamol, se febre.
+- Amoxicilina 80mg/kg/dia até completar 7 dias de tratamento.
+- São dadas directrizes de alarme e ficha de informação com recomendações.
+- O acompanhamento telefónico da evolução da doença pelo pediatra de cuidados primários é indicado.
+

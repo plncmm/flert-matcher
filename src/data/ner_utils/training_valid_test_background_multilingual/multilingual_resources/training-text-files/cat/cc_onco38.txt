@@ -1,0 +1,40 @@
+Anamnesi
+Dona de 61 anys amb antecedents personals d'hèrnia de hiat, tuberculosi en la infància i virus de l'hepatitis B correctament tractat.
+
+Com a antecedents ginecològics destaca intervenció quirúrgica en 2001 de anexectomía dreta per teratoma madur quístic.
+
+En 2006 va ser intervinguda en un altre centre hospitalari de apendicectomía, visualitzant-se moc en la cavitat abdominal. L'anatomia patològica va revelar cistoadenoma mucinoso d'apèndix, amb vores de resecció quirúrgics lliures de lesió.
+
+Al gener de 2013 acudeix a consultes externes de Ginecologia per metrorràgia postmenopaúsica, així com molèsties abdominals amb lleugera distensió abdominal posprandrial. No nàusees ni vòmits. No alteracions de l'hàbit intestinal. No una altra clínica.
+
+Exploració física
+Constants vitals dins de la normalitat. Acceptable estat general, normohidratada i normoperfundida. Eupneica. ACP: anodina. Abdomen: distès, molèsties a la palpació profunda en el hipogastrio i la fossa íliaca dreta. No es palpen masses ni visceromegalias. Sorolls hidroaéreos presents. Blumberg negatiu. Murphy negatiu. MMII: edemes perimaleolares. Tacte vaginal: cèrvix posterior llarga, no dolor a la mobilització cervical ni en el fons de sac de Douglas. Úter de grandària i consistència que impressionen de normals. No es palpen masses anexiales.
+
+Proves complementàries
+Donades l'edat i la clínica de la pacient, davant l'exploració anodina se sol·liciten proves complementàries orientades per a descartar patologia ginecològica:
+» Analítica sanguínia: Hb 10,2 g/dl, resta de paràmetres dins de la normalitat.
+» Marcadors tumorals: CEA 9,5; CA 19.9: 120,4; HE4 54,4. Ca 125 112,4.
+» Es realitza una ecografia transvaginal, visualitzant-se líquid lliure en la pelvis i una imatge hiperecogénica de 37 mm en l'àrea anexial esquerra.
+» Davant aquestes troballes se sol·licita una TC abdominopélvica, que evidencia troballes compatibles amb carcinomatosis peritoneal, gran afectació del omento major infiltrat per múltiples masses i adenopaties peritoneals; es visualitza augment de grandària de l'annex esquerre.
+» Després de l'informe de la TC amb carcinomatosis peritoneal amb alteració de l'annex esquerre es planteja com a primera possibilitat el adenocarcinoma d'ovari.
+
+Diagnòstic
+Amb les troballes radiològiques anteriorment descrites es realitza de manera preferent al febrer de 2013 una laparatomía diagnòstica amb biòpsia intraoperatòria. L'anatomia patològica va revelar infiltració d'implants peritoneals, trompa, ovari esquerre i meso intestinal per adenocarcinoma mucinoso. Es van realitzar estudis d'immunohistoquímica, presentant forta positivitat per a CK20 i negatiu per a CK7, orientant cap a un origen primari intestinal; no presenta mutacions en KRAS i NRAS.
+
+Amb aquestes dades s'estableix el diagnòstic de carcinomatosis peritoneal per pseudomixoma peritonei i es presenta el cas en el comitè de tumors, decidint-se remetre a l'hospital de referència per a valorar la possibilitat de perinectomía de Sugarbarker i quimioteràpia intraperitoneal hipertèrmia (HIPEC).
+
+Tractament
+El 15 de maig de 2013 es realitza una laparotomia, trobant-se carcinomatosis peritoneal per pseudomixoma peritoneal molt avançat, amb un índex de carcinomatosis major de 30, malaltia disseminada en tot l'intestí prim, per la qual cosa es va desestimar la cirurgia radical.
+
+Es realitzen llavors reseccions pal·liatives de tots dos epiplones, colecistectomía i nòduls majors de 5 cm, i s'administra quimioteràpia intraperitoneal hipertèrmia intraoperatòria amb intenció pal·liativa de mitomicina a dosi de 10 mg/m² en infusió de 90 minuts i cisplatí 50 mg/m², amb bona evolució postoperatòria.
+
+Evolució
+En la primera TC postcirurgia (juliol de 2013) s'observa progressió de la malaltia respecte a l'estudi de febrer, evidenciant-se per tant escassa resposta a tractaments quimioteràpics.
+
+Des del punt de vista clínic, la pacient es trobava asimptomàtica, per la qual cosa després de plantejar diverses opcions s'administra quimioteràpia pal·liativa esquema FOLFOX 6 amb inici el 13/8/2013, del qual rep 13 cicles, des del cicle 7 sense oxiplatino per neurotoxicidad grau 2 mantinguda.
+
+En la TC de control després de 10 cicles s'objectiva mínima progressió pelviana, però d'acord amb la pacient es decideix continuar el tractament.
+
+Últim cicle el 2/9/2014, amb TC en aquest moment estable de grandària en relació amb l'estudi previ.
+
+Al març de 2015 s'evidencia en la TC de control progressió de la malaltia lleu/moderada respecte a l'estudi previ. Es comenta de nou en comitè de tumors, contraindicant-se una nova cirurgia, per la qual cosa es planteja en aquest moment quimioteràpia en segona línia amb XELIRI, amb reducció de dosi per la toxicitat prèvia. Inicio el 14/4/2015.

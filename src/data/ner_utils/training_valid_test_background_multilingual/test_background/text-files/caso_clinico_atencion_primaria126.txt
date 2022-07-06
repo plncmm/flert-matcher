@@ -1,0 +1,40 @@
+Motivo de consulta
+Disnea.
+
+Enfoque individual (anamnesis, exploración, pruebas complementarias)
+Antecedentes personales:
+Alergia a penicilina. Ha trabajado en el campo. No hábitos tóxicos. Hipertenso. Obesidad. Estudiado por Cardiología en 2016 por disnea y alteraciones basales en el electrocardiograma. Diagnosticado de dilatación de tronco de la arteria pulmonar.
+Asma bronquial extrínseco y rinitis.
+Se vacuna anualmente de la gripe.
+Tratamiento habitual: budesonida, montelukast, seretide, salbutamol, omeprazol, doxazosina, enalapril/hidroclorotiazida, furosemida, loratadina.
+Varón de 74 años que acude a su Centro de Salud por presentar disnea desde hace 3 días que ha ido aumentando progresivamente hasta hacerse a mínimos esfuerzos. No se ha acompañado de cambios en la tos ni en la expectoración. Tampoco dolor torácico. Afebril. No síncopes. Niega dolor en miembros inferiores o edema de los mismos. No ha realizado en días previos más reposo de lo habitual.
+
+Exploración física:
+Aceptable estado general. Consciente, orientado y colaborador. Ligeramente taquipneico a 38rpm. TA150/70mmHg. FC 110lpm. Saturación de O2 99% sin aporte suplementario.
+ACR: tonos cardiacos rítmicos a buena frecuencia. Murmullo vesicular disminuido de forma generalizada sin ruidos sobreañadidos. Abdomen sin hallazgos. No edemas ni signos de TVP en MMII.
+Se realiza electrocardiograma que muestra taquicardia sinusal a 110 lpm, con onda S en I, onda Q y T negativa en III.
+
+Ante la sospecha de tromboembolismo pulmonar (TEP) y tras estos hallazgos en el electrocardiograma se deriva al paciente a Urgencias de su hospital de referencia donde se realizan las siguientes pruebas complementarias:
+
+Rx tórax: pinzamiento de seno costofrénico derecho. Cardiomegalia. En proyección lateral discreto infiltrado algodono a nivel retrocardiaco.
+
+Angio TC tórácico: defecto de repleción central, acabalgado que afecta a ambas arterias pulmonares principales. En el lado izquierdo se extiende a la porción proximal de la arteria lobar superior, con otros pequeños defectos de repleción afectando a la pirámide basal. En el lado derecho el tronco acabalgado en la arteria pulmonar principal, se continua con un gran trombo de aproximadamente 56,9 x 25,2 mm (longitudinal x transversal), que afecta a la porción proximal de la lobar superior, oblitera a la arteria intermediaria, y expande y ocupa ampliamente la arteria lobar inferior derecha con obliteración de la pirámide basal. Signos de sobrecarga de cavidades derechas, con cardiomegalia e hipertrofia de dichas cavidades que abomba el tabique, con reflujo de contraste a las venas suprahepáticas.
+
+Signos de HTP precapilar, con cono de la pulmonar de calibre muy aumentada, así como también llamativo aumento de calibre de las arterias pulmonares principales.
+Pequeño derrame pericárdico en el receso lateral izquierdo, de 1,5 mm de espesor máximo. Mínimo derrame pleural derecho. Gran hernia de hiato. Cambios degenerativos en columna dorsal.
+
+Ecocardiografía: Ventrículo derecho dilatado y disfunción sistólica. Elevada probabilidad ecocardiográfica de HTAP severa.
+
+Ecodoppler MMII: trombosis venosa profunda incompleta o parcialmente recanalizada afectando a las venas poplíteas, tronco tibioperoneo y algunas de las venas surales profundas del miembro inferior izquierdo, con permeabilidad de los grandes troncos venosos proximales principales de dicho miembro.
+
+Analítica: hemograma y estudio de coagulación normales, salvo Dímero D 8450. Bioquímica sin alteraciones. ProBNP 8950.
+
+Enfoque familiar y comunitario
+El paciente está casado y vive en su domicilio con su mujer y uno de sus tres hijos. Es independiente para las actividades básicas de la vida diaria. Camina a diario. Nivel socio- cultural medio-alto. Realiza un buen seguimiento de su patología crónica en su Centro de Salud y es buen cumplidor de su tratamiento.
+
+Juicio clínico (listado de problemas, diagnóstico diferencial)
+Enfermedad tromboembólica venosa: Tromboembolismo pulmonar bilateral con alta carga trombótica en rama derecha de riesgo intermedio (PESI III) y riesgo intermedio de sangrado (Riete 2,5) con dilatación de VD y TVP en miembros inferiores.
+
+Plan de acción y evolución
+El paciente es ingresado en planta de Neumología para tratamiento con heparina sódica intravenosa, presentando buena evolución clínica con mejoría progresiva del grado de disnea, no presentándola al deambular ni tampoco dolor torácico.
+El paciente fue dado de alta diez días después de su ingreso con tratamiento con heparina de bajo peso molecular hasta ser valorado por Hematología para inicio de tratamiento con acenocumarol.

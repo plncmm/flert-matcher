@@ -1,0 +1,25 @@
+Anamnesis
+Varón de 78 años con antecedentes personales de hipertensión arterial controlada únicamente con dieta. Había sido diagnosticado de cáncer de próstata hace 14 años, que tras tratamiento quirúrgico y hormonal se consideraba actualmente en remisión. El único tratamiento médico actual era sildenafilo cada 15 días. Como antecedente familiar de interés refería que un hermano había sido diagnosticado de epilepsia generalizada, sufriendo muerte súbita durante un episodio.
+El paciente consulta por un cuadro brusco consistente en oleada epigástrica ascendente, seguida de episodio confusional, con desconexión del medio, lenguaje incoherente, automatismos de chupeteo y movimientos del miembro superior izquierdo, que duró aproximadamente 5 minutos, con posterior cuadro confusional y desorientación, que fue recuperándose lentamente en unos 30 minutos, guardando amnesia de todo el episodio. Durante el traslado al hospital y en el Servicio de Urgencias sufre otros dos episodios de similares características. Interrogado específicamente, refiere que desde hace unos años presenta episodios breves de desorientación asociados a sensación de bloqueo mental, por los que no había consultado.
+
+Examen físico
+El paciente mantenía unas constantes normales y se encontraba afebril y sin signos meníngeos. La auscultación cardiaca y pulmonar, y el resto de la exploración general no mostraba hallazgos patológicos. En la exploración neurológica el paciente estaba alerta, consciente y perfectamente orientado, con funciones cognitivas conservadas, siendo el lenguaje coherente y fluido. La exploración de los pares craneales, el balance muscular y la marcha eran normales, llamando la atención unos reflejos miotáticos exaltados y simétricos, con reflejo cutáneo-plantar flexor bilateral. El único dato significativo en la exploración era una leve hipoestesia facio-braquial izquierda.
+
+Pruebas complementarias
+• Una analítica sanguínea amplia que incluía hemograma, bioquímica general, coagulación, estudio inmunológico (ANAS), función tiroidea y proteinograma mostró valores normales. Los marcadores tumorales, las serologías (Borrelia, lúes, Brucella y VIH) y los anticuerpos antineuronales fueron negativos.
+• El estudio del líquido cefalorraquídeo incluyó bioquímica, serologías (lúes, Borrelia y Brucella), PCR viral y cultivo, siendo todos ellos negativos.
+• El electrocardiograma era normal y en la radiografía de tórax se evidenciaban algunas imágenes calcificadas antiguas.
+• Una tomografía computarizada (TC) tóraco-abdómino-pélvica efectivamente objetivaba placas pleurales calcificadas bilaterales, con afectación de la pleura diafragmática, que sugería patología antigua como exposición a asbesto, y quistes simples hepáticos.
+• La TC cerebral demostró únicamente algunas lesiones compatibles con infartos lacunares antiguos y atrofia cortical de predominio frontal.
+• En la resonancia magnética (RM) cerebral se vieron escasas imágenes de aspecto isquémico crónico junto a moderada atrofia cortical frontal, llamando la atención una hiperintensidad en secuencias TR largo en ambos sistemas límbicos parahipocámpicos, sin captación de contraste. Cortes coronales en secuencia FLAIR de la resonancia magnética en los que se observa hiperintensidad hipocampal y parahipocampal bilateral de predominio derecho.
+• Un estudio Doppler de troncos supraaórticos mostró una probable estenosis crítica proximal de la arteria vertebral derecha.
+• El registro del electroencefalograma era anormal, con descargas ocasionales epileptiformes (morfología de punta) en la región temporal derecha.
+
+Diagnóstico
+Crisis epilépticas parciales complejas de origen temporal, secundarias a esclerosis mesial del hipocampo bilateral, con presentación en adulto (tardía).
+
+Tratamiento
+Se inició tratamiento con ácido valproico, con adecuado control de las crisis parciales complejas y obteniéndose niveles terapéuticos de ácido valproico (92,8 μg/ml) al alta.
+
+Evolución
+En el seguimiento ambulatorio el paciente ha permanecido asintomático, sin nuevos episodios durante los 9 meses de evolución, siendo la RM craneal de control similar a la previa.

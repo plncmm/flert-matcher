@@ -1,0 +1,23 @@
+Anamnesis
+Varón de 79 años de edad que ingresa a cargo de Neurología para estudio de cuadro progresivo de alteración de la marcha. Como antecedentes personales destaca un prostatismo con incontinencia urinaria, estreñimiento y síndrome de apnea obstructiva del sueño (SAHOS) grave. Historiando al paciente, comenta que desde hace unos 3 años, de manera insidiosa y progresiva, tiene problemas de inestabilidad y debilidad en los miembros inferiores. Comenta además unos episodios cada vez más frecuentes de pérdida de consciencia coincidentes con el ortostatismo o con los esfuerzos. Su familia refiere que la voz le ha cambiado, que es más difícil de entender, así como una importante labilidad emocional. Ingresado, pudimos constatar frecuentes episodios de estridor laríngeo, así como comprobar que las pérdidas de consciencia se debían a una hipotensión ortostática franca (disminución de la tensión arterial >30 mmHg en la sistólica o > 15 mmHg en la diastólica con el ortostatismo). En la anamnesis dirigida también presentaba estreñimiento e impotencia.
+
+Examen físico
+En la exploración destacaba que estaba alerta, atento y orientado, sin signos ni síntomas de deterioro cognitivo, con un lenguaje muy disártrico e hipofónico. FO, motilidad y pares craneales normales. Debilidad generalizada de predominio en la cintura pélvica pero capaz de levantar las extremidades desde la cama. Hiperreflexia generalizada con RCP extensores. Leve dismetría en los miembros superiores e inferiores. No rigidez, temblor ni bradicinesia. Incapaz de mantener la bipedestación sin doble apoyo, con postura en anteroflexión del tronco.
+
+Pruebas complementarias
+• Hemograma: con anemia normocítica-normocrómica. Resto de hemograma, bioquímica, vitamina B12, ácido fólico, autoinmunidad, marcadores tumorales y coagulación sin alteraciones
+• Electroencefalograma sin hallazgos patológicos.
+• Electromiograma: signos sugerentes de polineuropatía periférica sensitivo-motora de predominio axonal leve-moderada.
+• Tomografía computarizada (TC) de tórax-abdomen: normal.
+• Resonancia magnética (RM) craneal: leucoaraiosis periventricular y atrofia generalizada, sobre todo cerebelosa, con aumento de surcos corticales y sistema ventricular.
+• RM cervical: protrusiones discales, sin mielopatía ni estenosis del canal.
+• DATSCAN: reducción del sistema dopaminérgico tanto a nivel presináptico como a nivel postsináptico.
+
+Diagnóstico
+Atrofia multisistémica probable, forma cerebelosa con disautonomía grave.
+
+Tratamiento
+Primeramente medidas conservadoras para la hipotensión ortostática (aumento de sal e hidratación, medias de compresión, elevación de la cama, etc.) o tratamiento con fludrocortisona 0,1-0,4 mg en dosis ascendente unido o no a piridostigmina en dosis de 60 mg/día (en nuestro caso, ayudó enormemente a la mejora de la hipotensión ortostática). Se debe hacer un ensayo terapéutico con levodopa en las formas parkinsonianas y corregir la anemia incluso con eritropoyetina. Tratamiento sintomático de la impotencia, estreñimiento y de los trastornos del sueño o estridor (incluso con CPAP o traqueotomía).
+
+Evolución
+La evolución ha sido favorable, los episodios de hipotensión ortostática han sido controlados con el tratamiento conservador y con la administración de fludrocortisona y piridostigmina. Pobre respuesta a la administración de L-dopa.

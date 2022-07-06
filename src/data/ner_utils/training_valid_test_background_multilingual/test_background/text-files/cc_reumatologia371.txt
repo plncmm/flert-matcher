@@ -1,0 +1,41 @@
+Se presenta una paciente femenina, blanca, de 7 años de edad, que es traída a Consulta de Emergencia. La madre refiere que 21 días antes la niña comenzó con un eritema en la cara que interesó mejillas, boca y frente; tres días después apareció edemas en los miembros inferiores, fiebre entre 38 y 39 °C, y cuadro doloroso articular que afectó manos, rodillas y tobillos fundamentalmente.
+A estas manifestaciones se adicionó dificultad para caminar por debilidad muscular. Durante los 21 días previos recibió tratamiento con varios antibióticos (amoxicilina y cefalexina, sin que se precisara la dosis), ibuprofeno 200 mg cada 8 h durante 10 días y 5 mg diarios de prednisona, pero el cuadro clínico continuó sin encontrarse mejoría clínica. Con estos antecedentes se decide el ingreso de la paciente para realizar un mejor estudio y seguimiento.
+
+Al examen físico se observaron como datos significativos:
+- eritema facial localizado en el cuello y la cara
+- eritema en heliotropo alrededor de ambos ojos
+- presencia de pápulas de Grotton en las articulaciones metacarpofalángicas bilaterales
+- febrícola de 37,8 °C
+- debilidad muscular proximal y simétrica a nivel de la cintura pélvica, grado 3/5
+- dolor a la movilización de ambas muñecas y rodillas
+- dolor a la digitopresión de la 2da. y 3ra. articulación interfalángica proximal bilateral
+- lesiones eritematosas diseminadas en el tronco y los miembros superiores e inferiores.
+
+Con los datos obtenidos durante la anamnesis y el examen físico se sospecha clínicamente el inicio de lupus eritematoso sistémico, una dermatomiositis juvenil o una enfermedad mixta del tejido conectivo.
+
+Se orientaron los exámenes complementarios en torno al diagnóstico de estas afecciones y descartar otras afecciones que pudieran cursar con manifestaciones similares.
+
+Se indicaron una serie de exámenes complementarios, cuyos resultados más significativos fueron:
+- Hemoquímica:
+Hemoglobina: 10,6 g/L
+Leucograma: 13,6 mm x 109/L
+El resto de los parámetros estaban dentro de los valores normales
+- Inmunológicos:
+Anticuerpos anti-Ro, anti-La, anti-RNP, anti-Smith, anti-ADN de doble cadena, anti-HepB, VDRL y VIH negativos
+Valores de complementos: C3, C4 y C1q negativos
+Factor reumatoide negativo
+Título de Antiestreptolisina O (TASO) negativo
+Anticuerpos antinucleares (ANA): se determinaron por inmunofluorescencia indirecta (IFI) y se obtuvo un patrón moteado fino con relación 1:5120.
+- Enzimas:
+Transaminasa TGO: 1280 U/L
+Transaminasa TGP: 488,60 U/L
+Lactato deshidrogenasa (LDH): 3004 U/L
+Creatina-fosfocinasa (CPK): 12430 U/L
+CPK, fracción muscular (MB): 317 U/L
+
+Se indicó también estudios imagenológicos y cultivos. De los primeros se destacan la ecografía abdominal, electrocardiograma, ecocardiograma y radiografía de tórax; dentro de los segundos se realizaron hemocultivos, cultivo de orina, de heces fecales y cultivo faríngeo. Ninguno de ellos mostró datos significativos.
+Durante la estadía hospitalaria de la paciente se interconsultó el caso con otras especialidades médicas. En total la niña fue valorada por especialistas en pediatría, reumatología, gastroenterología, cardiología, dermatología, fisiatría, infectología pediátrica y psicología médica.
+Los resultados obtenidos de las pruebas hemoquímicas e inmunológicas permitieron confirmar el diagnóstico de dermatomiositis juvenil. A partir del diagnóstico, y teniendo en cuenta el estado de la paciente, se comenzó el tratamiento con la administración de gammaglobulina humana a dosis de 200 mg/kg de peso y conjuntamente se administró pulsos de metilprednisolona (650 mg por vía intravenosa) diarios por un total de 3 días, para continuar con prednisona a dosis de 2 mg/kg.
+Otras medidas terapéuticas que se adicionaron fueron la administración semanal de 12,5 mg de metotrexate por vía subcutánea, calculado a 15 mg/m2/semana; 100 mg diarios de hidroxicloroquina, paracetamol como analgésico y medidas de protección solar.
+La paciente comenzó a mostrar una evolución favorable, lo que motivó que 22 días después del ingreso fue dada de alta hospitalaria con tratamiento para el hogar y seguimiento por consulta externa con la especialidad de Reumatología. Han trascurrido 6 meses desde el diagnóstico de la enfermedad y la paciente se mantiene con el uso del metotrexate a 100 mg diarios de hidroxicloroquina y 10 mg diarios de prednisona.
+Durante este periodo no han existido exacerbaciones de la enfermedad ni recaídas de la salud de la paciente. Se mantiene un seguimiento estable en la consulta externa y ha existido una normalización paulatina de los valores sanguíneos de las enzimas hepáticas y musculares.

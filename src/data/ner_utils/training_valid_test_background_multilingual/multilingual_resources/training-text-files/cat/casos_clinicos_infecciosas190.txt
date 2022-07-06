@@ -1,0 +1,32 @@
+Pacient home de 65 anys d'edat, exfumador i amb antecedents d'hipercolesterolèmia, hemorràgia digestiva alta per úlcera pilòrica, hiperuricemia, fibril·lació auricular anticoagulada i sotmès fa 3 mesos a una substitució valvular amb pròtesi aòrtica i mitral metàl·liques. Acudeix a urgències hospitalàries del nostre hospital per una història de febre de fins a 39oC acompanyada d'esgarrifances (especialment nocturns), malestar general, confusió i vòmits sense productes patològics. En dies previs no referia quadre respiratori, miccional ni gastrointestinal associat.
+
+A l'exploració física trobem al pacient amb regular estat general, conscient, desorientat en temps i en persona, no en espai. La pressió arterial era de 135/70 mmHg i la freqüència cardíaca de 87 lpm. Afebril. A l'auscultació cardíaca presentava tons arrítmics lleugerament taquicàrdics amb clics metàl·lics. A l'auscultació pulmonar, murmuri vesicular conservat sense sorolls sobreañadidos. Crida l'atenció durant l'exploració neurològica la rigidesa de clatell així com signes meningis (Interlletratge i Bruzinsky) positius; estant la força i sensibilitat conservades en membres superiors i inferiors.
+
+Amb la sospita clínica de meningitis es procedeix a la realització d'analítica general completa amb hemoglobina de 10.3 mg/dl, 6340 x103 leucòcits (4920 x 103 neutròfils), 102.000 x103 plaquetes, urea 45mg/dl, creatinina 1.6 mg/ dl, Proteïna C Reactiva (PCR) 221.7 mg/l i procalcitonina 1.17 ng/ml; Tomografia computada (TC) cranial que no va revelar cap anormalitat, i punció lumbar, l'anàlisi de líquid de la qual cefalorraquidi (LCR) va mostrar un recompte de glòbuls blancs de 1810/mm3 (95% neutròfils i 15% limfòcits), proteïnes 612,5 mg/dl i glucosa 17,2 mg/dl.
+
+Diagnòstic diferencial
+Ens trobem davant un cas de meningitis aguda adquirida en la comunitat, sent les principals "dades guies" dels quals disposàvem, la pleocitosis neutrofílica, hipoglucorraquia i hiperproteinorraquia. El diagnòstic de meningitis aguda adquirida en la comunitat (1) és un desafiament en adults majors per la presentació clínica variable i la comorbilidad associada. Les principals causes de meningitis aguda adquirida en la comunitat són:
+ 
+ 1. Infeccioses
+ • Bacteriana (caracteritzada per hipoglucorraquia, hiperproteinorraquia i pleocitosis neutrofílica) principalment Streptococcus pneumoniae, Neisseria meningitidis o Listeria monocytogenes. Fases precoces de les meningitis per Brucella spp, Lúes o Leptospiras spp.
+ • Viral, relacionada principalment amb enterovirus, arbovirus, parotiditis, virus herpes simple, virus varicel·la- zòster, virus de Epstein-Barr, citomegalovirus, adenovirus i VIH.
+ • Micobacterias.
+ • Fongs, amebes.
+
+2. Limfoma del sistema nerviós central o carcinomatosis meníngia.
+
+3. Altres: Focus infecciosos parameníngeos (empiema cerebral), aneurisma cerebral, meningitis químiques, fases inicials de la meningitis de Mollaret, encefalitis hemorràgica aguda, esclerosi múltiple, endocarditis.
+
+4. Causa desconeguda. En la tècnica d'imatge realitzada (TC cranial) no es van evidenciar dades de sagnat, així com tampoc lesions focals a nivell del parènquima ni de meninges, la qual cosa feia improbable la carcinomatosis meníngia, el limfoma del sistema nerviós central, l'esclerosi múltiple, un aneurisma cerebral o un empiema epidural.
+
+D'altra banda, l'anàlisi bioquímica del LCR va ser compatible amb meningitis bacteriana: líquid tèrbol amb pleocitosis de predomini neutrofílico (1810 leucòcits/mm3 amb 95% neutròfils), hiperproteinorraquia (proteïnes superiors a 500 mg/dl) i hipoglucorraquia (glucosa inferior a 45 mg/dl). Per tot això, la principal etiologia a descartar va ser la infecciosa de característiques bacterianes.
+
+Evolució
+A l'ingrés, donada l'alta sospita clínica, s'inicia tractament empíric per a la meningitis bacteriana en pacients majors de 50 anys, amb dexametasona 10mg cada 24h, ceftriaxona 2g cada 12h, vancomicina 1g cada 12horas i ampicil·lina 2g cada 4h per via intravenosa. Previ a l'inici de tractament antibiòtic es va prendre mostra per a cultiu i detecció d'antigen de Streptococcus pneumoniae en LCR, que van resultar negatius (tant el cultiu com el antígerno), es va realitzar tinció de Gram directa que va revelar cèl·lules gram-positives en forma de cocos, en cadenes curtes i fins i tot petits grups; i es van extreure hemocultivos que van resultar positius per a Streptococcus equi subesepecie ruminatorum. La identificació d'espècie es va dur a terme directament a partir del hemocultivo usant espectrometria de masses (MALDI-TOF).
+
+Després d'obtenir el hemocultivo positiu (2 de 4 flascons), es va modificar la antibioterapia a benzilpenicilina (42 milions d'unitats/dia) intravenosa durant 14 dies i posteriorment es va modificar a ceftriaxona 2g/24h intravenosa durant 7 dies més, completant 21 dies de antibioterapia. Els hemocultivos es negativizaron després de 7 dies de tractament antibiòtic.
+
+Davant la bacteriemia i la recent substitució protètica valvular cardíaca, es va descartar endocarditis amb ecocardiograma transtorácico i transesofágico. No hi havia hipogammaglobulinemia ni trobem evidències d'immunosupressió. El Streptococcus equi està relacionat clarament amb el contacte amb animals. En aquest sentit es va reinterrogar al pacient que va referir haver acudit, dos dies abans de l'inici dels símptomes, a un romiatge per una festa local, en la qual va tenir contacte directe amb gran nombre de cavalls. L'evolució va ser favorable amb desaparició de la febre i de la resta de símptomes, així com normalització dels reactants de fase aguda.
+
+Diagnòstic final
+Meningitis bacteriana comunitària bacteriémica per Streptococcus equi subsp. ruminatorum.

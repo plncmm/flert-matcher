@@ -1,0 +1,34 @@
+Anamnesi
+Donna di 53 anni dell'Ecuador, ex fumatrice di 15 sigarette al giorno per 15 anni, con un BMI di 25 e dislipidemia. Colecistectomia per colica biliare. Non prende un trattamento regolare (ha preso atorvastatina per alcuni mesi, abbandonando il trattamento per sua decisione). Ha 4 figli sani, senza alcuna storia familiare di cancro di interesse.
+Ha consultato nel febbraio 2015 a causa di steatorrea e perdita di peso di 10 kg in un anno. Uno studio di malassorbimento e una colonscopia sono stati avviati senza risultati. Una TAC ha mostrato una lieve steatosi epatica e un'immagine cistica di 1 cm nella testa del pancreas. Lo studio è stato completato con colangioresonanza e risonanza magnetica del pancreas, con una massa pancreatica di 3 cm sospetta di tumore. Per confermare la diagnosi, è stata eseguita un'ecografia endoscopica superiore che ha rivelato una massa mal definita di 3 cm, le cui biopsie non erano rappresentative. A causa del sospetto di tumore pancreatico, il paziente è stato sottoposto a duodenopancreatectomia cefalica programmata nel dicembre 2015, con resezione completa e anatomia patologica di adenocarcinoma pancreatico infiltrante di 1,3 cm associato a neoplasia mucinosa intraduttale papillare con displasia di alto grado, infiltrazione di tessuto adiposo peripancreatico, bordi chirurgici liberi e assenza di metastasi in 31 linfonodi isolati, stadio pT3, N0, Mx.
+Lo studio di estensione era negativo, e nel gennaio 2016 ha iniziato la gemcitabina adiuvante, ricevendo 6 cicli fino a giugno 2016, con buona tolleranza.
+Nel luglio 2016 è stata consultata per dolore all'ipocondrio destro e ascite.
+
+Esame fisico
+All'arrivo al dipartimento di emergenza:
+"Segni vitali stabili con tendenza alla tachicardia. Pressione 109/82 mm Hg, HR 105 bpm, SpO2 97% basale. Afebrile. Ittero mucocutaneo.
+"ACP: fini crepitii bibasali. CVM.
+"ABD: molto disteso, nessuna ascite alla tensione. Dolore in HCD ed epigastrio alla palpazione profonda, Murphy negativo. Nessun Blumberg. La percussione renale bilaterale è negativa.
+"MMII: edema con fovea fino alla radice degli arti, nessun segno di DVT, pulsazioni presenti.
+
+Test complementari
+Gli esami di laboratorio hanno mostrato un'iperbilirubinemia, con bilirubina totale 3,3 mg/dl (principalmente diretta), con colestasi (GGT 220 U/L) ed enzimi di citolisi normali (GPT 22 U/l, GOT 43 U/l), insieme ad un'anemia macrocitica (Hb 8,8 g/dl con MCV 103 fL) e coagulopatia di nuova insorgenza (attività protrombinica 32% e APTT 55,7 secondi).
+È stato ricoverato per ulteriori indagini ed è stata stabilita una diagnosi differenziale:
+"Eziologia infettiva esclusa: liquido ascitico senza evidenza di peritonite. Il virus dell'epatite A (IgM negativo, IgG positivo), l'epatite B (HBs Ag negativo, HBcIgG negativo), l'epatite C (HCV Ac negativo), l'epatite E (IgG, IgM e PCR negativo), il virus Epstein-Barr (IgM negativo), il citomegalovirus (IgM positivo, PCR < 150 copie), HIV (combo negativo) sono stati esclusi.
+"La storia clinica e l'assenza di dati clinico-analitici che suggeriscono una tale eziologia escludono la presenza di un'eziologia enologica.
+"L'eziologia del tumore è stata esclusa: la citologia del liquido ascitico era negativa per le cellule maligne. La TAC e la risonanza magnetica sono state eseguite senza trovare la recidiva del tumore, mostrando "una possibile tossicità epatica su una grave steatosi con una frazione di grasso del 43,5%". È stata eseguita una scansione PET con l'unico risultato di un "uptake epatico patologico".
+"L'eziologia vascolare (Budd-Chiari, trombosi) è stata esclusa a causa dell'assenza di risultati negli esami di imaging ed ematologici, con l'unico risultato di un aumento policlonale delle IgG in relazione alla cirrosi.
+"Eziologia autoimmune esclusa: 2 campioni negativi per anticorpi anti-mitocondri, anti-muscolo liscio, anti-LKM. Anticorpi antinucleari (ENA, DNA) positivi 1/80 in modo granulare e insignificante.
+"Le cause genetiche sono escluse: carenza di alfa-1-antitripsina dovuta a livelli normali.
+"La malattia di Wilson è stata inizialmente sospettata a causa della ceruloplasmina < 10U/l, normalizzata nel secondo campione e con rame normale nelle 24 ore (e assenza di depositi di rame nella biopsia epatica).
+"Altre cause rare e meno probabili sono state escluse: emocromatosi (funzione epatica, ferritina e saturazione della transferrina normali prima di iniziare la chemioterapia), malattia celiaca, malattie granulomatose, insufficienza cardiaca (ecocardiogramma con funzione ventricolare normale).
+"Farmaci: una volta escluse altre cause probabili, sono stati analizzati i farmaci ricevuti negli ultimi 6 mesi (ciprofloxacina per infezione del tratto urinario per 10 giorni durante il trattamento con gemcitabina, atorvastatina per alcune settimane, che la paziente ha interrotto di sua iniziativa, gemcitabina).
+
+Diagnosi
+Con il sospetto di steatoepatite acuta non alcolica (NASH), è stata eseguita una biopsia epatica: necrosi epatica submassiva con pallonatura degli epatociti, altamente suggestiva di NASH di probabile causa farmacologica. Poiché, ad eccezione della gemcitabina, gli altri farmaci sono stati somministrati in un breve periodo di tempo, questa complicazione è stata attribuita alla gemcitabina ed è stata notificata all'agenzia del farmaco.
+
+Trattamento
+Durante l'ammissione, il paziente ha ricevuto un trattamento di supporto, presentando diversi episodi di encefalopatia epatica che sono stati gestiti in modo conservativo, così come la polmonite nosocomiale che ha richiesto l'antibioterapia endovenosa e l'ossigenoterapia, con progressivo miglioramento.
+
+Evoluzione
+Dopo 3 mesi di ricovero, il paziente è stato dimesso nell'ottobre 2016 con miglioramento clinico e continua ad essere seguito in Oncologia Medica e Medicina Digestiva, senza nuovi episodi di scompenso e senza dati di recidiva del tumore fino ad oggi.

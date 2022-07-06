@@ -1,0 +1,13 @@
+Antécédents, maladie actuelle et examen physique
+Un patient de 43 ans, sans antécédents, qui pratique des sports aérobies intenses (athlétisme et padel) environ 7 heures par semaine depuis l'enfance, est adressé au service de cardiologie pour la constatation d'extrasystoles ventriculaires (VE) monomorphes isolées sur l'ECG réalisé lors d'un examen sur le lieu de travail. L'examen physique était normal.
+
+Tests complémentaires
+L'échocardiogramme, la radiographie pulmonaire et les tests de laboratoire n'ont révélé aucune anomalie. Aucun signe ou symptôme d'ischémie n'a été observé lors de l'épreuve d'effort, mais la densité des extrasystoles ventriculaires a légèrement augmenté en coïncidant avec l'effort maximal.
+
+Cours clinique
+Un traitement a été instauré avec du bisoprolol à 5 mg par jour et le monitoring Holter a enregistré la disparition du VE mais un bloc auriculo-ventriculaire (BAV) nocturne avec plusieurs pauses, la plus longue étant de 12 secondes. Le patient est resté asymptomatique à tout moment et a nié toute histoire familiale de trouble de la conduction, de cardiomyopathie dilatée ou de mort subite. La surveillance Holter a été interprétée comme un BAV avancé, le bisoprolol a été interrompu et le patient a été admis pour étude et surveillance. Des pauses nocturnes ont été enregistrées en relation avec une AVB et/ou une bradycardie sinusale allant jusqu'à 7 secondes et une VS très occasionnelle. La conduction de base s'est avérée normale par une étude électrophysiologique et l'apnée du sommeil a été exclue par une polysomnographie. Compte tenu de la mauvaise situation clinique et de l'absence de possibilités de traitement curatif, l'analgésie a été intensifiée et le patient est décédé.
+
+Diagnostic
+Compte tenu de l'absence de maladie cardiaque structurelle et des antécédents familiaux pertinents, on lui a diagnostiqué un VAB médié par une hypertonie vagale et on lui a conseillé de réduire son activité sportive, mais il a refusé.
+On lui a expliqué le rapport bénéfice/risque de l'implantation d'un stimulateur cardiaque simple chambre et il a refusé. 
+Au cours du suivi, il continue à être asymptomatique, bien que la surveillance Holter ECG montre que des pauses nocturnes d'une durée allant jusqu'à 9 secondes persistent.

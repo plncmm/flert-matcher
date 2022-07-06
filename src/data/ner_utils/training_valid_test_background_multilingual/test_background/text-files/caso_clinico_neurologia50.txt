@@ -1,0 +1,21 @@
+Anamnesis
+Varón de 41 años de edad, con antecedentes de hábito tabáquico (10 cigarrillos/día), sin otros hábitos tóxicos. No se le conocen alergias medicamentosas ni toma ningún tratamiento de forma crónica. No refiere antecedentes familiares dignos de mención. Consulta de madrugada en el Servicio de Urgencias por pérdida de fuerza en los miembros inferiores. Había acudido a este mismo Servicio la mañana anterior por presentar un intenso dolor escapular izquierdo de inicio brusco. Se le había administrado analgesia, con resolución total del dolor. Se acuesta asintomático esa noche, salvo por dificultades para orinar, a las cuales no da importancia. Trata de levantarse a las dos de la madrugada y observa que ni tiene sensibilidad ni es capaz de movilizar las extremidades inferiores. No presenta dolor torácico ni en los miembros inferiores.
+
+Examen físico
+A su llegada a Urgencias el paciente mantiene una tensión arterial de 170/100 mmHg y una frecuencia cardiaca de 100 lpm. Está afebril. En la exploración general destaca la ausencia de pulsos arteriales a nivel femoral, poplíteo y pedio, aunque no se observa frialdad ni palidez en las extremidades inferiores. No se detectan soplos abdominales. El abdomen no resulta doloroso de forma espontánea ni a la palpación. Se corrobora la retención urinaria, que precisa sondaje. La restante exploración por aparatos no revela nada destacable. Al examen neurológico destaca una paraplejia flácida. Los reflejos osteotendinosos están abolidos en las extremidades inferiores, siendo normales y simétricos en las extremidades superiores. Los reflejos cutáneo-plantares son flexores. No se obtienen reflejos cutáneoabdominales, y tampoco cremastérico. Se observa una atonía anal. Todas las modalidades sensitivas exploradas, incluyendo táctil epicrítica, vibratoria, artrocinética, termoalgésica y táctil protopática, se encuentran abolidas con un nivel L1. El paciente manifiesta una notable ansiedad, pero el nivel de consciencia, la orientación y la memoria se encuentran dentro de la normalidad. La restante exploración neurológica no aporta ningún otro hallazgo.
+
+Pruebas complementarias
+• Se realiza un estudio de laboratorio sanguíneo, que incluye un hemograma, un estudio de coagulación y una bioquímica básica. Todo ello resulta normal, como también un análisis de orina y un estudio de líquido cefalorraquídeo.
+• En el electrocardiograma se observa una taquicardia sinusal.
+• En la radiografía de tórax no se observan hallazgos patológicos.
+• Se realiza una resonancia magnética medular torácica y lumbosacra, en concreto a las 10 horas de que el paciente fuera consciente de la paraplejia. No se observan en secuencias T1, T2 ni FLAIR alteraciones de la señal medular. Tampoco lesiones intra o extramedulares.
+• Ante la clínica de dolor irruptivo escapular y posterior paraplejia flácida se decide entonces realizar una tomografía computarizada (TC) tóraco-abdominal, que muestra la existencia de un trombo mural en el segmento aórtico infrarrenal. El trombo se hace completo en su extremo distal, con ausencia de realce en ambas arterias iliacas primitivas. Se objetiva, asimismo, revascularización en los tercios distales de las arterias iliacas externas. Las arterias femorales se dibujan de manera filiforme.
+
+Diagnóstico
+Trombosis aórtica infrarrenal aguda. Paraplejia flácida asociada a abolición sensitiva completa con nivel L1.
+
+Tratamiento
+Se lleva a cabo una intervención quirúrgica urgente mediante la realización de un by-pass aorto-bifemoral con una prótesis de dacrón de 16 x 8 mm.
+
+Evolución
+La intervención quirúrgica transcurre sin complicaciones y con buen resultado quirúrgico final. Sin embargo, en las horas siguientes el paciente presenta una inestabilización hemodinámica y respiratoria, debido al desarrollo de un síndrome de revascularización, falleciendo 3 horas tras la cirugía.

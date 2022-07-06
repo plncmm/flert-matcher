@@ -1,0 +1,36 @@
+Anamnese
+Mulher de 68 anos, alérgica a tetraciclinas. Casado com 3 filhas. Nenhum historial familiar de interesse. História pessoal de hipertensão, dislipidemia, obesidade e síndrome da apneia do sono. Tem um pacemaker permanente para bloqueio atrioventricular tipo Mobitz II desde Junho de 2014.
+No tratamento com enalapril/hidroclorotiazida 20 mg/12,5 mg (1-0-0), simvastatina 20 mg (0-0-1), omeprazol 20 mg (1-0-0-0).
+A sua história oncológica começou em Setembro de 2014, quando lhe foi diagnosticado adenocarcinoma do cólon em fase IV (hepático), KRAS mutado (G12A). O doente foi incluído num ensaio clínico aleatório duplo-cego FOLFOX + bevacizumab vs. FOLFOX + RO5520985.
+Recebeu 11 ciclos (C) até Abril de 2015, com resposta parcial (PR) como melhor resposta, e foi submetida a hepatectomia direita em Junho de 2015.
+O seu primeiro TAC após a cirurgia mostrou um defeito de enchimento sugestivo de trombo na veia subclávia direita adjacente ao cateter, bem como um aumento do número e tamanho das lesões micronodulares pulmonares bilaterais sugestivas de metástase.
+Foi decidido iniciar a segunda linha com FOLFIRI sem agentes antiangiogénicos ou bolus 5-FU devido a trombose associada ao cateter, bem como a anticoagulação com heparinas de baixo peso molecular. Após C3, e uma vez alcançado o controlo da trombose e com um bom controlo da pressão sanguínea, foi acrescentado aflibercept. A toxicidade mais notória foi a diarreia G3, que exigiu hospitalização, e a melhor resposta foi a doença estável (SS).
+Após C25, o fígado recaiu, pelo que o tratamento foi proposto como parte do CD RE-ARRANGE. O doente aceitou e, após aleatorização, foi incluído no braço de tratamento C (regorafenibe 160 mg/dia 1 semana on/1 semana off, primeiro ciclo, segundo ciclo 160 mg/dia 3 semanas on/ 1 semana off). Progressão hepática na primeira varredura CT de controlo em Novembro de 2016.
+Foi decidido um novo tratamento com FOLFOX, do qual recebeu 3 ciclos, admitido em duas ocasiões por pneumonia e dor lombar relacionada com o envolvimento ósseo lombar metastástico. Em Março de 2017, o doente recebeu a primeira administração de ácido zoledrónico e radioterapia paliativa lombar (22Gy em L2-L3 e uma dose única de 8Gy em L4). Além disso, foi prescrito pela traumatologia um aparelho.
+Em Abril de 2017, o paciente foi admitido no serviço de urgência por dores de cabeça com 48 horas de duração, sem resposta à analgesia de terceira fase. Foi realizado um TAC cranial sem alterações e iniciou-se a perfusão intravenosa com opiáceos em doses iguais às que o paciente tinha por via transdérmica para controlo da dor. O paciente sofreu uma deterioração progressiva do nível de consciência com o aparecimento de febre, bem como de agitação que exigia antipsicóticos para controlar. A cateterização da bexiga foi realizada sem urina patológica, foram feitas culturas de sangue e urina, foi iniciado o isolamento e a antibioticoterapia empírica.
+
+Exame físico
+Na nossa primeira avaliação na enfermaria, o paciente estava acamado e em mau estado geral. Padrão respiratório eupneico em repouso com oxigénio em óculos nasais. Palidez da pele. Pobre perfusão. Glasgow pontuação 8 (abertura dos olhos para chamar, retirada para a dor, sem resposta verbal).
+Movimentos descoordenados dos membros superiores. Não obedece a ordens. Ausência de reflexo bilateral pele-plantar. Alunos em posição intermédia reactiva. O sinal de Brudzinski está presente. Rigidez cervical. Ruídos de secreção.
+
+Testes complementares
+"TAC da coluna lombar (Fevereiro 2017): perda da altura dos corpos vertebrais de L2-L5, sugerindo pequenas fracturas-plaquetas devido a insuficiência vertebral, com uma origem metastásica menos provável. Em contraste, o corpo vertebral de L4 mostrou uma maior perda de altura e uma esclerose global na sua densidade com áreas internas de aparência lítica mal definida formando um padrão mosqueado, sugerindo um possível envolvimento metastático.
+"Urgent cranial CT scan (Abril 2017): ausência de lesões intra ou extraxial que ocupem o espaço, sem sinais de hemorragia ou desvio da linha média.
+"Testes laboratoriais no 1º dia de admissão (Abril 2017): leucocitose com desvio à esquerda. CRP 245 mg/l (no ER 100 mg/l). Hemoglobina 9.8g/dl. O resto, sem alterações de interesse.
+
+Diagnóstico
+"Meningoencefalite aguda devido a listeria monocytogenes".
+"Sepsis e bacteriemia devido a Listeria monocytogenes".
+"Adenocarcinoma de fase IV do cólon (fígado, osso, pulmão)".
+
+Tratamento
+O Departamento de Microbiologia informou-nos do crescimento de Listeria monocytogenes em hemoculturas, pelo que, após discutir o caso com Infecções e Neurologia, decidimos adiar por agora a punção lombar, devido às lesões lombares recentemente irradiadas e à deterioração clínica do paciente, assumindo que este germe era a causa dos sintomas neurológicos do paciente.
+Foi decidido iniciar uma terapia antibiótica orientada com ampicilina e gentamicina, bem como uma terapia adjuvante com dexametasona.
+Nessa mesma noite, o doente começou a ter convulsões focais no hemibody direito, para as quais foi prescrito midazolam para as controlar, e o levetiracetam 500 mg a cada 12 horas foi adicionado ao tratamento.
+Apesar disso, o paciente continuou a apresentar crises subintrusivas, pelo que foi decidido, dada a disfunção hepática, adicionar lacosamida 50 mg/12 h, que foi finalmente aumentada para 100 mg/12 h devido à persistência das crises.
+
+Evolução
+Foi solicitada uma nova TAC craniana urgente, sem alterações em relação à anterior. O paciente continuou com uma deterioração neurológica progressiva e, após 8 dias de hospitalização sem qualquer melhoria, apesar de todas as medidas tomadas, decidimos, de comum acordo com a família, limitar o esforço terapêutico.
+O paciente teve alta sem sinais de sofrimento após 15 dias de hospitalização.
+Nessa mesma noite, o doente começou a ter convulsões focais no hemibody direito, para as quais foi prescrito midazolam para as controlar, e o levetiracetam 500 mg a cada 12 horas foi adicionado ao tratamento.
+Apesar disso, o paciente continuou a apresentar crises subintrusivas, pelo que foi decidido, dada a disfunção hepática, adicionar lacosamida 50 mg/12 h, que foi finalmente aumentada para 100 mg/12 h devido à persistência das crises.

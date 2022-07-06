@@ -1,0 +1,28 @@
+Anamnese
+Homem de 43 anos, sem historial médico de interesse e com uma única história cirúrgica de apendicectomia na adolescência.
+O paciente relatou que no primeiro dia começou com dores lombares baixas no contexto de excesso de esforço no trabalho. No 11º dia, a anterior dor lombar estava associada a uma febre baixa à tarde, pelo que decidiu consultar o seu médico de cuidados primários; após o exame, houve um único achado de dor lombar com características mecânicas e uma febre de 37,5oC; foi solicitada uma radiografia da coluna dorsal e lombar (que foi relatada como normal) e iniciou o tratamento com medicamentos anti-inflamatórios.
+No dia 16, o paciente assistiu ao Departamento de Emergência devido ao agravamento da febre febril (agora tinha picos de febre até 39oC) e também começou a sentir dores na região hemiscrotal esquerda.
+
+Exame físico
+Ao ser examinado, tinha uma temperatura axilar de 38,6oC e inchaço do epidídimo esquerdo e do testículo.
+
+Testes adicionais
+- Exames de sangue: leucocitose com neutrofilia e proteína C reativa elevada.
+- Sedimento de urina: normal.
+- Ecografia escrotal: resultados de ecografia compatíveis com a orquiepidimite esquerda com alguma área focal hipoecóica que requer controlos evolutivos até à resolução completa.
+- Foram solicitadas culturas de sangue e urina. Tratamento e evolução
+O paciente foi diagnosticado com orquiepidimite esquerda e o tratamento foi iniciado com ciprofloxacina 500 mg/12 horas, solicitando consulta ambulatorial com o Departamento de Urologia. No dia 20, devido à persistência do quadro clínico, sem melhoria sintomática, o paciente regressou ao Serviço de Urgência, onde foram consultados os resultados das culturas tomadas anteriormente:
+- Hemocultura: positivo para Brucella melitensis.
+- Cultura da urina: negativa.
+Com suspeita de brucelose, o paciente foi admitido no Departamento de Medicina Interna, onde permaneceu durante 10 dias:
+- O tratamento antibiótico intravenoso foi iniciado com gentamicina 240 mg/dia + doxiciclina 200 mg/dia oral + rifampicina 600 mg/dia oral.
+- A anamnese foi prolongada: a única fonte de contacto possível foi a ingestão de coalhada caseira num restaurante em Navarra (a última vez há um mês).
+- Culturas de sangue em duas novas ocasiões: positivas para Brucella melitensis.
+- Serologia para Brucella: positiva.
+- Rose Bengala: positivo.
+- Novo ultra-som testicular: progressão dos resultados de imagem em relação à orquiepidimite esquerda, em comparação com o estudo anterior. Não são vistas imagens sugestivas de abcesso.
+- Ressonância sacro-ilíaca: resultados radiológicos compatíveis com sacroiliíte bilateral suave.
+- Ecocardiograma transtorácico: normal.
+
+Diagnóstico
+Brucelose com envolvimento genital (orquiepidimite) e ósseo (sacroiliíte bilateral suave). Como necessitava de tratamento antibiótico intravenoso com gentamicina durante os primeiros 15 dias (para além do tratamento oral com doxiciclina e rifampicina durante 2 meses), foi encaminhado para um hospital de cuidados intermédios para continuar e completar o tratamento intravenoso.

@@ -1,0 +1,21 @@
+Anamnesis
+Varón de 52 años de edad, sin antecedentes de interés, que acude a consulta de Urología por hematuria terminal, sin otra sintomatología asociada.
+
+Examen físico
+La exploración abdominal y prostática fue normal.
+
+Pruebas complementarias
+• Entre las pruebas complementarias realizadas destacaban una citología urinaria sospechosa de malignidad y una cistoscopia, que mostró una lesión pediculada de aproximadamente 2-3 cm, de aspecto infiltrante, en el fondo vesical, compatible con neoplasia. Presentaba varias áreas eritematosas con zonas papilares de aspecto no infiltrante en CLD y CLI también sospechosas.
+• Con el diagnóstico de tumor vesical, se realiza una exploración bajo anestesia (EBA) de la vejiga y resección transuretral (RTU) de las lesiones descritas. El aspecto endoscópico fue de tumor infiltrante con resección incompleta en profundidad.
+• El estudio anatomopatológico mostró un carcinoma urotelial infiltrante de alto grado que infiltraba la muscular propia, al menos pT2a. Se completó la estadificación con una tomografía computarizada (TC) y una radiografía de tórax, sin nuevos hallazgos, y se remitió para neoadyuvancia previa a cirugía radical según el protocolo del Servicio de Urología.
+
+Diagnóstico
+La anatomía patológica de la cistectomía parcial fue carcinoma neuroendocrino de célula grande que invadía la muscular propia superficial, que focalmente se encontraba a menos de 1 mm de uno de los márgenes de resección laterales. No se observaron invasiones vasculares. Ulceración vesical extensa con fibrosis y reacción granulomatosa a cuerpo extraño, linfadenectomía derecha e izquierda negativa para malignidad. Estadificación patológica de la pieza: pT2a N0 L0 V0 (TNM, 7.a ed.).
+
+Tratamiento
+Se propone realizar esquema de neoadyuvancia (cuatro ciclos de gencitabina + cisplatino), y el paciente rechaza la cistectomía radical, por lo que se decide realizar seguimiento según el protocolo de preservación vesical con nueva EBA y toma de biopsias de la cicatriz de resección previa. En la nueva EBA no se observaron lesiones macroscópicas, y se realizó la resección en profundidad de la cicatriz en el fondo vesical.
+La anatomía patológica de la nueva RTU fue carcinoma neuroendocrino de célula grande, que invade la submucosa y respeta los fragmentos de tejido muscular presentes en la muestra. Dado el rechazo del paciente a la cistectomía radical, se ofrece la posibilidad de cistectomía parcial y linfadenectomía ilio-obturatriz bilateral (LFDN).
+Previo marcaje de la cicatriz de resección previa con asa de Collins, dejando margen de resección, se realiza cistectomía parcial y LFDN sin complicaciones intraoperatorias o en el postoperatorio inmediato, siendo retirada la sonda a los 14 días de la cirugía sin incidencias.
+
+Evolución
+Tras 21 meses de seguimiento con revisiones trimestrales con cistoscopia, biopsias vesicales y TC abdominal, el paciente no presenta datos de recidiva local ni a distancia.

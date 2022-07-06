@@ -1,0 +1,25 @@
+Anamnesis
+Varón de 54 años de edad, que en julio de 2003 se realiza una endoscopia digestiva alta debido a dolor epigástrico postprandial, observándose una úlcera en curvatura menor. Se toman biopsias con diagnóstico anatomopatológico de adenocarcinoma con células en anillo de sello. Se completa estudios de extensión mediante una TC que descarta enfermedad a distancia por lo que se decide realizar gastrectomía y linfadenectomía D2. El estudio anatomopatológico muestra muestra adenocarcinoma con células en anillo de sello con afectación hasta subserosa (pT3) e infiltración de 7 de 12 ganglios regionales (N3a), por lo que se trata de un estadio IIIB. Recibe tratamiento complementario con quimiorradioterapia según esquema McDonald3, que finaliza en marzo de 2004, presentando emesis, mucositis oral y diarrea como toxicidad. Desde entonces continúa revisiones sin evidencia de recidiva, hasta que en febrero de 2012 consulta por dolor lumbar de aproximadamente 3 meses de evolución, con empeoramiento progresivo y sin déficit neurológico asociado.
+Se decide ingreso por mal control del dolor a pesar de analgesia de tercer escalón.
+
+Exploración física
+Valoración de 1 en la escala de la ECOG. Palidez de piel y mucosas. Auscultación cardíaca y pulmonar: normal. Abdomen: blando con cicatriz de laparotomía media sin alteraciones, no doloroso a la palpación y sin evidencia de masa o visceromegalias. Sin déficit neurológicos.
+
+Pruebas complementarias
+• En analítica destaca fosfatasa alcalina muy elevada (11390 UI/L), lactato deshidrogenasa de 1.069 UI/L, hipocalcemia (calcio de 6,7 mg/dL), anemia (hemoglobina 6,7 g/dL) normocítica (VCM 95,5 fL) y normocrómica (hemoglobina corpuscular media 30,1 pg), trombopenia (73.000 plaquetas/mL) y leucopenia (3.024 leucocitos/mL).
+• Ante los hallazgos analíticos sugestivos de enfermedad ósea, se completa estudio mediante pruebas de imagen con gammagrafía ósea (GGO) en la que describen múltiples lesiones blásticas, de pequeño tamaño, localizadas en el esqueleto axial y porción proximal del esqueleto apendicular.
+• RM de columna completa que descarta afectación medular.
+• Dados los antecedentes de neoplasia gástrica, se solicita una gastroscopia, sin evidencia de lesiones sugestivas de malignidad y con anastomosis sin alteraciones.
+• TC toracoabdominopélvica que objetiva múltiples lesiones óseas sugestivas de metástasis sin evidencia de lesiones viscerales.
+• Durante el ingreso, se realizan controles analíticos seriados con empeoramiento progresivo de la pancitopenia, sin evidencia clínica de sangrado. Se decide realizar estudio de médula ósea con aspirado seco, biopsia que evidencia infiltración por carcinoma de células en anillo de sello, con estudio inmunohistoquímico positivo para CK (citoqueratinas) AE1-AE3, negativo para PSA y frotis de sangre periférica con cuadro leucoeritroblástico.
+
+Diagnóstico
+Recidiva ósea de adenocarcinoma con células en anillo de sello de origen gástrico tras un intervalo libre de enfermedad de ocho años con infiltración medular secundaria, que provoca una pancitopenia e hipocalcemia por recambio óseo acelerado.
+
+Tratamiento
+Se inicia tratamiento sintomático con reposición de calcio intravenoso y posteriormente con suplementos de calcio oral más vitamina D. Se realiza ajuste de tratamiento analgésico con titulación de dosis mediante morfina intravenosa y posterior paso a vía oral con buena tolerancia. Además, se decide administrar una dosis de ácido zoledrónico debido a la extensa enfermedad ósea, con mejoría del dolor pero empeoramiento de los niveles de calcio.
+Con respecto a la quimioterapia, ésta se desestima debido a la situación de insuficiencia medular con anemia grado 3 (hemoglobina 6,7 g/dL), trombopenia grado 2 (73.000 plaquetas/mL) y leucopenia grado 1 (3.024 leucocitos/mL).
+
+Evolución
+Tras dos meses y medio después del diagnóstico de recidiva, el paciente continúa con un ECOG de 1, pero con astenia y pérdida de peso lentamente progresiva. Buen control analgésico del dolor lumbar mediante morfina oral y estabilización de los niveles de calcio tras la supresión del ácido zoledrónico y mantenimiento de los suplementos de calcio asociados a vitamina D.
+Las cifras de hemoglobina, plaquetas y leucocitos también permanecen sin cambios, a pesar de lo cual el paciente presenta un hematoma subdural bilateral espontáneo, que no es necesario intervenir por su tamaño milimétrico. En la actualidad el paciente permanece sin síntomas neurológicos y con un buen estado general.

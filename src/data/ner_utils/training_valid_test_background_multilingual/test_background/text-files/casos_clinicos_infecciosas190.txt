@@ -1,0 +1,32 @@
+Paciente varón de 65 años de edad, exfumador y con antecedentes de hipercolesterolemia, hemorragia digestiva alta por úlcera pilórica, hiperuricemia, fibrilación auricular anticoagulada y sometido hace 3 meses a una sustitución valvular con prótesis aórtica y mitral metálicas. Acude a urgencias hospitalarias de nuestro hospital por una historia de fiebre de hasta 39oC acompañada de escalofríos (especialmente nocturnos), malestar general, confusión y vómitos sin productos patológicos. En días previos no refería cuadro respiratorio, miccional ni gastrointestinal asociado.
+
+A la exploración física encontramos al paciente con regular estado general, consciente, desorientado en tiempo y en persona, no en espacio. La presión arterial era de 135/70 mmHg y la frecuencia cardiaca de 87 lpm. Afebril. A la auscultación cardiaca presentaba tonos arrítmicos ligeramente taquicárdicos con clics metálicos. A la auscultación pulmonar, murmullo vesicular conservado sin ruidos sobreañadidos. Llama la atención durante la exploración neurológica la rigidez de nuca así como signos meníngeos (Kerning y Bruzinsky) positivos; estando la fuerza y sensibilidad conservadas en miembros superiores e inferiores.
+
+Con la sospecha clínica de meningitis se procede a la realización de analítica general completa con hemoglobina de 10.3 mg/dl, 6340 x103 leucocitos (4920 x 103 neutrófilos), 102.000 x103 plaquetas, urea 45mg/dl, creatinina 1.6 mg/ dl, Proteína C Reactiva (PCR) 221.7 mg/l y procalcitonina 1.17 ng/ml; Tomografía Computarizada (TC) craneal que no reveló ninguna anormalidad, y punción lumbar, cuyo análisis de líquido cefalorraquídeo (LCR) mostró un recuento de glóbulos blancos de 1810/mm3 (95% neutrófilos y 15% linfocitos), proteínas 612,5 mg/dl y glucosa 17,2 mg/dl.
+
+Diagnóstico diferencial
+Nos encontramos ante un caso de meningitis aguda adquirida en la comunidad, siendo los principales "datos guías" de los que disponíamos, la pleocitosis neutrofílica, hipoglucorraquia e hiperproteinorraquia. El diagnóstico de meningitis aguda adquirida en la comunidad (1) es un desafío en adultos mayores por la presentación clínica variable y la comorbilidad asociada. Las principales causas de meningitis aguda adquirida en la comunidad son:
+ 
+ 1. Infecciosas
+ • Bacteriana (caracterizada por hipoglucorraquia, hiperproteinorraquia y pleocitosis neutrofílica) principalmente Streptococcus pneumoniae, Neisseria meningitidis o Listeria monocytogenes. Fases precoces de las meningitis por Brucella spp, Lúes o Leptospiras spp.
+ • Viral, relacionada principalmente con enterovirus, arbovirus, parotiditis, virus herpes simple, virus varicela- zóster, virus de Epstein-Barr, citomegalovirus, adenovirus y VIH.
+ • Micobacterias.
+ • Hongos, amebas.
+
+2. Linfoma del sistema nervioso central o carcinomatosis meníngea.
+
+3. Otras: Focos infecciosos parameníngeos (empiema cerebral), aneurisma cerebral, meningitis químicas, fases iniciales de la meningitis de Mollaret, encefalitis hemorrágica aguda, esclerosis múltiple, endocarditis.
+
+4. Causa desconocida. En la técnica de imagen realizada (TC craneal) no se evidenciaron datos de sangrado, así como tampoco lesiones focales a nivel del parénquima ni de meninges, lo que hacía improbable la carcinomatosis meníngea, el linfoma del sistema nervioso central, la esclerosis múltiple, un aneurisma cerebral o un empiema epidural.
+
+Por otro lado, el análisis bioquímico del LCR fue compatible con meningitis bacteriana: líquido turbio con pleocitosis de predominio neutrofílico (1810 leucocitos/mm3 con 95% neutrófilos), hiperproteinorraquia (proteínas superiores a 500 mg/dl) e hipoglucorraquia (glucosa inferior a 45 mg/dl). Por todo ello, la principal etiología a descartar fue la infecciosa de características bacterianas.
+
+Evolución
+Al ingreso, dada la alta sospecha clínica, se inicia tratamiento empírico para la meningitis bacteriana en pacientes mayores de 50 años, con dexametasona 10mg cada 24h, ceftriaxona 2g cada 12h, vancomicina 1g cada 12horas y ampicilina 2g cada 4h por vía intravenosa. Previo al inicio de tratamiento antibiótico se tomó muestra para cultivo y detección de antígeno de Streptococcus pneumoniae en LCR, que resultaron negativos (tanto el cultivo como el antígerno), se realizó tinción de Gram directa que reveló células gram-positivas en forma de cocos, en cadenas cortas e incluso pequeños grupos; y se extrajeron hemocultivos que resultaron positivos para Streptococcus equi subesepecie ruminatorum. La identificación de especie se llevó a cabo directamente a partir del hemocultivo usando espectrometría de masas (MALDI-TOF).
+
+Tras obtener el hemocultivo positivo (2 de 4 frascos), se modificó la antibioterapia a benzilpenicilina (42 millones de unidades/día) intravenosa durante 14 días y posteriormente se modificó a ceftriaxona 2g/24h intravenosa durante 7 días más, completando 21 días de antibioterapia. Los hemocultivos se negativizaron tras 7 días de tratamiento antibiótico.
+
+Ante la bacteriemia y la reciente sustitución protésica valvular cardíaca, se descartó endocarditis con ecocardiograma transtorácico y transesofágico. No había hipogammaglobulinemia ni encontramos evidencias de inmunosupresión. El Streptococcus equi está relacionado claramente con el contacto con animales. En este sentido se reinterrogó al paciente que refirió haber acudido, dos días antes del inicio de los síntomas, a una romería por una fiesta local, en la que tuvo contacto directo con gran número de caballos. La evolución fue favorable con desaparición de la fiebre y del resto de síntomas, así como normalización de los reactantes de fase aguda.
+
+Diagnóstico final
+Meningitis bacteriana comunitaria bacteriémica por Streptococcus equi subsp. ruminatorum.

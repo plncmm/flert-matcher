@@ -1,0 +1,34 @@
+Anamnese
+Uma mulher de 67 anos de idade veio ao departamento de emergência com uma dor de cabeça contínua de 2 semanas de duração, localizada a nível retro-ocular e irradiação frontal, sem acompanhar sintomas vegetativos, o que dificultou o repouso nocturno e não diminuiu com analgesia convencional. Além disso, a dor de cabeça foi progressivamente acompanhada de diplopia nos dias anteriores. Teve uma história pessoal de alergia a corticóides, hipertensão arterial, tuberculose pulmonar e linfonodal tratada durante 9 meses e doença cardíaca isquémica.
+
+Exame físico
+O exame físico geral não revelou quaisquer anomalias. O exame neurológico mostrou campimetria normal com limitação de abdução mais importante do que a adução, com envolvimento de supra e infradução do olho esquerdo1, e discromatopsia ligeira. O exame do fundo revelou uma papila com bordas afiadas. O paciente foi avaliado pela Oftalmologia, que descreveu uma ligeira alteração do epitélio da retina macular, PIO 18 mmHg, sem vitrite ou vasculite.
+
+Testes complementares
+No Departamento de Emergência, foram solicitados os seguintes testes:
+- Testes sanguíneos, incluindo o ionograma com hiponatraemia de 124 mmol/l e creatinina de 93 mmol/l, com fórmula e coagulação normais.
+- Radiografia do tórax e electrocardiograma sem alterações.
+- Tomografia computorizada craniana (TC) sem sinais de alterações parenquimatosas, hemorragias, massas ou ventriculomegalia.
+- A punção lombar mostrou 0 células, glicorragia e proteinorrachia dentro dos valores normais, e não foram observadas manchas de gramas, bacilos ou fungos ácido-rápidos.
+
+Durante a hospitalização na ala de neurologia, foram solicitados os seguintes testes:
+- Testes laboratoriais com marcadores imunofenotípicos, electroforese de proteínas, factor reumatóide e estudo complementar, sem alterações. ANA e c-ANCA foram positivos com um título de 1/80.
+- A proteína Urine Bence-Jones foi negativa.
+- As serologias do HIV e da sífilis foram negativas.
+- RM: assimetria dos seios cavernosos com espessamento da parede do seio esquerdo, com captação de contraste no paquímeningeum da fossa craniana média esquerda, base do crânio até à fossa pterigomaxilar.
+- Avaliação otorrinolaringológica: dismorfia septal esquerda, com meato médio livre bilateral, recesso esfenoetmoidal livre e cavum normal.
+- TAC torácica de alta resolução: foram observadas opacidades nodulares subcentimétricas múltiplas, que já estavam presentes em estudos anteriores, mas foram encontradas algumas novas, sugerindo reactivação da tuberculose latente.
+- TAC abdominal sem alterações.
+- Biópsia da fossa pterigomaxilar: mostra material granulomatoso, tecido fibroso e células inflamatórias.
+
+Diagnóstico
+Após exame neurológico, o caso foi diagnosticado como síndrome do seio cavernoso. São apresentadas três hipóteses:
+- Reactivação tuberculosa. O doente tinha sido correctamente diagnosticado e tratado da tuberculose e, como não foram isoladas micobactérias, foi decidido alargar o diagnóstico diferencial a outras doenças granulomatosas.
+- Processo neoformativo, descartado por marcadores imunofenotípicos e biópsia.
+- Doença sistémica inflamatória que, dada a presença de anticorpos c-ANCA, insuficiência renal ligeira e imagens de envolvimento do seio cavernoso com extensão ao território ORL, sugere granulomatose com poliangite (doença de Wegener). Contudo, o doente não preenche os critérios clássicos da doença de Wegener, embora haja uma forte suspeita de uma forma limitada da doença.
+
+Tratamento
+Dada a história da tuberculose e possível alergia aos corticosteróides, foi decidido não iniciar um tratamento empírico. medida que o diagnóstico se aproximava da vasculite, foi considerada a possibilidade de terapia de dessensibilização com corticosteróides, mas o paciente estava relutante e a dor de cabeça melhorou com analgesia convencional, embora a oftalmoparesia e a discromatopsia tenham persistido.
+
+Evolução
+O paciente teve alta com bom controlo da dor, embora a diplopia tenha persistido na visão binocular. Após 15 dias, o paciente foi novamente consultado para lesões petequiais nas extremidades, apresentando deterioração das figuras de função renal, pelo que foi realizada uma biopsia renal, na qual se observou necrose fibrinoide sem crescentes, adicionando hemoptise com imagens de TC sugestivas de hemorragia alveolar. O tratamento foi iniciado com ciclofosfamida e prednisona em bolus, e dado o envolvimento pulmonar, iniciou-se a plasmaferese e a hemodiafiltração veia-venosa. Após 3 semanas de tratamento, a remissão clínica foi alcançada, a mobilidade ocular era normal e indolor, e ela teve alta em casa com exames ambulatórios. Doze meses mais tarde, devido a uma infecção respiratória viral complicada por imunossupressão e superinfecção bacteriana, o paciente morreu na Unidade de Cuidados Intensivos.

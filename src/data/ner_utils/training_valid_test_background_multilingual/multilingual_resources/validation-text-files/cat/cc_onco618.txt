@@ -1,0 +1,21 @@
+Anamnesi
+Es tracta d'un pacient home de 43 anys amb antecedents patològics d'un tumor germinal intervingut i tractat amb quimioteràpia adjuvant fa > 20 anys i hepatitis B l'any 2015. El pacient consulta a Urgències per dolor anal, tendència al restrenyiment i hematoquecia de 3 setmanes d'evolució.
+
+Exploració física
+En l'exploració física destaca la presència d'una tumoració a 4 cm del marge anal en el tacte rectal.
+
+Proves complementàries
+Amb la sospita de neoplàsia de recte, es completa l'estudi amb colonoscòpia, que objectiva una lesió proliferativa exofítica, ulcerada, suggestiva de neoplàsia rectal, no estenosante.
+En la TC s'informa de la presència d'un engruiximent d'aspecte tumoral en les parets de terç mig de recte amb signes d'infiltració del greix i múltiples adenopaties perirrectales, així com a nivell retroperitoneal. La ressonància magnètica confirma l'engruiximent parietal rectal associat a una afectació adenopática locorregional.
+En l'estudi histològic de la biòpsia de la massa rectal no s'observen cèl·lules amb trets de malignitat, amb una mucosa còlica distorsionada i augment de l'infiltrat inflamatori crònic. Es cursen estudis d'immunohistoquímica per a citomegalovirus i treponema, sent tots dos negatius.
+Davant la sospita d'etiologia infecciosa es realitza frotis uretral i rectal, amb detecció d'àcids nucleics positiu per a Chlamydia trachomatis.
+
+Diagnòstic
+Es conclou així que es tracta d'un linfogranuloma veneri de presentació rectal causat per C. trachomatis.
+Durant l'estudi del quadre es realitza una analítica sanguínia que evidencia una transaminitis grau 4 (AST 2497U/l-límit superior de la normalitat 37U/l) i hiperbilirrubinemia grau 3 (bilirubina total de 106 μmol/l-límit superior de la normalitat 17 μmol/l). Es cursen serologies, sent la determinació de la IgM per a virus hepatitis A positiva (hepatitis B, hepatitis C, VIH i lúes negatives), orientant-se com una primoinfecció per hepatitis A concomitant al quadre de linfogranuloma veneri.
+
+Tractament
+S'inicia tractament antibiòtic amb doxiciclina (100 mg cada 12 hores) un total de 3 setmanes.
+
+Evolució
+En els controls posteriors s'objectiva una normalització progressiva del perfil hepàtic, així com desaparició de la clínica anal. En la colonoscòpia de control als 3 mesos del tractament, s'observa millora del grau d'inflamació.

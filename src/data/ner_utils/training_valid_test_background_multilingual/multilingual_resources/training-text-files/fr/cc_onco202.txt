@@ -1,0 +1,33 @@
+Anamnèse
+Homme de 21 ans ayant des antécédents d'atrésie congénitale du jéjuno-ileum et de nævus mélanocytaire lentigineux sur le dos à l'âge de 16 ans. Hydrocèle gauche dans l'enfance, qui s'est résorbée sans traitement. Pas d'allergies aux médicaments ni d'autres antécédents intéressants. Pas d'antécédents familiaux de cancer.
+Antécédents oncologiques : initialement, le patient a consulté le service d'urologie pour une masse à croissance lente dans le testicule gauche qui s'était développée sur 2 ans.
+
+Examen physique
+L'examen physique de l'époque a révélé une masse dans le pôle antéro-supérieur du testicule gauche. ECOG 0. Repos sans altération d'intérêt.
+
+Tests complémentaires
+"Une échographie testiculaire a été demandée, qui a montré deux zones, une plus périphérique dans le pôle supérieur, qui était la plus grande, avec un diamètre moyen d'environ 2 cm, ainsi qu'une autre dans la zone la plus proche du centre du testicule mesurant environ 8 mm de diamètre.
+" Une analyse de sang complète a montré : hémoglobine 20,3 g/dl, hématocrite 59,9 %, globules rouges 6 550 000. Alpha-foetoprotéine 77,2 ng/ml, beta-HCG 100,4 mU/ml, LDH 392 IU/l.
+" Le patient a été adressé en hématologie pour une polyglobulie et programmé pour une orchidectomie radicale, après cryoconservation du sperme.
+" Un scanner thoracoabdomino-pelvien a été réalisé et aucune atteinte ganglionnaire ou métastase n'a été détectée (N0M0).
+
+Diagnostic
+Carcinome testiculaire germinal non séminomateux pT1N0M0, S0, stade IA, sous-groupe de bon pronostic.
+
+Traitement
+Une orchidectomie radicale par voie inguinale est réalisée ; la pathologie est rapportée comme un tératome malin mixte avec des zones de carcinome embryonnaire, de sac vitellin, de choriocarcinome et de néoplasme germinal intratubulaire pT1.
+
+Evolution
+Initialement, le pronostic étant bon, un suivi a été proposé.
+Les analyses sanguines postopératoires ont montré une hémoglobine de 18 g/dl, avec des marqueurs tumoraux négatifs, le patient était donc S0.
+A 14 mois, un scanner de contrôle a montré au moins deux adénopathies rétropéritonéales mesurant entre 2 et 3 cm. Bêta-HCG 16 mIU/ml et alpha-fœtoprotéine 8 ng/ml. Étant donné la suspicion de récidive, un traitement avec quatre cycles de BEP (bléomycine, étoposide et cisplatine) a été proposé. Elle a reçu les quatre cycles de traitement, présentant une très bonne tolérance (nausées de grade I, asthénie de grade II, neutropénie de grade II et thrombopénie de grade II).
+Deux semaines après avoir reçu le dernier cycle, il a été admis dans l'unité de soins intensifs (USI) après un épisode de coma et un arrêt cardiorespiratoire. Un scanner urgent a été réalisé, qui a montré une lésion apparemment unique dans la fosse postérieure, très vascularisée, évoquant une métastase. D'autres possibilités n'ont pu être exclues. En plus de l'hydrocéphalie tétraventiculaire. Une ponction lombaire a été effectuée et la biochimie du LCR a montré une élévation des protéines à 118 mg/dl et une glycémie à 154 mg/dl, le reste des paramètres étant dans les limites normales. Un échantillon de LCR a été envoyé pour une cytologie, avec des résultats négatifs. Un diagnostic différentiel entre une métastase et une seconde tumeur primaire a été suggéré. Après discussion avec les services de radio-oncologie et de neurochirurgie, il a été décidé d'attendre les résultats de l'IRM pour décider de l'approche thérapeutique. L'IRM a montré une lésion hétérogène mesurant approximativement 28 x 32 x 37 mm dans les axes AP, T et CC, respectivement, située sur la ligne médiane, en dessous du quatrième ventricule, avec un aspect similaire aux tumeurs mixtes de la lignée germinale (envisager la possibilité d'une métastase de la tumeur testiculaire, ou d'une seconde tumeur primaire de la lignée germinale dans cette situation). Il n'y a pas eu d'autres images suggérant des métastases dans le reste de l'étude.
+En outre, il y avait un œdème tronculaire, une hydrocéphalie tétraventriculaire et une syringomyélie cervicale, secondaires à la lésion à effet de masse.
+Les tests de laboratoire et les marqueurs tumoraux à l'admission étaient normaux. Une première opération a été pratiquée, qui était incomplète, selon l'IRM, laissant des restes de tumeur, avec des foyers hématiques à l'intérieur. Il a été décidé d'effectuer une seconde opération une semaine plus tard, après laquelle l'hydrocéphalie s'est améliorée, mais on a observé une persistance pseudo-nodulaire sur le versant inférieur du quatrième ventricule, qui s'est intensément améliorée après l'administration de contraste intraveineux, mesurant 6 x 11 x 10 mm en diamètres AP, TR et Cc, respectivement, suggérant un autre reste de tumeur.
+Le jour + 10 de la première chirurgie, il a été réadmis aux soins intensifs dans le coma avec un score de 4 sur l'échelle de Glasgow. Un scanner crânien urgent a identifié une hydrocéphalie et des signes d'hernie trans-stentorielle, due à une hémorragie tumorale, et une chirurgie urgente a donc été réalisée au moyen d'une dérivation ventriculo-péritonéale (pression variable Mitronic).
+
+Après un mois aux soins intensifs, le patient a été emmené dans le service, stabilisé avec un GCS de 15/15. Parmi les complications survenues pendant son séjour aux soins intensifs, citons une colonisation par Acinetobacter baumanii et une dysphagie secondaire à une paralysie complète de la corde vocale droite, qui a nécessité la pose d'une sonde nasogastrique.
+L'anatomie pathologique définitive était : tissu mésenchymateux avec vascularisation proéminente compatible avec un hémangioblastome cérébelleux.
+Au cours des mois suivants, l'état du patient s'est progressivement amélioré, il a marché avec un déambulateur, la sonde nasogastrique a été retirée et il a pu s'alimenter seul.
+La tumeur testiculaire continue d'être surveillée et le dernier scanner a révélé un tératome en pleine croissance (25 mois après l'orchidectomie), qui fera l'objet d'une intervention chirurgicale.
+Il a été orienté vers une consultation génétique pour une suspicion de syndrome de Von Hippel-Lindau, dont les résultats sont en attente.

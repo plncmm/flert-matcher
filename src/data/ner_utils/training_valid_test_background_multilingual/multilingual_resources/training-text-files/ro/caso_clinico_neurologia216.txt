@@ -1,0 +1,28 @@
+Anamneză
+Un bărbat în vârstă de 58 de ani, fără alergii cunoscute la medicamente sau consum de substanțe toxice. Factorii de risc cardiovascular includ: hipertensiune arterială, dislipidemie și obezitate de tip I. Anamneza medicală și chirurgicală a inclus: HBP, BRGE, migrene fără aură, feocectomie bilaterală, septoplastie pentru deviație de sept nazal și chirurgie endoscopică nazală cu polipectomie pentru polipoză rezistentă la tratamentul topic. Urmează un tratament regulat cu enalapril/hidroclorotiazidă, simvastatină și dutasteridă/ tamsulosină.
+
+S-a prezentat la serviciul de urgență cu o cefalee de debut brusc, însoțită de greață și vărsături, febră termometrică de până la 38oC, stare generală de rău accentuată, cu tulburări de limbaj concomitent, sub formă de blocaje și parafaze, cu scăderea progresivă a nivelului de conștiență. În interviul cu familia, la revizuirea antecedentelor medico-chirurgicale, ni se relatează faptul întâmplător al unei picaturi nazale sporadice de lichid cristalin din nara stângă, de mai bine de 3 ani, după o intervenție chirurgicală ORL.
+
+Examinarea fizică
+Stabil hemodinamic, eupnoic, febril, bine hidratat, normoperfuzat, normocolorat. Auscultația cardiopulmonară normală. Abdomen fără modificări. Extremitățile inferioare sunt normale.
+Examen neurologic: conștient, cu somnolență marcată, necesită stimuli viguroși pentru a-și menține vigilența, neatent, parțial dezorientat în timp și spațiu, orientat în persoană. El ascultă de comenzi simple, răspunde la întrebări, numește, dar în limbajul spontan emite unele parafaze fonemice și semantice. Nervi cranieni: VA normală, FO normală și campimetrie de confruntare. MOI și MOE fără alterări, fără ptoză sau nistagmus. V motorie și senzorială păstrată. Fără asimetrii faciale. Cupluri inferioare normale. Forță cu echilibru muscular 5/5 la toate cele patru extremități, cu REM globale ++ fără asimetrii, RCPF bilateral. Sensibilitate păstrată la toate nivelurile și în toate modalitățile. Nu există dismetrie sau disdiadohocinezie. Mersul și statica nu au fost evaluate în acest moment. Nu există constatări extrapiramidale. Rigiditate nucală ușoară, semn Kernig pozitiv.
+
+Teste complementare
+- Hemogramă: leucocitoză 27 x 1.000/mm3 (neutrofile 25,1 x 1.000/l).
+- Coagulare: normală.
+- Biochimie: profil renal și profil hepatic fără modificări. CRP 1,8 mg/dl.
+- Radiografie toracică și ECG fără constatări semnificative.
+- Puncție lombară: lichid cefalorahidian de aspect tulbure, cu presiune de 29 cm H2O, cu următoarea citobiochimie: 1.620 celule/mm3 (78% PMN, 21% MN), 478 globule roșii/mm3, glucoză 19 mg/dl, proteine 4,22 g/l. - Gram (LCR): cocci G+, în ciorchine, ca rezultat preliminar, cultivat în mai puțin de 24 de ore, grup Streptococcus Viridans, fără rezistență semnificativă în antibiogramă.
+- Pneumococcus PCR negativ. PCR pentru HSV și VZV negativ.
+- Serologie: HAV, anticorpi IgG pozitivi (13,62). VHB: Ag-HBs negativ. Anti-HBc: IgG negativ. VHC: anticorpi negativi. HIV: HIV (1,2): Ac. și Ag. negativ.
+- CT cranian: studiu fără descoperiri semnificative, cu excepția prezenței ocupării parțiale a sinusului sfenoidal stâng și a ambelor sinusuri maxilare (pe partea dreaptă cu formațiuni polipoide).
+- RMN cranian: fistulă de LCR prin lamina cribrosa și în celulele etmoidale. RMN cranian: secvență coronală FLAIR, care arată fistula LCR prin lamina cribrosa și în celulele etmoidale. Nu sunt detectate alterări inflamatorii meningeale.
+
+Diagnostic
+Meningoencefalită bacteriană cu cultură pozitivă pentru Streptococcus viridans, posibil legată de o fistulă de LCR după o intervenție chirurgicală ORL.
+
+Tratament
+La suspiciunea simptomatologiei clinice compatibile cu meningoencefalita și în așteptarea rezultatelor microbiologice, a fost inițiat tratament antibiotic cu vancomicină și cefotaxime, precum și aciclovir, iar pacientul a fost internat în secția de Neurologie, unde, după aflarea microorganismului responsabil și a antibiogramei, a fost menținut tratamentul cu cefotaxime timp de 10 zile.
+
+Evoluție
+Pacienta a evoluat foarte satisfăcător, fiind asimptomatică, afebrilă și cu un examen neurologic riguros normal la 48 de ore de la debutul simptomelor. Având în vedere istoricul de picurare nazală cronică după septoplastie/polipectomie în 2009, cu suspiciune de fistulă de LCR, a fost consultat ORL, iar fibroscopia a evidențiat lichid limpede care ieșea din nara stângă, fără a se putea defini locul de ieșire. Pacientul a fost programat pentru o intervenție chirurgicală ORL, solicitând utilizarea din compasiune a fluoresceinei pentru diagnostic și tratament, cu închidere endoscopică.

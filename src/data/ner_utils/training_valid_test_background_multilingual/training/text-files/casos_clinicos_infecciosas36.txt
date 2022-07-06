@@ -1,0 +1,25 @@
+Mujer de 48 años con antecedentes personales de Estenosis aórtica moderada por Válvula bicúspide calcificada, Hipertensión arterial en tratamiento con betabloqueantes, Ex tabaquismo, Dislipemia, Migraña, Hernia de Hiato y Alergia a betalactámicos.
+
+La paciente ingresó en el Servicio de Cirugía Cardiaca de forma programada para recambio valvular aórtico e implantación de una prótesis aórtica St. Jude no 21. La intervención quirúrgica fue rápida, con tiempos de circulación extracorpórea y clampaje aórtico de 70 y 60 minutos, respectivamente, y sin complicaciones intraoperatorias. En las primeras 24 horas postcirugía la paciente presentó hipotensión por disfunción biventricular leve-moderada y fracaso renal agudo que se controló con fármacos vasoactivos en la Unidad de Cuidados Críticos (UCI). El día +7 postoperatorio comenzó con fiebre de hasta 38 o C y tiritona sin otra sintomatología; se pautó de forma empírica Daptomicina 10 mg/kg/d. En el hemocultivo se aisló en un frasco de dos un Staphylococcus coagulasa negativo (SCN); urocultivo negativo; y ecografía transtorácica (ETT) normal a las 72 horas del inicio de la fiebre; los cirujanos realizaron una interconsulta al Servicio de Enfermedades Infecciosas. En el momento de la evaluación la paciente estaba afebril y asintomática. En la anamnesis destacaba Fenómeno de Raynaud de años de evolución, Ictus en la juventud, aborto de primer trimestre y familiar de primer grado fallecido por Ictus isquémico. En la exploración física intensa livedo reticularis de miembros inferiores; y en la analítica sólo PCR de 12"3 mg/dL. En ese momento (día + 12 postoperatorio) se añade Fosfomicina 24 gramos al día repartidos en 3 dosis e Ibuprofeno 600 mg cada 12 horas vía oral.
+
+Diagnóstico diferencial
+El Diagnostico diferencial en el caso de nuestra paciente sería el de una fiebre postquirúrgica en la primera semana postoperatoria.
+
+Causas infecciosas
+• Infección del tracto urinario asociada a catéter urinario
+• Infección de la herida quirúrgica
+• Asociada al acceso vascular (periférico o central)
+• Asociada a material protésico Causas no infecciosas
+• Problemas trombóticos: Tromboembolismo pulmonar, Tromboflebitis.
+• Reacción transfusional
+• Síndrome postpericardiectomía.
+• Fármacos sospechosos (Inhibidores de la receptación de serotonina, heparina de Bajo peso molecular, AINE, diuréticos, betalactámicos, fluorquinolonas, vancomicina)
+• Alteraciones endocrinas como hipertiroidismo o crisis addisoniana.
+
+
+Evolución Clínica
+Se le realizó ETE en el día + 13 de administración del antibiótico, en la que se observó buen funcionamiento de la válvula protésica sin signos de vegetación. Los HC al día + 16 fueron negativos. El día + 20 presentó nuevo pico febril de 37"8 oC y una flebitis de una vía periférica, aislándose nuevamente en hemocultivos un SCN. Por este motivo se repitió la ETE en el día + 23 postoperatorio donde se observaba una masa vibrátil de aspecto filamentoso dependiente de la pared aórtica de unos 7 mm de diámetro sobre una zona aneurismática de 2"4 cm a 3"6 cm en la aorta ascendente, compatible con endarteritis. El Angio - TAC torácico a día + 24 postoperatorio (+ 12 de terapia antimicrobiana) descartó complicación a nivel de aorta ascendente y detecta cambios postquirúrgicos post – esternotomía y atelectasias laminares bibasales con mínimas condensación bilaterales. El hemocultivo de control del día + 25 fue negativo. Se decidió mantener el tratamiento antibiótico hasta completar 6 semanas ante el diagnóstico de posible endarteritis infecciosa. Se llevó a cabo un estudio de coagulación especial encontrándose Heterocigosis para Factor XII (posición 46), Anticoagulante Lúpico positivo, IgM – IgG Beta2 Glicoproteína negativas. Tras esto se inicia terapia con anticoagulantes dicumarínicos con objetivo de INR 2"5 – 3"5.
+La paciente permaneció afebril y sin incidencias posteriores; la ETE al alta no encontró nuevos hallazgos.
+
+Diagnostico final
+Síndrome febril postcirugía cardiaca, masa intraaórtica en la que no se puede descartar endarteritis por SCN o trombo intraarterial en el contexto de Síndrome antifosfolipídico primario en espera de confirmación 2o marcadores inmunológicos a los 6 meses.

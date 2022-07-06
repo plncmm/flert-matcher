@@ -1,0 +1,30 @@
+Anamnesis
+We present a 72-year-old woman from Barcelona, married. Mother of three independent children, with good family support. She has been retired since the age of 65 and is a teacher by profession.
+
+No relevant family history of cancer. She does not report any toxic habits and has a personal history of AHT on medical treatment with enalapril. Gynaecological history of 3 pregnancies, 3 euthecological deliveries and 3 healthy living children. She had her first menstrual cycle at the age of 9 and menopause at the age of 40.
+
+Her oncological history began at the beginning of September with a clinical picture characterised by abdominal pain radiating in a girdle accompanied by early fullness, anorexia with a quantified loss of 5 kg in one month and moderate asthenia.
+
+Physical examination
+Physical examination revealed a marked deterioration in general condition, with a performance status of 2 and abdominal distension at the expense of hepatomegaly of four finger widths, with no signs of ascites.
+There is also significant mucocutaneous jaundice. No cardiological or respiratory alterations.
+
+Complementary tests
+"An abdominal ultrasound scan was performed in the ED showing hepatomegaly due to multiple space-occupying lesions, and the patient was admitted to the Internal Medicine Department for further investigation.
+"During admission, initial laboratory tests showed a doubling of normal transaminase levels and non-dissociated cholestasis (AST 1.02 μkat/l, ALT 1.21 μkat/l, albumin 31 g/l, BB 14 μmol/l, gamma-GT 10.61 μkat/l, FA 5.05 μkat/l). Several tumour markers were elevated, including Ca-19-9 antigen 618 kint.u./l, carcinoembryogenic antigen 992.2 ug/l and alpha-fetoprotein (AFP) 14,968 ug/l. Serology was performed, ruling out hepatitis.
+"An abdominal CT scan was performed, which showed tumoural hepatomegaly at the expense of multiple focal hypervascular bilobular lesions, also showing endovesicular tumour masses with hypervascular characteristics compatible with metastasis. No tumour-like lesions were observed in the pelvis. The semiology described together with the radiology suggested the differential diagnosis between multifocal hepatocarcinoma on healthy liver, extragonadal hepatic germinal tumour and endovesicular metastases versus hepatic and endovesicular metastases suggestive of melanoma due to hypervascularisation.
+"In view of these findings, a PET-CT scan was performed for staging and to search for a primary tumour, highlighting the endovesicular hypermetabolic solid tumour lesion, extending to the hepatic hilum and the pancreaticoduodenal sulcus, and multiple hypermetabolic hepatic lesions, It is difficult to assess the primary tumour, although given the absence of dilatation of the biliary and pancreatic duct, a probable vesicular origin is the first option (less likely to be cholangiocarcinoma or duodenal) and probable liver metastases.
+"An ultrasound-guided liver biopsy was performed without incident. The pathological anatomy is reported as infiltration by a neoplasm that adopts a papillary and tubular infiltrative growth pattern. Proliferation of the nuclei and the presence of subnuclear vacuoles were ruled out. At the level of the papillae, which show a fibrovascular axis, the vacuoles are adjacent to the fibrovascular axis and in the infiltrating tubular component they are adjacent to the surrounding stroma.
+Cells show nuclear pleomorphism and mitoses are identified. No necrosis is observed. 
+Immunohistochemistry with focal positivity for alpha-fetoprotein. Negativity for CK7, CK20 and oestrogen receptors. In view of these findings, the diagnostic orientation is endometroid yolk salk tumour.
+
+Diagnosis
+It is therefore classified as an extragonadal endodermal sinus germ cell tumour (yolk sac tumour) in the liver and gall bladder with no evidence of a gonadal primary tumour.
+
+Treatment
+As it is a chemosensitive tumour according to the medical literature, but given the fragility and great deterioration of our patient, it was decided to start chemotherapy according to the carboplatin-etoposide scheme (80% etoposide due to altered liver function). The patient received only one cycle, which was well tolerated.
+
+Evolution
+Despite treatment, the patient showed a rapid clinical deterioration, so in December 2013 tumour markers were re-determined, which paradoxically were slightly lower, and a CT scan of the abdomen was performed, which showed a slight improvement in the size of the liver lesions. However, she presented with frank ascites, bilateral PTE and new portal thrombosis. The patient required admission in December due to general deterioration, presenting multiple complications, including Haemophilus influenzae respiratory infection and malignant ascites related to neoplastic disease.
+
+Given the complications that arose during treatment, resulting in a performance status of 2-3, and given the poor clinical response to treatment, she was considered not to be a candidate for further oncospecific treatment and was referred to the Palliative Care Unit of our centre, where she died a month later due to disease progression.

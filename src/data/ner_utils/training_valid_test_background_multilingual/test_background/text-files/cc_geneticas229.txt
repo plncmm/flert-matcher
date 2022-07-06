@@ -1,0 +1,18 @@
+Lactante de 31 días de vida que ingresa procedente de la Unidad de Neonatología para monitorización y tratamiento por sepsis de origen abdominal. Permanecía ingresada desde el nacimiento con diagnóstico de síndrome de Down y Tetralogía de Fallot con miocardiopatía hipertrófica y obstrucción moderada-severa del tracto de salida del ventrículo derecho. Se inició tratamiento con propranolol y furosemida, a los 20 días precisó intervención quirúrgica para realización de fístula sistémico-pulmonar en el contexto de hipoxemia progresiva y mantenida. Durante el postoperatorio inmediato presentó evolución favorable e inició alimentación enteral a las 48 horas de la cirugía con buena tolerancia. Al séptimo día del postoperatorio es dada de alta de Unidad de Cuidados Intensivos Neonatales (UCIN) a Cuidados intermedios Neonatales con gafas nasales de alto flujo como único soporte, enoxaparina y AAS en pauta; comenzando con regular tolerancia de la alimentación y presentando, 24 horas previas al ingreso en nuestra unidad, distensión abdominal, fiebre y empeoramiento del estado general. Se realizó despistaje infeccioso y ante un cuadro clínico compatible con sepsis de origen abdominal se inicia antibioterapia empírica y se ingresa en Unidad de Cuidados Intensivos Pediátricos (UCIP).
+
+A su llegada a UCIP se repite despistaje infeccioso y se realiza radiografía abdominal por importante distensión y dolor en la exploración física; en la misma se evidencia neumoperitoneo con distensión de asas, por lo que es valorada por cirugía pediátrica, decidiéndose laparotomía urgente, observándose apendicitis perforada con plastrón y salida de material purulento. Precisa durante la intervención administración de hemoderivados, sin otras incidencias. Llega a la unidad estable y con soporte inotrópico con dopamina y noradrenalina. Porta Vía Venosa Central (VVC) en yugular, Tubo Orotraqueal (TOT) del no 3 con balón y drenaje tipo penrose en lecho quirúrgico.
+
+MÉTODO
+Elaboración de un plan de cuidados de enfermería individualizado con valoración de enfermería según el marco teórico de Virgínia Henderson y taxonomía NANDA-NIC-NOC.
+
+RESULTADOS
+
+Diagnósticos de enfermería:
+1. Dolor Agudo (00132) R/C agentes lesivos M/P conducta expresiva, cambios en constantes vitales y expresión facial.
+2. Deterioro de la integridad tisular (00044) R/C procedimiento quirúrgico y factores mecánicos M/P lesión.
+3. Afrontamiento ineficaz (de los padres) (00069) R/C incertidumbre, crisis situacional, imprecisión en la apreciación de la amenaza y oportunidades inadecuadas para la preparación ante los estresores M/P incapacidad para manejar la situación.
+4. Limpieza ineficaz de la vía aérea (00031) R/C vía aérea artificial, retención de secreciones y mucosidad excesiva M/P sonidos respiratorios anormales.
+
+Complicaciones Potenciales:
+1. Trombosis de la fístula sistémico pulmonar
+2. Flebitis

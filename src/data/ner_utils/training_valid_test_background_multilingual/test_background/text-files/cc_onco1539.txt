@@ -1,0 +1,19 @@
+Anamnesis
+Presentamos el caso de una mujer de 45 años que acudió a nuestra consulta por referir, desde hacía entre dos o tres meses, aparición de masa en cara interna de brazo izquierdo con crecimiento rápidamente progresivo y escasamente doloroso. No había percibido otras tumoraciones, ni refería sintomatología de síndrome general. Relataba que hacía unos nueve años, había presentado una tumoración en la misma localización del tamaño de una "nuez" por la que no consultó creyendo que se trataba de un quiste sebáceo; ésta desapareció espontáneamente. Sus antecedentes personales incluían una tonsilectomía, apendicectomía; siendo fumadora de 10 cigarrillos/día; menarquia a los 15 años, con ciclos regulares: 28/3-5. G1P1A0 y portadora de DIU. Como antecedentes familiares, sólo cabe destacar el éxitus de su padre a los 47 años debido a un cáncer de páncreas.
+
+Exploración física
+En la exploración física se apreciaba una adenopatía axilar izquierda de unos 2 centímetros de diámetro de contornos lisos y redondeados, fija en profundidad; otra adenopatía supraclavicular izquierdade unos 0,5 centímetros de diámetro, móvil, no adherida y masa encara interna del tercio proximal del brazo izquierdo dura, violácea, caliente, ligeramente dolorosa de 12-15 centímetros de diámetro.
+
+Pruebas complementarias
+Se realizó radiografía de tórax y brazo izquierdo en la que se apreciaba aumento de partes blandas en brazo izquierdo en zona anterior y media sin afectación ósea adyacente.
+
+Se remitió con carácter urgente a Cirugía General, dónde se le solicitó una analítica general con marcadores tumorales, una TAC toraco-abdomino-pélvico y una PAAF de la masa en brazo izquierdo para estudio de citometría de flujo; en vista de los resultados se derivó a Hematología para continuar el estudio y seguimiento con el diagnóstico de Linfoma. El hemograma, el frotis, los marcadores de actividad (VSG, B2M, PCR, y LDH), la hemostasia, el perfil férrico, la vitamina B12, el ácido fólico, los marcadores tumorales (CEA, AFP, Ca125) ylas hormonas tiroideas estaban dentro de los valores normales. Las serologías para VHB, VHC, VIH resultaron negativas. La TAC de tórax/abdomen/ pelvis con contraste sólo mostró masas adenopáticas axilares izquierdas, sin alteraciones a otro nivel. Para el estudio de MO se realizó un aspirado, sin evidencia de infiltración por LNH; una biopsia, sin evidencia de infiltración por LNH y una citometría que no mostraba clonalidad linfoide B. La PAAF masa tumoral demostró un linfoma de alto grado, tipo B. Y la biopsia de la masa y del ganglioaxilar con una anatomía patológica que evidenciaba un LNH de célula grande B y una citometría demostró una población B clonal cd19+,cd22+, cd25-, cd5-, cd10+, fmc7+, cd34-, TdT-, cd79a+, cd79b+, lambda. Adenopatía axilar: linfoma folicular con patrón difuso en el90% (cd20+, cd10+, cd23+, cd5-, bcl2+, bcl6+).
+
+Diagnóstico
+La impresión diagnóstica fue de Linfoma de célula grande B, estadio IA, con sospecha de que inicialmente se tratase de un Linfoma Folicular III, de célula grande que había evolucionado en el tiempo hacia un Linfoma B Difuso de Célula Grande tipo centrofolicular porser bcl2+ y bcl6+.
+
+Tratamiento
+Se inició poliquimioterapia CHOP (6 ciclos: 1 ciclo/21 días) produciéndose una reducción lenta pero consistente de la masa tumoral (aproximadamente 1/3 del tamaño inicial en ese momento) obteniéndose una involución casi completa de la masa al terminar el tratamiento, seguido de radioterapia locorregional, sobre masa y adenopatías axilares, tras la que se realizará nuevo TAC, PET y gammagrafía.
+
+Evolución
+Según evolución se planteará la posibilidad de transplante autólogode células stem. 

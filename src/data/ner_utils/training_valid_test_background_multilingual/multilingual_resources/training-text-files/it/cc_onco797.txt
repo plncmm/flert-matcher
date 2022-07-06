@@ -1,0 +1,32 @@
+Anamnesi
+Presentiamo il caso di un paziente di 60 anni senza allergie note ai farmaci, la cui storia personale più importante è stata un'ammissione al reparto di pneumologia per empiema pleurico sinistro e insufficienza cardiaca. Come abitudini tossiche il paziente era un ex-fumatore (IPA = 80 fino a 12 anni fa), exenolismo fino a 12 anni fa. Era un lavoratore delle miniere.
+Lo studio è iniziato quando è arrivato al dipartimento di emergenza per un dolore alla costola destra con una massa polmonare trovata ai raggi X. Lo studio è stato completato con una tomografia computerizzata (TC) che mostra una massa di 60 x 53 x 80 mm che infiltra il bronco del segmento posteriore del lobo superiore destro (LSD) e invade la fessura minore e si estende al segmento sei del lobo inferiore destro (LID), contattando la pleura posterosuperiore destra. C'era anche un linfonodo extrapleurico che misurava 9 mm e un nodulo satellite spiculato nel segmento apicale del LSD che misurava 10 x 6 mm e due noduli nel segmento 6 del LID che misuravano 10 mm e 8 mm. Inoltre, c'erano linfoadenopatie all'origine del tronco brachiocefalico destro, catena paratracheale superiore destra, finestra subcarinica e aortopolmonare sospetta di metastasi, versamento pericardico e versamento pleurico destro localizzato.
+
+Esame fisico
+Condizioni generali relativamente buone, ma funzionalmente limitato da un forte dolore lombare (Visual Analogue Scale [VAS] 8-9) con diminuzione della forza in entrambi gli arti inferiori (4/5) e con grande difficoltà a stare in piedi, senza compromissione dei riflessi o della sensibilità.
+
+Test complementari
+Lo studio è stato completato con una scansione PET-CT che ha mostrato una massa ipermetabolica di 7,8 x 7,7 cm (valore di assorbimento standardizzato [SUV] 9,6) nel segmento superiore del LID. Adenopatie broncopolmonari a destra (SUV 4,3 e 3,8), e multipli uptake ossei patologici nel quarto arco costale posteriore destro, quinto anteriore sinistro, settimo destro a livello dell'angolo, corpo vertebrale L3, lama iliaca sinistra, articolazione sacroiliaca sinistra e ramo ileopubico sinistro.
+La fibrobroncoscopia è stata eseguita e ha mostrato una compressione estrinseca del bronco del segmento apicale del LSD. La patologia anatomica (AP) era negativa per la malignità. Pertanto, per completare lo studio, l'EBUS è stato eseguito sulle adenopatie delle stazioni 2R (destra), 4L (sinistra) e 7 che erano positive per l'adenocarcinoma scarsamente differenziato (2R e 7).
+
+Diagnosi
+Il caso è stato presentato al comitato multidisciplinare e riferito alla nostra clinica con la diagnosi di adenocarcinoma polmonare T4N2M1b (osso).
+
+Trattamento
+Si è deciso di ricoverare il paziente in Oncologia per l'analgesia e per iniziare il trattamento. Dati i sintomi di impotenza funzionale, è stata richiesta una risonanza magnetica (MRI), che ha mostrato una disseminazione vertebrale metastatica con fratture della maggior parte dei corpi vertebrali a causa della compressione, così come una frattura craniocaudale del corpo vertebrale L3 con spostamento della parete posteriore che causa la compressione della cauda equina.
+Ha iniziato il trattamento con lo schema di chemioterapia carboplatino area sotto la curva (5-AUC), dose totale 700 mg e paclitaxel 175 mg/m2 (287 mg), con premedicazione abituale composta da: granisetron 1 mg, desametasone 12 mg, dexchlorpheniramine 5 mg, ranitidina 50 mg, e successiva antiemesi: desametasone, granisetron, metoclopramide, che è passata senza incidenti. Alla dimissione, il paziente ha presentato un'abrasione sacrale minima, che è stata attribuita al riposo a letto.
+
+Evoluzione
+È arrivata al dipartimento di emergenza una settimana dopo la somministrazione della chemioterapia a causa della febbre e della comparsa di lesioni vescicolari sulle natiche, sull'osso sacro e sull'avambraccio sinistro.
+Esame fisico
+Emodinamicamente stabile: Pressione sanguigna 111/60 mm Hg, frequenza cardiaca 86 bpm, 36,3 oC, 88% di saturazione di ossigeno.
+Lesioni erosive secondarie a vesciche sul lato sinistro della coscia, sull'avambraccio sinistro, sulla gamba sinistra e sulla natica/sacro. Le lesioni si presentavano con rottura spontanea e drenaggio del contenuto sieroso.
+Le analisi all'ammissione hanno mostrato solo un livello di sodio di 126 e una lieve leucocitosi con spostamento a sinistra (leucociti 11.700, neutrofili 11.500), un'anemia di grado 1 (emoglobina 11,7) e un'attività protrombinica del 74%.
+Con il sospetto di necrolisi epidermica tossica (TEN)/sindrome di Stevens-Johnson (SJS) con sospetta tossicità da farmaci, è stato ricoverato in Oncologia per studio e trattamento.
+Durante il ricovero nel reparto è stato valutato dalla chirurgia plastica e dalla dermatologia, sono state fatte colture e biopsie della pelle che erano positive per lo Pseudomonas aeruginosa e lo Staphylococcus aureus.
+Patologia anatomica
+"Frammento di pelle con necrosi dermoepidermica, ulcerazione dell'intera epidermide.
+"Discreta dermatite neutrofila perivascolare e interstiziale, superficiale (prevalentemente) e profonda, con ulcerazione dell'epidermide e stravaso ematico.
+Nel sospetto di necrolisi epidermica tossica secondaria alla chemioterapia o ai farmaci antinfiammatori non steroidei (FANS), questi ultimi sono stati sospesi senza che il paziente abbia avuto un miglioramento.
+Il soggetto presenta un peggioramento progressivo con leucocitosi e piastrinopenia e infine il paziente richiede una sedazione palliativa per lo scarso controllo del dolore, morendo solo due settimane dopo l'inizio del trattamento chemioterapico.
+

@@ -1,0 +1,11 @@
+Anamnesis
+Varón de 47 años, fumador, sin otros antecedentes médicos de interés, traído a Urgencias por deterioro cognitivo y fiebre de 40oC. En la exploración se encuentra taquicárdico, taquipneico, con obnubilación e importante agitación psicomotriz. Analíticamente; Leucocitos 8810/μL con neutrofilia (86.6%), plaquetas 64000/μL, y elevación de reactantes de fase aguda, con PCR 88 mg/dl y procalcitonina 1.79 mg/d. Se solicita TC craneal, sin hallazgos, previo a realización de punción lumbar, obteniéndose en líquido cefalorraquídeo: proteínas totales de 184 mg/dl, leucocitos 245 /μL, con predominio de polimorfonucleares (67%), y glucosa de 85 mg/dl. Se inicia antibioterapia empírica con Ceftriaxona y Vancomicina.
+
+Evolución
+El paciente inicia cuadro convulsivo con compromiso respiratorio que precisa de intubación orotraqueal, motivo por el que ingresa en Unidad de Cuidados Intensivos. Se confirma mediante PCR de líquido meningitis aguda por Listeria monocytogenes, con bacteriemia secundaria en hemocultivos que se extrajeron a su llegada. Se inicia antibioterapia dirigida con Ampicilina y Gentamicina experimentado favorable evolución tanto infecciosa como neurológica, sin nuevas crisis comiciales una vez en planta de hospitalización. Se descartó a su vez rombencefalitis y abceso cerebral mediante resonancia magnética.
+Como incidencia, el paciente presenta ototoxicidad por aminoglucósidos parcialmente reversible al alta.
+
+
+Diagnóstico
+Meningoencefalitis aguda por Listeria monocytogenes en paciente inmunocompetente.
+Ototoxicidad por aminoglucósidos.

@@ -1,0 +1,44 @@
+Motiu de consulta
+Augment de dispnea i tos
+
+Antecedents personals
+• No al·lèrgies conegudes.
+• DM tipus II en tractament amb antidiabètics orals.
+• HTA en tractament amb Telmisartan 40 mg.
+• Fumador actiu de 10 cigarrets/dia.
+• Bevedor ocasional.
+• EPOC amb FEV1 de 60%.
+• Ha presentat dues aguditzacions en l'últim any sento l'última fa 7 mesos.
+• Està en tractament amb beta 2 de llarga durada i anticolinèrgics de llarga durada.
+
+HISTÒRIA ACTUAL
+Consulta perquè des de fa 3 dies presenta augment de la seva dispnea habitual amb tos i expectoració en major quantitat que l'habitual i de color verdosa. La situació no ha millorat malgrat el tractament posat pel seu metge i en les últimes 12 hores la dispnea s'ha fet de mínims esforços que li impedeixen la higiene diària pel que consulta. 
+
+EXPLORACIÓ FÍSICA
+Conscient i orientat en temps i espai. Cianosi central. TA: 185/110, FC de 130 ppm, FR de 28 rpm. Sat d'O2 de 89%, To de 36,8oC, Glucèmia de 240. Sudoració de pell. • AC: Rítmic no soplos audibles. • AP: Sibilancias expiratòries en tots dos camps pulmonars amb roncus aïllats. • ABD: Brando depresible no visceromegalias ni masses. No dolorós. • EEII: Mínims edemes pretibials. Polsos presents i simètrics. Se sol·liciten exploracions complementàries i s'inicia tractament amb: • Oxigenoteràpia: màscara Ventimask amb una FiO2 de 0.3. • Beta 2 (salbutamol 5 mg) + anticolinèrgics (Ipratropio 0.5 mg) nebulizados i repetir al principi cada 4 hores. • Corticoides sistèmics (80 mg iv). Es tracta d'una agudització greu de la EPOC i totes les aguditzacions greus es beneficien de tractament amb corticoides sistèmics. Seguir posteriorment amb 40 mg/iv/6 hores. • Antibiòtics (moxifloxacino 400 mg IV/24 h).
+
+EXPLORACIONS COMPLEMENTÀRIES
+Rx de tòraxs: Cardiomegalia. Hils lleugerament congestius amb mínim patró intersticial a aquest nivell. Redistribució vascular amb augment d'aquesta en bases. No infiltrats. ECG: Ritme sinusal a 110 ppm. Sense alteracions de la repolarització.
+BIOQUÍMICA
+GLUCOSA 265 mg/dl [ 70 - 110 ] UREA 26 mg/dl [ 15 - 50 ] CREATININA 1 mg/dl [ 0.6 - 1.3 ] SODI 142 mmol/L [ 135 - 148 ] POTASSI 3.8 mmol/L [ 3.6 - 5.2 ] HEMATOLOGIA LEUCÒCITS 10.12 x10^3/uL [ 4.8 - 10.8 ] NEUTRÒFILS 87.5% [ 43 - 65 ] LIMFÒCITS 5.6% [ 20.5 - 45.5 ] MONÒCITS 6.8% [ 5.5 - 11.7 ] EOSINÒFILS 0% [ 0.9 - 2.9 ] BASÒFILS 0.1% [ 0.2 - 1 ] HEMOGLOBINA 16.6 g/dl [ 14 - 18 ] HEMATÒCRIT 49.7% [ 42 - 52 ] PLAQUETES 191 x10^3/uL [ 130 - 400 ] GASOMETRIA ARTERIAL pH 7.3 pCO2 77.3 mmHg pO2 54.5 mmHg cHCO3 37.4 mmol/L Sat d'O2 89%
+
+Davant les troballes analítiques en què comprovem una acidosis respiratòria i una placa amb semiologia que pot suggerir una insuficiència cardíaca incipient, al costat dels edemes mal·leolars es decideix afegir furosemida al tractament i control gasomètric venós en una hora, per si calgués iniciar ventilació mecànica no invasiva.
+
+EVOLUCIÓ, ESPERA I OBSERVACIÓ
+Després de 60 minuts amb correcte tractament es realitza control gasomètric sent el resultat: Gasometria venosa pH 7.31 pCO2 74.3 mmHg pO2 44.5 mmHg HCO3 36.4 mmol/L Pulsioximetría de 91%
+Davant l'escassa millora malgrat un correcte tractament es decideix iniciar ventilació mecànica no invasiva en modalitat BiPAP amb una IPAP de 16 i una EPAP de 6 i una FiO2 de 0,3 Un temps després es realitza una nova gasometria venosa en la qual podem veure: Gasometria venosa pH 7.383 pCO2 59.1 mmHg pO2 27.6 mmHg cHCO3 34.4 mmol/L Saturació d'O2 de 95%
+Es decideix mantenir la VMNI continuant amb tractament comentat i després de 10 hores el malalt presentava la següent gasometria: pH 7.467 pCO2 46.1 mmHg pO2 49.3 mmHg HCO3 32.9 mmol/L Sat O2 de 97%
+
+RESOLUCIÓ, ORIENTACIÓ I TRANSFERÈNCIA
+Es va decidir iniciar la retirada progressiva de la ventilació mecànica no invasiva i ingrés en planta de pneumologia per al seu control i tractament definitiu. Tractament a l'ingrés • Dieta de diabètic sense sal.
+• Oxigenoteràpia: màscara Ventimask amb una FiO2 de 0.28
+• Brocodilatadores: Beta 2 (salbutamol 400 μg) + anticolinèrgics (Ipratropio 120 μg) amb cambra espaiadora cada 6 hores.
+• Corticoides sistèmics: metilprednisolona 40 mg/iv/6 hores.
+• Antibiòtics: Moxifloxacino 400 mg iv/24 hores.
+• Furosemida 20 mg iv/24 h.
+• Enoxaparina 40 mg sc/24 h.
+• Telmisartan 40 mg vo/24 h.
+• Glucometer abans de desdejuni menjada i sopar amb pauta d'insulina.
+
+JUDICI CLÍNIC
+EPOC MODERAT AMB AGUDITZACIÓ GREU PER INFECCION BACTERIANA.

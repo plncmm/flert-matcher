@@ -1,0 +1,26 @@
+Anamnesi
+Una dona de 72 anys va acudir a consultes de dermatologia per una lesió de sis dies d'evolució en colze esquerre, associava febrícula en dies previs a la consulta, d'altra banda sense una altra simptomatologia. Com a antecedent destacava haver sofert un traumatisme en aquesta zona amb una planta dues setmanes abans, encara que aquest antecedent no ho va comunicar fins a diversos dies després del primer contacte amb el nostre servei. La pacient no presentava antecedents familiars d'interès i patia diabetis mellitus tipus II en tractament amb antidiabètics orals, hipotiroïdisme en tractament substitutiu amb levotiroxina i càncer de mama en remissió des de 2009. No destacava hàbits tòxics, canvis recents en la seva medicació habitual ni contacte amb camp i/o animals.
+
+Exploració física
+En el colze esquerre es va evidenciar una placa d'aproximadament 2x2,5 cm eritematosa i violàcia, circular, amb superfície pseudovesiculosa i pústulosa que posteriorment es va ulcerar mostrant un exsudat hemorràgic-purulent i un halo eritematós perilesional. A més presentava adenopaties mòbils d'aproximadament 1 cm de grandària i doloroses a nivell axil·lar i medialmente a la fossa antecubital.
+
+Exploracions complementàries
+Es van realitzar les següents proves complementàries:
+1. Iconografia. Fotografiat de la lesió cutània primària i de les adenopaties en trànsit prèvia signatura de consentiment informat per part de la pacient.
+2. Biòpsia. Prèvia signatura de consentiment informat i anestèsia local amb mepivacaína al 2%, es van prendre mostres amb un punch de 4 mm de la perifèria de la lesió i del centre. Aquestes mostres es van enviar a anatomia patològica i a microbiologia respectivament. Anatomia patològica: en la biòpsia es va evidenciar una epidermis sense alteracions i en hipodermis un infiltrat histiocitario (constatat amb la tinció CD68), microabcesos i necrosi. No es va posar de manifest la presència d'infecció fúngica en la tinció amb plata. Microbiologia: es va conrear enmig d'Agar Sabouraud dextrosa, entre altres, i es van obtenir colònies ataronjades que desprenien una olor de terra humida que es com Nocardia Brasiliensis. Es va realitzar un antibiograma que va mostrar sensibilitat a: trimetoprim sulfametoxazol, linezolid, cefotaxima, amoxicilina/clavulánico i tigeciclina; i resistència a: amikacina, ciprofloxacino, levofloxacino, imipenem.
+Cultiu i Gram. Es van obtenir mostres amb un hisop per a cultiu i tinció de Gram. En el cultiu i gram de l'exsudat van mostrar flora de contaminació externa.
+3. Analítica
+• Hemograma: hemoglobina: 10,6 g/dl, leucòcits: 5550 amb fórmula normal, plaquetes 291000, V.S.G: 26 mm/hora.
+• Bioquímica: perfils hepàtic i renal normals amb nivells de proteïna C reactiva de 28,5 mg/L.
+• Proteinograma: Traçat compatible amb síndrome inflamatòria moderada i hipogammaglobulinemia moderada
+• Coagulació normal.
+4. Serologia per a rickettsias i borrelia van ser negatives.
+
+Diagnòstic
+Linfangitis nodular per nocardia brasiliensis.
+
+Tractament
+Inicialment es va establir un judici clínic de possible picada d'artròpode pel que es va realitzar un tractament empíric amb cefotaxima 1g/8 h IV, metronidazol 500 mg/8 h IV i ciprofloxacino 250mg/12 h VO, a més de cures locals amb àcid fusídico i betametasona. Després del diagnòstic microbiològic es va instaurar el tractament d'elecció amb trimetoprim sulfametoxazol 169mg/800mg cada 12 hores durant tres mesos.
+
+Evolució
+L'evolució de la nostra pacient va ser favorable, cicatritzant la lesió primària per complet a les tres setmanes d'instauració del tractament d'elecció i desapareixent les adenopaties en trànsit al mes. No es va evidenciar la presència de citopenias al llarg de tot el tractament i actualment la pacient es troba asimptomàtica.

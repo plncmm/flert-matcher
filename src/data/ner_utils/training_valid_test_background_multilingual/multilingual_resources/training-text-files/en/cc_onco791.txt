@@ -1,0 +1,28 @@
+Anamnesis
+The patient was a 58-year-old man who had been an ex-smoker for 18 years with a pack-year index of 44. His personal history included arterial hypertension treated with valsartan-hydrochlorothiazide and manidipine, diabetes mellitus controlled with metformin, sleep apnoea-hypopnoea syndrome treated with CPAP and hyperuricaemia controlled with allopurinol. Regarding surgical interventions, we highlight a myofibroblastoma of the left breast removed in 2016.
+Oncological history
+In March 2018 he was diagnosed with a right bronchial adenocarcinoma cT4 (9 cm mass with oesophageal, vascular and possible tracheal infiltration) cN3 (10 mm para-aortic and 20 mm left paratracheal adenopathy) M0, stage IIIC according to the 8th TNM classification of lung cancer following complementary tests (abdomino-pelvic and cerebral CT scan, and fibrobronchoscopy with biopsies where an extensive tumour was observed in the most distal part of the trachea coming from the right main bronchus invading the carina and causing extrinsic compression in the middle lobe and right lower lobe.
+At the molecular level, the patient had positive PD-L1 expression (100%), negative EGFR, negative ROS-1 and no ALK translocation.
+After the case was discussed in the thoracic tumour committee, the following therapeutic strategy was defined: chemotherapy with cisplatin and oral vinorelbine and subsequent evaluation with a new CT scan and assessment of concomitant chemoradiotherapy from the third cycle onwards.
+On day +10 of the first cycle, she went to the Emergency Department for severe haemoptysis with clots and acute deterioration of renal function associated with general malaise with decreased intake and vomiting, and it was decided to admit her to Oncology with fluid therapy and support measures for haemoptysis.
+Given the severity of the haemoptysis, it was decided to start treatment with haemostatic radiotherapy. The day after the start of treatment, he presented a sudden deterioration in general condition with acute respiratory failure (oxygen therapy with a 100% reservoir mask with O2 saturations ranging between 70 and 85%).
+
+Physical examination
+Physical examination revealed PS 3 and marked hypophonesis in 2/3 of the right hemithorax.
+The patient is dyspnoeic at rest with saturations around 70-85 % with a 100% reservoir mask. He maintains adequate blood pressure control.
+
+Additional tests
+Following the sudden onset of dyspnoea, arterial blood gas analysis was requested, showing hypoxaemia with a partial oxygen pressure of 58.2 mm Hg. Suspecting right pleural effusion, transthoracic ultrasound and chest X-ray showed a large right hilar mass obstructing the right main bronchus with involvement of the carina and obstructive pneumonitis with a large component of atelectasis.
+Blood tests showed a decrease in glomerular filtration rate 26 (previously 67) with elevated creatinine levels of 2.55 mg/dl (previously 0.9 mg/dl).
+
+Diagnosis
+Partial respiratory failure secondary to atelectasis due to tumour invasion of the right main bronchus and acute renal failure related to cisplatin nephrotoxicity, with a mainly pre-renal component due to decreased intake and vomiting.
+
+Treatment
+Initially, non-invasive mechanical ventilation was started with FIO2 100 % IPAP 26, EPAP 11, FR 18 rpm, achieving oxygen saturations of around 90 %. Subsequently, due to poor tolerance of NIV due to vomiting, a mask with 100% reservoir was placed. Glucocorticoids were added due to suspicion of a certain degree of inflammatory component.
+The possibility of performing a bronchoscopy was considered in order to assess whether there were options for local therapy of the obstruction, but this option was finally rejected by the corresponding services.
+
+Evolution
+As the patient's respiratory status was clearly affected, he produced a haemoptotic expectoration accompanied by a 5 cm solid tumour material. Almost immediately, there was an immediate respiratory improvement, no longer requiring the mask with 100% reservoir, and maintaining oxygen saturations of 92-93 with nasal oxygen goggles at 2 bpm. A new chest X-ray was performed, showing a clear improvement of the obstructive pneumonitis and atelectasis.
+This improvement continued during the following days of admission, allowing the patient to be discharged from hospital after seven days of hospitalisation. At discharge, the patient was eupneic and did not require further oxygen therapy, and renal function had been corrected following intravenous hydration. Haemostatic radiotherapy was continued given the persistence of haemoptysis, although to a much lesser extent.
+She attended the day hospital on the scheduled date and the second cycle was administered with a dose reduction of 80%, given the toxicity experienced.

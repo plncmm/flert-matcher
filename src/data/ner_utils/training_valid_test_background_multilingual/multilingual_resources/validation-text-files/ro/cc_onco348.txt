@@ -1,0 +1,30 @@
+Anamneză
+O femeie în vârstă de 51 de ani s-a consultat cu medicul de familie în aprilie 2015 pentru autopalparea unui nodul nedureros în sânul stâng, despre care a raportat că era prezent de un an, și a fost trimisă la secția de ginecologie pentru examinare.
+Antecedente personale: Nu există antecedente medicale sau chirurgicale de interes. Contraceptive orale timp de 8 ani.
+
+Examinarea fizică
+La examenul fizic, pacienta a prezentat o asimetrie mamară marcată. Sânul drept are un aspect normal, în timp ce sânul stâng prezintă o umflătură dură, fixă, de aproximativ 10 cm, aderentă la planurile profunde și foarte aproape de piele. Nu sunt palpabili ganglionii limfatici axilari.
+
+Teste complementare
+"Mamografie bilaterală (14/04/2015): La sânul stâng se identifică o masă de 8 cm cu margini slab delimitate.
+"Ecografie mamară bilaterală (14/04/2015): Masă hipoecogenă, eterogenă, cu conținut solid, care se imprimă pe complexul mamelon-areolă, cu infiltrație aparentă. Nu sunt identificate adenopatii.
+"RMN mamar (03/05/2015): masă de 8 cm localizată în cadranele interne ale sânului stâng, hipervasculară, cu accentuare marcată și afectare cutanată. Leziune de 18 mm în cadranele supero-interne ale sânului contralateral, cu aspect similar. Noduli axilari bilaterali nespecifici.
+"CT toracic-abdominal-pelvic (07/05/2015): Nu există dovezi de boală la distanță.
+"Markerii tumorali (07/05/2015): CEA 1,8, CA 15-3 5,4.
+
+Diagnostic
+Sânul drept: Angiosarcom (CD34+, CD31+).
+Sânul stâng: Angiosarcom (CD34+, CD31+) HHV8 negativ. Absența mutației k-RAS și NRAS. Ki67 25%.
+Angiosarcom primar bilateral al sânului.
+
+Tratament
+Inițial (26/05/2015), mastectomie simplă a sânului stâng și cvadrantectomie a sânului drept, ulterior hotărându-se efectuarea unei mastectomii drepte din cauza marginilor insuficiente (23/06/2015). 
+AP: Angiosarcom (expresia CD31 și CD34). Ki67 20-25%. Gradul 2. Nu există permeabilitate vasculară sau infiltrare perineurală.
+Cazul a fost prezentat comitetului pentru tumori mamare și s-a decis că, având în vedere histologia, pacienta ar fi un candidat pentru tratament adjuvant de radioterapie, care a fost efectuat pe hemitoracele stâng din cauza dimensiunii tumorii.
+S-a decis să nu se administreze un tratament adjuvant de chimioterapie din cauza beneficiului scăzut așteptat.
+
+Evoluție
+Pacientul a fost monitorizat. Prima tomografie computerizată efectuată pentru reevaluare, în data de 20.09.2015, a evidențiat apariția unor leziuni hepatice în segmentele VI și VII și o alta mai mare în segmentul VI.
+În acest moment, s-a decis începerea chimioterapiei de primă linie pentru boala avansată cu Paclitaxel 80mg/m2 în zilele 1, 8 și 15 la fiecare 28 de zile, care a început la 16 octombrie 2015. După patru cicluri de tratament, la 31 ianuarie 2016 a fost efectuată o tomografie computerizată toraco-abdominală-pelvină, care a arătat persistența leziunilor hepatice descrise mai sus, dar cu un conținut necrotic mai mare în interior, ceea ce ar putea indica un răspuns parțial la tratament. Pacientul a prezentat o bună toleranță la tratament, deși cu neurotoxicitate de gradul 1.
+După administrarea a 7 cicluri, în data de 22 aprilie 2016 a fost efectuată o nouă tomografie computerizată toraco-abdomino-pelvină, care a evidențiat o progresie discretă a bolii la nivelul ficatului, cu două noi leziuni splenice.
+S-a decis completarea studiului molecular al tumorii în vederea efectuării unui tratament țintit și nu s-a observat nicio rearanjare ALK sau instabilitate microsatelitară, cu o amplificare MET de numai 10%. În mai 2016 a fost începută o nouă linie de tratament cu doxorubicină lipozomală pegilată.

@@ -1,0 +1,30 @@
+Anamneză
+Femeie în vârstă de 65 de ani cu intoleranță la tramadol și internată la terapie intensivă în august 2007 din cauza unei septicemii urinare cauzate de Escherichia coli. Intervenții chirurgicale anterioare: fixare a coloanei dorsale din cauza cifoscoliozei.
+Diagnosticat în ianuarie 2008 prin CT toracic, PET, bronhoscopie și lobectomie superioară stângă cu limfadenectomie ulterioară de adenocarcinom pulmonar pT2pN0 (0/8) M0.
+Follow-up, fără semne de boală, până la 11 septembrie, când a fost documentată recidiva prin PET/CT sub forma a doi noduli pulmonari pe care s-a efectuat FNA cu raport anatomopatologic de adenocarcinom. Având în vedere acest lucru, s-a efectuat o pneumonectomie stângă plus limfadenectomie, cu un raport anatomopatologic de adenocarcinom bine diferențiat de 2,4 cm, care respectă pleura viscerală și marginile chirurgicale, fără afectare ganglionară și cu EGFR mutant.
+În 13 februarie a fost observată o recidivă sub forma unui nodul pulmonar în LSD împreună cu adenopatie paratraheală inferioară dreaptă. Având în vedere riscul de complicații, o nouă biopsie a fost exclusă și a fost indicat Gefitinib în dozele obișnuite, 250 mg zilnic, cu un răspuns radiologic complet, atât prin CT, cât și prin PET, și cu o toleranță excelentă.
+În timpul urmăririi, fiind total asimptomatic, în 15 decembrie a fost detectată prin PET o captare patologică în ganglionii limfatici mediastinali.
+
+Examinarea fizică
+-Tensiunea arterială 125/75 mm Hg, ritmul cardiac 90 bătăi/min, temperatura 37o C, saturația oxigenului 97%.
+-conștient și orientat în 3 sfere. Nehidratat, normoperfuzat și normocolorat. Eupneică în repaus. IK 80
+-Cap și gât: presiune venoasă jugulară normală, fără adenopatii.
+-Torace: auscultație cardiacă: ritmică, fără murmure. Auscultație pulmonară: hipoventilație hemi-câmp stâng. Corectarea cicatricilor de la intervențiile anterioare
+-Abdomen: moale, nu dureros. Sunete hidroaeriene pozitive.
+-Extremitățile inferioare: Fără edem. Sunete pediatrice pozitive.
+
+Teste complementare
+-PET(decembrie-2015): hipermetabolism în adenopatiile localizate în regiunea paratraheală dreaptă înaltă și joasă (Suv 8,14), prevasculară (Suv 3,45), fereastra aortopulmonară (Suv 7,99) și hilul drept (Suv 7,46), sugerând recidiva bolii.
+-EBUS 4R și 4L: frotiu negativ pentru celule maligne. Ganglion limfatic cu structuri granulomatoase fără necroză.
+-Mediastinoscopie 4R, 4L și 2L: limfadenită epitelioidă granulomatoasă compatibilă cu sarcoidoza.
+
+Diagnostic
+-Sarcoidoza mediastinală
+-Adenocarcinom pulmonar de plămân cu recidivă ganglionară cu mutație EGFR cu răspuns complet la Gefitinib
+
+Tratament
+Având în vedere diagnosticul de sarcoidoză și absența implicării sistemice, precum și faptul că pacientul era complet asimptomatic, a fost adoptată o abordare de așteptare a tratamentului și a fost decisă o monitorizare.
+În ceea ce privește tratamentul neoplasmului, s-a decis menținerea tratamentului cu Gefitinib, având în vedere răspunsul excelent și toleranța.
+
+Evoluție
+Având în vedere rezultatele PET și faptul că pacientul era complet asimptomatic, s-a decis să se completeze studiul prin EBUS și, ulterior, prin mediastinoscopie, pentru a se stabili dacă a existat sau nu o recidivă. În mod curios, studiul anatomopatologic nu a evidențiat prezența celulelor maligne, ci mai degrabă opusul, un proces inflamator, cum ar fi sarcoidoza. Acest lucru ne-a permis să menținem tratamentul cu Gefitinib pentru pacientul nostru, care continuă să aibă un răspuns complet până în prezent.

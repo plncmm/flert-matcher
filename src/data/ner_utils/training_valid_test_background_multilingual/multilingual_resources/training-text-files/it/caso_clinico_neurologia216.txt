@@ -1,0 +1,28 @@
+Anamnesi
+Un uomo di 58 anni, senza allergie note ai farmaci o consumo di sostanze tossiche. I fattori di rischio cardiovascolare includono: ipertensione, dislipidemia e obesità di tipo I. L'anamnesi medica e chirurgica includeva: BPH, GERD, emicrania senza aura, fachectomia bilaterale, settoplastica per deviazione del setto nasale e chirurgia nasosinusale endoscopica con polipectomia per poliposi resistente al trattamento topico. Segue un trattamento regolare con enalapril/idroclorotiazide, simvastatina e dutasteride/tamsulosina.
+
+È arrivata al pronto soccorso con un'improvvisa insorgenza di cefalea, accompagnata da nausea e vomito, febbre termometrica fino a 38oC, marcato malessere generale, con concomitante disturbo del linguaggio, sotto forma di blocchi e parafasie, con una progressiva diminuzione del livello di coscienza. Nell'intervista con la famiglia, rivedendo l'anamnesi medico-chirurgica, ci viene riferito il fatto incidentale di una sporadica colata nasale di liquido cristallino dalla narice sinistra, per più di 3 anni, dopo un intervento chirurgico ORL.
+
+Esame fisico
+Emodinamicamente stabile, eupnoico, febbrile, ben idratato, normoperfuso, di colore normale. Auscultazione cardiopolmonare normale. Addome senza alterazioni. Arti inferiori normali.
+Esame neurologico: cosciente, con sonnolenza marcata, che richiede stimoli vigorosi per mantenere la vigilanza, disattento, parzialmente disorientato nel tempo e nello spazio, orientato nella persona. Obbedisce a comandi semplici, risponde alle domande, nomina, ma nel linguaggio spontaneo emette alcune parafasie fonemiche e semantiche. Nervi cranici: VA normale, FO normale e campimetria a confronto. MOI e MOE senza alterazioni, nessuna ptosi o nistagmo. V motorio e sensoriale conservato. Nessuna asimmetria facciale. Coppie inferiori normali. Forza con equilibrio muscolare 5/5 in tutte e quattro le estremità, con REM globali ++ senza asimmetrie, RCPF bilaterale. Sensibilità conservata a tutti i livelli e in tutte le modalità. Nessuna dismetria o disdiadochinesia. Andatura e statica non valutate al momento. Nessun risultato extrapiramidale. Leggera rigidità nucale, segno di Kernig positivo.
+
+Test complementari
+- Emogramma: leucocitosi 27 x 1.000/mm3 (neutrofili 25,1 x 1.000/l).
+- Coagulazione: normale.
+- Biochimica: profilo renale e profilo epatico senza alterazioni. CRP 1,8 mg/dl.
+- Radiografia del torace ed ECG senza risultati significativi.
+- Puntura lombare: liquido cerebrospinale di aspetto torbido, con pressione di 29 cm H2O, con la seguente citobiochimica: 1.620 cellule/mm3 (78% PMN, 21% MN), 478 globuli rossi/mm3, glucosio 19 mg/dl, proteine 4,22 g/l. - Gram (CSF): cocci G+, in gruppi, come risultato preliminare, coltivati in meno di 24 ore, gruppo Streptococcus Viridans, senza resistenza significativa nell'antibiogramma.
+- Pneumococco PCR negativo. PCR per HSV e VZV negativa.
+- Sierologia: HAV, anticorpi IgG positivi (13,62). HBV: Ag-HBs negativo. Anti-HBc: IgG negativo. HCV: anticorpi negativi. HIV: HIV (1,2): Ac. e Ag. negativo.
+- TAC cranica: studio senza reperti significativi, tranne la presenza di un'occupazione parziale del seno sfenoidale sinistro e di entrambi i seni mascellari (sul lato destro con formazioni polipoidi).
+- RM cranica: fistola del CSF attraverso la lamina cribrosa e nelle cellule etmoidali. RM cranica: sequenza FLAIR coronale, che mostra una fistola di CSF attraverso la lamina cribrosa e nelle cellule etmoidali. Non si rilevano alterazioni infiammatorie meningee.
+
+Diagnosi
+Meningoencefalite batterica con coltura positiva per Streptococcus viridans, possibilmente correlata a una fistola del liquor dopo un intervento chirurgico ORL.
+
+Trattamento
+Nel sospetto di sintomi clinici compatibili con la meningoencefalite, e in attesa dei risultati microbiologici, è stato iniziato un trattamento antibiotico con vancomicina e cefotaxime, oltre ad aciclovir, e il paziente è stato ricoverato nel reparto di neurologia, dove, dopo aver scoperto il microrganismo responsabile e l'antibiogramma, il trattamento con cefotaxime è stato mantenuto per 10 giorni.
+
+Evoluzione
+Il paziente si è evoluto in modo molto soddisfacente, essendo asintomatico, afebrile e con un esame neurologico rigorosamente normale entro 48 ore dall'inizio dei sintomi. Data l'anamnesi di gocciolamento nasale cronico dopo la settoplastica/polipectomia del 2009, con il sospetto di una fistola liquorale, è stato consultato l'otorino e la fibroscopia ha rivelato un fluido chiaro che usciva dalla narice sinistra, senza poter definire il sito di uscita. Il paziente è stato programmato per un intervento chirurgico ORL, richiedendo l'uso compassionevole della fluoresceina per la diagnosi e il trattamento, con chiusura endoscopica.

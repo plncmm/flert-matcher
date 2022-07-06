@@ -1,0 +1,16 @@
+Anamnesis
+71-year-old woman, diagnosed with psoriatic arthropathy, on treatment with leflunomide for a month and a half.
+She was admitted with fever, asthenia and odynophagia for a week, accompanied by a skin rash for two days, pruritic and predominantly on the trunk.
+
+Physical examination
+There was a confluent maculopapular rash with a morbilliform appearance, erythema and desquamation involving more than 90% of the body surface, as well as a thermometric fever of 38.5oC and arterial hypotension (90/60 mmHg). The oral mucosa showed whitish plaques that were easily detached. The pharynx was hyperemic with no exudate or tonsillar hypertrophy. No cervical lymph nodes were palpable.
+
+Complementary examinations
+Laboratory tests on admission showed leukocytosis (17600/μL) with eosinophilia (19%) and thrombocytopenia (61000/μL). Liver function tests were elevated (GOT 1700 U/L, GPT 1400 U/L, GGT 1137 U/L). Serology was positive for HSV-6 IgM and negative for all other tests. Blood cultures were positive for E. coli. Abdomino-pelvic CT scan showed subcentimetric adenopathies at the level of the gastrohepatic ligament and hepatic hilum, root of the mensentery and paracecal as well as bilateral inguinal adenopathies.
+The biopsy showed orthokeratotic hyperkeratosis with patches of parakeratosis on an epidermis permeated by abundant lymphocytes, necrotic keratinocytes and vacuolar degeneration of the basal layer. In the superficial dermis there was a polymorphous inflammatory infiltrate composed mainly of lymphocytes of different sizes, some slightly large with irregular, hyperchromatic, slightly atypical nuclei.
+
+Diagnosis
+Leflunomide DRESS syndrome.
+
+Evolution and treatment
+The patient was admitted to the internal medicine department for a month and a half, during which time neither fever, hypotension nor skin lesions returned completely despite discontinuation of leflunomide and topical and systemic treatment with corticosteroids. Following the initial diagnosis of "Escherichia coli bacteraemia", ceftriaxone was prescribed and resolved. Fluconazole was also administered for the treatment of oral thrush, which resolved satisfactorily. During admission, a striking eosinophilia was observed, as well as acute hepatitis that partially resolved with steroid treatment. Finally, the patient presented an abrupt worsening of her condition, with obnubilation, coagulopathy and global asthenia, for which she was referred to the ICU with subsequent death due to septic shock and multiorgan failure with superinfection by methicillin-resistant Staphylococcus aureus.

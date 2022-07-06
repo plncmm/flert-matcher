@@ -1,0 +1,87 @@
+We report the case of a 65-year-old male patient without known drug allergies or toxic habits.
+His personal history included right pulmonary bronchiectasis, prothrombin 20210A mutation carrier, protein S deficiency, deep venous thrombosis, and subarachnoid hemorrhage hemolytic treatment of lower limbs.
+She was diagnosed with chronic▁lymphocytic leukaemia (CLL) in January 2010 and received the following treatment lines: 1 line with chlorambucil gap; 2nd line (RFLP) rituximab (cryophosphamide line 2015)
+Complications during chemotherapy cycles include numerous admissions for respiratory infections.
+She was admitted for right basal pneumonia two months earlier.
+He came to the emergency room in December 2016 for a fever of 48 hours of evolution, cough with green sputum and general▁malaise that has not improved after oral treatment at home with cefuroxime.
+Upon arrival, the patient was in good general condition, with 99% oxygen saturation breathing room air.
+Ta 38.2o C. FC: 100 bpm.
+TA: 120/60 mmHg.
+Cardiopulmonary arrest was normal, with no pathological noises overlapping.
+Anonymous exploration.
+Regarding complementary tests, a blood count with hemoglobin of 7.7 g/dL, neutrophils 0.48x109/L, lymphocytes 93.0x109/L and platelets 88x109/L stood out.
+Biochemistry with a CRP of 142 mg/L, the rest of the analytical parameters were normal, and a chest X-ray with poorly defined left basal condensation.
+After admission, hemocultive and urocultive tests were performed, as well as urine antigenuria of Legionella spp and pneumococcus, which were negative, initiating empirical antibiotic therapy with intravenous meropenem (1 gr).
+iv. persistence of fever and respiratory symptoms after 48 hours of intravenous treatment, it was decided to associate teicoplanin (400 mg/12 hours iv 3 doses, followed by 400 mg/24 hours) and cotrioxazole.
+After 7 days of combined antibiotic therapy, the patient continued with similar clinical status.
+Chest HRCT and fiberoptic▁bronchoscopy were requested, resulting in treatment with intravenous liposomal amphotericin B (3 mg/ kg).
+CT detected progression of the secondary adenopathies to their CLL and bilateral pseudo-non-dual pulmonary consolidations, with cotton-like and ground-glass margins of new onset.
+Mandibular antigen was positive in bronchoalveolar lavage (BAL) and peripheral blood (2.2 U/ml and 4.5 U/ml, respectively).
+After 72 hours of treatment with amphotericin, the patient remained afflicted with amphotericin and presented good clinical evolution.
+On the seventh day of amphotericin B, several nodular lesions with a necrotic center of about 2 cm in diameter in the forearm were discovered, and a skin biopsy of one of the lesions was performed.
+Intravenous treatment with amphotericin was continued for 10 days and subsequently switched to oral voriconazole (200 mg/12 hours).
+After clinical improvement, the patient is discharged with this drug pending the biopsy result.
+Differential diagnosis For the differential diagnosis, we must assess the most frequent processes in immunocompromised patients with fever, respiratory symptoms with pulmonary infiltrates and nodular cutaneous lesions.
+Pharmacological toxicity: In our case, ibrutinib can cause interstitial lung disease (ILD), characterized by progressive dyspnea and cough nonproductive.
+The radiograph is characterized by a reticular pattern or bilateral notdular being in 10% of cases the normal radiograph.
+Skin lesions are rare.
+It can cause erythematous lesions in the form of small pink plaques on the trunk.
+It does not produce nodular lesions.
+Neither respiratory nor cutaneous patterns are consistent with our clinical case.
+CLL instillation: Chronic▁lymphocytic leukemia can cause pulmonary as well as cutaneous involvement by dissemination of the disease.
+Pulmonary involvement produces bilateral interstitial infiltrates and pleural effusion.
+Cutaneous lesions due to non-specific cutaneous manifestations are usually single or multiple nodular, erythematous and purpuric lesions.
+Very rarely ulcerated, necrotic or blistery lesions appear.
+Our patient had increased lymph nodes consistent with progression of CLL, but the pulmonary infiltrates were not interstitial pattern and skin lesions were necrotic.
+Bacterial respiratory infection: Infectious processes are the most common cause of pulmonary infiltrates in patients with CLL.
+The chest X-ray is characterized by consolidation of the peripheral air space with a non-segmental distribution and presence of air bronchogram.
+It could initially agree with the alterations described in our patient, except for the air bronchogram, characteristic of this type of infection, which was not present.
+In addition, the appearance of skin lesions is not characteristic except in the case of septic emboli.
+Septic emboli are rounded pustular lesions on an erythematous base and purp-like center of small size.
+They do not usually manifest as nodular skin lesions, appear in larger numbers and smaller sizes than those described in our clinical case.
+Candida spp. infection: It can produce simple or multiple macronodular skin lesions, and occasionally erythematous colitis, but lung disease due to Candida is very rare, even in the presence of immunosuppression.
+Invasive infections due to lineages: 1.
+Scedosporium spp. is a philosophie that produces invasive fungal infections in immunosuppressed patients.
+Unlike Aspergillus spp, it is resistant to amphotericin B. It can produce pulmonary consolidations and skin lesions similar to those produced by Aspergillus spp.
+It should be considered in patients who do not respond to high doses of amphotericin B.
+Therefore, it is important not to perform BAL in order to achieve microbiological isolation and anticholinesterase activity.
+The improvement with amphotericin in our patient discards it.
+2.
+Fusarium spp causes disseminated pulmonary infection with pulmonary nodules and nodular skin lesions with necrotic or erythematous center.
+Also characteristic is nail affectation (not present in our patient).
+It is sensitive to voriconazole and posaconazole.
+Due to the pulmonary and cutaneous involvement described, this etiology cannot be ruled out in our patient.
+3.
+Zigomycetes.
+They mainly produce sinusitis and pulmonary infections.
+Cutaneous lesions are rare and commonly occur primarily and not as a result of dissemination following respiratory disease, so it would be an unlikely etiology in our patient.
+4.
+Pheohyphomycosis.
+It can cause disseminated infections with very frequent involvement of the central nervous system in immunosuppressed patients, with skin and lung involvement.
+The neurological non-involvement in our patient goes against this diagnosis.
+5.
+Invasive aspergillosis.
+It would be the most probable diagnosis.
+A neutropenic patient with fever, respiratory symptoms and pulmonary infiltrates unresponsive to antibacterial agents should always be considered.
+The positivity of gammonia in blood and BAL in our patient practically confirms the diagnosis.
+Although Aspergillus fumigatus is the most common species, Aspergillus flails most frequently affect the skin in the context of dissemination.
+The lesions, as in our case, are usually nodular, although they can ulcerate.
+The patient was admitted nine days after hospital discharge due to worsening of the respiratory symptoms.
+New skin lesions had appeared, three in the arm and the other two in the evening.
+An increase in the number of sputum smears was detected in blood (4.68 U/ml).
+suspected therapeutic failure with voriconazole, treatment with liposomal amphotericin B is changed.
+Multiresistant Acinetobacter baumannii, sensitive to tige, was detected in sputum culture and was considered a colonizing flora.
+A needle aspiration biopsy was performed for microbiology of nodular lesions.
+The result of the skin biopsy showed the presence of multiple fungal structures stained with PAS and Groccot, and the culture of the sample obtained showed the presence of Aspergillus flail puncture.
+Since it is not uncommon for this microorganism to be resistant to amphotericin, treatment with caspoline iv plus voriconazole (6 mg/Kg IV) was changed awaiting anticholinesterase therapy.
+This confirmed the sensitivity to voriconazole, so that after a slow clinical improvement, the patient was discharged with monotherapy with this drug.
+After 20 days at home, the patient was readmitted again due to a reappearance of fever and respiratory symptoms.
+The patient remained neutropenic and had suffered a worsening of mental illness in previous controls.
+Empirical treatment was initiated with meropenem iv, maintaining voriconazole.
+The HRCT scan showed bilateral pulmonary infiltrates.
+The patient worsens with respiratory failure and fever persists.
+It appears muguet and odynophagia, adding to the treatment on the sixth day of admission caspoline, and changing meropenem by tige plus levofloxacin.
+Despite this, the patient continues to have progressive clinical worsening and died on the ninth day of admission.
+That day, they reported microbiology of positive blood cultures for multiresistant Acinetobacter baumannii sensitive to tige colitis.
+Final diagnosis • Aspergillosis disseminated by Aspergillus flaxseed, with pulmonary and cutaneous involvement.
+• Multiresistant Acinetobacter baumannii bacteremia.

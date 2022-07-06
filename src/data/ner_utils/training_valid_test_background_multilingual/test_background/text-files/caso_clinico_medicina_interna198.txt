@@ -1,0 +1,21 @@
+Mujer. 86 años. Basal: Cognitivo conservado, independiente ABVD. AP: HTA, hipertrigliceridemia, DM-2, hipotiroidismo. IQ: Basocelular pabellón auricular izquierdo. Tratamiento: enalapril, torasemida, repaglinida, levotiroxina, gemfibrozilo y alprazolam. Acude a urgencias por presentar desde hace 2 días, dolor e inflamación de rodilla derecha, acompañados de fiebre (hasta 39oC). No traumatismo previo.
+
+Exploración Física
+Rodilla derecha: aumento de partes blandas, eritematosa, aumento de calor local. Choque rotuliano con acúmulo de líquidos en recesos. Dolor intenso a la movilización. Edemas con fóvea en ambos MMII, sin signos de TVP.
+
+Pruebas Complementarias Iniciales
+- Hemograma: Leucocitos 14.200 (72.2% PMN). Resto normal.
+- Coagulación: Dímero D 1795.
+- Bioquímica: Función renal, hepática e iones normales. PCR 17,44 mg/dL.
+- Rx Tórax: aumento hiliar bilateral.
+- Rx Rodilla derecha: Signos de artrosis tricompartimental.
+- Eco-Doppler MID: Sin evidencia de TVP.
+- Liquido sinovial: LDH 772; proteínas 3,6. Resto normal. No microcristales.
+
+Evolución
+Ingresa a cargo de Traumatología con alta sospecha de artritis séptica, iniciando tratamiento con levofloxacino y cloxacilina. Cultivo de líquido sinovial negativo. Ante empeoramiento clínico-analítico, se realiza nueva artrocentesis con resultados similares. Se solicita RMN rodilla: "importante afectación de partes blandas periarticulares, derrame articular y marcado engrosamiento de la sinovial. Múltiples adenopatías en hueco poplíteo".
+En este momento, recibimos una interconsulta por parte de Traumatología para valorar a la paciente. En la nueva valoración, destaca en la exploración la presencia de edema con fóvea en miembro inferior derecho hasta la raíz del muslo con vesículas de estasis, presencia de adenopatías >1cm a nivel inguinal bilateral, no dolorosas, de consistencia dura.
+Solicitamos ecografía abdomino-pélvica: "presencia de múltiples adenopatías inguinales bilaterales, la mayor próxima al cayado de la vena safena derecha".
+Ante sospecha de proceso tumoral, se realiza TAC toraco-abdomino-pélvico: "derrame pleural bilateral; múltiples adenopatías intraabdominales, subfrénicas, mesentéricas y retroperitoneales, que forman conglomerado periaórtico extendiéndose hasta las cadenas iliacas"
+
+Se realiza biopsia de adenopatía inguinal: Linfoma no Hodking (LNH) de células B grandes. Durante el ingreso, deterioro rápidamente progresivo: compromiso respiratorio por derrame pleural, bacteriemia por E. Coli productora de BLEE de origen urinario. Dada la edad y la mala situación de la paciente, se decide manejo conservador. A los pocos días, la paciente acaba falleciendo.

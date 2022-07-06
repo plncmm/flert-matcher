@@ -1,0 +1,21 @@
+Anamnesis
+Mujer de 54 años de edad con AP de mastocitosis sistémica indolente de 17 años de evolución, que ingresa en el servicio de Hematología de nuestro hospital, para estudio y manejo multidisciplinar por un cuadro de anemia, leucopenia y lesiones cutáneas generalizadas de 2 meses de evolución, que no había respondido a tratamiento con corticoides orales a dosis de 1 mg/kg/día.
+
+Exploración física
+Cuando valoramos a la paciente, presentaba lesiones erosivas y úlceras en mucosa oral, ocular, ampollas tensas en miembros, y lesiones liquenoides en ambos tobillos. Además, presentaba afectación ungueal y paroniquias en todas las uñas de las manos. Su estado general era malo, con taquipnea y saturación de oxígeno al 90% en estado basal.
+
+Exploraciones complementarias
+Se realizaron dos biopsias: una de ellas se obtuvo de una lesión de mucosa oral donde se observó una dermatosis ampollosa con acantolisis suprabasal y la inmunofluorescencia directa (IFD) fue positiva, con un depósito intercelular de C3 y lineal en la unión dermoepidérmica de IgG. La otra biopsia se tomó de una lesión cutánea a nivel de pierna derecha, informándose como una dermatitis liquenoide.
+En la analítica se detectó anemia, leucopenia, elevación de reactantes de fase aguda, y la inmunofluerescencia indirecta (IFI) fue positiva para anticuerpos antisustancia intercelular a títulos de 1/320+, los Ac antimembrana basal epidérmica fueron negativos. El frotis de sangre periférica fue normal.
+La radiografía de tórax mostró un patrón de infiltrado intersticial bilateral, y un TAC toracoabdominal evidenció signos de hipertensión pulmonar precapilar, ascitis y hepatoesplenomegalia, sin adenopatías ni infiltrados parenquimatosos. Dado el mal estado general de la paciente no se realizaron pruebas diagnósticas invasivas como biopsias para intentar filiar su hepatoesplenomegalia, pero asumimos que pudo ser por infiltración de su mastocitosis sistémica. No se encontró en el resto del estudio realizado otra posible neoplasia oculta.
+De acuerdo con los criterios de Camisa y Helm, para el diagnóstico de pénfigo paraneoplásico se requieren tres criterios mayores o dos mayores y dos menores. Los mayores son: erupción muco-cutánea polimorfa, asociación con neoplasia interna e inmunoprecipitación específica en suero. Los criterios menores son: evidencia histológica de acantolisis, inmunofluorescencia directa en piel perilesional con patrón intercelular y en la zona de la membrana basal, e inmunofluorescencia indirecta en vejiga de rata positiva.
+Nuestra paciente cumplía dos criterios mayores (erupción mucocutánea y una neoplasia de base: mastocitosis sistémica) y dos menores (acantolisis en histopatología e inmunofluorescencia directa e indirecta positivas), por lo que confirmamos el diagnóstico de pénfigo paraneoplásico.
+
+Diagnóstico
+Pénfigo paraneoplásico/síndrome multiorgánico autoinmune paraneoplásico en el contexto de una mastocitosis sistémica.
+
+Tratamiento
+Corticoterapia intravenosa 60 mg/día (1,3 mg/kg/ día) con buena respuesta, por lo que se dio de alta y se pasó a tratamiento por vía oral, añadiéndose azatioprina para ir reduciendo de forma progresiva la dosis de corticoides, pero la paciente volvió a empeorar, tanto a nivel cutáneo como de su estado general, por lo que reingresó e iniciamos terapia con infusiones de rituximab 375 mg/m2.
+
+Evolución
+A pesar de este tratamiento evolucionó mal, desarrollando una pancitopenia, cuyo origen no pudimos dilucidar (secundaria a inmunosupresores vs mastocitosis) ya que la paciente falleció precozmente en los primeros días del reingreso.

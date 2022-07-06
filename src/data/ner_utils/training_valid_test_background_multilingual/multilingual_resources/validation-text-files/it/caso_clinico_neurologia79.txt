@@ -1,0 +1,25 @@
+Anamnesi
+Uomo di 74 anni, fumatore fin da giovane, con una storia di AHT, LBP e iperuricemia, per la quale stava prendendo enalapril 10 mg/12 h, manidipina 10 mg/24 h, colchicina 1 comp./24 h, allopurinolo 100 mg/24 h e atorvastatina 40 mg/24 h. Non aveva interventi chirurgici precedenti e aveva una storia di iperuricemia. Nessun intervento precedente e condizioni di base eccellenti. È stato portato al pronto soccorso da sua figlia, che ha riferito che da 3-4 settimane mostrava alterazioni comportamentali (irritabilità, umore depresso, labilità emotiva, così come una diminuzione della sua attività abituale), ipossia, linguaggio impoverito e mancanza di spontaneità, domande ripetitive sulle azioni quotidiane e "dimenticanza" della sua abitudine al fumo. Inoltre, disorientamento nel tempo, soprattutto la sera, e difficoltà a riconoscere i membri della famiglia. Era iniziato anche un tremore intenzionale nella mano destra, insieme alla flessione del gomito e della mano destra, inizialmente intermittente, poi fisso, associato a movimenti clonici aritmici. Inoltre, instabilità dell'andatura con tendenza alla latero- e retropulsione, passi corti, frequenti blocchi e rigidità del tronco che erano progrediti fino a quando quella stessa mattina si è completamente bloccato mentre andava in bagno. Nelle ultime 48 ore aveva presentato tre episodi di incontinenza urinaria. La famiglia ha collegato l'inizio dei sintomi alla notizia della grave malattia di un fratello. Nessun altro membro della famiglia aveva presentato sintomi simili.
+
+Esame fisico
+Esame generale: pressione sanguigna 154/90 mmHg, frequenza cardiaca 61 bpm, temperatura 37,1 oC. Le condizioni generali erano discrete. Eupneico. Colore normale e profondità normale. Ben idratato e nutrito. Nessuna modifica nell'esame generale.
+Esame neurologico: cosciente, disattento nella forma, intensa distraibilità, parzialmente cooperativo. Comportamentalmente inadeguato: risate immotivate. Linguaggio rado e ripetitivo, contenuto coerente il più delle volte. Blocco del linguaggio, disnomia moderata, ripete adeguatamente, obbedisce parzialmente a comandi semplici, non obbedisce a comandi complessi. Orientato personalmente, disorientato nel tempo e nello spazio. Memoria anterograda alterata e capacità di apprendimento. Memoria retrograda conservata. Riflesso palmomentale o riflesso di presa non presente. Nervi cranici: normali tranne il mioclono mandibolare. Motore: mioclono innescato dal movimento e dalla stimolazione tattile in MMSS e MMII, prevalentemente in MSD, aritmico. Aumento del tono nel DMS senza evidente paresi alle estremità, dubbia ruota dentata. MID in posizione distonica con flessione dorsale e infraversione del piede. ROT presente, simmetrico ++/++++, RCP flessore bilaterale. Sensibilità: nessuna alterazione grossolana. Cervelletto: grave atassia tronca. Andatura: aumento della base d'appoggio, incapacità di deambulare autonomamente con tendenza alla retropulsione.
+
+Test complementari
+- Biochimica, emogramma senza alterazioni rilevanti tranne CRP 15 mg/dl senza leucocitosi e VES 120 mm. Gli ormoni tiroidei, la vitamina B12, l'omocisteina e l'acido folico erano normali.
+- Marcatori tumorali: PSA 7,83 ng/ml (PSA libero 1,76), Ca19,9, CEA, Ca 125 ed enolasi normali.
+- CSF: pressione di apertura 17 cm H2O. Leucociti e globuli rossi 0 cellule/mm3, glucosio 103 mg/dl, proteine 0,31 g/l. Cultura sterile, gram e VDRL e citologia negativi. Proteina 14.3.3: positiva.
+- Radiografia del torace senza alterazioni.
+- ECG: seno a 90 bpm.
+- TAC: malattia dei piccoli vasi e cambiamenti involutivi dipendenti dall'età.
+- RM cranica: in diffusione c'è restrizione corticale dell'emisfero sinistro, prevalentemente occipitale, insulare e frontale superiore; e corticale frontale destra e nella testa del caudato e porzione anteriore del putamen sinistro. Nessun correlato in T1 e T2. Malattia ischemica cronica dei piccoli vasi II. Atrofia globale con predominanza sopratentoriale.
+- EEG: rallentamento diffuso dell'attività, anche se modificabile con la stimolazione, e onde acute intervallate di morfologia trifasica e distribuzione generalizzata, senza chiara periodicità.
+
+Diagnosi
+Malattia di Creutzfeldt-Jakob sporadica.
+
+Trattamento
+Sintomatico per il mioclono con clonazepam.
+
+Evoluzione
+A 48 ore, l'esame era sostanzialmente alterato, con sonnolenza marcata, rispondendo alla chiamata con apertura degli occhi, ma non rispondendo a comandi semplici o complessi. Pochissimo linguaggio, impoverito e ripetitivo, emettendo solo monosillabi. Nessun cambiamento nel resto. L'EEG è stato poi ripetuto, che ha mostrato, oltre al rallentamento di base, la comparsa di un'attività trifasica periodica generalizzata. Nel corso delle 3 settimane successive, il paziente si è progressivamente deteriorato, a cui si è aggiunta la febbre che non rispondeva al trattamento antibiotico, insieme al deterioramento della funzione renale e a varie alterazioni analitiche. La sua famiglia decise di limitare lo sforzo terapeutico, data la prognosi del paziente, che morì 3 mesi dopo l'inizio della malattia.

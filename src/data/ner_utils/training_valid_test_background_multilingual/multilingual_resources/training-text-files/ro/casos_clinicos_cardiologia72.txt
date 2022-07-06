@@ -1,0 +1,34 @@
+ISTORICUL, BOALA ACTUALĂ ȘI EXAMENUL FIZIC
+Obiectiv: interpretarea ECG-ului și a contextului clinic este esențială pentru diagnosticul și tratamentul ulterior.
+O femeie în vârstă de 31 de ani, primigravidă de 33 de săptămâni, a fost transferată la Departamentul de Cardiologie al Spitalului Central de Asturias din cauza unor amețeli, palpitații și alterări electrocardiografice.
+AP: Alergie la diclofenac și naproxen. Lucrează într-un supermarket.
+Factori de risc cardiovascular
+Fără obiceiuri toxice.
+Fără hipertensiune arterială, dislipidemie mixtă (în prezent externată de endocrinolog, tratată cu simvastatină și fenofibrat, fără urmărire).
+Diabet gestațional tratat cu insulină Lispro 25/75: 12 unități dimineața, 10 unități seara.
+Fără antecedente cardiologice anterioare.
+Steatoză hepatică. Hernia de disc.
+Operația de reducere a sânilor.
+
+Boala actuală
+Pacienta s-a prezentat la spitalul de referință din cauza unor amețeli de 24 de ore legate de statul în picioare. Simptomele se ameliorează odată cu decubitul. Nu există durere toracică sau dispnee. Episoade ocazionale de palpitații. Pacientul a raportat simptome catarale cu câteva zile înainte. S-a efectuat ECG și a fost descrisă ca tahicardie cu QRS larg la 180 bpm. Au fost efectuate manevre vagale, dar au fost ineficiente și au fost prescrise 6 și 12 mg de adenozină, fără niciun răspuns, așa că a fost trimis la centrul nostru. Nu avem ECG-ul de bază al pacientului. La sosirea la centrul nostru, pacientul era asimptomatic și stabil hemodinamic.
+
+Examinarea fizică
+TA: 110/75 mmHg.
+FC: 188 bpm.
+O2 Sat: 98% fără oxigenoterapie. Conștient, orientat, cooperant. Nu este hidratat și are o culoare normală.
+AP: murmur vezicular conservat, fără alte zgomote suprapuse.
+AC: zgomote cardiace ritmice cu SS III/IV mitrale cu S2 normal.
+Abdomen: gravidă în 33 de săptămâni. Cicatrice pe sâni.
+MMII: fără edem, fără semne de TVP.
+
+
+TESTE COMPLEMENTARE
+Hemoleucograma: Hb 12,5g/dl, MCV 82,6 fL, leucocite12500 uL (formula normală), trombocite 239000 uL. Biochimie: glucoză 125mg/dl, uree 17 mg/dl, creatinină 0,61 mg/dl, sodiu 135 mg/dl, CK 56 U/L, troponină T 33 ng/L. Coagulare: PT 87%, INR 1,09, fibrinogen 686, D-dimer 1187 ng/ml. ECG Ecocardiografie transtoracică: studiu efectuat la 160 bpm. LV non-dilatat, nehipertrofic, hipercontractil, fără modificări ale contractilității regionale. FEVS păstrată, fără dilatare a camerelor drepte. Insuficiență mitrală moderată.
+
+EVOLUȚIE
+Admiterea în Unitatea de îngrijire cardiacă avansată pentru monitorizare și tratament. Manevrele vagale și adenozina 6 și 12 mg au fost repetate, ambele fără succes. A fost prescris atenolol IV 4mg, fără răspuns, așa că s-a decis cardioversia electrică (ECV). Cazul a fost discutat cu departamentele de ginecologie și anestezie și au fost efectuate două ECV (100 și 200J) sub sedare maternă cu propofol și monitorizare fetală, ambele fără succes. În niciun moment nu s-a observat suferință fetală. Pacientul a rămas asimptomatic în permanență și stabil hemodinamic. Monitorizarea a arătat o tahicardie persistentă cu QRS larg (aceeași morfologie ca pe ECG-ul de sosire) la frecvențe similare (170-190 bpm). Având în vedere persistența aritmiei, s-a decis începerea tratamentului cu o perfuzie de beta-blocante (labetalol la 20 ml/h) și o fiolă de 0,5 mg de digoxină intravenoasă. Ritmul tahicardiei a fost redus inițial la aproximativ 150 bpm, cu prezența progresiv mai frecventă a bătăilor sinusale intercalate cu aritmia, urmată de trigeminy (vizualizare pe înregistrarea telemetrică). Câteva ore mai târziu, a fost observat un ritm sinusal, dar extrasistolele ventriculare izolate au persistat. La 12 ore de la începerea perfuziei, după câteva ore în ritm sinusal stabil, perfuzia cu beta-blocante a fost întreruptă, iar ECG-ul pacientului a fost cel prezentat în figura 2. Pacientul a raportat doar simptome de reflux gastro-esofagian, pentru care a fost prescrisă ranitindină pe cale orală, dacă era necesar. După alte 8 ore de monitorizare cu ritm sinusal persistent, a fost transferată în secția de cardiologie și s-a repetat TET.
+Pacienta a rămas internată încă 48 de ore și după ce s-a constatat că nu există complicații ginecologice și că a rămas asimptomatică, cu o înregistrare ECG în ritm sinusal fără modificări, s-a decis externarea cu tratament profilactic cu metropolol în așteptarea consultului ambulatoriu cu secția de aritmii a centrului nostru. La departamentul de ginecologie nu s-a constatat nicio complicație legată de sarcină, așa că s-a decis să o monitorizeze în ambulatoriu, așa cum era prevăzut.
+
+DIAGNOSTIC
+Aceasta trebuie rezolvată de către concurent prin interpretarea ECG-ului.

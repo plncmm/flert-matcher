@@ -1,0 +1,28 @@
+Anamnesis
+Mujer de 81 años de edad, sin alergias medicamentosas con antecedentes personales de hipertensión arterial, diabetes mellitus, fibrilación auricular paroxística, estenosis de canal lumbar y prótesis de cadera derecha. A principios de octubre de 2010 comienza con clínica de disnea de moderados esfuerzos que había empeorado de forma progresiva y se acompañada de dolor torácico, motivo por el cual acudió al Servicio de Urgencias.
+
+Exploración física
+Tensión arterial 109/82 mm Hg; frecuencia cardíaca 95 lpm; saturación de oxígeno 98%. Consciente, orientada y colaboradora. Palidez de piel y mucosas. No presenta ingurgitación venosa yugular. Auscultación cardíaca: tonos apagados sin soplos. Auscultación pulmonar: murmullo vesicular conservado. Abdomen: blando, depresible, no doloroso a la palpación. Extremidades inferiores: sin edemas ni signos de trombosis venosa profunda.
+
+Pruebas complementarias
+• Radiografía de tórax (5 de octubre de 2010): agrandamiento de la silueta cardio-pericárdica.
+• Ecocardiograma: derrame pericárdico severo con fibrina y organizado. Masa en la aurícula derecha que ocupa toda su cavidad.
+• Ecocardiograma tras pericardiocentesis: se observa una masa adherida a la aurícula derecha de hasta 6 cm de diámetro que produce compresión. Presencia de derrame pericárdico ligero.
+• Citología del líquido pericárdico: hematíes 2.800.000/mm3; células nucleadas 16640/mm3; polimorfonucleares 15%; mononucleares 85%; proteínas totales 5,6 g/dl; glucosa 118 mg/dl; LDH 5,42 UI/l.
+• Resonancia magnética cardíaca (19 de octubre de 2010): presencia de una masa de al menos 7 x 5 cm de diámetro máximo, de señal mixta en T1 y T2, con realce heterogéneo tras la administración de contraste paramagnético. Engloba pericardio, gran parte de la aurícula derecha y probablemente la base del ventrículo, asociando engrosamiento pericárdico difuso, y que se extiende hasta la cara inferior del corazón. Derrame pericárdico moderado/severo y derrame pleural bilateral de pequeña cuantía.
+• Analítica (10 de octubre de 2010): glucosa 180 mg/dl; urea 48 mg/dl; ácido úrico 6.2 mg/dl; albúmina 3,4 g/dl; proteínas totales 6 g/dl; Na 129 mmol/l; GGT 97 UI/l; FA 359 UI/l; LDH 359 UI/l; hemoglobina 10,5 g/dl.
+• Serologías: negativa para hepatitis B, hepatitis C, VIH y Epstein-Barr.
+• Anatomía patológica del líquido pericárdico (18 de octubre de 2010): compatible inmunohistoquímicamente con linfoma B de célula grande. Positiva para CD20.
+• Tomografía computarizada cervicotoracoabdominopélvica (25 de octubre de 2010): presencia de masa parietal cardíaca con invasión pericárdica, englobando coronaria derecha y presentando densidad heterogénea. Cavidades derechas comprimidas. Engrosamiento nodular pericárdico y derrame de moderada cuantía. Se descarta afectación a distancia.
+
+Diagnóstico
+Linfoma cardíaco primario no Hodgkin B de célula grande.
+
+Tratamiento
+Una vez obtenido el diagnóstico de linfoma cardíaco primario y estando la paciente hemodinámicamente estable se decidió iniciar tratamiento con R-COMP (rituximab a 375 mg/m2, ciclofosfamida a 750 mg/m2, myocet 50 mg/m2, vincristina 1.4 mg/m2 (máximo 2 mg/día), prednisona 50 mg cada 12 horas durante cinco días; cada tres semanas). Recibió un total de tres ciclos desde noviembre de 2010 hasta enero de 2011. Como toxicidad secundaria al tratamiento, presentó astenia, anorexia y disgeusia.
+
+Evolución
+Los estudios de reevaluación de la enfermedad tras tres ciclos de tratamiento evidenciaron respuesta parcial radiológica:
+• Tomografía computarizada cervicotoracoabdominopélvica (13 de enero de 2011): resolución del derrame pleural derecho. Disminución significativa de la nodulación y engrosamiento pericárdico.
+• Resonancia magnética cardíaca (19 de enero de 2011): reducción en el tamaño de la masa cardio- pericárdica localizada a nivel de aurícula derecha, midiendo aproximadamente 4 x 1,7 cm de ejes máximos en el plano axial; sigue infiltrando (aunque en menor grado) la aurícula derecha y probablemente la base del ventrículo/válvula tricúspide. No se demuestra engrosamiento pericárdico en el momento actual.
+• Ecocardiograma: FEVI 50%. Derrame pericárdico ligero (9 mm) con fibrina, sin datos de taponamiento. A finales de enero de 2011 es ingresada en la planta de Oncología por neutropenia grado 4 e infección respiratoria. Se instauró tratamiento antibiótico de amplio espectro y de soporte con mejoría clínica progresiva hasta el alta hospitalaria. Se retrasó el tratamiento quimioterápico programado. Días después del alta hospitalaria, comienza con clínica de fallo cardíaco incipiente que impide la administración del tratamiento y obliga a un nuevo ingreso. Pese a las medidas terapéuticas aportadas, la paciente empeora de forma progresiva hasta que fallece a los pocos días.

@@ -1,0 +1,25 @@
+Anamnesis
+Mujer de 47 años que consultó por cefalea holocraneal pulsátil progresiva de cuatro meses de evolución y visión borrosa.
+Antecedentes personales: hipertensión arterial, colesteatoma en el oído derecho y síndrome ansioso en tratamiento con benzodiacepinas. La paciente refería un dolor "por toda la cabeza" que había ido en aumento de forma progresiva en las últimas semanas. Se caracterizaba por un claro empeoramiento al pasar de decúbito a sedestación, cediendo posteriormente de forma espontánea. En ocasiones le despertaba por la noche. Asociaba además desde hacía 15 días acúfenos pulsátiles sin especificar el lado, episodios de oscurecimiento visual transitorio de minutos de duración y fotopsias al levantarse de la cama. No presentaba síntomas de enfermedad sistémica, neoplasias conocidas ni anorexia o adelgazamiento. No deterioro cognitivo, cambio de conducta, traumatismo craneoencefálico ni fiebre. Mantenía buen control de esfínteres.
+
+Exploración física
+La exploración física general y neurológica no reveló focalidad alguna. No presentaba signos de radiculopatía o espasticidad. El examen oftalmológico mostró papiledema bilateral, por lo que ingresó en Neurología para su estudio con sospecha de trombosis de senos venosos.
+
+Pruebas complementarias
+• Analítica completa con velocidad de sedimentación globular y hormonas tiroideas: normal.
+• Radiografía de tórax y electrocardiograma realizados a su ingreso: normales.
+• También fue normal la serología para virus del grupo herpes, virus hepatotropos, virus de la inmunodeficiencia humana, sífilis, Borrelia y Brucella.
+• En la tomografía computarizada (TC) cerebral se apreció como única anomalía un aumento de la talla de todo el sistema ventricular, con disminución de los surcos corticales.
+• La resonancia magnética cerebral con fase venosa confirmó los hallazgos previos sin mostrar ninguna otra alteración, por lo que quedó descartada la primera sospecha diagnóstica.
+• Se decidió entonces la realización de una punción lumbar para proseguir el estudio, que presentó, para nuestra sorpresa, grandes dificultades, pues aunque el líquido cefalorraquídeo (LCR) comenzó a fluir a una presión adecuada (15 cm H2O), a los pocos minutos dejó de salir. El material que se extrajo era de una gran densidad y coagulaba a temperatura ambiente. El aspecto era xantocrómico-gelatinoso, destacando en el citobioquímico urgente una hiperproteinorraquia de 539 mg/dl, con resto de valores normales: glucorraquia 92 mg/dl (glucemia 154 mg/dl), 0 células/μl, ADA 1,4).
+• Ante estos resultados, se sospechó una lesión a nivel del lugar de extracción del LCR, realizándose una resonancia de raquis completo que mostró efectivamente una masa tumoral extramedular intradural en cola de caballo, con un tamaño aproximado de 4 x 1,2 x 2,2 cm. Dicha lesión ocupaba la totalidad del canal espinal a nivel de L3 con señal intermedia en T1, intermedia a hiperintensa en T2, e intenso realce de gadolinio intravenoso. Resonancia magnética ponderada en secuencias T2 que muestra una lesión ocupante de espacio a nivel de L3, con hiperintensidad caudal a la misma en cola de caballo. No contenía imágenes que sugirieran la presencia de hemorragia o mucina, así como tampoco anillo de hemosiderina.
+
+
+Diagnóstico
+Síndrome de Froin y papiledema como primera manifestación de un tumor espinal
+
+Tratamiento
+Se procedió a tratamiento con dexametasona 8 mg cada 6 h y manitol 20% 125 cc/12 h i.v. durante 48 horas, con posterior intervención quirúrgica de forma programada y con control neurofisiológico intraoperatorio, en la que se apreció una masa de elevada densidad englobando varias raíces de la cola de caballo. La exéresis fue subtotal por imposibilidad de disecar el tumor sin dañar las raíces nerviosas. El examen histológico reveló el diagnóstico de ependimoma mixopapilar.
+
+Evolución
+Actualmente, la paciente ha quedado asintomática de su cefalea con resolución completa del papiledema, resaltando únicamente a la exploración una debilidad 4+/5 del miembro inferior derecho con reflejos miotáticos vivos.

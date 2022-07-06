@@ -1,0 +1,33 @@
+Anamneză
+Femeie în vârstă de 50 de ani, diagnosticată recent cu carcinom ductal infiltrativ al sânului stâng, local avansat (cT2N2M0), cu receptori hormonali negativi, HER2 negativ, indice de proliferare 70% și grad nuclear III, în așteptarea tratamentului. Nu există alte antecedente de interes. Nu există alergii la medicamente sau tratament obișnuit.
+
+Pacientul s-a prezentat la serviciul de urgență cu un istoric de 10 zile de stare generală de rău, slăbiciune musculară și apariția unor leziuni cutanate.
+
+Ea a raportat slăbiciune musculară în regiunea proximală a membrelor superioare și, ulterior, și la nivelul membrelor inferioare, cu limitare funcțională semnificativă (incapacitatea de a-și ridica brațele pentru a se pieptăna sau a urca scările), împreună cu astenie intensă. Afecțiunea a fost asociată cu apariția unor leziuni papuloase eritematoase pe față, cu diseminare ulterioară în regiunea decolteului și pe partea dorsală a mâinii drepte. Ea nu a prezentat febră sau alte simptome de origine probabilă infecțioasă.
+
+Examinarea fizică
+Stabil din punct de vedere hemodinamic. Afebril. Examenul fizic a evidențiat o tumoră dură, eritematoasă, pe sânul stâng, cu un diametru de aproximativ 4 cm. Limitarea forței mușchilor proximali ai membrelor superioare (III-IV/V) și ai membrelor inferioare (IV/V). Pielea prezenta leziuni descuamative eritemato-violacee în regiunile perioculare, fronto-cilară și nasolabială și leziuni eritemato-decamative pe decolteu și pe partea dorsală a metacarpofalangelor mâinii drepte. Nu au existat leziuni ale unghiilor.
+
+Teste complementare
+Pacientul a fost internat în secția de reumatologie, unde au fost efectuate următoarele teste:
+"Studiu de autoimunitate: imunoglobuline normale. Factorul reumatoid este negativ. Anti-CCP negativ. C4 și C3 normale. ENA, ANA, ANOE, ANCA, a-DNA, anti-B2GP și anticardiolipină: negativ.
+"Serologie: HIV, VHC, VHB negativ. EBV IgG pozitiv. CMV IgG pozitiv (HBV anti-core pozitiv. AgHBbs negativ. AcHBs negativ).
+"Markerii tumorali: CEA și Ca 15.3 nu sunt crescuți.
+"CT toracic-abdomino-pelvic: masă heterogenă mixtă, de aproximativ 4 cm, în cadranele interne ale sânului stâng. Adenopatie axilară stângă sugestivă de malignitate.
+Nu există constatări patologice la nivel pulmonar, abdominal sau pelvin.
+"Ecocardiografie transtoracică: fără constatări patologice.
+"Electromiografie: denervare minimă a mușchiului deltoid drept, compatibilă cu activitatea inflamatorie.
+"Biopsie cutanată din regiunea decolteului: dermatită lichenoidă perianexial și perivasculară superficială și perivasculară profundă, compatibilă cu dermatomiozita.
+"Biopsia mușchiului deltoidian: mușchi scheletic cu numeroase fibre musculare necrotice în diferite stadii de dezvoltare. Se observă, de asemenea, fibre musculare în curs de regenerare și celule inflamatorii mononucleare izolate. Imunohistochimia (IHC) cu anticorp împotriva antigenului de histocompatibilitate de tip 1 arată o imunomarcație la periferia unor fibre. Modificările sunt compatibile cu o miopatie inflamatorie.
+
+Diagnostic
+Dermatomiozita paraneoplazică.
+
+Tratament
+Tratamentul a fost început cu doze mari de corticosteroizi, prednison 60 mg pe zi, cu o oarecare ameliorare a simptomelor. Având în vedere posibilitatea ridicată ca simptomele să corespundă dermatomiozitei paraneoplazice, s-a decis începerea unui tratament neoadjuvant specific pentru boala sa oncologică cu paclitaxel 80 mg/m2 și carboplatin AUC6 în timpul internării.
+
+Evoluție
+Având în vedere stabilitatea sa clinică, pacienta a fost externată pentru continuarea tratamentului ambulatoriu la secția de Oncologie Medicală, unde a fost tratată cu 12 cicluri de carboplatin AUC6 și paclitaxel 80 mg/m2, urmate de patru cicluri de doxorubucin 60 mg/m2 și ciclofosfamidă 600 mg/m2, cu o toleranță excelentă și rezolvarea completă a simptomelor paraneoplazice. Valorile CK s-au normalizat la două săptămâni după începerea tratamentului cu corticosteroizi și chimioterapie.
+
+RMN-ul mamar, efectuat după terminarea tratamentului neoadjuvant, arată un răspuns parțial major, cu o tumoră de 11 mm și o mică limfadenopatie axilară stângă reziduală.
+În prezent, pacienta așteaptă o intervenție chirurgicală pentru tumora mamară.

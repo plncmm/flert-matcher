@@ -1,0 +1,25 @@
+Anamnesis
+Varón de 39 años, que consultó por presentar cuatro episodios de visión doble junto con cefalea hemicraneal muy intensa, pulsátil, con náuseas, vómitos y sensación de dificultad para articular el lenguaje. Los cuadros le obligaban a acostarse a oscuras en silencio, cedían en unas horas (generalmente tras el sueño), sin haber durado nunca más de 24 horas. Cuando consultó estaba asintomático. No tenía hábitos tóxicos ni antecedentes personales de factores de riesgo vascular ni de otro tipo. Como antecedentes familiares destacan: madre y abuela materna con deterioro cognitivo en torno a los 50 años, y padre con leucemia. Cirugías: peritonitis. Tratamiento: no de forma habitual.
+
+Exploración física
+Exploración general normal. Exploración neurológica: dificultad en la atención mantenida. Reflejos de liberación frontal presentes, sobre todo palmomentoniano (++). El resto del examen neurológico no mostró alteraciones.
+
+Pruebas complementarias
+• Hemograma: hematíes 5.260.000, hemoglobina 15,9 g/dl, hematocrito 46,5%, leucocitos 6.960 (neutrófilos 51,9% y linfocitos 38,2%), plaquetas 258.000.
+• Bioquímica, coagulación, metabolismo del hierro, perfil lipídico y tiroideo dentro de la normalidad. • Autoinmunidad y trombofilia: normales.
+• Electrocardiograma: ritmo sinusal a 70 lpm; ÂQRS 60o, sin alteraciones de la repolarización.
+• Radiografía de tórax: normal.
+• Tomografía computarizada (TC) craneal: leucomalacia e hipodensidades sugerentes de infartos lacunares no concordantes con la edad del paciente.
+• Holter de frecuencia cardiaca: ritmo sinusal, sin evidenciarse arritmias.
+• Doppler de troncos supraaórticos: ambos ejes carotídeos se evidencian permeables, sin identificarse placas de ateromas. Ambas vertebrales permeables.
+• Ecocardiograma con test de burbujas: normal.
+• Resonancia magnética (RM) cerebral con gadolinio: lesiones confluentes de la sustancia blanca periventricular y subcorticales que por distribución y morfología parecen de etiología vascular.
+• Angio-RM cerebral y polígono deWillis: normal.
+• Biopsia cutánea (axilar): se estudian cuatro vasos que han demostrado ocasionales depósitos extracelulares, densos y granulares semejantes a los descritos en CADASIL.
+• Estudio molecular (secuenciación del exón 3 y 4 del gen NOTCH3): cambio de citosina por tiamina en la posición 328 del cDNA que da lugar a un cambio aminoacídico de arginina por cisteína en la posición 110. Resultado positivo para síndrome de arteriopatía cerebral autosómica dominante con infartos subcorticales y leucoencefalopatía (CADASIL).
+
+Tratamiento y evolución
+El paciente no volvió a presentar ningún episodio. Ante la presencia de una migraña con características atípicas, neuroimagen de una leucoencefalopatía difusa e infartos lacunares, en ausencia de factores de riesgo vascular y en presencia de antecedentes familiares de deterioro cognitivo de inicio precoz, orientamos nuestro diagnóstico hacia la enfermedad de CADASIL. No obstante, se revisaron otras posibles etiologías de enfermedad vascular cerebral. Dado que el CADASIL es el más frecuente de los trastornos de pequeño vaso de carácter hereditario y clínicamente era compatible, se realizaron una biopsia cutánea y un estudio genético para llegar al diagnóstico.
+
+Diagnóstico
+Enfermedad de CADASIL.

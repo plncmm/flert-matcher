@@ -1,0 +1,28 @@
+Anamnesis
+A 50-year-old woman from Senegal who had been living in Spain for 9 years, but had travelled frequently to her country, was admitted to the Internal Medicine Department for the study of weakness and pain in the lower limbs (MMII), which had been progressively worsening for two months, until it became completely disabling and led to several falls from her height. In the last year, he had had: erosive gastritis with gastric ulcers associated with Helicobacter pylori; migratory polyarthralgias of large joints without frank arthritis; two episodes of anterior uveitis of the right eye assessed by Ophthalmology; onset of diabetes mellitus with poor metabolic control in treatment with oral antidiabetics; hypertransaminasemia and increased cholestasis enzymes. He also had a history of normofunctioning multinodular goitre pending thyroidectomy. In recent months (unspecified), she reported a 7-8 kg weight loss associated with asthenia, but not hyporexia, without associated fever or night sweats.
+
+Physical examination
+The general condition was poor, with prostration due to pain in the lower limbs.
+In terms of vital signs, she was normotensive, with a heart rate of 85 bpm, fever of 37.6 o C, basal oxygen saturation of 97%.
+Physical examination revealed a goitre predominantly in the right lobe, with no associated pain. There was no palpable liver or splenomegaly or lymphadenopathy in the accessible chains.
+The neurological examination performed by Neurology showed hyperalgesia in both lower limbs with apalaesthesia in the forefoot (absence of vibratory sensitivity) and tremor in the lower limbs with gait disturbance associated with a diagnosis of distal symmetrical sensory neuropathy, with predominantly fine fibre involvement.
+The skin examination revealed the presence of two symmetrical plaques on the dorsum of both feet, with a shiny smooth surface, not indurated to the touch and dark brown in contrast to the surrounding skin (patient of phototype VI).
+
+Complementary examinations
+For the diagnosis, blood and coagulation tests were normal, biochemistry showed angiotensin-converting enzyme (ACE) levels of 171 IU/l (8-52), negative autoantibodies and negative rheumatoid factor.
+As for microbiological tests, Mantoux test and QuantiFeron TB were positive, as well as serology for hepatitis B virus infection (inactive carrier). All other serologies were negative. Bronchoalveolar lavage did not identify any bacilli.
+Chest X-ray showed mediastinal enlargement and contrast-enhanced chest CT scan revealed multiple clavicular and mediastinal adenopathies, as well as a patchy ground-glass infiltrate predominantly subpleural.
+The neurophysiological study of MMII showed signs of mixed axonal and demyelinating, sensory-motor polyneuropathy of significant degree.
+
+In addition, histological samples were taken from a paratracheal adenopathy and one of the cutaneous plaques. The puncture of the adenopathy showed aggregates of epithelioid histiocytes and a polymorphous lymphoid population, without finding acid-fast bacilli, compatible with granulomatous lymphadenitis.
+Skin biopsy showed several small, well-demarcated granulomas in the dermis consisting of large histiocytes with multinucleated giant cells, distributed in a patchy pattern and with little surrounding infiltrate. There was no necrosis and Ziehl-Neelsen staining was negative.
+
+Diagnosis
+Systemic sarcoidosis in a patient with latent tuberculosis infection.
+
+Treatment
+Treatment was started with prednisone 40 mg/day with progressive improvement of the clinical picture. In addition, tuberculostatic treatment and antiviral treatment with entecavir was started.
+
+Evolution
+After one week of systemic corticosteroid treatment, the clinical course was clinically favourable, with improvement in general malaise and neuropathy and disappearance of the febrile fever, which allowed the patient to be discharged for outpatient follow-up.
+The skin lesions had resolved within a month of treatment.

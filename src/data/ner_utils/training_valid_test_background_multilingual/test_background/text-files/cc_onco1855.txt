@@ -1,0 +1,26 @@
+ANAMNESIS
+Varón de 55 años, con hábito tabáquico (IT 45 paquetes/año) y enólico (60 gr/día, cerveza) activos, sin antecedentes personales de interés, que consulta en noviembre 2016 por disnea de evolución progresiva hasta hacerse de mínimos esfuerzos junto a dolor pleurítico derecho.
+
+EXPLORACIÓN FÍSICA
+Performance status (PS) de 1. Destaca respiración superficial con taquipnea de reposo (23 rpm/min) y abolición de murmullo vesicular hasta ápex derecho en la auscultación cardiopulmonar. Resto de la exploración física rigurosamente normal.
+
+PRUEBAS COMPLEMENTARIAS
+1. Radiografía de tórax: Velamiento completo de hemitórax derecho, sin desplazamiento mediastínico.
+2. Tomografía computerizada (TC) de tórax-abdomen: Derrame pleural derecho circunferencial con engrosamiento de pleura mediastínica, que se introduce en cisura mayor, con discreto engrosamiento de las hojas pleurales. Tractos pleuroparenquimatosos en LID con engrosamiento de septos lineal, así como nodulillos centrolobulillares en relación con acúmulo de secreciones secundario a la patología pleural. Foco de vidrio deslustrado en segmento posterior de LSD, con porción sólida de 13x10 mm de diámetro. Enfisema paraseptal y centrolobulillar.
+3. Toracocentesis diagnóstica: Citología pleural negativa para células neoplásicas
+4. Videotoracoscopia: Pleura parietal de aspecto inflamatorio con nódulo de 1 cm en pleura parietal posterior. Pleura visceral algo engrosada. Se realiza biopsia de pleura parietal posterior incluyendo el nódulo referido.
+5. Resultado histopatológico: Pleural parietal infiltrada por adenocarcinoma pulmonar moderadamente diferenciado.
+• TTF-1 positivo y p63 negativo.
+• EGFR wild-type
+• Negativo para reordenamiento de EML4-ALK y de ROS1
+• PD-L1 (SP142) 0% en células tumorales y < 1% en celularidad inmune intratumoral.
+
+JUICIO DIAGNÓSTICO
+Nos encontramos con el diagnóstico de adenocarcinoma de pulmón cT1N0M1a (implantes pleurales), EGFR nativo, con ausencia de reordenamiento para ALK/ROS1 y PD-L1 negativo.
+
+TRATAMIENTO
+Basándonos en las características de paciente y neoplasia (55 años, PS 1 y subtipo histológico adenocarcinoma sin posibilidad de terapia dirigida) se decidió aplicar tratamiento con quimioterapia paliativa de primera línea (1) con carboplatino y permetrexed, que inició el 29/12/2016.
+
+EVOLUCIÓN
+Tras 4 ciclos de la terapia en combinación con enfermedad estable (EE) como mejor respuesta, siguió con permetrexed de mantenimiento por un total de 8 ciclos (último el 5/06/2017) hasta que se objetivó progresión de enfermedad por crecimiento de la lesión pulmonar primaria (lesión diana –LD-) así como aparición de adenopatías retroperitoneales patológicas y aumento en número de implantes pleurales. Se realizó biopsia transtorácica, con idéntico resultado para EGFR/ALK/ROS1, y determinación central de PD-L1 (SP 263) con resultado nuevamente negativo. Se incluyó en ensayo clínico, abierto, fase 1b/2 randomizado (NCT03023423, https:// clinicaltrials.gov) donde fue aleatorizado a tratamiento con atezolizumab (antiPD-1) 1200 mg IV D1 cada 3 semanas + daratumumab (anti CD-38) 16 mg/Kg IV semanal durante 9 semanas consecutivas y posteriormente cada 3 semanas, que se inició el 2/8/2017. El paciente estaba asintomático y con PS de 0. Con evaluación radiológica cada 6 semanas (según estipula el protocolo del ensayo clínico), en la segunda evaluación, se constata crecimiento importante de la masa pulmonar considerada la LD (29% por RECIST1.1). Hasta ese momento el paciente se había mantenido asintomático, refiriendo únicamente disfagia leve a sólidos, con igual PS de 0. Se contempló la posibilidad de pseudoprogresión versus progresión real de la enfermedad, decidiendo continuar con tratamiento. El paciente siguió tratándose con el mismo esquema y se realizó nueva valoración radiológica a las 5 semanas que confirmó pseudoprogresión, constatando disminución de la LD respecto al estudio previo además de disminución respecto al control radiológico de menor medida.
+En el momento actual, sigue en curso de tratamiento, habiendo completado 9 ciclos completos de atezolizumab + daratumumab, manteniendo PS 0, con hipertiroidismo asintomático como única toxicidad recogida hasta la fecha y en la última evaluación radiológica realizada en enero de 2018, se objetivó mayor reducción de la LD respecto al TC basal (35% por RECIST1.1), por lo que se ha evaluado con Respuesta Parcial (RP).

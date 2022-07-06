@@ -1,0 +1,35 @@
+Motivo da consulta
+O genro da paciente ligou para o Centro de Saúde para pedir ao seu médico de família para vir a sua casa, pois achou-a estranha. Dois dias antes, ela tinha ido ao seu médico de cuidados primários para a dispneia e febre, onde foi feito um diagnóstico de bronquite aguda por raio-X torácico e iniciado o tratamento com antibióticos.
+
+Abordagem individual (anamnese, exame, testes complementares)
+Anamnese: a paciente é uma mulher de 84 anos, nega reacções alérgicas a medicamentos, hipertensa (que deixou de tomar medicamentos anti-hipertensivos por sua própria iniciativa), dislipidémica, AF anticoagulada com acenocumarol. Nega hábitos tóxicos. ABVD independente.
+
+Ao chegar a casa, o paciente foi encontrado obnubilado, com um baixo nível de consciência, além de desvio do canto da boca e perda de força no hemisfério esquerdo. Ela estava afebril.
+Foi decidido transferir a paciente para o Serviço de Urgência do Hospital em ambulância com assistência médica e ela foi monitorizada a todo o momento. O Código do AVC foi activado.
+À chegada ao hospital, o seu estado não tinha mudado. Contudo, durante o exame físico, o doente começou com uma febre de 38,8oC.
+
+Exame físico:
+- Estado geral regular, palidez da pele, eupneico em repouso. Febre de 38,8oC de novo. BP 156/94.
+- ACR: Arrítmico a uma boa frequência, sem murmúrios. MVC, sem sons patológicos.
+- ECG: AF a 70 bpm. Eixo normal. QRS estreito. Não há sinais de repolarização.
+- Neurológico: tendência para dormir, linguagem disartríca embora difícil de explorar. PINLA. ECMO. Deixou a hemianopsia homónima à ameaça. Tendência não forçada de olhar para a direita. Paralisia facial esquerda. Fraqueza nos membros esquerdos com tom presente embora difícil de explorar devido à falta de colaboração. Brudzinski e Kerning duvidosos.
+
+Testes complementares:
+- CBC: Leucócitos 19,19x10e9/L, Neutrófilos 17,5x 10e9/L, Linfócitos 0,8x 10e9/L, Glucose 130, Sódio 134, Creatinina 0,91, CRP 70, INR 2,08. Urina não patológica.
+- Angiografia Cranial CT e CT: sem alterações patológicas.
+- Punção lombar: 1150 células com 84% de PMN, 310 proteínas, 35,6 glicose, Gram positivo para listeria.
+
+Abordagem familiar e comunitária
+Paciente idoso que vivia sozinho, até este ponto era ABVD. Bom apoio familiar. Nível sócio-económico médio.
+
+Julgamento clínico (lista de problemas, diagnóstico diferencial).
+
+Diagnóstico diferencial:
+- PISCINAR. Inicialmente, devido à história de hipertensão não tratada e ao exame neurológico, o diagnóstico foi orientado para um AVC. O aparecimento da febre e da angiografia normal por TC e TAC levou a uma mudança de opinião no sentido de uma doença infecciosa.
+- Meningoencefalite bacteriana. A focalidade neurológica e a febre apontavam para uma patologia infecciosa, o que foi posteriormente confirmado pela punção lombar e pelo teste de Gram.
+
+Julgamento clínico: meningoencefalite bacteriana.
+
+Plano de acção e evolução
+O paciente foi transferido para a ala de Medicina Interna. Aí foi monitorizada e foi iniciado o tratamento empírico com ceftriaxona+ampicilina+vancomicina+dexametasona iv e tratamento antipirético.
+Após iniciar o tratamento, o estado geral da paciente melhorou gradualmente e ela está actualmente saudável e sem sequelas do episódio.

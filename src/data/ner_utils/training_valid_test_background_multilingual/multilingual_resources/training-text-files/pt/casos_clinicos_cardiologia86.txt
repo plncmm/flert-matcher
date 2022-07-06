@@ -1,0 +1,19 @@
+História, doença actual e exame físico
+Paciente do sexo masculino, 54 anos de idade, com história de hipertensão arterial, tipo 2 diabetes mellitus, sem alergias conhecidas.
+Tratamento domiciliário com insulina Lantus 24 IU/24h e insulina rápida 4 IU/8h, losartan 100 mg/24h. Ela chegou ao departamento de emergência com uma sensação de dormência no membro superior direito (MSD) na noite anterior, e quando acordou não o conseguiu mover. Ele negou quaisquer outros sintomas. Consciente, orientado, alerta. Linguagem normal. MOE normal. Nervos cranianos normais. Paresia em MSD 3/5 e ligeira hipoestesia. Tons cardíacos rítmicos sem murmúrios. MV preservado sem ruídos adicionais. Sem edema nos membros inferiores. Descansar normalmente.
+
+Testes complementares
+Hemograma: hemograma normal, coagulação normal. Bioquímica com G 123 mg/dl, Cr 1 mg/dl. Colesterol 192 mg/dl, LDL 133 mg/dl, TG 97 mg/dl. Descansar normalmente.
+ECG: ritmo sinusal a 54 bpm, eixo normal, sem alterações de repolarização.
+TAC cranial: lesão isquémica na porção mais posterior do lobo parietal esquerdo. Há outra imagem hipodensa de morfologia triangular no lobo frontal esquerdo sugerindo lesão isquémica. Nenhuma outra descoberta relevante.
+TSA echo-Doppler: onda parvus tardus ao nível do ICA em discordância com o que foi visto no modo B e cor, que pode estar relacionado com estenose, pelo que se recomenda a angio-RM.
+Angio-Ressonância magnética de TSA: não se observam dados significativos de estenose nas lâmpadas carótidas ou nas artérias carótidas internas ou externas de ambos os lados. As artérias basilares e vertebrais são patentes.
+Ressonância magnética cerebral: várias lesões no território do MCA esquerdo com restrição de difusão, correspondentes a lesões isquémicas agudas de provável origem embólica.
+Ecocardiograma transtorácico: aI 35,9 mm e Ao 32 mm. Função sistólica preservada do LV com LVEF de 64%. Enchimento ventricular com padrão de relaxamento alterado. LVH suave. O FSS intravenoso periférico foi injectado e não foram observadas bolhas a passar pelo septo interatrial sugestivo de PFO.
+
+Evolução clínica
+O paciente recuperou a força muscular, mas apresentou uma ligeira hipoestesia no braço direito. Recebeu alta com um diagnóstico de enfarte cerebral parietal esquerdo e frontal de natureza incerta; em tratamento com Adiro 300 mg/24h e atorvastatina 80 mg/24h. Foi readmitida após 8 meses devido a sintomas vertiginosos, vómitos, disartria e instabilidade da marcha, bem como nistagmo horizontal à esquerda que, para além dos enfartes anteriores, mostrou uma nova lesão no TAC craniano, compatível com enfarte agudo no território PICA esquerdo. O estudo cardiológico foi normal e a ecocardiografia transesofágica (ETE) foi solicitada numa base programada. Recebeu alta com um diagnóstico de derrame isquémico criptogénico cerebelar esquerdo, e tratamento com Sintrom, suspendendo a Adiro. A ETE foi realizada e reportada como não havendo dilatação das cavidades. Desbaste do septo interatrial ao nível do forame oval sem descolamento macroscópico e sem anomalias na mobilidade, sem sinais de shunt visto com Doppler de cor. O ecocontraste foi realizado com solução coloidal agitada tanto na linha de base como após a manobra de Valsalva. A passagem precoce de microbolhas para as cavidades esquerdas foi observada após a manobra de Valsalva. O paciente permaneceu estável durante o acompanhamento, sem novos episódios cardioembólicos.
+
+Diagnóstico
+Forame oval da patente
+Acidente vascular cerebral isquémico criptogénico recorrente

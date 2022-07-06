@@ -1,0 +1,1743 @@
+filename	mark	label	offset1	offset2	span	code
+32208010_ES	T1	SPECIES	314	319	tenia	6202
+32208010_ES	T2	SPECIES	372	382	SARS-CoV-2	2697049
+32208010_ES	T3	SPECIES	401	406	tenia	6202
+32208010_ES	T4	SPECIES	605	615	SARS-CoV-2	2697049
+32208010_ES	T5	SPECIES	1032	1040	COVID-19	2697049
+32208010_ES	T6	SPECIES	1839	1849	SARS-CoV-2	2697049
+32208010_ES	T7	SPECIES	2133	2141	COVID-19	2697049
+32208010_ES	T8	SPECIES	2617	2627	SARS-CoV-2	2697049
+32208010_ES	T9	SPECIES	3091	3101	SARS-CoV-2	2697049
+32208010_ES	T10	SPECIES	3369	3379	SARS-CoV-2	2697049
+32208010_ES	T11	SPECIES	3536	3544	COVID-19	2697049
+32208010_ES	T12	SPECIES	3763	3771	COVID-19	2697049
+32208010_ES	T13	SPECIES	4028	4038	SARS-CoV-2	2697049
+32208010_ES	T14	SPECIES	4473	4483	SARS-CoV-2	2697049
+es-S1137-66272014000300017-1	T1	SPECIES	145	150	tenia	6202
+es-S1137-66272014000300017-1	T2	SPECIES	1440	1449	S. aureus	78380|98688|211046|1280|193461|411806|170984|507602
+caso_clinico_radiologia353	T1	SPECIES	1356	1377	Klebsiella pneumoniae	573
+es-S0004-06142005000700014-1	T1	SPECIES	604	612	Brucella	234
+es-S0004-06142005000700014-1	T2	SPECIES	1962	1970	Brucella	234
+es-S0004-06142005000700014-1	T3	SPECIES	2003	2011	Brucella	234
+es-S0004-06142005000700014-1	T4	SPECIES	2523	2531	Brucella	234
+caso_clinico_medicina_interna3	T1	SPECIES	824	835	de Brucella	52132
+caso_clinico_medicina_interna3	T2	SPECIES	843	846	VIH	12721
+caso_clinico_medicina_interna3	T3	SPECIES	849	852	CMV	12305|10358|36410
+caso_clinico_medicina_interna3	T4	SPECIES	864	872	Coxiella	776
+caso_clinico_medicina_interna3	T5	SPECIES	1417	1428	de Coxiella	59288
+caso_clinico_medicina_interna3	T6	SPECIES	2104	2111	virus B	10325
+caso_clinico_medtropical83	T1	SPECIES	966	969	VIH	12721
+caso_clinico_medicina_interna31	T1	SPECIES	3040	3043	HIV	12721
+caso_clinico_dermatologia45	T1	SPECIES	975	983	Anisakis	6268
+caso_clinico_dermatologia45	T2	SPECIES	1010	1018	Anisakis	6268
+caso_clinico_dermatologia45	T3	SPECIES	1678	1694	Anisakis simplex	6269
+caso_clinico_dermatologia45	T4	SPECIES	1853	1861	Anisakis	6268
+es-S1139-76322015000400012-1	T1	SPECIES	1308	1319	de Borrelia	145
+es-S1139-76322015000400012-1	T2	SPECIES	2064	2074	R. slovaca	35794
+caso_clinico_psiquiatria37	T1	SPECIES	546	550	prim	13597
+caso_clinico_psiquiatria37	T2	SPECIES	1201	1206	tenia	6202
+caso_clinico_psiquiatria37	T3	SPECIES	1255	1260	tenia	6202
+caso_clinico_psiquiatria37	T4	SPECIES	1372	1377	tenia	6202
+caso_clinico_psiquiatria37	T5	SPECIES	1414	1419	tenia	6202
+caso_clinico_psiquiatria37	T6	HUMAN	2127	2131	mans	9606
+caso_clinico_alergologia61	T1	SPECIES	101	115	vespa velutina	202808
+caso_clinico_alergologia61	T2	SPECIES	675	682	Vespula	7451
+caso_clinico_alergologia61	T3	SPECIES	923	937	vespa velutina	202808
+caso_clinico_alergologia61	T4	SPECIES	1175	1182	Vespula	7451
+32276139_C_ES	T1	SPECIES	554	564	SARS-CoV-2	2697049
+32276139_C_ES	T2	SPECIES	762	770	COVID-19	2697049
+32276139_C_ES	T3	SPECIES	911	921	SARS-CoV-2	2697049
+cc_onco670	T1	SPECIES	1265	1268	VIH	12721
+cc_onco670	T2	SPECIES	1284	1287	CMV	12305|10358|36410
+cc_onco670	T3	SPECIES	1294	1305	herpesvirus	39059
+cc_onco670	T4	SPECIES	1308	1318	parvovirus	1506574
+caso_clinico_medicina_interna715	T1	SPECIES	918	932	de Pseudomonas	306
+caso_clinico_medicina_interna715	T2	SPECIES	1456	1459	CMV	12305|10358|36410
+casos_clinicos_infecciosas60	T1	SPECIES	2168	2179	Pseudomonas	286
+casos_clinicos_infecciosas60	T2	SPECIES	2212	2223	Aspergillus	5052
+casos_clinicos_infecciosas60	T3	SPECIES	2231	2240	Mucorales	4827
+casos_clinicos_infecciosas60	T4	SPECIES	5367	5376	Mucorales	4827
+casos_clinicos_infecciosas60	T5	SPECIES	5378	5386	Rhizopus	4842
+casos_clinicos_infecciosas60	T6	SPECIES	5453	5468	Rhizopus oryzae	64495
+casos_clinicos_infecciosas60	T7	SPECIES	6122	6143	Clostridium difficile	1496
+casos_clinicos_infecciosas60	T8	SPECIES	6363	6378	Rhizopus oryzae	64495
+casos_clinicos_infecciosas60	T9	SPECIES	6427	6448	Clostridium difficile	1496
+32557532_ES	T1	SPECIES	391	401	SARS-CoV-2	2697049
+32557532_ES	T2	SPECIES	1355	1365	SARS-CoV-2	2697049
+casos_clinicos_cardiologia70	T1	SPECIES	384	387	VIH	12721
+casos_clinicos_cardiologia70	T2	SPECIES	621	624	VIH	12721
+casos_clinicos_cardiologia70	T3	SPECIES	691	694	VIH	12721
+casos_clinicos_cardiologia70	T4	SPECIES	2183	2186	VIH	12721
+casos_clinicos_cardiologia70	T5	SPECIES	2557	2560	CMV	12305|10358|36410
+casos_clinicos_cardiologia70	T6	SPECIES	2667	2670	CMV	12305|10358|36410
+casos_clinicos_cardiologia70	T7	SPECIES	3807	3810	VIH	12721
+casos_clinicos_cardiologia70	T8	SPECIES	3929	3932	VIH	12721
+caso_clinico_urgencias28	T1	SPECIES	457	464	E. coli	110766|562
+casos_clinicos_infecciosas201	T1	SPECIES	2495	2500	virus	10239
+casos_clinicos_infecciosas201	T2	SPECIES	2518	2521	VIH	12721
+casos_clinicos_infecciosas201	T3	SPECIES	3206	3211	virus	10239
+casos_clinicos_infecciosas201	T4	SPECIES	3475	3480	cocos	1869227
+casos_clinicos_infecciosas201	T5	SPECIES	4196	4210	Parvovirus B19	10798
+casos_clinicos_infecciosas201	T6	SPECIES	4271	4274	VIH	12721
+casos_clinicos_infecciosas201	T7	SPECIES	4341	4351	Toxoplasma	5810
+casos_clinicos_infecciosas201	T8	SPECIES	4357	4365	Brucella	234
+casos_clinicos_infecciosas201	T9	SPECIES	4398	4408	Mycoplasma	2093
+casos_clinicos_infecciosas201	T10	SPECIES	4414	4423	Chlamydia	810
+casos_clinicos_infecciosas201	T11	SPECIES	4461	4469	Coxiella	776
+casos_clinicos_infecciosas201	T12	SPECIES	4756	4778	Granulicatella elegans	137732
+casos_clinicos_infecciosas201	T13	SPECIES	6695	6717	Granulicatella elegans	137732
+es-S1130-01082008000200010-1	T1	SPECIES	1937	1942	virus	10239
+es-S1130-01082008000200010-1	T2	SPECIES	1969	1972	VIH	12721
+casos_clinicos_infecciosas108	T1	HUMAN	615	619	mans	9606
+casos_clinicos_infecciosas108	T2	SPECIES	1477	1482	tenia	6202
+casos_clinicos_infecciosas108	T3	SPECIES	2168	2173	tenia	6202
+casos_clinicos_infecciosas108	T4	HUMAN	2928	2932	mans	9606
+casos_clinicos_infecciosas108	T5	SPECIES	3938	3941	VIH	12721
+casos_clinicos_infecciosas108	T6	HUMAN	4665	4669	mans	9606
+casos_clinicos_infecciosas108	T7	HUMAN	4942	4946	mans	9606
+casos_clinicos_infecciosas108	T8	SPECIES	6900	6920	Sporothrix schenckii	29908
+casos_clinicos_infecciosas108	T9	SPECIES	7955	7976	Mycobacterium marinum	1781
+casos_clinicos_infecciosas108	T10	SPECIES	8213	8234	Mycobacterium marinum	1781
+casos_clinicos_infecciosas108	T11	SPECIES	8478	8486	Nocardia	1817
+casos_clinicos_infecciosas108	T12	SPECIES	8584	8592	Nocardia	1817
+casos_clinicos_infecciosas108	T13	SPECIES	9002	9022	Sporothrix schenckii	29908
+casos_clinicos_infecciosas108	T14	SPECIES	9573	9583	M. marinum	1781
+casos_clinicos_infecciosas108	T15	SPECIES	9788	9799	Francisella	262
+casos_clinicos_infecciosas108	T16	SPECIES	11902	11922	Sporothrix schenckii	29908
+casos_clinicos_infecciosas108	T17	SPECIES	12007	12027	Sporothrix schenckii	29908
+cc_onco568	T1	SPECIES	1101	1104	VIH	12721
+cc_onco568	T2	SPECIES	1130	1133	VIH	12721
+cc_onco568	T3	SPECIES	1277	1298	Entamoeba histolytica	5759
+cc_onco568	T4	SPECIES	1544	1547	VIH	12721
+cc_onco568	T5	SPECIES	2335	2340	virus	10239
+cc_onco568	T6	SPECIES	3761	3764	VIH	12721
+cc_onco568	T7	SPECIES	3773	3778	virus	10239
+cc_onco134	T1	SPECIES	492	508	Escherichia coli	562
+cc_onco134	T2	SPECIES	1417	1424	E. coli	562
+cc_onco134	T3	SPECIES	1471	1487	Candida glabrata	5478
+cc_onco134	T4	SPECIES	2867	2889	Pseudomonas aeruginosa	287
+32292053_ES	T1	SPECIES	439	444	tenia	6202
+32292053_ES	T2	SPECIES	529	537	COVID-19	2697049
+32292053_ES	T3	SPECIES	728	733	tenia	6202
+32292053_ES	T4	SPECIES	1065	1073	COVID-19	2697049
+32292053_ES	T5	SPECIES	1184	1189	tenia	6202
+32292053_ES	T6	SPECIES	3105	3110	virus	10239
+32292053_ES	T7	SPECIES	3195	3205	adenovirus	10535|10508
+32292053_ES	T8	SPECIES	3207	3212	virus	10239
+32292053_ES	T9	SPECIES	3227	3232	virus	10239
+32292053_ES	T10	SPECIES	3248	3253	virus	10239
+32292053_ES	T11	SPECIES	3311	3316	virus	10239
+32292053_ES	T12	SPECIES	4343	4353	SARS-CoV-2	2697049
+32292053_ES	T13	SPECIES	5092	5097	tenia	6202
+32292053_ES	T14	SPECIES	5267	5277	SARS-CoV-2	2697049
+32292053_ES	T15	SPECIES	5545	5555	SARS-CoV-2	2697049
+32292053_ES	T16	SPECIES	5656	5666	SARS-CoV-2	2697049
+es-S0212-16112012000600045-1	T1	SPECIES	2444	2460	Proteus vulgaris	585
+32615807C_ES	T1	SPECIES	148	156	COVID-19	2697049
+32615807C_ES	T2	SPECIES	554	559	tenia	6202
+es-S1139-76322009000700015-1	T1	SPECIES	1488	1491	CMV	12305|10358|36410
+es-S1139-76322009000700015-1	T2	SPECIES	2027	2041	parvovirus B19	10798
+caso_clinico_atencion_primaria135	T1	SPECIES	1304	1307	VIH	12721
+caso_clinico_atencion_primaria135	T2	SPECIES	1315	1326	hepatitis C	11103
+caso_clinico_atencion_primaria135	T3	SPECIES	1513	1532	Schistosoma mansoni	6183
+es-S1130-01082008000800011-1	T1	SPECIES	849	853	prim	13597
+32278585_ES	T1	SPECIES	608	616	COVID-19	2697049
+caso_clinico_medicina_interna313	T1	SPECIES	351	370	mycobacterium bovis	1765
+caso_clinico_medicina_interna313	T2	SPECIES	1015	1028	Mycobacterium	1763
+caso_clinico_medicina_interna313	T3	SPECIES	1080	1093	Mycobacterium	1763
+caso_clinico_medicina_interna313	T4	SPECIES	1512	1532	mycobacteria atípica	36531
+caso_clinico_medicina_interna313	T5	SPECIES	1910	1929	mycobacterium bovis	1765
+32417987_ES	T1	SPECIES	539	544	tenia	6202
+32417987_ES	T2	SPECIES	1530	1554	Streptococcus pneumoniae	1313
+32417987_ES	T3	SPECIES	1706	1727	Mycoplasma pneumoniae	2104
+32417987_ES	T4	SPECIES	2623	2633	SARS-CoV-2	2697049
+caso_clinico_medicina_interna883	T1	SPECIES	1474	1477	VIH	12721
+caso_clinico_medicina_interna883	T2	SPECIES	1849	1858	Chlamydia	810
+caso_clinico_medicina_interna883	T3	SPECIES	1872	1881	Neisseria	482
+caso_clinico_medicina_interna883	T4	SPECIES	1884	1895	Trichomonas	5721
+caso_clinico_medicina_interna490	T1	SPECIES	1329	1332	VIH	12721
+caso_clinico_medicina_interna490	T2	SPECIES	1335	1340	virus	10239
+caso_clinico_medicina_interna490	T3	SPECIES	1885	1908	Cryptococcus neoformans	5207
+caso_clinico_medicina_interna490	T4	SPECIES	1998	2010	Cryptococcus	5206
+caso_clinico_medicina_interna490	T5	SPECIES	2215	2227	Cryptococcus	5206
+es-S0210-56912008000200007-1	T1	SPECIES	238	260	Streptococcus pyogenes	1314
+es-S0210-56912008000200007-1	T2	SPECIES	1851	1862	C. albicans	5476|177091|240645|622622|310144|195731|281830|69846|245422
+caso_clinico_medtropical137	T1	SPECIES	4036	4049	Streptococcus	1301
+caso_clinico_medtropical137	T2	SPECIES	4131	4138	Candida	5475
+caso_clinico_medtropical137	T3	SPECIES	4234	4250	Escherichia coli	562
+caso_clinico_medtropical137	T4	SPECIES	4286	4308	Acinetobacter baumanii	470
+caso_clinico_medtropical137	T5	SPECIES	4471	4492	Plasmodium falciparum	5833
+caso_clinico_medtropical137	T6	SPECIES	4560	4581	Plasmodium falciparum	5833
+caso_clinico_medtropical137	T7	SPECIES	5688	5698	Plasmodium	418103|5820
+caso_clinico_medtropical137	T8	SPECIES	5814	5824	Plasmodium	418103|5820
+caso_clinico_medtropical21	T1	SPECIES	1299	1316	Trypanosoma cruzi	5693
+es-S1575-06202010000200004-1	T1	SPECIES	213	216	VIH	12721
+es-S1575-06202010000200004-1	T2	HUMAN	961	965	mans	9606
+es-S1575-06202010000200004-1	T3	SPECIES	1419	1422	VIH	12721
+casos_clinicos_infecciosas163	T1	SPECIES	2190	2193	VIH	12721
+casos_clinicos_infecciosas163	T2	SPECIES	4909	4912	VIH	12721
+casos_clinicos_infecciosas163	T3	SPECIES	7307	7328	Klebsiella pneumoniae	573
+casos_clinicos_infecciosas163	T4	SPECIES	7431	7452	Staphylococcus aureus	1280
+casos_clinicos_infecciosas163	T5	SPECIES	7709	7720	Actinomyces	1654
+casos_clinicos_infecciosas163	T6	SPECIES	7828	7836	Nocardia	1817
+casos_clinicos_infecciosas163	T7	SPECIES	8612	8623	Aspergillus	5052
+es-S1139-76322016000200010-1	T1	SPECIES	863	878	Shigella sonnei	624
+caso_clinico_medicina_interna303	T1	HUMAN	763	767	mans	9606
+caso_clinico_medicina_interna303	T2	SPECIES	1706	1709	VIH	12721
+caso_clinico_medicina_interna303	T3	SPECIES	1723	1731	Borrelia	138
+caso_clinico_medicina_interna303	T4	SPECIES	1749	1754	virus	10239
+caso_clinico_medicina_interna303	T5	SPECIES	1787	1790	VIH	12721
+caso_clinico_medicina_interna303	T6	SPECIES	1802	1805	CMV	12305|10358|36410
+caso_clinico_medicina_interna303	T7	SPECIES	1812	1820	Brucella	234
+caso_clinico_medicina_interna303	T8	SPECIES	1822	1830	Borrelia	138
+caso_clinico_medicina_interna303	T9	SPECIES	2602	2607	virus	10239
+caso_clinico_medicina_interna944	T1	SPECIES	275	278	VIH	12721
+caso_clinico_medicina_interna944	T2	SPECIES	423	445	Pneumocystis jirovecii	42068
+caso_clinico_medicina_interna944	T3	SPECIES	519	522	CMV	12305|10358|36410
+caso_clinico_medicina_interna944	T4	SPECIES	580	592	Pneumocystis	4753
+caso_clinico_medicina_interna944	T5	SPECIES	607	610	CMV	12305|10358|36410
+caso_clinico_medicina_interna944	T6	SPECIES	1223	1235	Pneumocystis	4753
+caso_clinico_medicina_interna944	T7	SPECIES	1263	1266	CMV	12305|10358|36410
+caso_clinico_medicina_interna944	T8	SPECIES	1409	1421	Pneumocystis	4753
+caso_clinico_medicina_interna944	T9	SPECIES	1431	1434	CMV	12305|10358|36410
+caso_clinico_medicina_interna134	T1	SPECIES	2079	2102	Clostridium perfringens	1502
+32294340_ES	T1	SPECIES	92	100	COVID-19	2697049
+32294340_ES	T2	SPECIES	739	747	COVID-19	2697049
+es-S1889-836X2015000400006-1	T1	SPECIES	55	58	VIH	12721
+caso_clinico_radiologia464	T1	SPECIES	859	880	Actinomyces europaeus	66228
+es-S1130-01082009000700016-1	T1	SPECIES	1400	1420	Enterobacter cloacae	550
+es-S0378-48352004001000003-1	T1	SPECIES	1111	1114	VIH	12721
+es-S1139-76322013000100010-1	T1	SPECIES	517	539	Streptococcus pyogenes	1314
+es-S1139-76322013000100010-1	T2	SPECIES	975	996	Staphylococcus aureus	1280
+casos_clinicos_cardiologia51	T1	SPECIES	1675	1686	de Borrelia	145
+caso_clinico_medtropical85	T1	HUMAN	1018	1022	mans	9606
+caso_clinico_medtropical85	T2	HUMAN	2022	2026	mans	9606
+caso_clinico_medtropical85	T3	HUMAN	2078	2082	mans	9606
+caso_clinico_medtropical85	T4	SPECIES	4542	4562	Mycobacterium leprae	1769
+caso_clinico_medtropical81	T1	SPECIES	97	100	VIH	12721
+caso_clinico_medtropical81	T2	SPECIES	1546	1559	Mycobacterium	1763
+caso_clinico_medtropical81	T3	SPECIES	2508	2531	Mycobacterium fortuitum	1766
+caso_clinico_medtropical81	T4	SPECIES	2551	2564	Mycobacterium	1763
+32168162_ES	T1	SPECIES	295	300	tenia	6202
+32168162_ES	T2	SPECIES	1800	1809	2019-nCoV	2697049
+caso_clinico_medicina_interna217	T1	SPECIES	949	955	Cassia	53851
+caso_clinico_medicina_interna217	T2	SPECIES	1587	1593	Cassia	53851
+es-S1130-63432014000400016-1	T1	SPECIES	2852	2857	carps	7962
+caso_clinico_dermatologia78	T1	SPECIES	181	186	virus	10239
+caso_clinico_dermatologia78	T2	SPECIES	1510	1525	citomegalovirus	10358
+caso_clinico_dermatologia78	T3	SPECIES	1527	1530	CMV	10358
+caso_clinico_dermatologia78	T4	SPECIES	1719	1734	citomegalovirus	10358
+32590725_ES	T1	SPECIES	103	111	COVID-19	2697049
+32590725_ES	T2	SPECIES	2086	2091	tenia	6202
+32590725_ES	T3	SPECIES	5006	5014	COVID-19	2697049
+32590725_ES	T4	SPECIES	5211	5222	coronavirus	2697049
+32590725_ES	T5	SPECIES	5226	5236	SARS-CoV-2	2697049
+32590725_ES	T6	SPECIES	5440	5450	SARS-CoV-2	2697049
+32590725_ES	T7	SPECIES	5564	5574	SARS-CoV-2	2697049
+32590725_ES	T8	SPECIES	5638	5648	SARS-CoV-2	2697049
+caso_clinico_dermatologia132	T1	SPECIES	925	930	virus	10239
+cc_onco618	T1	SPECIES	1191	1206	citomegalovirus	10358
+cc_onco618	T2	SPECIES	1366	1387	Chlamydia trachomatis	813
+cc_onco618	T3	SPECIES	1491	1505	C. trachomatis	813
+cc_onco618	T4	SPECIES	1825	1842	virus hepatitis A	12092
+cc_onco618	T5	SPECIES	1866	1877	hepatitis C	11103
+cc_onco618	T6	SPECIES	1879	1882	VIH	12721
+caso_clinico_dermatologia121	T1	SPECIES	972	990	Treponema pallidum	160
+caso_clinico_dermatologia121	T2	SPECIES	1036	1039	VIH	12721
+caso_clinico_dermatologia121	T3	SPECIES	1064	1075	hepatitis C	11103
+caso_clinico_dermatologia121	T4	SPECIES	1146	1151	virus	10239
+caso_clinico_endocrinologia71	T1	SPECIES	381	386	tenia	6202
+caso_clinico_endocrinologia71	T2	SPECIES	421	424	tia	72648
+cc_onco341	T1	SPECIES	5208	5215	E. coli	110766|562
+cc_onco341	T2	SPECIES	5240	5250	Klebsiella	570
+32589931_ES	T1	SPECIES	185	193	COVID-19	2697049
+32589931_ES	T2	SPECIES	1100	1108	COVID-19	2697049
+32589931_ES	T3	SPECIES	1156	1164	COVID-19	2697049
+32589931_ES	T4	SPECIES	1696	1704	COVID-19	2697049
+32589931_ES	T5	HUMAN	4086	4090	mans	9606
+32589931_ES	T6	SPECIES	4384	4392	COVID-19	2697049
+caso_clinico_dermatologia475	T1	HUMAN	103	107	mans	9606
+caso_clinico_dermatologia475	T2	SPECIES	1475	1505	Dermatophagoides pteronyssinus	6956
+caso_clinico_dermatologia475	T3	SPECIES	1507	1531	Dermatophagoides farinae	6954
+caso_clinico_dermatologia475	T4	SPECIES	1533	1557	Lepidoglyphus destructor	36936
+caso_clinico_dermatologia475	T5	SPECIES	1570	1583	Olea europeae	4146
+caso_clinico_dermatologia475	T6	SPECIES	1585	1599	Lolium perenne	4522
+caso_clinico_dermatologia475	T7	SPECIES	1601	1620	Cupressus arizonica	49011
+caso_clinico_dermatologia475	T8	SPECIES	1622	1641	Platanus acerifolia	140101
+caso_clinico_dermatologia475	T9	SPECIES	1643	1650	Salsola	151233
+caso_clinico_dermatologia475	T10	SPECIES	1657	1675	Parietaria judaica	33127
+caso_clinico_dermatologia475	T11	SPECIES	1685	1705	Alternaria alternata	5599
+caso_clinico_dermatologia475	T12	SPECIES	1707	1728	Aspergillus fumigatus	746128
+casos_clinicos_infecciosas35	T1	SPECIES	3568	3594	Staphylococcus lugdunensis	28035
+casos_clinicos_infecciosas35	T2	SPECIES	3875	3889	S. lugdunensis	28035
+casos_clinicos_infecciosas35	T3	SPECIES	4021	4042	Staphylococcus aureus	1280
+casos_clinicos_infecciosas35	T4	SPECIES	4805	4814	S. aureus	1280
+casos_clinicos_infecciosas35	T5	SPECIES	6734	6744	Salmonella	590
+casos_clinicos_infecciosas35	T6	SPECIES	6752	6761	S. aureus	1280
+casos_clinicos_infecciosas35	T7	SPECIES	6809	6817	Listeria	1637
+casos_clinicos_infecciosas35	T8	SPECIES	6819	6839	Bacteroides fragilis	817
+casos_clinicos_infecciosas35	T9	SPECIES	6841	6861	Clostridium septicum	1504
+casos_clinicos_infecciosas35	T10	SPECIES	6864	6884	Campylobacter jejuni	197
+casos_clinicos_infecciosas35	T11	SPECIES	6915	6920	virus	10239
+casos_clinicos_infecciosas35	T12	SPECIES	6928	6931	VIH	12721
+casos_clinicos_infecciosas35	T13	SPECIES	8342	8356	S. lugdunensis	28035
+casos_clinicos_infecciosas35	T14	SPECIES	9078	9088	Bartonella	773
+casos_clinicos_infecciosas35	T15	SPECIES	9135	9152	Coxiella burnetii	777
+caso_clinico_medicina_interna67	T1	HUMAN	1908	1912	mans	9606
+caso_clinico_medicina_interna67	T2	SPECIES	2069	2072	HIV	12721
+caso_clinico_medicina_interna67	T3	SPECIES	2089	2092	CMV	12305|10358|36410
+caso_clinico_medicina_interna67	T4	SPECIES	2094	2102	Brucella	234
+caso_clinico_medicina_interna67	T5	SPECIES	2104	2114	Toxoplasma	5810
+caso_clinico_medicina_interna67	T6	HUMAN	4483	4487	mans	9606
+caso_clinico_medicina_interna67	T7	HUMAN	4787	4791	mans	9606
+caso_clinico_radiologia323	T1	SPECIES	920	942	Streptococcus faecalis	1351
+es-S1137-66272013000200022-1	T1	SPECIES	1127	1132	virus	10239
+caso_clinico_medicina_interna74	T1	HUMAN	631	635	mans	9606
+caso_clinico_medicina_interna74	T2	SPECIES	3689	3692	CMV	12305|10358|36410
+caso_clinico_medicina_interna74	T3	SPECIES	3895	3914	Tropheryma whipplei	2039
+caso_clinico_medicina_interna74	T4	SPECIES	4151	4154	CMV	12305|10358|36410
+caso_clinico_medicina_interna74	T5	SPECIES	4166	4186	campylobacter jejuni	197
+caso_clinico_medicina_interna74	T6	SPECIES	4228	4245	coxiella burnetii	777
+caso_clinico_medicina_interna74	T7	SPECIES	4247	4268	mycoplasma pneumoniae	2104
+caso_clinico_medicina_interna74	T8	SPECIES	4289	4310	clostridium botulinum	1491
+caso_clinico_medicina_interna74	T9	SPECIES	4323	4326	VIH	12721
+caso_clinico_medicina_interna74	T10	SPECIES	5398	5408	Tropheryma	2038
+cc_onco340	T1	SPECIES	2437	2442	virus	10239
+caso_clinico_dermatologia134	T1	SPECIES	1024	1036	de Treponema	166
+caso_clinico_medicina_interna352	T1	SPECIES	278	283	virus	10239
+casos_clinicos_infecciosas91	T1	SPECIES	5693	5714	Staphylococcus aureus	1280
+casos_clinicos_infecciosas91	T2	SPECIES	5884	5892	Listeria	1637
+casos_clinicos_infecciosas91	T3	SPECIES	5898	5906	Nocardia	1817
+casos_clinicos_infecciosas91	T4	SPECIES	5912	5923	Aspergillus	5052
+casos_clinicos_infecciosas91	T5	SPECIES	5929	5941	Cryptococcus	5206
+casos_clinicos_infecciosas91	T6	SPECIES	6024	6045	Entamoeba histolytica	5759
+casos_clinicos_infecciosas91	T7	SPECIES	6047	6058	Schistosoma	6181
+casos_clinicos_infecciosas91	T8	SPECIES	6073	6085	Coccidioides	5500
+casos_clinicos_infecciosas91	T9	SPECIES	8173	8176	VIH	12721
+casos_clinicos_infecciosas91	T10	SPECIES	8189	8199	Toxoplasma	5810
+casos_clinicos_infecciosas91	T11	SPECIES	8726	8748	Listeria monocytogenes	1639
+casos_clinicos_infecciosas91	T12	SPECIES	9773	9795	Listeria monocytogenes	1639
+casos_clinicos_infecciosas91	T13	SPECIES	12138	12160	Listeria monocytogenes	1639
+caso_clinico_medicina_interna218	T1	SPECIES	181	194	P. aeruginosa	287|444978|586292
+caso_clinico_medicina_interna218	T2	SPECIES	2060	2063	CMV	12305|10358|36410
+caso_clinico_medicina_interna218	T3	SPECIES	2114	2117	CMV	12305|10358|36410
+caso_clinico_medicina_interna218	T4	SPECIES	2543	2546	CMV	12305|10358|36410
+casos_clinicos_infecciosas44	T1	SPECIES	704	710	Prenia	216006
+casos_clinicos_infecciosas44	T2	SPECIES	3333	3344	Herpesvirus	39059
+casos_clinicos_infecciosas44	T3	SPECIES	6308	6319	herpesvirus	39059
+casos_clinicos_infecciosas44	T4	SPECIES	7020	7025	tenia	6202
+casos_clinicos_infecciosas44	T5	SPECIES	7522	7525	VIH	12721
+casos_clinicos_infecciosas44	T6	SPECIES	7825	7828	VIH	12721
+casos_clinicos_infecciosas44	T7	SPECIES	8827	8830	VIH	12721
+casos_clinicos_infecciosas44	T8	SPECIES	8852	8855	VIH	12721
+caso_clinico_urgencias189	T1	SPECIES	995	999	ales	513146
+casos_clinicos_cardiologia33	T1	SPECIES	207	212	tenia	6202
+casos_clinicos_cardiologia33	T2	SPECIES	391	396	tenia	6202
+casos_clinicos_cardiologia33	T3	SPECIES	1346	1369	Pasteurella haemolytica	75985
+casos_clinicos_cardiologia33	T4	SPECIES	1476	1481	tenia	6202
+casos_clinicos_cardiologia33	T5	SPECIES	2528	2547	Streptococcus bovis	1335
+casos_clinicos_cardiologia33	T6	SPECIES	2577	2591	de Haemophilus	740
+casos_clinicos_cardiologia33	T7	SPECIES	2593	2629	Actinobacillus actinomycetemcomitans	714
+casos_clinicos_cardiologia33	T8	SPECIES	2631	2654	Cardiobacterium hominis	2718
+casos_clinicos_cardiologia33	T9	SPECIES	2689	2697	Kingella	32257
+casos_clinicos_cardiologia33	T10	SPECIES	2701	2722	Staphylococcus aureus	1280
+casos_clinicos_cardiologia33	T11	SPECIES	3308	3321	de Bartonella	46358
+casos_clinicos_cardiologia33	T12	SPECIES	3323	3331	Brucella	234
+casos_clinicos_cardiologia33	T13	SPECIES	3334	3343	Chlamydia	810
+casos_clinicos_cardiologia33	T14	SPECIES	3501	3506	tenia	6202
+casos_clinicos_cardiologia33	T15	SPECIES	3541	3564	Haemophilus aphrophilus	732
+casos_clinicos_cardiologia33	T16	SPECIES	3625	3648	Pasteurella haemolytica	75985
+casos_clinicos_cardiologia33	T17	SPECIES	3674	3688	H. aphrophilus	732
+casos_clinicos_cardiologia33	T18	SPECIES	4106	4120	H. aphrophilus	732
+casos_clinicos_cardiologia33	T19	SPECIES	4157	4171	de Haemophilus	740
+casos_clinicos_cardiologia33	T20	SPECIES	4184	4203	Haemophilus ducreyi	730
+casos_clinicos_cardiologia33	T21	SPECIES	4304	4315	Haemophilus	724
+casos_clinicos_cardiologia33	T22	SPECIES	4318	4329	Pasteurella	745
+casos_clinicos_cardiologia33	T23	SPECIES	4431	4445	H. aphrophilus	732
+casos_clinicos_cardiologia33	T24	SPECIES	4450	4461	Pasteurella	745
+casos_clinicos_cardiologia23	T1	SPECIES	1129	1152	C. pseudodiphtheriticum	37637
+casos_clinicos_cardiologia23	T2	SPECIES	1938	1974	Corynebacterium pseudodiphtheriticum	37637
+casos_clinicos_cardiologia23	T3	SPECIES	3589	3612	C. pseudodiphtheriticum	37637
+casos_clinicos_infecciosas33	T1	SPECIES	1267	1272	tenia	6202
+casos_clinicos_infecciosas33	T2	SPECIES	2880	2884	prim	13597
+casos_clinicos_infecciosas33	T3	SPECIES	4750	4769	Tropheryma whipplei	2039
+casos_clinicos_infecciosas33	T4	SPECIES	5159	5183	Chlamydophila pneumoniae	83558
+casos_clinicos_infecciosas33	T5	SPECIES	5290	5300	Tropheryma	2038
+casos_clinicos_infecciosas33	T6	SPECIES	5925	5944	Tropheryma whipplei	2039
+caso_clinico_medicina_interna286	T1	SPECIES	1025	1030	virus	10239
+caso_clinico_medicina_interna286	T2	SPECIES	1046	1049	VIH	12721
+caso_clinico_medicina_interna286	T3	SPECIES	1355	1378	Echinococcus granulosus	6210
+caso_clinico_oftalmologia98	T1	SPECIES	1562	1583	Staphylococcus aureus	1280
+caso_clinico_oftalmologia98	T2	SPECIES	1973	1999	Staphylococcus epidermidis	1282
+es-S0212-16112010000100017-1	T1	SPECIES	3674	3680	patata	4113
+es-S1139-76322012000300006-2	T1	SPECIES	1480	1495	citomegalovirus	10358
+es-S1139-76322012000300006-2	T2	SPECIES	1497	1500	CMV	10358
+caso_clinico_medicina_interna562	T1	SPECIES	459	482	Streptococcus anginosus	1328
+caso_clinico_medicina_interna970	T1	SPECIES	1498	1509	C. burnetii	777
+es-S0210-48062009000900015-1	T1	SPECIES	1789	1805	Escherichia coli	562
+casos_clinicos_infecciosas116	T1	SPECIES	1556	1566	Rickettsia	780
+casos_clinicos_infecciosas116	T2	SPECIES	1576	1595	Borrelia burdorferi	139
+caso_clinico_neurologia248	T1	HUMAN	1134	1138	mans	9606
+caso_clinico_neurologia248	T2	SPECIES	1488	1496	Brucella	234
+caso_clinico_neurologia248	T3	SPECIES	1508	1516	Borrelia	138
+caso_clinico_neurologia248	T4	SPECIES	3077	3082	Fossa	94188
+es-S1137-66272016000300012-1	T1	SPECIES	1222	1225	VIH	12721
+es-S1137-66272016000300012-1	T2	SPECIES	1232	1235	CMV	12305|10358|36410
+caso_clinico_alergologia52	T1	SPECIES	819	822	VIH	12721
+caso_clinico_alergologia52	T2	SPECIES	824	827	CMV	12305|10358|36410
+cc_onco3	T1	SPECIES	414	419	tenia	6202
+cc_onco3	T2	SPECIES	4030	4035	virus	10239
+cc_onco3	T3	SPECIES	5481	5493	Pneumocystis	4753
+cc_onco3	T4	SPECIES	5822	5825	CMV	12305|10358|36410
+cc_onco3	T5	SPECIES	5880	5891	Aspergillus	5052
+cc_onco3	T6	SPECIES	5897	5909	Pneumocystis	4753
+caso_clinico_medicina_interna928	T1	SPECIES	293	312	Helicobacter pylori	210
+caso_clinico_medicina_interna928	T2	SPECIES	340	345	virus	10239
+caso_clinico_medicina_interna928	T3	SPECIES	2916	2929	Mycobacterium	1763
+caso_clinico_medicina_interna928	T4	SPECIES	3230	3246	de Strongyloides	6247
+caso_clinico_oftalmologia24	T1	SPECIES	1814	1817	VIH	12721
+caso_clinico_oftalmologia24	T2	SPECIES	1829	1832	CMV	12305|10358|36410
+caso_clinico_medicina_interna708	T1	SPECIES	24	46	Neisseria meningitidis	487
+caso_clinico_medicina_interna708	T2	HUMAN	296	300	mans	9606
+caso_clinico_medicina_interna708	T3	SPECIES	1230	1245	N. meningitidis	487
+casos_clinicos_cardiologia47	T1	SPECIES	4510	4518	Coxiella	776
+caso_clinico_medicina_interna707	T1	SPECIES	1071	1074	VIH	12721
+caso_clinico_medicina_interna707	T2	SPECIES	1883	1886	VIH	12721
+caso_clinico_oftalmologia185	T1	SPECIES	58	61	VIH	12721
+caso_clinico_oftalmologia185	T2	HUMAN	450	454	mans	9606
+caso_clinico_oftalmologia185	T3	SPECIES	1285	1288	VIH	12721
+casos_clinicos_pediatria33	T1	SPECIES	920	932	Helicobacter	209
+casos_clinicos_pediatria33	T2	SPECIES	1667	1685	de Cryptosporidium	5806
+es-S0212-71992006001000008-1	T1	HUMAN	251	255	mans	9606
+es-S0212-71992006001000008-1	T2	HUMAN	678	682	mans	9606
+es-S0212-71992006001000008-1	T3	SPECIES	1545	1548	VIH	12721
+cc_onco997	T1	SPECIES	1165	1168	CMV	12305|10358|36410
+cc_onco997	T2	SPECIES	1259	1269	Rickettsia	780
+cc_onco997	T3	SPECIES	1271	1289	Treponema pallidum	160
+cc_onco997	T4	SPECIES	1291	1301	Bartonella	773
+cc_onco997	T5	SPECIES	1304	1325	Plasmodium falciparum	5833
+cc_onco997	T6	SPECIES	1333	1336	VIH	12721
+cc_onco997	T7	SPECIES	1811	1824	Mycobacterium	1763
+cc_onco997	T8	SPECIES	2341	2346	HHV-8	37296
+cc_onco997	T9	SPECIES	2407	2410	VIH	12721
+cc_onco997	T10	SPECIES	2489	2492	CMV	12305|10358|36410
+32364123_ES	T1	SPECIES	608	616	COVID-19	2697049
+32364123_ES	T2	SPECIES	651	661	SARS-CoV-2	2697049
+32364123_ES	T3	SPECIES	1211	1219	COVID-19	2697049
+caso_clinico_medtropical116	T1	SPECIES	2451	2456	virus	10239
+caso_clinico_medtropical116	T2	SPECIES	2482	2490	Coxiella	776
+caso_clinico_medtropical116	T3	SPECIES	2503	2513	Rickettsia	780
+caso_clinico_medtropical116	T4	SPECIES	2524	2527	VIH	12721
+caso_clinico_medtropical116	T5	SPECIES	2663	2684	Plasmodium falciparum	5833
+caso_clinico_medtropical116	T6	SPECIES	2770	2791	Plasmodium falciparum	5833
+caso_clinico_medtropical116	T7	SPECIES	2948	2969	Plasmodium falciparum	5833
+caso_clinico_medtropical117	T1	SPECIES	1792	1796	prim	13597
+caso_clinico_medtropical117	T2	SPECIES	2393	2414	Entamoeba histolytica	5759
+caso_clinico_dermatologia187	T1	SPECIES	1545	1548	VIH	12721
+32594429_ES	T1	SPECIES	945	950	virus	10239
+32594429_ES	T2	SPECIES	974	984	adenovirus	10535|10508
+32594429_ES	T3	SPECIES	1019	1024	virus	10239
+32594429_ES	T4	SPECIES	1059	1067	COVID-19	2697049
+32594429_ES	T5	SPECIES	1148	1156	COVID-19	2697049
+32594429_ES	T6	SPECIES	1256	1264	COVID-19	2697049
+32611761B_ES	T1	SPECIES	317	325	COVID-19	2697049
+32611761B_ES	T2	SPECIES	630	640	SARS-CoV-2	2697049
+caso_clinico_medtropical49	T1	SPECIES	1151	1166	Giardia lamblia	5741
+caso_clinico_medtropical49	T2	SPECIES	2828	2838	de Ascaris	6251
+caso_clinico_medtropical49	T3	SPECIES	3221	3231	Capillaria	119095
+caso_clinico_medtropical49	T4	SPECIES	4706	4711	tenia	6202
+caso_clinico_psiquiatria38	T1	SPECIES	1336	1345	marihuana	3483
+caso_clinico_psiquiatria38	T2	SPECIES	1596	1605	marihuana	3483
+es-S1130-01082006000900015-1	T1	SPECIES	320	323	VIH	12721
+es-S1130-01082006000900015-1	T2	SPECIES	331	336	virus	10239
+es-S1130-01082006000900015-1	T3	SPECIES	355	370	citomegalovirus	10358
+cc_onco920	T1	SPECIES	2144	2169	Streptococcus intermedius	1338
+cc_onco920	T2	SPECIES	4171	4197	Staphylococcus epidermidis	1282
+cc_onco920	T3	SPECIES	4400	4425	Streptococcus intermedius	1338
+cc_onco920	T4	SPECIES	4846	4860	S. epidermidis	1282
+cc_onco920	T5	SPECIES	5145	5159	S. intermedius	1338
+cc_onco842	T1	SPECIES	3573	3578	virus	10239
+cc_onco842	T2	SPECIES	3630	3635	virus	10239
+cc_onco842	T3	SPECIES	3703	3708	virus	10239
+cc_onco842	T4	SPECIES	3760	3765	virus	10239
+cc_onco842	T5	SPECIES	4561	4566	virus	10239
+es-S0210-48062005000100016-1	T1	SPECIES	3258	3265	E. coli	110766|562
+casos_clinicos_infecciosas121	T1	HUMAN	1007	1011	mans	9606
+casos_clinicos_infecciosas121	T2	SPECIES	1871	1894	Cryptococcus neoformans	5207
+casos_clinicos_infecciosas121	T3	SPECIES	1999	2019	Borrelia burgdorferi	139
+es-S0212-16112012000500043-1	T1	SPECIES	823	828	tenia	6202
+es-S0212-16112012000500043-1	T2	SPECIES	2398	2404	patata	4113
+caso_clinico_medtropical129	T1	SPECIES	722	727	tenia	6202
+caso_clinico_medtropical129	T2	SPECIES	1783	1788	virus	10239
+caso_clinico_medtropical129	T3	SPECIES	1794	1805	hepatitis C	11103
+caso_clinico_medtropical129	T4	SPECIES	1824	1829	virus	10239
+caso_clinico_medtropical129	T5	SPECIES	1844	1854	Toxoplasma	5810
+caso_clinico_medtropical129	T6	SPECIES	1857	1860	VIH	12721
+caso_clinico_medtropical129	T7	SPECIES	2032	2040	Fasciola	6191
+caso_clinico_medtropical129	T8	SPECIES	2051	2059	Anisakis	6268
+caso_clinico_medtropical129	T9	SPECIES	2062	2079	Trypanosoma cruzi	5693
+caso_clinico_medtropical129	T10	SPECIES	2634	2650	de Strongyloides	6247
+caso_clinico_medtropical129	T11	SPECIES	2697	2705	Toxocara	6264
+caso_clinico_medtropical129	T12	SPECIES	2821	2846	Strongyloides stercoralis	6248
+caso_clinico_medtropical129	T13	SPECIES	2849	2857	Toxocara	6264
+caso_clinico_radiologia927	T1	SPECIES	62	65	VIH	12721
+caso_clinico_radiologia927	T2	SPECIES	561	582	Pneumocystis jiroveci	42068
+caso_clinico_radiologia927	T3	SPECIES	682	685	VIH	12721
+es-S1130-01082007000100013-1	T1	SPECIES	19	22	VIH	12721
+es-S1130-01082007000100013-1	T2	SPECIES	178	191	Mycobacterium	1763
+cc_onco392	T1	SPECIES	443	448	virus	10239
+cc_onco392	T2	SPECIES	449	460	hepatitis C	11103
+caso_clinico_medicina_interna233	T1	SPECIES	193	214	Klebsiella pneumoniae	573
+caso_clinico_medicina_interna233	T2	SPECIES	265	286	Klebsiella pneumoniae	573
+caso_clinico_medicina_interna233	T3	SPECIES	1201	1222	Klebsiella pneumoniae	573
+caso_clinico_medicina_interna233	T4	SPECIES	1537	1558	Klebsiella pneumoniae	573
+caso_clinico_medicina_interna233	T5	SPECIES	1731	1752	Klebsiella pneumoniae	573
+caso_clinico_alergologia185	T1	SPECIES	946	970	Streptococcus pneumoniae	1313
+caso_clinico_medtropical73	T1	SPECIES	1570	1582	H. werneckii	91943
+caso_clinico_medtropical76	T1	SPECIES	343	361	Fonsecaea pedrosoi	40355
+caso_clinico_medtropical76	T2	SPECIES	1082	1093	F. pedrosoi	40355
+caso_clinico_medtropical76	T3	SPECIES	1200	1203	VIH	12721
+cc_onco933	T1	SPECIES	5006	5028	Trichosporon jirovecii	82518
+cc_onco933	T2	SPECIES	6690	6694	prim	13597
+32174057_ES	T1	SPECIES	257	266	2019-nCoV	2697049
+32174057_ES	T2	SPECIES	2398	2402	ales	513146
+32174057_ES	T3	SPECIES	2920	2924	ales	513146
+32174057_ES	T4	SPECIES	3111	3119	COVID-19	2697049
+32174057_ES	T5	SPECIES	3326	3334	COVID-19	2697049
+caso_clinico_medicina_interna219	T1	SPECIES	453	466	Mycobacterium	1763
+caso_clinico_medicina_interna219	T2	SPECIES	927	932	tenia	6202
+cc_onco97	T1	SPECIES	2166	2188	Haemophilus influenzae	727
+cc_onco97	T2	SPECIES	3559	3581	Haemophilus influenzae	727
+caso_clinico_atencion_primaria98	T1	SPECIES	1708	1720	Pneumocystis	4753
+caso_clinico_atencion_primaria98	T2	SPECIES	1732	1735	VIH	12721
+caso_clinico_atencion_primaria98	T3	SPECIES	1936	1939	VIH	12721
+caso_clinico_atencion_primaria98	T4	SPECIES	2114	2126	Pneumocystis	4753
+caso_clinico_medtropical82	T1	SPECIES	135	138	VIH	12721
+caso_clinico_medtropical82	T2	SPECIES	228	239	hepatitis C	11103
+caso_clinico_medtropical82	T3	SPECIES	2119	2122	CMV	12305|10358|36410
+caso_clinico_medicina_interna589	T1	SPECIES	1249	1254	virus	10239
+caso_clinico_medicina_interna589	T2	SPECIES	1322	1332	Toxoplasma	5810
+caso_clinico_medicina_interna589	T3	SPECIES	1334	1348	Parvovirus B19	10798
+caso_clinico_medicina_interna589	T4	SPECIES	1360	1363	VIH	12721
+caso_clinico_medicina_interna589	T5	SPECIES	1386	1394	Brucella	234
+caso_clinico_medicina_interna589	T6	SPECIES	1396	1406	Rickettsia	780
+caso_clinico_medicina_interna589	T7	SPECIES	1408	1418	Bartonella	773
+caso_clinico_medicina_interna589	T8	SPECIES	1420	1428	Borrelia	138
+caso_clinico_medicina_interna589	T9	SPECIES	1431	1442	Francisella	262
+caso_clinico_medicina_interna589	T10	SPECIES	1491	1501	Leptospira	171
+casos_clinicos_cardiologia45	T1	SPECIES	2718	2721	CMV	12305|10358|36410
+casos_clinicos_cardiologia45	T2	SPECIES	2766	2769	VIH	12721
+32593338_ES	T1	SPECIES	296	301	tenia	6202
+32593338_ES	T2	SPECIES	365	373	COVID-19	2697049
+32593338_ES	T3	SPECIES	1794	1799	virus	10239
+32593338_ES	T4	SPECIES	1936	1946	SARS-CoV-2	2697049
+casos_clinicos_cardiologia9	T1	SPECIES	3231	3250	Streptococcus mitis	28037
+caso_clinico_radiologia72	T1	SPECIES	919	930	Aspergillus	5052
+caso_clinico_neurologia161	T1	SPECIES	2410	2413	VIH	12721
+caso_clinico_neurologia161	T2	SPECIES	2423	2438	citomegalovirus	10358
+caso_clinico_neurologia161	T3	SPECIES	2440	2443	CMV	10358
+caso_clinico_neurologia161	T4	SPECIES	2462	2467	virus	10239
+caso_clinico_neurologia161	T5	SPECIES	2501	2506	virus	10239
+caso_clinico_neurologia161	T6	SPECIES	2542	2547	virus	10239
+caso_clinico_neurologia161	T7	SPECIES	2571	2579	Brucella	234
+caso_clinico_neurologia161	T8	SPECIES	2585	2605	Borrelia burgdorferi	139
+caso_clinico_neurologia161	T9	SPECIES	2611	2632	Mycoplasma pneumoniae	2104
+caso_clinico_neurologia161	T10	SPECIES	2694	2697	CMV	10358
+caso_clinico_neurologia161	T11	SPECIES	2724	2735	Enterovirus	12059
+caso_clinico_neurologia161	T12	SPECIES	2748	2753	virus	10239
+caso_clinico_neurologia161	T13	SPECIES	2800	2803	VIH	12721
+caso_clinico_neurologia161	T14	SPECIES	3538	3541	VIH	12721
+caso_clinico_neurologia161	T15	SPECIES	3682	3685	CMV	10358
+caso_clinico_neurologia161	T16	SPECIES	3808	3811	VIH	12721
+caso_clinico_atencion_primaria5	T1	SPECIES	1969	1972	VIH	12721
+caso_clinico_atencion_primaria5	T2	SPECIES	1975	1980	virus	10239
+caso_clinico_atencion_primaria5	T3	SPECIES	2008	2017	Chlamydia	810
+caso_clinico_atencion_primaria5	T4	SPECIES	2019	2029	Mycoplasma	2093
+caso_clinico_atencion_primaria5	T5	SPECIES	2157	2169	de Chlamydia	35827
+caso_clinico_atencion_primaria5	T6	SPECIES	2364	2373	Chlamydia	810
+caso_clinico_atencion_primaria5	T7	SPECIES	2414	2422	gonococo	485
+caso_clinico_atencion_primaria5	T8	SPECIES	2472	2475	VIH	12721
+caso_clinico_atencion_primaria5	T9	SPECIES	2553	2558	virus	10239
+caso_clinico_atencion_primaria5	T10	SPECIES	2559	2570	hepatitis C	11103
+caso_clinico_atencion_primaria5	T11	SPECIES	2613	2622	Chlamydia	810
+caso_clinico_medicina_interna176	T1	SPECIES	625	646	Klebsiella pneumoniae	573
+caso_clinico_medicina_interna176	T2	SPECIES	727	740	P. falciparum	5833
+caso_clinico_medicina_interna176	T3	SPECIES	1079	1092	P. falciparum	5833
+caso_clinico_medicina_interna176	T4	SPECIES	1523	1532	H. pylori	210
+cc_onco972	T1	SPECIES	2960	2986	Staphylococcus epidermidis	1282
+cc_onco972	T2	SPECIES	4801	4827	Staphylococcus epidermidis	1282
+caso_clinico_psiquiatria32	T1	SPECIES	819	824	tenia	6202
+caso_clinico_psiquiatria32	T2	SPECIES	3078	3087	marihuana	3483
+caso_clinico_medicina_interna846	T1	SPECIES	1147	1155	Coxiella	776
+caso_clinico_medicina_interna846	T2	SPECIES	1656	1664	Coxiella	776
+es-S0376-78922009000400011-1	T1	SPECIES	1639	1655	Proteus vulgaris	585
+casos_clinicos_pediatria46	T1	SPECIES	1279	1282	VIH	12721
+32282027_ES	T1	SPECIES	122	136	de coronavirus	11118
+32282027_ES	T2	SPECIES	138	146	COVID-19	2697049
+32282027_ES	T3	SPECIES	217	225	COVID-19	2697049
+32282027_ES	T4	SPECIES	1746	1754	COVID-19	2697049
+caso_clinico_dermatologia125	T1	SPECIES	1742	1761	Trichophyton rubrum	5551
+32423738_ES	T1	SPECIES	127	132	tenia	6202
+32423738_ES	T2	SPECIES	981	989	COVID-19	2697049
+32423738_ES	T3	SPECIES	1015	1025	SARS-CoV-2	2697049
+caso_clinico_medtropical91	T1	SPECIES	152	157	palta	3435
+caso_clinico_medtropical91	T2	SPECIES	909	919	L. obliqua	374131|304329
+caso_clinico_medtropical91	T3	SPECIES	939	945	animal	33208
+casos_clinicos_infecciosas52	T1	SPECIES	6796	6799	VIH	12721
+casos_clinicos_infecciosas52	T2	SPECIES	7003	7011	Borrelia	138
+casos_clinicos_infecciosas52	T3	SPECIES	7099	7104	virus	10239
+casos_clinicos_infecciosas52	T4	SPECIES	7302	7315	P. falciparum	5833
+casos_clinicos_infecciosas52	T5	SPECIES	7430	7451	Plasmodium falciparum	5833
+casos_clinicos_infecciosas52	T6	SPECIES	7574	7587	P. falciparum	5833
+casos_clinicos_infecciosas52	T7	SPECIES	8898	8914	de Mycobacterium	1785
+casos_clinicos_infecciosas52	T8	SPECIES	9359	9362	VIH	12721
+casos_clinicos_infecciosas52	T9	SPECIES	9383	9396	Strongyloides	6247
+casos_clinicos_infecciosas52	T10	SPECIES	9399	9410	Schistosoma	6181
+casos_clinicos_infecciosas52	T11	SPECIES	10358	10379	Plasmodium falciparum	5833
+caso_clinico_urgencias114	T1	SPECIES	1213	1235	Streptococcus viridans	78535
+32294264_ES	T1	SPECIES	142	156	de coronavirus	11118
+casos_clinicos_pediatria4	T1	SPECIES	2586	2591	cocos	1869227
+casos_clinicos_pediatria4	T2	SPECIES	2617	2630	Streptococcus	1301
+casos_clinicos_pediatria4	T3	SPECIES	2689	2711	Streptococcus pyogenes	1314
+casos_clinicos_pediatria4	T4	SPECIES	5698	5720	Streptococcus pyogenes	1314
+es-S1130-01082006000100014-1	T1	SPECIES	2030	2052	Listeria monocytogenes	1639
+es-S1130-01082006000100014-1	T2	SPECIES	2117	2125	Listeria	1637
+es-S1130-01082006000100014-1	T3	SPECIES	2392	2396	prim	13597
+casos_clinicos_infecciosas164	T1	SPECIES	1886	1893	Proteus	583
+casos_clinicos_infecciosas164	T2	SPECIES	2323	2344	Rickettsia prowazekii	782
+casos_clinicos_infecciosas164	T3	SPECIES	2539	2546	Proteus	583
+caso_clinico_psiquiatria27	T1	SPECIES	1584	1589	tenia	6202
+es-S0213-12852006000600002-1	T1	SPECIES	120	123	VIH	12721
+es-S0213-12852006000600002-1	T2	SPECIES	442	453	Hepatitis C	11103
+es-S0213-12852006000600002-1	T3	SPECIES	479	482	CMV	12305|10358|36410
+es-S0213-12852006000600002-1	T4	SPECIES	3395	3400	virus	10239
+es-S0213-12852006000600002-1	T5	SPECIES	3600	3603	CMV	12305|10358|36410
+es-S0213-12852006000600002-1	T6	SPECIES	3940	3945	virus	10239
+caso_clinico_alergologia28	T1	SPECIES	931	939	Brassica	3705
+32352487_ES	T1	SPECIES	117	125	COVID-19	2697049
+32352487_ES	T2	SPECIES	1643	1646	VIH	12721
+32352487_ES	T3	SPECIES	1648	1653	virus	10239
+32352487_ES	T4	SPECIES	1672	1677	virus	10239
+32352487_ES	T5	SPECIES	1683	1694	hepatitis C	11103
+32352487_ES	T6	SPECIES	1697	1711	parvovirus B19	10798
+32352487_ES	T7	SPECIES	1810	1820	SARS-CoV-2	2697049
+32320556_ES	T1	SPECIES	499	504	tenia	6202
+32320556_ES	T2	SPECIES	1360	1371	coronavirus	2697049
+32320556_ES	T3	SPECIES	1375	1385	SARS-CoV-2	2697049
+32320556_ES	T4	SPECIES	2310	2318	COVID-19	2697049
+32320556_ES	T5	SPECIES	2609	2619	SARS-CoV-2	2697049
+32320556_ES	T6	SPECIES	2933	2943	SARS-CoV-2	2697049
+caso_clinico_medicina_interna205	T1	SPECIES	500	520	Bacteroides fragilis	817
+caso_clinico_medicina_interna205	T2	SPECIES	670	690	Bacteroides fragilis	817
+casos_clinicos_cardiologia192	T1	SPECIES	4847	4860	S. pneumoniae	1313|2104
+casos_clinicos_cardiologia192	T2	SPECIES	5013	5026	S. pneumoniae	1313|2104
+casos_clinicos_cardiologia192	T3	SPECIES	5409	5430	Candida orthopsilosis	273371
+es-S1699-695X2014000200007-1	T1	SPECIES	49	53	prim	13597
+es-S1699-695X2014000200007-1	T2	SPECIES	537	546	H. pylori	210
+es-S1699-695X2014000200007-1	T3	SPECIES	703	712	H. pylori	210
+caso_clinico_dermatologia171	T1	HUMAN	461	465	mans	9606
+caso_clinico_dermatologia171	T2	HUMAN	717	721	mans	9606
+caso_clinico_dermatologia171	T3	SPECIES	1109	1117	clamidia	810
+caso_clinico_dermatologia171	T4	SPECIES	1153	1175	francisella tularensis	263
+caso_clinico_dermatologia171	T5	SPECIES	1213	1216	CMV	12305|10358|36410
+caso_clinico_dermatologia171	T6	SPECIES	1218	1228	parvovirus	1506574
+caso_clinico_dermatologia171	T7	SPECIES	1263	1266	VIH	12721
+caso_clinico_dermatologia171	T8	SPECIES	1396	1401	cocos	1869227
+caso_clinico_medicina_interna528	T1	SPECIES	1408	1434	Staphylococcus epidermidis	1282
+caso_clinico_medicina_interna528	T2	SPECIES	1854	1868	S. epidermidis	1282
+caso_clinico_urologia287	T1	SPECIES	201	206	virus	10239
+caso_clinico_medicina_interna17	T1	SPECIES	86	97	hepatitis C	11103
+caso_clinico_medicina_interna17	T2	SPECIES	2508	2511	VIH	12721
+caso_clinico_medicina_interna17	T3	SPECIES	2517	2527	Mycoplasma	2093
+caso_clinico_medicina_interna17	T4	SPECIES	2529	2538	Chlamydia	810
+caso_clinico_medicina_interna17	T5	SPECIES	2540	2548	Coxiella	776
+caso_clinico_medicina_interna17	T6	SPECIES	2560	2568	Brucella	234
+caso_clinico_medicina_interna17	T7	SPECIES	2606	2615	S. aureus	78380|98688|211046|1280|193461|411806|170984|507602
+32631645_ES	T1	SPECIES	1477	1485	COVID-19	2697049
+32631645_ES	T2	SPECIES	1521	1531	SARS-CoV-2	2697049
+32631645_ES	T3	SPECIES	1778	1788	SARS-CoV-2	2697049
+caso_clinico_oftalmologia263	T1	SPECIES	239	247	Serratia	613
+caso_clinico_oftalmologia263	T2	SPECIES	1155	1160	tenia	6202
+caso_clinico_oftalmologia263	T3	SPECIES	2007	2015	Serratia	613
+caso_clinico_oftalmologia263	T4	SPECIES	2084	2091	Candida	5475
+casos_clinicos_cardiologia24	T1	SPECIES	1148	1172	Streptococcus agalactiae	1311
+cc_onco951	T1	SPECIES	398	403	virus	10239
+cc_onco951	T2	SPECIES	404	407	VIH	12721
+casos_clinicos_cardiologia48	T1	SPECIES	2254	2264	Toxoplasma	5810
+casos_clinicos_cardiologia48	T2	SPECIES	2266	2278	Echinococcus	6209
+casos_clinicos_cardiologia48	T3	SPECIES	2280	2291	Trypanosoma	5690
+casos_clinicos_cardiologia48	T4	SPECIES	2293	2311	Treponema pallidum	160
+casos_clinicos_cardiologia48	T5	SPECIES	2313	2338	Strongyloides stercoralis	6248
+casos_clinicos_cardiologia48	T6	SPECIES	2340	2351	Schistosoma	6181
+casos_clinicos_cardiologia48	T7	SPECIES	2403	2413	Plasmodium	418103|5820
+casos_clinicos_cardiologia48	T8	SPECIES	2457	2468	Trichinella	6333
+casos_clinicos_cardiologia48	T9	SPECIES	2470	2478	Fasciola	6191
+casos_clinicos_cardiologia48	T10	SPECIES	2480	2486	Taenia	6202
+casos_clinicos_cardiologia48	T11	SPECIES	2497	2500	VIH	12721
+cc_onco862	T1	SPECIES	1622	1636	parvovirus B19	10798
+es-S0212-16112013000300056-1	T1	SPECIES	538	564	Staphylococcus epidermidis	1282
+es-S0212-16112013000300056-1	T2	SPECIES	1470	1496	Staphylococcus epidermidis	1282
+es-S0212-16112013000300056-1	T3	SPECIES	2018	2044	Staphylococcus epidermidis	1282
+es-S0212-16112013000300056-1	T4	SPECIES	2159	2185	Staphylococcus epidermidis	1282
+es-S0212-16112013000300056-1	T5	SPECIES	2187	2208	Ochrobactrum anthropi	529
+es-S0212-16112013000300056-1	T6	SPECIES	2623	2646	Acinetobacter bauii	470
+caso_clinico_medicina_interna541	T1	HUMAN	750	754	mans	9606
+caso_clinico_medicina_interna541	T2	SPECIES	1048	1051	VIH	12721
+caso_clinico_medicina_interna541	T3	SPECIES	1257	1275	Treponema pallidum	160
+caso_clinico_medicina_interna541	T4	SPECIES	1965	1968	VIH	12721
+caso_clinico_medicina_interna87	T1	SPECIES	3579	3582	VIH	12721
+caso_clinico_medicina_interna868	T1	SPECIES	1572	1575	VIH	12721
+caso_clinico_neurologia281	T1	SPECIES	3441	3451	criptococo	5206
+caso_clinico_neurologia281	T2	SPECIES	5042	5063	Aspergillus fumigatus	746128
+caso_clinico_neurologia281	T3	SPECIES	5099	5112	Streptococcus	1301
+caso_clinico_neurologia281	T4	SPECIES	6332	6342	criptococo	5206
+caso_clinico_medicina_interna213	T1	SPECIES	1473	1476	VIH	12721
+caso_clinico_medicina_interna213	T2	SPECIES	1483	1486	CMV	12305|10358|36410
+caso_clinico_medicina_interna213	T3	SPECIES	1514	1525	rickettsias	766
+32619798_ES	T1	SPECIES	564	575	coronavirus	2697049
+32619798_ES	T2	SPECIES	579	589	SARS-CoV-2	2697049
+es-S0212-71992007000100006-1	T1	HUMAN	967	971	mans	9606
+es-S0212-71992007000100006-1	T2	SPECIES	1703	1711	Borrelia	138
+es-S0212-71992007000100006-1	T3	SPECIES	1713	1721	Brucella	234
+es-S0212-71992007000100006-1	T4	SPECIES	1755	1758	CMV	12305|10358|36410
+es-S0212-71992007000100006-1	T5	SPECIES	1765	1768	VIH	12721
+casos_clinicos_infecciosas120	T1	SPECIES	1685	1708	Cryptococcus neoformans	5207
+casos_clinicos_infecciosas120	T2	SPECIES	1711	1731	Borrelia burgdorferi	139
+casos_clinicos_infecciosas120	T3	SPECIES	1906	1926	Borrelia burgdorferi	139
+casos_clinicos_infecciosas120	T4	SPECIES	2025	2033	Borrelia	138
+caso_clinico_medtropical139	T1	SPECIES	1371	1376	virus	10239
+caso_clinico_medtropical139	T2	SPECIES	1630	1635	virus	10239
+caso_clinico_medtropical139	T3	SPECIES	1669	1686	Toxoplasma gondii	5811
+caso_clinico_medtropical139	T4	SPECIES	1838	1854	de Strongyloides	6247
+caso_clinico_medtropical139	T5	SPECIES	1881	1895	de Schistosoma	6181
+caso_clinico_medtropical139	T6	SPECIES	2011	2014	VIH	12721
+caso_clinico_medtropical139	T7	SPECIES	2100	2103	VIH	12721
+casos_clinicos_infecciosas139	T1	SPECIES	40	43	VIH	12721
+casos_clinicos_infecciosas139	T2	SPECIES	84	106	Pneumocystis jirovecii	42068
+casos_clinicos_infecciosas139	T3	SPECIES	1715	1720	tenia	6202
+casos_clinicos_infecciosas139	T4	SPECIES	2797	2809	P. jirovecii	42068
+casos_clinicos_infecciosas139	T5	SPECIES	2849	2862	de Mycoplasma	2108
+casos_clinicos_infecciosas139	T6	SPECIES	2869	2878	Chlamydia	810
+casos_clinicos_infecciosas139	T7	SPECIES	2885	2893	Brucella	234
+casos_clinicos_infecciosas139	T8	SPECIES	2900	2917	Toxoplasma gondii	5811
+casos_clinicos_infecciosas139	T9	SPECIES	2919	2924	virus	10239
+casos_clinicos_infecciosas139	T10	SPECIES	2956	2971	citomegalovirus	10358
+casos_clinicos_infecciosas139	T11	SPECIES	3056	3059	VIH	12721
+casos_clinicos_infecciosas139	T12	SPECIES	3419	3422	VIH	12721
+casos_clinicos_infecciosas139	T13	SPECIES	3958	3970	P. jirovecii	42068
+casos_clinicos_infecciosas139	T14	SPECIES	4347	4371	Streptococcus pneumoniae	1313
+casos_clinicos_infecciosas139	T15	SPECIES	4373	4395	Haemophilus influenzae	727
+casos_clinicos_infecciosas139	T16	SPECIES	4397	4419	Pseudomonas aeruginosa	287
+casos_clinicos_infecciosas139	T17	SPECIES	4421	4437	Rhodococcus equi	43767
+casos_clinicos_infecciosas139	T18	SPECIES	4440	4459	Nocardia asteroides	1824
+casos_clinicos_infecciosas139	T19	SPECIES	4532	4539	R. equi	43767
+casos_clinicos_infecciosas139	T20	SPECIES	4542	4555	N. asteroides	1824
+casos_clinicos_infecciosas139	T21	SPECIES	4799	4812	P. aeruginosa	287
+casos_clinicos_infecciosas139	T22	SPECIES	4900	4921	Staphylococcus aureus	1280
+casos_clinicos_infecciosas139	T23	SPECIES	4923	4944	Moraxella catarrhalis	480
+casos_clinicos_infecciosas139	T24	SPECIES	4946	4967	Mycoplasma pneumoniae	2104
+casos_clinicos_infecciosas139	T25	SPECIES	4969	4989	Chlamydia pneumoniae	83558
+casos_clinicos_infecciosas139	T26	SPECIES	4992	5014	Neisseria meningitidis	487
+casos_clinicos_infecciosas139	T27	SPECIES	5029	5042	Mycobacterium	1763
+casos_clinicos_infecciosas139	T28	SPECIES	5405	5439	Mycobacterium avium-intracellulare	55883
+casos_clinicos_infecciosas139	T29	SPECIES	5441	5444	MAI	55883
+casos_clinicos_infecciosas139	T30	SPECIES	5448	5470	Mycobacterium kansasii	1768
+casos_clinicos_infecciosas139	T31	SPECIES	5811	5823	Cryptococcus	5206
+casos_clinicos_infecciosas139	T32	SPECIES	5835	5857	Histoplasma capsulatum	5037
+casos_clinicos_infecciosas139	T33	SPECIES	5859	5879	Coccidioides immitis	5501
+casos_clinicos_infecciosas139	T34	SPECIES	5881	5902	Penicillium marneffei	37727
+casos_clinicos_infecciosas139	T35	SPECIES	5904	5925	Aspergillus fumigatus	746128
+casos_clinicos_infecciosas139	T36	SPECIES	5928	5946	Aspergillus flavus	5059
+casos_clinicos_infecciosas139	T37	SPECIES	5993	6002	T. gondii	5811
+casos_clinicos_infecciosas139	T38	SPECIES	6204	6212	Brucella	234
+casos_clinicos_infecciosas139	T39	SPECIES	6214	6223	T. gondii	5811
+casos_clinicos_infecciosas139	T40	SPECIES	6275	6287	P. jirovecii	42068
+casos_clinicos_infecciosas139	T41	SPECIES	6663	6666	VIH	12721
+casos_clinicos_infecciosas139	T42	SPECIES	6962	6969	R. equi	43767
+casos_clinicos_infecciosas139	T43	SPECIES	7316	7335	Serratia plymuthica	82996
+casos_clinicos_infecciosas139	T44	SPECIES	9057	9073	Rhodococcus equi	43767
+casos_clinicos_infecciosas139	T45	SPECIES	9088	9091	VIH	12721
+cc_onco93	T1	SPECIES	4876	4898	Haemophilus influenzae	727
+casos_clinicos_cardiologia49	T1	SPECIES	246	251	tenia	6202
+casos_clinicos_cardiologia49	T2	SPECIES	1441	1467	Staphylococcus epidermidis	1282
+casos_clinicos_cardiologia49	T3	SPECIES	3080	3106	Staphylococcus epidermidis	1282
+32179908_ES	T1	SPECIES	367	370	tia	72648
+32179908_ES	T2	SPECIES	482	490	COVID-19	2697049
+32179908_ES	T3	SPECIES	727	741	de coronavirus	11118
+32179908_ES	T4	SPECIES	743	753	SARS-CoV-2	2697049
+32179908_ES	T5	SPECIES	1539	1548	rotavirus	10912
+32179908_ES	T6	SPECIES	1566	1581	citomegalovirus	10358
+32179908_ES	T7	SPECIES	1713	1721	COVID-19	2697049
+32179908_ES	T8	SPECIES	4118	4138	Citrobacter freundii	546
+32179908_ES	T9	SPECIES	4353	4363	SARS-CoV-2	2697049
+32179908_ES	T10	SPECIES	4595	4603	COVID-19	2697049
+32179908_ES	T11	SPECIES	4778	4788	SARS-CoV-2	2697049
+32179908_ES	T12	SPECIES	5470	5480	SARS-CoV-2	2697049
+32179908_ES	T13	SPECIES	5670	5680	SARS-CoV-2	2697049
+32609542_ES	T1	SPECIES	598	614	coronavirus 2019	2697049
+32609542_ES	T2	SPECIES	616	624	COVID-19	2697049
+32609542_ES	T3	SPECIES	721	731	SARS-CoV-2	2697049
+32609542_ES	T4	SPECIES	1294	1304	SARS-CoV-2	2697049
+32609542_ES	T5	SPECIES	1742	1752	SARS-CoV-2	2697049
+casos_clinicos_pediatria14	T1	SPECIES	676	698	Dermacentor marginatus	49202
+casos_clinicos_pediatria14	T2	SPECIES	795	805	Toxoplasma	5810
+casos_clinicos_pediatria14	T3	SPECIES	807	815	Borrelia	138
+casos_clinicos_pediatria14	T4	SPECIES	817	832	citomegalovirus	10358
+casos_clinicos_pediatria14	T5	SPECIES	834	839	virus	10239
+casos_clinicos_pediatria14	T6	SPECIES	858	876	Rickettsia conorii	781
+casos_clinicos_pediatria14	T7	SPECIES	925	940	citomegalovirus	10358
+casos_clinicos_pediatria14	T8	SPECIES	962	980	Rickettsia conorii	781
+caso_clinico_medicina_interna505	T1	SPECIES	508	513	tenia	6202
+caso_clinico_endocrinologia85	T1	SPECIES	1171	1180	rotavirus	10912
+caso_clinico_radiologia526	T1	SPECIES	17	20	VIH	12721
+caso_clinico_radiologia526	T2	SPECIES	475	479	prim	13597
+caso_clinico_dermatologia170	T1	SPECIES	1528	1533	virus	10239
+caso_clinico_dermatologia170	T2	SPECIES	1843	1848	virus	10239
+caso_clinico_dermatologia170	T3	SPECIES	2021	2024	VIH	12721
+caso_clinico_dermatologia170	T4	SPECIES	2026	2031	virus	10239
+es-S1130-01082008001100009-1	T1	SPECIES	498	503	virus	10239
+casos_clinicos_infecciosas118	T1	SPECIES	1759	1779	Borrelia burgdorferi	139
+casos_clinicos_infecciosas118	T2	SPECIES	2043	2057	B. burgdorferi	139
+caso_clinico_dermatologia161	T1	SPECIES	141	144	VIH	12721
+caso_clinico_dermatologia161	T2	HUMAN	1084	1088	mans	9606
+caso_clinico_dermatologia161	T3	SPECIES	1585	1598	de Mycoplasma	2108
+casos_clinicos_infecciosas3	T1	SPECIES	3529	3547	Peptostreptococcus	1257
+casos_clinicos_infecciosas3	T2	SPECIES	3553	3576	Fusobacterium nucleatum	851
+casos_clinicos_infecciosas3	T3	SPECIES	3578	3588	Prevotella	838
+casos_clinicos_infecciosas3	T4	SPECIES	3595	3606	Actinomyces	1654
+casos_clinicos_infecciosas3	T5	SPECIES	3666	3687	Staphylococcus aureus	1280
+casos_clinicos_infecciosas3	T6	SPECIES	3721	3743	Pseudomonas aeruginosa	287
+casos_clinicos_infecciosas3	T7	SPECIES	3810	3823	Mycobacterium	1763
+casos_clinicos_infecciosas3	T8	SPECIES	3990	3993	VIH	12721
+casos_clinicos_infecciosas3	T9	SPECIES	4271	4280	S. aureus	1280
+casos_clinicos_infecciosas3	T10	SPECIES	4477	4483	E.coli	110766|562
+casos_clinicos_infecciosas3	T11	SPECIES	4546	4557	Pseudomonas	286
+casos_clinicos_infecciosas3	T12	SPECIES	4564	4576	Enterobacter	547
+casos_clinicos_infecciosas3	T13	SPECIES	4679	4690	Aspergillus	5052
+casos_clinicos_infecciosas3	T14	SPECIES	4696	4703	Candida	5475
+casos_clinicos_infecciosas3	T15	SPECIES	4709	4721	Coccidioides	5500
+casos_clinicos_infecciosas3	T16	SPECIES	4728	4739	Blastomyces	229219
+casos_clinicos_infecciosas3	T17	SPECIES	8118	8134	Candida albicans	5476
+casos_clinicos_infecciosas3	T18	SPECIES	8588	8604	Candida albicans	5476
+casos_clinicos_infecciosas110	T1	SPECIES	539	544	tenia	6202
+casos_clinicos_infecciosas110	T2	SPECIES	1294	1319	Pasteurella pneumotropica	758
+casos_clinicos_infecciosas110	T3	SPECIES	1321	1337	P. pneumotropica	758
+caso_clinico_oftalmologia262	T1	SPECIES	209	228	Trichosporon asahii	82508
+caso_clinico_oftalmologia262	T2	SPECIES	588	607	Trichosporon asahii	82508
+caso_clinico_oftalmologia262	T3	SPECIES	1428	1447	Trichosporon asahii	82508
+caso_clinico_oftalmologia262	T4	SPECIES	1564	1576	Trichosporon	1856742
+caso_clinico_dermatologia265	T1	SPECIES	1240	1245	virus	10239
+caso_clinico_dermatologia265	T2	SPECIES	1246	1250	HHV8	37296
+caso_clinico_dermatologia265	T3	SPECIES	1361	1364	VIH	12721
+caso_clinico_dermatologia265	T4	SPECIES	1367	1372	virus	10239
+caso_clinico_dermatologia265	T5	SPECIES	1780	1784	HHV8	37296
+caso_clinico_radiologia1006	T1	SPECIES	365	386	Aspergillus fumigatus	746128
+es-S0212-71992006000800007-1	T1	SPECIES	2832	2845	de Toxoplasma	5810
+es-S0212-71992006000800007-1	T2	SPECIES	2910	2918	Brucella	234
+es-S0212-71992006000800007-1	T3	SPECIES	2920	2928	Coxiella	776
+es-S0212-71992006000800007-1	T4	SPECIES	2939	2949	adenovirus	10535|10508
+es-S0212-71992006000800007-1	T5	SPECIES	2951	2956	virus	10239
+es-S0212-71992006000800007-1	T6	SPECIES	3043	3048	virus	10239
+es-S0212-71992006000800007-1	T7	SPECIES	3049	3052	VIH	12721
+caso_clinico_dermatologia398	T1	SPECIES	39	55	Pterois volitans	185886
+caso_clinico_medicina_interna127	T1	SPECIES	2102	2105	VIH	12721
+caso_clinico_medicina_interna486	T1	SPECIES	83	86	VIH	12721
+caso_clinico_medicina_interna486	T2	SPECIES	985	988	VIH	12721
+es-S1139-13752009000200010-2	T1	SPECIES	170	185	citomegalovirus	10358
+caso_clinico_medtropical101	T1	SPECIES	1815	1818	CMV	12305|10358|36410
+caso_clinico_medtropical101	T2	SPECIES	1873	1886	P. falciparum	5833
+cc_onco762	T1	SPECIES	3341	3344	CMV	12305|10358|36410
+caso_clinico_radiologia132	T1	SPECIES	1275	1279	prim	13597
+caso_clinico_dermatologia329	T1	SPECIES	1411	1416	virus	10239
+caso_clinico_dermatologia329	T2	SPECIES	1431	1445	Parvovirus B19	10798
+caso_clinico_dermatologia329	T3	SPECIES	1447	1458	Enterovirus	12059
+caso_clinico_dermatologia329	T4	SPECIES	1460	1470	Adenovirus	10535
+cc_onco235	T1	SPECIES	4290	4295	virus	10239
+cc_onco235	T2	SPECIES	4324	4329	virus	10239
+cc_onco235	T3	SPECIES	4403	4424	clostridium difficile	1496
+32427161_ES	T1	SPECIES	301	311	SARS-CoV-2	2697049
+32427161_ES	T2	SPECIES	345	350	tenia	6202
+32427161_ES	T3	SPECIES	901	911	SARS-CoV-2	2697049
+32427161_ES	T4	SPECIES	1401	1411	SARS-CoV-2	2697049
+32427161_ES	T5	SPECIES	1456	1464	COVID-19	2697049
+32427161_ES	T6	HUMAN	2629	2633	mans	9606
+32427161_ES	T7	SPECIES	2857	2867	SARS-CoV-2	2697049
+32427161_ES	T8	SPECIES	2987	2995	COVID-19	2697049
+32427161_ES	T9	SPECIES	4065	4075	SARS-CoV-2	2697049
+32427161_ES	T10	SPECIES	4128	4138	SARS-CoV-2	2697049
+caso_clinico_oftalmologia202	T1	HUMAN	1515	1519	mans	9606
+caso_clinico_oftalmologia202	T2	SPECIES	2004	2007	HIV	12721
+caso_clinico_oftalmologia202	T3	SPECIES	2258	2263	virus	10239
+caso_clinico_oftalmologia202	T4	SPECIES	2319	2338	Streptococcus mitis	28037
+caso_clinico_medtropical105	T1	SPECIES	1143	1146	VIH	12721
+caso_clinico_medtropical105	T2	SPECIES	3143	3159	Escherichia coli	562
+caso_clinico_medtropical105	T3	SPECIES	3418	3432	S. stercoralis	6248
+caso_clinico_medtropical105	T4	SPECIES	3619	3644	Strongyloides stercoralis	6248
+casos_clinicos_infecciosas31	T1	SPECIES	6793	6809	de Mycobacterium	1785
+casos_clinicos_infecciosas31	T2	SPECIES	7158	7171	Mycobacterium	1763
+casos_clinicos_infecciosas31	T3	SPECIES	7354	7367	Mycobacterium	1763
+caso_clinico_medtropical104	T1	SPECIES	628	639	de Anisakis	6268
+caso_clinico_medtropical104	T2	SPECIES	1183	1191	Anisakis	6268
+caso_clinico_medtropical104	T3	SPECIES	1193	1208	Pseudoterranova	6270
+caso_clinico_medtropical104	T4	SPECIES	1211	1223	Contracaecum	47567
+cc_onco348	T1	SPECIES	1476	1480	HHV8	37296
+caso_clinico_urologia408	T1	SPECIES	992	997	virus	10239
+caso_clinico_urologia408	T2	SPECIES	1019	1022	VIH	12721
+caso_clinico_urologia408	T3	SPECIES	2644	2665	Pneumocystis jiroveci	42068
+caso_clinico_medicina_interna1002	T1	SPECIES	1754	1757	VIH	12721
+caso_clinico_medicina_interna1002	T2	SPECIES	1759	1768	R.conorii	781
+caso_clinico_medicina_interna1002	T3	SPECIES	1798	1808	Toxoplasma	5810
+caso_clinico_medicina_interna1002	T4	SPECIES	1810	1813	CMV	12305|10358|36410
+caso_clinico_medicina_interna1002	T5	SPECIES	1815	1825	T.spiralis	348606|186364|6334
+caso_clinico_medicina_interna1002	T6	SPECIES	1827	1840	E.histolytica	5759
+casos_clinicos_cardiologia22	T1	SPECIES	150	155	tenia	6202
+casos_clinicos_cardiologia22	T2	SPECIES	562	567	tenia	6202
+casos_clinicos_cardiologia22	T3	SPECIES	2316	2337	Staphylococcus aureus	1280
+caso_clinico_medtropical135	T1	SPECIES	1998	2006	Brucella	234
+caso_clinico_medtropical135	T2	SPECIES	2008	2018	Rickettsia	780
+caso_clinico_medtropical135	T3	SPECIES	2020	2028	Coxiella	776
+caso_clinico_medtropical135	T4	SPECIES	2030	2038	Borrelia	138
+caso_clinico_medtropical135	T5	SPECIES	2052	2066	Parvovirus B19	10798
+caso_clinico_medtropical135	T6	SPECIES	2085	2090	virus	10239
+caso_clinico_medtropical135	T7	SPECIES	2125	2135	Toxoplasma	5810
+caso_clinico_medtropical135	T8	SPECIES	2325	2341	Plasmodium vivax	5855
+caso_clinico_medtropical135	T9	SPECIES	2372	2380	P. vivax	5855
+casos_clinicos_infecciosas25	T1	SPECIES	176	181	tenia	6202
+casos_clinicos_infecciosas25	T2	SPECIES	6987	7012	Streptococcus intermedius	1338
+casos_clinicos_infecciosas25	T3	SPECIES	7528	7553	Streptococcus intermedius	1338
+cc_onco569	T1	SPECIES	921	924	VIH	12721
+cc_onco569	T2	SPECIES	933	938	virus	10239
+caso_clinico_neurologia335	T1	SPECIES	3851	3856	virus	10239
+caso_clinico_neurologia335	T2	SPECIES	3914	3932	Epstein-Barr virus	10376
+caso_clinico_neurologia335	T3	SPECIES	3934	3949	citomegalovirus	10358
+caso_clinico_neurologia335	T4	SPECIES	3951	3956	virus	10239
+caso_clinico_neurologia335	T5	SPECIES	3979	3984	virus	10239
+caso_clinico_neurologia335	T6	SPECIES	3988	4003	virus West Nile	11082
+caso_clinico_neurologia335	T7	SPECIES	4005	4010	virus	10239
+caso_clinico_neurologia335	T8	SPECIES	4020	4025	virus	10239
+caso_clinico_neurologia335	T9	SPECIES	4045	4050	virus	10239
+caso_clinico_neurologia335	T10	SPECIES	4055	4063	virus BK	1891762
+caso_clinico_neurologia335	T11	SPECIES	4066	4074	Borrelia	138
+caso_clinico_neurologia335	T12	SPECIES	4559	4562	VIH	12721
+caso_clinico_neurologia335	T13	SPECIES	4577	4585	Brucella	234
+caso_clinico_neurologia335	T14	SPECIES	4587	4608	Mycoplasma pneumoniae	2104
+caso_clinico_neurologia335	T15	SPECIES	4610	4630	Borrelia burgdorferi	139
+caso_clinico_neurologia335	T16	SPECIES	4632	4637	virus	10239
+caso_clinico_urgencias43	T1	SPECIES	2419	2440	Staphilococcus aureus	1280
+caso_clinico_medtropical103	T1	SPECIES	1221	1227	Brugia	6278
+caso_clinico_medtropical103	T2	SPECIES	1237	1256	Onchocerca volvulus	6282
+caso_clinico_medtropical103	T3	SPECIES	2089	2097	Chrysops	27458
+caso_clinico_medtropical103	T4	HUMAN	2468	2474	humans	9606
+es-S1130-01082009000500011-1	T1	SPECIES	1128	1133	virus	10239
+caso_clinico_medicina_interna267	T1	SPECIES	1504	1518	de Clostridium	1506
+cc_onco142	T1	SPECIES	3511	3522	de Nocardia	1821
+cc_onco142	T2	SPECIES	3558	3569	Aspergillus	5052
+cc_onco142	T3	SPECIES	3580	3593	C. pneumoniae	83558
+cc_onco142	T4	SPECIES	3608	3611	CMV	12305|10358|36410
+cc_onco142	T5	SPECIES	3614	3619	virus	10239
+cc_onco142	T6	SPECIES	4269	4274	tenia	6202
+cc_otorrinolaringologia310	T1	SPECIES	1067	1092	streptococcus intermedius	1338
+cc_onco916	T1	SPECIES	2515	2518	rat	10116
+caso_clinico_medtropical64	T1	SPECIES	1529	1547	Rickettsia conorii	781
+caso_clinico_medtropical64	T2	SPECIES	1550	1569	Borrelia burdorferi	139
+caso_clinico_medtropical64	T3	SPECIES	1997	2007	Rickettsia	780
+caso_clinico_medtropical64	T4	SPECIES	2129	2147	Rickettsia slovaca	35794
+caso_clinico_medtropical64	T5	SPECIES	2190	2209	Rickettsia raoultii	369822
+caso_clinico_medtropical64	T6	SPECIES	2211	2221	Rickettsia	780
+caso_clinico_medtropical64	T7	SPECIES	2322	2333	Dermacentor	34619
+caso_clinico_medtropical64	T8	SPECIES	2335	2346	Dermacentor	34619
+caso_clinico_medtropical64	T9	SPECIES	2387	2398	Dermacentor	34619
+caso_clinico_medtropical64	T10	SPECIES	2502	2513	Dermacentor	34619
+32590204_ES	T1	SPECIES	1238	1243	virus	10239
+32590204_ES	T2	SPECIES	1285	1300	citomegalovirus	10358
+32590204_ES	T3	SPECIES	1466	1477	de Brucella	52132
+32590204_ES	T4	SPECIES	1480	1483	VIH	12721
+32590204_ES	T5	SPECIES	1907	1917	SARS-CoV-2	2697049
+32590204_ES	T6	SPECIES	2006	2016	SARS-CoV-2	2697049
+caso_clinico_urologia267	T1	SPECIES	6395	6418	Acinetobacter bauii	470
+caso_clinico_urologia155	T1	SPECIES	1092	1103	Mycoplasmas	2085
+caso_clinico_urologia155	T2	SPECIES	1149	1170	Neisseria gonorrhoeae	485
+caso_clinico_urologia155	T3	SPECIES	1307	1328	Chlamydia trachomatis	813
+caso_clinico_urologia155	T4	SPECIES	1407	1428	Neisseria gonorrhoeae	485
+caso_clinico_urologia155	T5	SPECIES	2616	2621	tenia	6202
+caso_clinico_medtropical46	T1	SPECIES	2530	2539	E. vogeli	6213
+casos_clinicos_cardiologia3	T1	SPECIES	2737	2758	Staphylococcus aureus	1280
+casos_clinicos_cardiologia3	T2	SPECIES	2836	2862	Staphylococcus epidermidis	1282
+casos_clinicos_cardiologia3	T3	SPECIES	4245	4266	Staphylococcus aureus	1280
+casos_clinicos_cardiologia3	T4	SPECIES	5615	5624	S. aureus	1280
+casos_clinicos_infecciosas157	T1	SPECIES	4435	4457	Pneumocystis jirovecii	42068
+casos_clinicos_infecciosas157	T2	SPECIES	4526	4529	VIH	12721
+casos_clinicos_infecciosas157	T3	SPECIES	4622	4643	Staphylococcus aureus	1280
+casos_clinicos_infecciosas157	T4	SPECIES	4645	4658	Streptococcus	1301
+casos_clinicos_infecciosas157	T5	SPECIES	4665	4676	Pseudomonas	286
+casos_clinicos_infecciosas157	T6	SPECIES	8182	8190	Nocardia	1817
+casos_clinicos_infecciosas157	T7	SPECIES	8352	8376	Nocardia cyriacigeorgica	135487
+casos_clinicos_infecciosas157	T8	SPECIES	8500	8522	Pneumocystis jirovecii	42068
+casos_clinicos_infecciosas157	T9	SPECIES	9056	9080	Nocardia cyriacigeorgica	135487
+cc_onco735	T1	SPECIES	223	228	virus	10239
+caso_clinico_dermatologia180	T1	SPECIES	2243	2264	Neisseria gonorrhoeae	485
+es-S0376-78922016000400007-1	T1	SPECIES	2726	2748	Pseudomonas aeruginosa	287
+caso_clinico_radiologia1116	T1	SPECIES	1213	1216	VIH	12721
+caso_clinico_psiquiatria119	T1	SPECIES	478	483	virus	10239
+caso_clinico_psiquiatria119	T2	SPECIES	516	519	VIH	12721
+caso_clinico_psiquiatria119	T3	SPECIES	764	769	virus	10239
+caso_clinico_psiquiatria119	T4	SPECIES	775	786	hepatitis C	11103
+caso_clinico_psiquiatria119	T5	SPECIES	1343	1346	VIH	12721
+caso_clinico_psiquiatria119	T6	SPECIES	4327	4330	VIH	12721
+caso_clinico_psiquiatria119	T7	SPECIES	4355	4358	VIH	12721
+caso_clinico_psiquiatria119	T8	SPECIES	5749	5754	HIV-2	11709
+caso_clinico_psiquiatria119	T9	SPECIES	5768	5779	Hepatitis C	11103
+caso_clinico_medicina_interna565	T1	SPECIES	1814	1822	Brucella	234
+caso_clinico_medicina_interna565	T2	SPECIES	1825	1839	Staphylococcus	1279
+caso_clinico_medicina_interna565	T3	SPECIES	1898	1908	Klebsiella	570
+caso_clinico_medicina_interna565	T4	SPECIES	2166	2180	Staphylococcus	1279
+caso_clinico_medicina_interna565	T5	SPECIES	2625	2639	Staphylococcus	1279
+caso_clinico_neurologia255	T1	SPECIES	2751	2761	retrovirus	31931|11632
+caso_clinico_neurologia255	T2	SPECIES	2769	2777	Borrelia	138
+caso_clinico_neurologia255	T3	SPECIES	2779	2787	Brucella	234
+caso_clinico_neurologia255	T4	SPECIES	2809	2814	virus	10239
+casos_clinicos_infecciosas86	T1	SPECIES	4023	4036	M. pneumoniae	2104
+casos_clinicos_infecciosas86	T2	SPECIES	4279	4292	M. pneumoniae	2104
+casos_clinicos_infecciosas86	T3	SPECIES	5959	5968	S. aureus	78380|98688|211046|1280|193461|411806|170984|507602
+casos_clinicos_infecciosas86	T4	SPECIES	8181	8196	citomegalovirus	10358
+casos_clinicos_infecciosas86	T5	SPECIES	8198	8203	virus	10239
+casos_clinicos_infecciosas86	T6	SPECIES	8251	8268	Coxiella burnetii	777
+casos_clinicos_infecciosas86	T7	SPECIES	8270	8290	Chlamydia pneumoniae	83558
+casos_clinicos_infecciosas86	T8	SPECIES	8292	8313	Mycoplasma pneumoniae	2104
+casos_clinicos_infecciosas86	T9	SPECIES	8315	8325	Parvovirus	1506574
+casos_clinicos_infecciosas86	T10	SPECIES	8329	8332	VIH	12721
+casos_clinicos_infecciosas86	T11	SPECIES	8369	8390	Mycoplasma pneumoniae	2104
+casos_clinicos_infecciosas86	T12	SPECIES	8659	8672	M. pneumoniae	2104
+casos_clinicos_infecciosas86	T13	SPECIES	9127	9140	M. pneumoniae	2104
+casos_clinicos_infecciosas86	T14	SPECIES	9261	9274	M. pneumoniae	2104
+casos_clinicos_infecciosas86	T15	SPECIES	9868	9889	Mycoplasma pneumoniae	2104
+es-S0212-71992000001200010-1	T1	SPECIES	1689	1693	prim	13597
+es-S0212-71992000001200010-1	T2	SPECIES	1933	1954	Streptococcus milleri	33040|671232
+caso_clinico_oftalmologia29	T1	SPECIES	987	1008	Chlamydia trachomatis	813
+caso_clinico_oftalmologia29	T2	SPECIES	1562	1583	Chlamydia trachomatis	813
+caso_clinico_medtropical55	T1	SPECIES	98	103	tenia	6202
+caso_clinico_medicina_interna465	T1	SPECIES	1827	1849	Lysteria monocytogenes	1639
+es-S0212-71992006000800008-1	T1	SPECIES	856	875	helicobacter pylori	210
+es-S0212-71992006000800008-1	T2	SPECIES	2266	2270	prim	13597
+caso_clinico_urgencias32	T1	SPECIES	824	844	Candida parapsilosis	5480
+32360439-B_ES	T1	SPECIES	1095	1103	COVID-19	2697049
+32360439-B_ES	T2	SPECIES	1159	1164	virus	10239
+32399450_ES	T1	SPECIES	718	726	COVID-19	2697049
+es-S1130-05582007000500007-1	T1	SPECIES	306	309	VIH	12721
+caso_clinico_medicina_interna298	T1	SPECIES	1949	1971	Mycobacterium chimaera	222805
+caso_clinico_medicina_interna298	T2	SPECIES	2195	2215	micobacteria atípica	36531
+caso_clinico_radiologia251	T1	SPECIES	886	907	Clostridium difficile	1496
+caso_clinico_medicina_interna424	T1	SPECIES	1571	1591	Actinomyces israelii	1659
+caso_clinico_medicina_interna424	T2	SPECIES	1999	2019	Actinomyces israelii	1659
+caso_clinico_radiologia998	T1	SPECIES	847	857	Klebsiella	570
+caso_clinico_medicina_interna548	T1	SPECIES	1560	1585	Strongyloides stercoralis	6248
+caso_clinico_medicina_interna548	T2	SPECIES	1613	1623	de Giardia	5740
+caso_clinico_medicina_interna548	T3	SPECIES	1633	1651	de Cryptosporidium	5806
+caso_clinico_medicina_interna548	T4	SPECIES	1661	1673	de Entamoeba	5758
+caso_clinico_medicina_interna548	T5	SPECIES	1728	1731	VIH	12721
+caso_clinico_medicina_interna548	T6	SPECIES	1753	1764	Histoplasma	5036
+caso_clinico_medicina_interna548	T7	SPECIES	1766	1778	Coccidioides	5500
+caso_clinico_medicina_interna548	T8	SPECIES	1780	1796	Paracoccidioides	38946
+caso_clinico_medicina_interna548	T9	SPECIES	1799	1810	Blastomyces	229219
+caso_clinico_medicina_interna548	T10	SPECIES	1848	1861	Strongyloides	6247
+caso_clinico_medicina_interna548	T11	SPECIES	1926	1939	Strongyloides	6247
+es-S1130-01082010000200011-1	T1	SPECIES	929	933	prim	13597
+es-S1130-01082010000200011-1	T2	SPECIES	1149	1155	animal	33208
+es-S1130-01082010000200011-1	T3	SPECIES	1358	1362	prim	13597
+caso_clinico_medicina_interna108	T1	SPECIES	51	54	VIH	12721
+caso_clinico_medicina_interna108	T2	SPECIES	753	756	VIH	12721
+casos_clinicos_pediatria77	T1	SPECIES	2089	2099	adenovirus	10535|10508
+casos_clinicos_infecciosas90	T1	HUMAN	608	612	mans	9606
+casos_clinicos_infecciosas90	T2	SPECIES	1659	1683	Streptococcus pneumoniae	1313
+casos_clinicos_infecciosas90	T3	SPECIES	2369	2384	N. meningitidis	487
+casos_clinicos_infecciosas90	T4	SPECIES	2386	2399	S. pneumoniae	1313
+casos_clinicos_infecciosas90	T5	SPECIES	2402	2415	H. influenzae	727
+casos_clinicos_infecciosas90	T6	SPECIES	2851	2873	Listeria monocytogenes	1639
+casos_clinicos_infecciosas90	T7	SPECIES	2939	2942	VIH	12721
+casos_clinicos_infecciosas90	T8	SPECIES	3501	3525	Streptococcus pneumoniae	1313
+casos_clinicos_infecciosas90	T9	SPECIES	3568	3590	Neisseria meningitidis	487
+casos_clinicos_infecciosas90	T10	SPECIES	4034	4049	N. meningitidis	487
+casos_clinicos_infecciosas90	T11	SPECIES	4051	4064	S. pneumoniae	1313
+casos_clinicos_infecciosas90	T12	SPECIES	4067	4080	H. influenzae	727
+casos_clinicos_infecciosas90	T13	SPECIES	4295	4317	Listeria monocytogenes	1639
+casos_clinicos_infecciosas90	T14	SPECIES	4644	4647	VIH	12721
+casos_clinicos_infecciosas90	T15	SPECIES	4782	4791	Treponema	157
+casos_clinicos_infecciosas90	T16	SPECIES	5879	5891	de Treponema	166
+casos_clinicos_infecciosas90	T17	SPECIES	6563	6568	virus	10239
+casos_clinicos_infecciosas90	T18	SPECIES	6586	6589	VIH	12721
+casos_clinicos_infecciosas90	T19	SPECIES	6591	6596	virus	10239
+casos_clinicos_infecciosas90	T20	SPECIES	6617	6620	WNV	11082
+casos_clinicos_infecciosas90	T21	SPECIES	6623	6628	virus	10239
+casos_clinicos_infecciosas90	T22	SPECIES	6654	6657	VZV	10335
+casos_clinicos_infecciosas90	T23	SPECIES	6660	6665	virus	10239
+casos_clinicos_infecciosas90	T24	SPECIES	6684	6689	virus	10239
+casos_clinicos_infecciosas90	T25	SPECIES	6782	6787	virus	10239
+casos_clinicos_infecciosas90	T26	SPECIES	8058	8061	VIH	12721
+casos_clinicos_infecciosas90	T27	SPECIES	8545	8555	criptococo	5206
+casos_clinicos_infecciosas90	T28	SPECIES	8610	8613	VIH	12721
+casos_clinicos_infecciosas90	T29	SPECIES	9002	9012	criptococo	5206
+casos_clinicos_infecciosas90	T30	SPECIES	9161	9164	VIH	12721
+casos_clinicos_infecciosas90	T31	SPECIES	9371	9394	Cryptococcus neoformans	5207
+casos_clinicos_infecciosas90	T32	SPECIES	10488	10511	Cryptococcus neoformans	5207
+casos_clinicos_infecciosas90	T33	SPECIES	10836	10839	VIH	12721
+casos_clinicos_infecciosas90	T34	SPECIES	10858	10861	VIH	12721
+casos_clinicos_infecciosas90	T35	SPECIES	11364	11376	Cryptococcus	5206
+casos_clinicos_infecciosas90	T36	SPECIES	11773	11776	VIH	12721
+casos_clinicos_infecciosas90	T37	SPECIES	11824	11827	VIH	12721
+casos_clinicos_infecciosas90	T38	SPECIES	12615	12637	Pneumocystis jirovecii	42068
+casos_clinicos_infecciosas90	T39	SPECIES	13174	13197	Cryptococcus neoformans	5207
+cc_onco940	T1	SPECIES	1650	1655	tenia	6202
+cc_onco940	T2	SPECIES	4805	4830	Streptococcus intermedius	1338
+es-S0212-71992006000100005-1	T1	HUMAN	1297	1301	mans	9606
+es-S0212-71992006000100005-1	T2	SPECIES	2050	2053	VIH	12721
+es-S0212-71992006000100005-1	T3	SPECIES	2056	2059	CMV	12305|10358|36410
+es-S0212-71992006000100005-1	T4	SPECIES	2377	2404	Trichophyton mentagrophytes	523103
+es-S0212-71992006000100005-1	T5	SPECIES	2467	2477	Alternaria	5598
+caso_clinico_medicina_interna222	T1	SPECIES	690	693	VIH	12721
+caso_clinico_dermatologia345	T1	SPECIES	2821	2824	VIH	12721
+caso_clinico_medicina_interna319	T1	SPECIES	1358	1385	Mycobacterium avium complex	37162
+32292904_ES	T1	SPECIES	315	320	virus	10239
+32292904_ES	T2	SPECIES	1362	1372	SARS-CoV-2	2697049
+32292904_ES	T3	SPECIES	1546	1554	COVID-19	2697049
+32292904_ES	T4	SPECIES	1595	1603	COVID-19	2697049
+32292904_ES	T5	SPECIES	1749	1757	COVID-19	2697049
+32292904_ES	T6	SPECIES	1950	1958	COVID-19	2697049
+32292904_ES	T7	SPECIES	1985	1990	tenia	6202
+32292904_ES	T8	SPECIES	2176	2186	SARS-CoV-2	2697049
+32292904_ES	T9	SPECIES	2341	2351	SARS-CoV-2	2697049
+32292904_ES	T10	SPECIES	2843	2853	SARS-CoV-2	2697049
+caso_clinico_neurologia212	T1	SPECIES	2521	2524	VIH	12721
+32119083_ES	T1	SPECIES	485	495	SARS-CoV-2	2697049
+32119083_ES	T2	SPECIES	976	986	SARS-CoV-2	2697049
+32119083_ES	T3	SPECIES	1239	1247	COVID-19	2697049
+32119083_ES	T4	SPECIES	2139	2149	SARS-CoV-2	2697049
+32119083_ES	T5	SPECIES	2156	2161	virus	10239
+32119083_ES	T6	SPECIES	4177	4187	SARS-CoV-2	2697049
+32631646_ES	T1	SPECIES	442	450	COVID-19	2697049
+32631646_ES	T2	SPECIES	487	495	COVID-19	2697049
+32631646_ES	T3	SPECIES	2217	2228	coronavirus	2697049
+32631646_ES	T4	SPECIES	2230	2238	COVID-19	2697049
+32631646_ES	T5	SPECIES	2390	2398	COVID-19	2697049
+cc_onco275	T1	SPECIES	161	164	VIH	12721
+cc_onco275	T2	SPECIES	329	349	Pneumocystis carinii	4754
+cc_onco275	T3	SPECIES	4000	4003	VIH	12721
+32637086A_ES	T1	SPECIES	130	140	SARS-CoV-2	2697049
+32637086A_ES	T2	SPECIES	460	470	SARS-CoV-2	2697049
+32637086A_ES	T3	SPECIES	563	577	de coronavirus	11118
+32637086A_ES	T4	SPECIES	2242	2250	COVID-19	2697049
+caso_clinico_urologia157	T1	SPECIES	837	862	de Pseudomonas aeruginosa	136841
+caso_clinico_urologia157	T2	SPECIES	1155	1177	Pseudomonas aeruginosa	287
+caso_clinico_urologia157	T3	SPECIES	1819	1832	P. aeruginosa	287
+casos_clinicos_infecciosas66	T1	SPECIES	146	154	COVID-19	2697049
+casos_clinicos_infecciosas57	T1	SPECIES	524	545	Aspergillus fumigatus	746128
+casos_clinicos_infecciosas57	T2	SPECIES	1015	1018	CMV	12305|10358|36410
+casos_clinicos_infecciosas57	T3	SPECIES	4628	4641	Streptococcus	1301
+casos_clinicos_infecciosas57	T4	SPECIES	4655	4667	Enterococcus	1350
+casos_clinicos_infecciosas57	T5	SPECIES	4734	4748	Staphylococcus	1279
+casos_clinicos_infecciosas57	T6	SPECIES	5870	5887	Toxoplasma gondii	5811
+casos_clinicos_infecciosas57	T7	SPECIES	6002	6005	VIH	12721
+casos_clinicos_infecciosas57	T8	SPECIES	6192	6218	Mycobacterium tuberculosis	77643|1773
+casos_clinicos_infecciosas57	T9	SPECIES	6221	6229	Nocardia	1817
+casos_clinicos_infecciosas57	T10	SPECIES	6833	6841	Nocardia	1817
+casos_clinicos_infecciosas57	T11	SPECIES	7314	7317	VIH	12721
+casos_clinicos_infecciosas57	T12	SPECIES	7400	7422	Listeria monocytogenes	1639
+casos_clinicos_infecciosas57	T13	SPECIES	8944	8954	Toxoplasma	5810
+casos_clinicos_infecciosas57	T14	SPECIES	8987	8990	VIH	12721
+casos_clinicos_infecciosas57	T15	SPECIES	10333	10349	de Mycobacterium	1785
+casos_clinicos_infecciosas57	T16	SPECIES	10542	10555	N. asteroides	1824
+casos_clinicos_infecciosas57	T17	SPECIES	10854	10867	N. asteroides	1824
+caso_clinico_medicina_interna811	T1	SPECIES	901	919	Campylobacter coli	195
+caso_clinico_medicina_interna811	T2	SPECIES	1817	1840	Lichtheimia corymbifera	42458
+caso_clinico_medicina_interna811	T3	SPECIES	2090	2101	Lichtheimia	688353
+es-S1137-66272012000300021-1	T1	SPECIES	1720	1736	Candida albicans	5476
+caso_clinico_medicina_interna156	T1	SPECIES	1097	1118	mycoplasma pneumoniae	2104
+caso_clinico_medicina_interna156	T2	SPECIES	1221	1242	Aspergillus fumigatus	746128
+caso_clinico_medicina_interna156	T3	SPECIES	1323	1327	H1N1	114727
+caso_clinico_medicina_interna156	T4	SPECIES	1431	1436	virus	10239
+casos_clinicos_pediatria25	T1	SPECIES	379	387	COVID-19	2697049
+casos_clinicos_pediatria25	T2	SPECIES	618	623	virus	10239
+casos_clinicos_pediatria25	T3	SPECIES	1412	1420	COVID-19	2697049
+casos_clinicos_pediatria25	T4	SPECIES	1450	1460	SARS-CoV-2	2697049
+casos_clinicos_pediatria25	T5	SPECIES	1615	1625	SARS-CoV-2	2697049
+casos_clinicos_pediatria25	T6	SPECIES	1822	1832	SARS-CoV-2	2697049
+casos_clinicos_pediatria25	T7	SPECIES	2450	2458	COVID-19	2697049
+32277408_ES	T1	SPECIES	154	159	tenia	6202
+32277408_ES	T2	SPECIES	551	556	virus	10239
+32277408_ES	T3	SPECIES	1011	1019	COVID-19	2697049
+32277408_ES	T4	SPECIES	3009	3016	Candida	5475
+32277408_ES	T5	SPECIES	3020	3031	herpesvirus	39059
+32277408_ES	T6	SPECIES	3041	3052	herpesvirus	39059
+32277408_ES	T7	SPECIES	3123	3134	Bacteroides	816
+caso_clinico_atencion_primaria177	T1	SPECIES	1507	1510	tia	72648
+caso_clinico_atencion_primaria177	T2	SPECIES	1630	1634	prim	13597
+caso_clinico_atencion_primaria177	T3	SPECIES	1740	1745	tenia	6202
+caso_clinico_atencion_primaria177	T4	SPECIES	2353	2356	VIH	12721
+caso_clinico_atencion_primaria177	T5	SPECIES	2366	2369	CMV	12305|10358|36410
+caso_clinico_atencion_primaria177	T6	SPECIES	2494	2499	virus	10239
+caso_clinico_atencion_primaria177	T7	SPECIES	2500	2511	hepatitis C	11103
+caso_clinico_psiquiatria13	T1	SPECIES	5711	5719	escolars	13587
+casos_clinicos_cardiologia186	T1	SPECIES	2954	2964	adenovirus	10535|10508
+casos_clinicos_cardiologia186	T2	SPECIES	2987	2992	virus	10239
+casos_clinicos_cardiologia186	T3	SPECIES	3014	3027	de Toxoplasma	5810
+casos_clinicos_cardiologia186	T4	SPECIES	3029	3032	CMV	12305|10358|36410
+casos_clinicos_cardiologia186	T5	SPECIES	3074	3077	VIH	12721
+32363217_ES	T1	SPECIES	9	14	tenia	6202
+32363217_ES	T2	SPECIES	195	200	tenia	6202
+32363217_ES	T3	SPECIES	1133	1138	tenia	6202
+32363217_ES	T4	SPECIES	1182	1193	coronavirus	2697049
+32363217_ES	T5	SPECIES	1512	1528	coronavirus 2019	2697049
+32363217_ES	T6	SPECIES	1982	1990	COVID-19	2697049
+32363217_ES	T7	SPECIES	3195	3203	COVID-19	2697049
+casos_clinicos_infecciosas151	T1	SPECIES	4288	4311	Schistosoma haematobium	6185
+casos_clinicos_infecciosas151	T2	SPECIES	4350	4364	S. haematobium	6185
+casos_clinicos_infecciosas151	T3	SPECIES	4860	4874	S. haematobium	6185
+casos_clinicos_infecciosas151	T4	SPECIES	5106	5120	de Schistosoma	6181
+casos_clinicos_infecciosas151	T5	HUMAN	5146	5152	humans	9606
+casos_clinicos_infecciosas151	T6	SPECIES	6280	6285	virus	10239
+casos_clinicos_infecciosas151	T7	SPECIES	6319	6324	virus	10239
+casos_clinicos_infecciosas151	T8	SPECIES	6449	6460	Schistosoma	6181
+casos_clinicos_infecciosas23	T1	SPECIES	1775	1780	virus	10239
+casos_clinicos_infecciosas23	T2	SPECIES	1802	1807	virus	10239
+casos_clinicos_infecciosas23	T3	SPECIES	3291	3296	virus	10239
+casos_clinicos_infecciosas23	T4	SPECIES	3423	3445	Listeria monocytogenes	1639
+casos_clinicos_infecciosas23	T5	SPECIES	3447	3473	Mycobacterium tuberculosis	77643|1773
+casos_clinicos_infecciosas23	T6	SPECIES	3481	3499	Treponema pallidum	160
+casos_clinicos_infecciosas23	T7	SPECIES	3501	3509	Brucella	234
+casos_clinicos_infecciosas23	T8	SPECIES	3512	3524	Cryptococcus	5206
+casos_clinicos_infecciosas23	T9	SPECIES	3741	3746	virus	10239
+casos_clinicos_infecciosas23	T10	SPECIES	3809	3817	Listeria	1637
+casos_clinicos_infecciosas23	T11	SPECIES	3971	3976	virus	10239
+casos_clinicos_infecciosas23	T12	SPECIES	5995	5998	VIH	12721
+casos_clinicos_infecciosas23	T13	SPECIES	6849	6861	Cryptococcus	5206
+casos_clinicos_infecciosas23	T14	SPECIES	7496	7499	VIH	12721
+casos_clinicos_infecciosas23	T15	SPECIES	7605	7627	Listeria monocytogenes	1639
+casos_clinicos_infecciosas23	T16	SPECIES	8816	8824	Listeria	1637
+caso_clinico_radiologia585	T1	SPECIES	795	816	Staphylococcus aureus	1280
+cc_onco81	T1	SPECIES	4106	4120	Candida krusei	4909
+es-S0211-69952009000500014-1	T1	SPECIES	581	586	carps	7962
+es-S0211-69952009000500014-1	T2	SPECIES	1200	1203	VIH	12721
+caso_clinico_medicina_interna977	T1	SPECIES	25	28	VIH	12721
+caso_clinico_medicina_interna977	T2	SPECIES	902	915	Micobacterium	1763
+caso_clinico_medicina_interna977	T3	SPECIES	1109	1122	Micobacterium	1763
+caso_clinico_medicina_interna977	T4	HUMAN	1251	1255	mans	9606
+caso_clinico_medicina_interna913	T1	SPECIES	950	953	CMV	12305|10358|36410
+caso_clinico_medicina_interna913	T2	SPECIES	955	965	Toxoplasma	5810
+caso_clinico_medicina_interna913	T3	SPECIES	967	970	VIH	12721
+caso_clinico_medicina_interna913	T4	SPECIES	1073	1081	Brucella	234
+caso_clinico_medicina_interna913	T5	SPECIES	1083	1091	Borrelia	138
+caso_clinico_medicina_interna913	T6	SPECIES	1093	1110	Coxiella burnetii	777
+caso_clinico_medicina_interna913	T7	SPECIES	1113	1123	Rickettsia	780
+caso_clinico_medicina_interna913	T8	SPECIES	1142	1163	Mycoplasma pneumoniae	2104
+caso_clinico_medicina_interna913	T9	SPECIES	1185	1199	Parvovirus B19	10798
+casos_clinicos_cardiologia37	T1	SPECIES	3336	3357	Enterococcus faecalis	1351
+caso_clinico_medicina_interna821	T1	SPECIES	1564	1584	Tropheryma whippelii	2039
+casos_clinicos_infecciosas167	T1	SPECIES	1891	1912	Clostridium difficile	1496
+casos_clinicos_infecciosas167	T2	SPECIES	2309	2324	citomegalovirus	10358
+casos_clinicos_infecciosas167	T3	SPECIES	2326	2329	CMV	10358
+casos_clinicos_infecciosas167	T4	SPECIES	2332	2343	herpesvirus	39059
+casos_clinicos_infecciosas167	T5	SPECIES	2361	2366	virus	10239
+casos_clinicos_infecciosas167	T6	SPECIES	2462	2465	CMV	10358
+casos_clinicos_infecciosas167	T7	SPECIES	2548	2553	virus	10239
+casos_clinicos_infecciosas167	T8	SPECIES	2855	2858	CMV	10358
+casos_clinicos_infecciosas167	T9	SPECIES	3647	3650	CMV	10358
+casos_clinicos_infecciosas167	T10	SPECIES	5652	5657	tenia	6202
+casos_clinicos_infecciosas167	T11	SPECIES	6095	6116	Staphylococcus aureus	1280
+casos_clinicos_infecciosas167	T12	SPECIES	6118	6136	Chlamydia psittaci	83557|83554|83555|83556
+casos_clinicos_infecciosas167	T13	SPECIES	6139	6149	Mycoplasma	2093
+casos_clinicos_infecciosas167	T14	SPECIES	6490	6493	CMV	10358
+casos_clinicos_infecciosas167	T15	SPECIES	6574	6579	virus	10239
+casos_clinicos_infecciosas167	T16	SPECIES	6649	6652	CMV	10358
+casos_clinicos_infecciosas167	T17	SPECIES	6953	6964	Histoplasma	5036
+casos_clinicos_infecciosas167	T18	SPECIES	6966	6977	Blastomyces	229219
+casos_clinicos_infecciosas167	T19	SPECIES	7048	7059	Aspergillus	5052
+casos_clinicos_infecciosas167	T20	SPECIES	7061	7083	Pneumocystis jirovecii	42068
+casos_clinicos_infecciosas167	T21	SPECIES	7086	7098	Cryptococcus	5206
+casos_clinicos_infecciosas167	T22	SPECIES	7284	7295	Aspergillus	5052
+casos_clinicos_infecciosas167	T23	SPECIES	7400	7403	CMV	10358
+casos_clinicos_infecciosas167	T24	SPECIES	7564	7576	P. jirovecii	42068
+casos_clinicos_infecciosas167	T25	SPECIES	7696	7708	Cryptococcus	5206
+casos_clinicos_infecciosas167	T26	SPECIES	7860	7868	Nocardia	1817
+casos_clinicos_infecciosas167	T27	SPECIES	8732	8744	P. jirovecii	42068
+casos_clinicos_infecciosas167	T28	SPECIES	9934	9960	Mycobacterium tuberculosis	77643|1773
+casos_clinicos_infecciosas167	T29	SPECIES	10530	10545	citomegalovirus	10358
+caso_clinico_medicina_interna268	T1	SPECIES	1303	1306	VIH	12721
+cc_onco526	T1	SPECIES	1312	1317	HHV-8	37296
+cc_onco526	T2	SPECIES	1867	1870	VIH	12721
+cc_onco526	T3	SPECIES	1873	1876	VIH	12721
+casos_clinicos_infecciosas131	T1	SPECIES	3414	3424	Salmonella	590
+casos_clinicos_infecciosas131	T2	SPECIES	3567	3577	Salmonella	590
+casos_clinicos_infecciosas131	T3	SPECIES	3919	3929	Salmonella	590
+casos_clinicos_infecciosas131	T4	SPECIES	4641	4651	Salmonella	590
+casos_clinicos_infecciosas131	T5	SPECIES	4929	4939	Salmonella	590
+casos_clinicos_infecciosas131	T6	SPECIES	5162	5172	Salmonella	590
+casos_clinicos_infecciosas131	T7	SPECIES	5730	5733	VIH	12721
+casos_clinicos_infecciosas131	T8	SPECIES	5811	5821	Salmonella	590
+casos_clinicos_infecciosas131	T9	SPECIES	6226	6236	Salmonella	590
+casos_clinicos_infecciosas131	T10	SPECIES	6684	6697	de Salmonella	599
+casos_clinicos_infecciosas131	T11	SPECIES	7030	7053	Schistosoma haematobium	6185
+casos_clinicos_infecciosas131	T12	SPECIES	7107	7117	Salmonella	590
+caso_clinico_medicina_interna288	T1	SPECIES	377	395	Peptostreptococcus	1257
+cc_onco659	T1	SPECIES	1550	1571	Clostridium difficile	1496
+casos_clinicos_infecciosas8	T1	SPECIES	3660	3665	tenia	6202
+casos_clinicos_infecciosas8	T2	SPECIES	4132	4153	Neisseria gonorrhoeae	485
+casos_clinicos_infecciosas8	T3	SPECIES	4155	4176	Chlamydia trachomatis	813
+casos_clinicos_infecciosas8	T4	SPECIES	4178	4199	Mycoplasma genitalium	2097
+casos_clinicos_infecciosas8	T5	SPECIES	4238	4241	VIH	12721
+casos_clinicos_infecciosas8	T6	SPECIES	7163	7166	VIH	12721
+casos_clinicos_infecciosas8	T7	SPECIES	7905	7916	Actinomyces	1654
+es-S1130-01082009000300015-1	T1	SPECIES	1915	1929	plantago ovata	185002
+es-S1130-01082009000300015-1	T2	SPECIES	2682	2696	plantago ovata	185002
+es-S0212-16112004000400007-1	T1	HUMAN	2405	2409	mans	9606
+es-S0212-16112004000400007-1	T2	SPECIES	4041	4048	Candida	5475
+cc_onco737	T1	SPECIES	266	285	Helicobacter pylori	210
+cc_onco737	T2	SPECIES	3125	3130	virus	10239
+cc_onco737	T3	SPECIES	4851	4858	E. coli	110766|562
+caso_clinico_neurologia209	T1	HUMAN	87	91	mans	9606
+caso_clinico_neurologia209	T2	HUMAN	291	295	mans	9606
+caso_clinico_neurologia209	T3	HUMAN	464	468	mans	9606
+caso_clinico_neurologia209	T4	HUMAN	626	630	mans	9606
+caso_clinico_neurologia209	T5	SPECIES	953	958	tenia	6202
+caso_clinico_neurologia209	T6	SPECIES	2654	2657	VIH	12721
+caso_clinico_neurologia209	T7	SPECIES	2962	2967	virus	10239
+caso_clinico_neurologia209	T8	SPECIES	4314	4334	Mycobacterium leprae	1769
+caso_clinico_alergologia152	T1	SPECIES	402	421	Penicillium notatum	5076
+caso_clinico_alergologia152	T2	SPECIES	852	875	Penicillium nalgiovense	60175
+caso_clinico_alergologia152	T3	SPECIES	976	987	Penicillium	5073
+caso_clinico_alergologia152	T4	SPECIES	1047	1058	Penicillium	5073
+caso_clinico_alergologia152	T5	SPECIES	1102	1121	Penicillium notatum	5076
+caso_clinico_alergologia152	T6	SPECIES	1267	1278	Penicillium	5073
+caso_clinico_alergologia152	T7	SPECIES	1380	1391	Penicillium	5073
+es-S0212-71992005001100007-1	T1	SPECIES	2448	2451	VIH	12721
+caso_clinico_medicina_interna422	T1	SPECIES	1162	1175	Mycobacterium	1763
+caso_clinico_urologia307	T1	SPECIES	4300	4321	Klebsiella pneumoniae	573
+caso_clinico_urologia307	T2	SPECIES	4329	4341	Enterococcus	1350
+caso_clinico_urologia307	T3	SPECIES	4450	4470	Enterococcus faecium	1352
+caso_clinico_dermatologia135	T1	SPECIES	507	512	tenia	6202
+caso_clinico_dermatologia135	T2	SPECIES	1879	1906	Trichophyton mentagrophytes	523103
+caso_clinico_medicina_interna18	T1	SPECIES	2189	2211	Pseudomonas aeruginosa	287
+casos_clinicos_cardiologia21	T1	SPECIES	1686	1701	citomegalovirus	10358
+casos_clinicos_cardiologia21	T2	SPECIES	4071	4093	Histoplasma capsulatum	5037
+casos_clinicos_cardiologia21	T3	SPECIES	4647	4660	H. capsulatum	5037
+caso_clinico_medicina_interna112	T1	SPECIES	1044	1047	VIH	12721
+caso_clinico_medicina_interna112	T2	SPECIES	1691	1696	virus	10239
+caso_clinico_medicina_interna112	T3	SPECIES	1768	1771	VIH	12721
+caso_clinico_medicina_interna112	T4	SPECIES	1773	1776	CMV	12305|10358|36410
+caso_clinico_medicina_interna112	T5	SPECIES	1789	1799	Mycoplasma	2093
+caso_clinico_medicina_interna112	T6	SPECIES	1801	1809	Coxiella	776
+caso_clinico_medicina_interna112	T7	SPECIES	1811	1819	Borrelia	138
+32359711_ES	T1	SPECIES	945	961	coronavirus 2019	2697049
+32359711_ES	T2	SPECIES	963	971	COVID-19	2697049
+32633439_ES	T1	SPECIES	306	316	SARS-CoV-2	2697049
+32633439_ES	T2	SPECIES	329	334	tenia	6202
+32633439_ES	T3	SPECIES	575	585	SARS-CoV-2	2697049
+32633439_ES	T4	SPECIES	1304	1309	virus	10239
+32633439_ES	T5	SPECIES	1412	1422	SARS-CoV-2	2697049
+32633439_ES	T6	SPECIES	1569	1579	SARS-CoV-2	2697049
+32617169_ES	T1	SPECIES	186	191	tenia	6202
+32617169_ES	T2	SPECIES	1005	1010	virus	10239
+32617169_ES	T3	SPECIES	1016	1027	hepatitis C	11103
+32617169_ES	T4	SPECIES	1152	1160	COVID-19	2697049
+32617169_ES	T5	SPECIES	1268	1279	coronavirus	2697049
+32617169_ES	T6	SPECIES	2078	2086	COVID-19	2697049
+caso_clinico_urologia330	T1	SPECIES	2425	2438	Micobacterium	1763
+cc_onco199	T1	SPECIES	2856	2884	Stenotrophomonas maltophilia	40324
+casos_clinicos_infecciosas103	T1	SPECIES	386	406	Enterobacter cloacae	550
+casos_clinicos_infecciosas103	T2	SPECIES	1406	1411	cocos	1869227
+casos_clinicos_infecciosas103	T3	SPECIES	1453	1470	Pasteurella canis	753
+caso_clinico_alergologia36	T1	SPECIES	962	965	VIH	12721
+caso_clinico_alergologia36	T2	SPECIES	1324	1334	equinococo	6209
+caso_clinico_alergologia36	T3	SPECIES	1356	1363	Giardia	5740
+caso_clinico_neurologia258	T1	SPECIES	183	197	serenoa repens	4722
+caso_clinico_neurologia258	T2	SPECIES	1986	1991	virus	10239
+caso_clinico_neurologia258	T3	SPECIES	2016	2021	virus	10239
+caso_clinico_medtropical62	T1	SPECIES	1037	1047	Rickettsia	780
+caso_clinico_medtropical62	T2	SPECIES	1568	1578	R. parkeri	66504|35792|616964
+es-S0376-78922009000100011-1	T1	SPECIES	1885	1888	VIH	12721
+es-S0376-78922009000100011-1	T2	SPECIES	1952	1970	bacteroides caccae	47678
+es-S0376-78922009000100011-1	T3	SPECIES	1972	1989	proteus mirabilis	584
+caso_clinico_neurologia324	T1	SPECIES	1854	1857	VIH	12721
+caso_clinico_neurologia324	T2	SPECIES	1859	1864	virus	10239
+caso_clinico_neurologia324	T3	SPECIES	1872	1883	hepatitis C	11103
+caso_clinico_neurologia324	T4	SPECIES	1930	1940	de Giardia	5740
+caso_clinico_neurologia324	T5	SPECIES	2036	2049	Strongyloides	6247
+caso_clinico_endocrinologia187	T1	SPECIES	47	50	VIH	12721
+caso_clinico_dermatologia94	T1	HUMAN	187	191	mans	9606
+caso_clinico_dermatologia94	T2	HUMAN	441	445	mans	9606
+caso_clinico_medtropical95	T1	SPECIES	2257	2268	hepatitis C	11103
+caso_clinico_medtropical95	T2	SPECIES	3629	3653	Bartonella bacilliformis	774
+caso_clinico_medtropical95	T3	SPECIES	4121	4131	Leptospira	171
+caso_clinico_medicina_interna704	T1	SPECIES	1533	1536	CMV	12305|10358|36410
+caso_clinico_medicina_interna704	T2	SPECIES	1558	1561	VIH	12721
+caso_clinico_medicina_interna704	T3	SPECIES	1808	1829	Chlamydia trachomatis	813
+caso_clinico_medicina_interna704	T4	SPECIES	1973	1987	C. trachomatis	813
+caso_clinico_neurologia114	T1	SPECIES	2306	2311	virus	10239
+es-S0365-66912007000900009-1	T1	SPECIES	208	213	virus	10239
+cc_onco839	T1	SPECIES	2223	2239	Candida albicans	5476
+es-S0212-71992006000700008-1	T1	SPECIES	1807	1810	VIH	12721
+es-S0212-71992006000700008-1	T2	SPECIES	1812	1817	virus	10239
+casos_clinicos_cardiologia196	T1	SPECIES	620	641	Klebsiella pneumoniae	573
+casos_clinicos_cardiologia196	T2	SPECIES	686	712	Staphylococcus epidermidis	1282
+casos_clinicos_cardiologia196	T3	SPECIES	1731	1736	tenia	6202
+caso_clinico_alergologia156	T1	HUMAN	105	109	mans	9606
+caso_clinico_alergologia156	T2	HUMAN	334	338	mans	9606
+caso_clinico_alergologia156	T3	SPECIES	552	560	Anisakis	6268
+caso_clinico_dermatologia163	T1	SPECIES	2088	2093	virus	10239
+caso_clinico_dermatologia163	T2	SPECIES	2108	2111	VIH	12721
+caso_clinico_dermatologia163	T3	SPECIES	2113	2134	Mycoplasma pneumoniae	2104
+caso_clinico_medtropical89	T1	SPECIES	833	848	Lonomia obliqua	304329
+caso_clinico_medtropical89	T2	SPECIES	850	860	L. obliqua	304329
+caso_clinico_medtropical89	T3	SPECIES	881	887	animal	33208
+casos_clinicos_infecciosas117	T1	SPECIES	1543	1567	Anaplasma phagocytophila	948
+casos_clinicos_infecciosas117	T2	SPECIES	1636	1656	Borrelia burgdorferi	139
+casos_clinicos_infecciosas117	T3	SPECIES	1954	1968	B. burgdorferi	139
+casos_clinicos_infecciosas117	T4	SPECIES	1988	2001	B.burgdorferi	139
+casos_clinicos_infecciosas117	T5	SPECIES	2044	2057	B.burgdorferi	139
+casos_clinicos_infecciosas135	T1	SPECIES	2623	2650	Aggregatibacter aphrophilus	732
+casos_clinicos_infecciosas135	T2	SPECIES	2653	2673	Streptococcus oralis	1303
+casos_clinicos_infecciosas135	T3	SPECIES	4026	4053	Aggregatibacter aphrophilus	732
+casos_clinicos_infecciosas135	T4	SPECIES	4058	4078	Streptococcus oralis	1303
+casos_clinicos_infecciosas135	T5	SPECIES	4752	4766	Staphylococcus	1279
+casos_clinicos_infecciosas135	T6	SPECIES	4892	4905	Streptococcus	1301
+casos_clinicos_infecciosas135	T7	SPECIES	4913	4925	Enterococcus	1350
+casos_clinicos_infecciosas135	T8	SPECIES	5005	5020	Aggregatibacter	416916
+casos_clinicos_infecciosas135	T9	SPECIES	7592	7601	S. oralis	1303
+casos_clinicos_infecciosas135	T10	SPECIES	7604	7618	A. aphrophilus	732
+casos_clinicos_infecciosas135	T11	SPECIES	8682	8709	Aggregatibacter aphrophilus	732
+casos_clinicos_infecciosas135	T12	SPECIES	8712	8732	Streptococcus oralis	1303
+es-S0004-06142007000100012-1	T1	SPECIES	469	472	VIH	12721
+caso_clinico_medtropical100	T1	SPECIES	1448	1456	L. major	5664|225018|419269|192173|488399|55468
+cc_onco421	T1	SPECIES	99	104	tenia	6202
+cc_onco421	T2	SPECIES	1356	1359	VIH	12721
+cc_onco421	T3	SPECIES	1588	1598	Alternaria	5598
+cc_onco421	T4	SPECIES	1617	1620	VIH	12721
+cc_onco278	T1	SPECIES	3882	3887	virus	10239
+caso_clinico_medicina_interna14	T1	SPECIES	135	150	Nerium oleander	63479
+caso_clinico_medicina_interna14	T2	SPECIES	152	159	baladre	63479
+casos_clinicos_cardiologia15	T1	SPECIES	1491	1513	Staphylococcus capitis	29388
+caso_clinico_dermatologia215	T1	SPECIES	1161	1168	E. coli	562
+caso_clinico_dermatologia215	T2	SPECIES	2214	2230	Escherichia coli	562
+caso_clinico_dermatologia215	T3	SPECIES	2782	2803	Staphilococcus aureus	1280
+caso_clinico_medicina_interna45	T1	SPECIES	2078	2081	CMV	12305|10358|36410
+caso_clinico_medicina_interna45	T2	SPECIES	2096	2104	virus BK	1891762
+caso_clinico_medicina_interna45	T3	SPECIES	2653	2661	Coxiella	776
+caso_clinico_medicina_interna45	T4	SPECIES	2702	2710	Coxiella	776
+caso_clinico_medicina_interna45	T5	SPECIES	2750	2758	Coxiella	776
+caso_clinico_medtropical96	T1	SPECIES	1587	1592	virus	10239
+caso_clinico_medtropical96	T2	SPECIES	1598	1609	hepatitis C	11103
+caso_clinico_medtropical96	T3	SPECIES	1673	1694	Plasmodium falciparum	5833
+caso_clinico_medtropical96	T4	SPECIES	1747	1767	Ascaris lumbricoides	6252
+caso_clinico_medtropical96	T5	SPECIES	1848	1857	S. aureus	78380|98688|211046|1280|193461|411806|170984|507602
+caso_clinico_medtropical96	T6	SPECIES	2543	2565	Dracunculus medinensis	318479
+cc_onco680	T1	SPECIES	1204	1209	virus	10239
+cc_onco680	T2	SPECIES	1234	1237	CMV	12305|10358|36410
+cc_onco680	T3	SPECIES	2972	2980	Brucella	234
+cc_onco680	T4	SPECIES	2983	3003	Chlamydia pneumoniae	83558
+cc_onco680	T5	SPECIES	3011	3024	de Bartonella	46358
+cc_onco680	T6	SPECIES	3026	3034	Borrelia	138
+cc_onco680	T7	SPECIES	3036	3044	Coxiella	776
+cc_onco680	T8	SPECIES	3047	3057	Rickettsia	780
+es-S0365-66912011000600005-2	T1	SPECIES	95	100	virus	10239
+es-S0211-69952010000400013-1	T1	SPECIES	980	983	VIH	12721
+caso_clinico_urologia130	T1	SPECIES	1408	1428	Enterococcus faecium	1352
+caso_clinico_urologia130	T2	SPECIES	2301	2317	Escherichia coli	562
+caso_clinico_medicina_interna531	T1	SPECIES	438	447	marihuana	3483
+caso_clinico_medicina_interna531	T2	SPECIES	2043	2057	L. interrogans	173
+es-S0212-71992006001000007-1	T1	HUMAN	606	610	mans	9606
+es-S0212-71992006001000007-1	T2	SPECIES	1936	1946	Bartonella	773
+es-S0212-71992006001000007-1	T3	SPECIES	1948	1956	Coxiella	776
+es-S0212-71992006001000007-1	T4	SPECIES	1970	1980	Mycoplasma	2093
+es-S0212-71992006001000007-1	T5	SPECIES	3130	3133	VIH	12721
+casos_clinicos_infecciosas7	T1	SPECIES	3222	3238	Escherichia coli	562
+casos_clinicos_infecciosas7	T2	SPECIES	3240	3261	Klebsiella pneumoniae	573
+casos_clinicos_infecciosas7	T3	SPECIES	3263	3275	Enterobacter	547
+casos_clinicos_infecciosas7	T4	SPECIES	3283	3294	Pseudomonas	286
+casos_clinicos_infecciosas7	T5	SPECIES	3369	3380	Bacteroides	816
+casos_clinicos_infecciosas7	T6	SPECIES	3386	3399	Fusobacterium	848
+casos_clinicos_infecciosas7	T7	SPECIES	3405	3423	Peptostreptococcus	1257
+casos_clinicos_infecciosas7	T8	SPECIES	3430	3441	Clostridium	1485
+casos_clinicos_infecciosas7	T9	SPECIES	3515	3536	Staphylococcus aureus	1280
+casos_clinicos_infecciosas7	T10	SPECIES	3672	3685	Mycobacterium	1763
+casos_clinicos_infecciosas7	T11	SPECIES	3751	3773	Listeria monocytogenes	1639
+casos_clinicos_infecciosas7	T12	SPECIES	3775	3785	Salmonella	590
+casos_clinicos_infecciosas7	T13	SPECIES	3806	3814	Brucella	234
+casos_clinicos_infecciosas7	T14	SPECIES	3909	3925	Candida albicans	5476
+casos_clinicos_infecciosas7	T15	SPECIES	3927	3938	Aspergillus	5052
+casos_clinicos_infecciosas7	T16	SPECIES	3944	3955	Histoplasma	5036
+casos_clinicos_infecciosas7	T17	SPECIES	3961	3976	Cryptosporidium	5806
+casos_clinicos_infecciosas7	T18	SPECIES	3983	3993	Sporothrix	29907
+casos_clinicos_infecciosas7	T19	SPECIES	4157	4178	Entamoeba histolytica	5759
+casos_clinicos_infecciosas7	T20	SPECIES	4894	4916	Listeria monocytogenes	1639
+casos_clinicos_infecciosas7	T21	SPECIES	6553	6575	Listeria monocytogenes	1639
+caso_clinico_dermatologia147	T1	SPECIES	497	516	Helicobacter pylori	210
+caso_clinico_dermatologia147	T2	SPECIES	1384	1389	tenia	6202
+caso_clinico_dermatologia147	T3	SPECIES	2444	2449	virus	10239
+es-S1887-85712015000100005-1	T1	SPECIES	248	253	tenia	6202
+es-S1887-85712015000100005-1	T2	SPECIES	352	357	tenia	6202
+es-S1887-85712015000100005-1	T3	SPECIES	735	740	tenia	6202
+es-S1887-85712015000100005-1	T4	SPECIES	1033	1038	tenia	6202
+es-S1887-85712015000100005-1	T5	SPECIES	1195	1200	tenia	6202
+es-S1887-85712015000100005-1	T6	SPECIES	1312	1315	VIH	12721
+es-S1887-85712015000100005-1	T7	SPECIES	1630	1651	pneumocystis jiroveci	42068
+es-S1887-85712015000100005-1	T8	SPECIES	2125	2132	virus B	10325
+es-S1887-85712015000100005-1	T9	SPECIES	2534	2537	VIH	12721
+32399449-B_ES	T1	SPECIES	350	358	COVID-19	2697049
+caso_clinico_dermatologia173	T1	SPECIES	1459	1479	Loxosceles rufescens	571528
+es-S0212-71992000001200006-1	T1	SPECIES	343	346	VIH	12721
+es-S0212-71992000001200006-1	T2	SPECIES	1198	1208	criptococo	5206
+es-S0212-71992000001200006-1	T3	SPECIES	1248	1251	CMV	12305|10358|36410
+es-S0212-71992000001200006-1	T4	SPECIES	1270	1280	Toxoplasma	5810
+es-S0212-71992000001200006-1	T5	SPECIES	1289	1292	VIH	12721
+es-S0212-71992000001200006-1	T6	SPECIES	1495	1516	Clostridium difficile	1496
+es-S0212-71992000001200006-1	T7	SPECIES	1597	1600	CMV	12305|10358|36410
+es-S0212-71992000001200006-1	T8	SPECIES	1691	1694	CMV	12305|10358|36410
+es-S0212-71992000001200006-1	T9	SPECIES	1764	1767	CMV	12305|10358|36410
+es-S0212-71992000001200006-1	T10	SPECIES	2288	2291	CMV	12305|10358|36410
+es-S0210-56912011000200009-1	T1	SPECIES	1053	1056	VIH	12721
+es-S0210-56912011000200009-1	T2	SPECIES	1073	1085	P. jirovecii	42068
+es-S0210-56912011000200009-1	T3	SPECIES	1109	1112	VIH	12721
+es-S0210-56912011000200009-1	T4	SPECIES	2415	2418	CMV	12305|10358|36410
+32414534_ES	T1	SPECIES	168	173	tenia	6202
+32414534_ES	T2	SPECIES	1563	1571	COVID-19	2697049
+32414534_ES	T3	SPECIES	1862	1872	SARS-CoV-2	2697049
+32414534_ES	T4	SPECIES	2123	2128	virus	10239
+32414534_ES	T5	SPECIES	2176	2181	virus	10239
+32414534_ES	T6	SPECIES	2210	2215	virus	10239
+caso_clinico_medtropical78	T1	SPECIES	1687	1690	VIH	12721
+caso_clinico_medtropical78	T2	SPECIES	1876	1901	Strongyloides stercoralis	6248
+caso_clinico_medtropical78	T3	SPECIES	1985	1999	Entamoeba coli	110766
+caso_clinico_medtropical78	T4	SPECIES	2005	2014	Iodamoeba	1089792
+caso_clinico_medtropical78	T5	SPECIES	2928	2944	Hymenolepis nana	102285
+caso_clinico_medtropical78	T6	SPECIES	3394	3419	Strongyloides stercoralis	6248
+caso_clinico_medtropical37	T1	SPECIES	274	278	ales	513146
+caso_clinico_urgencias23	T1	SPECIES	842	845	VIH	12721
+caso_clinico_urologia193	T1	SPECIES	2425	2441	Escherichia coli	562
+32653906_ES	T1	SPECIES	413	421	COVID-19	2697049
+32653906_ES	T2	SPECIES	1343	1353	SARS-CoV-2	2697049
+32653906_ES	T3	SPECIES	1554	1559	virus	10239
+32653906_ES	T4	SPECIES	1595	1610	citomegalovirus	10358
+32653906_ES	T5	SPECIES	1689	1699	SARS-CoV-2	2697049
+32653906_ES	T6	SPECIES	1986	1989	VIH	12721
+32653906_ES	T7	SPECIES	2569	2579	SARS-CoV-2	2697049
+32653906_ES	T8	SPECIES	2710	2718	COVID-19	2697049
+casos_clinicos_infecciosas128	T1	SPECIES	5432	5453	Enterococcus faecalis	1351
+casos_clinicos_infecciosas128	T2	SPECIES	5796	5807	E. faecalis	1351
+casos_clinicos_infecciosas128	T3	SPECIES	6069	6080	E. faecalis	1351
+casos_clinicos_infecciosas128	T4	SPECIES	6357	6368	E. faecalis	1351
+casos_clinicos_infecciosas128	T5	SPECIES	9004	9025	Enterococcus faecalis	1351
+caso_clinico_medicina_interna46	T1	SPECIES	1634	1637	VIH	12721
+caso_clinico_medicina_interna46	T2	SPECIES	1655	1665	Toxoplasma	5810
+es-S1130-01082011000500014-1	T1	SPECIES	981	996	citomegalovirus	10358
+caso_clinico_medicina_interna21	T1	SPECIES	2562	2565	VIH	12721
+caso_clinico_medicina_interna21	T2	SPECIES	2585	2588	CMV	10358
+caso_clinico_medicina_interna21	T3	SPECIES	3820	3831	P.mirabilis	71759|134886|476809|111863|319596|301219|264270|446899|400911|401944|125501|187558|129356|584|149955
+caso_clinico_medicina_interna21	T4	SPECIES	3833	3841	S.aureus	78380|98688|211046|1280|193461|411806|170984|507602
+caso_clinico_medicina_interna21	T5	SPECIES	3862	3873	E.aerogenes	548
+caso_clinico_medicina_interna21	T6	SPECIES	3876	3887	A.fumigatus	746128
+caso_clinico_medicina_interna21	T7	SPECIES	3899	3910	P.mirabilis	71759|134886|476809|111863|319596|301219|264270|446899|400911|401944|125501|187558|129356|584|149955
+caso_clinico_medicina_interna21	T8	SPECIES	3956	3971	citomegalovirus	10358
+caso_clinico_medicina_interna21	T9	SPECIES	5236	5251	citomegalovirus	10358
+caso_clinico_medicina_interna21	T10	SPECIES	5257	5265	T.gondii	5811
+caso_clinico_medicina_interna86	T1	SPECIES	5239	5244	virus	10239
+caso_clinico_medicina_interna86	T2	SPECIES	5264	5267	CMV	12305|10358|36410
+caso_clinico_medicina_interna86	T3	SPECIES	5269	5272	VIH	12721
+caso_clinico_urologia74	T1	SPECIES	1182	1185	HPV	10566
+caso_clinico_urologia74	T2	SPECIES	1788	1791	HPV	10566
+caso_clinico_dermatologia411	T1	HUMAN	231	235	mans	9606
+caso_clinico_dermatologia411	T2	HUMAN	610	614	mans	9606
+caso_clinico_dermatologia411	T3	SPECIES	997	1023	Staphylococcus epidermidis	1282
+caso_clinico_dermatologia411	T4	SPECIES	1025	1051	Haemophilus parainfluenzae	729
+caso_clinico_dermatologia411	T5	SPECIES	1053	1072	Streptococcus mitis	28037
+caso_clinico_dermatologia411	T6	HUMAN	2522	2526	mans	9606
+cc_onco485	T1	SPECIES	3815	3836	Clostridium difficile	1496
+es-S0376-78922011000500012-1	T1	HUMAN	932	936	mans	9606
+caso_clinico_medicina_interna32	T1	SPECIES	1622	1632	adenovirus	10535|10508
+caso_clinico_medicina_interna32	T2	SPECIES	1635	1644	rotavirus	10912
+caso_clinico_medicina_interna32	T3	SPECIES	1707	1712	virus	10239
+caso_clinico_medicina_interna32	T4	SPECIES	1727	1742	citomegalovirus	10358
+caso_clinico_medicina_interna32	T5	SPECIES	1744	1749	virus	10239
+caso_clinico_medicina_interna32	T6	SPECIES	1790	1795	virus	10239
+caso_clinico_medicina_interna32	T7	SPECIES	1830	1838	Brucella	234
+caso_clinico_medicina_interna32	T8	SPECIES	1840	1861	Entamoeba histolytica	5759
+caso_clinico_medicina_interna32	T9	SPECIES	1863	1871	Coxiella	776
+caso_clinico_medicina_interna32	T10	SPECIES	2011	2025	Parvovirus B19	10798
+caso_clinico_medicina_interna4	T1	HUMAN	958	962	mans	9606
+caso_clinico_medicina_interna4	T2	SPECIES	1889	1903	S. epidermidis	1282
+caso_clinico_medicina_interna4	T3	SPECIES	2834	2845	C.difficile	1496|485939
+caso_clinico_medicina_interna4	T4	SPECIES	2896	2899	CMV	12305|10358|36410
+caso_clinico_medicina_interna4	T5	SPECIES	5227	5230	VIH	12721
+caso_clinico_medtropical130	T1	SPECIES	217	222	tenia	6202
+caso_clinico_medtropical130	T2	SPECIES	240	243	VIH	12721
+caso_clinico_medtropical130	T3	SPECIES	1550	1555	tenia	6202
+caso_clinico_medtropical130	T4	SPECIES	1598	1603	tenia	6202
+caso_clinico_medtropical130	T5	SPECIES	2409	2412	VIH	12721
+caso_clinico_medtropical130	T6	SPECIES	3009	3025	de Mycobacterium	1785
+caso_clinico_medtropical130	T7	SPECIES	3130	3143	Mycobacterium	1763
+32554621_ES	T1	SPECIES	807	828	Clostridium difficile	1496
+32554621_ES	T2	SPECIES	837	847	SARS-CoV-2	2697049
+32554621_ES	T3	SPECIES	1226	1241	citomegalovirus	10358
+32554621_ES	T4	SPECIES	1633	1643	SARS-CoV-2	2697049
+32554621_ES	T5	SPECIES	1986	1994	COVID-19	2697049
+32554621_ES	T6	SPECIES	2576	2586	SARS-CoV-2	2697049
+caso_clinico_dermatologia242	T1	SPECIES	810	815	virus	10239
+caso_clinico_radiologia864	T1	SPECIES	1078	1081	VIH	12721
+caso_clinico_medicina_interna54	T1	SPECIES	3322	3331	Chlamydia	810
+caso_clinico_medicina_interna54	T2	SPECIES	3370	3373	VIH	12721
+caso_clinico_medicina_interna54	T3	SPECIES	3375	3378	CMV	12305|10358|36410
+caso_clinico_medicina_interna54	T4	SPECIES	5086	5091	tenia	6202
+caso_clinico_medicina_interna54	T5	SPECIES	6230	6235	tenia	6202
+caso_clinico_medicina_interna428	T1	SPECIES	1029	1034	virus	10239
+caso_clinico_medicina_interna428	T2	SPECIES	1615	1620	virus	10239
+caso_clinico_medicina_interna428	T3	SPECIES	1676	1681	virus	10239
+32611659_ES	T1	SPECIES	712	722	SARS-CoV-2	2697049
+32611659_ES	T2	SPECIES	924	929	tenia	6202
+32611659_ES	T3	SPECIES	2021	2026	virus	10239
+32611659_ES	T4	SPECIES	2568	2573	virus	10239
+32611659_ES	T5	SPECIES	2591	2602	coronavirus	2697049
+32611659_ES	T6	SPECIES	2606	2616	SARS-CoV-2	2697049
+32611659_ES	T7	SPECIES	2781	2791	SARS-CoV-2	2697049
+32611659_ES	T8	SPECIES	2851	2859	COVID-19	2697049
+caso_clinico_medicina_interna130	T1	SPECIES	168	183	Giardia lamblia	5741
+caso_clinico_medicina_interna130	T2	SPECIES	924	932	Anisakis	6268
+caso_clinico_medicina_interna130	T3	SPECIES	1045	1060	Cryptosporidium	5806
+caso_clinico_medicina_interna130	T4	SPECIES	1068	1088	Giardia intestinalis	5741
+caso_clinico_medicina_interna130	T5	SPECIES	1113	1136	Enterobius vermicularis	51028
+es-S0365-66912006001200008-1	T1	SPECIES	1492	1505	de Toxoplasma	5810
+es-S0365-66912006001200008-1	T2	SPECIES	1553	1558	virus	10239
+32353183-B_ES	T1	SPECIES	769	779	SARS-CoV-2	2697049
+32353183-B_ES	T2	SPECIES	1154	1158	prim	13597
+es-S0211-69952016000600552-1	T1	HUMAN	156	160	mans	9606
+es-S0211-69952016000600552-1	T2	SPECIES	1459	1466	virus B	10325
+es-S0211-69952016000600552-1	T3	SPECIES	1472	1475	VIH	12721
+es-S0211-69952016000600552-1	T4	SPECIES	1518	1523	tenia	6202
+caso_clinico_urgencias66	T1	SPECIES	1879	1887	Brucella	234
+caso_clinico_urgencias66	T2	SPECIES	1895	1905	micoplasma	2093
+caso_clinico_urgencias66	T3	SPECIES	1933	1948	citomegalovirus	10358
+caso_clinico_urgencias66	T4	SPECIES	2213	2218	virus	10239
+caso_clinico_dermatologia59	T1	SPECIES	738	756	Dermatobia hominis	115427
+caso_clinico_dermatologia59	T2	SPECIES	975	993	Dermatobia hominis	115427
+caso_clinico_dermatologia59	T3	SPECIES	1141	1159	Dermatobia hominis	115427
+caso_clinico_dermatologia59	T4	SPECIES	1427	1445	Dermatobia hominis	115427
+casos_clinicos_pediatria15	T1	SPECIES	621	624	CMV	12305|10358|36410
+casos_clinicos_pediatria15	T2	SPECIES	630	633	HIV	12721
+casos_clinicos_pediatria15	T3	SPECIES	742	752	Toxoplasma	5810
+casos_clinicos_pediatria15	T4	SPECIES	1173	1176	CMV	12305|10358|36410
+casos_clinicos_pediatria15	T5	SPECIES	1178	1188	Toxoplasma	5810
+casos_clinicos_pediatria15	T6	SPECIES	1392	1395	CMV	12305|10358|36410
+casos_clinicos_pediatria15	T7	SPECIES	1397	1407	Toxoplasma	5810
+32612465A_ES	T1	SPECIES	812	822	SARS-CoV-2	2697049
+32612465A_ES	T2	SPECIES	1041	1065	Streptococcus pneumoniae	1313
+32426200_ES	T1	SPECIES	567	572	tenia	6202
+32426200_ES	T2	SPECIES	905	913	COVID-19	2697049
+32426200_ES	T3	SPECIES	1389	1399	SARS-CoV-2	2697049
+32426200_ES	T4	SPECIES	1587	1595	COVID-19	2697049
+32426200_ES	T5	SPECIES	1730	1738	COVID-19	2697049
+32426200_ES	T6	SPECIES	2539	2547	COVID-19	2697049
+32426200_ES	T7	SPECIES	2834	2842	COVID-19	2697049
+32614251_ES	T1	SPECIES	78	86	COVID-19	2697049
+32614251_ES	T2	SPECIES	186	196	SARS-CoV-2	2697049
+32614251_ES	T3	SPECIES	262	270	COVID-19	2697049
+32614251_ES	T4	SPECIES	470	480	SARS-CoV-2	2697049
+32614251_ES	T5	SPECIES	799	807	COVID-19	2697049
+32614251_ES	T6	SPECIES	969	979	SARS-CoV-2	2697049
+32614251_ES	T7	HUMAN	1582	1586	mans	9606
+32614251_ES	T8	SPECIES	1907	1917	SARS-CoV-2	2697049
+32614251_ES	T9	SPECIES	2104	2114	SARS-CoV-2	2697049
+32614251_ES	T10	SPECIES	2186	2191	virus	10239
+32614251_ES	T11	SPECIES	3281	3289	COVID-19	2697049
+32612465B_ES	T1	SPECIES	451	461	SARS-CoV-2	2697049
+32588475_ES	T1	SPECIES	360	370	SARS-CoV-2	2697049
+32588475_ES	T2	SPECIES	458	466	COVID-19	2697049
+32588475_ES	T3	SPECIES	1027	1035	COVID-19	2697049
+32588475_ES	T4	SPECIES	1114	1117	VIH	12721
+32588475_ES	T5	SPECIES	1119	1140	Mycoplasma pneumoniae	2104
+caso_clinico_neurologia366	T1	HUMAN	692	696	mans	9606
+caso_clinico_neurologia366	T2	SPECIES	1851	1856	virus	10239
+caso_clinico_neurologia366	T3	SPECIES	1881	1886	virus	10239
+caso_clinico_neurologia366	T4	SPECIES	1928	1936	Brucella	234
+caso_clinico_neurologia366	T5	SPECIES	1938	1946	Borrelia	138
+caso_clinico_neurologia366	T6	SPECIES	1948	1963	citomegalovirus	10358
+caso_clinico_neurologia366	T7	SPECIES	1973	1978	virus	10239
+caso_clinico_neurologia366	T8	SPECIES	1997	2002	virus	10239
+es-S0212-71992007000700008-1	T1	HUMAN	951	955	mans	9606
+es-S0212-71992007000700008-1	T2	HUMAN	994	998	mans	9606
+es-S0212-71992007000700008-1	T3	SPECIES	2048	2051	VIH	12721
+es-S0212-71992007000700008-1	T4	SPECIES	2750	2765	citomegalovirus	10358
+es-S0212-71992007000700008-1	T5	HUMAN	3117	3121	mans	9606
+es-S0212-71992007000700008-1	T6	HUMAN	4032	4036	mans	9606
+32198834_ES	T1	SPECIES	336	341	tenia	6202
+32198834_ES	T2	SPECIES	444	452	COVID-19	2697049
+32198834_ES	T3	SPECIES	629	634	virus	10239
+32198834_ES	T4	SPECIES	3317	3322	virus	10239
+32198834_ES	T5	SPECIES	3418	3423	tenia	6202
+32198834_ES	T6	SPECIES	3578	3586	COVID-19	2697049
+32198834_ES	T7	SPECIES	3756	3766	SARS-CoV-2	2697049
+32198834_ES	T8	SPECIES	3917	3925	COVID-19	2697049
+es-S1137-66272011000100013-1	T1	SPECIES	1530	1551	Aspergillus fumigatus	746128
+caso_clinico_alergologia145	T1	SPECIES	83	93	Alternaria	5598
+caso_clinico_alergologia145	T2	SPECIES	114	121	Salsola	151233
+32638890_ES	T1	SPECIES	246	254	COVID-19	2697049
+32638890_ES	T2	SPECIES	329	337	COVID-19	2697049
+32638890_ES	T3	SPECIES	2016	2030	de Aspergillus	5052
+32638890_ES	T4	SPECIES	2084	2098	de Aspergillus	5052
+caso_clinico_alergologia102	T1	SPECIES	151	156	virus	10239
+32282871_ES	T1	SPECIES	36	41	tenia	6202
+32282871_ES	T2	SPECIES	42	50	COVID-19	2697049
+32282871_ES	T3	SPECIES	436	444	COVID-19	2697049
+32282871_ES	T4	SPECIES	819	824	tenia	6202
+casos_clinicos_infecciosas162	T1	SPECIES	5715	5722	Candida	5475
+casos_clinicos_infecciosas162	T2	SPECIES	5868	5875	Candida	5475
+casos_clinicos_infecciosas162	T3	SPECIES	5977	5989	Scedosporium	41687
+casos_clinicos_infecciosas162	T4	SPECIES	6103	6117	de Aspergillus	5052
+casos_clinicos_infecciosas162	T5	SPECIES	6239	6250	Aspergillus	5052
+casos_clinicos_infecciosas162	T6	SPECIES	6531	6539	Fusarium	5506
+casos_clinicos_infecciosas162	T7	SPECIES	7837	7858	Aspergillus fumigatus	746128
+casos_clinicos_infecciosas162	T8	SPECIES	7886	7904	Aspergillus flavus	5059
+casos_clinicos_infecciosas162	T9	SPECIES	8495	8518	Acinetobacter bauii	470
+casos_clinicos_infecciosas162	T10	SPECIES	8909	8927	Aspergillus flavus	5059
+casos_clinicos_infecciosas162	T11	SPECIES	10036	10059	Acinetobacter bauii	470
+casos_clinicos_infecciosas162	T12	SPECIES	10160	10178	Aspergillus flavus	5059
+casos_clinicos_infecciosas162	T13	SPECIES	10232	10255	Acinetobacter bauii	470
+caso_clinico_medicina_interna976	T1	SPECIES	1692	1703	de Borrelia	145
+caso_clinico_medicina_interna976	T2	SPECIES	1705	1715	Rickettsia	780
+caso_clinico_medicina_interna976	T3	SPECIES	1717	1727	Bartonella	773
+caso_clinico_medicina_interna976	T4	SPECIES	1729	1739	Mycoplasma	2093
+caso_clinico_medicina_interna976	T5	SPECIES	1786	1797	Actinomyces	1654
+caso_clinico_medicina_interna976	T6	SPECIES	1800	1808	Nocardia	1817
+caso_clinico_medicina_interna976	T7	SPECIES	1828	1831	VIH	12721
+caso_clinico_medtropical147	T1	SPECIES	775	784	Arachnida	6854
+caso_clinico_medtropical147	T2	SPECIES	797	804	Acarina	6933
+caso_clinico_medtropical147	T3	SPECIES	858	866	Ixodidae	6939
+caso_clinico_medtropical147	T4	SPECIES	869	878	Argasidae	6936
+caso_clinico_medtropical147	T5	SPECIES	891	899	Ixodidae	6939
+caso_clinico_medtropical147	T6	SPECIES	1036	1042	Ixodes	6944
+caso_clinico_medtropical147	T7	SPECIES	1044	1053	Amblyomma	6942
+caso_clinico_medtropical147	T8	SPECIES	1079	1090	Dermacentor	34619
+caso_clinico_medtropical147	T9	SPECIES	1092	1101	Boophilus	6940
+caso_clinico_medtropical147	T10	SPECIES	1104	1117	Rhipicephalus	34630
+caso_clinico_medtropical147	T11	SPECIES	1130	1139	Argasidae	6936
+caso_clinico_medtropical147	T12	SPECIES	1248	1260	Ornithodoros	6937
+caso_clinico_medtropical147	T13	SPECIES	1271	1278	Otobius	34605
+caso_clinico_medtropical147	T14	SPECIES	1297	1322	Rhiphicephalus sanguineus	34632
+caso_clinico_medtropical87	T1	SPECIES	54	57	VIH	12721
+caso_clinico_medtropical87	T2	SPECIES	531	536	tenia	6202
+caso_clinico_medtropical87	T3	SPECIES	2048	2051	VIH	12721
+caso_clinico_medtropical87	T4	SPECIES	2343	2355	L. boliviana	67396
+caso_clinico_medtropical87	T5	SPECIES	2358	2373	L. brasiliensis	5660|434734|320582|221926
+32612465C_ES	T1	SPECIES	502	512	SARS-CoV-2	2697049
+32637266B_ES	T1	SPECIES	307	312	tenia	6202
+32637266B_ES	T2	SPECIES	531	536	tenia	6202
+32637266B_ES	T3	SPECIES	1117	1127	SARS-CoV-2	2697049
+32637266B_ES	T4	SPECIES	1247	1255	COVID-19	2697049
+32637266B_ES	T5	SPECIES	1544	1552	COVID-19	2697049
+32639064_ES	T1	SPECIES	723	728	tenia	6202
+32639064_ES	T2	SPECIES	1739	1747	COVID-19	2697049
+32639064_ES	T3	SPECIES	1859	1869	SARS-CoV-2	2697049
+32639064_ES	T4	SPECIES	2021	2031	Mycoplasma	2093
+32639064_ES	T5	SPECIES	2033	2042	Chlamydia	810
+32639064_ES	T6	SPECIES	2045	2055	Bordetella	517
+32639064_ES	T7	SPECIES	2092	2097	tenia	6202
+32639064_ES	T8	SPECIES	3023	3031	COVID-19	2697049
+32639064_ES	T9	SPECIES	3089	3097	COVID-19	2697049
+es-S1130-05582005000300007-1	T1	SPECIES	1532	1535	VIH	12721
+es-S1130-05582005000300007-1	T2	SPECIES	1644	1647	VIH	12721
+es-S1130-05582005000300007-1	T3	SPECIES	2089	2092	VIH	12721

@@ -1,0 +1,147 @@
+Es tracta d'un pacient de 26 anys que és derivat des d'Unitat de Salut Mental (USM) per a ingrés programat en Unitat de Mitja Estada (UME). Entre els seus antecedents personals psiquiàtrics destaquen un ingrés en Unitat d'Hospitalització Breu (UHB) al setembre de 2016 (amb 24 anys) durant 29 dies amb judici clínic a l'alta de "Trastorn psicòtic no especificat (F29 de la CIE-10)" i "Consum perjudicial de cànnabis en remissió parcial primerenca (F12.1 de la CIE-10)" sent tractat amb Aripripazole 30 mg, Zuclopentixol 200 mg, Risperidona 6 mg, Biperideno retard 4 mg i Diazepam 10 mg.
+
+Posterior seguiment en USM per psiquiatria, havent estat tractat amb Diazepam (fins a 15 mg/dia), Biperideno retard 4 mg i Palmitato de Paliperidona en diferents presentacions. Des de febrer de 2017, seguiment també per psicologia clínica i valorat per treballadora social.
+
+Els seus antecedents biogràfics es caracteritzen per viure actualment amb la seva mare i àvia materna en domicili familiar. Pares divorciats en 2008. A més, té una germana major, nascuda en 1988 amb la qual convivia anteriorment. Manifesta bon suport de xarxa social. No parella sentimental (antiga relació de 7 anys). Estudis fins a 2o de Batxillerat (inconclús) i posseeix curs de submarinisme. Treballs esporàdics com a cambrer i "gamer" remunerat, segons refereix. No té ingressos propis en l'actualitat ni es troba incapacitat civilment. El consum perjudicial de cànnabis el presenta des dels 18 anys (3-5 "porros" setmanals) acompanyat d'hàbit alcohòlic moderat, principalment durant els caps de setmana.
+
+Acudeix acompanyat del seu pare a l'entrevista inicial per a ingrés en UME. El pacient ve presentant una evolució tòrpida, sense remissió de clínica psicòtica ni cessament d'hàbit en el consum de cànnabis. Ha estat vivint a casa de la seva mare amb funcionament parcialment desadaptado quant al compliment d'horaris, no obstant això, col·labora en tasques domèstiques i en la cura de la seva àvia. Segons refereix el familiar, presenta desorganització dels hàbits del somni, alimentació, activitats, etc. També comenta que molts dies no es pren la medicació o no se la pren correctament respecte a la pauta. Tot això, el pacient no ho desmenteix i ho argumenta amb sensació d'apatia. Nul·la consciència de malaltia ("a mi no em passa res") i pensa que el cessament en el consum de cànnabis no li reportarà cap benefici. Així i tot, accepta l'ingrés en UME com a positiu. Verbalitza espontàniament presència de "idees rares" i alteracions sensoperceptivas (que no accedeix a descriure) sense cap mena de repercussió conductual.
+
+En l'exploració psicopatològica que se li realitza durant l'entrevista el pacient es mostra conscient i orientat en temps, espai i persona. Bon aspecte i cura personal en general. Reacciona apropiadament a l'entrevista. Conducta tranquil·la i relaxada, encara que una mica moderada. Parla poc en resposta a les preguntes formulades. Llenguatge sense alteracions en forma i estructura del pensament. No clínica psicòtica en primer pla. Hipotimia, anhedonia i abúlia parcial; no impressiona de clínica afectiva major. Alteració de ritme circadiari. Normorexia. Al·lucinacions olfactòries i cenestésicas. S'objectiva funcionament adequat en relació patern-filial, encara que el pacient es nega a rebre visites de familiars a excepció de la seva germana.
+
+Els objectius de l'ingrés que es planteja l'equip de la unitat amb el pacient són:
+
+ Limitar consum de THC i establir la relació entre aquest i la clínica psicopatològica.
+ Aconseguir estabilitat clínica.
+ Treballar consciència de malaltia.
+ Començar tractament amb Clozapina.
+ Aconseguir una bona tolerància i adherència al tractament.
+
+ PROCÉS D'ATENCIÓ D'INFERMERIA
+
+Des d'infermeria, es realitza valoració a l'ingrés i posterior atenció al pacient.
+
+ Etapa de Valoració
+
+Es realitza segons els patrons funcionals de M. Gordon.
+
+ Patró 1 – Percepció i manteniment de la salut. Bon aspecte i cura personal en general. El pacient té dificultats per a seguir la pauta de medicació. Consum de THC. Patró alterat.
+ Patró 2 – Nutricional i metabòlic. Alimentació variada, generalment preparada per la seva mare o la seva àvia en el domicili on viu actualment. Pes adequat en relació a la talla. En les últimes setmanes desorganització d'horaris dels menjars.
+ Patró 3 – Eliminació. Bon trànsit intestinal.
+ Patró 4 – Activitat i exercici. Fins fa poc estava anant tres vegades a la setmana a un gimnàs del seu barri. La major part del dia el passa a casa, veient la televisió o simplement tombat en el llit. Patró alterat.
+ Patró 5 – Somni i descans. Mala conservació dels bioritmes. Desajustament de les hores de descans amb cansament i somnolència diürna. Patró alterat.
+ Patró 6 – Cognitiu i perceptiu. Conscient i orientat en temps, espai i persona. Reacciona apropiadament a l'entrevista. Conducta tranquil·la i relaxada, encara que una mica moderada.
+ Patró 7 – Autopercepció i autoconcepte. El pacient presenta dubtes sobre la utilitat de l'ingrés en la unitat.
+ Patró 8 – Rol i relacions. S'objectiva funcionament adequat en relació patern-filial, encara que el pacient es nega a rebre visites de familiars a excepció de la seva germana.
+ Patró 9 – Sexualitat i reproducció. Va tenir una relació de 7 anys amb una noia que va acabar fa dues. En preguntar-li no refereix que això hagi influït en el curs de la seva malaltia.
+ Patró 10 – Afrontament i tolerància a l'estrès. Durant l'entrevista es mostra tranquil. No està molt d'acord amb l'ingrés, però aquest no li genera malestar ni ansietat significatius segons ens comenta.
+ Patró 11 – Valors i creences. No presenta dades d'interès quant a aquest patró.
+
+ Etapa de diagnòstic
+
+Després de la valoració, detectem els següents problemes usant la terminologia de la NANDA-II:
+
+ 00079 Incompliment
+ 00097 Dèficit d'activitats recreatives
+ 00188 Tendència a adoptar conductes de risc per a la salut
+ 00198 Trastorn del patró del somni
+
+ Etapa de planificació
+
+Es planifiquen els següents objectius i activitats segons les taxonomies NOC i NIC respectivament:
+
+00079 Incompliment
+
+Objectius NOC:
+
+1300 Acceptació estat de salut
+
+1601 Conducta de compliment
+
+1813 Coneixement: Règim terapèutic
+
+Intervencions NIC:
+
+2380 Maneig de la medicació
+
+4480 Facilitar l'autoresponsabilitat
+
+5616 Ensenyament: medicaments prescrits
+
+Activitats:
+
+ Revisar el coneixement que el pacient té de cada medicació.
+ Animar al pacient al fet que assumeixi tanta responsabilitat de les seves pròpies autocures com sigui possible.
+ Revisar amb el pacient les estratègies per a controlar el règim de la medicació.
+ Observar els efectes terapèutics de la medicació en el pacient.
+
+00097 Dèficit d'activitats recreatives
+
+Objectius NOC:
+
+1503 Implicació social
+
+1604 Participació en activitats d'oci
+
+Intervencions NIC:
+
+4310 Teràpia d'activitat
+
+5100 Potenciació de la socialització
+
+5360 Teràpia d'entreteniment
+
+Activitats:
+
+ Ajudar el pacient a identificar les seves preferències quant a activitats.
+ Animar al pacient a desenvolupar relacions.
+ Fomentar la implicació en interessos totalment nous.
+ Ajudar al pacient al fet que augmenti la consciència dels seus punts forts i les seves limitacions en la comunicació amb els altres.
+ Facilitar l'entusiasme i la planificació d'activitats futures per part del pacient.
+
+00198 Trastorn del patró del somni
+
+Objectius NOC:
+
+0003 Descans
+
+0004 Somni
+
+Intervencions NIC:
+
+2380 Maneig de la medicació
+
+5880 Tècnica de relaxació
+
+Activitats:
+
+ Instruir al pacient sobre mètodes que disminueixin l'ansietat, segons correspongui.
+ Determinar l'impacte de l'ús de la medicació en l'estil de vida del pacient.
+ Desenvolupar estratègies per a controlar els efectes secundaris dels fàrmacs.
+
+00188 Tendència a adoptar conductes de risc per a la salut
+
+Objectius NOC:
+
+1603 Conducta de cerca de la salut
+
+1700 Creences sobre la salut
+
+1902 Control del risc
+
+Intervencions NIC:
+
+5230 Augmentar l'afrontament
+
+5510 Educació per a la salut
+
+6610 Identificació del risc
+
+Activitats:
+
+ Identificar els riscos biològics, ambientals i conductuals, així amb les seves interrelacions.
+ Identificar les estratègies d'afrontament típiques.
+ Planificar el seguiment a llarg termini de les estratègies i activitats de reducció del risc.
+
+ Etapes d'execució i avaluació
+
+Des de l'inici de la seva estada en la Unitat de Mitja Estada comenta estabilitat de la clínica presentada a l'ingrés. Bona actitud amb personal sanitari i resta de pacients, així com bon desenvolupament d'activitats proposades en la unitat. A nivell psicopatològic fa referència a al·lucinació olfactòria persistent que descriu com una olor desagradable i forta; malgrat això no provoca angoixa ni estranyesa, ni interfereixen amb el funcionament quotidià. Presenta també bioritmes conservats. A nivell farmacològic, es comença tractament amb Clozapina, arribant fins a dosi de 75 mg per dia sense efectes secundaris notables ni troballes patològiques en proves complementàries de control.

@@ -1,0 +1,45 @@
+Anamnesi
+Nel novembre 2010, a un uomo di 46 anni è stata diagnosticata una neoplasia ipofaringea localizzata a causa di disfonia, disfagia, odinofagia e otalgia riflessa a sinistra (sinistra). Il paziente aveva una storia di fumo e alcolismo, una lesione cerebrale traumatica con emorragia intraparenchimale nella regione frontobasale sinistra e un'alterazione degli enzimi epatici legata all'alcolismo.
+
+Esame fisico
+L'esame fisico al momento della diagnosi ha rivelato un tumore laterocervicale sinistro di 5-6 cm nella catena giugulare media, fisso, difficile da delimitare e doloroso, e una linfoadenopatia di 1 cm nella vena giugulare inferiore sinistra. L'esame dell'otorino ha rivelato una lesione escrescente nella parete faringea sinistra con coinvolgimento della piega ariepiglottica e del seno piriforme sinistro con fissazione della corda vocale sinistra (IVC).
+
+Test complementari
+Al momento della diagnosi, sono stati eseguiti i seguenti test complementari:
+"TAC cervicale: tumore nel seno piriforme sinistro con estensione craniale attraverso la parete faringea laterale fino alla regione della piega tonsillare glossolaringea. Estensione alla laringe con infiltrazione della piega ariepiglottica sinistra, banda e IVC. Estensione mediale alla parete faringea posteriore a livello della retrocricoide, attraversando la linea mediana. Estensione esolaringea con infiltrazione della muscolatura peritiroidea su entrambi i lati dell'ala sinistra della cartilagine tiroidea che suggerisce un'infiltrazione. Caudalmente, è in contatto con la porzione apicale del lobo tiroideo sinistro senza un piano grasso di separazione. Adenopatia patologica nel gruppo IIA e III a sinistra.
+"TAC toraco-addominale: normale.
+"Riferito all'esame otorinolaringoiatrico e alla biopsia.
+
+Diagnosi
+Al paziente è stata diagnosticata una neoplasia ipofaringea nel seno piriforme sinistro (carcinoma squamoso moderatamente differenziato), cT4N2M, stadio IVA.
+
+Trattamento
+Nel dicembre 2010 ha iniziato un trattamento radicale (tto) con radioterapia (RT) e chemioterapia (QT) con cisplatino (CDDP), terminato nel febbraio 2011.
+
+Dopo aver completato il trattamento, nel marzo 2011 è stato valutato come una risposta parziale del tumore primario e dell'adenopatia mediante esami di imaging, e all'esame fisico, c'era una grande diminuzione delle dimensioni della massa adenopatica nella catena giugulare media e la scomparsa dell'adenopatia nella catena giugulare inferiore.
+
+È stato ricoverato diverse volte prima, durante e dopo il trattamento iniziale per disfagia, esofagite e polmonite da aspirazione, ed è stata posizionata una gastrostomia di alimentazione.
+
+Il 17 maggio 2011 è stata eseguita una laringectomia totale con faringectomia parziale e svuotamento funzionale bilaterale.
+
+Ricoveri successivi dovuti alla colonizzazione del faringostoma da parte di Pseudomonas e batteriemia secondaria trattati con terapia antibiotica con buona evoluzione.
+
+Evoluzione
+Nell'ottobre 2013 è stata rilevata una recidiva radiologica del linfonodo laterocervicale sinistro, non chirurgica a causa del coinvolgimento dell'arteria carotidea, e quindi è stata iniziata una prima linea di trattamento QT secondo lo schema CDDP-5-fluorouracile (5FU)-cetuximab.
+
+Quindici giorni dopo aver iniziato questo trattamento, è stato ricoverato per perdita della vista nell'occhio sinistro secondaria all'occlusione dell'arteria retinica centrale (CRA). L'esame ha rivelato una ptosi palpebrale e un'alterazione del nervo facciale cranico sinistro in relazione alla compressione del conglomerato nell'arteria carotide interna sinistra (ICAI) e alla sindrome paraneoplastica di ipercoagulabilità, e sono stati eseguiti i seguenti test complementari:
+"L'angioresonanza cerebrale ha mostrato assenza di flusso nell'ICAI intracranica a causa della compressione esterna del conglomerato adenopatico. Si valuta che ciò sia avvenuto progressivamente, e che compensi attraverso la carotide destra con flussi un po' più accelerati e l'apertura dell'arteria comunicante anteriore.
+"Duplex dei tronchi sovra-aortici (TSA) e transcranico (12/11/2013): mostra l'arteria occipitale sinistra invertita (AOI). Collo difficile da valutare, identificando l'asse carotideo sinistro. Placca calcificata nel bulbo destro senza ripercussioni. Il resto delle arterie è normale.
+"Nella TC di stadiazione (15/11/2013): buona evoluzione radiologica del conglomerato adenopatico con componente necrotica laterocervicale sinistra. Trombosi della carotide sinistra.
+"Inoltre, analiticamente, è stata osservata poliglobulia (emoglobina 21,7 g/dl, ematocrito 59,1%), che è stata considerata paraneoplastica dopo aver escluso la policitemia vera (EPO normale, JAK-2 negativo), richiedendo frequenti flebotomie.
+La terapia antiaggregante è stata iniziata con acido acetilsalicilico 100 mg e la flebotomia è stata eseguita.
+
+È stato dimesso con le seguenti diagnosi: occlusione RCA e LCA secondaria alla compressione del conglomerato adenopatico e stato paraneoplastico ipercoagulabile e poliglobulia paraneoplastica.
+
+Dopo la dimissione, nel dicembre 2013, è stato valutato di nuovo nelle consultazioni e il trattamento è stato ripreso, questa volta con carboplatino (CBDCA)-5FU al 90% e fattore stimolante le colonie, eseguendo altri tre cicli con stabilità della malattia radiologica dopo la risposta iniziale con il 1° ciclo con CDDP-5FU-Cetuximab.
+
+È stata osservata anche una trombosi dell'arteria iliaca esterna destra (AIED), con una trombosi cronica che persisteva nell'arteria aortotide comune sinistra (ACCI), per cui l'anticoagulazione con eparina a basso peso molecolare a 1 mg/kg/12 ore è stata iniziata in questo momento.
+
+Dopo altri 2 cicli di trattamento (6 cicli in totale), è stata osservata una progressione della massa laterocervicale sinistra, quindi una seconda linea con Paclitaxel settimanale e Cetuximab è stata iniziata nell'aprile 2014, con ottimi progressi dopo 2 cicli di trattamento, con la scomparsa della massa laterocervicale. Ha ricevuto altri 4 cicli con lo stesso schema ed è attualmente in trattamento di mantenimento con Cetuximab senza evidenza di malattia.
+
+Persiste con un'anopsia dell'occhio sinistro che non è guarita e richiede flebotomie mensili per mantenere un ematocrito <50%. Continua anche con l'anticoagulazione a causa della persistente trombosi dell'ACCI e dell'AIED.

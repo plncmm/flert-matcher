@@ -1,0 +1,126 @@
+Paciente mujer de 25 años natural de Honduras que consulta en el Servicio de Urgencias por febrícula, odinofagia y artralgias de 48 h de evolución.
+
+En las últimas 10h desarrolla cefalea holocraneal intensa, exantema maculopapular generalizado y edema de manos y pies.
+
+• Antecedentes personales:
+– No HTA. No DM. No DL.
+– No Iqx.
+– No tto habitual. No RAMc
+
+• Antecedentes epidemiológicos:
+– Estancia en Honduras durante 2 meses (estancia en Tegucigalpa y Choluteca) como VFR.
+– No consejo previaje. No inmunización de fiebre amarilla.
+– Consumo de agua potable. No consumo de alimentos poco cocinados/crudos. No contacto con animales. No recuerda picadura de mosquitos. No contacto con enfermos. Niega realciones sexuales de riesgo.
+
+• Reinterrogando a la paciente, refiere un episodio de similares características a principios de enero con fiebre, malestar, artromialgias y rash generalizado.
+• Consultó en su país pautándose tto sintomático à dx de probable viriasis. Resolución completa a las 72h.
+• Hermano, en ese momento, con sintomatología similar.
+
+17/11/15 Llegada a Honduras: Asintomática 
+02/01/16 Inicia cuadro febril: Asintomática
+16/01/16 Regreso a España
+20/01/16 Nuevo cuadro febril
+22/01/17 Urgencias
+
+A la EF: TA 130/78 FC 110lpm SatO2 100% basal T 37,2o
+- Conjuntivitis no supurativa bilateral.
+- Exantema generalizado no pruriginoso. Inyección conjuntival bilateral.
+- ORL: no enantema. No otras lesiones en mucosa oral. Faringe hiperémica sin exudados blanquecinos.
+- Mínimas adenopatías en cadenas cervicales.
+- AP: mvc sin ruidos sobreañadidos. AC: rítmico y sin soplos.
+- ABD: normal. RHA+. No visceromegalias.
+- Edema en dorso de manos y bimaleolar.
+
+Dx diferencial fiebre y rash
+
+Pruebas complementarias
+LINFOCITOS 0.76
+
+Pedimos urgente al micro:
+1. Hemocultivos y test rápido de malaria.
+2. Test rápido de malaria y de Dengue.
+3. Los hemocultivos no hacen falta porque el paciente tiene "algo viral".
+4. Serología VIH urgente y test rápido de Dengue.
+5. Hemocultivos y test rápido de malaria y de dengue.
+
+• Se extraen HCx2 y se realizan test rápido para Dengue y Plasmodium resultan negativos.
+
+Pruebas complementarias que se harían:
+1. Alta con tratamiento sintomático y seguimiento en consultas.
+2. Seguro que es un dengue aunque el test rápido sea negativo, dejamos a la paciente 24h en observación.
+3. Alta con ciprofloxacino y seguimiento en consultas.
+4. Ingreso con ceftriaxona por sospecha de leptospirosis.
+5. Ingreso con tto sintomático para estudio.
+
+Diagnósticos de sospecha
+1. Fiebre tifoidea.
+2. Sarampión o rubeola.
+3. Una infección viral importada.
+4. Es una malaria por P. vivax.
+5. Es una rickettisosis y no le hubiese dado el alta sin doxiciclina.
+
+RESUMEN
+– Paciente VFR con rash, fiebre, artralgias, edema y conjuntivitis.
+– Estancia en Honduras. Zona urbana y rural.
+– Los síntomas comienzan a los 4d tras vuelta del viaje.
+– Antecedente de cuadro febril similar 3 semanas antes.
+
+Día +5 de inicio de síntomas
+REVISIÓN EN CONSULTAS:
+- Pte ya AFEBRIL.
+- Persistencia de exantema generalizado con petequias en zonas distales y aumento de las artralgias y del edema de manos y pies con impotencia funcional impidiendo la correcta deambulación.
+- E. Neurológica sin datos de alteración de la sensibilidad ni de la fza. ROT conservados.
+- Analítica control:
+- PCR 17.7; Neutropenia 1480/ linfocitos 3.090; plaq 314.000; coag normal.
+- Resultados de HCx2 negativos.
+- Serologías cursadas desde Urgencias:
+- VIH: negativo. VHA IgG positiva. VHB: Ac HBs positivo, resto negativo. VHC: negativo. Sífilis: negativo.
+
+Se amplió estudio microbiológico con:
+- PCR de v. Dengue, Chikungunya y Zika en suero.
+- PCR en orina de v. Zika.
+- Serologías para v. Dengue, Chikungunya y Zika.
+- Serologías de Leptospira, Rickettisia, Borrelia, rubeola, sarampión, parotiditis, parvovirus B19, CMV, VHA, VHB y VHC.
+
+Día + 6 de inicio síntomas
+
+PCR SUERO ZIKA Positiva
+PCR ORINA ZIKA Positiva
+IgM ZIKA Positiva
+IgG ZIKA
+PRNT Indeterminada
+
+PCR SUERO DENGUE Negativa
+PCR ORINA DENGUE -
+IgM DENGUE Negativa
+IgG DENGUE Positiva
+PRNT DENGUE -
+
+PCR SUERO CHIK Negativa
+PCR ORINA CHIK Negativa
+IgM CHIK Positiva
+IgG CHIK Positiva
+PRNT CHIK Positiva 1/256
+
+Día + 17 de inicio síntomas
+PCR ORINA ZIKA Positiva
+PCR ORINA CHIK Negativa
+
+Día + 34 de inicio síntomas
+IgM ZIKA Positiva
+IgG ZIKA Positiva
+PRNT ZIKA Positiva 1/512
+
+IgM CHIK Positiva
+IgG CHIK Positiva
+PRNT CHIK Positiva 1/512
+
+
+DIAGNÓSTICO FINAL
+1. Infección aguda por virus Zika.
+2. Infección pasada reciente por virus Chikungunya.
+3. Probable infección pasada por virus Dengue 
+
+EVOLUCIÓN DE LA PACIENTE
+- Favorable con resolución del cuadro de artralgias en 3 semanas.
+- Mantenía discreta astenia. No sintomatología a los dos meses de seguimiento.

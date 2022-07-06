@@ -1,0 +1,24 @@
+Anamnesis
+Mujer de 69 años, sin alergias conocidas, con antecedentes de hipertensión arterial, leucemia linfoide crónica tratada en 2007 con quimioterapia (actualmente en remisión), histerectomía y anexectomía. Acude al Servicio de Urgencias por presentar fiebre y odinofagia de 10 días de evolución, por lo que se le pauta tratamiento con amoxicilina-ácido clavulánico y antiinflamatorios. Tres días después acude a Urgencias de nuevo por persistencia de la misma sintomatología y se le realiza una radiografía de tórax y una analítica general, sin objetivar alteraciones. Se solicita colaboración a Otorrinolaringología (ORL), quien decide ingresar a la paciente ante la sospecha de infección vírica/bacteriana complicada a nivel de la orofaringe. Tras 24 horas de ingreso, la paciente desarrolló una parálisis facial derecha, diplopía horizontal, hipoacusia brusca en el oído derecho y disestesias en la región V3.
+
+Examen físico
+Consciente, orientada, normohidratada, fiebre elevada (hasta 39 oC). Se observaron lesiones vesiculosas en el tronco y en la cara en diferentes estadios evolutivos, no pruriginosas, así como pápulas de pequeño tamaño en la región cervical. Se palpaba una adenopatía submandibular derecha de gran tamaño, no adenopatías retroauriculares, ni supraclaviculares, pero sí adenopatías laterocervicales bilaterales de más de 1 cm de diámetro ligeramente dolorosas al tacto. A nivel de la orofaringe se objetivaron múltiples placas pultáceas en el paladar blando, la úvula y la amígdala derecha y alguna lesión vesiculosa aislada. No se observaron vesículas en el pabellón auricular. Neurológicamente, destaca asimetría facial por parálisis facial periférica derecha, limitación total para la abducción del ojo derecho (paresia completa del VI par craneal), hipoacusia derecha y alteración de la sensibilidad en la región de la tercera rama del V par craneal derecho. No había alteraciones pupilares, signos de irritación meníngea u otros datos de focalidad.
+
+
+Pruebas complementarias
+• Analítica de urgencias: hemograma y bioquímica normales.
+• Tomografía computarizada (TC) craneal: sin hallazgos patológicos.
+• Estudio de líquido cefalorraquídeo (LCR): - Bioquímica: hematíes 1.280/mm3, leucocitos 53/mm3 (6% segmentados, 84% linfocitos, 10% monocitos), glucosa 91 mg/dl, proteínas totales 0,39 g/l. - Serologías: reacción en cadena de la polimerasa (PCR) para virus de la varicela zóster (VVZ) positivo. Resto de virus neurotropos (virus de Epstein-Barr [VEB], virus herpes simplex [VHS], citomegalovirus y enterovirus) negativos. - Miocrobiología: baciloscopia negativa.
+• Serología en suero: IgM anti-VHS e IgM anti-VVZ positivos.
+• Frotis faríngeo: cultivo negativo.
+• Audiometría: cofosis oído derecho.
+• Resonancia magnética (RM): sin alteraciones a nivel de los pares V, VI, VII y VIII. No se aprecian alteraciones intracraneales ni antes ni tras la administración de contraste paramagnético.
+• Control LCR: PCR VVZ negativo. Bioquímica y celularidad normales.
+
+Diagnóstico
+Síndrome de Ramsay-Hunt con afectación múltiple de pares craneales.
+
+Tratamiento
+Ante la sospecha diagnóstica, se comenzó tratamiento con aciclovir intravenoso (dosis de 10 mg/kg/8 horas) y amoxicilina-ácido clavulánico (1 g/8 horas), junto con metilprednisolona para disminuir el proceso inflamatorio. Se añadió gabapentina para paliar los síntomas de afectación de V3.
+
+ Evolución A los 2 días de ingreso, la paciente presenta cefalea, síndrome vertiginoso y parálisis facial periférica y parálisis del VI par craneal del lado derecho pese al tratamiento con aciclovir. Se realiza un tomografía computarizada (TC) cerebral, que es normal, y una punción lumbar, donde la PCR es positiva para VVZ. Se traslada al Servicio de Infecciosos ante la sospecha de meningitis vírica. A su vez, se solicita la colaboración del Servicio de Hematología, donde confirman que la paciente sigue en remisión de la leucemia linfoide crónica. Durante la estancia en el Servicio de Infecciosas persistía la adenopatía submandibular derecha, con resolución de las lesiones cutáneas y orofaríngeas. Persistía la parálisis del VII par craneal con ligera mejoría de la parálisis del VI, y desarrolla un dolor neuropático en la tercera rama del V par.

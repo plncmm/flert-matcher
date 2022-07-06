@@ -1,0 +1,28 @@
+Anamnesis
+Mujer de 30 años de edad, sin alergias medicamentosas conocidas, exfumadora de diez cigarrillos/ día desde hace cuatro años. Amigdalectomizada e intervenida de nevus cutáneo como únicos antecedentes de interés. Entre sus antecedentes familiares, destaca: padre cáncer de vejiga, madre cáncer de mama y tía paterna fallecida de cáncer de mama. En enero de 2010, consulta por tos, fiebre y expectoración de unos dos meses de evolución, sin respuesta a varios ciclos de tratamiento antibiótico ambulatorio. Asocia disnea de grandes esfuerzos. No presenta sintomatología constitucional. Asociaba, además, molestias en la región esternal de unos días de evolución.
+
+Exploración física
+ECOG 1. Eupneica. Saturación basal 96%. Auscultación cardíaca: rítmica a 90 lpm. Auscultación pulmonar: murmullo vesicular conservado, sin ruidos patológicos sobreañadidos. Abdomen y extremidades inferiores sin hallazgos patológicos.
+
+Pruebas complementarias
+• Hemograma y bioquímica: sin anomalías.
+• Radiografía de tórax: ensanchamiento mediastínico y atelectasia del lóbulo superior derecho.
+• Tomografía computarizada toracoabdominal: masa polipoide en el lóbulo superior derecho de 15 mm, masa mediastínica anterior de 35 mm en la localización teórica del timo, y dos masas pleurales en el hemitórax izquierdo. Resto de las estructuras dentro de la normalidad.
+• Fibrobroncoscopia: lesión endobronquial que obstruye en su totalidad la entrada del lóbulo superior derecho. Biopsia bronquial: hallazgos sugestivos, aunque no concluyentes, de carcinoma de células grandes de pulmón.
+• Punción-aspiración con aguja gruesa de masa pleural izquierda: neoplasia epitelial con inmunofenotipo AE1-AE3 (+), CK19 (+), E63 (+); acompañado de infiltrado de linfocitos pequeños intraepiteliales con inmunofenotipo CD3 (+), CD4 (+), CD8 (+), TDT (+) y CD1a (+). Hallazgos compatibles con timoma de tipo B2-3.
+• Fracción de eyección del ventrículo izquierdo: dentro de la normalidad. FE 65%.
+• Estudio neurológico: negativo.
+• Valorado el caso en el comité de tumores torácicos, se solicita revisión de la Anatomía Patológica de la biopsia bronquial y tras nuevo panel inmunohistoquímico, se informa como tumor epitelial de la misma extirpe que el especificado en la biopsia de la masa pleural.
+
+Diagnóstico
+Timoma B3 (Clasificación OMS) con diseminación endobronquial y pleural, estadio IVa (Clasificación de Masaoka).
+
+Tratamiento
+Con el diagnóstico definitivo de timoma B3 irresecable por diseminación pleuropulmonar, se decidió inicio de tratamiento quimioterápico con intención neoadyuvante. Entre febrero y abril de 2010 recibió tres ciclos de tratamiento según esquema ADOC (cisplatino 50 mg/m2 + doxorrubicina 40 mg/m2, día 1 + vincristina 0,6 mg/m2 día 3 y ciclofosfamida 700 mg/m2 día 4, cada 21 días) Recibió además tratamiento de soporte profiláctico con G-CSF y tratamiento antiemético habitual para esquemas altamente emetógenos. No presentó toxicidad relevante, excepto alopecia grado 4 y astenia grado 2. No requirió retrasos ni reducciones de dosis en ninguno de los ciclos administrados. En los estudios de reevaluación destaca:
+• Tomografía computarizada toracoabdominal: desaparición de la masa del lóbulo superior derecho. Engrosamiento pleural a nivel costodiaframático izquierdo sin objetivarse clara masa en el momento actual. Masa mediastínica que ha disminuido desde la exploración anterior (13 x 20 mm actualmente y en la tomografía computarizada previa 25 x 30).
+• Fibrobroncoscopia: sin lesión endobronquial. Estudio dentro de la normalidad.
+• Tomografía por emisión de positrones-tomografía computarizada: sin captación metabólica. Enfermedad desvitalizada posquimioterapia.
+En julio de 2010, tras quimioterapia neoadyuvante y alcanzar respuesta completa a nivel pulmonar y parcial mayor en el timo y la pleura, se decide la resección quirúrgica tras decisión consensuada en Comité de Tumores de Pulmón. Se realiza una timectomía total y resección en bloque de la grasa pericárdica y pericardio afectos, así como linfadenectomía mediastínica. Informe anatomopatológico: carcinoma tímico (B3) pT3. Hay infiltración pericárdica. El ganglio de la ventana aortopulmonar y ganglio cervical derecho corresponde a timo: evaluación ganglionar: medio ganglio afecto; estado de bordes de resección: libres. El postoperatorio cursa sin complicaciones. La tomografía computarizada postoperatoria confirmó la remisión completa. Posteriormente recibe tratamiento quimioterápico con intención adyuvante, administrando tres ciclos del esquema ADOC con reducción de dosis al 80% siguiendo la práctica clínica habitual basada en las recomendaciones de la literatura científica. La tolerancia es favorable, sin presentar toxicidad significativa excepto nuevamente alopecia.
+
+Evolución
+La paciente ha permanecido asintomática desde el final del tratamiento, manteniendo una vida activa y habiéndose podido reincorporar a su actividad laboral habitual. En mayo de 2011, se ha realizado el último seguimiento clínico y radiológico, persistiendo libre de enfermedad tras diez meses desde la intervención quirúrgica y con un PS de 0.

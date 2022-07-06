@@ -1,0 +1,46 @@
+Un paziente maschio di 75 anni è stato riferito al dipartimento di emergenza dall'ambulatorio di cardiologia per presentare un significativo deterioramento clinico, con dispnea al minimo sforzo, ortopnea, dispnea parossistica notturna e palpitazioni.
+
+Storia, malattia attuale ed esame fisico
+
+Storia
+Nessuna allergia nota ai farmaci.
+Fattori di rischio: diabete mellito 2, ipertensione, dislipidemia. Ex-fumatore da 7 anni di 50 pacchetti/anno.
+Anamnesi medica: BPCO. Ictus ischemico dell'arteria cerebrale media nel marzo 2008. Interventi chirurgici: emorroidi, ernia epigastrica, polipectomia del colon. Tumore della vescica trattato con TUR nel 2011 e nel 2013.
+Malattia cardiaca precedente: cardiomiopatia dilatativa diagnosticata nel 2002 con funzione sistolica gravemente depressa (LVEF 20%), e arterie coronarie normali nella cateterizzazione cardiaca. Follow-up in ambulatori di cardiologia, con miglioramento significativo della funzione ventricolare con il trattamento medico (LVEF 50% in ecocardiogrammi nel 2008, 2010 e 2012). Nel novembre 2013, ha presentato una fibrillazione atriale con rapida risposta ventricolare, la cardioversione elettrica è stata eseguita nel dipartimento di emergenza, che era efficace e lei è stata dimessa. Una settimana dopo, è tornato al dipartimento di emergenza per la fibrillazione atriale, dove è stata eseguita nuovamente la cardioversione elettrica, ed è stato dimesso a ritmo sinusale. Al momento della revisione presso l'ambulatorio nel gennaio 2014, il paziente era di nuovo in fibrillazione atriale.
+
+Trattamento abituale: dabigatran 110 mg/12h, bisoprololo 10 mg/24h, ramipril 2,5 mg/24h, rosuvastatina 20 mg/24h, omeprazolo 40 mg/24h, furosemide 20 mg/12h (gestione secondo necessità), tiotropio bromuro inalato, repaglinide 0,5 mg, fluoxetina 20 mg, alprazolam 0,5 mg/24h. 
+
+Malattia presente: paziente maschio di 75 anni si è riferito al dipartimento di emergenza dall'ambulatorio di cardiologia per la presentazione del deterioramento clinico significativo nelle ultime settimane, con dispnea sullo sforzo minimo, ortopnea, dispnea parossistica notturna e palpitazioni negli ultimi giorni. Non ha riportato alcuna infezione respiratoria o altri sintomi di accompagnamento. All'ammissione ha presentato una fibrillazione atriale con risposta ventricolare a 130-150 bpm nonostante il trattamento con dosi massime di beta-bloccanti, quindi è stato indirizzato al ricovero in cardiologia per cercare di controllare la frequenza o la cardioversione.
+
+Esame fisico
+Pressione 120/65 mmHg. FC 155 bpm, Ta 36,5 oC. O2 Sat. O2 96% con FiO2 di 0,21.
+Paziente cosciente, di colore normale e normoidratato.
+Auscultazione cardiaca: toni cardiaci aritmici, senza murmure.
+Auscultazione polmonare: diminuzione generalizzata del murmure vescicolare, con crepitii bibasali. Arti inferiori: nessun edema, nessun segno di trombosi venosa profonda.
+Addome: morbido, non doloroso alla palpazione.
+
+Test aggiuntivi
+ECG: fibrillazione atriale con rapida risposta ventricolare, QRS stretto, nessun disturbo di conduzione intraventricolare. Segni di sovraccarico ventricolare sinistro in V5-V6 e DI e aVL.
+Radiografia del torace: infiltrati interstiziali alveolari bibasali suggestivi di insufficienza cardiaca. Seni costofrenici liberi. Indice cardiotoracico inferiore a 0,5.
+Esami del sangue effettuati nel reparto di cardiologia: ʟʟ Leucociti: 12,4x10e9/L, Hb17,5 g/dl, piastrine 262x10e9/L.
+Coagulazione: PTT 15s, IQ: 76%, APTT 35.3s.
+Glucosio: 140 mg/dl, urea 64 mg/dl, creatinina 1,21 mg/dl, K 5 MM/L, Na 143 MM/L, AST 31 U/L, ALT 41 MM/L, LDH 244 U/L, CRP 0,2 mg/dl, pro-BNP 16727 pg/ml.
+Emoglobina glicosilata: 6,9%.
+
+Ecocardiogramma:
+Scarsa finestra ecocardiografica.
+Ventricolo sinistro leggermente dilatato, non ipertrofico, con contrazione globale gravemente depressa (20-25%), apice gravemente ipocinesia.
+Atrio sinistro moderatamente dilatato.
+Valvola mitrale ispessita, con lieve insufficienza.
+Valvola aortica sclerosata, con buona apertura, senza insufficienza.
+Cavità atriale destra con atrio moderatamente dilatato. RVEF conservata.
+Vena cava inferiore non dilatata, con buon collasso inspiratorio.
+Nessuna effusione pericardica.
+
+Evoluzione clinica
+Il paziente è stato ricoverato nel reparto di cardiologia con fibrillazione atriale con risposta ventricolare a 140-150 bpm senza riuscire a controllarla nonostante l'aumento del bisoprololo a una dose di 15 mg/24h e l'aggiunta di digossina e amiodarone, rimanendo con una frequenza ventricolare di 130-140 bpm per i 3 giorni successivi. Dato il fallimento del controllo del ritmo negli episodi precedenti e il difficile controllo della frequenza cardiaca, il team clinico, gli elettrofisiologi e la famiglia hanno deciso insieme di ablare il nodo atrioventricolare e posizionare un pacemaker. È stato posizionato un pacemaker permanente, con l'intenzione di posizionare anche un elettrocatetere LV per la terapia di risincronizzazione cardiaca (CRT), ma questo non è stato possibile a causa della dissezione del seno coronarico. Infine, è stato posizionato un pacemaker DDD. Cinque giorni dopo, l'ablazione del nodo atrioventricolare è stata eseguita senza incidenti. Il paziente è stato dimesso con un migliore controllo clinico, mantenendo lo stesso trattamento anticoagulante, ritirando digossina, amiodarone e le dosi molto alte di bisoprololo con cui aveva cercato di ridurre la frequenza cardiaca. I farmaci per la gestione dell'insufficienza cardiaca sono stati mantenuti.
+
+Diagnosi
+Fibrillazione atriale con risposta ventricolare rapida difficile da controllare.
+Strategia di controllo del tasso mediante ablazione del nodo AV e impianto di pacemaker. 
+Tachicardiomiopatia con grave disfunzione ventricolare.

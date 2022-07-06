@@ -1,0 +1,33 @@
+Anamneză
+Pacienta este o femeie în vârstă de 58 de ani, fără obiceiuri toxice, cu antecedente personale de astm alergic și sindrom anxios, fiind urmărită la Psihiatrie și tratată cu bromazepam, paroxetină și escitalopram. Antecedente chirurgicale: apendicectomie, safenectomie.
+A fost adusă de rude la serviciul de urgență pentru simptome confuze și deteriorare cognitivă cu o evoluție de câteva zile. Familia a relatat că pacientul a prezentat o deteriorare cognitivă progresivă de trei săptămâni, însoțită în ultimele zile de tulburări de memorie, halucinații vizuale și gânduri de autoagresiune. În plus, o tumoare submandibulară dreaptă a apărut de câteva luni și a crescut progresiv în dimensiune, fără alte simptome însoțitoare.
+
+Examinarea fizică
+ECOG 1. Conștient și orientat. Palparea unei mase în unghiul mandibular drept, cu consistență dură, nedureroasă, fără adenopatii periferice. Examenul neurologic a evidențiat bradipsihicitate, tremor la nivelul membrelor superioare fără pierdere de forță, amnezie și disestezie corporală, nu s-a observat nicio altă focalitate neurologică, iar restul examenului fizic a fost normal.
+
+Teste complementare
+- ANALITICILE SANGUINE: fără modificări. Toxinele din urină au fost negative.
+- ECOGRAFIE TIROIDIANĂ ȘI A GÂTULUI,
+În regiunea cervicală dreaptă, care coincide cu o leziune palpabilă, au fost observate leziuni ganglionare solide infiltrative, cea mai mare de 3,8 cm în diametru, cea mai mare heterogenă.
+- TOMOGRAFIE COMPUTERIZATĂ A GÂTULUI: Masă laterocervicală medială față de mușchiul sternocleidomastoidian drept și laterală față de vasele cervicale principale pe care le deplasează medial, de aproximativ 3,1 cm în diametru anteroposterior și 2,3 cm în preluarea transversală a contrastului, heterogenă, sugestivă pentru adenomegalie metastatică, în plus conturul posterior al bazei limbii pe partea stângă apare proeminent, asimetric față de cel contralateral.
+- FIBROBRONCOSCOPIE: La nivelul pliului glosofaringian drept se observă o imagine rugoasă, se face o biopsie fără evidențe de celule maligne.
+- CT cranian: Nu există constatări care să sugereze o patologie intracraniană acută.
+- Puncție de aspirație cu ac fin (FNA) a masei laterocervicale drepte: Infiltrare de carcinom slab diferențiat.
+Studiu imunohistochimic: Pozitiv pentru CK AE1/AE2 și CD 56, focal pozitiv pentru CK 7 și CK 5/6, negativ pentru CK 20, Vimentin și CD 45.
+- PET-CT: Confirmă prezența unei adenopatii de 36 mm cu un singur ax major, cu SUVmax patologic.
+
+Diagnostic
+Carcinom metastatic adenopatic nediferențiat metastatic de origine necunoscută (probabil zona ORL).
+
+Tratament
+A fost efectuată o golire radicală dreaptă, îndepărtând un pachet ganglionar subdigastric drept, care infiltra vena jugulară internă, cu îndepărtarea a 3 ganglioni pozitivi pentru carcinom slab diferențiat.
+Rezultate patologice: carcinom slab diferențiat. Imunohistochimie: Pozitiv pentru PAN-CK, EMA, P63 și focalizat și slab pentru CD10. și negativ pentru CK7, CK20, TTF1, RE, VIMENTIN, CD45, ALK, CDK5/6, CK34BE12 și S100.
+Având în vedere diagnosticul de carcinom metastatic nediferențiat adenopatic metastatic metastatic de origine probabil otorinolaringologică, s-a propus tratament chimioterapic cu Carboplatin în doză săptămânală cu aria sub curbă de 2 (AUC 2) și radioterapie concomitentă.
+
+Evoluție
+În zilele care au urmat intervenției chirurgicale, înainte de începerea tratamentului, a prezentat o agravare clinică cu alterări progresive ale memoriei, insomnie cu parasomnii și bradipsihii și bradikinezii importante cu apariția paraliziei nervului facial stâng. A fost solicitată o imagistică prin rezonanță magnetică (RMN), cu rezultate sugestive de encefalită limbică cu afectare bilaterală și simetrică a amigdalei și hipocampusului.
+A fost inițiat un studiu etiologic cu un panel de autoimunitate (anticorpi anti-fizină, CV2, PNMA2 Anti Ri, Anti Yo, Anti Hu) și serologie (HIV 1 și 2, Sifilis și Hepatită) și determinarea vitaminei B12 și a acidului folic, precum și puncție lombară cu determinare bacteriologică, enterovirus și herpes virus, toate cu rezultate normale, excluzând astfel cauzele autoimune și infecțioase.
+Pacientul a început tratamentul adjuvant cu Carboplatin AUC 2 săptămânal, concomitent cu radioterapie IMRT, primind un total de 60 Gy pe nivelele ganglionare Ib, II, III și V și un total de 54 Gy pe nivelele ganglionare înalte II și IV din dreapta. Ea a prezentat ca fiind dermită relevantă toxicitatea G2.
+După începerea tratamentului, pacienta a prezentat o ameliorare progresivă a simptomelor sale, dar a persistat cu o ușoară paralizie facială stângă, tremor la nivelul membrului superior drept, amnezie și disestezie, precum și ameliorarea tulburărilor de memorie, halucinațiilor vizuale și a bradikineziei.
+IRM cerebral a fost efectuat la două luni de la diagnosticare, care a arătat ameliorarea encefalitei, fără evidențierea unor focare cu captare anormală.
+Pacientul a prezentat o ameliorare progresivă a simptomelor și în prezent are doar un tremor persistent la nivelul membrului superior drept. Ea continuă controalele regulate la Departamentul de Oncologie Medicală, fără semne de recidivă după 12 luni de urmărire.

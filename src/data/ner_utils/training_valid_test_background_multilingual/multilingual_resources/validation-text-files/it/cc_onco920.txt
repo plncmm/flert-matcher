@@ -1,0 +1,34 @@
+Anamnesi
+Maschio, 73 anni, indipendente per le attività di base della vita quotidiana. Ex-fumatore da 22 anni e nessun'altra abitudine tossica. Storia medica di interesse: ipertensione arteriosa di lunga data, fibrillazione atriale permanente anticoagulata con acenocumarolo e grave malattia polmonare ostruttiva cronica (BPCO) con ossigenoterapia domiciliare. In trattamento regolare con antipertensivi, pantoprazolo e aerosol.
+Gli è stato diagnosticato nell'ottobre 2014 un adenocarcinoma del terzo distale dell'esofago (T3Nx, M0 c-erb2 negativo), essendo stato presentato al comitato oncologico per valutare la resecabilità, che è stata respinta a causa dell'elevata comorbidità polmonare e dell'alto rischio chirurgico che richiedeva un'esofagastrectomia totale. Per questo motivo, alla fine si è deciso di trattare con una chemioterapia concomitante e una radioterapia radicale.
+Ha ricevuto un trattamento con paclitaxel + carboplatino settimanale, così come la radioterapia (50Gy) da febbraio ad aprile 2015. La stabilizzazione della malattia è stata osservata sia nella TAC che nella gastroscopia, per cui si è deciso di seguirla in consultazione.
+È stata ricoverata nel settembre 2016 per una sindrome febbrile di alto grado accompagnata da brividi di freddo e di freddo senza apparente focalizzazione. Durante lo stesso, gli esami di imaging (CT) hanno rivelato una nuova lesione splenica ipodensa, che potrebbe essere collegata a una lesione metastatica.
+Alla luce di questi risultati, la malattia è stata considerata in progressione e la chemioterapia FOLFIRI è stata iniziata con intento palliativo (ha ricevuto fino a tre cicli).
+Nell'ottobre 2016, il paziente è stato riammesso a causa di un picco di febbre senza identificare alcuna causa. È stato eseguito uno studio con leucociti marcati senza rilevare alcuna lesione con avidità per il tracciante, quindi un focus infettivo è stato escluso in questo momento. Una TAC addominale ripetuta è stata eseguita per una nuova valutazione, mostrando un aumento delle dimensioni della lesione splenica rispetto agli studi precedenti (da 22 mm a 35 mm).
+Il paziente è stato riammesso nell'ottobre 2016 per una nuova condizione febbrile fino a 38,5oC, con scarsa chiusura della ferita chirurgica post-impianto (port a cath), anche se senza segni di superinfezione. Le emocolture hanno isolato lo Streptococcus intermedius e il trattamento antibiotico è stato iniziato, e il serbatoio è stato rimosso e posizionato sul lato controlaterale senza incidenti.
+Nel dicembre 2016, è stato riammesso con shock settico, richiedendo un trattamento con noradrenalina a causa di una nuova sindrome febbrile di alto grado con 24 ore di evoluzione, accompagnata da brividi e agitazione. Non c'era alcuna prova di focalizzazione: il paziente non ha riportato sintomi respiratori, alterazioni delle abitudini gastrointestinali, minzione o qualsiasi altro tipo di manifestazione clinica.
+
+Esame fisico
+All'arrivo all'ED, il paziente era febbricitante (38.7oC), con una pressione sanguigna di 110/65 mm Hg. Mantiene una buona diuresi e una saturazione accettabile con occhiali nasali a 3L.
+Il paziente è cosciente, orientato e cooperativo. La condizione generale non è influenzata. Buona perfusione e idratazione. Durante l'auscultazione cardiorespiratoria, si apprezzano toni aritmici e ipoventilazione nella base sinistra. L'addome è scavato, morbido e depressibile, indolore, senza masse palpabili o megaliti, nessun segno di peritonismo e sono presenti suoni idro-aerei.
+La regione del serbatoio non mostra segni di superinfezione e nessun dolore alla palpazione.
+
+Test complementari
+Esami di laboratorio all'ammissione: leucocitosi lieve (10,3 x 10,9/l) con elevazione elevata di procalcitonina (22,84 ng/ml) e CRP (114 mg/l).
+Inoltre, è stata eseguita una radiografia di ammissione, che non ha mostrato immagini chiare di condensazione o effusione.
+In reparto è stata eseguita un'ecocardiografia, negativa per l'endocardite, e una TAC toracoaddominale che mostrava tre grandi lesioni ipodense con densità di fluido distribuite dall'ilo alla periferia, dalle quali non si poteva escludere un'infezione, nonché un versamento pleurico moderato.
+Alla luce di questi risultati, è stato eseguito uno studio ecografico addominale, che ha rivelato due aree visibili eterogenee (prevalentemente ipoecogene) che misurano fino a 45 x 39 mm di diametro, che sembravano essere ascessi splenici.
+Sono state fatte delle emocolture differenziali (serbatoio e via periferica), in cui lo Staphylococcus epidermidis è cresciuto senza un tempo di crescita differenziale significativo.
+
+Diagnosi
+Dati questi risultati nelle prove complementari e sulla base delle manifestazioni cliniche del paziente, è stata fatta una diagnosi di batteriemia dovuta a Streptococcus intermedius multisensibile, che ha causato la febbre, e le tre lesioni spleniche sono state diagnosticate come ascessi, probabilmente essendo il focus infettivo iniziale, con versamento pleurico associato.
+
+Trattamento
+Inizialmente, dato il quadro di shock settico e l'elevata elevazione dei reagenti di fase acuta, il paziente ha ricevuto una copertura antibiotica empirica con cefepime, de-escalation a ceftriaxone dopo l'isolamento di S. epidermidis nelle colture di sangue. Dopo la stabilizzazione clinica, è stato posizionato il Pleur-evac e il drenaggio puntura-aspirazione guidato da ultrasuoni di due delle tre raccolte spleniche è stato eseguito (una di esse persisteva perché non era accessibile), la cui coltura era anche positiva per S. intermedius.
+Date le condizioni generali del paziente e il significativo quadro infettivo, è stato deciso di sospendere il trattamento chemioterapico per il momento.
+
+Evoluzione
+Il paziente ha mostrato un'evoluzione clinica molto buona, con scomparsa della febbre e miglioramento delle condizioni generali. Inoltre, c'era un'evoluzione radiologica favorevole degli ascessi splenici con una riduzione significativa delle dimensioni in risposta al trattamento antibiotico. Il paziente è stato dimesso a casa con lo stesso trattamento antimicrobico.
+Quattro settimane dopo, le condizioni generali continuavano a deteriorarsi e una TAC mostrava lesioni spleniche persistenti che ci hanno portato a supporre un'origine metastatica con superinfezione delle lesioni.
+Fu richiesta una TAC di rivalutazione, che mostrava una progressione della malattia oncologica con un aumento delle dimensioni del tumore nell'esofago distale che si estendeva alla giunzione esofagogastrica e al fondo, oltre a noduli epiploici suggestivi di impianti nodulari.
+A causa di questi risultati e delle cattive condizioni generali del paziente, è stato deciso di sospendere definitivamente il trattamento chemioterapico e di rinviare il paziente all'Unità di Continuità di Cura per il follow-up.

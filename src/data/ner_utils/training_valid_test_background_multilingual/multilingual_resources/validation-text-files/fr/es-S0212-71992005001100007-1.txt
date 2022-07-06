@@ -1,0 +1,23 @@
+Nous présentons le cas d'un homme de 32 ans, sans allergie médicamenteuse connue, avec pour seule histoire personnelle un rhumatisme polyarticulaire dans l'enfance. Il a été admis aux urgences pour une douleur intense dans l'hémithorax gauche, qui n'évoluait pas avec les mouvements respiratoires ou les changements posturaux, sans toux productive ni dyspnée, et sans autre symptôme d'accompagnement.
+L'examen physique a révélé une petite lymphadénopathie latéro-cervicale droite non spécifique, avec une hépatomégalie d'environ 3 cm à partir de la crête costale, sans autre constatation d'intérêt.
+Le patient a présenté les examens complémentaires suivants :
+LES TESTS COMPLÉMENTAIRES DE BASE
+Numération sanguine et frottis de sang périphérique : hémoglobine 13,3 g/dl, plaquettes 281 000/ul, leucocytes 8 800/ul avec 23 % de segmentés, 1 % de segmentés, 1 % de métamyélocytes, 2 % de monocytes, 33 % de lymphocytes (la plupart d'aspect plasmacytoïde) et 40 % de plasmocytes, dont certains grands binucléés.
+Biochimie : créatinine 1,2 mg/dl, urée 52 mg/dl, (clairance de la créatinine 59 ml/min), protéines totales 10,8 g/dl, calcium total 9,8 mg/dl, reste normal.
+Protéinogramme : pic monoclonal dans la bande gamma.
+Coagulation : TCA 33,6 secondes, INR 1,35.
+Test urinaire de base : Protéine positive, avec présence de mucine dans le sédiment.
+Radiographie du thorax : petite image nodulaire calcifiée dans le lobe inférieur gauche, probable granulome calcifié.
+DES TESTS COMPLÉMENTAIRES SPÉCIFIQUES
+Immunophénotype du sang périphérique : 45 % de la numération leucocytaire totale présente un immunophénotype anormal : CD45+, CD38+, CD138+, CD56+, CD19-, CD20-, CD5, CD10-, CD23-, Cd79b-, sIg-.
+Aspiration de moelle osseuse : Présence de plasmocytes dans une proportion de 50 % de la cellularité totale, de taille hétérogène avec prédominance d'éléments de taille intermédiaire. Les cellules binucléées et trinucléées sont fréquentes.
+Biopsie de la moelle osseuse : infiltration interstitielle multifocale du parenchyme de la moelle osseuse par des plasmocytes plasmablastiques IG-Kappa. Plasmacytose médullaire de 40-50%. Matériel amyloïde négatif.
+Bêta2-microglobuline : 7,3 mg/dl.
+Série osseuse : Aucun signe de lésions ostéolytiques.
+Immunoélectrophorèse sérique : IgG 4,390 mg/dl, IgA 14,5mg/dl, IgM 4,17 mg/dl. Immunofixation du sérum : Paraprotéine IgG-Kappa.
+Immunoélectrophorèse urinaire : protéinurie à chaînes légères (Bence-Jones) de 1 310 mg en 24 heures, pour la paraprotéine IgG-Kappa et les chaînes légères Kappa libres.
+Sérologie VHB, VHC, VIH : négative.
+Échographie abdominale : hépatomégalie, sans lésions hépatospléniques focales. Il n'y avait aucun signe d'adénopathie intra-abdominale ou de liquide intrapéritonéal libre, le reste était inchangé.
+Diagnostic : le patient présentait un tableau compatible avec un myélome multiple dans sa variante de leucémie plasmocytaire primaire.
+Traitement : Compte tenu de l'âge du patient, une autogreffe de cellules progénitrices du sang périphérique a été décidée. Pour lesquels la chimiothérapie d'induction a été commencée avec le schéma C-VAD.
+

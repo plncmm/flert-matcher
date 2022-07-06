@@ -1,0 +1,13 @@
+Antecedents, malaltia actual i exploració física
+Pacient de 43 anys, sense antecedents d'interès, que realitza unes 7 hores a la setmana d'esport aeròbic intens (atletisme i pàdel) des de la infància, remès a consulta de Cardiologia per troballa de extrasistolia ventricular aïllada monomórfica (EV) en ECG realitzat durant un reconeixement laboral. L'exploració física és normal.
+
+Proves complementàries
+El ecocardiograma, la radiografia de tòrax i l'analítica no mostren alteracions. No es registren signes ni símptomes d'isquèmia en l'ergometria, però la densitat de la extrasistolia ventricular augmenta lleugerament coincidint amb el màxim esforç.
+
+Evolució clínica
+S'inicia tractament amb bisoprolol 5 mg al dia i es registra en Holter de control desaparició d'EV però bloqueig auriculoventricular (BAV) nocturn amb diverses pauses, la més llarga de 12 segons. El pacient roman en tot moment asimptomàtic i nega antecedents familiars de trastorn de conducció, miocardiopatia dilatada o mort sobtada. S'interpreta la troballa de l'Holter com BAV avançat, se suspèn el bisoprolol i es decideix ingrés per a estudi i monitoratge. Es registren pauses nocturnes en relació amb BAV i/o bradicàrdia sinusal de fins a 7 segons i EV molt ocasional. Es comprova que la conducció basal és normal mitjançant estudi electrofisiológico i es descarta apnea del son mitjançant polisomnografia. Davant la mala situació clínica i les nul·les possibilitats de tractament curatiu es va intensificar l'analgèsia i la pacient va morir.
+
+Diagnòstic
+A la vista de l'absència de cardiopatia estructural i d'antecedents familiars rellevants és diagnosticat de BAV mediat per hipertonía vagal i se li recomana reduir la seva activitat esportiva però es nega.
+Se li explica el balanç risc-beneficio de l'implant d'un marcapassos monocameral i el rebutja. 
+Durant el seguiment continua asimptomàtic, encara que es comprova mitjançant Holter ECG que persisteixen pauses nocturnes de fins a 9 segons de durada.

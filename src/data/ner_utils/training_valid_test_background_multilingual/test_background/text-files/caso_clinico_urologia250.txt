@@ -1,0 +1,34 @@
+Anamnesis
+Varón de 63 años de edad con los siguientes antecedentes personales: no reacciones alérgicas medicamentosas conocidas; no fumador; consumo ocasional de alcohol; hipertensión arterial en tratamiento con losartán 100 mg cada 24 horas; dislipemia en tratamiento con simvastatina 10 mg cada 24 horas; sin antecedentes quirúrgicos; riñón en herradura; cólicos renoureterales de repetición.
+El paciente es derivado por su médico de Atención Primaria al Servicio de Urgencias al objetivarse anemización de 3 mg/dl de hemoglobina en analíticas de sangre realizadas con un intervalo de 2 semanas. El paciente se había realizado dichas analíticas para el estudio de un cólico renoureteral izquierdo, motivo por el cual había acudido a Urgencias 15 días antes (analítica de sangre sin alteraciones y radiografía de abdomen poco valorable por patrón gaseoso, sin claras imágenes litiásicas). Se interroga al paciente, que refiere disminución de 4-5 kg de peso en 6 meses, secundario a dieta. Refiere ligera astenia. No anorexia, no fiebre, no alteraciones del ritmo gastrointestinal, no hematuria. Únicamente refiere antecedente traumático de alta intensidad en el flanco izquierdo dos meses antes.
+
+Exploración física
+Tensión arterial sistólica 145 mmHg, diastólica de 70 mmHg. Frecuencia cardíaca 83 lpm. Palidez cutaneomucosa, sin otras alteraciones.
+
+Pruebas complementarias
+En el Servicio de Urgencias se llevan a cabo las siguientes pruebas:
+• Analítica de sangre: hemoglobina 10,8 g/dl, 367.000 plaquetas/mm3, 6.900 leucocitos/mm3, creatinina 0,70 mg/dl.
+• Analítica de orina: sin alteraciones significativas.
+• Urografía con tomografía computarizada (TC) en fase tardía de eliminación y TC a las 24 horas de la administración del medio de contraste: riñones en herradura con un istmo de unión de aspecto fibroso. En la superficie anterior del riñón izquierdo y, en íntima relación con la pelvis renal, que aparece comprimida, se observa una masa heterogénea de 6 cm de tamaño, con dos calcificaciones periféricas. Presenta áreas hiperdensas en su interior y asocia un hematoma perirrenal de pequeño- moderado tamaño. La masa experimenta un realce diferencial entre ambas TC mayor de 20 UH. Condiciona la dilatación de los cálices. En el hilio renal se objetivan ganglios de tamaño no patológico.
+• El paciente permanece en observación en Urgencias, manteniéndose hemodinámicamente estable, sin objetivarse anemización en la analítica de sangre, por lo que es dado de alta para estudio ambulatorio, realizándose una TC 15 días después.
+• TC estudio ambulatorio: en la superficie anterior renal izquierda se identifica una lesión sólida, heterogénea, con diámetros 65 x 50 mm, con calcificaciones en la periferia, sin comprometer la pelvis renal. El estudio simple muestra áreas hiperdensas en relación con zonas de sangrado. En la fase venosa se aprecia un realce mayor de 30-40 UH, en relación probable con etiología tumoral. Disminución del hematoma perirrenal visualizado en el estudio previo. No se constata afectación de las estructuras vasculares. Ganglios de pequeño tamaño en el hilio renal derecho, inespecíficos.
+
+Tratamiento
+Se decide realizar cirugía para exéresis de la masa renal. Mediante abordaje laparoscópico se lleva a cabo una heminefrectomía renal izquierda laparoscópica. El postoperatorio transcurre sin incidencias y el paciente es dado de alta 72 horas tras la intervención quirúrgica. La cirugía se lleva a cabo 15 días tras la realización de la última TC.
+La anatomía patológica es la siguiente: Macroscópicamente, se trata de una pieza de nefrectomía de 414,3 g, que mide 14 x 9 x 6 cm. El riñón mide 10 x 4 x 5 cm de ejes mayores. Decapsula con facilidad. En la proximidad al hilio renal se objetiva una masa renal de 5 x 3,5 x 3 cm, con fragmento de parénquima renal de 5 x 4 x 3 cm. Al corte se observa una tumoración de coloración amarillenta, lobular, con áreas de necrosis y hemorragia. Histológicamente se objetiva una neoplasia constituida por células de citoplasma escaso y núcleos vesiculares, con nucleolo prominente e hipercromatismo ocasional. No infiltración de grasa perirrenal ni hiliar ni vasos hiliares. No invasión vascular. Dicha proliferación muestra positividad difusa para marcadores neuroendocrinos (sinaptofisina, enolasa neuronal específica). Carcinoma neuroendocrino moderadamente diferenciado. Índice de proliferación tumoral (Ki-67 1%).
+Con este informe, el paciente se presenta en comité de tumores del centro decidiéndose completar el estudio previo para el inicio de un posible tratamiento sistémico.
+
+Evolución
+Dos meses tras la cirugía, el paciente refiere buen estado general, está asintomático, desarrollando sus actividades habituales con normalidad. No refiere nuevos episodios de dolor en la fosa renal. No pérdida de peso, no anorexia, no astenia.
+Se realizaron las siguientes pruebas como complemento al estudio:
+• Octreoscán: las imágenes planares obtenidas a las 4 y 24 horas de la administración del radiotrazador no muestran depósitos focales en la región torácica, apreciándose un discreto depósito en la región inferior del lóbulo hepático derecho. En los cortes tomográficos realizados mediante SPECT se observa aumento de captación entre los segmentos V y VI hepáticos que pudiera corresponder a la imagen descrita en la TC, por lo que sugeriría una lesión neoplásica secundaria.
+• TC de control: nefrectomía izquierda en un paciente con riñón en herradura. Nódulo hepático de 1 cm con densidad de partes blandas estable respecto a los estudios previos disponibles (todos recientes) y de naturaleza indeterminada por su comportamiento. No se puede descartar origen neoplásico secundario (correlacionar resultados del resto de las exploraciones).
+• Catecolaminas y metabolitos en orina: dentro de la normalidad.
+• Marcadores tumorales: negativos.
+Actualmente, el paciente se encuentra pendiente de revisión en consulta para valoración del inicio de tratamiento a raíz de los hallazgos objetivados en las pruebas realizadas tras la cirugía.
+
+Diagnóstico
+• Tumor renal neuroendocrino en el hemirriñón izquierdo en un paciente diagnosticado de riñón en herradura.
+• Posible metástasis hepática de tumor neuroendocrino.
+• PLAN.
+En la actualidad está pendiente de decisión de un posible tratamiento sistémico en Consultas de Oncología.

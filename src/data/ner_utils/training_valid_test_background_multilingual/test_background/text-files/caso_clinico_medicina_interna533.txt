@@ -1,0 +1,7 @@
+Paciente mujer, 72 años, diabética tipo 2 de larga evolución. Recibía tratamiento con metformina, vildagliptina y recientemente Empaglifozina.
+Consultó por vómitos de 48 horas de evolución acompañados de astenia e hiporexia, acompañado de diarrea (6-7 episodios al día) de 2 meses de evolución con pérdida de 6 kg peso.
+En la exploración destacaron signos de deshidratación y palidez cutánea. Analíticamente presentó Ph 7,18, Bicarbonato 11 mmol/L, pCO2 29,6 mmHg, Anión GAP 22, Lactato 1,96 mmol/L, Glucosa 196 mg/dl, Creatinina 0,84 mg/ dl, Potasio 4,4 mEq/L, cetonuria (X3) y glucosuria (X4). En la ecuación delta- delta (cociente entre la diferencia de anión GAP y bicarbonato deseados menos obtenidos) el resultado fue 0.7 (bajo); indicando cetoacidosis diabética añadida a acidosis metabólica por pérdida de bases concomitantes (diarrea). Fueron excluidas otras causas de acidosis metabólica AG elevadas.
+El pH y la cetonuria se normalizaron tras 24 horas de tratamiento intravenoso con fluidoterapia e insulina.
+
+Juicio Clínico
+Cetoacidosis Diabética "Euglucémica" simultánea con acidosis metabólica anión GAP normal en paciente con Diabetes Mellitus tipo 2 y reciente inicio de SGLT-2.

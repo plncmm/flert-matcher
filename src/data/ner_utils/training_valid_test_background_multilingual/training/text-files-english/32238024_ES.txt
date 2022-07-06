@@ -1,0 +1,22 @@
+The patient was a 35-year-old woman with no personal history.
+On January 21, 2020 he traveled to Japan from Wuhan (China).
+He was healthy until January 30, when he had fever and mild diarrhea.
+On January 31, in the primary care clinic, a rapid test of influenza antigens was performed and it was negative.
+A chest CT scan revealed signs of pneumonia in the lower left lung area and was sent to the Red Cross Hospital Japonesa de Narita.
+She reported no throat irritation, rhinorrhea, chills, or cough.
+He had not come to the Huanan market, and had not been exposed to wild or dead animals.
+On admission, her vital signs were: blood pressure 106/66 mmHG, pulse 93 l.p.m., temperature 37.9 °C, respiratory rate 16 r.p.m.
+and oxygen saturation in ambient air 97%.
+Physical examination was normal.
+Laboratory tests showed no leukocytosis, leucocyte or high levels of liver enzymes.
+A chest CT scan showed mild ground glass opacities in the lower lobe of the left lung.
+Seated to a negative pressure isolation room.
+Ceftriaxone was administered and the pharyngeal swab was obtained.
+PCR of the pharyngeal smear for the new coronavirus (SARS-CoV-2) was negative.
+He continued with fever but did not present respiratory symptoms, such as cough.
+On day 5 of hospitalization, induced sputum and a second pharyngeal smear were obtained.
+Sputum PCR test was positive, but pharyngeal smear was negative.
+Her condition was stable and fever and diarrhea improved on the sixth day of hospitalization.
+On the 12th day of hospitalization, the patient had already completely recovered and the sputum PCR and pharyngeal smear tests were negative.
+During the entire clinical course, no positive test of pharyngeal swabs was obtained by PCR.
+All PCR assays were performed in the reference laboratory by real-time RT-PCR assays following a previously described protocol.

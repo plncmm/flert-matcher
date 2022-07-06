@@ -1,0 +1,30 @@
+Anamnesis
+Mujer de 43 años que comienza bruscamente con alteración para la emisión del lenguaje con comprensión conservada y debilidad en el hemicuerpo derecho. La paciente refería cefalea holocraneal opresiva de características tensionales previa al inicio de los síntomas neurológicos. No asociaba fiebre ni síntomas infecciosos. Entre sus antecedentes destacaban diabetes gestacional que no requirió tratamiento, la presencia de un prolactinoma sin tratamiento desde los 20 años e historia de tres abortos espontáneos durante el primer trimestre del embarazo. Se trataba de una paciente puérpera que había tenido un parto vaginal en la 39 semana de gestación sin complicaciones 2 días antes del inicio de los síntomas. Debido a la historia de abortos recurrentes, había recibido antiagregación plaquetaria durante el embarazo hasta la semana 35 de gestación. En lo que respecta a su situación basal, la paciente era independiente para las actividades básicas de la vida diaria.
+La paciente fue derivada de manera urgente a su hospital de referencia donde, ante la sospecha de infarto cerebral en el territorio de la arteria cerebral media izquierda, se inició tratamiento con rtPA intravenoso. En ese momento presentaba una NIHSS de 4 puntos a expensas de afasia motora y leve hemiparesia derecha. Sin embargo, tras la administración del rtPA, la paciente presentó un empeoramiento clínico. Por ello, se contactó con el centro de referencia para tratamiento endovascular, que ese día era nuestro hospital, trasladándose inmediatamente.
+
+Examen físico
+Exploración general: sin alteraciones. Exploración neurológica: a su llegada a nuestro hospital, la paciente presentaba afasia motora moderada y una hemiparesia de 0/5 en el miembro superior derecho y 3/5 en el miembro inferior derecho sin otras alteraciones asociadas. NIHSS 9 puntos.
+
+Pruebas complementarias
+• Los estudios de laboratorio fueron normales.
+• Se solicitaron serologías para VIH, VHC, VHB y sífilis, que resultaron negativas.
+• Se realizaron una radiografía torácica y un electrocardiograma, que fueron normales.
+• Una tomografía computarizada (TC) cerebral realizada en su hospital de referencia mostró discreto borramiento del núcleo lenticular, cabeza del caudado y cápsula interna izquierda, con un ASPECT de 10. Tomografía computarizada craneal que muestra leve borramiento del núcleo caudado, lenticular y cápsula interna con ASPECT 10. 1B. Resonancia magnética cerebral, secuencia FLAIR, que muestra infarto cerebral en las ramas perforantes de la ACM izquierda.
+• La angio-TC cerebral y de troncos supraaórticos (TSA) realizada en su hospital describió isquemia aguda en el territorio de la ACM izquierda con un trombo en el segmento M1.
+• El dúplex transcraneal urgente realizado en nuestro hospital mostró un patrón TIBI 2 en la región M1 de la arteria cerebral media (ACM) izquierda. Una monitorización con Doppler para detección de shunt derecha-izquierda fue negativa.
+• En la arteriografía cerebral pretratamiento se observó un trombo en la porción distal de M1 izquierda. Arteriografía pretratamiento que muestra un trombo en la porción distal de M1 izquierda. Se realizó trombectomía mecánica con 8 pases de dispositivo en total (6 Solitaire y 2 Penumbra). Posteriormente, se objetivó una satisfactoria recanalización del segmento M1 y división inferior de la ACM izquierda (TICI 3).
+• Una TC cerebral a las 24 horas objetivó una hipoatenuación del núcleo lenticular y cabeza del caudado izquierdo sin signos de sangrado.
+• Una resonancia magnética (RM) cerebral mostró solo una pequeña lesión isquémica en el territorio de las ramas perforantes de la ACM izquierda. Arteriografía postratamiento que muestra la satisfactoria recanalización del segmento M1 y división inferior de la ACM izquierda (TICI 3).
+• Un ecocardiograma transtorácico (ETT) objetivó una valvulopatía mitral reumática con estenosis leve e insuficiencia mínima y una leve dilatación de la aurícula izquierda, hallazgos confirmados con un ecocardiograma transesofágico (ETE).
+• Un Holter-ECG solo mostró extrasístoles ventriculares aisladas.
+• Un estudio de hipercoagulabilidad, incluyendo anticuerpos anticardiolipina, no mostró alteraciones.  
+
+Diagnóstico
+Infarto cerebral en el territorio de la arteria cerebral media izquierda de etiología cardioembólica en una paciente con valvulopatía mitral reumática durante el puerperio.
+
+Tratamiento
+La paciente fue tratada con rtPA en su hospital, siendo trasladada a nuestro centro, donde se realizó una trombectomía mecánica, consiguiéndose restablecer el flujo en la ACM izquierda.
+
+
+Evolución
+Tras la trombectomía mecánica, la paciente fue trasladada a la UVI, donde permaneció 3 días para posteriormente ser trasladada a nuestra Unidad de Ictus. Se realizó una TC cerebral a las 24 horas del ingreso, donde se objetivó un pequeño ictus en el territorio de la ACM izquierda. A su llegada a la Unidad de Ictus, la paciente se encontraba clínica y hemodinámicamente estable, permaneciendo asintomática desde el punto de vista neurológico (NIHSS 0 puntos). Se realizó un estudio etiológico con estudio cardiológico (ETT, ETE, Holter-ECG) en el que se observó una válvula mitral reumática con estenosis leve y aumento de tamaño de la aurícula izquierda. No se detectó una fibrilación auricular asociada. En la RM cerebral se confirmó el infarto visto en la segunda TC cerebral. Ante la presencia de abortos de repetición, se solicitó un estudio de hipercoagulabilidad, en el que no se encontraron anomalías. La paciente fue anticoagulada con acenocumarol, sin presentar nuevos episodios de isquemia cerebral y con buen control del INR.

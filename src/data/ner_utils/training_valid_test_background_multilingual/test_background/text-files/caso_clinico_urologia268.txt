@@ -1,0 +1,22 @@
+Anamnesis
+Paciente de 68 años de edad que presenta como antecedentes personales alergia a la penicilina, hipertensión arterial, síndrome de apneas e hipopneas obstructivas durante el sueño con presión continua positiva en las vías respiratorias y cardiopatía isquémica (infarto agudo de miocardio 10 años antes). Medicación habitual.
+Como antecedentes urológicos, cabe destacar que fue estudiado en consultas, a las que acudió por episodios de hematuria total macroscópica intermitentes de varios meses de evolución sin coágulos. No se acompañaba de ninguna otra sintomatología ni provocaban anemización del paciente. Hábito miccional satisfactorio sin medicación. Fue diagnosticado de tumor vesical papilar multifocal y sometido a resección transuretral (RTU), con anatomía patológica de carcinoma urotelial T1 GIII. En la urografía intravenosa (UIV) previa a la intervención no se evidencian defectos de repleción en el tracto urinario superior (TUS).
+Se incluyó en protocolo de instilaciones endovesicales con bacilo de Calmette- Guérin (BCG) y seguimiento estrecho cada 3 meses con citología y cistoscopia. El paciente recibe sin incidencias el ciclo de inducción de BCG de 6 semanas, siendo la primera revisión normal. Ya en período de mantenimiento (pauta SWOG 6 + 3 durante 2 años) y 9 meses después de la RTU aparece una citología urinaria positiva, permaneciendo el paciente totalmente asintomático sin haber presentado nuevos episodios de hematuria macroscópica.
+
+Exploración física
+Genitales externos normales y tacto rectal adenomatoso grado II sin nódulos y no doloroso.
+
+Pruebas complementarias
+• Analíticamente no presenta alteraciones bioquímicas ni en el hemograma, siendo las cifras de antígeno prostático específico de 2,5 ng/ml.
+• Cistoscopia normal, sin encontrar ninguna zona sospechosa. Diagnóstico y tratamiento
+Estamos pues ante un paciente con antecedente de un tumor vesical de alto grado multifocal actualmente asintomático y dentro de un programa de instilaciones endovesicales con BCG que presenta citología positiva con cistoscopia normal, por lo que seguiremos el algoritmo diagnóstico de este tipo de pacientes.
+Se repite el estudio citológico, que continúa siendo positivo a carcinoma urotelial, y se solicita una UIV, que no presenta claros defectos de repleción. No se encuentran alteraciones en la mucosa vesical en la cistoscopia y en el tacto rectal realizado no se palpó ningún área indurada.
+Decidimos, como primera maniobra, y dado que hasta en el 60% de estos casos estaremos ante un carcinoma in situ vesical, la realización de una biopsia múltiple normalizada vesical (BMN). En el mismo acto llevamos a cabo la toma de citología ureteral selectiva bilateral.
+No se encontraron evidencias de tejido tumoral en la BMN, pero se constató citología ureteral izquierda positiva para carcinoma urotelial de alto grado. Paralelamente solicitamos una uro-TC para afinar el examen del tracto urinario superior, que no presentó alteraciones.
+Tras este hallazgo y por la posibilidad de hasta un 50% de que la positividad de la citología ureteral se deba a un arrastre de células perimeáticas, decidimos realizar un nuevo ciclo de inducción de BCG durante 6 semanas y posteriormente recogida de una nueva citología ureteral selectiva junto con ureteropielografía retrógrada izquierda (UPR).
+La UPR mostró una leve ectasia ureteral distal izquierda con dudoso defecto de repleción de pequeño tamaño que no se objetivó en las imágenes previas de la UIV y la TC. Una vez más, la citología ureteral izquierda fue positiva, con cistoscopia sin áreas sospechosas. El siguiente paso fue la realización de una ureterorrenoscopia flexible con fines diagnósticos. En ella se puso de manifiesto la existencia de un tumor ureteral y piélico izquierdo multifocal de aspecto papilar.
+Ante este hallazgo indicamos una nefroureterectomía izquierda junto con rodete vesical, que como resultado histopatológico ofreció carcinoma urotelial multifocal ureteral GII T1 y carcinoma urotelial en la pelvis renal GIII T1 con márgenes quirúrgicos negativos.
+
+Evolución
+El paciente ha seguido los controles habituales, presentando 8 meses más tarde una nueva recidiva vesical superficial en la cara lateral derecha de unos 2 cm que se trató de manera endoscópica (GII T1) con UIV, sin alteraciones.
+Se encuentra actualmente asintomático dentro del programa de instilaciones de BCG con controles trimestrales con citología y cistoscopia y UIV anual.

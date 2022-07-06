@@ -1,0 +1,32 @@
+Presentiamo il caso di un uomo di 48 anni che ha iniziato con sintomi di frontalizzazione e disturbo dell'andatura, essendo riferito al Dipartimento di Neurologia, con progressivo peggioramento che richiede una sedia a rotelle, e alterazione comportamentale che consiste in disinibizione, irritabilità, perdita di controllo sfinterico, indifferenza affettiva e apatia.
+
+Sono stati eseguiti esami del sangue generali, sierologia, anticorpi antinucleari (ANA) e anticorpi anti-citoplasma dei neutrofili (ANCA) e una puntura lombare, senza anomalie.
+Fu richiesta una risonanza magnetica cervicale e craniale (MRI), che mostrava un'atrofia diffusa a livello del midollo spinale senza significato patologico e a livello craniale numerose lesioni ipointense in T1 e iperintense in T2, che interessavano entrambi i tratti cortico-spinali, i nuclei dentati cerebellari e i peduncoli cerebellari superiori, insieme a una rottura della barriera emato-encefalica (BBB).
+
+L'elettromiografia (EMG) è stata eseguita, mostrando segni di polineuropatia mista negli arti inferiori, con bassa ampiezza sensoriale e velocità motoria ridotta.
+
+Dato il coinvolgimento simmetrico della materia bianca, è stato sospettato un disordine metabolico e sono stati richiesti dei test, senza alterazioni nella quantificazione degli aminoacidi o delle acilcarnitine, ma un aumento degli acidi grassi a catena molto lunga (VLCFA) nel sangue, in particolare l'acido esacosanoico (C26: 0), con un risultato di 2,18 micromoli/litro (μmol/l), il limite superiore del laboratorio di riferimento essendo 0,17 μmol/l, e di acido tetracosanoico (C24:0), con livelli di 47 μmol/l, il limite essendo 14 μmol/l.
+Inoltre, c'era un'inversione del rapporto di questi VLCFA a C22:0 acido behenico (C26:0/C22:0 di 0.071 e C24:0/C22:0 di 1.54, con limiti di laboratorio di 0.77±0.12 e 0.012±0.004 rispettivamente), rendendo possibile stabilire la diagnosi di X-ALD.
+Per confermare la diagnosi, è stato eseguito uno studio genetico di ABCD1, osservando una delezione in haemozygosis in posizione c.1415_1416delAG, dando un codone prematuro p.GLn472ArgfsX83 e portando ad una proteina troncata con una perdita del 26% dei suoi amminoacidi, compatibile con la diagnosi stabilita.
+Il paziente è stato sottoposto a un'educazione alimentare e i livelli di testosterone e cortisolo nel sangue erano normali.
+La gravità di questa entità è più intensa nei maschi eterozigoti e meno nelle femmine eterozigote. C'è un deficit di beta-ossidazione perixisomal di VLCFA, portando secondariamente all'accumulo di VLCFA (soprattutto C26:0 e C24:0)
+
+nel sistema nervoso centrale, nel midollo spinale, nella corteccia surrenale e nel tessuto testicolare. Questo deficit è dovuto a mutazioni nel gene ABCD1 (xq28) sul cromosoma X, che causano una disfunzione della proteina ALDp (lignoceril-CoA sintetasi), che è essenziale nel trasporto di VLCFA dal citoplasma al lume del perossisoma.
+La variabilità fenotipica appare, a seconda del coinvolgimento neurologico e dell'età di insorgenza:
+
+- Cerebrale: più rapidamente progressivo. Colpisce tra i 2,5 e i 12 anni di età, essendo rara negli adolescenti (<7%) o negli adulti (<5%). Si verificano deficit cognitivo moderato, sordità neurosensoriale, atassia cerebellare, emiplegia, insufficienza surrenalica primaria subclinica, convulsioni e demenza.
+
+- Adrenomieloneuropatia (AMN): seconda e quarta decade. C'è una paraparesi spastica con disturbi dell'andatura, disfunzioni sessuali e insufficienza surrenale in 2/3 dei pazienti.
+
+- Malattia di Addison: circa il 10% dei pazienti ha un'insufficienza surrenale, senza coinvolgimento del cervello, anche se c'è il rischio di svilupparla4.
+- Femmine eterozigoti: il 50% ha un coinvolgimento neurologico lentamente progressivo. L'insufficienza surrenale è rara.
+
+La diagnosi si basa sui risultati clinici, la risonanza magnetica, la dimostrazione di accumulo di VLCFA nel siero, in particolare C26:0 e C24:0, e l'inversione del rapporto con C22:0.
+Il test di imaging più sensibile è la risonanza magnetica, che mostra un coinvolgimento bilaterale e simmetrico della materia bianca centrale. Si osserva un'iperintensità T2, soprattutto nella regione temporo-occipitale e nel corpo calloso. A seconda della localizzazione della lesione, viene classificata come segue:
+
+1. Lobo parieto-occipitale e splenio del corpo calloso. 2. Lobo frontale e ginocchio del corpo calloso.
+3. Frontopontina e corticospinale.
+4. Cerebellare.
+5. Lobo frontale e parietooccipitale combinati.
+
+L'unico trattamento utile nella prevenzione della progressione neurologica è il trapianto allogenico di cellule staminali ematopoietiche (HSCT) da midollo osseo, sangue cordonale o sangue periferico. Lo svantaggio principale risiede nella morbilità e mortalità della procedura. La terapia genica, trasferendo il gene ABCD1 in fibroblasti e cellule ematopoietiche utilizzando un vettore lentivirale derivato dal virus HIV, è stata quindi proposta, anche se sono necessari ulteriori studi per diffondere la sua applicazione. L'HSCT è indicato quando compaiono nuove lesioni, le lesioni esistenti aumentano alla risonanza magnetica o compaiono nuovi sintomi neurologici.

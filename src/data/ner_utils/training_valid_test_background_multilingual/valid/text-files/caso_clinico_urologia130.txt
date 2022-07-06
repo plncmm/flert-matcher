@@ -1,0 +1,22 @@
+Anamnesis
+Varón de 48 años de edad, sin antecedentes de interés, que acude a Urgencias por dolor abdominal, fiebre, dificultad para la deposición y el inicio miccional de 2 semanas de evolución.
+
+Examen físico
+Abdomen: blando, depresible, doloroso a la palpación en la fosa iliaca derecha- hipogastrio. Tacto rectal: próstata algo aumentada de tamaño de consistencia normal, levemente dolorosa a la palpación.
+
+Pruebas complementarias
+• Radiografía de abdomen: signos de densidad metal nodulares puntiformes que por su distribución sugieren divertículos con contenido baritado, aunque también podrían corresponder a restos de metralla o perdigones.
+• Bioquímica: proteína C reactiva 24,5 mg/dl, creatinina 1,55 mg/dl, resto normal. Sistemático de orina: microhematuria. Hemograma: sin alteraciones.
+
+Diagnóstico
+Prostatitis aguda.
+
+Tratamiento
+Ciprofloxacino 500 mg cada 12 horas durante 21 días.
+
+Evolución
+Cuatro días después, el paciente reingresa por persistencia de la clínica, asociada a dolor glúteo derecho irradiado al muslo, limitación funcional de la cadera ipsilateral y polaquiuria. La analítica sanguínea y de orina permanecen sin cambios, con urocultivo y hemocultivo negativos. Se realiza una tomografía computarizada (TC) abdominal, evidenciándose un absceso del psoas iliaco derecho, que es tratado mediante antibioterapia intravenosa de amplio espectro, así como drenaje percutáneo de la colección. Se aisló Enterococcus faecium multirresistente. A pesar de haber sido dado de alta con antibioterapia oral con tres antibióticos ajustados al antibiograma, reingresa en dos ocasiones más por reaparición y persistencia de la fiebre. Se intentó una nueva punción percutánea, sin obtener material fluido.
+En la TC de control al mes del último ingreso se objetiva una zona hipodensa de 4,8 x 1,6 cm en la porción más medial del psoas derecho, divertículos de sigma con signos de diverticulitis aguda y contacto del sigma con el psoas ipsilateral, atribuyéndolo como el origen del absceso.
+Durante los meses siguientes el paciente acude en numerosas ocasiones a Urgencias por clínica compatible con infección urinaria, microhematuria y piuria, además de persistencia de dolor abdominal en el hipogastrio, exacerbado con el valsalva al hacer deposición; es tratado con diferentes antibióticos de amplio espectro, ante el hallazgo de Escherichia coli BLEE, sin mejoría clínica. Finalmente, el paciente es valorado por clínica miccional irritativa en el Servicio de Urología, realizándose una ecografía del aparato urinario, que evidencia engrosamiento de la mucosa, además de cistoscopia, en la que se objetivó edema del suelo vesical de probable origen extrínseco.
+Ante el cuadro clínico persistente, se decide realizar un enema opaco, con evidencia de divertículos y sin datos de diverticulitis, y una segunda TC, en la que se evidenció engrosamiento de la pared del uréter derecho, sin dilatación, secundario al absceso de psoas preexistente, así como la presencia de una imagen lineal hiperdensa inespecífica en el interior vesical.
+Por último, fue sometido a cistoscopia flexible diagnóstica, evidenciándose un mondadientes que se consiguió extraer mediante pinza de cuerpo extraño. Tras la extracción del mismo, el paciente fue dado de alta con desaparición completa de los síntomas miccionales.

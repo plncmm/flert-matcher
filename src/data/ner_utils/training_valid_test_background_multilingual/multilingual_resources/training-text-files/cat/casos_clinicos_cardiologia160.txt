@@ -1,0 +1,21 @@
+Historia clínica i malaltia actual
+Home de 51 anys d'edat. Factors de risc cardiovascular: tabaquisme antic, hipertensió arterial des de 1998, diabetis mellitus tipus 2 en tractament amb antidiabètics orals. Limfoma anaplásico de cèl·lules T en 2007 tractat amb quimioteràpia, radioteràpia i autotrasplantament condicionat amb BEAM, actualment en remissió completa. Síndrome mielodisplàstica tipus citopenia refractària amb displàsia multilineal i cariotip complex tractada amb azacitidina com a pont a trasplantament de medul·la òssia. Porpra trombopénica idiopàtica. Sense al·lèrgies conegudes. Revisió mèdica cardiològica en 2006 amb ECG, ecocardiograma i prova d'esforç normals. Habitualment refereix trobar-se asimptomàtic cardiovascular.
+Pacient que acudeix al Servei d'Urgències per presentar des de feia 3 dies febre de fins a 38,3 oc, astènia, malestar general i dolors generalitzats. Així mateix, el dia de la consulta havia començat amb dolor retroesternal opressiu, d'intensitat creixent, irradiat a esquena, espatlles i mandíbula, que augmentava en intensitat amb la inspiració profunda i el decúbit supí, amb malestar i dispnea acompanyants i xifres de PA de 70/40 mmHg.
+L'exploració física era normal, excepte hipoventilació en totes dues bases pulmonars.
+
+Proves complementàries
+• ECG: on es va objectivar taquicàrdia sinusal amb discret supradesnivel del ST de localització difusa una mica major que el que ja tenia prèviament i alteracions inespecífiques de la repolarització.
+• Analítica: va mostrar augment de paràmetres infecciós-inflamatoris (PCR 32; Procalcitonina 10); anèmia macrocítica, plaquetopenia i leucopènia. Lleuger augment dels marcadors de mal miocàrdic: CPK 210; CPK MB 19 i troponina T 0,62. Insuficiència renal aguda (Cr 2,1) amb diüresi conservada (GFRe de 36 ml/min). L'equilibri àcid base i la resta de l'analítica van ser normals.
+• Ecocardiograma-Doppler urgent: descartant-se alteracions de la contractilitat global i segmentària, vessament pericardíac i patologia aguda.
+• TC de tòrax: descartant-se l'existència de patologia aòrtica aguda, tromboembolisme pulmonar o procés infecciós significatiu.
+
+
+Evolució clínica
+Durant el seu ingrés es van administrar antibiòtics d'ampli espectre i antifúngics de manera empírica, sense aïllament microbiològic en els hemocultivos, urinocultius i cultius d'esput. Les serologies víriques també van ser negatives. Es va realitzar monitoratge de marcadors de mal miocàrdic objectivant-se troponina T màxima de 1,59, CPK de 279 i CPK de 43 als quatre dies de l'ingrés, amb descens progressiu i normalització a l'alta. Es va determinar proBNP que va aconseguir un màxim de 8319 pg/ml als 5 dies de l'ingrés.
+Davant l'absència de focus infecciós se li va realitzar ecocardiograma transesofágico als 5 dies objectivant-se funció ventricular esquerra limítrofa (FEVI: 0,45-0,50), sense imatges suggestives de endocarditis ni altres troballes significatives. Es va iniciar tractament amb corticoides, betabloqueantes, IECA i diürètics amb millora clínica i analítica, persistint la funció sistòlica limítrofa en el ecocardiograma a la seva alta. Vist en revisió en consulta deu dies després referia trobar-se asimptomàtic cardiovascular. Se li va realitzar un electrocardiograma de control on persistien les alteracions abans descrites, un ecocardiograma en el qual es va objectivar ventricle esquerre dilatat amb funció sistòlica limítrofa, sense vessament pericardíac ni alteracions de la contractilitat i una analítica on persistia lleugera trombopenia i leucopènia, amb paràmetres infecciós-inflamatoris normals.
+L'endemà, se li va realitzar una RM de cor amb estrès amb adenosina objectivant-se signes compatibles amb miopericarditis aguda i funció sistòlica limítrofa, no induint-se isquèmia miocàrdica. Es manté el mateix tractament i se cita en revisió en consulta al mes. 
+
+Diagnòstic
+• Xoc sèptic amb focus no filiat
+• Miopericarditis aguda
+• Síndrome mielodisplàstica tipus citopenia refractària

@@ -1,0 +1,24 @@
+Anamnesi
+Dona de 47 anys al·lèrgica al iode, fumadora social, intervinguda de varices, dues cesàries i un abscés gluti. Sense altres antecedents mèdics d'interès ni tractament habitual. Viu amb el seu marit i tres fills, treballa com a professora.
+Arran d'anèmia ferropènica d'un any d'evolució que no millora malgrat ferroterapia oral es realitza colonoscòpia al gener/2017. En ella es veu una neoformació a 60 cm del marge anal amb biòpsia positiva per a adenocarcinoma. Es completa estudi mitjançant TC corporal i RM hepàtica que posa de manifest la presència de, almenys, quatre metàstasis hepàtiques en tots dos lòbuls, la major d'elles de 15 mm de diàmetre.
+
+Davant els resultats, es decideix inicialment abordatge quirúrgic del primari i, en funció de troballes intraoperatòries, realitzar també intervenció sobre metàstasis hepàtiques. Al febrer/2017 es realitza una sigmoidectomía laparoscòpica amb ecografia intraoperatòria, on s'observen múltiples metàstasis hepàtiques; almenys 3 en lòbul hepàtic esquerre i 5 de petita grandària en el dret, per la qual cosa no s'actua sobre elles. L'estudi anatomopatològic de la peça quirúrgica confirma adenocarcinoma de còlon (pT3), amb metàstasi en 5 dels 30 ganglis ressecats (pN2a); sense pèrdua d'expressió de proteïnes reparadores i amb mutació en l'exó 2 de KRAS.
+Després de la cirurgia, es presenta el cas en sessió multidisciplinària, decidint-se tractament quimioteràpic peroperatori i valorar resecció de les metàstasis hepàtiques en funció de la resposta. Al març/2017 comença tractament amb XELOX que rep durant 4 cicles. En la TC i RM de reavaluació s'observa progressió hepàtica, per la qual cosa s'instaura 2a línia amb FOLFIRI-aflibercept. Després de 6 cicles s'observa resposta serològica i radiològica pel que, al novembre/2017, es realitza metastasectomía de les lesions hepàtiques. Inicialment presenta bona evolució, però, al 2o dia postoperatori, comença amb inestabilitat hemodinàmica.
+
+Exploració física
+En el moment de la nostra valoració en la planta de Cirurgia General, la pacient presenta TA 69/40 mm Hg, freqüència cardíaca 120 lpm, taquipnea en repòs, pal·lidesa mucocutánea, mala perfusió distal i afligeix nàusees. L'abdomen és tou, no presenta peritonismo i el dèbit del drenatge abdominal roman sense canvis.
+
+Proves complementàries
+Se sol·licita TC urgent en la qual no es veuen complicacions postquirúrgiques agudes, però s'objectiva vessament pericardíac de moderada quantia que, en ecografia transtorácica, condiciona tamponament cardíac. Es realitza pericardiocentesis amb evacuació de 380 ml de líquid serohemático amb característiques d'exsudat (pH < 7,2, LDH, proteïnes i colesterol alts, glucosa baixa) i amb gran quantitat d'hematies i leucòcits (90% polimorfonucleares). Evoluciona favorablement, però al mes es torna a reproduir-se el vessament, aquesta vegada a més amb vessament pleural associat. Requereix, en aquesta ocasió, nova pericardiocentesis i realització de finestra pleuropericárdica. Les troponinas en tot moment van ser normals.
+A causa de l'inusual del quadre, amb un líquid pericardíac negatiu per a cèl·lules malignes, es va completar estudi amb nombroses proves. L'estudi immunològic amb anticossos antinuclears, factor reumatoide i complement van ser normals. A més, es va descartar la presència de marcadors suggestius de limfoma en el líquid pericardíac. Les serologies de Coxiella burnetii, Bartonella henselae, Borrelia burgdorferi, Entamoeba histolytica, Toxoplasma gondii, virus herpes simplex 1 i 2, citomegalovirus, virus de Epstein Barr, virus varicel·la zoster i parvovirus B19 van ser negatives. No obstant això, es va detectar test de rosa de Bengala positiu per a Brucella, el test de Coombs i les aglutinacions també van ser positives amb un títol 1/40.
+
+Diagnòstic
+En aquest context, s'estableix el diagnòstic de vessament pericardíac secundari a brucel·losi en pacient amb antecedent de adenocarcinoma de còlon pT3 pN2a pM1 (hepàtiques), amb mutació en exó 2 de KRAS.
+
+Tractament
+Amb aquestes troballes, comença tractament dirigit amb doxiciclina i hidroxicloroquina, havent de suspendre la hidroxicloroquina al tercer mes per alteració de proves de funció hepàtica.
+
+Evolució
+Després de 6 mesos de tractament aconsegueix negativización serològica (títol 1/20) i el vessament pericardíac no es torna a repetir.
+Respecte a la malaltia oncològica, continua seguiment sense evidència de malaltia fins a juliol/2018 que es documenta recaiguda hepàtica i ganglionar. Es reprèn tractament amb FOLFIRI-aflibercept del qual ha rebut fins al moment 18 cicles amb trombopenia grau 2 com a única toxicitat. En última PET de març/2019, la malaltia està estable.
+La pacient manté ECOG 0, té una vida activa, continua fent classes d'anglès als seus alumnes i viatja una vegada a l'any a Austràlia on viu la seva família adoptiva.

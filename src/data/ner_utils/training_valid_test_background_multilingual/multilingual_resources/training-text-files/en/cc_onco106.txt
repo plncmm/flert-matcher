@@ -1,0 +1,34 @@
+Anamnesis
+65-year-old woman diagnosed in 1993 with infiltrating ductal carcinoma of the left breast T2N2M0 and treated by radical surgery, locoregional radiotherapy, chemotherapy (adriamycin four cycles and cyclophosphamide, methotrexate and fluorouracil eight cycles) and hormone therapy (tamoxifen 1997-1999, toremifene 1999-2002).
+
+In April 2014, there was evidence of pleuropulmonary, mediastinal lymph node and bone recurrence. Treatment was started with paclitaxel-bevacizumab plus zoledronic acid and letrozole. In November of that year, radiological progression of the disease was observed, with an increase in pleural effusion, and treatment with everolimus-exemestane was started. During treatment there was an improvement in radiological findings and tumour markers. After 3 months, she began with mild subacute dyspnoea and dry cough and a CT scan was performed with a partial response, so treatment was maintained.
+
+In February 2015, the patient attended the emergency department, haemodynamically stable due to fever, dyspnoea on moderate exertion and cough. A simple chest X-ray revealed a slight left pleural effusion as the only known finding. After taking cultures, a respiratory infection was suspected and the patient was admitted to the Oncology Department for treatment with levofloxacin.
+
+Three days after admission to the oncology department, he persisted with high fever and a tendency to hypotension and tachypnoea, so the treatment was extended to include oseltamivir, meropenem and vancomycin. Despite antibiotic therapy, the patient worsened markedly with intense dyspnoea, severe hypoxia, hypotension and tachycardia, and an urgent CT scan was performed, with findings suggestive of bilateral pneumonia as the first possibility. In acute respiratory failure, he was admitted to the Intensive Care Unit (ICU).
+
+Physical examination
+Conscious, oriented. Febrile, tachypnoeic; blood pressure 85/55 mm Hg; heart rate 130 bpm.
+Saturation 80% without oxygen therapy. Cardiopulmonary auscultation: rhythmic tones without murmurs. Generalised hypoventilation. Abdomen and extremities without findings of interest.
+
+Complementary tests
+"Haemogram: leukocytosis with neutrophilia.
+"Biochemistry: elevation of acute phase reactants.
+"Arterial blood gases: acute respiratory failure.
+"Chest X-ray: bilateral alveolointerstitial infiltrates of unidentified aetiology.
+"Blood cultures, urine cultures, pneumococcal and Legionella antigen in urine, serology in bronchioloalveolar lavage, serum galactomannan.
+
+Diagnosis
+Given the patient's clinical situation and the poor evolution on the ward despite treatment, the possibility that the condition was due to pharmacological pneumonitis in the context of treatment with everolimus is beginning to take shape.
+
+Treatment
+For this reason, in addition to maintaining broad-spectrum antibiotherapy (oseltamivir, meropenem and cotrimoxazole), corticotherapy was started at a dose of 2mg/kg/day.
+
+Evolution
+In the first hours of admission to the ICU, the patient remained conscious, haemodynamically stable with a tendency to hypotension and the need for non-invasive mechanical ventilation (NIV), with good adaptation to it.
+
+After 48 hours, the clinical evolution was poor, with a worsening of haemodynamic parameters and the start of vasoactive treatment with noradrenaline and the need for orotacheal intubation (OTI). Of note was the appearance of an erythematous skin rash on the chest, abdomen and extremities.
+
+In the days following admission to the ICU, haemodynamic and clinical improvement was observed, which allowed withdrawal of noradrenaline and progress in weaning until the patient was extubated and remained on NIV, progressing in the disconnections. Laboratory tests showed a decrease in acute phase reactants and the results of all cultures were negative.
+
+Given the patient's stability, he was discharged from the ICU and readmitted to the oncology ward, where grade IV everolimus toxicity was declared to the Spanish Medicines Agency and corticotherapy was progressively reduced and intensive rehabilitation was carried out due to severe myopathy of the critical patient until discharge home and follow-up in outpatient clinics.

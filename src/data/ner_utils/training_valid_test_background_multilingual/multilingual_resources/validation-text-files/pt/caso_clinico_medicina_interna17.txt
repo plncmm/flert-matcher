@@ -1,0 +1,18 @@
+História clínica. Anamnese
+Paciente do sexo masculino, 34 anos de idade, de origem búlgara, com antecedentes de hepatite C e ex-utilizador de cocaína há 4 anos. Consultou durante 5 dias de dores pleuríticas no peito e dispneia, acompanhadas de febre (os dois últimos dias) e dor no membro inferior esquerdo. Foi realizada ecocardiografia doppler dos membros inferiores e TAC torácica, o que levou ao diagnóstico de TVP no membro inferior, TEP bilateral e nódulos pulmonares cavitados sugestivos de embolia séptica como primeira opção etiológica, sem poder descartar a vasculite e menos provavelmente um processo neoplásico. Tendo em conta o acima exposto, foi decidido interná-lo na UCI. Após a estabilização clínica, foi transferido para Medicina Interna. Durante a sua estadia na enfermaria, apresentou um exantema pustuloso generalizado agudo predominantemente no tronco e MMSS associado a febre e leucocitose. Foi avaliado em conjunto com a dermatologia e foram recolhidas amostras para biopsia e cultura.
+
+Exame físico
+BP: 120/70 mmHg, HR: 90 bpm, Temperatura: 37,8oc, Saturação de oxigénio de 100% com máscara de ventilação a 50%. Cavidade oral: lesão esbranquiçada no lado esquerdo da língua.
+CYC: Adenopatias axilares e retroauriculares esquerdas. Peito: AC: tons rítmicos sem murmúrios audíveis. AP: Murmúrio vesicular conservado. Abdómen: suave, depressivo, sem massas ou visceromegalia. Sons hidro-aéreos positivos. Dor à palpação no hipocôndrio direito. Não há sinais de peritonismo. Extremidades: aumento do perímetro das extremidades inferiores. Pulsos periféricos palpáveis. Adenopatias inguinais bilaterais, as maiores na área inguinal esquerda medindo 1 cm, aderentes a planos profundos, indolores à palpação. Pele: lesões papulo-pustulares generalizadas predominantemente nos membros com uma base eritematosa firme e algumas com crosta.
+
+Testes complementares
+Hemograma: Leucócitos 20,6 mil/mcL (Polimorfonucleares 86%), Hb: 12 g/dl, plaquetas: 233 mil/mcL. ESR: 120 mm. Estudo de coagulação: actividade de protrombina: 61%, ATTP: 32 seg. Fibrinogénio: 874 mg/dl. Bioquímica Gluc: 99 mg/dl, Ureia:17 mg/d, Creatinina:0.5 mg/d, Bilirrubina Total:0.5 mg/d, GOT:17 UI/L, GPT:33 UI/L, CPK:110 UI/L. Na:137 mmol/L, K:3.2 mmol/L. Ca:8.7 mmol/L, Fósforo:4.4 mmol/L, Magnésio:2.2 mmol/L. Mantoux: 0 mm de endurecimento. Perfil do ferro: Fe: 8 mcg/dL, Ferritina: 851 ng/ml, Ácido fólico: 3,1 pg/ml. Autoimunidade: ANA, ANCA negativo, Complemento normal. Serologia: HAV (-), HBV (infecção passada), HCV (positivo) com carga viral indetectável. HIV (-). Mycoplasma, Chlamydia, Coxiella Burnetti e Brucella Negative. Hemocultura: positivo para S. aureus sensível à meticilina. Ecocardiograma transtorácico: LVEF preservado. Nenhuma alteração nas cavidades ou a nível valvular. Sem derrame pericárdico. Sem dados de endocardite. Cultura de biópsia de adenopatia inguinal: Aerobes (-). Mancha BAAR (-). Cultura induzida da saliva: BAAR (x3) Negativo.
+
+Diagnóstico diferencial
+- Pustulose exantematosa aguda generalizada.
+- Síndrome de Gianotti-Crosti ou dermatite papular acreal.
+- Dermatose neutrófila: S. Sweet, Vasculite.
+- Resultados:- Anatomia patológica da biópsia cutânea: Neutrófila, dermatite pustulosa e vasculite. As alterações observadas sugerem uma lesão papulo-pustular da doença de Behçet como primeira possibilidade - Cultura de biópsia da pele: Aeróbica. Mancha BAAR negativa.
+
+Diagnóstico final
+Dermatose neutrófila num doente com doença de Behçet.

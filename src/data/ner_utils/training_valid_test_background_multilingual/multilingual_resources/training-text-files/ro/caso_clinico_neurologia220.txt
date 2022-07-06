@@ -1,0 +1,26 @@
+Anamneză
+Femeie în vârstă de 48 de ani, fără alergii cunoscute la medicamente, fumătoare de 20 de țigări pe zi, consumatoare de aproximativ 80 g de alcool pe zi și consumatoare sporadică de cocaină. Diagnosticat cu astm extrinsec care este tratat cu corticosteroizi inhalatori. Independent și activ la locul de muncă. Ea s-a prezentat la domiciliu cu o scădere bruscă a nivelului de conștiență împreună cu mișcări involuntare ale extremităților care au durat o oră, sugerând un status epileptic tonico-clonic generalizat. Cu câteva ore înainte de debut, a raportat abuz de alcool. La sosirea la Urgențe, statusul epileptic a persistat, necesitând tratament intravenos cu benzodiazepine (10 mg diazepam) și levetiracetam (1.000 mg), cu încetarea episodului. Pacientul a fost internat în secția de terapie intensivă pentru stabilizare hemodinamică și respiratorie, cu intubație orotraheală.
+
+Examinarea fizică
+La evaluarea inițială, tensiunea arterială a fost de 124/80 mmHg, frecvența cardiacă de 120 bpm, glicemia de 90 mg/dl, saturația oxigenului de 98% cu oxigenoterapie; pacientul nu avea febră. Examenul general a fost normal. Din punct de vedere neurologic era în stare postcritică, cu un scor pe scara Glasgow de 8/15 (O4V1M3), fără focalitate neurologică sau semne meningeale.
+
+Teste complementare
+- Analize generale de laborator: anemie macrocitică (hemoglobină 12,2 g/dl, MCV 104 fl), trombopenie (99.000/mm3), insuficiență renală acută (creatinină 1,93 mg/dl), hiponatremie (130 mmol/l), hipertransaminază (GOT 310 UI/l, GPT 100 UI/l, GGT 2. 123 UI/l și fosfatază alcalină 230 UI/l), hiperkaliemie (CPK 901 UI/l, CKMB 64 UI/l) și enzime cardiace ușor crescute (troponină T ultrasensibilă 51,43 ng/l). Colesterolul total 218 mg/dl, colesterolul LDL 119 mg/dl și colesterolul HDL 82 mg/dl.
+- Sistemul urinar: nicio constatare de interes.
+- Serologie: virusul hepatitei B și C și virusul imunodeficienței umane negativ.
+- Electrocardiogramă: ritm sinusal la 113 bpm, supradenivelare a segmentului ST în V1 până la V3 cu inversiune a undei T în aceste derivații și interval QT de 560 ms.
+- Radiografie toracică: fără modificări de interes.
+- Tomografia computerizată a creierului de bază și cu contrast: nu există constatări relevante sau îmbunătățiri patologice.
+- Ecocardiograma transtoracică inițială a arătat o disfuncție sistolică severă a ventriculului stâng cu o fracție de ejecție de 25-30%. Contractilitatea a fost păstrată la nivelul segmentelor bazale, cu acinezie generalizată a segmentelor rămase. Ventriculul drept și valvele erau normale. De asemenea, a fost vizualizată o ușoară efuziune pericardică anterioară cu conținut fibrinos.
+- A fost efectuată o angiografie coronariană, cu un vasospasm ușor al arterei coronare descendente anterioare, care a cedat cu perfuzie intravenoasă de nitroglicerină.
+- Electroencefalograma la 48 de ore: traseu în limite normale. Electrocardiogramă care prezintă supradenivelare a segmentului ST și inversiune a undei T în V1-V3. RMN cardiac cu semne de edem intramiocardic.
+
+Diagnostic
+Cardiomiopatie Tako-tsubo de stres secundară unui status epileptic.
+
+Tratament
+Tratamentul antiepileptic de întreținere cu levetiracetam a fost menținut, cu răspuns bun, iar pacientul nu a prezentat noi crize. De asemenea, a fost inițiată o terapie de substituție cu vitaminele B1, B6, B12 și acid folic și a fost inițiată profilaxia deprivării de alcool cu tiaprizal și clorazepat dipotasic.
+
+Evoluție
+În timpul internării, pacienta a prezentat o ameliorare progresivă a nivelului de conștiență în primele 24 de ore, fără focare neurologice și stabilă hemodinamic, fiind extubată. Funcția renală și alterările ionice s-au normalizat în primele 48 de ore. Hipertransaminazemia, anemia macrocitară și trombocitopenia au persistat, cel mai probabil de origine enolică, sugerând o boală hepatică alcoolică cronică.
+Atât creșterea enzimelor cardiace, cât și modificările electrocardiografice și ecocardiografice s-au încadrat în limitele normale în următoarele 72 de ore. A fost efectuat un RMN cardiac, care a arătat o funcție sistolică păstrată în mod global și semne de edem intramiocardic în fața anterioară și în septul ventriculului stâng, ceea ce a întărit diagnosticul de sindrom de diskinezie apicală tranzitorie. Nu a fost evidențiată nicio necroză sau fibroză miocardică macroscopică după administrarea de gadoliniu. Având în vedere tendința de vasospasm observată la coronarografie, s-a decis adăugarea unui tratament cu antagonist de calciu la externare.

@@ -1,0 +1,30 @@
+Paciente de 48 años que acude a Urgencias por cuadro de agitación psicomotriz. Como antecedentes personales de interés:
+- Hipertensión arterial con buen control domiciliario tratado con biterapia: losartán 100mg/hidroclorotiazida 25mg cada 24h.
+- Síndrome depresivo en tratamiento con paroxetina 20mg cada 24 horas, mirtazapina 16mg cada 24horas y alprazolam 0.5mg por la noche.
+- Niega intervenciones quirúrgicas ni hábitos tóxicos.
+- No alergias medicamentosas conocidas.
+- Antecedentes familiares de padre fallecido por autolisis tras depresión endógena grave y madre con deterioro cognitivo.
+
+A la anamnesis el paciente comienza con delirios de persecución y vigilancia de días de evolución, que se han hecho más manifiestos en las últimas horas previo a solicitar valoración médica. Niega sintomatología por órganos y aparatos. No fiebre termometrada. Niega episodios similares previos. No consumo de tóxicos.
+
+En la exploración física:
+No plétora facial, aunque sí aspecto abotargado. No estrías rojo vinosas. Giba costal. Cuello sin palpar alteraciones de la glándula tiroides ni adenopatías sospechosas. Estabilidad hemodinámica salvo cifras tensionales elevadas y ligera taquicardia (TA 190/110 mmHg, FC 108 lpm), edemas bimaleolares con fóvea ++/+++ y signos de fragilidad capilar. No focalidad neurológica.
+
+Pruebas complementarias que destacar durante su estancia en Servicio de Urgencias:
+- Analítica: Alcalosis metabólica (pH 7.66, bicarbonato 45 mmol/L) e hipopotasemia grave (1,8 mEq/L).
+- TAC craneal: Hipodensidad en capsula externa izquierda, sugerente de proceso vascular isquemico ya evolucionados.
+Se decide ingreso hospitalario en Medicina Interna para estudio y estabilización de la sintomatología psicótica. Durante el ingreso, el paciente empeora desde el punto de vista psiquiátrico, por lo que se decide ampliar estudio, encontrándose los siguientes datos:
+- Elevación de ACTH (124 pg/mL, valores de normalidad 20-80) y cortisol basal (48.8 μg/dL, valores de normalidad 5-25), con resto de hormonas hipofisarias y adrenales dentro de la normalidad.
+- TAC toraco-abdominal: Imagen nodular de 17x9 mm de apariencia extrapleural a nivel basal posterior del pulmón derecho. Las glándulas suprarrenales muestran un aspecto discretamente hiperplásico, sin que se vean imágenes sugerentes de adenomas ni otros hallazgos.
+- Resonancia magnética hipotálamo-hipofisario: glándula hipofisaria de morfología y tamaño normal, donde se identifica un pequeño sector de morfología seudonodular de aproximadamente 5 mm del lóbulo derecho de la adenohipófisis con sospecha de pequeño microadenoma.
+
+Juicio clínico: Hipercortisolismo endógeno ACTH-dependiente.
+
+Ante la elevación de corticotropina y pérdida de ritmo circadiano corticoideo, se decide realización de cateterismo de senos petrosos para valoración de gradiente central/periférico y plantear opciones terapéuticas a raíz de resultados. Posteriormente a la realización de la prueba, pautamos Ketoconazol a dosis de 400 mg/día, obteniéndose control de la enfermedad.
+
+Tras la realización de cateterismo, se objetiva claro gradiente central, lateralizado a la izquierda. Se decide intervención realizando hipofisectomía transesfenoidal endoscópica. El postoperatorio inmediato cursó sin complicaciones agudas de la cirugía, aunque durante su estancia en Reanimación precisó de medicación antihipertensiva intravenosa ante cifras tensionales elevadas que posteriormente pudieron ir retirando. Tras el alta, el paciente mantuvo niveles de cortisol estables sin precisar de tratamiento hormonal corticoideo.
+Reevaluado posteriormente por la Unidad de Salud Mental que consiguió la retirada de la medicación antidepresiva y antipsicótica por la estabilidad clínica del paciente.
+Tras tres meses de la cirugía, el paciente acude de nuevo a Urgencias por cuadro psicótico similar al que motivó el diagnóstico de síndrome de Cushing. Se realiza cortisol basal con valor de 36.4 μg/dL, por lo que se reinicia Ketoconazol a dosis de 400 mg/día y el tratamiento antipsicótico.
+Se consigue un control bioquímico parcial de la enfermedad con tratamiento pautado por lo que se solicita nueva resonancia hipofisaria en donde informan de la existencia de una lesión compatible con microadenoma hipofisario en la mitad izquierda de la glándula hipofisaria de unos 6 x 4 mm, observado en el estudio previo.
+
+En la actualidad, el paciente se encuentra en espera de intervención quirúrgica dado de la recurrencia de la enfermedad.

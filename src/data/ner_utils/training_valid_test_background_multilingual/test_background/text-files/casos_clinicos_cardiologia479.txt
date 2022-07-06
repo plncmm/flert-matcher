@@ -1,0 +1,24 @@
+ANTECEDENTES, ENFERMEDAD ACTUAL Y EXPLORACIÓN FÍSICA
+Se trata de una mujer de 45 años remitida a Cardiología por disnea, con antecedentes personales de bronconeumonías de repetición e hiperreactividad bronquial. A los tres años de edad le diagnosticaron una comunicación interauricular descrita como tipo ostium secundum, procediéndose a su cierre quirúrgico, sin disponer de informes de dicha cirugía. Sin otras enfermedades de interés, ni hábitos tóxicos.
+Actualmente la paciente relata disnea de esfuerzo NYHA II-III de larga data junto con dudosa ortopnea. Niega disnea paroxística nocturna u otros síntomas, interrogada por órganos y sistemas.
+A la exploración física presenta una auscultación cardiaca sin soplos ni extratonos y una auscultación pulmonar con crepitantes bibasales. En miembros inferiores no presentaba edemas ni signos de trombosis venosa.
+
+PRUEBAS COMPLEMENTARIAS
+Se realiza un estudio funcional respiratorio que muestra una restricción ligera, con FEV1 del 61 %, CVF 63 %, FEV1/CVF 82 %, TLC 65 % y DCLO 80 %. El test de metacolina es negativo y no presenta cambios en el test broncodilatador. Sin evidencia de asma, ni factor alérgico.
+Una ergometría con consumo de oxígeno confirma el síndrome ventilatorio restrictivo, con una FVC del 68 %, relación volumen residual/capacidad pulmonar total (VR/TLC) del 50 % y difusión normal. Presentaba capacidad de esfuerzo ligeramente disminuida atribuida a falta de entrenamiento.
+En la analítica destaca una anemia microcítica y normocrómica, sin otras alteraciones destacables.
+Electrocardiográficamente presenta ritmo sinusal a 82 lpm con ondas R altas en V1-V3 y ondas T negativas en V1-V3.
+En la radiografía de tórax observamos una lesión vascular en base derecha.
+En la ecocardiografía transtorácica se describe: cavidades izquierdas no dilatadas con función sistólica global normal. Ventrículo derecho moderadamente dilatado.
+Aurícula derecha ligeramente dilatada. Válvula mitral, aórtica, pulmonar y tricúspide sin alteraciones mofológicas ni funcionales. Sin insuficiencia tricúspide para estimar la presión sistólica pulmonar. En la ecocardiografía transesofágica se muestra un drenaje venoso pulmonar izquierdo normal. No se visualizan venas pulmonares derechas, ni se aprecia cortocircuito a través del septo interauricular.
+Se solicitó TC helicoidal torácica sin contraste intravenoso, angio-TC de venas pulmonares con contraste y reconstrucción tridimensional, con el siguiente resultado: No se visualiza la vena pulmonar superior derecha, probablemente por agenesia de la misma. El drenaje venoso de la práctica totalidad del pulmón derecho se realiza a través de tres venas pulmonares de trayecto anómalo, que desembocan en un gran vaso venoso tortuoso que en su extremo de mayor calibre se comunica con un divertículo que surge de la aurícula izquierda. El otro extremo de dicho vaso tiene un calibre ligeramente menor y drena en la vena cava inferior. El pulmón derecho muestra un lóbulo único, con cisuras rudimentarias.
+Los hallazgos son compatibles con drenaje venoso pulmonar anómalo parcial derecho asociado a malformación pulmonar (síndrome venolobar congénito).
+Se realiza un estudio isotópico que muestra dilatación de cavidades derechas y un Qp/Qs de 1,7.
+
+EVOLUCIÓN
+Ante la presencia de síntomas clínicos con repercusión hemodinámica, decidimos realizar la oclusión percutánea del drenaje del vaso anómalo en el extremo de la vena cava inferior por cateterismo derecho, vía vena femoral derecha. La arteriografía pulmonar derecha selectiva permitió identificar el drenaje venoso pulmonar anómalo y la conexión del colector común, que drenaba en la aurícula izquierda, con la vena cava inferior. Se canalizó dicha conexión y se implantó un dispositivo oclusor vascular Amplatzer Plug-II en el segmento que conectaba con la cava inferior. Buena evolución posterior, la paciente se encuentra asintomática y con un grado funcional NYHA I/IV.
+
+DIAGNÓSTICO
+Variante del síndrome de la cimitarra con conexión dual a aurícula izquierda y vena cava inferior.
+Cortocircuito izquierda-derecha significativo con repercusión clínica por disnea en clase funcional II-III NYHA.
+Corrección percutánea con dispositivo oclusor en la conexión con vena cava inferior.

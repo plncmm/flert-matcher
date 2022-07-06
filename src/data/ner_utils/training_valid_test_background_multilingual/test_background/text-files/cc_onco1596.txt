@@ -1,0 +1,24 @@
+Mujer de 46 años de edad, que acude a Urgencias por un cuadro rápidamente progresivo en los últimos diez días, en forma de incoordinación de la mano derecha, seguido de inestabilidad en la marcha y disartria, interfiriendo en su actividad laboral, al que se le añaden en una semana, diplopía con náuseas y vómitos y sensación vertiginosa. El cuadro se acompaña de cefalea opresiva. No refiere pérdida de fuerza o sensibilidad ni otra clínica neurológica.
+Tampoco relata síndrome constitucional. Como antecedentes destaca un carcinoma ductal multifocal de mama izquierda tres años antes (en 2005), tratado con quimioterapia neoadyuvante, mastectomía radical y anticuerpo monoclonal durante un año (hasta febrero de 2006), en aparente remisión completa, siguiendo controles.
+
+Exploración física
+Destaca focalidad neurológica con disartria, nistagmo ocular horizontal bilateral, dismetría de la extremidad superior derecha, signo de Romberg positivo, con marcha de base amplia. Resto de la exploración normal.
+
+Pruebas complementarias
+• Ante la sospecha de afectación cerebelosa y el antecedente de cáncer de mama, se realiza una RM cerebral donde no se observan lesiones ocupantes de espacio ni otros hallazgos que justifiquen los síntomas.
+• Después se procede a una punción lumbar, que objetiva una pleocitosis de predominio linfocitario e hiperproteinorraquia leve (proteínas 60,4 mg/dL).
+• Descartándose una afectación cerebelosa macroscópica, y ante la sospecha de un síndrome pancerebeloso, se solicitan marcadores tumorales, autoinmunidad y anticuerpos onconeurales, evidenciándose la presencia de anticuerpos anti-Yo.
+• Con la sospecha diagnóstica de síndrome paraneoplásico cerebeloso, se realiza estudio de extensión con PET-TC, que pone de manifiesto la captación de 18-fluoro-desoxi-glucosa en dos adenopatías en cadena mamaria izquierda sugestivas de infiltración tumoral.
+
+Diagnóstico
+Ante los hallazgos, y la presencia de anticuerpos anti-Yo, se orienta el caso como cerebelitis paraneoplásica.
+Ante una clínica cerebelosa es imprescindible descartar cualquier proceso orgánico cerebral con una prueba de imagen como la RM cerebral que, en la mayoría de los casos, es normal, o en fases avanzadas puede mostrar una atrofia cerebelosa. Otro pilar del diagnóstico es el análisis del líquido cefalorraquídeo, para descartar otros procesos paraneoplásicos.
+Los hallazgos típicos en la cerebelitis paraneoplásica en el líquido cefalorraquídeo son la elevación de las proteínas y la pleocitosis linfocítica como en nuestro caso.
+
+Tratamiento y evolución
+Se inicia tratamiento consistiendo con un bolus de metilprednisolona 1 g (dosis total de 5 g) y ciclofosfamida (5 bolus de 1 g en 8 días), remitiendo parcialmente la clínica cerebelosa, con desaparición de la diplopía y persistiendo una marcha atáxica, pero posible con ayuda, motivo por el cual es dada de alta.
+A los pocos días presenta empeoramiento clínico, con empeoramiento de la marcha atáxica y de la disartria y aparición de mioclonías. Se presentó en comité de tumores mamarios, recomendando cirugía de la recaída ganglionar y añadir trastuzumab (que ya había recibido previamente) y docetaxel a dosis de 75 mg/m2. Se administra dicho tratamiento, pero la paciente presenta un deterioro brusco de la clínica cerebelosa, con empeoramiento de las mioclonías, por lo que se inicia corticoterapia intensiva. A los pocos días se realiza la exéresis de las dos adenopatías.
+El informe anatomopatológico confirma la afectación metástasica de tres de cuatro ganglios resecados en el tercer espacio intercostal izquierdo, con afectación de la cápsula tumoral y ausencia de invasión de partes blandas, con receptores para estrógenos y progesterona negativos, un Ki-67 del 90% y cerb-2+++.
+Sigue con la quimioterapia, pero progresivamente se objetiva un empeoramiento neurológico y se inicia radioterapia sobre lecho quirúrgico con buena tolerancia.
+La clínica neurológica empeoró progresivamente con temblor esencial más pronunciado, disfagia progresiva, dificultad en la masticación, con aparición de ideas de autólisis y gran impacto psicológico, que condicionan una dependencia funcional total de la paciente.
+Junto con el marido y el equipo de cuidados paliativos y oncólogos médicos, se decide suspender el tratamiento oncológico activo e iniciar medidas de confort para disminuir la angustia y los temblores. Se inicia bomba de midazolam con risperidona oral, pero desafortunadamente la clínica se exarceba, con insomnio incoercible, agitación, disminución del nivel de consciencia y aumento de secreciones bronquiales, por lo que, de acuerdo con su testamento vital, se procede a la sedación.

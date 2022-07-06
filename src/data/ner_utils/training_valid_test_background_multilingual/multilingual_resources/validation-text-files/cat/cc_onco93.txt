@@ -1,0 +1,30 @@
+Anamnesi
+Presentem a una dona de 72 anys procedent de Barcelona, casada. Mare de tres fills independitzats, amb bon suport familiar. Jubilada des dels 65 anys i mestra de professió.
+
+Sense antecedents oncològics familiars rellevants. Tampoc refereix hàbits tòxics i presenta antecedents personals de HTA en tractament mèdic amb enalapril. Història ginecològica de 3 embarassos, 3 parts eutòcics i 3 fills vius sans. Va presentar el primer cicle menstrual als 9 anys i la menopausa als 40 anys.
+
+La seva història oncològica s'inicia a principis de setembre amb un quadre clínic caracteritzat per dolor abdominal irradiat en cinturó que s'acompanya de plenitud precoç, anorèxia amb pèrdua quantificada de 5 kg en un mes i astènia moderada.
+
+Exploració física
+A l'exploració física destaca una franca deterioració de l'estat general, amb un performance estatus de 2 i distensió abdominal a costa d'hepatomegàlia de quatre travessos de dit, sense signes d'ascites.
+Presenta així mateix icterícia mucocutánea important. No mostra alteracions cardiològiques ni respiratòries.
+
+Proves complementàries
+» En urgències es realitza una ecografia abdominal que mostra hepatomegàlia a costa de múltiples lesionis ocupants d'espai, per la qual cosa ingressa en el Servei de Medicina Interna per al seu estudi.
+» Durant l'ingrés es realitza una analítica inicial, en la qual destaca duplicació dels nivells normals de transaminasas i colèstasi no dissociada (AST 1,02 μkat/l, ALT 1,21 μkat/l, albúmina31 g/l, BB 14 μmol/l, gamma-GT 10,61 μkat/l, FA 5,05 μkat/l). Presenta elevació de diversos marcadors tumorals, entre els quals destaquen antigen Ca-19-9 de 618 kint.o./l, antigeno carcinoembriogénico 992,2 ug/l i alfa-fetoproteína (AFP) 14.968 ug/l. Es realitzen serologies que descarten hepatitis.
+» Es procedeix a realitzar una TC abdominal, que mostra hepatomegàlia tumoral a costa de múltiples lesions focals hipervasculars bilobulares, observant-se també masses tumorals endovesiculares de característiques hipervasculars compatibles amb metàstasis. No s'observava cap lesió de característiques tumorals en la pelvis. La semiologia descrita conjuntament amb la radiologia plantejaven el diagnòstic diferencial entre hepatocarcinoma multifocal sobre fetge sa, tumor germinal extragonadal hepàtic i metàstasi endovesiculares enfront de metàstasis hepàtiques i endovesiculares suggestius de melanoma per la hipervascularización.
+» Davant aquestes troballes es realitza una PET-TC per a estadificación i cerca d'un tumor primari, destacant la lesió tumoral sòlida hipermetabólica endovesicular, que s'estén fins a l'hil hepàtic i el solc pancreatoduodenal i múltiples lesions hepàtiques hipermetabólicas, sent difícil la valoració del tumor primari, encara que donada l'absència de dilatació de la via biliar i pancreàtica s'orienta cap a un probable origen vesicular com a primera opció (menys probablement del tipus colangiocarcinoma o duodenal) i probables metàstasis hepàtiques.
+» Es realitza una biòpsia hepàtica guiada per ecografia sense incidències. L'anatomia patològica és informada com a infiltració per una neoplàsia que adopta un patró de creixement papil·lar i tubular infiltrante. Es descarta la proliferació dels nuclis i la presència de vacúols subnucleares. A nivell de les papil·les, que mostren un eix fibrovascular, els vacúols es troben adjacents a l'eix fibrovascular i en el component tubular infiltrante es troben adjacents a l'estroma de voltant.
+Les cèl·lules mostren pleomorfismo nuclear i s'identifiquen mitosi. No s'observa necrosi. 
+Immunohistoquímica amb positivitat focal per a alfa-fetoproteína. Negativitat per a CK7, CK20 i receptors d'estrògens. Davant aquestes troballes l'orientació diagnòstica és de tumor de yolk salk de tipus endometroide.
+
+Diagnòstic
+S'orienta, per tant, com tumor de cèl·lules germinals del si endodèrmic extragonadal (yolk sac tumor) de localització hepàtica i en la vesícula biliar sense restes de tumor primari gonadal.
+
+Tractament
+En tractar-se d'un tumor quimiosensible segons la literatura mèdica, però davant la fragilitat i la gran deterioració de la nostra pacient, es decideix iniciar quimioteràpia segons l'esquema carboplatí-etopósido (etopósido al 80% per alteració de la funció hepàtica). La pacient rep únicament un cicle, que és ben tolerat.
+
+Evolució
+Malgrat el tractament, la pacient presenta una ràpida deterioració clínica, per la qual cosa al desembre de 2013 es determinen novament marcadors tumorals, que paradoxalment estan discretament més baixos, i es realitza una TC d'abdomen que mostra discreta millora de la grandària de les lesions hepàtiques. No obstant això, presenta ascites franca, TEP bilateral i trombosi portal de nova aparició. La pacient requereix un ingrés al desembre per la deterioració general, presentant múltiples complicacions, entre les quals destaquen infecció respiratòria per Haemophilus influenzae i ascites maligna en relació amb malaltia neoplàsica.
+
+Donades les complicacions que sorgeixen durant el tractament, condicionant un performance estatus de 2-3, i davant l'escassa resposta clínica al tractament, es considera no candidata a més tractament oncoespecífico i és derivada a la Unitat de Cures Pal·liatives del nostre centre, morint un mes més tard per progressió de la malaltia.

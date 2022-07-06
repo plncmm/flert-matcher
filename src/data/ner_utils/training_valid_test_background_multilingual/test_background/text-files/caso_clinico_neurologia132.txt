@@ -1,0 +1,25 @@
+Anamnesis
+Paciente de 57 años con los siguientes antecedentes personales: no alergias medicamentosas conocidas; hipertensión arterial grave controlada con cinco fármacos; no diabetes mellitus; no dislipemia. Exfumador de 10 cigarrillos/día. Bebedor habitual. Obesidad mórbida sometida a cirugía bariátrica. Anemia ferropénica. Hiperuricemia sintomática. No datos de deterioro cognitivo. mRS: 0 puntos. Índice de Barthel: 100 puntos. Tratamientos actuales: omeprazol 20 mg/24 h, losartán 100 mg/24 h, amlodipino 10 mg/24 h, bisoprolol 5 mg/24 h, doxazosina 2 mg/24 h. Cirugías previas: by-pass gástrico. El paciente acude al Servicio de Urgencias refiriendo un cuadro brusco de risa incontrolada de unos 15 minutos de duración, seguido de alteración en la articulación del lenguaje y debilidad en las extremidades derechas. No afectación del nivel de consciencia. No automatismos ni movimientos anómalos de las extremidades. No otra sintomatología acompañante. No episodios previos similares.
+
+Examen físico
+Auscultación cardiorrespiratoria: tonos rítmicos sin soplos ni ruidos pulmonares sobreañadidos. Auscultación carotídea: no se auscultan soplos. Disartria moderada con preservación de la nominación y la comprensión del lenguaje. Parálisis facial supranuclear derecha leve. Resto de pares craneales normales. Balance motor en el hemicuerpo derecho 4+/5. ROT: presentes y simétricos. RCP: flexor bilateral. Sensibilidad: conservada. Cerebelo: normal. Marcha: normal. NIHSS: 2 puntos.
+
+Pruebas complementarias
+• Analítica básica (incluyendo perfil tiroideo y lipídico): parámetros compatibles con anemia ferropénica; resto de valores dentro de la normalidad.
+• Electrocardiograma ECG: ritmo sinusal sin alteraciones agudas en la repolarización.
+• Radiografía de tórax: sin alteraciones.
+• Ecocardiografía transtorácica (ETT): hipertrofia moderada del ventrículo izquierdo con función sistólica conservada.
+• DTSA: se aprecian placas ateromatosas calcificadas en la bifurcación de ambos ejes carotídeos, sin que condicionen alteraciones morfológicas o hemodinámicas significativas. Permeabilidad de ambas arterias vertebrales.
+• DTC: muestra permeabilidad de todos los vasos intracraneales estudiados, sin traducir estenosis morfológica de ninguno de ellos.
+• Tomografía computarizada (TC) craneal en Urgencias: estudio que no muestra lesiones agudas en el momento de su realización.
+• Resonancia magnética (RM) craneal: lesión hiperintensa en la sustancia blanca subcortical parietotemporal izquierda, que presenta restricción en el mapa del coeficiente de difusión aparente y, por tanto, se considera compatible con lesión isquémica aguda en dicha localización. Resonancia magnética craneal, corte axial: secuencia en difusión que muestra una lesión hiperintensa parietotemporal izquierda.
+• Electroencefalograma (EEG): estudio dentro de la normalidad
+
+Diagnóstico
+Ictus parietotemporal izquierdo de probable origen aterotrombótico en un paciente con factores de riesgo cardiovascular (FRCV). Fou rire prodromique.
+
+Tratamiento
+Control estricto de los FRCV. Se recomienda el abandono estricto en el consumo de tóxicos. Añadir ácido acetilsalicílico 300 mg/24 h y atorvastatina 40 mg/24 h a sus tratamientos.
+
+Evolución
+El paciente evolucionó de forma favorable durante su ingreso, de modo que en el momento del alta deambulaba correctamente, habiendo recuperado por completo el mínimo déficit motor que presentaba inicialmente. Persistía, sin embargo, un grado leve de disartria y mínima paresia facial. No se evidenciaron, en los días de estancia hospitalaria, nuevos episodios de risa incontrolada como el descrito el día del ingreso. En el control en consultas a los 3 meses mantiene mínima disartria, que no se acompaña de ningún otro síntoma o signo. mRS: 1 punto. Índice de Barthel: 100 puntos.

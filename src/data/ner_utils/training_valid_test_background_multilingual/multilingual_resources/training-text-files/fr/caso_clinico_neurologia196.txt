@@ -1,0 +1,23 @@
+Anamnèse
+Nous présentons le cas d'un patient, un homme de 59 ans, qui s'est présenté au service des urgences avec un trouble de la parole. L'anamnèse révèle l'absence d'allergies aux substances médicamenteuses, de problèmes médicaux et d'interventions chirurgicales antérieures. Il n'a pas déclaré prendre de traitements pharmacologiques de façon régulière. Il confirme l'existence d'habitudes toxiques, étant un fumeur actif d'environ 40 cigarettes par jour, et un buveur d'environ deux verres de whisky par jour (selon ses propres mots). Dans la section sur la maladie actuelle, il décrit une histoire de 4 jours de vomissements accompagnés de diarrhée, avec une fièvre de 38,5oC, ainsi que des douleurs généralisées dans les articulations, principalement dans la région lombaire. Par elle-même, elle a commencé un traitement à base d'analgésiques et d'antipyrétiques, mais la fièvre, le malaise général, la faiblesse et la douleur ont persisté, la douleur s'intensifiant la veille de sa visite aux urgences dans la région cervicale. Elle a signalé des épisodes de difficultés d'élocution, suivis d'une élocution lente, d'une bradypsychie et d'une faiblesse.
+
+Examen physique
+L'examen général a révélé un état fébrile persistant ; le crâne, le cou, le thorax et l'abdomen étaient strictement normaux. Normotensive. Auscultation normale de la carotide. Auscultation cardiorespiratoire : a montré la présence de tonalités rythmiques et pures, sans souffle, et un souffle vésiculaire pulmonaire normal. Les pouls périphériques ont été palpés dans les extrémités.
+Examen neurologique : patient alerte, bradypsychique, partiellement orienté dans l'espace et le temps. Les pupilles sont isochoriques et normoréactives avec un fond d'œil normal. Dysphasie mixte avec prédominance motrice. Les nerfs crâniens ne sont pas affectés. Pronation du membre supérieur droit. Il n'y a pas d'altérations sensorielles. Réflexes ostéotendineux respectés. Réflexe fléchisseur cutanéo-plantaire bilatéral. Le patient n'a pas de dysmétrie et sa démarche est normale.
+
+Tests complémentaires
+- Analyses de laboratoire : seulement une légère macrocytose avec un VCM de 102,3 fl. Le reste de l'hémogramme, la biochimie, l'hémostase et les gaz du sang veineux étaient dans les paramètres normaux.
+- Ponction lombaire : présence dans le liquide céphalo-rachidien de leucocytes 5/mm3, globules rouges 2/mm3, glucose 59 mg/dl, protéines 0,57 g/dl. Charge virale du CMV, EBV, HSV1 et HSV2 non détectable. Culture négative.
+- Électroencéphalographie à l'état de veille : activité de base légèrement ralentie, sur laquelle apparaissent des paroxysmes de pointes hypervoltés et d'ondes lentes (delta) dans la région temporale antérieure de l'hémisphère gauche, compatibles avec une focalisation lésionnelle-irritative.
+- Radiographie du thorax : normale.
+- Tomodensitométrie du crâne sans contraste : image hyperdense linéaire temporo-occipitale gauche extra-axiale sans œdème associé, effet de masse ou déplacement de la ligne médiane.
+- Angiographie par IRM crânienne : thrombose de la veine corticale superficielle gauche, dite veine de Trolard, sans autre altération. Thrombose de la veine de Trolard.
+
+Diagnostic
+Thrombose de la veine anastomotique supérieure ou de la veine de Trolard. Association du tabagisme et de l'éthylisme comme diagnostics secondaires.
+
+Traitement
+Le traitement a été commencé après l'admission avec de l'énoxaparine, et quelques jours plus tard, le patient s'est rendu au service d'hématologie pour commencer un traitement avec de l'acénocoumarol, de l'oméprazole et de l'acide valproïque. Tout cela avec une abstinence totale de tabac et d'alcool.
+
+Evolution
+Le patient a montré une amélioration, sans aucun incident jusqu'à sa sortie le sixième jour. Lors de l'examen suivant, à 3 mois, le patient a présenté des symptômes iatrogènes dus au traitement par l'acide valproïque sous forme de faiblesse et d'une démarche légèrement instable, raison pour laquelle la dose a été réduite.

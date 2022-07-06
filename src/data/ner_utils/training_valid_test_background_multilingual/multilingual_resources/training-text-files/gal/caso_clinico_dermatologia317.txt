@@ -1,0 +1,21 @@
+Anamnesis
+Un varón de 8 meses acudiu a consulta de dermatoloxía para estudo de linfedema congénito en mans. A historia obstétrica da súa nai destacou por polihidramnios sen diabetes gestacional. Pais sen consanguinidad. Na súa historia persoal, foi nado pretérmino ás 36 semanas de gestación mediante inducción do parto cun peso de 4470 g e unha talla de 50 cm. Como antecedentes familiares destacou un irmán maior nacido con transposición de grandes vasos. Desde o nacemento presentou episodios leves e recurrentes de infeccións respiratorias de vías altas e otitis externa. Ademais aos 7 meses de vida comezou con episodios frecuentes de deposiciones con moco e sustancias non dixeridas.
+
+Exploración física
+Á exploración física se objetivó linfedema segmentario e asimétrico de predominio en ambas mans, rexión cervical, membro inferior dereito, pubis e hidrocele. Os pés estaban respectados. Á palpación detectouse un conglomerado adenopático en axila dereita.
+
+Exploracións complementarias
+Nas probas de laboratorio destacaron niveis de linfocitos no límite baixo da normalidad, hipoproteinemia con hipoalbuminemia e hipogammaglobulinemia (IgG 254 mg/dL, IgA 13 mg/dL). O resto de probas analíticas incluíndo colesterol, triglicéridos, coagulación, inmunoglobulina E, función tiroidea, ceruloplasmina, serología de hepatitis C, hepatitis B, virus da inmunodeficiencia humana, sífilis, toxoplasma, virus de Epstein-Barr, citomegalovirus, virus varicela zóster e rubeola foron normais ou negativas. O estudo de subpoblaciones linfocitarias mostrou un aumento anormal de linfocitos T e B virxes. O estudo de digestión en feces estaba alterado con aumento de celulosa, almidón e fibras musculares, aínda que os niveis de alfa-1-antitripsina fecal foron normais. A radiografía de tórax foi normal. A radiografía de columna vertebral e membros inferiores non revelou dismetría. A ecografía de abdomen e o ecocardiograma mostraron leve cantidade de líquido libre peritoneal e pericárdico respectivamente. Unha ecografía ganglionar detectou adenopatías axilares e inguinales bilaterales de predominio dereito.
+Realizouse unha RM sen contraste de cráneo que foi normal. A RM de tronco e extremidades demostrou dilataciones arrosariadas de vasos linfáticos superficiais en membros superiores, membro inferior dereito e rexión cervical. O conducto torácico estaba dilatado e había unha discreta cantidade de ascitis. Ademais destacou edema da mucosa a nivel de yeyuno principalmente e presenza de vasos ectásicos na súa parede.
+Realizouse un cariotipo que foi normal. O estudo da mutación do xene FLT4 (VEGFR-3) da enfermidade de Milroy foi negativo.
+Unha biopsia cutánea de perna revelou linfagiectasias de vasos superficiais. O estudo histológico dunha adenopatía de axila dereita mostrou un ganglio linfático reemplazado na súa totalidade por canles vasculares de natureza linfática, nalgúns dos cales observábanse agregados linfoides intraluminales que non formaban folículos secundarios. Devanditas canles presentaban un endotelio con inmunotinción positiva para D2-40. Este tecido alternaba con zonas de tecido graso maduro. A cápsula ganglionar estaba conservada. O estroma denso estaba constituído na súa maioría por células fusiformes que correspondían a tecido de músculo liso.
+Ante a triada de diarrea, hipoproteinemia e hipogammaglobulinemia realizouse unha endoscopia oral onde se observou vellosidades dilatadas e nacaradas con patrón parcheado en duodeno, con resto da exploración normal. Tomouse biopsia de mucosa intestinal con histología compatible con linfagiectasia intestinal.
+
+Diagnóstico
+Segundo a clasificación da ISSVA de 2014 atopámosnos/atopámonos ante unha anomalía linfática primaria xeneralizada que cursa con linfedema e linfagiectasias intestinais polo que estamos ante unha síndrome linfagiectasia-linfedema ou síndrome Hennekam.
+
+Tratamento
+Iniciamos tratamento con sirolimus oral a dose de 0,8 mg/m2 cada 24 horas mantendo niveis de fármaco en sangue entre 5-7 ng/mL.
+
+Evolución
+O paciente leva 2 meses en tratamento con sirolimus oral con remisión da diarrea e mejoría discreta do linfedema cutáneo.

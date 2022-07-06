@@ -1,0 +1,22 @@
+Anamnesi
+El pacient refereix molèsties abdominals generalitzades en relació amb distensió abdominal, amb síndrome general important (astènia, pèrdua d'apetit i pèrdua de pes de manera progressiva). Dispnea de moderats esforços. Sense clínica infecciosa en l'actualitat.
+
+Exploració física
+ECOG 2. Estable hemodinámicamente i afebril. Icterícia en pell, mucoses i conjuntives. Auscultació cardíaca: tons rítmics, sense soplos audibles. Auscultació pulmonar: hipoventilació global. Abdomen: molt distès, molest en la palpació, gran hepatomegàlia de fins a 15 cm sota vorell costal dret. Extremitats inferiors: sense edemes.
+
+Proves complementàries
+Analítica prèvia a l'inici de tractament citostàtic: Hb 7,8 g/dl, leucòcits 36.800 mmc, plaquetes 547.000 mmc, creatinina 0,71 mg/dl, bilirubina total 4,7 mg/dl, sodi 127 mEq/l, potassi 4,9 mEq/l, calci 9 mg/dl. En dies previs, la xifra d'àcid úric era 10,4 mg/dl. Respecte a marcadors tumorals neuroendocrins, presentava enolasa específica neuronal 309,3 ng/ml i cromogranina A 914,4 ng/ml.
+
+Diagnòstic
+Amb diagnòstic de CNE G3 (ki-67: 90%) de cardias estadi IV, amb afectació multisistèmica, el pacient ingressa en Oncologia Mèdica i inicia 1a línia de tractament citostàtic per a malaltia avançada amb carboplatí AUC-4 (dia 1) + etopósido 80 mg/m² (dies 1, 2, 3) cada 21 dies, amb reducció de dosi per ECOG i afectació hepàtica. Es realitza també transfusió de 2 concentrats d'hematies.
+L'endemà, el pacient presenta deterioració clínica important, amb dispnea de repòs i saturació d'oxigen inferior a 90%, per la qual cosa precisa oxigenoteràpia amb reservorio. Es realitza analítica, destacant: àcid úric 15,4 mg/dl, creatinina 1,02 mg/dl, fòsfor 4,1 mg/dl, colesterol total 577 mg/dl, LDL 522 mg/dl, sodi 125 mEq/l, potassi 5,7 mEq/l, calci 8,6 mg/dl. En gasometria arterial presenta pH 7,31, pCO2 25 mm Hg, pO2 56 mm Hg, bicarbonat 12,6 mmol/l, excés de bases-12,1 mmol/l i saturació oxigen 86% (amb VMK al 50%).
+S'inicia tractament amb alopurinol 100 mg/8h via oral, rasburicasa 0,2 mg/kg/dia via intravenosa en dosi única, furosemida 20 mg/8 h via intravenosa i sueroterapia intensiva, mantenint tractament antifúngic amb fluconazol que es va iniciar per aïllament de Candida albicans en raspallat esofàgic realitzat en gastroscòpia.
+En analítica de control i gasometria venosa: àcid úric 4,7 mg/dl, creatinina 1,61 mg/dl, calci 8,2 mg/dl, sodi 132 mEq/l, potassi 6 mEq/l, fòsfor 8,1 mg/dl, pH 7,28, bicarbonat 16,9 mmol/l, pCO2 36 mm Hg, excés de bases-9,1 mmol/l.
+Davant la deterioració clínica progressiva, s'avisa a Medicina Intensiva i el pacient es trasllada al seu servei amb diagnòstic d'insuficiència respiratòria aguda i síndrome de lisis tumoral amb insuficiència renal aguda i acidosis metabòlica.
+
+Tractament
+Continua suport en UCI, requerint ventilació mecànica no invasiva contínua, sueroterapia intensiva amb reposició d'ions, així com antibioterapia empírica amb piperacilina-tazobactam, mantenint tractament antifúngic amb fluconazol.
+Destaca la presència d'infiltrats pulmonars bilaterals difusos en radiografia de tòrax portàtil establint-se el diagnòstic diferencial entre síndrome de distrès respiratori agut, hemorràgia pulmonar i complicació infecciosa.
+
+Evolució
+El pacient evoluciona de manera favorable, retirant suport ventilatori, amb xifres de creatinina, àcid úric, fòsfor, calci i potassi en rang normal. Després de 8 dies en UCI, es trasllada de nou a Oncologia Mèdica. Realitzem nova radiografia de tòrax de control amb gran millora respecte a la prèvia. Presenta recuperació progressiva de l'estat general pel que es decideix alta a domicili en dies posteriors.

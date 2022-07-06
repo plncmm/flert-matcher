@@ -1,0 +1,44 @@
+Varón de 68 años jubilado, natural de Las Palmas de Gran Canaria y residente en medio rural, sin animales domésticos, exposición alimentaria ni ambiental de riesgo, ni viajes recientes fuera de la isla. Con antecedentes personales de hipertensión arterial de más de 10 años de evolución, SAOS con CPAP domiciliaria, infección por VHB pasada, tendinopatía de manguito de rotadores en seguimiento por Reumatología y tratamiento con infiltración de corticoides de forma periódica desde hace 2 años y medio. Exfumador desde hace 4 meses antes del ingreso y bebedor ocasional. En el momento del ingreso estaba en tratamiento con acetilsalicílico, valsartán, amlodipino, doxazosina y celecoxib.
+Refería inicio de su enfermedad actual 1 mes antes del ingreso, cuando comenza con cuadro de dolor, eritema, edema y aumento del tamaño del testículo izquierdo, por el que consultó al Servicio de Urgencias de su centro de salud y posteriormente del centro hospitalario, diagnosticándose de orquiepididimitis y realizándose urianálisis repetidos, tomando muestras para urocultivo e iniciando tratamiento empírico con fosfomicina, que en los días sucesivos se modifica a cefixima y posteriormente a cefuroxima ante la persistencia de la sintomatología. Tras completar 14 días de tratamiento el cuadro se resuelve sin complicaciones. Las muestras de orina resultaron en todo momento negativas.
+Acudió de nuevo al Servicio de Urgencias 2 semanas más tarde por cuadro de fiebre de hasta 40oC de características ondulantes y predominio vespertino, asociado a deterioro del estado general, cefalea, mareos, sudoración nocturna, artromialgias generalizadas y debilidad. Refería pérdida de unos 10Kg de peso en el último mes.
+Negaba en todo momento sintomatología respiratoria, digestiva o miccional.
+
+En la exploración física presentaba: TA 102/56, FC 49lpm, SatO2 92% basal, Ta 36.8oC. Buen estado general, consciente, orientado y colaborador, eupneico. Palidez cutánea. No se palpan adenopatías periféricas, pulsos carotídeos bilaterales simétricos, sin soplos, tonos cardiacos rítmicos, no se auscultan soplos, murmullo vesicular conservado sin estertores. Abdomen blando, no doloroso a la palpación. Hepatomegalia de 2cm bajo el reborde costal. Genitales sin alteraciones. Pulsos periféricos bilaterales simétricos. Dolor a la rotación interna de ambos hombros. Exploración neurológica normal.
+
+PRUEBAS COMPLEMENTARIAS
+— Hemograma: leucocitosis con neutrofilia, Hb 9,91 g/dL (con previas hace 1 mes de 11,8 g/dL), VCM 94,9 fL. VSG 62 mm/h.
+— Bioquímica: función renal normal, iones normales, proteínas totales 5.61 g/dL, CK normal, discreta elevación de transaminasas.
+— Ferritina 1333 con IST 12,2%, PCR 222,86 ng/L, procalcitonina normal.
+— Microbiología: hemocultivos repetidos negativos, urocultivo negativo, serología de Coxiella, Rickettsia, Mycoplasma, Brucella, Leptospira, sífilis, VHC, VIH, VEB, CMV negativos. Serología de VHB pasado con inmunidad adquirida.
+— Rx tórax: sin hallazgos sugestivos de patología aguda.
+— Ecocardiograma transtorácico: buena función biventricular, sin datos de endocarditis ni otros hallazgos significativos.
+— ECO abdominal: esplenomegalia leve de 14.1 cm sin lesiones en su interior, vesícula biliar con adenomiomatosis, hígado, páncreas, aorta y retroperitoneo noramles. Litiasis renal no complicada. Resto del barrido ecográfico sin alteraciones.
+— TC tórax, abdomen y pelvis: hígado con estigmas de hepatopatía crónica, colelitiasis, engrosamiento focal del fundus vesicular sugestivo de adenomiomatosis. Sin hallazgos sugestivos de colección o infecciones en el momento actual.
+— Gammagrafía con leucocitos marcados: sin evidencia gammagráfica de foco infeccioso activo en la actualidad.
+En este momento, y tras tratamiento empírico con doxiciclina, dada la negatividad de todos los estudios, se considera descartado de forma razonable la causa infecciosa, por lo que se decide realizar nuevamente anamnesis por aparatos, momento en el que el paciente reconoce debilidad de cintura escapular y pelviana, cefalea intensa y claudicación mandibular, así como seguimiento reumatológico por tendinopatía de manguito de rotadores.
+
+Se amplía el estudio con:
+— Autoinmunidad: ANA 1/160 con patrón homogéneo, antiDNA, antiMPO, antiPR3, antiJo1 negativos.
+Inmunoglobulinas normales, factor reumatoide normal y complemento C3 y C4 normales.
+— Electromiograma: polineuropatía sensitivomotora desmielinizante difusa en grado leve.
+— PET-TC: sin evidencia metabólica de patología inflamatoria en fase activa a ningún nivel.
+
+
+DIAGNÓSTICO DIFERENCIAL
+En el momento inicial, el cuadro clínico se orienta como una fiebre de duración intermedia, siendo obligado descartar infecciones del espectro de las bacterias atípicas. Dada la elevada incidencia de infección, tanto aguda como crónica, por Coxiella burnetii en nuestro medio, así como la presencia de fiebre, hipertransaminasemia leve, cefalea, artromialgias y vivienda en medio rural, se decide iniciar tratamiento empírico con doxiciclina con la intención de completar 14 días. Pese al inicio de la antibioterapia, el paciente persiste con deterioro del estado general y fiebre, por lo que se amplían los estudios mediante rastreo gammagráfico que no aporta nuevos datos sugestivos de infección aguda. Este hecho, unido a la escasa respuesta al tratamiento antibiótico y la negatividad de las pruebas microbiológicas, hace sospechar que no nos encontramos ante un cuadro de origen infeccioso, no obstante, la negatividad de una primera determinación de Coxiella burnetii no descarta infección aguda por la misma, y su relación estrecha con fenómenos autoinmunes es un aspecto conocido, por lo que se decide mantener el tratamiento antibiótico hasta completar la pauta.
+Una vez rehistoriado el paciente, y con los nuevos datos de la anamnesis, se establece una alta sospecha de la participación de una enfermedad autoinmune como causa del cuadro del paciente. En este momento, el diagnóstico diferencial se centra en las vasculitis de grandes vasos y la poliarteritis nudosa:
+— Poliarteritis nudosa (PAN): el antecedente de orquiepididimitis, la pérdida de peso, las mialgias, la polineuropatía y la infección por VHB pasado eran datos que aportaban peso a esta opción diagnóstica.
+— Arteritis de células gigantes (ACG) / polimialgia reumática (PMR): la debilidad de cinturas, fiebre persistente, anemia, pérdida ponderal, VSG>50 mm/h, edad >50 años, claudicación mandibular y polineuropatía son datos a favor de esta entidad.
+
+PRUEBAS DIAGNÓSTICAS
+— PET-TC que descarta captación patológica en grandes vasos. Pese a la negatividad de las pruebas, la elevada sensibilidad de las manifestaciones clínicas mantiene este diagnóstico, una vez descartada la infección aguda, como primera posibilidad.
+— Angio-TC abdominal; sin datos de PAN.
+— Biopsia de arteria temporal informada como infiltración linfocitaria vascular compatible con la sospecha clínica de ACG.
+
+DIAGNÓSTICO DEFINITIVO
+— Arteritis de células gigantes.
+
+TRATAMIENTO Y EVOLUCIÓN
+Dado que, en el momento del diagnóstico inicial, no puede descartarse la posibilidad de infección por Coxiella burnetii y en espera de repetir la serología, se decide completar 14 días de tratamiento con doxiciclina asociando, por la sospecha de PMR, corticoides a dosis bajas con una magnífica respuesta clínica y desaparición de la sintomatología y la fiebre.
+Pese a la elevada sospecha de ACG previa al resultado de la biopsia, asegurada la estabilidad clínica del paciente y la ausencia de afectación que requiera tratamiento urgente, no se inicia tratamiento con corticoides a dosis altas hasta obtener una segunda serología de Coxiella burnetii negativa, dado el riesgo de cronificación de la infección en esos casos. Una vez obtenido el resultado de esta y de la biopsia vascular, se inicia tratamiento con metotrexate 10mg/semanal asociado a prednisona 30mg a dosis descendente progresiva, asistiendo a una desaparición completa de la actividad clínica y analítica de su patología.
+En el momento actual, tras 11 meses de seguimiento, el paciente permanece en remisión clínica y analítica con 5mg de prednisona diarios y 10mg de metotrexate semanal.

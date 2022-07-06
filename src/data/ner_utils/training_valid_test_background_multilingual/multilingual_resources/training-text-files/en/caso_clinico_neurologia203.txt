@@ -1,0 +1,23 @@
+Anamnesis
+42-year-old woman. Cellist by profession, with a personal history of hysterectomy plus double adnexectomy, due to endometriosis, in 2008 and diagnosed with relapsing remitting multiple sclerosis (RRMS) in 1997, on treatment with interferon beta 1a 44 mg, paroxetine, bromazepam, doxylamine succinate and oral contraceptives. She does not use herbal products. The patient came to the Emergency Department with severe abdominal pain and vomiting, which had been present for 2 days. For the previous 15 days the patient reported a feeling of gastric heaviness, nausea and asthenia. She did not report any drug use. One month earlier, her dose of interferon beta 1b had been increased from 22 mg to 44 mg, after presenting with a clinical picture compatible with a multiple sclerosis brain stem flare, which was treated with 5 boluses of 1 g of intravenous methylprednisolone.
+
+Physical examination
+Normal blood pressure, afebrile (36.8 oC), mild mucocutaneous dehydration and icteric sclerae. Cardiopulmonary auscultation normal. Abdomen globular, painful on palpation in the right upper quadrant. Palpation of the hepatic border, painful, 2 cm below the costal margin. Peripheral pulses preserved. No oedema or signs of chronic venous insufficiency.
+Neurological examination: mild tactile hypoaesthesia in the left extremities and exalted osteotendinous reflexes, left extensor cutaneous-plantar reflex. No other focality (EDSS 1.5).
+
+Complementary tests
+- Blood tests: elevated serum transaminases (GOT/GPT 625 IU/l/1,055 IU/l, GGT 471 IU/l, LDH 628 IU/l) and total bilirubin 2.7 mg/100 ml (direct 1.3 mg/100 ml, indirect 0.8 mg/100 ml). The haemogram showed 11,300 leukocytes with 70% neutrophils, platelets 450,000. ESR 53 mm. Iron profile without alterations or other relevant findings.
+- Serology: HAV, HBV and HCV negative. CMV and EBV negative.
+- Immunological study: ANA, SMA, anti-LKM1, pANCA, anti-LC1 and AMA negative.
+- Genetic study: negative for mutations in the HFE gene of hereditary haemochromatosis.
+- Abdominal ultrasound: enlarged liver, patchy hyperechogenicity. No free fluid in the abdominal cavity.
+- Liver biopsy: necrosis and portal and periportal inflammation, with interphase hepatitis, with minimal fibrosis. Inconclusive.
+
+Diagnosis
+Grade 4 acute hepatitis secondary to hepatotoxicity due to interferon beta.
+
+Treatment
+Withdrawal of previous treatment. Prednisone 60 mg per day intravenously for 5 days and then orally, gradually reducing the dose over 6 weeks until withdrawal.
+
+Evolution
+The patient was admitted to the Digestive Department. All the treatment she had been taking up to that time was withdrawn and high-dose corticotherapy (1 mg/kg/day) was started intravenously. There was a progressive clinical improvement in the patient's condition. A control blood test one week later showed a marked decrease in transaminase levels (GOT/GPT 225 IU/l/398 IU/l, GGT 240 IU/l) and normalisation of these levels 15 days later. One month later, the patient remained asymptomatic, with no new complications, so it was decided to resume disease-modulating treatment for multiple sclerosis with glatiramer acetate.

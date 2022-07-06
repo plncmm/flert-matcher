@@ -1,0 +1,23 @@
+Motivo de consulta: Mujer de 21 años, que ingresa por pérdida progresiva de fuerza en miembro inferior izquierdo.
+
+Antecedentes personales: Alergia a leche, huevo, kiwi y fresas. NAMC. Epidermodisplasia verruciforme. Anemia hemolítica autoinmune. Bronquitis de repetición. Intervenida a los 12 años por un empiema pleural izquierdo, tras neumonía.
+
+Enfermedad actual: Cuadro de fiebre, tos y expectoración de 15 días de evolución, que mejoró parcialmente con tratamiento broncodilatador y antibiótico. A su vez comenzó a notar debilidad en el miembro inferior izquierdo, que ha ido empeorando de manera progresiva, ingresando en Neurología por este motivo. Exploración física: Estable hemodinámicamente. Afebril. Delgada. Múltiples lesiones verrugosas en ambas manos, lesiones hiperqueratósicas en cuello, abdomen, tórax. Auscultación pulmonar: roncus y estertores bilaterales hasta campos medios. Auscultación cardiaca, abdomen y EEII normales. Neurológicamente: Claudicación de extremidades izquierdas en Barré y Mingazzini. En miembro superior izquierdo, fuerza proximal de 4/5 y distal de 4-/5. En miembro inferior izquierdo, fuerza proximal de 4/5 y distal de 2/5. Hiperreflexia generalizada con aumento del área reflexógena. Babinski izquierdo.
+
+Pruebas complementarias
+Hemograma y coagulación normales. Bioquímica: proteínas totales 5.1 gr/dl, resto normal.
+Inmunoglobinas: IgG 476 mg/dl, IgA, IgE e IgM: normales. IgG-1: 396; IgG-2,97, IgG-3,41, IgG-4,4.
+Proteinograma: Hipogammaglobulinemia. Banda monoclonal IgG Lambda en Gamma tardía.
+LCR: Perfil inflamatorio. ADA 6 U/l. Bandas: Patrón compatible con síntesis intratecal de IgG en enfermedad sistémica. Citología: negativa para malignidad. Cultivo: negativo. Serologías (VIH, VHS, lúes y Borrelia): negativas. PCR virus JC: 331 copias/mm3.
+Serologías (VIH, VHB, VHC, CMV, VEB, Brucella, Borrelia y Lues): negativas. IgG VHS y VVZ positiva.
+TACAR: Hallazgos compatibles con proceso infeccioso vírico.
+TAC craneal: pequeña hipodensidad en sustancia blanca frontal y periventricular derechas, sin realce tras administración de contraste.
+RM craneal: Compatible como primera posibilidad con enfermedad desmielinizante del SNC.
+RM cerebral con técnica de espectroscopía: datos concordantes con sospecha clínica y analítica de LMP.
+
+Evolución: Durante el ingreso sufre episodio de distréss respiratorio agudo que precisa ingreso en UCI. Con el paso de los días presenta afectación de la sensibilidad termoalgésica y empeoramiento de la fuerza en miembro superior izquierdo. Recibió tratamiento inicialmente con metilprednisolona sin mejoría. Tras recibir la PCR en LCR positiva para virus JC se inicia tratamiento con Cidofovir, inmunoglubulinas intravenosas y mefloquina con escasa mejoría.
+
+Juicio Diagnóstico
+- Leucoencefalopatía multifocal progresiva.
+- Inmunodeficiencia combinada, con hipogammaglobulinemia a expensas de
+IgG e IgM.

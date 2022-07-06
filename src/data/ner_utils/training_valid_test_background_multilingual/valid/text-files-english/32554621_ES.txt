@@ -1,0 +1,23 @@
+A 36-year-old man was admitted to our hospital due to a severe recurrence of ulcerative colitis.
+Upon admission, the patient was taking a table showing oral and topical formulation, and up to 12 blood stools.
+Laboratory tests showed mild normocytic anemia (hemoglobin 123 g/L), neutrophilic leukocytosis (neutrophils 9420/μL), increased C-reactive protein (17.1 mg/dL and normal value 3albuminemia).
+One patient developed ulcerated colitis and one patient had a histological examination.
+Chest and abdominal radiographs were normal.
+Treatment was initiated with intravenous methylprednisolone.
+(60 mg/day), rehydration and antithrombotic prophylaxis with low molecular weight heparin.
+Stool culture, Clostridium difficile toxin test and nasopharyngeal swabs for SARS-CoV-2 were all negative.
+The detection of infections, recommended before starting biological therapies, was negative.
+After 5 days of intravenous methylprednisolone, the patient's general condition and clinical status improved slightly; C-reactive protein levels had decreased to 0.95 mg/dL.
+Pathologic diagnosis was established.
+At this time, rescue treatment would have been appropriate, but the patient had fever, dyspnea and cough.
+Laboratory tests showed a new increase in C-reactive protein (3.98 mg/dL).
+A high-resolution CT scan showed bilateral patchy ground glass opacities suggestive of severe interstitial pneumonia.
+A new nasopharyngeal smear was positive for SARS-CoV-2; treatment with▁steroids was progressively reduced and oral administration was started.
+We evaluated the serum concentration of interleukin-6, which was high (37.4 pg/mL; normal values 0-7 pg/mL).
+For ulcerative colitis, medical and surgical options were considered.
+Surgery was considered contraindicated in a patient with COVID-19, who could identify postoperative course and be potentially fatal.
+Consequently, we opted for infliximab at a dose of 5 mg/kg.
+After 7 days with infliximab, the patient's intestinal symptoms and general condition improved considerably.
+A high-resolution CT scan showed a clear improvement, with a reduction in the extent and density of ground glass opacities.
+Analytical tests showed normalization of C-reactive protein (0.12 mg/dL) and decreased concentration of IL-6 up to 15.9 pg/mL; two consecutive tests for nasopharyngeal SARS-CoV-2 were negative.
+The patient was discharged with good clinical status, with two bloodless stools.

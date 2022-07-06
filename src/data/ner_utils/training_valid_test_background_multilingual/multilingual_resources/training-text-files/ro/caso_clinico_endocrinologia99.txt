@@ -1,0 +1,28 @@
+Anamneză: Femeie în vârstă de 54 de ani cu antecedente de obezitate și hipertensiune arterială sub tratament cu Enalapril 20 mg/zi. Nu sunt cunoscute alergii la medicamente. Antecedente familiale: Nu există consangvinitate între părinții ei. Tată cu diabet zaharat (DM) tip 2 și decedat de cancer pulmonar. Mama a murit la vârsta de 94 de ani, fără patologii de interes. Sora trăiește sănătoasă, iar fratele cu DM tip 2. Boala prezentă: S-a prezentat la Departamentul de Urgențe al HUVN cu febră asociată cu dureri abdominale.
+Examinare de urgență: stare generală proastă, conștient, orientat și cooperant. TA: 105/67, Ta38o. Obezitate cu predominanță tronculară; hirsutism generalizat.
+
+Auscultație cardio-respiratorie: Eupneic, fără zgomote patologice cu saturație de oxigen: 96%, frecvența cardiacă: 102 bpm. Abdomen: palpare dureroasă în hipocondrul drept. Membrele inferioare fără edem sau semne de tromboză venoasă profundă.
+
+Teste generale de laborator: Glu: 118 mg/dl, HbA1c: 5,8%; Cr: 0,75 mg/dl; Na+: 139 meq/L K+: 4,5 meq/l, GOT: 68 U/L; GPT: 71 U/L; GGT: 112 U/L; CRP: 312. Leucocite: 18400 mii (86% N) Colesterol: 205 mg/dl; TG: 297 mg/dl.
+
+Tomografie abdominală la Urgențe: Există 3 leziuni hepatice cu contururi confluente neregulate și care prezintă un perete care este intens pus în evidență după administrarea de contrast iv. Cea mai mare dintre aceste leziuni este localizată în segmentul 6-7 și are o dimensiune de aproximativ 6,5 x 6 x 4,5 cm. Celelalte 2 leziuni sunt localizate în segmentele 4 și 6 și au un diametru de aproximativ 2,5 cm.
+
+Judecata clinică la internare: Abces hepatic (prin cultivarea exsudatului și a hemoculturilor nu este posibil să se facă un diagnostic microbiologic exact).
+
+Tratament: A fost internat în departamentul de boli infecțioase. A fost tratată cu antibioterapie cu spectru larg, iar abcesul hepatic a fost complet rezolvat prin drenaj cu ajutorul unui cateter Pigtail. Evoluția clinică a pacientului a fost pozitivă, cu încetarea febrei și a durerilor abdominale.
+După 2 săptămâni, a fost efectuată o tomografie computerizată abdominală de control, care a raportat o evoluție bună în ceea ce privește rezolvarea abcesului hepatic și absența uterului și a anexelor.
+Din cauza acestor constatări neașteptate, a fost consultat Departamentul de Endocrinologie. Pacienta a confirmat că suferea de amenoree primară pentru care nu se consultase niciodată și hirsutism sever încă din pubertate.
+
+Examen endocrinologic: obezitate cu predominanță tronculară, greutate: 103,3 kg; T: 160; IMC: 40,35 kg/m2. CC: 112 cm. Fără gușă. Hirsutism facial ușor-moderat, dar sever pe piept. Linia alba și distribuția androgenică a părului pubian. Nici o voce cu tonuri grave. Nu există alopecie androgenică. Hipoplazia mamară. Organele genitale externe explorate pe patul de spital: aparent feminin, cu absența maselor inghinale.
+
+Examenul ginecologic: Vulvă cu hipertrofie moderată a labiilor mari și noduli palpabili bilateral, mărire minimă a clitorisului și orificiu vaginal orb de aproximativ 1 cm în diametru.
+
+Studiu hormonal: LH: 12,3 mIU/ml; FSH: 29 mIU/ml, Testosteron (T): 364 ng/dl (N<75), T liber: 8,42 ng/dl (N<0,95), Dihidrotestosteron (DHT): 0,42; TL/DHT: 20,04 (N<10). PSA: <0,01 ng/ml, Restul normal.
+Cariotip: 46,XY
+Ecografie pelviană: Nu au fost identificate testicule sau prostată. Ecografia organelor genitale externe: La nivelul labium majus drept, s-a evidențiat un testicul drept cu ecostructură omogenă, fără evidențierea unor leziuni nodulare solide. Dilatarea plexului vascular cu un diametru bazal de 2,5 mm.
+
+La nivelul labium majus stâng, s-a identificat testiculul stâng cu o ecostructură eterogenă în care se evidenția o leziune intraparenchimatoasă solidă cu focare de calcificare grosieră, cu contururi neregulate de aproximativ 18 x 13 mm. Fără hidrocel. Adenopatie inghinală stângă izolată.
+Markerii tumorilor testiculare cu celule germinale: B-HCG: <0,5 mIU/ml, Alfa-Fetoproteină: 1,7 ng/ml (N<9), LDH: 205 U/L (N<247).
+Studiu genetic: s-a recoltat sânge în Edta pentru izolarea leucocitelor și s-a efectuat amplificarea completă prin PCR a exonilor genei SRD5A2 (care codifică enzima 5-alfa reductaza2) situată pe cromozomul 2p23.1. Pacientul a prezentat în heterozigoză compusă 2 variante patogene diferite: c.344G>a (p. GLY115Asp) și c.679C>t (p.Arg227Ter).
+
+Judecata clinică: ADS/DSD 46,XY datorată deficitului de 5-alfa reductază 2 cu tumoră testiculară. Tratament: Este programată orhidectomia stângă și se decide conservarea testiculului drept. Pacienta dorește o schimbare a sexului masculin cu o intervenție chirurgicală reconstructivă, pentru care este trimisă la unitatea de trimitere a Serviciului de Sănătate din Andaluzia.

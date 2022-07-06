@@ -1,0 +1,19 @@
+Anamnesis
+Varón de 48 años de edad, sin antecedentes personales de interés. No presentaba factores de riesgo cardiovascular (diabetes, dislipemia, hipertensión, hábito tabáquico). En diciembre de 2009, se realizó una orquiectomía inguinal derecha por una tumoración testicular. El diagnóstico histológico fue de tumor germinal no seminoma de testículo derecho (carcinoma embrionario) de 1,2 cm con afectación ganglionar en retroperitoneo (pT1N2M0S1). Los marcadores tumorales fueron: alfafetoproteína 83 UI/ml (valor normal <6,3 UI/ml), B-HCG 26,6 mUI/ml (valor normal <3 mUI/ml). El paciente inició el primer ciclo de quimioterapia con esquema BEP. Tras el segundo ciclo, consultó por dolor punzante de instauración brusca, frialdad y parestesias en la pierna y el pie izquierdos.
+
+Exploración física
+Consciente y orientado. Eupneico. Auscultación cardiorrespiratoria: tonos rítmicos a 80 lpm y murmullo vesicular conservado. Abdomen blando, depresible, sin hepatoesplenomegalia ni signos de irritación peritoneal. Miembros inferiores: destacaba palidez y disminución de temperatura distal en el miembro inferior izquierdo, con pulsos pedio y tibial posterior débiles.
+ 
+Pruebas complementarias
+• En la analítica, los valores de hemograma y bioquímica, autoinmunidad y coagulación estaban dentro de la normalidad.
+• La radiografía de tórax no mostró alteraciones significativas. Se realizó una arteriografía de extremidades inferiores, con defectos de repleción en la arteria femoral profunda izquierda y oclusión a nivel de la arteria tibial posterior.
+• En la arteriografía posfibrinólisis, se observó persistencia de oclusión de la arteria tibial posterior y de la arteria tibial anterior a nivel distal, con mejor visualización de los vasos colaterales y perfusión distal.
+
+Diagnóstico
+Isquemia arterial aguda recurrente secundaria a cisplatino en un paciente con tumor germinal.
+
+Tratamiento
+Se inició tratamiento de fibrinólisis intraarterial local con urocinasa 10.000 UI/24 horas, presentando el paciente una evolución favorable con mejoría de la perfusión distal.
+
+Evolución
+Se pautó un tercer ciclo de quimioterapia con cisplatino y etopósido, sin bleomicina, y de nuevo hubo un episodio de isquemia a nivel de la arteria humeral que se confirmó con la realización de arteriografía. En ese momento había una normalización de los niveles de marcadores tumorales (alfafetoproteína y b-HCG ) y la TC toracoabdominopélvica de reevaluación no mostraba afectación retroperitoneal ni otras alteraciones. Ante la recurrencia de los episodios de isquemia arterial secundaria a cisplatino, y la no evidencia de enfermedad oncológica, se decidió suspender el cuarto y último ciclo de quimioterapia, y el paciente continuó tratamiento con heparina de bajo peso molecular a dosis anticoagulante, sin nuevos episodios de isquemia y encontrándose el paciente libre de enfermedad en el momento actual.

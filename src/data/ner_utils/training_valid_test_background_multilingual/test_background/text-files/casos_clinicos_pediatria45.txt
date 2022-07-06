@@ -1,0 +1,54 @@
+MOTIVO DE CONSULTA
+Niña 10 años con tuberculosis (TB) pulmonar sensible.
+A los 10 días de iniciar tratamiento presenta importante hiporexia y pérdida de peso asociado a ictericia y coluria.
+
+ANTECEDENTES PERSONALES
+• Nacida en Rumanía. Reside en España desde hace un año.
+• Vacunada según calendario, incluyendo BCG al nacimiento en país de origen.
+• Sana, sin enfermedades de interés, intervenciones quirúrgicas ni ingresos previos.
+• Diagnosticada de TB pulmonar a raíz del diagnóstico de su hermano de 7 meses. Historiando a la paciente refería hiporexia y pérdida de peso desde un mes y medio antes del diagnóstico.
+
+ANTECEDENTES FAMILIARES
+• Hermano de 7 meses recién diagnosticado de tuberculosis pulmonar.
+• A raíz de ello, se realizó estudio al resto de familia con diagnóstico de la paciente de tuberculosis pulmonar e ingreso hospitalario para tratamiento.
+• Padres sanos.
+• Caso índice: abuela materna con la que conviven diagnosticada de tuberculosis pulmonar.
+
+ENFERMEDAD ACTUAL
+• Pérdida de peso. Hiporexia. Astenia.
+• Afebril.
+• No vómitos ni diarrea.
+• No dolor abdominal. No acolia. Coluria.
+
+• Tratamiento actual:
+o Isoniazida, rifampicina, pirazinamida y etambutol.
+o Piridoxina.
+
+EXPLORACIÓN FÍSICA
+• Peso: 22 kg (p2, -2.2 DE). Talla: 140 cm (p12, -1.1 DE). IMC: 11.2 (<p1, -2.3 DE).
+• Regular estado general. Caquéctica. Bien hidratada y perfundida. Ictericia mucocutánea. No exantemas. No adenopatías.
+• ACP: normal. Abdomen: normal. ORL: normal. Neuro: normal.
+
+Se realiza de nuevo analítica con hemograma, bioquímica y coagulación en la que destaca:
+ALT 1426 UI/L
+AST 1186 UI/L
+BR total 27 mg/dL
+
+DIAGNÓSTICO DIFERENCIAL
+• Hepatitis aguda viral.
+• Daño hepático inducido por fármacos.
+
+Hepatitis aguda viral.
+- Se realizan serologías que son negativas.
+Daño hepático inducido por fármacos.
+- Hepatotoxicidad conocida de los antituberculosos (efecto adverso más frecuente).
+- Se rehistoria a la paciente sobre ingesta de otros fármacos o sustancias, incluyendo hierbas medicinales -> no.
+
+EVOLUCIÓN
+• Tras la suspensión del tratamiento anti-TB la paciente presentó mejoría clínica progresiva y disminución de las transaminasas.
+• Dada la importante elevación de transaminasas que presentó inicialmente, una vez se normalizó el perfil hepático, se decidió iniciar tratamiento con anti-TB no hepatotóxicos, con monitorización estrecha.
+• Tratamiento actual:
+o Etambutol: 20 mg/kg/día.
+o Moxifloxacino: 8 mg/kg/día.
+o Amikacina (inyectable): 20 mg/kg/día.
+• Evolución favorable de la paciente.

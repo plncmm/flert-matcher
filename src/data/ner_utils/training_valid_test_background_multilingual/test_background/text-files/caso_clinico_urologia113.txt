@@ -1,0 +1,24 @@
+Anamnesis
+Varón de 7 años de edad, sin antecedentes médico-quirúrgicos ni familiares de interés. Remitido a la consulta de Urología desde el Servicio de Endocrinología por pubertad precoz en estudio desde los 6 años y 11 meses tras referir pubarquia progresiva de 2 años de evolución.
+
+Examen físico
+El paciente presenta un peso de 39,9 kg y una talla de 135,4 cm (p 98, ± 2,1 DE). Se observa pene de aspecto puberal con 6 cm de longitud, pubarquia y genitales externos en estadio II de Tanner. No presenta axilarquia ni acné facial. Ambos testes son palpables en la bolsa escrotal, de consistencia normal. Se aprecia una leve asimetría testicular, siendo el teste izquierdo mayor que el teste derecho (TD), 4 ml y 2 ml, respectivamente. No se palpan nódulos testiculares ni adenopatías inguinales.
+
+Pruebas complementarias
+El estudio hormonal realizado muestra un test de la corticotropina (ACTH) normal, niveles de testosterona basal elevados (0,72 ng/ml, valores de referencia para la edad 0,03-0,3 ng/ml), FSH basal y LH normales. Los marcadores tumorales AFP, LDH y B-HCG eran negativos.
+Las pruebas de imagen realizadas incluyen una radiografía del carpo, donde se aprecia una edad ósea de 8,9 años, y una ecografía abdominal completa sin hallazgos patológicos.
+Dada la asimetría testicular y la alta sospecha de alteración hormonal secundaria, se decide realizar una ecografía testicular con los siguientes hallazgos: teste izquierdo discretamente aumentado de tamaño con nódulo situado en el polo superior de 1 x 0,6 cm hipoecoico y de contorno bien delimitado con áreas de mayor ecogenicidad en su interior, muy vascularizado al estudio Doppler, altamente sugestivo de proceso neoformativo. Teste derecho de características normales.
+
+Diagnóstico
+Pseudopubertad precoz. Tumor testicular izquierdo, sospecha de tumor de células de Leydig (TCL).
+
+Tratamiento
+Se decide realizar exéresis del nódulo testicular izquierdo con biopsia intraoperatoria, dada la alta sospecha de TCL secretor de testosterona, y en función de los hallazgos realizar cirugía conservadora u orquiectomía radical.
+Se practica acceso inguinal izquierdo con disección del cordón y ligadura del mismo con vessel-loop. Extracción del teste izquierdo y apertura de la vaginal, identificando una tumoración de consistencia fibrosa intratesticular a nivel del polo superior del teste izquierdo de aproximadamente 1 cm de diámetro que se diseca sin dificultad del resto del parénquima testicular. El análisis anatomopatológico (AP) intraoperatorio revela ausencia de malignidad, por lo que se decide completar la cirugía conservadora cerrando la albugínea testicular mediante sutura discontinua y orquidopexia según la técnica de Shoemaker.
+
+Evolución
+El postoperatorio cursa sin incidencias, y el paciente es dado de alta el día después de la cirugía.
+En el primer control un mes después de la intervención, la herida presenta evolución satisfactoria, el teste izquierdo persiste de mayor tamaño con leves signos inflamatorios. El paciente no presenta dolor y ha reanudado las actividades diarias.
+El informe AP definitivo describe macroscópicamente un nódulo de 1 x 0,8 x 0,7cm de consistencia elástica y coloración parduzca. En el análisis microscópico es compatible con TCL.
+En el control a los 3 meses de la cirugía persisten signos de pubertad precoz, a la exploración física el teste izquierdo se palpa ligeramente aumentado de tamaño con cambios inflamatorios, mientras el teste derecho es normal. Se realiza una ecografía escrotal, observando el teste izquierdo con correcta vascularización, tamaño simétrico y sin signos de complicación.
+A los 6 meses de la intervención, los niveles de testosterona se han normalizado (0,3 ng/ml), a la exploración física ambos testes se palpan simétricos y se ha producido una regresión parcial de los signos de pubertad precoz. La ecografía escrotal no muestra hallazgos de interés. Se solicita un nuevo control con ecografía y un estudio hormonal al año.

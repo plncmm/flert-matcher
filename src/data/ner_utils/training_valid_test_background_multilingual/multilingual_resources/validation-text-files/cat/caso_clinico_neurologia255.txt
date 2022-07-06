@@ -1,0 +1,32 @@
+Anamnesi
+Pacient de 58 anys amb antecedents personals de endocarditis bacteriana complicada amb meningoencefalitis bacteriana, discitis a nivell de D12-L1 i ictus isquèmic parietal esquerre l'any 2006, sense seqüeles, exfumador (3 paquets/dia).
+Al setembre de 2011 va començar amb un quadre de dolor lumbar irradiat cap a la cara anterior de la cuixa dreta, amb escassa resposta al tractament analgèsic, motivant en diverses ocasions l'assistència al Servei d'Urgències. Des de gener de 2012 associava feblesa progressiva a la cama dreta, precisant de suport amb crosses per a la deambulació, i sensació d'endormiscament ipsilateral, sobretot amb la bipedestació. En l'últim mes referia també sensació d'endormiscament i feblesa a la cama esquerra amb la deambulació, que millorava després del repòs. No referia alteració d'esfínters ni una altra simptomatologia. El pacient aportava un estudi electromiográfico (EMG), en el qual es posava de manifest la presència d'un sofriment radicular de grau intens L4-L5 amb dades de denervació activa; i una ressonància magnètica (RM) lumbar realitzada el mes d'octubre 2011, en la qual s'apreciaven canvis degeneratius lleus a nivell de L4-L5 i L5- S1, amb molt discreta estenosi dels recessos laterals i forats de conjunció sense signes d'afectació radicular. Ressonància magnètica de columna dors-lumbar en seqüència T2 sense contrast, en la qual s'aprecia una petita protrusió discal D12-L1, sense causar alteració del senyal medul·lar. Davant la dissociació clínic-radiològica i la tòrpida evolució del quadre clínic el pacient va ser ingressat en el Servei de Neurologia per a completar l'estudi.
+
+Exploració física
+Constants vitals normals. Cap i coll normals, no es palpaven adenopaties. Auscultació cardíaca rítmica, sense soplos. Auscultació pulmonar: murmuri vesicular conservat. Abdomen: tou, depresible, sense masses ni megalias; no es palpaven adenopaties inguinals.
+
+Exploració neurològica: atròfia a nivell de la cuixa dreta. Feblesa global en l'extremitat inferior dreta, de predomini distal, amb un peu caigut. Feblesa per a la flexió dorsal del peu esquerre. Reflexos musculars abolits en l'extremitat inferior dreta i hipoactivos en l'extremitat inferior esquerra. Reflex cutani-plantar flexor bilateral. Modalitats sensitives normals. Signe de Lasègue bilateral a 45o.Marxa molt dificultosa, estepaje bilateral, de predomini dret.
+
+Proves complementàries
+• Anàlisis de sang amb hemograma, bioquímica, HbA1, hormones tiroidals: normal.
+• Coagulació: fibrinogen 541 mg/dl.
+• Velocitat de sedimentació globular: 49 mm.
+• Vitamina B12: 4.789 pg/ml. Àcid fòlic: 1,9 ng/ml.
+• Antigen prostàtic específic: negatiu.
+• Estudi immunològic: anticossos antinuclears 1/160, resta negativa.
+• Serologia retrovirus, lúes, Borrelia, Brucella: negativa. Serologia virus herpes simple: IgM negativa, IgG positiva.
+• Estudi del líquid cefalorraquidi: leucòcits 165 céls./ul (mononuclear major al 90%), glucosa 61 mg/dl, proteïnes 1,7 g/l.
+• Citologia del líquid cefalorraquidi: pleocitosis linfomonocitaria. Sense evidència de cèl·lules atípiques.
+• Electrocardiograma: ritme sinusal.
+• Radiografia de tòrax: sense dades de patologia pleuropulmonar.
+• Radiografia de columna: dades de discopatía D12-L1.
+• Electroneuromiograma (ENMG): dades de denervació activa en pràcticament tots els músculs explorats dels membres inferiors, excepte a nivell de L4 esquerre; en part de la musculatura dependent de C8 dreta i en la musculatura paravertebral lumbar, amb traçats neurogénicos o absència de PUM (arrel L5 dreta) davant la contracció voluntària d'aquests músculs.
+• Ressonància meagnética (RM) de columna cérvico-dors-lumbar sense i amb contrast: lesió medul·lar focal a l'altura del cos vertebral L1 d'aproximadament 2 cm de longitud i 8 mm de gruix, que afectava la porció anterior i central del con medul·lar i que aconseguia àmpliament la superfície pial de la cara anterior. Després de l'administració de contrast va mostrar realç perifèric i hipocaptación central. Es va associar a edema centromedular, que s'estenia des de D11 fins al con medul·lar i lleugera expansió medul·lar, encara que semblava existir depressió de la superfície pial en la zona central de la lesió. Dubtosa lesió nodular intraraquídia adjacent a l'arrel S1 dreta. Ressonància magnètica de columna dorsolumbar, seqüència T2 sense contrast amb una lesió medul·lar a nivell del cos vertebral L1 que afecta la porció anterior i central del con medul·lar. Després de l'administració de contrast mostra realç perifèric i hipocaptación central associats a edema medul·lar.
+• Laminectomía amb biòpsia d'arrel lumbosacra: metàstasi de carcinoma. L'estudi immunohistoquímic va objectivar inmunopositividad per a citoqueratina 7 i TTF1, la qual cosa suggeria com a primera possibilitat metàstasi de adenocarcinoma pulmonar.
+• Tomografia computada (TC) tóraco- abdómino-pelviana: es van observar adenopaties d'aspecte necròtic subcarinales i hiliares dretes. Engruiximent pleural basal bilateral crònic. No es van demostrar masses en el parènquima pulmonar. Petits quistos corticals renals bilaterals. Lipomatosis perirenal.
+
+Diagnòstic
+Infiltració de les arrels lumbosacras per carcinoma metastásico. Carcinomatosis meníngia.
+
+Tractament i evolució
+Amb la sospita diagnòstica de plexopatía lumbosacra el pacient va ser ingressat per a completar l'estudi diagnòstic, administrant-se inicialment tractament analgèsic. Es va realitzar una bateria de proves complementàries, entre les quals destacava l'estudi de RM de columna, en el qual es va demostrar la presència d'una lesió medul·lar associada a edema perilesional i captació de contrast heterogènia compatible amb una lesió neoplàsica, per la qual cosa es van associar al tractament dosis altes de dexametasona. El pacient va ser intervingut quirúrgicament per a la realització d'una biòpsia i exèresi de la lesió. Durant la intervenció es va objectivar una arrel lumbar engrossida, de color groguenc i aspecte granulós, que a l'altura de L1 s'aprimava i en D12 es trobava bifurcada, sent únicament possible prendre una mostra per a l'estudi histològic. Amb el diagnòstic de carcinoma metastásico d'origen desconegut (probable adenocarcinoma de pulmó), es va comentar el cas amb el Servei d'Oncologia per a valorar tractament radioteràpic. Als pocs dies, sense haver començat tractament oncològic, el pacient va desenvolupar un quadre confusional amb important deterioració de l'estat general, morint poc després.

@@ -1,0 +1,48 @@
+Storia personale:
+Maschio, 29 anni, originario del Mali, residente in Spagna da 4,5 anni. Non è tornato nel suo paese d'origine. La sua rotta migratoria era: Costa d'Avorio, Libia, Mali, Algeria, Marocco e Fuerteventura. Lavora nelle serre. Vive con 8 persone in una casa con buone condizioni igieniche. Storia ripetuta di malaria. Nessuna abitudine tossica o altra storia di interesse. Nessun trattamento regolare. Nessuna allergia nota ai farmaci.
+
+Malattia attuale: è stato indirizzato dalle Cure Primarie alla clinica di Medicina Tropicale (UMT) per uno studio di ipertransaminasemia. Il paziente è andato dal suo medico di base per dolori addominali legati all'assunzione di cibo, con feci normali, che si sono placati con un trattamento che non ha fornito. Durante questa visita è stato applicato il protocollo di cura iniziale per gli immigrati, che comprendeva un emocromo completo, biochimica con profilo epatorenale, sierologia per HBV, HCV, HIV e sifilide, nonché uno studio dei parassiti nelle feci e nelle urine (nei soggetti provenienti da regioni endemiche per la schistosomiasi). Ha anche riportato un prurito non specifico, non collegato alla doccia. Ha una storia di ematuria nell'infanzia per la quale ha ricevuto un trattamento che non ricorda, e da allora è stato asintomatico.
+
+
+Esame fisico:
+Pressione: 145/90, peso: 60 kg. Buone condizioni generali, ben nutrito. Testa e collo: nessuna linfoadenopatia, nessun mughetto. ACR: toni ritmici senza murmure; murmure vescicolare conservato senza suoni patologici. Addome morbido, depressibile, non doloroso, nessun megalite o massa palpabile. MMII: nessuna prova di filariosi; micosi interdigitale minima tra le dita del 4°-5° dito di entrambi i piedi.
+
+Test complementari iniziali:
+- CBC: leucociti 9120/microL (57,9% neutrofili, 33,6% linfociti, 8,5% eosinofili; 775 eosinofili/ mm3). Hb 15,7 mg/dl, Ht 46,5%, MCV 89,1; MCH 30,1; piastrine 279.000/microL.
+- Biochimica: AST 93 IU/L, ALT 184 IU/L, GGT 125 IU/L, FA 91 IU/L, resto normale.
+- Sierologia: HIV, HCV e lues negativi. HBV: AgHBs -, AcHBs -, AcHBc +.
+- Parassiti nelle feci con tecnica di concentrazione (Ritchie) 3 campioni (x3): Blastocystis hominis.  
+
+Diagnosi differenziale
+La diagnosi differenziale si basa sull'eosinofilia da un lato e sull'ipertransaminasemia dall'altro. L'eosinofilia è una delle sindromi più frequenti che il clinico incontra nei pazienti con patologia tropicale importata. Anche se i processi allergici e di ipersensibilità, le malattie infiammatorie sistemiche e le neoplasie (ematologiche e degli organi solidi) devono essere considerate come possibili cause, l'eziologia più frequente nei pazienti delle regioni tropicali (il nostro paziente viene dal Mali) sono le parassitosi, principalmente quelle causate da elminti. L'assenza di sintomi specifici delle prime cause rende più probabile l'origine parassitaria. Già nell'anamnesi, il paziente fa riferimento a episodi di ematuria nell'infanzia, probabilmente dovuti alla schistosomiasi urinaria, una malattia endemica dei paesi dell'Africa occidentale. Tra le possibilità da considerare ci sono: Nematodi, tra cui:
+1. geoelminti (uncinaria, Trichuris trichuria, Ascaris lumbricoides, Strongyloides stercoralis).
+2. Filariosi (oncocercosi, filariasi linfatica, genere Mansonella, Loa loa).
+3. E altri meno frequenti come Toxocara o Anisakis. Cestodi: Taenia solium, Taenia saginata, Hymenolepis nana, Echinococcus granulosus. Trematodi: Schistosoma haematobium, Schistosoma intercalatum e Schistosoma mansoni, Fasciola hepatica.
+
+In relazione al coinvolgimento del fegato, le possibili cause da considerare in questo paziente sono:
+- Epatite virale. L'epatite cronica dovuta all'HBV colpisce più di 350 milioni di persone nel mondo, e la prevalenza nella maggior parte dei paesi dell'Africa subsahariana è superiore all'8%. Nel nostro caso, l'HBsAg è negativo, ma bisogna considerare la possibilità di un'epatite B occulta (HBcAb+, HBsAg, carica virale positiva). Anche l'epatite cronica dovuta all'HCV deve essere considerata, anche se la prevalenza della malattia è più bassa nei pazienti di questa zona. Le altre eziologie (HAV, HEV) si manifestano con un'epatite acuta, che sembra ragionevole escludere.
+- Parassitosi. Le parassitosi che possono causare il coinvolgimento del fegato includono Fasciola hepatica, Ascaris lumbricoides (più associato a colangite, colecistite, colestasi), e schistosomiasi. La schistosomiasi, specialmente causata da S. mansoni, può portare all'ipertensione portale presinusoidale, caratterizzata da intensa fibrosi periportale, ipersplenismo e varici esofagee, mentre la funzione epatocellulare si conserva fino alle fasi finali della malattia.
+- Lesioni tumorali: il carcinoma epatocellulare è un'entità molto prevalente tra i pazienti provenienti da aree HBV-endemiche, dove l'acquisizione della malattia nell'infanzia permette la comparsa di questo tipo di tumore in pazienti giovani.
+- Altre possibilità da considerare sono l'epatite di origine autoimmune, droga, alcol, metabolica, granulomatosa o idiopatica.
+
+Evoluzione
+È stato prescritto un trattamento topico con ciclopiroxolamina ed è stato richiesto uno studio secondo il protocollo UMT per lo studio e il trattamento dell'eosinofilia, nonché un'ecografia addominale e vescicale e la carica virale HBV per escludere l'epatite B occulta. I risultati sono mostrati qui sotto:
+- CBC: leucociti 5.430/microL (4,2% eosinofili; 230 eosinofili/mm3). Hb 14,4 mg/dl. Piastrine 189.000/microL.
+- Tratto falciforme (eterozigote per HbS; HbS 37%).
+- Biochimica: AST 48 IU/L, ALT 74 IU/L, GGT 81 IU/L, FA 119 IU/L, resto normale, compreso il metabolismo del ferro, profilo renale e lipidico. IgE: 243 IU/mL.
+- Urine: sedimento normale.
+- Coagulazione: PT 74%, INR: 1.2, TTPa 27.8 sg.
+- Sierologia: Strongyloides (ELISA): NEGATIVO; Schistosoma (ELISA): MOLTO POSITIVO. HBV: AgHBs -,
+- HBV PCR: POSITIVO; HBV DNA quantificazione: 1.000 IU/mL.
+- Studi parassitologici: 1. Parassiti nelle feci con tecnica di concentrazione (x3): NEGATIVO. 2. Studio delle microfilarie nel sangue (test di Knott): NEGATIVO. 3.
+- Alfa-fetoproteina: 1,4 ng/mL.
+- Radiografia del torace e dell'addome: nessuna alterazione.
+- Mantoux: 10 mm.
+- Ecografia addominale e vescicale: fegato di dimensioni normali con ecostruttura alterata. Iperecogenicità del tessuto periportale con intensa fibrosi. Vena porta allargata (15 mm) e milza di 12 cm. Pareti della vescica normali.
+
+Data la diagnosi di epatite B occulta e i segni di malattia epatica cronica, con dati altamente suggestivi di parassitismo da Schistosoma, è stata richiesta una biopsia rettale, che ha mostrato una mucosa con presenza di uova di schistosoma. Successivamente, è stata eseguita una biopsia epatica per valutare il grado di attività della malattia, con il seguente risultato: "Parenchima epatico sostituito da piccoli noduli con spessi tratti connettivi fibrosi, con infiltrato infiammatorio linfoistiocitario, necrosi parcellare erosiva e accumuli di eosinofili. Cambiamenti rigenerativi negli epatociti. Diagnosi finale compatibile con una malattia epatica cronica di origine virale (attività di grado 2, fibrosi di grado 3), e forse secondaria alla schistosomiasi, anche se nessun parassita è stato visualizzato.
+
+Sierologia per la VHDelta (AcVHD POSITIVA, VHD PCR: NEGATIVA) e gastroscopia sono stati richiesti, che il paziente ha rifiutato. Alla luce dei risultati descritti sopra, il trattamento è stato iniziato con praziquantel (40 mg/kg di peso corporeo, 1 giorno) e tenofovir 300mg/die, con una buona aderenza al trattamento, l'ultima carica virale dell'HBV era negativa.
+
+Diagnosi finale
+Malattia epatica cronica secondaria alla schistosomiasi e all'epatite B occulta.

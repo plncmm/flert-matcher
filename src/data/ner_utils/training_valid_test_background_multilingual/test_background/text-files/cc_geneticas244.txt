@@ -1,0 +1,13 @@
+Paciente de 5 meses remitido a la consulta por talla baja a expensas de acortamiento de miembros.
+
+Antecedentes Personales: Embarazo controlado. EG: 37 + 4 semanas. Parto instrumental.  Rea II. Apgar 8/9. Peso: 2625 gr (p16, -1DE). Longitud: 49 cm (p49, -0,04DE). Hiperbilirrubinemia neonatal que precisó fototerapia intensiva.
+
+Antecedentes Familiares: Talla padre 163 cm (p2, -2.23DS). Talla madre 147 cm (p<1, -2.85DS). Tallas familiares bajas en rama materna. Talla diana 161.5 ± 5 cm (p<1, -2.47DS)
+
+Exploración física a los 5 meses de edad: Peso: 7.1 kg (p18, -0.92 DE). Talla: 62 cm (p2, -2.13 DE). Perímetro Cefálico: 42.5 cm (p12, -1.2 DE). Impresiona de acortamiento de miembros a expensas de segmentos proximales. Fenotipo normal, no rasgos dismórficos llamativos salvo discreto abombamiento frontal. Exploración por aparatos normal.
+
+Exploraciones Complementarias: Hemograma y bioquímica normales. Inmunoglobulinas, estudio celiaquía, función tiroidea y Alfa 1 antitripsina: normales. IGF-I e IGF-BP3: normales. Rx muñeca izda: edad ósea acorde. Ecografía transfontanelar: normal. Cariotipo: 46 XY normal. Estudio gen SHOX: normal. Serie ósea: estructuras óseas de morfología normal. Acortamiento de segmentos proximales de miembros superiores e inferiores. Estudio molecular del gen FGFR3 (realizado mediante PCR + secuenciación del exón 8 del gen FGFR3): no se ha encontrado la mutación más común responsable de la acondroplasia, la transición G->A en la posición 1138. Se detecta el cambio c.1150T >C en heterocigosis respecto a la secuencia normal. Se realiza estudio a los padres y se detecta que la madre es portadora de la mutación identificada en el caso índice (c.1150T >C en heterocigosis).
+
+CONCLUSIONES
+
+Describimos una mutación del gen FGFR3 poco frecuente en la literatura. Esta mutación genera un cambio en la secuencia de aminoácidos (p.Phe384Leu) que ha sido previamente descrito en 2 familias con Displasia Esquelética mostrando una expresividad variable, desde una clínica suave a una más severa.

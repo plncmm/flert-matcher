@@ -1,0 +1,21 @@
+Patient: HIV/AIDS admitted to the Hospital del Instituto de Medicina Tropical ̈Pedro Kourí ̈ for presenting with lower respiratory symptoms with fluid interposition.
+
+Sample and culture conditions: pleural fluid was inoculated on blood agar medium (Biocen, Cuba) enriched with 5% ram blood, MacConkey agar (Biocen). The inoculated media were incubated at 35 oC for 24-48 h. Subsequently, the blood agar medium was incubated at room temperature (RT) for a further 5 d. After incubation was completed, reading was performed followed by Gram staining, microscopic observation and biochemical tests.
+
+Biochemical tests: hydrolysis of esculin, cytochrome oxidase, catalase, urease and equi factor were performed as described by Prescott in 1991.
+
+DNA extraction: one scoop of pleural fluid culture from the patient was placed in a sterile 1.5 mL vial, to which 400 mL of sterile distilled water was added. The contents were then incubated at 80 oC for 15 min in a thermostatted bath.8 The homogenate obtained from the cell disruption was used for PCR.
+
+PCR: a 439 base pair (bp) fragment of the gene coding for the 65 kDa heat shock protein (HSP) of the genus Mycobacterium conserved in microorganisms of the order Actinomycetales was amplified.8 5 μL of the previously obtained homogenate was taken and 45 μL of amplification reaction volume containing: 10 mM Tris/HCl (pH 8.3), 50 mM KCl, 1.5 mM MgCl2, 200 μM deoxyribonucleotides (dNTP), primers TB11(5 ́-ACCAACGATGGTGTGTCCAT-3 ́) and TB12 (5 ́-CTTGTCGAACCGCATACCCT-3 ́) 0.4 μM, 2 units of Taq DNA polymerase (Bioline, London, UK). Amplification profiling was carried out as described by Steingrube et al.
+
+For detection of the amplified products, 12 μL of each resulting mixture was analysed by 1.2 % agarose gel electrophoresis with Tris-Borate-EDTA buffer (89 mM Tris, 89 mM Borate, 2mM EDTA). Electrophoresis was carried out at 80 V for 1 h. Results were visualised on an ultraviolet transilluminator (Macrovue 2011, LKB, Sweden) and then photographed with a Power Shot G6 digital camera (Cannon, Japan).
+
+DNA extracted from the culture of a strain of M. tuberculosis (H37Rv) was used as a positive control and sterile distilled water as a negative control in the amplification reactions.
+
+PCR-RFLP: PCR products were divided into 2 aliquots, which were used for restriction pattern analysis with BstE II (New England Biolabs, UK) and Hinf I (New England Biolabs, UK) enzymes. The conditions of the restriction analysis and the rest of the protocol were carried out as described by Steingrube et al.
+
+After 24 h of inoculating patient pleural fluid on MacConkey agar medium, no bacterial growth was obtained. On blood agar medium, colony growth of 1-2 mm in diameter was observed, which were indistinguishable. After 48 h of incubation of the sample, round colonies were observed, with irregular appearance, smooth, semi-transparent, shiny, shiny, mucoid, and coalesced. After 5 d of incubation at room temperature, the colonies varied in size (2-4 mm in diameter) and showed a salmon-coloured pigment. When Gram staining was performed, it showed coccobacilli, gram-positive and pleomorphic.
+
+The results of the biochemical tests performed on the pleural fluid culture are shown in the table. The analysis as a whole suggests a possible R. equi infection in the patient tested. However, an essential and confirmatory element to prove R. equi infection is the presence of equi factor, which was negative in the tested sample. To demonstrate the presence of R. equi in the material studied, an additional procedure, the use of molecular methods, was required.
+
+PCR of the 439 bp fragment of the gene coding for the HSP protein was successfully amplified from the patient's pleural fluid culture. This result is not conclusive of R. equi infection, because it only provides information that the microorganism belongs to the order Actinomycetales. However, the results obtained demonstrated the presence of R. equi when enzyme restriction using BstE II and Hinf I enzymes was performed on the PCR product. In the sample analysed, 1 amplified band of 439 bp was obtained when using BstE II and 2 bands 310/70 bp for Hinf I; the restriction patterns coincided with the algorithm described by Steingrube et al.

@@ -1,0 +1,32 @@
+A 39-year-old woman, with no past history of interest, was referred to the endocrinology department to rule out pheochromocytoma, as she presented with hypertensive crisis during pregnancy (preterm birth by emergency caesarean section at 33 weeks due to pre-eclampsia) and elevated urinary fractionated metanephrines. The only symptomatology reported was a sudden headache of spontaneous onset and disappearance of approximately one year's duration. Home treatment: Doxazosin 4 mg/24 h.
+
+FAMILY HISTORY
+Mother with AHT. Maternal grandmother died of hypertensive crisis at the age of 51.
+
+PHYSICAL EXAMINATION
+Weight 64.6 kg, height 165 cm, BMI 23.7 kg/m2. BP 117/81 mmHg. HR 70 bpm. No goitre or lymphadenopathy on cervical palpation.
+
+COMPLEMENTARY TESTS PROVIDED
+- 24h urine analysis (during pre-eclampsia):
+- Fractionated catecholamines: Adrenaline and dopamine normal. Noradrenaline 1436.76 nmol/24h (Normal: 0-504).
+- Fractionated metanephrines: Normetanephrine 14121.17 nmol/24h (Normal: 400-2424). Metanephrines: normal.
+- Other amines: Vanillylmandelic, 5-hydroxyindolacetic and homovalineic acids normal.
+- Abdomino-pelvic MRI: no findings.
+
+COMPLEMENTARY TESTS REQUESTED SEQUENTIALLY
+- Blood tests: Glucose, creatinine, ions, magnesium, calcium, phosphate, PTH, pituitary hormones, renin and aldosterone normal. Plasma metanephrine: 12 pg/ml (Normal <90 pg/ml) and normetanephrine 253 pg/ml (Normal <180 pg/ml).
+- Whole body scan (sympathoadrenal, I123-MIBG): physiological radiotracer distribution.
+- 24h urine analysis:
+- Fractionated catecholamines: Adrenaline and dopamine normal. Noradrenaline 2920.5 nmol/24h.
+- Fractionated metanephrines: Normetanephrine 7068.65 nmol/24h. Metanephrines: normal.
+- Other amines: normal.
+- MRI with total body IV contrast: lobulated morphology lesion of 35 mm, located in the upper region of the right carotid space, with intense enhancement after contrast, compatible with paraganglioma of the vagus.
+- CT with contrast iv of the neck: Heterogeneous tumour, dense, with areas of necrosis and appearance of significant vascularisation, located between the right carotid and jugular veins, about 38 mm. Compatible with paraganglioma.
+
+CLINICAL JUDGMENT
+Paraganglioma of the right vagus producing noradrenaline and normetanephrines.
+
+EVOLUTION
+Referral to the Otorhinolaryngology Department, which referred the patient to the referral Otorhinolaryngology Department, and the patient underwent surgery after embolisation of the paraganglioma the previous day. Blood pressure and catecholamines/methanephrines were normal after surgery. Mild dysphagia and dysphonia in rehabilitation after surgery.
+
+- Negative genetic study, sequentially ruling out point mutations, deletions or duplications of the following genes: SDHB, SDHC, SDHD, SDHAF1 and SDHAF2. No variants were identified that could be considered pathogenic or of uncertain significance in the analysed regions of the following genes: EPAS1, KIF1B, MAX, MDH2, RET, TMEM127 and VHL.

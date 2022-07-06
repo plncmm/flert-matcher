@@ -1,0 +1,21 @@
+Motivo de consulta
+Diplopia y cefalea tras traumatismo craneoencefálico (TCE).
+
+Enfoque individual (anamnesis, exploración, pruebas complementarias)
+Se trata de una mujer de 41 años fumadora con antecedentes de talasemia, cefalea tensional, vejiga hiperactiva sin respuesta a anticolinérgicos, trastorno de inestabilidad emocional de la personalidad y muy demandante en consulta, que tras sufrir un traumatismo craneoencefálico en ámbito laboral presenta cefalea asociada a diplopía. En su mutua laboral le realizan TC de cráneo, en el que detectan una paresia del VI par craneal y refieren que la sintomatología no se relaciona con el accidente sufrido, motivo por el cual la derivan a su médico de familia. Se realiza exploración neurológica sin alteraciones, por lo que se recomienda observación y analgesia. Tras varias consultas y ante la persistencia de la clínica tras un mes de evolución se decide derivación a Neurología.
+
+En su primera visita a consultas externas de Neurología la paciente refiere además de las cefaleas y la diplopía, que persisten 2 meses después del TCE, disminución de la agudeza visual. En la exploración neurológica no se objetiva limitación de los movimientos oculares, así como tampoco otras alteraciones de pares craneales, fuerza y sensibilidad de miembros. Marcha y equilibrio tampoco se encuentran alterados. Solicitan resonancia magnética (RM) craneal, así como interconsulta a Oftalmología y plantean alta si las pruebas complementarias resultan normales.
+
+Juicio diagnóstico: diplopía a estudio (diplopía postraumática, sin poder descartar origen funcional de la misma), cefalea crónica (tensional + abuso de medicación).
+
+Pruebas complementarias y evolución: se realiza RM craneal en la que aparecen lesiones en sustancia blanca supratentorial de características desmielinizantes periventriculares y yuxtacorticales que plantean, como primera posibilidad, esclerosis múltiple (EM) con actividad aguda. Se realiza también angioresonancia de troncos supraaórticos sin hallazgos de interés. Tras resultados de prueba de imagen se cita de nuevo a la paciente para explicarle los hallazgos y proponerle realización de punción lumbar. La paciente persiste con cefaleas, que se asocia a astenia generalizada, sin otros hallazgos de nueva aparición.
+
+Se solicita también analítica con hemograma, bioquímica con perfil renal, hepático, TSH, ECA, vitamina B12 y ácido fólico que se encuentra por debajo de los límites de la normalidad, proteinograma, autoinmunidad (ANA, ANCA, AC anticardiolipinas/ beta 2 microglobulinas, AC antigalngliosidos) sin alteraciones, serologías (VIH, VHC, VHB, LUES) donde destaca no inmunización frente a VHB. Inmunizada frente a sarampión, rubeola, parotiditis VEB, VHS, VZZ.
+
+Es valorada por Oftalmología que realiza tomgrafía de coherencia óptica (OCT) con afectación de nervio óptico de 2 sectores temporales del ojo derecho y 4 sectores temporales en ojo izquierdo. Disminución de células ganglionares maculares en ojo izquierdo.
+Tras realización de punción lumbar se confirma en líquido cefalorraquídeo (LCR) de bandas oligoclonales, por lo que, junto con los hallazgos descritos en la RM, refuerzan el diagnóstico de EM, y la paciente es derivada a la Unidad de Enfermedades Desmielinizantes de nuestro hospital.
+
+Se solicita test genético para descartar CADASIL (Cerebral Autosomal Dominant Artheriopathy with Subcortical Infarcts and Leukoencephalopathy) que resulta negativa y nueva RM craneal y medular. La craneal sin cambios con respecto a previa. En la RM medular se aprecian pequeñas lesiones focales medulares a nivel de C3 y C4, que podría corresponder con focos de desmielinización. Se indica amantadina y se plantea iniciar teriflunomida en marzo de 2020 como fármaco modificador de la enfermedad.
+En el momento de esta última visita la paciente se encuentra sin presentar diplopía, persisten las cefaleas recurrentes. Se realiza interconsulta a Urología por la incontinencia que sigue presentando la paciente.
+
+Durante el proceso de diagnóstico la paciente ha acudido a nuestra consulta de Atención Primaria para renovación de parte de baja, en estas consultas se ha aprovechado para un realizar un apoyo a la paciente por el diagnóstico e intentar resolver las dudas que puedan haber surgido tras acudir a consultas de otros especialistas.

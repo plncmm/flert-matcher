@@ -1,0 +1,28 @@
+Anamnèse
+Une femme de 50 ans, originaire du Sénégal, vivant en Espagne depuis 9 ans, mais voyageant fréquemment dans son pays, a été admise dans le service de médecine interne pour l'étude d'une faiblesse et d'une douleur des membres inférieurs (MMII), qui s'aggravait progressivement depuis deux mois, jusqu'à devenir complètement invalidante et entraîner plusieurs chutes de sa hauteur. Au cours de l'année écoulée, il avait eu : une gastrite érosive avec ulcères gastriques associés à Helicobacter pylori ; des polyarthralgies migratoires des grosses articulations sans arthrite franche ; deux épisodes d'uvéite antérieure de l'œil droit évalués par l'ophtalmologie ; l'apparition d'un diabète sucré avec un mauvais contrôle métabolique sous traitement par antidiabétiques oraux ; une hypertransaminasémie et une augmentation des enzymes de la cholestase. Il avait également des antécédents de goitre multinodulaire normofonctionnel en attente de thyroïdectomie. Au cours des derniers mois (non précisés), elle a signalé une perte de poids de 7-8 kg associée à une asthénie, mais pas à une hyporexie, sans fièvre ni sueurs nocturnes associées.
+
+Examen physique
+L'état général était mauvais, avec une prostration due à des douleurs dans les membres inférieurs.
+En termes de signes vitaux, elle était normotendue, avec une fréquence cardiaque de 85 bpm, une fièvre de 37,6 o C, une saturation basale en oxygène de 97%.
+L'examen physique a révélé un goitre prédominant dans le lobe droit, sans douleur associée. Il n'y avait pas de foie palpable, de splénomégalie ou d'adénopathie dans les chaînes accessibles.
+L'examen neurologique réalisé par la neurologie a montré une hyperalgésie dans les deux membres inférieurs avec une apalesthésie de l'avant-pied (absence de sensibilité vibratoire) et des tremblements dans les membres inférieurs avec des troubles de la marche associés à un diagnostic de neuropathie sensorielle symétrique distale, avec une atteinte prédominante des fibres fines.
+L'examen cutané a révélé la présence de deux plaques symétriques sur le dos des deux pieds, avec une surface lisse et brillante, non indurée au toucher et brun foncé par contraste avec la peau environnante (patient de phototype VI).
+
+Examens complémentaires
+Pour le diagnostic, les tests sanguins et de coagulation étaient normaux, la biochimie a montré un taux d'enzyme de conversion de l'angiotensine (ECA) de 171 UI/l (8-52), des auto-anticorps négatifs et un facteur rhumatoïde négatif.
+Quant aux tests microbiologiques, le test de Mantoux et le QuantiFeron TB étaient positifs, ainsi que la sérologie pour l'infection par le virus de l'hépatite B (porteur inactif). Toutes les autres sérologies étaient négatives. Le lavage bronchoalvéolaire n'a pas identifié de bacilles.
+La radiographie du thorax a montré un élargissement médiastinal et le scanner thoracique avec prise de contraste a révélé de multiples adénopathies claviculaires et médiastinales, ainsi qu'un infiltrat parcellaire de verre dépoli à prédominance sous-pleurale.
+L'étude neurophysiologique du MMII a montré des signes de polyneuropathie mixte axonale et démyélinisante, sensori-motrice, de degré significatif.
+
+En outre, des échantillons histologiques ont été prélevés sur une adénopathie paratrachéale et une des plaques cutanées. La ponction de l'adénopathie a montré des agrégats d'histiocytes épithélioïdes et une population lymphoïde polymorphe, sans trouver de bacilles acido-basiques, compatibles avec une lymphadénite granulomateuse.
+La biopsie cutanée a montré plusieurs petits granulomes bien délimités dans le derme, constitués de grands histiocytes avec des cellules géantes multinucléées, distribués de manière inégale et avec un faible infiltrat environnant. Il n'y avait pas de nécrose et la coloration de Ziehl-Neelsen était négative.
+
+Diagnostic
+Sarcoïdose systémique chez un patient présentant une infection tuberculeuse latente.
+
+Traitement
+Un traitement a été instauré avec de la prednisone 40 mg/jour avec une amélioration progressive du tableau clinique. En outre, un traitement antituberculeux et un traitement antiviral par l'entécavir ont été mis en place.
+
+Evolution
+Après une semaine de traitement par corticostéroïdes systémiques, l'évolution clinique a été favorable, avec une amélioration du malaise général et de la neuropathie et une disparition de la fièvre fébrile, ce qui a permis de laisser sortir le patient pour un suivi ambulatoire.
+Les lésions cutanées ont disparu dans le mois qui a suivi le traitement.

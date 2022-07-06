@@ -1,0 +1,32 @@
+On April 25, 2020, a 52-year-old man came to the emergency department of a nearby hospital with fever of 40 °C, cough and dyspnea.
+His condition worsened rapidly and required endotracheal intubation.
+In tracheal aspirate, SARS-CoV-2 was detected.
+In addition, growth of Staphylococcus aureus, Pseudomonas aeruginosa and Acinetobacter dijkshoorniae was observed in bronchial aspirate samples.
+In the hemocultives there was growth of Enterococcus faecium resistant to vancomicna and Staphylococcus epidermis.
+Consequently, a broad-spectrum antibiotic regimen was initiated with meropenem and linezolid, but the patient continued with daily fever of up to 40 °C, with no response to antipyretics or antibiotics.
+The clinical condition of the patient worsened even more, despite an adjustment of invasive pressure-controlled ventilation, so that it was referred to our ICU extra membrane on May 13, 2020, due to possible application of the dressing.
+To evaluate the pulmonary manifestations of COVID-19 and as a preparation for possible ECMO, a CT scan was performed on May 13 and 14.
+Chest CT showed bilateral ground glass opacities, consolidations and a pattern in a typical patch of COVID-19.
+Changes in the airways, pleural changes, fibrosis and nodules were observed as a potential sign of subacute manifestation.
+Careful changes in ventilation settings made ECMO unnecessary.
+The differential cytology revealed a severe decrease of CD4+ cells (12 per μL, equivalent to 2%, CD4+/CD8+ ratio 0.08).
+The lack of CD4+ cells, together with the fact that the patient is a male with homosexual relationships, led to the suspicion of a possible HIV carrier of late onset.
+RT-PCR for HIV-1 was positive, with a viral load of 360,000 copies of HIV-1 RNA per mL.
+The presence of fine reticular changes in their chest CT scan, together with an increase in LDH, also raised the possibility of pneumonia due to cystis jirovecii as an additional diagnosis.
+Bronchoalveolar lavage was positive for P. jirovecii, and the patient was treated with trimethoprim/sametoxazol i.v.
+(20 mg trimethoprim component per kg bodyweight per day, four times a day) together with 50 mg prednisone per day to avoid adverse immune reactions in pneumocystic pneumonia and inflammatory syndrome SIBO.
+After the diagnosis of AIDS, a consistent pattern was rapidly initiated in darunavir (600 mg twice daily), ritonavir (100 mg twice daily), and tenofovir/emtricitabine/400 mg once daily), orally administered orally.
+Concurrent CMV infection (170,000 U/ml in blood) was treated with ganvir at 5 mg/kg body weight.
+Antibacterial treatment with meronepem and linezolid was continued for 7 days.
+Overinfections with hepatitis B, C and syphilis were ruled out.
+On May 15, 18 and 20, the patient was negative in SARS-CoV-2 tests from bronchial aspirates.
+Cerebrospinal fluid tests showed 5600 copies/mL of HIV-1, but no evidence of JC virus, bacterial meningitis or encephalitis.
+During the following two weeks, your condition improved considerably.
+Norepinephrine administration could be completed three days after the start of trimethoprim/smethoxazole treatment.
+Antiviral therapy had no apparent side effects; in particular, creatinine clearance and liver activity remained stable for the following weeks.
+CMV copies decreased below 450 U/mL two weeks after initiating ganvir therapy on May 14.
+The viral load decreased to 2,800 copies/mL (predictability) with a decrease of 2.11 on logarithmic scale on May 25, 2020.
+The HIV-1 typing showed no relevant drug resistance.
+After convalescence and with the ability to swallow properly, prescriptions were changed to a single pill regimen to maintain patient compliance and reduce the daily number of pills.
+The patient continues to improve.
+She no longer needs mechanical ventilation and was discharged from the ICU with a steroid tape 2 L/min on June 4.

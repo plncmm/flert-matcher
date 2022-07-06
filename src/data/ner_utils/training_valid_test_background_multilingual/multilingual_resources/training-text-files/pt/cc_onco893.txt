@@ -1,0 +1,20 @@
+Exame físico
+O paciente estava em bom estado geral, de cor normal, bem hidratado e perfumado, eupneico. O exame revelou uma lesão violácea no seio esquerdo na zona superior do quadrante interno medindo 2 cm e outra lesão violácea, induzida e dolorosa com equimose subjacente medindo cerca de 5 cm sobre a cicatriz. A palpação não revelou a existência de gânglios linfáticos periféricos. O resto do exame é banal.
+
+Testes adicionais
+Foi feita uma biópsia da lesão maior, que não era específica e não mostrava sinais de malignidade. Tendo em conta o aumento do tamanho da lesão e o seu aspecto necrótico, em Dezembro de 2016, o paciente foi encaminhado para o departamento de dermatologia, que repetiu a biópsia, obtendo os mesmos resultados.
+Foi portanto decidido pela Dermatologia, em 31 de Dezembro de 2016, realizar a excisão cirúrgica da lesão cutânea, e a histologia foi relatada como compatível com o angiossarcoma cutâneo.
+Foi realizado um TAC toracoabdominal para encenar a doença, mostrando um aumento da densidade mamária com espessamento da pele associado, suspeito de malignidade, sem evidência de linfadenopatia mediastinal ou intra-abdominal.
+
+Diagnóstico
+Angiossarcoma cutâneo convencional de 4,5 cm, grau histológico 3 (de acordo com o sistema de classificação FNCLCC), extensão tumoral ao tecido celular subcutâneo, índice mitótico de 24 mitoses/10 CGA com margens livres. Imuno-histoquímica positiva para CD34 e negativa para HHV8 com um Ki 67 de 60%. Fase TNM: pT1a Nx Mx.
+
+Tratamento
+Dada a suspeita de persistência da doença e rápido crescimento local, o caso foi avaliado pela comissão de tumores mamários juntamente com a Nefrologia e a Ginecologia, e foi decidido realizar uma simples mastectomia da mama esquerda, que foi realizada em Fevereiro de 2017.
+
+Evolução
+Foi encaminhada para o departamento de oncologia em Fevereiro de 2017 para acompanhamento e tratamento subsequente, e a paciente foi considerada assintomática com ECOG 0.
+Em Março de 2017, foi realizado um exame PET para actualizar o estado da doença, mostrando um nódulo subcutâneo hipermetabólico de 8 mm com SULpeak 1,9 localizado na região anterior à extremidade proximal da clavícula esquerda, e que parecia linfadenopatia patológica (referência SULpeak 2,65). Foi realizada uma ecografia de tecido mole, mostrando a linfadenopatia suspeita medindo 12 x 10 mm, em tecido adiposo subcutâneo, não aderente nem dependente dos ossos, e foi realizada uma biópsia percutânea.
+Os resultados da anatomia patológica revelaram tecido necrótico sem ser capaz de reconhecer os gânglios linfáticos. A imuno-histoquímica mostrou expressão de CD31, CD34 e factor VIII, com expressão negativa de receptores de estrogénio, sugerindo metástase de angiossarcoma.
+Em Abril de 2017, a metástase foi cirurgicamente ressecada com bordos livres.
+Dada a ausência de doença residual macroscópica observada numa nova PET (Maio 2017), o tratamento radioterápico foi excluído e foi decidido, após reavaliação do caso em conjunto com a Nefrologia, administrar paclitaxel a uma dose de 80 mg/m2 semanalmente com intenção adjuvante, o que foi iniciado a 5 de Junho de 2017. Actualmente, ele tem três ciclos dos 12 planeados, administrados sem incidentes e mantendo a função renal estável (creatinina de base em torno de 3,5).

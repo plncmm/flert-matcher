@@ -1,0 +1,28 @@
+Anamnesis
+Muller de 36 anos procedente de Guinea. Como antecedentes, está tratada con doxiciclina aos 20 anos. Sen antecedentes oncológicos familiares.
+Enfermidade actual: aos tres días de chegar a España, acode ao Servizo de Urxencias por tumoración indolora en nariz de tres meses de evolución e que ha ir progresivamente aumentando ata medir 4 x 5cm. perdeu 10 kg de peso aproximadamente en dous meses. Ademais, presenta disnea con moderados esforzos. Refire actividade sexual de risco.
+
+Exploración física
+Temperatura 37,9 oC, TA 100/50 mm Hg, FC 104 lpm, Sat 97 %. Faringe con presenza de tumoraciones vermello-violáceo en todo o paladar brando, adenopatías cervicales e submandibulares. Tumoración nasal vermello-vinosa, de gran tamaño, lobulada e exofítica. AC: rítmica. AP: murmullo vesicular conservado. ABD: brando sen masas nin megalias. En extremidad inferior esquerda, presenta edema leñoso ata xeonllo. Lesións hipopigmentadas en rexión pretibial, lesións verrugosas avermelladas en planta do pé. Lesións maculares hipervascularizadas a nivel de xeonllo dereito.
+
+Probas complementarias
+»Analítica: anodina salvo PCR: 56,80 mg/l (menos de 5). RPR-, IgG toxo+, IgG CMV+, anti-VHC-, anti-HBc+, anti-HBs+, HBsAg-, anti-VHA+. Ademais, descartouse brucelosis, Rickettsia, Treponema pallidum, Bartonella e Plasmodium falciparum.
+»Sendo VIH positivo con 375 CD4 e 41.000 de carga viral. Non presentou mutaciones nos inhibidores da transcriptasa.
+»Radiografía de tórax: infiltrados intersticiales de predominio en lóbulos superiores e posteriores, principalmente en LSI en forma de atelectasia.
+»Eco Doppler de membro inferior esquerdo que mostra extenso trombo en vena femoral común, vena femoral superficial e vena poplítea esquerdas.
+»Estudo de coagulación completo sen achados relevantes.
+»Esputos x 3: íllase Mycobacterium tuberculosis.
+»TC: pulmón con múltiples e difusos focos de consolidaciones pseudonodulares bilaterales, cavitados ou con tendencia á cavitación, de predominio dos lóbulos superiores e segmentos superiores de lóbulos inferiores. Múltiples adenopatías reactivas hiliares bilaterales e en espazo subcarinal.
+»Biopsia cutánea de xeonllo e de nariz: apréciase, a nivel da dermis, unha proliferación de células fusiformes con atipia e mitosis, xunto con hendiduras vasculares e extravasación hemática. Mostran inmunoexpresión para HHV-8. Diagnóstico de sarcoma de Kaposi.
+
+Diagnóstico
+»Enfermidade por VIH, estadio C2. (375 CD4 e 41000 CV); MAR HLA B5701 negativo. RPR-, IgG toxo+, IgG CMV+, anti-VHC-, anti-HBc+, anti-HBs+, HBsAg-, anti-VHA+. raltegravir (RAL), tenofovir (TDF), emtricitabina (FTC).
+»Tuberculosis pulmonar.
+»Sarcoma de Kaposi estadio IV.
+»Trombosis venosa profunda femoral común, superficial e poplítea inferior.
+
+Tratamento
+A paciente, estando ingresada en illamento respiratorio, inicia tratamento con etambutol, rifampicina e pirazinamida. Tras dúas semanas de tuberculostáticos, iniciouse terapia antirretroviral con tenofovir, emtricitabina e raltegravir (este último dobre dose pola súa interacción con rifampicina, inductor na enzima que metaboliza fármacos do citocromo P450). Debido ás eventuales interaccións e en previsión de inicio de tratamento oncológico, déixase anticoagulación con heparina de baixo peso molecular.Inicia o 7/10/16 tratamento oncológico paliativo co esquema Adria pegilada (sic) (Caelyx®) do que recibiu 7 ciclos ata 30/5/2017. Ha ter que atrasarse varias veces a dose por neutropenia G3.
+
+Evolución
+A paciente, tras 7 ciclos de tratamento, presentou unha resposta case completa a nivel de todas as lesións: sobre todo chama a atención a importante mejoría a nivel da lesión do nariz malia os atrasos. Actualmente, está pendente de ser valorada por Dermatoloxía de face a realizar cirugía estética da lesión a nivel nasal. Ademais, a paciente presentou neutropenia G:3 polo que houbo que atrasarlle a dose varias veces, precisando soporte con filgrastim. Realiza bo cumprimento da terapia antirretroviral.

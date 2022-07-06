@@ -1,0 +1,21 @@
+Anamnesis
+Paciente de 55 años con antecedentes de valvulopatía aórtica reumática que precisó sustitución por prótesis mecánica. Medicación habitual: acenocumarol. Acude al Servicio de Urgencias por un cuadro clínico de un día de evolución sin claro momento de inicio, caracterizado por presentar sensación de parestesias en el miembro inferior izquierdo que fueron progresando al miembro superior homolateral; al hablar notaba dificultades de articulación y su familia apreció una desviación de la comisura labial leve transitoria. Además, sus familiares indican que presenciaron conductas extrañas para su forma de comportarse habitual, como beber de una botella de aceite, tomar los mismos medicamentos de forma repetida, mantener una conversación incoherente la cual consistía en temas de conversación extraños e inhabituales en él; también presentaba alteraciones de la memoria a corto plazo. Cuando entrevistamos al paciente, indica que él no nota ni recuerda haber actuado diferente en los últimos días y lo único que le preocupaba era la sensación parestésica.
+
+Examen físico
+Consciente, parcialmente orientado en persona y espacio, pero no así en tiempo, actitud indiferente hacia su situación. Cuadrantanopsia superior izquierda, resto de pares craneales normales, leve paresia del miembro superior izquierdo 4+/5 con componente atáxico, hemihipoestesia braquiocrural izquierda, reflejos osteotendinosos simétricos, reflejo cutáneo- plantar izquierdo indiferente y derecho flexor. El resto del examen físico no evidenció ninguna otra alteración, con excepción de la auscultación del clic valvular.
+
+Pruebas complementarias
+• Bioquímica: destacaban calcio 8,24 mg/dl (hipocalcemia), fósforo 1,89 mg/dl (hipofosfatemia); con sodio, cloro, potasio, hemoglobina glicosilada, colesterol total, colesterol HDL, colesterol LDL, triglicéridos, lipoproteína A, homocisteína, microalbuminuria, vitamina B12, ácido fólico y TSH normales. Hemograma: normal. Coagulación: hipocoagulabilidad con INR 1,3 (niveles infraterapéuticos).
+• Tomografía computarizada (TC) cerebral basal: ya era apreciable una hipodensidad en el territorio de las ramas perforantes talámicas dorsolaterales y temporooccipital de la arteria cerebral posterior derecha.
+• Estudio neurosonológico: aumento de ecogenicidad del locus niger izquierdo, sin otras alteraciones.
+• Electrocardiograma: normal.
+• Electroencefalograma: sobre un ritmo de base normal se detectó una interferencia lenta posterior derecha que tiende a generalizar al resto del hemisferio tras la maniobra de hiperventilación.
+
+Diagnóstico
+Ictus isquémico en el territorio parcial de la arteria cerebral posterior derecha. Etiología cardioembólica.
+
+Tratamiento
+Anticoagulación.
+
+Evolución
+Durante su ingreso, el paciente presentó episodios transitorios y repetidos de ilusiones ópticas tales como notar que en el hemicampo visual izquierdo las imágenes se distorsionaban (dismorfopsia), "veía a mi esposa y parecía como si se alargase el cuerpo a la vez que se alejaba" (macropsia y teleopsia respectivamente), "veía gente en el lado izquierdo que estaban vestidos de blanco, veía coches que cruzaban de un lado a otro y siempre eran de color blanco", "mi esposa estaba de blanco y cuando se ponía a mi derecha aparecía con la ropa que realmente llevaba puesta", notaba la aparición de figuras geométricas e inversión de la imagen en dicho campo visual; "las imágenes iban como lentas y a veces parecía como si se congelaran" (palinopsia). Se le realizó un estudio electroencefalográfico, en el cual se detectaba una interferencia en la región posterior derecha (coincidente con el territorio de la lesión isquémica); es de resaltar que la consciencia estaba preservada en estos episodios y el paciente los reconocía convencido de que eran ilusiones. Por el hallazgo en el electroencefalograma y la sintomatología sugerente de crisis focal del lóbulo occipital se inició mediación antiepiléptica con levetiracetam, mejorando considerablemente la sintomatología, que llegó a desaparecer por completo. El cuadro clínico relatado anteriormente es compatible con síndrome de Alicia en el país de las maravillas. El paciente tuvo una buena respuesta terapéutica, con estabilidad hemodinámica en todo momento, y sin presentar otra complicación, razón por la cual se le dio el alta hospitalaria.

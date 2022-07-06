@@ -1,0 +1,66 @@
+ANAMNESI
+
+Motiu de consulta
+Dona de 32 anys, derivada a la Unitat de Conductes Addictives (UCA) en 2005 des de la Unitat de Malalties Infeccioses per a inici, amb caràcter urgent, del Programa de Manteniment amb Metadona (PMM).
+
+Tractaments anteriors
+Als 29 anys, va acudir a la Unitat d'Alcohologia a l'efecte de sol·licitar ingrés hospitalari per a desintoxicació d'alcohol. A l'alta, va abandonar la Unitat. 
+
+Antecedents personals
+Als 22 anys se li diagnostica infecció per virus de la inmunodefi ciència humana-VIH i seguidament trastorn depressiu no classificat. Pancreatitis agudes als 23 i 25 anys i entre ambdues una tuberculosi pulmonar. Als 26 anys pneumònia. Als 28 anys fractura vertebral lumbar tancada. Als 29 anys se li diagnostica hepatopatía per virus de l'hepatitis C. No crisis convulsives. No al·lèrgies medicamentoses conegudes. Dos intents autolítics amb benzodiazepinas. És la segona de 3 germans. El pare treballava com a agent comercial viatjant amb freqüència i la mare exercia com a mestra. Va estudiar en col·legi religiós fins al naixement del germà menor (10 anys de diferència), moment en què va passar a l'escola pública on fi nalizó el graduat escolar. Als 16 anys comença una relació sentimental amb un amic del germà major, qui als 18 anys, en un vis a vis la deixa embarassada i li transmet la infecció de VIH, avortant a continuació. És soltera, sense fills i ha conviscut sempre amb parelles consumidores de tòxics. Aturada, ha tingut treballs eventuals en hostaleria fins que li van concedir la pensió no contributiva en 2001. Els pares es van separar informalment, fa 15 anys quedant els 3 fills a càrrec del pare: "la meva mare ens va abandonar". Actualment, viu amb el pare jubilat. Nivell econòmic mig-alt. No té causes judicials pendents. 
+
+Antecedents familiars
+Pare: cardiopatia isquèmica i diabetis mellitus. Germà major: politoxicomanía, mort en 2007 per autolisis. Germà menor: síndrome de fatiga crònica i ansietat. Oncle patern mort per cirrosi alcohòlica. 
+
+Història toxicològica
+Als 13 anys és iniciada en el consum de tòxics (tabac, alcohol i cànnabis) pel germà major: "soc alcohòlica des dels 15". Als 16 anys incorpora el consum d'amfetamines i al·lucinògens que s'autoproveïa mitjançant la venda. Als 18 anys comença el consum d'heroïna i cocaïna inhalades durant el fi n de setmana i aviat passa a consumir diàriament. Mai ha utilitzat la via i.v. Als 28 anys, en estat d'intoxicació, sofreix una caiguda accidental des d'un primer pis causant-li una fractura de columna lumbar, sense més conseqüències. En repetides ocasions intenta desintoxicarse pel seu compte, sense èxit, fins a sol·licitar ajuda professional als 29 anys. 
+
+
+EXPLORACIÓ
+Física Constitució de tipus leptosomático o astènic-esquizotímico.Fàcies trista, adolorida, pàl·lida i ojerosa, amb aspecte preocupadizo i cansat. Normohidratada. Sense lesions aparents ni tatuatges. PA: 110/70. FC: 80 ppm. Pes: 44,5 kg. Altura: 1,70 m. Índex de massa corporal: 15,22 Kg/m². Toxicològica Consum actiu diari de: heroïna inhalada que alterna amb metadona comprada en el mercat negre, cocaïna fumada en base i 15 UBEs d'alcohol. Fuma 6 "porros" i un paquet de tabac al dia. Psicopatològica La pacient, col·laboradora i abordable, es mostra conscient i orientada en espai, temps i persona. Presenta signes d'intoxicació alcohòlica i de síndrome d'abstinència opiàcia. Hipotimia subjectiva amb labilitat emocional. Astènia, apatia i anhedonia. Poc apetit. No s'objectiven trastorns sensoperceptivos. Insomni de conciliació amb despertessis freqüents. No té ideació acte ni heteroagresiva. Personalitat tímida i introvertida, de trets dependents. Sentiments de culpa i desesperança. Baixa autoestima, elevada autocrítica i por al rebuig. Preocupacions sobrevalorades que li produeixen crisis d'anticipació ansiosa amb fort festeig vegetatiu davant estímuls socials amb conductes evitativas i de fugida. A penes surt de casa i ha assumit el rol de la mare: "sembla que estigui casada amb el meu pare". Concienciade malaltia. Motivació a tractament.
+
+
+PROVES COMPLEMENTÀRIES
+Analítica últims 6 mesos: índex lipémico 158; GPT 38 O/L; hematies 3,5x106/μL; hemoglobina 11,6 g/dl; hematòcrit 34,3%; VCM 99fL; HBGCM 33,3 pg; leucòcits 10,9x103/μL; limfòcits 4,2x103/μL; T tromboplastina parcial activ 25,0 seg. Serologia VIH: CD4 1314; CV 19 UI ARN-VIH ml. Serologia VHC: antiVHC i PCRcVHC positius; CV 269684 UI ARN-VHC ml. Immunitzada de VHB. Sistemàtic d'orines: indicis de leucòcits. Test d'embaràs: negativo.la utilització de la MINI Entrevista Neuropsiquiátrica Internacional (Ferrando et al, 2000) va corroborar la poliadicción a alcohol, cànnabis, nicotina, opiacis i cocaïna. La utilització de l'Entrevista Clínica Estructurada per als Trastorns de la Personalitat de l'Eix II del DSM-IV (SCID II) (Gómez-Beneyto et al., 1994)va mostrar els següents: Trastorn de la personalitat per evitació i trastorn passiu-agressiu de la personalitat. Puntua alt (4:5) en trastorn depressiu de la personalitat i trastorn de la personalitat per dependència. Finalment, l'Escala d'Avaluació de l'Activitat Global (EEAG) (American Psychiatric Association, 2003)confi rma les greus alteracions de la pacient en l'activitat social i laboral. 
+
+DIAGNÒSTICS
+EIX I
+- F10.2x Dependència d'alcohol [303.90]
+- F12.2x Dependència de cànnabis [304.30]
+- F11.2x Dependència d'opiacis [304.00] 
+- F14.2x Dependència de cocaïna [304.20]
+- F17.2x Dependència de nicotina [305.1]
+- F32.9 Trastorn depressiu no classificat [311]
+- F40.1. Fòbia social [300.23] (trastorn d'ansietat social)
+
+EIX II
+- F60.6 Trastorn de la personalitat per evitació [301.82]
+- F60.8 Trastorn passiu-agressiu de la personalitat
+
+EIX III
+- Virus de la inmunodefi ciència humana, tipus 2 [HIV-2] [0.79.53]
+- Hepatitis C crònica sense esment de coma hepàtic [070.54]
+- Tuberculosi pulmonar [011]
+- Pneumònia [486]
+- Candidiasis oral [112.0]
+- Pancreatitis aguda [577.0]
+- Avortament autoinduït [636]
+- Fractura vertebra, vertebral lumbar [805.4]
+
+Eix IV:
+Conflicte amb la mare. Sense relacions socials.
+
+EIX V:
+EEAG = 40 (inicial) i 45 (actual).
+ 
+ 
+TRACTAMENT
+Farmacològic
+Inicialment es va estabilitzar amb 90 mg de metadona. Ha realitzat Programa de Manteniment amb Metadona (PMM) durant els períodes de 2005-2009 i 2010-2012. Entre tots dos, va realitzar Programa amb Antagonista Opiaci de naltrexona 50 mg. Des que va iniciar tractament se li han prescrit diferents antidepressius com paroxetina 20-40 mg, citalopram 20 mg, mirtazapina 15-30 mg i trazodona 50 mg. Els ansiolítics i hipnòtics sempre a baixes dosis: alprazolam 0.5-1 mg; bromazepam 4,5mg, diazepam 5-20 mg, lormetazepam 2 mg i zolpidem 10 mg. Puntualment, s'ha reforçat el tractament amb algun antiepilèptic com la pregabalina 150-600 mg. Els interdictores de l'alcohol -disulfi ram i cianamida- els ha pres directament observats en altres recursos de drogodependències. Els antipsicòtics atípics com risperidona 3 mg i olanzapina 5 mg, han estat mal tolerats. Tan sols ha mantingut tiaprida 300 mg en les repetides desintoxicacions ambulatòries alcohòliques realitzades, amb clometiazol i el complex de la vitamina B. Actualment, presa els antiretrovirals: ritonavir 100 mg/dia saquinavir 600 mg/dia; emtricitabina 200mg/tenofovir 245 mg/dia, a més del tractament pautat en l'UCA: escitalopram 20 mg/dia i diazepam 10 mg/dia.
+
+Altres recursos i abordatges utilitzats
+Des que va prendre contacte amb la nostra Unitat ha seguit tractament ambulatori, hospitalari residencial, aconseguint estar una mica més de 3 anys sense consumir després de l'ingrés en una Comunitat Terapèutica seguit de Centres de Dia. Va realitzar, en diferents recursos, diverses tandes psicoteràpia, grupal i individual, de tall cognitiu-conductual, psicoeducativo i de prevenció de recaigudes. 
+També ha fi nalizado, recentment, un Taller de relaxació.
+
+EVOLUCIÓ
+Per a la pacient, l'objectiu del tractament és "normalitzar" la seva vida i allunyar-se de "tot el relacionat amb les drogues". Això significa que no accepta la medicació que considera de "yonki" ni tampoc la derivació a la Unitat de Salut Mental per resultar-li estigmatizante. La seva evolució ha estat irregular, alternant períodes d'estabilitat amb uns altres de recaiguda, en general associats al consum d'alcohol i de cànnabis que ella valora com a "normalitzats". La dependència a opiacis i cocaïna segueixen en remissió total sostinguda. Actualment, manté la bona adherència a la Unitat acudint de forma regular a les cites (metgessa i psicólogica) i a les d'Infeccioses on compleix el tractament antiretroviral. No obstant això, persisteix un alt grau de malestar somàtic i emocional en relació amb circumstàncies familiars i records intrusius de les vivències del seu passat que expressa amb intens malestar i li ocasionen limitacions importants en el seu ajust social. Des de febrer -que va abandonar el PMM- presenta artromiàlgies generalitzades la qual cosa ha disparat la seva hipocondriasis i l'anticipació ansiosa. Manté el consum de cànnabis i esporàdicament el d'alcohol. No acudeix a cap altre recurs de drogodependències.

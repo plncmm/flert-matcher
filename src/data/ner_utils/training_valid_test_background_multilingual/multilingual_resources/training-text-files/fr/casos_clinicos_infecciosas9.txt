@@ -1,0 +1,44 @@
+Un homme de 17 ans originaire de Roumanie, sans antécédents ni traitement habituel, qui vivait en Espagne depuis 1 an avec sa famille, qui était en bonne santé. Il n'a pas signalé d'habitudes toxiques. Il a consulté le service des urgences pour une histoire de 7 jours de céphalées frontales continues irradiant vers la région occipitale, qui, dans les dernières 48 heures, avaient été accompagnées d'une fièvre allant jusqu'à 39°C et de plusieurs épisodes de vomissements en mode shotgun. Pour le reste de l'anamnèse, le patient n'a présenté aucune autre manifestation clinique par organes et appareils. Il était traité avec de l'amoxicilline et de l'ibuprofène prescrits par son médecin traitant, sans grand résultat.
+
+À l'examen physique, il était en bon état général, bien que fébrile à 38,8o, stable sur le plan hémodynamique et ventilatoire, avec un score de 15 sur l'échelle de coma de Glasgow et aucune focalisation neurologique sauf une rigidité nucale modérée.
+
+L'hémogramme a montré une leucocytose de 15 600 par mm3 avec 86 % de neutrophiles et une protéine C-réactive de 26,5 mg/dl ; le reste de l'hémogramme, la biochimie et la coagulation étaient normaux. La radiographie du thorax n'a montré aucune condensation, aucune adénopathie hilaire ni aucun signe d'épanchement pleural. Une ponction lombaire a été effectuée, après un examen du fond d'œil qui a exclu la présence d'une papillite, et un liquide céphalo-rachidien (LCR) clair avec une pression d'écoulement légèrement augmentée a été obtenu. La coloration de Gram du LCR était négative et la biochimie montrait 21 leucocytes (83% de lymphocytes), une glycosurie de 54 mg/dl, une protéinurie de 90 mg/dl et une adénosine désaminase de 15 U/l. Le patient a été admis à l'unité des maladies infectieuses avec un diagnostic syndromique de méningite lymphocytaire d'étiologie possiblement tuberculeuse avec une couverture antibiotique (ceftriaxone et vancomycine) et acyclovir en attendant les résultats de l'étude étiologique (hybridation de l'ADN par réaction en chaîne par polymérase-PCR- et cultures du LCR, sérologie et hémocultures).
+
+Diagnostic différentiel
+Avec le diagnostic syndromique de méningite lymphocytaire, le diagnostic différentiel a été envisagé comme suit :
+
+Méningite bactérienne :
+- Méningite partiellement traitée.
+- Méningite à Listeria monocytogenes.
+- Méningite due à des spirochètes (Treponema spp., Borrelia spp.).
+- Endocardite infectieuse bactérienne.
+- Images suppuratives dues à des foyers paraméningés.
+- Méningite due à des micro-organismes intracellulaires (Rickettsia spp., Coxiella burnetti).
+
+La méningite virale :
+- Méningite à entérovirus.
+- Méningite à herpèsvirus.
+- Méningite due au virus de l'immunodéficience humaine (VIH).
+- méningite à adénovirus
+- méningite à virus de la chorioméningite lymphocytaire.
+- méningite à influenzavirus
+- méningite des oreillons
+- méningite à arbovirus méningite tuberculeuse méningite fongique
+
+méningite non infectieuse
+- Méningite néoplasique.
+- Neurosarcoïdose.
+- Méningite chimique (anti-inflammatoires non stéroïdiens, cotrimoxazole...).
+
+Evolution
+La PCR du LCR pour l'entérovirus, l'herpèsvirus, les oreillons, le virus de la Toscane et Mycobacterium tuberculosis était négative, de même que le test de la réagine du LCR, la sérologie pour le VIH, Borrelia, Treponema pallidum, Rickettsia spp et Coxiella burnetti. Cliniquement, le patient était toujours fébrile après 72 heures, et les maux de tête et les vomissements s'étaient aggravés, si bien qu'une tomographie crânienne (CT scan) a été demandée en urgence. Le scanner a montré une collection de liquide bifrontal s'étendant sur presque toute la surface des deux lobes avec un effet de masse modéré et des signes de cérébrolite, avec une remontée pathologique de la dure-mère. 
+Scanner crânien (coupe axiale et reconstruction sagittale) : une collection hypodense correspondant à un empyème épidural avec prise de contraste de la dure-mère a été observée.
+En outre, il y avait une lyse de la paroi postérieure du sinus frontal gauche, qui a été confirmée par une reconstruction osseuse tridimensionnelle comme étant l'origine paraméningée probable de la collection. 
+Scanner crânien (coupe axiale en fenêtre osseuse et reconstruction osseuse tridimensionnelle) : une solution de continuité de la paroi postérieure du sinus frontal gauche a été observée.
+Avec le diagnostic radiologique d'empyème épidural, le service de neurochirurgie a été contacté et a décidé d'intervenir en urgence sur le patient après une imagerie par résonance magnétique (IRM) crânienne pour compléter l'étude. Cela a confirmé l'implication épidurale ainsi qu'une composante sous-durale et pariétale de l'empyème mesurant jusqu'à 16 mm. 
+IRM crânienne (sagittale T1 et axiale T2 avant craniotomie) : une composante sous-durale de l'empyème et une implication pariétale de l'empyème ont été observées.
+Avec une pansinusite des deux sinus maxillaires, frontaux et de l'ethmoïde gauche. Dans la séquence de diffusion de l'eau, il y avait une restriction de l'eau, ce qui confirme l'origine purulente de la collection. Une craniotomie bifrontale et une tréphine pariétale droite ont été réalisées avec évacuation du contenu purulent et cranialisation du sinus frontal ainsi qu'un lambeau de galéa pour sceller la fistule. Les résultats peropératoires étaient un plastron épidural avec une dure-mère épaissie et jaunâtre. Les hémocultures et les cultures de LCR concomitantes, y compris les cultures à incubation longue pour les mycobactéries et les champignons, étaient négatives, mais l'échantillon peropératoire était négatif pour Streptococcus constellatus et Prevotella oris, ce dernier résistant à la pénicilline G.
+Une couverture antibiotique intraveineuse composée de céfotaxime 2 grammes toutes les 4 heures et de métronidazole 500 milligrammes toutes les 6 heures a été choisie et poursuivie pendant 6 semaines. L'évolution du patient a été très favorable, restant toujours afébrile et ne présentant aucun symptôme neurologique d'aucune sorte, bien qu'une composante de 5 mm de l'empyème ait persisté dans l'IRM de contrôle (IRM sagittale T1 et axiale T2 du crâne après la craniotomie, montrant une évacuation presque complète de l'empyème avec une petite composante résiduelle d'environ 5 mm), qu'il a été décidé de ne pas évacuer, ni le reste des sinus paranasaux. Les examens ultérieurs ont confirmé la résolution complète de l'empyème et de la pansinusite, et le patient était asymptomatique sans récidive du processus à l'heure actuelle.
+
+Diagnostic final
+Le diagnostic final était un empyème épidural et sous-dural polymicrobien secondaire à une sinusite avec fistule de la paroi postérieure du sinus frontal gauche.

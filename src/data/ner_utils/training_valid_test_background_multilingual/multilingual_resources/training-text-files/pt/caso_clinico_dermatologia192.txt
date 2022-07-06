@@ -1,0 +1,27 @@
+Anamnese
+Apresentamos o caso de uma paciente feminina de 40 anos que veio à clínica de dermatologia por lesões dolorosas no primeiro dedo do pé direito, que tinha sido inflamada em várias ocasiões, durante 2 meses. A sua história pessoal de interesse incluía lúpus eritematoso sistémico e anemia por deficiência de ferro. Tinha recebido anteriormente tratamento tópico e oral com vários cursos de antibióticos, incluindo Cloxacillin e Levofloxacin, durante menos de duas semanas, praticamente sem qualquer melhoria.
+Ela não tinha apresentado febre ou sensação distérmica desde o início dos sintomas, e negou quaisquer outros sintomas de interesse. A paciente não relatou episódios anteriores semelhantes e relacionou os seus sintomas com um trauma com um ferro de engomar durante a sua estadia num parque aquático.
+
+Exame físico
+O paciente estava em bom estado geral, afebril e hemodinamicamente estável.
+O exame físico revelou pequenas pápulas eritematosas-violáceas na superfície superior e inferior do primeiro dedo do pé direito, uma das quais era maior e com material purulento drenado na punção. Não houve lesões nos outros dedos dos pés nem no pé contralateral, e não houve envolvimento de unhas.
+
+Exames complementares
+No estudo micológico, o exame directo foi negativo e na cultura 5 colónias de Candida lusitaniae foram isoladas, sem qualquer relevância clínica.
+A cultura microbiológica do esfregaço de pus foi negativa.
+Foi realizada uma biopsia da lesão cutânea para estudo histológico e microbiológico.
+A histopatologia mostrou discreta hiperplasia na epiderme acompanhada de hiperqueratose e paraqueratose, com pústulas ocasionais na camada córnea. Na derme superficial, um infiltrado inflamatório granulomatoso foi identificado com células gigantes multinucleadas, formando ocasionalmente granulomas, com focos isolados de necrose supurativa.
+A cultura microbiológica da biópsia em meio líquido (a 37oC) foi negativa após 45 dias. Duas unidades formadoras de colónias (UFC) de uma micobactéria fotocromogénica atípica foram isoladas da cultura do meio sólido (coletes) à temperatura ambiente. Posteriormente, uma colónia amarela cromogénica foi submetida a análise genética molecular utilizando o método GenoType Mycobacterium, que inclui 27 espécies micobacterianas diferentes. O procedimento está dividido em três etapas: isolamento do ADN da cultura, amplificação com iniciadores marcados com biotina (não incluindo a polimerase de ADN termoestável) e hibridação inversa. O sistema baseia-se na amplificação de uma região genética específica com posterior hibridação do produto de amplificação para as diferentes sondas dispostas numa faixa de nitrocelulose. Um modelo assegura uma interpretação simples e rápida do esquema de faixas obtido. De acordo com este esquema, no nosso caso, o micobactérias não tuberculosas (NTM) Mycobacterium marinum foi isolado.
+A obtenção de uma amostra adequada para cultura facilita o isolamento do germe, uma vez que o material purulento contém a maior concentração do germe. Por outro lado, a temperatura da cultura é também fundamental, uma vez que Mycobacterium marinum tem uma temperatura de crescimento óptima entre 30oC e 33oC.
+O paciente abandonou o tratamento 18 dias após ter iniciado o tratamento devido a diarreia secundária a antibióticos, pelo que foi adicionado um probiótico e o regime foi alterado para uma cápsula de Doxiciclina 100 mg a cada 24 horas durante um mínimo de 4 meses, uma vez confirmado o diagnóstico.
+Os testes convencionais de susceptibilidade a drogas não são recomendados para a maioria das micobactérias não tuberculosas, excepto em certas espécies ou no caso de falha do tratamento. Tais testes não são recomendados nesta espécie, que é normalmente sensível à claritromicina, rifampicina, etambutol, tetraciclinas, sulfonamidas e co-trimoxazol. Alguns isolados são resistentes à ciprofloxacina, e a monoterapia com fluoroquinolonas pode facilitar o desenvolvimento da resistência, pelo que não é aconselhável o uso destes medicamentos em monoterapia no tratamento inicial.
+
+
+Evolução
+Após um mês e meio com probióticos e Doxiciclina 100 mg a cada 24 horas com boa tolerância, as lesões tinham voltado marcadamente, apresentando nessa altura lesões violáceas planas de aspecto residual, sem evidência de pústulas, mas com alguma crosta mielíaca. O tratamento deste tipo de infecção deve ser mantido por um período mínimo de quatro meses.
+
+Diagnóstico
+Infecção por Mycobacterium marinum ou granuloma da piscina.
+
+Tratamento
+Antes do resultado da cultura estar disponível e dada a elevada suspeita diagnóstica, o tratamento é iniciado com um comprimido de Doxiciclina 100 mg a cada 12 horas.

@@ -1,0 +1,27 @@
+Anamnesi
+Un uomo di 47 anni senza precedenti è stato portato al dipartimento di emergenza per un trauma addominale contundente in seguito a un incidente stradale. All'arrivo, è stato osservato un addome acuto ed è stato sottoposto a laparotomia esplorativa che ha rivelato una grande quantità di sangue libero nella cavità peritoneale secondaria a una rottura dell'arteria splenica polare inferiore. Durante l'intervento chirurgico, è stato osservato un conglomerato adenopatico retroperitoneale e sono state fatte delle biopsie. L'anatomia patologica ha rivelato un linfoma follicolare di grado 1. È stata eseguita una PET-CT che ha mostrato focolai ipermetabolici nei linfonodi ascellari, mediastinici e iliaci bilaterali e un grande conglomerato retroperitoneale compatibile con il linfoma. La biopsia del midollo osseo ha mostrato un'infiltrazione di linfoma follicolare.
+Ricostruendo il paziente, nessuna presenza di sintomi B o sindrome costituzionale, riferendosi solo a lievi dolori lombari che considerava normali nel suo lavoro di camionista.
+Ha iniziato la chemioterapia con CHOP-Rituximab di cui ha ricevuto 6 cicli con buona tolleranza. In una PET di rivalutazione, risposta parziale con persistenza della malattia a livello retroperitoneale. Seconda linea con FMD-R (Fludarabina - Mitoxantrone - Desametasone - Rituximab) con risposta completa con PET-CT dopo 4 cicli anche se con grande tossicità ematologica con diversi ritardi dovuti a neutropenia e piastrinopenia. È stata eseguita una biopsia del midollo osseo che non ha mostrato alcuna infiltrazione di linfoma e quindi è stato iniziato il Rituximab di mantenimento. Miglioramento clinico dalla fine della chemioterapia, anche se con neutropenia persistente e piastrinopenia di grado 1. Dopo 19 mesi di trattamento, il paziente è stato consultato per un'ematuria indolore.
+
+Esame fisico
+Il paziente è in buone condizioni generali anche se un po' pallido. Nessun sintomo di B.
+Nessun linfonodo periferico palpabile.
+Auscultazione cardiorespiratoria: normale.
+Esame addominale: normale. Disagio lombare inferiore
+Nessun edema malleolare
+Test complementari
+Esami di laboratorio: profilo epatico e renale normale. Nessuna alterazione elettrolitica. Emoglobina 11,2 g/dl,
+Leucociti 2650/μL (Neutrofili 1410/μL), piastrine 123000.
+TAC del torace: calcificazioni nelle arterie coronarie. Linfonodi paratracheali destri e para-aortici sinistri di dimensioni non significative. Non sono state osservate adenopatie mediastiniche di dimensioni significative. Non sono state osservate alterazioni pleuropolmonari di interesse.
+TAC addome e bacino: epatomegalia con steatosi moderata, senza evidenza di lesioni focali.
+Splenomegalia omogenea. Non sono stati visti fluidi liberi o adenopatie intra-addominali di dimensioni significative. Pancreas e rene destro senza alterazioni di interesse. Occupazione della pelvi renale sinistra da parte di una massa di densità di tessuto molle, circa 40x44x51 mm (apxtxl) con captazione di contrasto, non presente in precedenti TAC. Ha causato la dilatazione dei calici, soprattutto nel gruppo superiore, senza dilatazione ureterale compatibile con il tumore uroteliale.
+I risultati sono stati presentati alla commissione di urologia ed è stata eseguita una nefrectomia, mostrando l'infiltrazione della pelvi renale da una neoplasia a piccole cellule con morfologia regolare. L'immunoistochimica ha mostrato positività per CD 45, CD 20, CD 10, Bcl 2, Bcl 6 e negatività per CD 138, CD5 e Ciclina D1. L'indice di proliferazione Ki 67 è di circa il 10%.
+
+Diagnosi
+Infiltrazione della pelvi renale da parte del linfoma follicolare come unico focus di ricaduta.
+
+Trattamento
+In vista dei risultati, Una scansione PET-CT ripetuta è stata eseguita, confermando l'assenza di altri focolai. La TAC ha confermato l'assenza di altri focolai ed è stata eseguita una nuova biopsia del midollo osseo che non ha mostrato alcuna infiltrazione da parte del linfoma ma ha mostrato un midollo ipocellulare con una marcata iperplasia della serie eritroide con caratteristiche displastiche marcate (tendenza a raggrupparsi in nidi e presenza di Le serie rimanenti erano scarsamente rappresentate con una predominanza di forme mieloidi immature con il 3% di forme blast e la presenza di plasmacellule politipiche suggestive della sindrome mielodisplastica del tipo citopenia refrattaria con displasia multilineare. Alla luce di questi risultati, il caso è stato presentato al comitato di ematologia e si è deciso di eseguire un mini-trapianto da un donatore non imparentato, poiché non c'erano fratelli compatibili.
+
+Evoluzione
+Durante il condizionamento, il paziente ha avuto un esordio diabetico con glicemia superiore a 1000 mg/dL. Dopo il condizionamento, è stato ricoverato in terapia intensiva per una grave diarrea con insufficienza renale pre-renale e sospetta microangiopatia trombotica probabilmente legata al Tacrolimus usato come profilassi per la graft-versus-host disease. Scarsa evoluzione della condizione con diminuzione del livello di coscienza, comparsa di flutter atriale de novo con rapida risposta ventricolare a 150 battiti al minuto e condizione febbrile con isolamento in emocoltura di Escherichia coli multiresistente insieme a scarso recupero dei parametri ematologici, con conseguente insufficienza multiorgano al giorno + 16 del trapianto che porta all'exitus del paziente.

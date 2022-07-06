@@ -1,0 +1,126 @@
+A 25-year-old woman from Honduras consulted the emergency department for febrile fever, odynophagia and arthralgias of 48 hours' evolution.
+
+In the last 10 hours she developed intense holocranial headache, generalised maculopapular rash and oedema of the hands and feet.
+
+- Personal history:
+- No hypertension. No DM. No LD.
+- No Iqx.
+- No usual treatment. No RAMc
+
+- Epidemiological background:
+- Stay in Honduras for 2 months (stay in Tegucigalpa and Choluteca) as VFR.
+- No prior counselling. No yellow fever immunisation.
+- Consumption of drinking water. No consumption of undercooked/raw food. No contact with animals. No recollection of mosquito bites. No contact with sick people. No risky sexual relations.
+
+- On further questioning, the patient reported an episode of similar characteristics at the beginning of January with fever, malaise, arthromyalgia and generalised rash.
+- She consulted her country and was prescribed symptomatic treatment with a diagnosis of probable viriasis. Complete resolution after 72h.
+- Brother, at that time, with similar symptoms.
+
+17/11/15 Arrival in Honduras: Asymptomatic. 
+02/01/16 Onset of fever: Asymptomatic.
+16/01/16 Return to Spain
+20/01/16 New febrile illness
+22/01/17 Emergency Room
+
+On discharge: BP 130/78 HR 110lpm SatO2 100% basal T 37.2o
+- Bilateral non-suppurative conjunctivitis.
+- Generalised non-pruritic rash. Bilateral conjunctival injection.
+- ENT: no enanthema. No other oral mucosal lesions. Hyperemic pharynx without whitish exudates.
+- Minimal adenopathy in cervical chains.
+- AP: mvc without superimposed noises. AC: rhythmic and without murmurs.
+- ABD: normal. RHA+. No visceromegaly.
+- Edema on dorsum of hands and bimalleolar.
+
+Differential diagnosis fever and rash.
+
+Complementary tests
+LYMPHOCYTES 0.76
+
+Urgent request to the micro:
+Blood cultures and malaria rapid test. 2.
+2. Rapid test for malaria and Dengue fever.
+3. Blood cultures are not necessary because the patient has "something viral".
+4. Urgent HIV serology and rapid test for Dengue.
+5. Blood cultures and rapid test for malaria and dengue.
+
+- HCx2 is extracted and rapid test for Dengue and Plasmodium are negative.
+
+Complementary tests to be performed:
+1. Discharge with symptomatic treatment and follow-up in consultations.
+2. Certain that it is dengue even if the rapid test is negative, we leave the patient for 24h observation.
+3. Discharge with ciprofloxacin and follow-up in consultations.
+4. Admission with ceftriaxone for suspected leptospirosis.
+5. Admission with symptomatic treatment for study.
+
+Suspected diagnoses
+1. Typhoid fever.
+2. Measles or rubella.
+3. Imported viral infection.
+4. P. vivax malaria.
+5. It is a rickettsial infection and I would not have discharged him without doxycycline.
+
+SUMMARY
+- VFR patient with rash, fever, arthralgias, oedema and conjunctivitis.
+- Stay in Honduras. Urban and rural area.
+- Symptoms started 4 days after returning from the trip.
+- History of similar febrile illness 3 weeks earlier.
+
+Day +5 of onset of symptoms
+REVIEW IN CONSULTATIONS:
+- Patient already AFebrile.
+- Persistence of generalised exanthema with petechiae in distal areas and increased arthralgias and oedema of hands and feet with functional impotence preventing correct ambulation.
+- Neurological examination with no evidence of alteration of sensitivity or strength. ROT preserved.
+- Control laboratory tests:
+- CRP 17.7; neutropenia 1480/ lymphocytes 3,090; plaq 314,000; coag normal.
+- HCx2 results negative.
+- Serology tests carried out in the ER:
+- HIV: negative. HAV IgG positive. HBV: Ac HBs positive, the rest negative. HCV: negative. Syphilis: negative.
+
+Microbiological study was extended with:
+- PCR of Dengue, Chikungunya and Zika v. in serum.
+- PCR in urine for v. Zika.
+- Serologies for v. Dengue, Chikungunya and Zika.
+- Serologies for Leptospira, Rickettisia, Borrelia, rubella, measles, mumps, parvovirus B19, CMV, HAV, HBV and HCV.
+
+Day + 6 of symptom onset
+
+PCR SERUM ZIKA Positive
+PCR URINE ZIKA Positive
+IgM ZIKA Positive
+IgG ZIKA
+PRNT Undetermined
+
+DENGUE SERUM PCR Negative
+DENGUE URINE PCR -
+DENGUE IgM Negative
+DENGUE IgG Positive
+PRNT DENGUE -
+
+CHIK SERUM PCR Negative
+PCR URINE CHIK Negative
+IgM CHIK Positive
+IgG CHIK Positive
+PRNT CHIK Positive 1/256
+
+Day + 17 of symptom onset
+PCR URINE ZIKA Positive
+Urine PCR CHIK Negative
+
+Day + 34 of symptom onset
+IgM ZIKA Positive
+IgG ZIKA Positive
+PRNT ZIKA Positive 1/512
+
+IgM CHIK Positive
+IgG CHIK Positive
+PRNT CHIK Positive 1/512
+
+
+FINAL DIAGNOSIS
+1. Acute Zika virus infection.
+2. Recent past Chikungunya virus infection.
+3. Probable past infection with Dengue virus 
+
+EVOLUTION OF THE PATIENT
+- Favourable with resolution of arthralgias in 3 weeks.
+- She remained mildly asthenic. No symptoms after two months of follow-up.

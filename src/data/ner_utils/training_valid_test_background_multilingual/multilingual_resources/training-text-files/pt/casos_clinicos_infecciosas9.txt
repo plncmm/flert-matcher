@@ -1,0 +1,44 @@
+Um homem de 17 anos da Roménia sem antecedentes ou tratamento habitual, que vivia em Espanha há 1 ano com a sua família, e que era saudável. Ele não relatou quaisquer hábitos tóxicos. Consultou o departamento de emergência para uma história de 7 dias de dor de cabeça frontal contínua irradiando para a região occipital, que nas últimas 48 horas tinha sido acompanhada por uma febre de até 39°C e vários episódios de vómitos na forma de espingarda. Não houve outros sintomas clínicos no resto da anamnese por órgãos e aparelhos. Ele estava a ser tratado com amoxicilina e ibuprofeno prescritos pelo seu médico de cuidados primários, com pouca resposta.
+
+Ao exame físico estava em bom estado geral, embora febril a 38,8o, hemodinamicamente e ventilatoriamente estável, com uma pontuação de 15 na Escala de Coma de Glasgow e sem focalização neurológica, excepto para uma rigidez nucal moderada.
+
+O hemograma mostrou uma leucocitose de 15.600 por mm3 com 86% de neutrófilos e uma proteína C-reactiva de 26,5 mg/dl; o resto do hemograma, bioquímica e coagulação foram normais. A radiografia do tórax não mostrou condensação, adenopatias hilares ou sinais de efusão pleural. Foi realizada uma punção lombar, após exame de fundo, que excluiu a presença de papilite, e foi obtido um líquido cefalorraquidiano claro (LCR) com pressão de saída ligeiramente aumentada. A coloração de Gram do LCR foi negativa com bioquímica mostrando 21 leucócitos (83% linfócitos), glicosúria de 54 mg/dl, proteinúria de 90 mg/dl e uma deaminase de adenosina de 15 U/l. O paciente foi admitido na Unidade de Doenças Infecciosas com um diagnóstico sindrómico de meningite linfocítica de possível etiologia tuberculosa com cobertura antibiótica (ceftriaxona e vancomicina) e aciclovir enquanto aguardava os resultados do estudo etiológico (hibridação do ADN por reacção em cadeia da polimerase - PCR e culturas do LCR, serologia e hemoculturas).
+
+Diagnóstico diferencial
+Com o diagnóstico sindrómico de meningite linfocítica, o diagnóstico diferencial foi considerado como se segue:
+
+Meningite bacteriana:
+- Meningite parcialmente tratada.
+- Listeria monocytogenes meningitis.
+- Meningite devido a espiroquetas (Treponema spp. Borrelia spp.).
+- Endocardite infecciosa bacteriana.
+- Imagens supurativas devido a focos parameningeis.
+- Meningite devida a microorganismos intracelulares (Rickettsia spp., Coxiella burnetti).
+
+Meningite viral:
+- Meningite enterovírus.
+- Meningite por Herpesvirus.
+- Meningite do vírus da imunodeficiência humana (VIH).
+- meningite adenovírus
+- meningite do vírus da coriomeningite linfocítica.
+- meningite por influenzavírus
+- meningite da papeira
+- meningite por arbovírus meningite tuberculosa meningite fúngica
+
+meningite não infecciosa
+- Meningite neoplásica.
+- Neurosarcoidose.
+- Meningite química (anti-inflamatórios não esteróides, cotrimoxazol...).
+
+Evolução
+O CSF PCR para enterovírus, herpesvírus, papeira, vírus Toscana e Mycobacterium tuberculosis foram negativos, assim como o teste de reagente CSF, serologia para HIV, Borrelia, Treponema pallidum, Rickettsia spp e Coxiella burnetti. Clinicamente, o paciente ainda estava febril após 72 horas, e a dor de cabeça e o vómito tinham piorado, pelo que foi solicitado um exame urgente de tomografia computorizada craniana (TAC). O TAC mostrou uma recolha de fluido bifrontal que se estendeu por quase toda a superfície de ambos os lóbulos com efeito de massa moderada e sinais de cerebrite, com a captação patológica da dura-máter. 
+TAC cranial (secção axial e reconstrução sagital): foi observada uma colecção hipodensa correspondente ao empiema epidural com absorção de contraste da dura-máter.
+Além disso, houve lise da parede posterior do seio frontal esquerdo, que foi confirmada pela reconstrução óssea tridimensional como a provável origem parameníngea da colecção. 
+TAC cranial (secção axial na janela óssea e reconstrução óssea tridimensional): foi observada uma solução de continuidade da parede posterior do seio frontal esquerdo.
+Com o diagnóstico radiológico do empiema epidural, o departamento de neurocirurgia foi contactado e decidiu intervir urgentemente no paciente após uma ressonância magnética craniana (MRI) para completar o estudo. Isto confirmou o envolvimento epidural, bem como uma componente subdural e parietal do empiema que mede até 16 mm. 
+Ressonância magnética craniana (sagital T1 e axial T2 antes da craniotomia): foi observada uma componente subdural do empiema e o envolvimento parietal do empiema.
+Juntamente com pansinusite tanto dos seios maxilares, frontais e etmóides esquerdos. Na sequência de difusão da água houve restrição da água, o que apoiou fortemente a origem purulenta da colecção. Foi realizada uma craniotomia bifrontal e uma trefina parietal direita com evacuação do conteúdo purulento e cranialização do seio frontal juntamente com uma aba de gálea para selar a fístula. Os resultados intra-operatórios foram um plastrão epidural com uma dura-máter espessada e amarelada. As culturas concorrentes de sangue e de LCR, incluindo culturas de incubação longa para micobactérias e fungos, foram negativas, mas a amostra intra-operatória cultivou Streptococcus constellatus e Prevotella oris, esta última resistente à penicilina G.
+A cobertura antibiótica intravenosa constituída por cefotaxima 2 gramas a cada 4 horas e metronidazol 500 miligramas a cada 6 horas foi escolhida e continuou durante 6 semanas. A evolução do paciente foi muito favorável, permanecendo sempre afebril e sem sintomas neurológicos de qualquer tipo, embora na RM de controlo tenha persistido um certo componente de 5 mm do empiema (RM sagital T1 e axial T2 do crânio após a craniotomia, mostrando uma evacuação praticamente completa do empiema com um pequeno componente residual de cerca de 5 mm) que foi decidido não evacuar, nem o resto dos seios paranasais. Os exames subsequentes confirmaram a resolução completa do empiema e pansinusite, e o paciente estava assintomático, sem recorrência do processo no momento presente.
+
+Diagnóstico final
+O diagnóstico final foi epidural polimicrobiano e empiema subdural secundário à sinusite com fístula da parede posterior do seio frontal esquerdo.

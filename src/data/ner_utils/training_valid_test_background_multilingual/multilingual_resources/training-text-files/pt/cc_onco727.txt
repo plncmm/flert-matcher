@@ -1,0 +1,36 @@
+Anamnese
+O paciente consultado por febre até 38,6 oC de 24 horas de evolução acompanhada de síndrome distrófica e vómitos. Ela tinha recebido um segundo prato de pembrolizumab sete dias antes. Apresentava ocasionalmente dores abdominais leves e auto-limitadas sem alterações nos hábitos intestinais. Tosse ocasional com expectoração esbranquiçada. O doente estava a receber curativos de feridas na coxa direita, devido à supuração. Foi tratada com clindamicina por este motivo.
+
+Exame físico
+"BP: 155/63 mm Hg, HR 91 bpm, Ta: 38.1 oC, SatO2: 92 %, PS 1.
+"Condição geral: justa". Eupneic em repouso. Palidez da pele. Bem hidratado.
+"Cabeça e pescoço: pequenas linfadenopatias laterocervicais bilaterais. Não são dolorosas à palpação. Cavidade oral com lesões compatíveis com tordo. Sem exsudados de amígdalas. Otoscopia bilateral normal. Sem rigidez nucal.
+"AC: rítmico a uma boa frequência. Não foram ouvidos murmúrios.
+"AP: mvc em ambos os hemitóraxes com escasso crepitação bibasal seca.
+"Abdómen: globular, macio, depressivo". Sem massas palpáveis ou megalíticos. Dor à palpação em CDH com Murphy duvidoso. RHA normal. Sem pontos herniários ou pulsos de sopro. Na região inguinal direita existe uma pequena lesão excrescente com base numa lesão cirúrgica. No lado interno do membro inferior direito (MID) havia 3 lesões supurativas pontuais com tecido de granulação com secreção purulenta e sinais inflamatórios de perilesional. Edema com fovea perimalleolar escassa na MID. Homens negativos.
+
+Testes complementares
+Entre os testes complementares realizados à chegada ao departamento de emergência, destacam-se os seguintes:
+"Hemograma: glóbulos vermelhos 3,68 hemoglobina 9,2. Hematócrito 30.2. Volume corpuscular médio 82.1.
+"Hemoglobina eritrocitária média corpuscular 25. Concentração média de hemoglobina corpuscular de eritrócitos 30,5. Gama de distribuição de eritrócitos 15.8. Leucócitos 0,2. Neutrófilos % 6,2.
+"Neutrófilos 0. Linfócitos % 93,8. Linfócitos 0,2. Monócitos % 0. Eosinófilos % 0. Eosinófilos 0. Basófilos % 0. Basófilos 0. Plaquetas 312.
+"Coagulação: relação de tempo de protrombina 1,31. Actividade de protrombina 72. Tempo de protrombina 14.7. INR 1.31. Tempo de tromboplastina parcial activada (aPTT) 38. Relação aPTT 1,16. Fibrinogénio derivado 7.35.
+"Bioquímica: ureia 40 creatinina sanguínea 0,95. Proteína total 6.7. Total bilirrubina 0,35. Sódio
+"135. Potássio 4,59. Creatina kinase 30. Aspartato aminotransferase (GOT) 13. Amilase 46. CRP 195.
+"Urina: gravidade específica 1.020. pH 6. Cetonas 10. negativo Glucose. Nitritos negativos. Bilirrubina negativa. Proteínas 100. Urobilinogénio 0,2. Eritrócitos negativos. Leucócitos negativos.
+"Venous blood gas: Ph 7.42. nA 136. k 4.5. cA 1.10. gLUC 220. lAC 1.4. hTCO 3 4%. hco3- 24.0.
+"tHBC 9.9.
+"Radiografia de tórax posterior à lisa: não foram identificadas imagens de infiltrações ou condensação.
+Foram feitas culturas de sangue x 2, cultura de urina, cultura de ferida MID e cultura de placa de mucosa oral.
+
+Diagnóstico
+O julgamento diagnóstico do paciente foi compatível com grau IV (profundo) de neutropenia febril, infecção da ferida cirúrgica e candidíase orofaríngea.
+
+Tratamento
+A admissão no hospital foi decidida. Recomendava-se isolamento inverso, repouso e dieta absoluta, bem como a administração de G-CSF e antibioticoterapia empírica com meropenem intravenoso e vancomicina.
+Após cultura positiva da ferida em MID para pseudomona aeruginosa, o tratamento foi ajustado de acordo com o antibiograma, desescalando para ceftazidima intravenosa. O fluconazol intravenoso foi adicionado ao tratamento devido ao crescimento de Candida albicans na cultura da placa mucosa oral.
+
+Evolução
+A paciente mostrou uma clara melhoria clínica, mantendo a sua BP habitual. No entanto, após mais de dez dias de admissão, a contagem de neutrófilos séricos permaneceu em 0 mil/mm3. O caso foi discutido com a Hematologia, que recomendou um estudo da medula óssea. Foi realizado um aspirado de medula óssea, que foi relatado como um estudo fenotípico sem evidência de infiltração por hemopatia e ausência de séries mielóides (agranulocitose).
+Foi solicitada a análise da citometria de fluxo da amostra obtida a partir do aspirado, com resultados consistentes com agranulocitose, plasmocitose marcante e aumento relativo da série vermelha. Foi também descrita uma população de células, não negligenciável em algumas áreas, com uma aparência não hematológica, sem formar ninhos, possivelmente relacionada com melanoma metastático.
+Tendo em conta a confirmação da infiltração de MO por melanoma e dado que o paciente ainda está (um mês após a admissão) sem absolutamente nenhuma contagem de neutrófilos, excluímos mais tratamentos oncológicos activos. O encaminhamento para a Unidade de Cuidados Paliativos para tratamento sintomático foi acordado com o paciente e a família.

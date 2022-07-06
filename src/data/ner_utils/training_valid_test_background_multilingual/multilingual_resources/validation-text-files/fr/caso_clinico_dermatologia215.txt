@@ -1,0 +1,16 @@
+Anamnèse
+Femme de 71 ans, diagnostiquée pour une arthropathie psoriasique, sous traitement par leflunomide depuis un mois et demi.
+Elle a été admise avec de la fièvre, une asthénie et une odynophagie depuis une semaine, accompagnées d'une éruption cutanée depuis deux jours, prurigineuse et prédominant sur le tronc.
+
+Examen physique
+Il y avait une éruption maculopapulaire confluente d'aspect morbilliforme, un érythème et une desquamation touchant plus de 90 % de la surface corporelle, ainsi qu'une fièvre thermométrique de 38,5oC et une hypotension artérielle (90/60 mmHg). La muqueuse buccale présentait des plaques blanchâtres qui se détachaient facilement. Le pharynx était hyperémique, sans exsudat ni hypertrophie amygdalienne. Aucun ganglion cervical n'était palpable.
+
+Examens complémentaires
+Les tests de laboratoire à l'admission ont montré une leucocytose (17600/μL) avec éosinophilie (19%) et une thrombocytopénie (61000/μL). Les tests de la fonction hépatique étaient élevés (GOT 1700 U/L, GPT 1400 U/L, GGT 1137 U/L). La sérologie était positive pour l'IgM HSV-6 et négative pour tous les autres tests. Les cultures sanguines étaient positives pour E. coli. Le scanner abdomino-pelvien a montré des adénopathies subcentimétriques au niveau du ligament gastro-hépatique et du hile hépatique, de la racine du menstrue et du paracèle ainsi que des adénopathies inguinales bilatérales.
+La biopsie a montré une hyperkératose orthokératosique avec des plaques de parakératose sur un épiderme imprégné de lymphocytes abondants, de kératinocytes nécrotiques et d'une dégénérescence vacuolaire de la couche basale. Dans le derme superficiel, il y avait un infiltrat inflammatoire polymorphe composé principalement de lymphocytes de différentes tailles, certains légèrement gros avec des noyaux irréguliers, hyperchromatiques et légèrement atypiques.
+
+Diagnostic
+Le syndrome DRESS du léflunomide.
+
+Évolution et traitement
+Le patient a été admis dans le service de médecine interne pendant un mois et demi, période pendant laquelle ni la fièvre, ni l'hypotension, ni les lésions cutanées ne sont revenues complètement malgré l'arrêt du léflunomide et le traitement topique et systémique par corticostéroïdes. Suite au diagnostic initial de "bactériémie à Escherichia coli", la ceftriaxone a été prescrite et résolue. Du fluconazole a également été administré pour le traitement du muguet buccal, qui s'est résolu de manière satisfaisante. Lors de l'admission, une éosinophilie frappante a été observée, ainsi qu'une hépatite aiguë qui s'est partiellement résolue avec un traitement aux stéroïdes. Enfin, la patiente a présenté une brusque aggravation de son état, avec obnubilation, coagulopathie et asthénie globale, pour laquelle elle a été référée aux soins intensifs, avec un décès ultérieur dû à un choc septique et une défaillance multiorganique avec surinfection par Staphylococcus aureus résistant à la méthicilline.

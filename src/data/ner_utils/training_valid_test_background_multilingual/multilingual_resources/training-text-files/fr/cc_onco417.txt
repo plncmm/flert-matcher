@@ -1,0 +1,30 @@
+Anamnèse
+Un homme de 59 ans sans allergies médicamenteuses. Ex-fumeur avec un indice de paquet-année (IPP) de 15 et un éthylisme actif. Obésité morbide et hypertension artérielle. Antécédent de transplantation hépatique en 2014 pour une cirrhose alcoolique, actuellement sous traitement immunosuppresseur par everolimus.
+
+Antécédents oncologiques
+Le patient a débuté en 2014 avec une lésion hépatique dans le segment V-VIII suggérant un hépatocarcinome. Il a été opéré et l'étude pathologique a suggéré une métastase d'adénocarcinome, avec cytokératine 7 positive et négative pour CD10 et hépatocyte. Il a ensuite été suivi par tomographie assistée par ordinateur (TAO) tous les six mois. Au scanner thoraco-abdominal (mai/2017) : deux nodules pulmonaires, un dans le lobe supérieur gauche (LSI) et un dans le lobe supérieur droit (LSD), qui avaient grandi par rapport au scanner précédent. En novembre/2017, la biopsie du nodule LSI a été contrariée en raison de sa petite taille et de sa faible accessibilité.
+En septembre 2018, les deux lésions ont été biopsiées avec succès. Le nodule LSI présentait des métastases de cholangiocarcinome, tandis que le nodule LSD présentait des atypies cellulaires d'importance incertaine.
+Avec le diagnostic de métastases pulmonaires d'un cholangiocarcinome, les alternatives, chimiothérapie versus meilleurs soins de soutien, ainsi que l'opportunité d'un sevrage alcoolique et d'un ajustement du traitement immunosuppresseur, ont été expliquées au patient. Après avoir exprimé son souhait d'un traitement oncologique actif et en tenant compte du fait qu'il est un patient immunodéprimé en raison d'une transplantation, la gemcitabine a été débutée en février/2019 à la dose de 1000 mg/m2 toutes les deux semaines avec l'intention d'associer le cisplatine en cas de bonne tolérance. Elle a présenté une thrombopénie et une neutropénie de grade 3 après le 1er cycle, de sorte qu'aucun traitement n'a été administré au jour 15 et que le platine n'a pas été envisagé. Elle a continué à partir du 2ème cycle avec des doses réduites de 20% et a reçu le 4ème cycle en mai 2019.
+Quatre jours plus tard, elle a présenté une diarrhée associée à une insuffisance rénale pré-rénale et a dû être hospitalisée le 09/05/2019. Pendant l'hospitalisation, le résultat de la culture des selles a été obtenu : Campylobacter jejuni, pour lequel il a été maintenu sous traitement antibiotique pendant 10 jours, avec lequel la diarrhée s'est résolue, présentant une amélioration clinique et a été libéré.
+
+Histoire actuelle
+Il s'est présenté aux urgences le 24/05/2019 adressé par son hôpital local avec un diagnostic suspecté de compression de la moelle épinière versus métastase cérébrale. Le patient a commencé à éprouver une perte progressive de force, principalement dans les membres inférieurs (MMII), au cours de 4 jours d'évolution, qui l'empêchait de marcher et même de se tenir debout, s'étendant aux membres supérieurs (MMSS). Elle n'a montré aucun déficit sensoriel. Compte tenu de cet état, une dose de corticostéroïde (8 mg IV dexaméthasone) a été administrée et il a été transféré dans notre hôpital.
+
+Examen physique
+ECOG 2. Orientation dans les trois sphères. Bon niveau de conscience. Préservation des fonctions supérieures. Strabisme divergent déjà connu depuis l'enfance (nie la diplopie), mouvements oculaires normaux, pas de défauts campimétriques par confrontation. Visage centré, paires inférieures normales (piliers palatins symétriques, luette centrée, paire XII sans altérations). Tétraparésie symétrique à prédominance distale avec une plus grande implication du MMII. Équilibre musculaire, en MMSS : 4/5 proximal et 2/5 distal ; MMII : 1/5 proximal et 1/5 distal. Lassegue positif et bilatéral. Pas d'atteinte sensorielle. Arréflexie universelle. Réflexe cutané plantaire (RCP) indifférent. Pas de douleur dorsolombaire.
+
+Tests complémentaires
+" NFS : hémogramme, biochimie et coagulation normaux (sauf fibrinogène 887).
+"Radiographie du thorax : nodules pulmonaires déjà décrits dans les rapports précédents.
+"Scanner cranio-encéphalique d'urgence : pas de résultats pathologiques.
+
+Diagnostic
+Polyradiculopathie aiguë démyélinisante ou syndrome de Guillain-Barré (SGB) chez un patient immunodéprimé ayant des antécédents d'infection par Campylobacter jejuni. Il a été classé dans le sous-type de SGB : neuropathie motrice axonale aiguë (AMAN).
+
+Traitement
+Il a été admis pour un traitement par immunoglobulines IV et a été placé sous surveillance étroite en raison de la possibilité d'une progression de la maladie et d'une atteinte des muscles respiratoires.
+
+Evolution
+Une ponction lombaire a été effectuée, permettant d'obtenir un liquide céphalo-rachidien (LCR) aux caractéristiques anodines (pas de dissociation albumine-cytologie). Cependant, le tableau est très évocateur d'une polyradiculopathie démyélinisante (tétraparésie avec aréflexie universelle, précédée d'une infection à Campylobacter jejuni), et sans données suggérant une lésion de la moelle épinière puisqu'il n'y a pas de niveau sensitif.
+Les études neurophysiologiques ont été complétées (29/05/2019) par une électromyographie (EMG) et une électroneurographie (ENG), qui étaient compatibles avec une polyradiculonévrite axonale aiguë à nette prédominance motrice.
+Le patient a été traité pendant 5 jours avec des immunoglobulines IV, l'évolution a été lente mais favorable, avec une augmentation progressive de la force musculaire.

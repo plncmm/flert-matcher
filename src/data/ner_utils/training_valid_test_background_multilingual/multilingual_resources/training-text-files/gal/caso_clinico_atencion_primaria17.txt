@@ -1,0 +1,35 @@
+Motivo de consulta
+O yerno da paciente chama ao Centro de Saúde para que o seu Médico de Familia acuda ao seu domicilio, xa que a atopa rara. Dous días antes, acudira á consulta do seu Médico de Atención Primaria por un cadro de disnea e febrícula, onde se diagnosticó mediante radiografía de tórax, de bronquitis aguda e iniciouse tratamento antibiótico.
+
+Enfoque individual (anamnesis, exploración, probas complementarias)
+Anamnesis: trátase dunha muller de 84 anos, nega reaccións alérgicas a medicamentos, hipertensa (que por mutuo propio deixou a medicación antihipertensiva), dislipémica, FA anticoagulada con acenocumarol. Nega hábitos tóxicos. Independente ABVD.
+
+Ao chegar ao domicilio, a paciente atópase obnubilada, con baixo nivel de conciencia, ademais de desviación da comisura bucal e perda de forza do hemicuerpo esquerdo. Afebril.
+Decídese trasladar á paciente a Urxencias do Hospital mediante ambulancia con asistencia médica e sendo monitorizada en todo momento. Actívase Código Ictus.
+Á súa chegada ao hospital, o seu estado non cambiou. Aínda que, durante a exploración física, a paciente comeza con febre de 38.8oC.
+
+Exploración física:
+- Regular estado xeral, palidez cutánea, eupneica en repouso. Febre de 38.8oC de novo. TA 156/94.
+- ACR: Arrítmica a boa frecuencia, non soplos. MVC, non ruídos patológicos.
+- ECG: FA a 70 lpm. Eixe normal. QRS estreito. Non signos de repolarización.
+- Neurológica: tendencia ao soño, linguaxe disártrico aínda que difícil de explorar. PINLA. MOEC. Hemianopsia homónima esquerda á ameaza. Tendencia non forzada da mirada cara á dereita. Parálisis facial izq. Debilidade en membros esquerdos con ton presente aínda que difícil de explorar por falta de colaboración. Brudzinski e Kerning dubidosos.
+
+Probas complementarias:
+- Analítica: Leucocitos 19.19x10e9/L, Neutrófilos 17.5x 10e9/L, Linfocitos 0.8x 10e9/L, Glucosa 130, Sodio 134, Creatinina 0.91, PCR 70, INR 2.08. Ouriña non patológica.
+- TAC de cráneo e AngioTAC: sen alteracións patológicas.
+- Punción Lumbar: 1150 células con 84% PMN, 310 proteínas, 35.6 glucosa, Gram positivo para listeria.
+
+Enfoque familiar e comunitario
+Paciente anciá que vive soa, ata este momento era ABVD. Bo soporte familiar. Nivel socioeconómico medio.
+
+Xuízo clínico (listado de problemas, diagnóstico diferencial)
+
+Diagnóstico diferencial:
+- ACV. Nun principio, polo antecedente de HTA sen tratamento e a exploración neurológica, o diagnóstico orientouse cara a un ACV. A aparición de febre e a normalidad na TAC e AngioTAC, fixo cambiar de parecer cara a unha enfermidade infecciosa.
+- Meningoencefalitis bacteriana. A focalidad neurológica e a febre dirixen cara a unha patología infecciosa, que logo foi confirmada mediante a punción lumbar e o Gram.
+
+Xuízo clínico alta: meningoencefalitis bacteriana.
+
+Plan de acción e evolución
+A paciente é trasladada á planta de Medicina Interna. Alí, é monitorizada e iníciase tratamento empírico con ceftriaxona+ampicilina+vancomicina+dexametasona iv e tratamento antipirético.
+Tralo inicio do tratamento, a paciente mellorou paulatinamente o seu estado xeral, actualmente atópase sa e sen secuelas do episodio.

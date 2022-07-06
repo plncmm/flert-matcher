@@ -1,0 +1,22 @@
+Anamnesis
+Presentamos el caso de un paciente varón de 74 años, alérgico a propifenazona y sin hábitos tóxicos. Con antecedentes patológicos de hipertensión, dislipemia e hiperglucemia en tratamiento médico. El paciente presentaba una tumoración de crecimiento progresivo en la región antero- medial del tercio distal del brazo izquierdo, al que se le asociaba dolor, astenia y febrícula vespertina diaria.
+
+Exploración física
+Tumoración pétrea adherida a planos profundos de 6 x 4 cm, con piel empastada y discreto aumento de la temperatura local, sin circulación colateral en el tercio distal interno del brazo izquierdo.
+
+Pruebas complementarias
+• Analíticamente destacaba una elevación de reactantes de fase aguda, velocidad de sedimentación globular (VSG) 72 mm, leucocitos 8.000/ml, hemoglobina 12,4 g/l, con marcadores tumorales dentro de la normalidad.
+• En la radiografía de húmero se apreciaba una masa de partes blandas con reacción perióstica.
+• Se solicitó una resonancia magnética (RM) de la extremidad, que evidenció una tumoración de partes blandas de 62 x 54 mm isointensa en T1 e hiperintensa en T2, con edema perilesional y erosión de la cortical medial diafisaria humeral con afectación del paquete vásculo-nervioso braquial, así como del músculo braquial anterior y el tríceps.
+• Se completó el estudio de extensión con una tomografía computarizada (TC) tóraco-abdominal, que descartó lesiones metastásicas.
+• Se realizó biopsia y punción aspiración con aguja fina guiada mediante imagen; la punción objetivó células atípicas con abundante material necrótico y la biopsia fue diagnóstica de sarcoma pleomorfo con extensa necrosis e inflamación aguda; la inmunohistoquímica presentaba vimentina positiva para proteína S-100, antígeno de membrana epitelial, actina, desmina y CD34 negativos.
+
+Diagnóstico
+Sarcoma pleomórfico indiferenciado de partes blandas de la extremidad superior izquierda estadio cT2BN0M0 localmente avanzado.
+
+Tratamiento
+Se presentó el caso en comité multidisciplinar y se propuso la amputación de la extremidad como cirugía radical. Se ofreció la alternativa de tratamiento concomitante de quimioterapia y radioterapia con intención preoperatoria, estando su efectividad limitada por la edad y la limitación de las dosis de ifosfamida.
+Tras valorar el riesgo-beneficio, y primando la conservación del miembro, se realizó tratamiento neoadyuvante mediante tres ciclos de quimioterapia con ifosfamida 2,5 mg/m2/día durante tres días, con soporte de factor estimulante de colonias, concomitante a radioterapia, con una dosis total de 50 Gy (fraccionamiento 2 Gy/sesión), sobre el tumor con márgenes amplios y técnica de dos campos oblicuos. Tras el fin de la neoadyuvancia se realizó una resonancia magnética que objetivó, según criterios RECIST, una estabilización de la tumoración persistiendo la afectación del paquete vásculo-nervioso braquial y musculatura adyacente. De forma programada se intervino quirúrgicamente realizando resección tumoral y sustitución por hueso de banco de tejidos con implantación de un clavo humeral anterógrado cementado. El resultado anatomopatológico del bloque quirúrgico humeral evidenció un foco microscópico de sarcoma residual, extensión porcentual de la necrosis tumoral (mediante sistema de gradación Huvos) grado tres, con ocasional viabilidad microscópica tumoral, siendo los márgenes de resección ósea y de partes blandas sin evidencia de neoplasia. La exéresis de la esponjosa ósea mostró espículas y escaso tejido intramedular sin material tumoral.
+
+Evolución
+Remisión patológica prácticamente completa. Al presentar márgenes de resección negativos no era candidato a Boost de radioterapia (16 Gy) sobre lecho quirúrgico, así como tampoco de recibir quimioterapia adyuvante; decidiéndose realizar controles.

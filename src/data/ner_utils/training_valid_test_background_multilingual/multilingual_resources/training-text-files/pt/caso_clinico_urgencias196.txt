@@ -1,0 +1,44 @@
+Motivo da consulta
+Aumento da dispneia e tosse
+
+História pessoal
+- Não se conhecem alergias.
+- DM tipo II em tratamento com antidiabéticos orais.
+- HT em tratamento com Telmisartan 40 mg.
+- Fumador activo de 10 cigarros/dia.
+- Bebedouro ocasional.
+- COPD com FEV1 de 60%.
+- Teve duas exacerbações no último ano, o último há 7 meses.
+- Está a ser tratado com beta-2 de acção prolongada e anti-colinérgicos de acção prolongada.
+
+HISTÓRIA ACTUAL
+Ele consulta porque nos últimos 3 dias tem vindo a experimentar um aumento da sua dispneia habitual com tosse e expectoração em maior quantidade do que o habitual e de cor esverdeada. A situação não melhorou apesar do tratamento dado pelo seu médico e nas últimas 12 horas a dispneia tornou-se um esforço mínimo que o impede de se lavar todos os dias, para o qual ele consulta. 
+
+EXAME FÍSICO
+Consciente e orientada no tempo e no espaço. Cianose central. BP: 185/110, HR de 130 bpm, RR de 28 rpm. O2 Sat de 89%, Para de 36,8oC, glicose no sangue de 240 - AC: Rítmico, sem murmúrios audíveis. - AP: Sibilância expiratória em ambos os campos pulmonares com rhonchi isolado. - ABD: Depressível suave, sem visceromegalia ou massas. Não é doloroso. - EEII: Mínimo edema pré-tibial. Pulsos presentes e simétricos. Foram solicitadas explorações complementares e foi iniciado o tratamento com elas: - Oxigenoterapia: máscara de máscaras de oxigénio com uma FiO2 de 0,3. - Beta 2 (salbutamol 5 mg) + anticolinérgicos (Ipratropium 0,5 mg) nebulizado e repetido inicialmente de 4 em 4 horas. - Corticosteróides sistémicos (80 mg iv). Esta é uma exacerbação grave da DPOC e todas as exacerbações graves beneficiam de tratamento com corticosteróides sistémicos. Seguir com 40 mg/iv/6 horas depois. - Antibióticos (moxifloxacina 400 mg IV/24 h).
+
+EXPLORAÇÕES COMPLEMENTARES
+Radiografia do tórax: Cardiomegalia. hilaridade ligeiramente congestiva com um padrão intersticial mínimo a este nível. Redistribuição vascular com aumento da distribuição vascular nas bases. Sem infiltrações. ECG: Ritmo sinusal a 110 bpm. Sem alterações de repolarização.
+BIOQUEMISTRIA
+GLUCOSE 265 mg/dl [ 70 - 110 ] UREA 26 mg/dl [ 15 - 50 ] CRIATININA 1 mg/dl [ 0,6 - 1,3 ] SÓDIO 142 mmol/L [ 135 - 148 ] POTÁSSIO 3. 8 mmol/L [ 3,6 - 5,2 ] LEUCOCÍTES HEMATOLOGIA 10,12 x10^3/uL [ 4,8 - 10,8 ] NEUTROFILES 87,5 % [ 43 - 65 ] LYMPOCYTES 5,6 % [ 20,5 - 45. 5 ] MONOCYTES 6,8 % [ 5,5 - 11,7 ] EOSINÓFILES 0 % [ 0,9 - 2,9 ] BASÓFILES 0,1 % [ 0,2 - 1 ] HEMOGLOBINA 16,6 g/dL [ 14 - 18 ] HEMATOCRITES 49. 7 % [ 42 - 52 ] JOQUETES 191 x10^3/uL [ 130 - 400 ] GASOMETRIA ARTERIAL pH 7,3 pCO2 77,3 mmHg pO2 54,5 mmHg cHCO3 37,4 mmol/L O2 Sat 89%.
+
+Dados os resultados analíticos da acidose respiratória e uma radiografia com uma semiologia que pode sugerir insuficiência cardíaca incipiente, juntamente com o edema maleolar, foi decidido acrescentar furosemida ao tratamento e controlo gasométrico venoso em uma hora, no caso de ser necessário iniciar uma ventilação mecânica não invasiva.
+
+EVOLUÇÃO, ESPERA E OBSERVAÇÃO
+Após 60 minutos com tratamento correcto, foi realizado um controlo gasométrico com os seguintes resultados: Gasometria venosa pH 7,31 pCO2 74,3 mmHg pO2 44,5 mmHg HCO3 36,4 mmol/L Oximetria de pulso 91%.
+Tendo em conta a escassa melhoria apesar do tratamento correcto, foi decidido iniciar a ventilação mecânica não invasiva em modo BiPAP com um IPAP de 16 e um EPAP de 6 e uma FiO2 de 0,3 Algum tempo depois foi realizada uma nova análise dos gases venosos do sangue na qual podemos ver: Gás venoso do sangue pH 7,383 pCO2 59,1 mmHg pO2 27,6 mmHg cHCO3 34,4 mmol/L saturação de O2 de 95% saturação de O2 de 95%.
+Foi decidido manter a VNI, continuando com o tratamento acima mencionado e após 10 horas o paciente apresentou os seguintes gases sanguíneos: pH 7,467 pCO2 46,1 mmHg pO2 49,3 mmHg HCO3 32,9 mmol/L O2 saturação de 97%.
+
+RESOLUÇÃO, ORIENTAÇÃO E TRANSFERÊNCIA
+Foi decidido iniciar a retirada progressiva da ventilação mecânica não invasiva e a admissão na ala de pneumologia para monitorização e tratamento definitivo. Tratamento na admissão - Dieta diabética sem sal.
+- Oxigenoterapia: máscara de máscaras de oxigénio com FiO2 de 0,28
+- Brocodilatadores: Beta 2 (salbutamol 400 μg) + anticolinérgicos (Ipratropium 120 μg) com câmara espaçadora de 6 em 6 horas.
+- Corticosteróides sistémicos: metilprednisolona 40 mg/iv/6 horas.
+- Antibióticos: Moxifloxacina 400 mg iv/24 horas.
+- Furosemida 20 mg iv/24 horas.
+- Enoxaparina 40 mg sc/24 h.
+- Telmisartan 40 mg iv/24h.
+- Glucómetro antes do pequeno-almoço, almoço e jantar com regime de insulina.
+
+TESTE CLÍNICO
+COPD MODERADO COM EXACERBAÇÃO SEVERA DEVIDO A INFECÇÃO BACTERIANA.

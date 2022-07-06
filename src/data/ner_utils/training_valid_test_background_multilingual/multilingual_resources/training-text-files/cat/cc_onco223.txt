@@ -1,0 +1,30 @@
+Anamnesi
+Dona de 65 anys amb intolerància al tramadol i ingrés en UCI a l'agost-07 per Sèpsia urinària per Escherichia coli. Intervencions quirúrgiques prèvies: Fixació de columna dorsal per cifoescoliosis.
+Diagnosticada al gener-08 per TC toràcic, PET, broncoscòpia i posterior lobectomía superior esquerra amb linfadenectomía de Adenocarcinoma pulmonar pT2pN0 (0/8) M0.
+En seguiment, sense evidència de malaltia, fins a setembre-11 que es documenta per PET/TC recidiva en forma de dos nòduls pulmonars sobre els quals es realitza PAAF amb informe anatomopatològic de Adenocarcinoma. Davant això, es decideix pneumonectomia esquerra més linfadenectomía amb informe anatomopatològic de Adenocarcinoma de 2,4 cm ben diferenciat que respecta pleura visceral i vores quirúrgiques, sense afectació ganglionar i EGFR mutat.
+En febero-13 s'objectiva recidiva en forma de nòdul pulmonar en LSD junt adenopatia paratraqueal baixa dreta. Davant risc de complicacions es desestima nova biòpsia i s'indica Gefitinib a les dosis habituals, 250 mg diaris, amb resposta completa radiolóigca, tant per TC com per PET i amb excel·lent tolerància.
+Durant el seguiment, i trobant-se totalment asimptomàtica es detecta mitjançant PET, al desembre-15, capatación patològica a nivell de ganglis mediastínics.
+
+Exploració física
+-Tensió arterial 125/75 mm Hg, Freqüència cardíaca 90 batecs/min, Temperatura 37o C, Saturació oxigen 97%
+-Conscient i orientada en 3 esferes. Normohidratada, normoperfundida i normocoloreada. Eupneica en repòs. IK 80
+-Cap i coll: pressió venosa jugular normal, sense adenopatias
+-Tòrax: Auscultació cardíaca: Rítmica sense soplos. Auscultació pulmonar: hipoventilació hemicampo esquerre. Cicatritzis intervencions prèvies correctes
+-Abdomen: Tou, no dolorós. Sorolls hidroaéreos positius.
+-Extremitats inferiors: Sense edemes. Pedios positivios
+
+Proves complementàries
+-PET(desembre-2015): hipermetabolismo en adenopaties localitzades en regió paratraqueal dreta altes i baixes (Suv 8,14), prevasculars (Suv 3,45), finestra aortopulmonar (Suv 7,99) i hil dret (Suv 7,46), que suggereixen recidiva de la malaltia
+-EBUS 4R i 4L: frotis negatiu per a cèl·lules malignes. Gangli limfàtic amb estructures granulomatoses sense necrosis
+-Mediastinoscopia 4R, 4L i 2L: linfadenitis granulomatosa epitelioide compatible amb Sarcoidosis
+
+Diagnòstic
+-Sarcoidosis mediastínica
+-Adenocarcinoma pulmonar de Pulmó amb recidiva ganglionar EGFR mutat en resposta completa a Gefitinib
+
+Tractament
+Davant el diagnòstic de sarcoidosis i donada l'absència d'afectació sistèmica d'aquesta i estant la pacient completament asimptomàtica, s'opta per una actitud expectant respecte al seu tractament i es decideix seguiment.
+Pel que fa al tractament de la neoplàsia es decideix mantenir tractament amb Gefitinib davant excel·lent resposta i tolerància.
+
+Evolució
+Davant les troballes del PET, i trobant-se la pacient completament asimptomàtica, es decideix completar estudi mitjançant EBUS i posteriorment mediastinoscopia, de cara a concretar l'existència o no d'una recidiva. Curiosament, l'estudi anatomopatològic no va mostrar la presència de cèl·lules malignes, si no tot el contrari, un procés inflamatori, com és la sarcoidosis. Això va permetre mantenir el tractament amb Gefitinib a la nostra pacient, que encara manté resposta completa avui dia.

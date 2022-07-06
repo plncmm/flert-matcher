@@ -1,0 +1,48 @@
+Motivo de consulta
+Paciente varón de 83 años que acude por fiebre de un día de evolución sin foco aparente.
+
+Enfoque individual (anamnesis, exploración, pruebas complementarias)
+Antecedentes personales de: hipertensión arterial. Diabetes mellitus tipo II. Síndrome de apnea obstructiva del sueño (SAOS). Hipertrofia benigna de próstata. Poliquistosis renal. Artritis gotosa. Enfermedad de Alzheimer.
+El paciente vive en domicilio con su mujer y una hija. Es dependiente para algunas actividades de vida diaria aunque lleva una vida activa, acude siempre él al centro de salud acompañado de alguna de sus hijas.
+
+El paciente viene a consulta con su hija por presentar fiebre de un día de evolución de 38- 39o. Refieren tos con expectoración blanquecina ocasional. No hay otra focalidad aparente en la anamnesis. Lo único que nos comenta la hija, cuidadora principal, es que lo encuentra con más olvidos y desorientación ocasional (por ejemplo, olvida que ha cenado) especialmente por la noche y coincidiendo con la fiebre. A la exploración no hay nada llamativo y el paciente presenta buen estado general, aunque lo encontramos decaído. Al considerarlo un paciente frágil, iniciamos amoxicilina 750mg de forma profiláctica.
+Al día siguiente realizamos aviso domiciliario, demandado por la familia porque el paciente permanece con fiebre. De nuevo no encontramos focalidad. El paciente sigue con buen estado general, estable hemodinámicamente y con una exploración anodina. Tranquilizamos a la familia y explicamos que el proceso durará varios días con fiebre mantenida, pero que deben estar atentos a nuevos síntomas que puedan aparecer y orientar al diagnóstico. El paciente nos acompaña hasta la salida de su domicilio para despedirnos.
+
+Recibimos nueva demanda a domicilio un día después ya que el paciente presenta un gran empeoramiento. La familia nos cuenta que el paciente se había despertado bien, pero que estaba decaído y fue a descansar a su cuarto, encontrándoselo posteriormente desorientado y con rigidez generalizada.
+
+A la exploración el paciente se encuentra desorientado en tiempo y espacio, con tendencia al sueño y responde de forma incongruente a nuestras preguntas.
+
+Exploración (difícil por falta de colaboración):
+Constantes: TA 129/73, FC 117lpm, SatO2 90%, T 38.6o, glucemia 137.
+Auscultación cardiopulmonar: Sin soplos, rítmico. MVC sin ruidos añadidos.
+Abdomen globuloso, no masas, no doloroso, no peritonismo.
+Miembros inferiores: sin edemas ni signos de trombosis.
+Neurológico: Miosis bilateral reactiva. Aparentemente movimientos oculomotores conservados. Borramiento surco nasogeniano izquierdo. Resto de pares craneales no valorables. Gran inestabilidad en la marcha. No pérdida de sensibilidad llamativa. Pérdida de fuerza generalizada. Kernig y Burdzinsky no valorables por defensa voluntaria, aunque hay aparente rigidez.
+
+Se decide enviar al paciente a Urgencias hospitalarias para realizar pruebas complementarias.
+A su llegada, entre las pruebas realizadas destaca:
+Analítica: PCR 0.9mg/dL, leucocitos 10330/μL con 67% neutrófilos y 17.9% de linfocitos. Plaquetas 186000/μL. Sistemático de orina con proteinuria.
+
+Radiografía tórax: mala técnica. Índice cardiotorácico dentro de los límites de la normalidad. Parénquima libre sin congestión ni condensaciones.
+TAC cráneo: prominencia de surcos, cisuras y cisternas con moderada dilatación del sistema ventricular en relación con atrofia corticosubcortical y/o involución senil. Adecuada diferenciación de sustancia gris-blanca. Fosa posterior sin hallazgos. No signos de hemorragia intracraneal. No efecto masa. Resto de estudio sin hallazgos.
+
+Durante su estancia en Urgencias el paciente presenta deterioro neurológico, mostrándose progresivamente somnoliento, despertando solo con estímulos dolorosos. Se decide realizar por lo tanto una punción lumbar, obteniendo un líquido ligeramente turbio y cuya bioquímica es: leucocitos 12/μL (100% mononucleares), glucosa 77mg/dL, proteínas 70.9mg/dL.
+La tinción de Gram es negativa.
+El estudio de PCRs detecta PCR positiva para virus de herpes simple tipo-1 (VHS-1).
+
+Enfoque familiar y comunitario
+Estructura familiar nuclear. El paciente convive con su mujer y una de sus dos hijas.
+Su ciclo vital familiar, considerando el modelo de la OMS modificado por De la Revilla, se encuadra en la etapa IV o ―contracción‖ (desde que el primer hijo abandona el hogar hasta que lo hace el último).
+La hija menor vive con sus padres, siendo la cuidadora principal de ambos, especialmente del padre, que precisa más atención al ser más frágil que su mujer.
+
+Juicio Clínico
+Meningoencefalitis por VHS-1. El diagnóstico diferencial que nos planteamos al comienzo del proceso fue un síndrome confusional agudo. Posteriormente hay que tener en cuenta principalmente otras infecciones del sistema nervioso central y, con los valores bioquímicos del LCR, hay que pensar en otras infecciones virales, bacterianas muy precoces, abortadas o meningoencefalitis tuberculosa. Otros diagnósticos serían encefalitis autoinmunes, metabólicas, tóxicas o isquémicas.
+
+Plan de acción y evolución
+El paciente ingresa a cargo de Enfermedades Infecciosas y comienza tratamiento con Aciclovir iv (10mg/kg cada 8 horas).
+
+Evolución
+El paciente permanece a lo largo del ingreso desorientado, con respuestas incoherentes a las preguntas realizadas, pero al principio comienza a comer alimentos triturados y está estable hemodinámicamente, sin fiebre.
+Al sexto día el paciente presenta importante deterioro, no abriendo los ojos y sólo localizando estímulos dolorosos. Oliguria con diuresis de 100cc en 12 horas a pesar de fluidoterapia intensiva. Se realiza analítica urgente donde se observa creatinina de 5.6mg/dL. Se debe posiblemente a una necrosis tubular aguda por Aciclovir, por lo que se reajusta tratamiento disminuyéndolo a una dosis diaria.
+Se añade amoxicilina 875mg/clavulánico 125mg al no poder descartar aspiración, ya que comienza de nuevo con febrícula, tos y aumento de secreciones.
+Deterioro progresivo que requiere finalmente la sedación del paciente que fallece al onceavo día del ingreso.

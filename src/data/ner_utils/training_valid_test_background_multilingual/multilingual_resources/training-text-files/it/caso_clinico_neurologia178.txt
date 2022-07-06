@@ -1,0 +1,31 @@
+Anamnesi
+Donna di 74 anni, con una storia personale di mieloma multiplo che aveva ricevuto un trapianto allogenico di midollo osseo 10 mesi prima, ed era stata trattata con immunosoppressori (tacrolimus, micofenolato e steroidi) da circa 15 giorni per la malattia del trapianto contro l'ospite.
+
+La paziente è stata ricoverata nel reparto di ematologia per un'evoluzione di 24-48 ore di una sindrome generale, stanchezza, dolori muscolari generalizzati, nausea e vomito che erano legati a un'infezione delle vie respiratorie superiori per la quale aveva già ricevuto un trattamento antibiotico con azitromicina per 7 giorni. Ventiquattro ore dopo l'ammissione, è stata fatta una richiesta di valutazione al Dipartimento di Neurologia a causa della debolezza dell'arto superiore destro che è progredita in poche ore allo sviluppo della diplegia brachiale.
+
+Esame fisico
+Eupneico, saturazione O2 97%. Pressione sanguigna 125/89 mmHg. Frequenza cardiaca 111 bpm. Auscultazione polmonare patologica con presenza di ronchi e affanno sparso bilateralmente, con il resto dell'esame sistemico anodino. L'esame neurologico ha rivelato un paziente cosciente, con funzioni superiori conservate. Il discorso è normale. Nessuna disartria. La motilità oculare e la campimetria di confronto sono normali e non c'è asimmetria facciale. C'è debolezza a 1/5 a livello della flessione cervicale. Negli arti superiori c'è plegia del MSD e paresi a 0/5 distale e 2/5 prossimale del MSI. L'equilibrio muscolare nella MMII è normale. Non ci sono state alterazioni significative nelle diverse modalità sensoriali (algesica, vibratoria, artrocinetica o tattile fine). C'è un'arreflessia nella MMSS con riflessi osteotendinei presenti e simmetrici nella MMII. Il riflesso cutaneo-plantare è flesso bilateralmente.
+
+Test complementari
+- Biochimica, emogramma e coagulazione: nessun risultato di interesse.
+- Puntura lombare: 21 leucociti/mm3 (7% linfociti, 93% polimorfonucleati), proteinorrachy 42.6 mg/dl, glucorrachy normale.
+- Coltura del CSF e Gram: negativo.
+- Colture del sangue: negative.
+- Colture di urina: negative.
+- Sierologia infettiva del siero: EBV, CMV, HSV, Mycoplasma IgG positivo e IgM negativo. Borrelia leptospira, lupus, morbillo, criptococco, adenovirus, Coxiella, Chlamydophila pneumoniae, Influenza, Legionella, RSV negativo.
+- Virologia del CSF: rilevamento di Enterovirus 68 RNA mediante PCR positiva. Rilevamento PCR di CMV, HSV-1, HSV-2, VZV, EBV, HHV6, HHV7 negativo.
+- Virologia del siero: rilevamento PCR di Enterovirus positivo. Rilevamento di CMV, EBV, adenovirus, Rhinovirus, RSV, Influenza A e B, Parainfluenza, Metapneumovirus, Bocavirus negativo.
+- TAC cranica: nessun risultato significativo.
+- Risonanza magnetica della colonna cervicale (15 novembre): nessun segno di compressione o invasione del canale spinale. A livello del midollo spinale cervicale e toracico, una lesione lineare iperintensa viene identificata in sequenze pesate in T2 che colpisce il corno anteriore del midollo spinale bilateralmente. Non viene identificato alcun uptake patologico.
+- Risonanza magnetica cranica (19 dicembre): c'è un ipersegnale mal definito sul margine sinistro del ponte, senza altre prove di coinvolgimento parenchimale o aumento patologico del contrasto.
+- Risonanza magnetica cervicale (19 dicembre): è stato osservato un miglioramento delle lesioni in termini di estensione, che è stata delimitata tra C3-C7. A questo livello, le lesioni sono viste sull'aspetto anteriore del midollo allungato che colpisce il corno anteriore bilateralmente. Risonanza magnetica cervicale in sequenza STIR, sezioni assiali e sagittali: iperintensità che interessa il corno anteriore del midollo.
+- PESS: conduzione centrale e midollare normale per le afferenze somestesiche di entrambi i nervi mediani con aumento della latenza periferica.
+
+Diagnosi
+Mielite infettiva secondaria all'infezione da Enterovirus 68.
+
+Trattamento
+Il trattamento immunosoppressivo è stato iniziato con steroidi alla dose di 1 g/kg di peso corporeo e immunoglobuline, nonché antibiotici antivirali e ad ampio spettro su un sospetto iniziale di una condizione infettiva o parainfettiva. Sebbene l'eziologia vascolare rappresentasse una possibilità eziopatogenetica meno probabile, fu iniziato un trattamento con farmaci antipiastrinici.
+
+Evoluzione
+Il paziente ha continuato a deteriorarsi clinicamente, presentando disfagia e disfonia e richiedendo il trasferimento in terapia intensiva per l'intubazione orotracheale a causa dell'insufficienza respiratoria. Durante la sua permanenza in terapia intensiva, il deficit neurologico è progredito in tetraplegia areflessa flaccida ed è morta un mese dopo in relazione a complicazioni sistemiche multiple.

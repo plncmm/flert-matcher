@@ -1,0 +1,26 @@
+Motiu de consulta
+Parestèsies distals en tots dos membres inferiors
+
+Enfocament individual (anamnesi, exploració, proves complementàries)
+Pacient home de 55 anys que acudeix al seu centre de salut per començar amb quadre febril de fins a 38oC de 5 dies d'evolució, sense una altra simptomatologia associada. A l'exploració destaca faringe hiperemica sense altres troballes d'interès. És diagnosticat de faringitis aguda i tractat amb azitromicina, acetilcisteina i paracetamol.
+
+Després de 10 dies d'evolució del quadre febril i una vegada resolt, torna a consultar per presentar parestèsies distals en tots dos membres inferiors i en 3o-4o dit de mà dreta associat a feblesa de cuádriceps i sensació mareosa, mantenint la capacitat per a caminar. Nega dificultat deglutoria, fonatoria i respiratòria. No clínica gastrointestinal prèvia. A l'exploració destaca esgotament i falta de força amb la marxa en puntes i talons i reflexos osteotendinosos hipoactivos. Davant les troballes, el seu metge decideix derivar-lo a urgències de l'hospital per a valoració de proves complementàries i descartar possible Síndrome de Guillain-Barré. En Urgències es realitza TAC cranial amb resultat de lesió hiperdensa inespecífica en substància blanca subcortical frontal esquerra de 9x7mm, sense efecte massa ni edema perilesional associat que no presenta realç amb administració de contrast intravenós.
+
+Es decideix ingrés i durant la seva estada a l'hospital es realitza:
+Analítica general incloent: hemograma; bioquímica amb funció renal, hepàtica i ions; tirotropina; serologies de virus d'hepatitis A, B i C, parvovirus B19, Campylobacter jejuni, Treponema pallidum, Borrelia burgdorferi, Citomegalovirus, Herpes simple, VIH, rubèola i varicel·la-zòster; ANA; anticossos antiMOG anticossos antigangliósidos: tot això normal o negatiu.
+Punció lumbar: proteïnes 87,9, leucòcits 2, PCR de virus neurotropos negativa. Cultiu del líquid negatiu.
+RMN cranial per a ampliar estudi de la lesió detectada en TAC: es confirma lesió ocupant d'espai intraparenquimàtica frontal esquerra, d'intensitat heterogènia, amb centre hiperintenso i halo hipointenso. Troballes en relació amb cavernoma.
+
+Estudi electroneurofisiológico: normal. No s'observen alteracions significatives en la conducció sensitiu-motora ni en la resposta reflecteix F dels nervis explorats de les quatre extremitats (N. mitjà, cubital, peroneal, tibial posterior, sural i peroneal superficial).
+
+Enfocament familiar i comunitari
+Treballa com a conserge de dos edificis. La seva dona no treballa. Té una filla amb Síndrome de Down. Compta amb el suport complet i total de la seva família durant la seva estada a l'hospital.
+
+Judici clínic (diagnòstic diferencial)
+Judici clínic: síndrome de Guillain-Barré. Cavernoma frontal esquerre com a troballa incidental.
+Com a diagnòstics diferencials que han estat descartats amb les proves complementàries es troben: Miastènia greu, Esclerosi lateral amiotròfica, Poliomielitis viral aguda, Botulisme, Borreliosis (malaltia de Lyme) i paràlisi hipocalemica aguda.
+
+Pla d'acció i evolució
+Durant el seu ingrés se li administren Immunoglobulines intravenoses amb bona i ràpida resposta clínica de la feblesa crural proximal.
+
+No requereix tractament a l'alta. És revisat en la consulta de Neurologia als dos mesos, el pacient després d'una millora progressiva durant el seu ingrés i en els dies posteriors, va quedar asimptomàtic. Té una pròxima revisió prevista en Neurologia en un any.

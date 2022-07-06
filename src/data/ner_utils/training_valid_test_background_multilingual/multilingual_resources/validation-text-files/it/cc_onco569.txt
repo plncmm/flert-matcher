@@ -1,0 +1,43 @@
+Anamnesi
+Un uomo di 26 anni senza precedenti è venuto al dipartimento di emergenza, dopo diverse occasioni, per il dolore nell'ipogastrio, che si irradia al FID e alla regione lombare. L'ha messo in relazione con una stitichezza persistente che richiede clisteri e lassativi, con un'evoluzione di 2-3 settimane. Riferisce una perdita di peso di circa 5 kg negli ultimi 2 mesi. Non ha altri sintomi B.
+
+Esame fisico
+Nessun reperto fisico rilevante, tranne la palpazione addominale con dolore generalizzato. Bordo epatico tra 2-3 cm con nodulazioni, indurite. C'era anche una massa palpabile a livello del FID. Il resto dell'esame non ha mostrato risultati rilevanti.
+Per tutti questi motivi, il paziente è stato ricoverato in ospedale per ulteriori indagini.
+
+Test complementari
+"Biochimica: BT 1.34, GOT 81, GPT 140, GGT 246, FA 154, LDH 716.
+"Emogramma: Hb 15,8, leucociti 11.620, PMN 74%, piastrine 238.000. Coagulazione: PT 51%, INR 1,62.
+"Profilo tiroideo normale. Sierologia HIV, IGRA e virus epatotropo negativi. betaHCG < 1,2.
+"MT: elevazione CA 125 121,1 (0,5-35); AFP, CEA, CA 15,3 CA 19,9, proteina S-100b e PSA nella norma.
+"Proteinogramma nella normalità". Elevazione discreta delle IgE.
+"Per quanto riguarda gli esami di imaging, l'ecografia addominale ha mostrato lesioni multiple compatibili con la malattia metastatica nel fegato, nella pelvi, probabilmente nei linfonodi e nell'ilo epatico secondari a una neoplasia non identificata.
+"Una TAC del torace, dell'addome e della pelvi ha mostrato diverse masse peritoneali pelviche, oltre a lesioni con anello di captazione periferico suggestivo di metastasi epatiche.
+"La biopsia con ago centrale della massa inguinale è stata eseguita e infine riportata come un tumore desmoplastico a piccole cellule rotonde.
+"Cilindri infiltrati da una proliferazione neoplastica che forma nidi e trabecole di piccole cellule rotonde indifferenziate con scarso citoplasma eosinofilo in uno stroma fibroso desmoplastico con cambiamento mixoide.
+"Cellule immunofenotipiche positive per desmina (con pattern di punti perinucleari), vimentina, enolasi debole, CK AE1/AE3 e CD99 debole, e negative per la proteina miogenina, S100, CD56 e sinaptofisina.
+"Lo studio di biologia molecolare, successivamente riportato, è positivo per la traslocazione di EWSR1.
+"Il FISH è positivo per la traslocazione del locus del gene EWSR1 (22q12.2).
+"Lo studio immunoistochimico di WT1 mostra un'intensa positività.
+"Successivamente, il paziente viene dimesso a casa dopo la biopsia.
+"È stato riammesso per dolori addominali, refrattari al trattamento analgesico. Il controllo sintomatico e il completamento dello studio di estensione sono stati quindi effettuati.
+"Scansione ossea senza evidenza di coinvolgimento osseo metastatico. Ventriculografia con LVEF al limite della normalità.
+
+Diagnosi
+Tumore desmoplastico a piccole cellule rotonde.
+
+Trattamento
+La strategia proposta era di iniziare il trattamento chemioterapico con ciclofosfamide, adriamicina e vincristina per sei cicli. Dopo tre cicli, il paziente è stato ricoverato in ospedale per tonsillite pustolosa, neutropenia febbrile GIV, trombopenia GIII e oromucosite GI. Infine, completa i tre cicli rimanenti.
+Nella valutazione radiologica a sei mesi, spiccano i seguenti risultati:
+"RM addome e bacino: risposta parziale marcata della lesione peritoneale, così come le metastasi al fegato.
+"TAC del torace, dell'addome e della pelvi: riduzione significativa del numero e delle dimensioni delle lesioni pelviche primarie e delle metastasi epatiche. Scomparsa delle adenopatie mesenteriche e retroperitoneali. Risposta parziale al trattamento secondo i criteri RECIST 1.1 per la malattia primaria e metastatica.
+
+Evoluzione
+Data la risposta al trattamento, il caso è stato presentato al comitato multidisciplinare per la valutazione chirurgica. La chirurgia R0 non era garantita, quindi si è deciso di continuare il trattamento chemioterapico con ifosfamide-etoposide per altri tre cicli.
+Dopo averli completati, si è deciso di consultare il Gruppo spagnolo di ricerca sul sarcoma (GEIS), che raccomandava di completare l'anno di trattamento con la chemioterapia e di rivalutare e provare tecniche locali.
+Dopo aver completato il regime di ifosfamide-etoposide, è stato eseguito un intervento di salvataggio. L'evoluzione postoperatoria è stata favorevole e il paziente è stato dimesso a casa dopo una settimana in ospedale.
+Il caso fu presentato di nuovo al Comitato Tumori, specificando che la resezione era stata R2, lasciando tutta la malattia epatica non resecabile e un pellet tumorale nella regione pelvica destra.
+Tre mesi dopo, il paziente è stato nuovamente ricoverato nel reparto di oncologia medica per il deterioramento delle condizioni generali, ascite tensiva e insufficienza epatica dovuta alla progressione del tumore.
+PET-CT scan: diffusione di metastasi epatiche e peritoneali, adenopatie retroperitoneali e metastasi polmonari incipienti, tutte suggestive della progressione del tumore.
+TAC del torace, dell'addome e della pelvi: progressione del tumore con metastasi al fegato. Prove di impianti peritoneali e presenza di adenopatia necrotica nel grasso pararettale.
+Infine, date le condizioni del paziente, si è deciso di iniziare le misure di comfort, con paracentesi di evacuazione e perfusione analgesica per controllare il dolore. Una settimana dopo, il paziente è morto.
