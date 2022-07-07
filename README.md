@@ -39,7 +39,7 @@ NER files will be placed in ner_data folder.
 
 Training parameters can be changed in `config.yaml` file
 
-Run the script `python main.py`. The results will be printed to console.
+Run the script `python main.py`. The results will be stored in the `results` folder as a csv. Inside the `main.py` are the methods called for predictions in each subtask, it is easy to change for what to split to predict (training, validation, test_background) by passing an argument of the split.
 
 ## Predictions
 
