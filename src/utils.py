@@ -6,7 +6,7 @@ from flair.data import Sentence
 
 
 PROJECT_DIR = Path(__file__).resolve().parents[1]
-DATA_PATH = PROJECT_DIR / "data" if not os.getenv("DATA_PATH") else Path(os.getenv("DATA_PATH"))
+DATA_PATH = PROJECT_DIR / "src" / "data" / "ner_utils" if not os.getenv("DATA_PATH") else Path(os.getenv("DATA_PATH"))
 DOCUMENTS_PATH = (
     DATA_PATH / "training_valid_test_background_multilingual"
     if not os.getenv("DOCUMENTS_PATH")
